@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 500469,
+    "reference_id": 203412,
+    "title": "Jethro (Reuel)",
+    "media_type": "Text",
+    "index_reference": "jethro (reuel)",
+    "language": "eng",
+    "content": "<p>Jethro, also known as Reuel (<a href=\"https://ref.ly/Exod2:16-Exod2:18\">Exodus 2:16–18</a>; <a href=\"https://ref.ly/Num10:29\">Numbers 10:29</a>), was the priest of Midian (<a href=\"https://ref.ly/Exod2:16\">Exodus 2:16</a>). Moses saved Jethro’s seven daughters from rough shepherds at a well and helped them water their flocks. At home, they told their father about this surprising encounter with an Egyptian. Jethro was grateful and invited Moses for a meal. Moses decided to settle there. Later, Jethro gave his daughter Zipporah to Moses in marriage.</p><p>While Moses lived in Midian with his father-in-law, he met God at the burning bush (<a href=\"https://ref.ly/Exod3:1-Exod3:2\">Exodus 3:1–2</a>). Before going to Egypt, Moses asked Jethro for permission to leave. Later, he sent his family to stay with Jethro during the exodus from Egypt.</p><p>While Moses and the Israelites were in the wilderness, Jethro returned with Moses&apos; family. Jethro heard about Yahweh saving his people from Egypt and recognized him as <span>greater than all other gods</span>. He worshiped Yahweh with a burnt offering and sacrifices, aligning himself with Israel (<a href=\"https://ref.ly/Exod18:11\">Exodus 18:11</a>). In response, Israel&apos;s leaders joined him for a sacrificial meal in God&apos;s presence (<a href=\"https://ref.ly/Exod18:12\">Exodus 18:12</a>).</p><p>Jethro noticed Moses was overwhelmed with managing the many Israelites. He advised Moses on organizing the people better and resolving their disputes (<a href=\"https://ref.ly/Exod18:13-Exod18:23\">Exodus 18:13–23</a>). Moses followed this advice and chose capable men to help as leaders and judges (<a href=\"https://ref.ly/Exod18:24-Exod18:27\">Exodus 18:24–27</a>). Jethro returned to Midian and did not interact further with Israel, but his son (<a href=\"https://ref.ly/Num10:29-Num10:33\">Numbers 10:29–33</a>) and other descendants later settled with the Israelites (<a href=\"https://ref.ly/Judg1:16\">Judges 1:16</a>; <a href=\"https://ref.ly/Judg4:11\">4:11</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Exod2:16-Exod2:25\">Exodus 2:16–25</a>; <a href=\"https://ref.ly/Exod3:1\">3:1</a>; <a href=\"https://ref.ly/Exod18:1-Exod18:27\">18:1–27</a>; <a href=\"https://ref.ly/Num10:29\">Numbers 10:29</a>; <a href=\"https://ref.ly/Judg1:16\">Judges 1:16</a>; <a href=\"https://ref.ly/Judg4:11\">4:11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02002016",
+          "start_ref_usfm": "EXO 2:16",
+          "end_ref": "02002016",
+          "end_ref_usfm": "EXO 2:16"
+        },
+        {
+          "start_ref": "02003001",
+          "start_ref_usfm": "EXO 3:1",
+          "end_ref": "02003001",
+          "end_ref_usfm": "EXO 3:1"
+        },
+        {
+          "start_ref": "02018011",
+          "start_ref_usfm": "EXO 18:11",
+          "end_ref": "02018011",
+          "end_ref_usfm": "EXO 18:11"
+        },
+        {
+          "start_ref": "02018012",
+          "start_ref_usfm": "EXO 18:12",
+          "end_ref": "02018012",
+          "end_ref_usfm": "EXO 18:12"
+        },
+        {
+          "start_ref": "04010029",
+          "start_ref_usfm": "NUM 10:29",
+          "end_ref": "04010029",
+          "end_ref_usfm": "NUM 10:29"
+        },
+        {
+          "start_ref": "07001016",
+          "start_ref_usfm": "JDG 1:16",
+          "end_ref": "07001016",
+          "end_ref_usfm": "JDG 1:16"
+        },
+        {
+          "start_ref": "07004011",
+          "start_ref_usfm": "JDG 4:11",
+          "end_ref": "07004011",
+          "end_ref_usfm": "JDG 4:11"
+        },
+        {
+          "start_ref": "02018013",
+          "start_ref_usfm": "EXO 18:13",
+          "end_ref": "02018023",
+          "end_ref_usfm": "EXO 18:23"
+        },
+        {
+          "start_ref": "02018001",
+          "start_ref_usfm": "EXO 18:1",
+          "end_ref": "02018027",
+          "end_ref_usfm": "EXO 18:27"
+        },
+        {
+          "start_ref": "04010029",
+          "start_ref_usfm": "NUM 10:29",
+          "end_ref": "04010033",
+          "end_ref_usfm": "NUM 10:33"
+        },
+        {
+          "start_ref": "02002016",
+          "start_ref_usfm": "EXO 2:16",
+          "end_ref": "02002018",
+          "end_ref_usfm": "EXO 2:18"
+        },
+        {
+          "start_ref": "02002016",
+          "start_ref_usfm": "EXO 2:16",
+          "end_ref": "02002025",
+          "end_ref_usfm": "EXO 2:25"
+        },
+        {
+          "start_ref": "02003001",
+          "start_ref_usfm": "EXO 3:1",
+          "end_ref": "02003002",
+          "end_ref_usfm": "EXO 3:2"
+        },
+        {
+          "start_ref": "02018024",
+          "start_ref_usfm": "EXO 18:24",
+          "end_ref": "02018027",
+          "end_ref_usfm": "EXO 18:27"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

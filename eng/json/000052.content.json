@@ -1,0 +1,124 @@
+[
+  {
+    "content_id": 500512,
+    "reference_id": 203455,
+    "title": "Jehoshaphat",
+    "media_type": "Text",
+    "index_reference": "jehoshaphat",
+    "language": "eng",
+    "content": "<p>Jehoshaphat became the fourth king of Judah after his father Asa, who ruled from 872 to 848 BC. Like Hezekiah and Josiah, Jehoshaphat trusted the Lord throughout his life. He worked to remove most pagan worship from Israel (<a href=\"https://ref.ly/2Chr17:6\">2 Chronicles 17:6</a>).</p><p>Jehoshaphat continued his father Asa’s religious reforms but changed his foreign policy. He stopped Judah’s war with Israel over their borders (see <a href=\"https://ref.ly/1Kgs22:2\">1 Kings 22:2</a>). He allied with Ahab. To strengthen this alliance, he arranged for his son Jehoram to marry Ahab’s daughter Athaliah (<a href=\"https://ref.ly/2Chr18:1-2Chr18:2\">2 Chronicles 18:1–2</a>; <a href=\"https://ref.ly/2Kgs8:18\">2 Kings 8:18</a>). He also supported the north in wars against the Arameans and Moabites (<a href=\"https://ref.ly/2Chr18:3-2Chr18:34\">2 Chronicles 18:3–34</a>; <a href=\"https://ref.ly/1Kgs22:1-1Kgs22:53\">1 Kings 22</a>; <a href=\"https://ref.ly/2Kgs3:4-2Kgs3:27\">2 Kings 3:4–27</a>). The prophet Jehu criticized Jehoshaphat for his unwise alliance with Israel (<a href=\"https://ref.ly/2Chr19:1-2Chr19:3\">2 Chronicles 19:1–3</a>). This led to his son Jehoram being influenced by Ahab and Jezebel. Jehoram and his son Ahaziah turned Judah toward idol worship.</p><p>During his reign, Jehoshaphat kept the worship of the Lord pure. He closed the temples of prostitution (<a href=\"https://ref.ly/1Kgs22:46\">1 Kings 22:46</a>) and sent teachers of God&apos;s law throughout the land (<a href=\"https://ref.ly/2Chr17:7-2Chr17:9\">2 Chronicles 17:7–9</a>). He also set up a system of judges and told them to act as the Lord&apos;s representatives so that justice would prevail (<a href=\"https://ref.ly/2Chr19:4-2Chr19:7\">2 Chronicles 19:4–7</a>). He appointed Levites, priests, and family leaders to handle religious cases and resolve disputes among citizens (<a href=\"https://ref.ly/2Chr19:8-2Chr19:10\">2 Chronicles 19:8–10</a>).</p><p>Before going to battle, Jehoshaphat insisted on hearing from a true prophet of the Lord. In one of the most powerful descriptions of war in the Old Testament, Jehoshaphat spoke to the army before entering battle. As a result, God caused the armies from Ammon, Moab, and their allies to turn against each other (<a href=\"https://ref.ly/2Chr20:1-2Chr20:37\">2 Chronicles 20</a>).</p><p>Jehoshaphat died at around sixty years old and was buried in Jerusalem. His son Jehoram became the next king of Judah (<a href=\"https://ref.ly/2Chr21:1\">2 Chronicles 21:1</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Kgs15:24\">1 Kings 15:24</a>; <a href=\"https://ref.ly/1Kgs22:1-1Kgs22:50\">22:1–50</a>; <a href=\"https://ref.ly/2Kgs3:1-2Kgs3:27\">2 Kings 3:1–27</a>; <a href=\"https://ref.ly/2Chr17:1-2Chr21:1\">2 Chronicles 17:1–21:1</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11015024",
+          "start_ref_usfm": "1KI 15:24",
+          "end_ref": "11015024",
+          "end_ref_usfm": "1KI 15:24"
+        },
+        {
+          "start_ref": "11022002",
+          "start_ref_usfm": "1KI 22:2",
+          "end_ref": "11022002",
+          "end_ref_usfm": "1KI 22:2"
+        },
+        {
+          "start_ref": "11022046",
+          "start_ref_usfm": "1KI 22:46",
+          "end_ref": "11022046",
+          "end_ref_usfm": "1KI 22:46"
+        },
+        {
+          "start_ref": "12008018",
+          "start_ref_usfm": "2KI 8:18",
+          "end_ref": "12008018",
+          "end_ref_usfm": "2KI 8:18"
+        },
+        {
+          "start_ref": "14017006",
+          "start_ref_usfm": "2CH 17:6",
+          "end_ref": "14017006",
+          "end_ref_usfm": "2CH 17:6"
+        },
+        {
+          "start_ref": "14021001",
+          "start_ref_usfm": "2CH 21:1",
+          "end_ref": "14021001",
+          "end_ref_usfm": "2CH 21:1"
+        },
+        {
+          "start_ref": "12003004",
+          "start_ref_usfm": "2KI 3:4",
+          "end_ref": "12003027",
+          "end_ref_usfm": "2KI 3:27"
+        },
+        {
+          "start_ref": "12003001",
+          "start_ref_usfm": "2KI 3:1",
+          "end_ref": "12003027",
+          "end_ref_usfm": "2KI 3:27"
+        },
+        {
+          "start_ref": "11022001",
+          "start_ref_usfm": "1KI 22:1",
+          "end_ref": "11022053",
+          "end_ref_usfm": "1KI 22:53"
+        },
+        {
+          "start_ref": "14017007",
+          "start_ref_usfm": "2CH 17:7",
+          "end_ref": "14017009",
+          "end_ref_usfm": "2CH 17:9"
+        },
+        {
+          "start_ref": "14018001",
+          "start_ref_usfm": "2CH 18:1",
+          "end_ref": "14018002",
+          "end_ref_usfm": "2CH 18:2"
+        },
+        {
+          "start_ref": "14019001",
+          "start_ref_usfm": "2CH 19:1",
+          "end_ref": "14019003",
+          "end_ref_usfm": "2CH 19:3"
+        },
+        {
+          "start_ref": "14019008",
+          "start_ref_usfm": "2CH 19:8",
+          "end_ref": "14019010",
+          "end_ref_usfm": "2CH 19:10"
+        },
+        {
+          "start_ref": "14020001",
+          "start_ref_usfm": "2CH 20:1",
+          "end_ref": "14020037",
+          "end_ref_usfm": "2CH 20:37"
+        },
+        {
+          "start_ref": "14018003",
+          "start_ref_usfm": "2CH 18:3",
+          "end_ref": "14018034",
+          "end_ref_usfm": "2CH 18:34"
+        },
+        {
+          "start_ref": "14019004",
+          "start_ref_usfm": "2CH 19:4",
+          "end_ref": "14019007",
+          "end_ref_usfm": "2CH 19:7"
+        },
+        {
+          "start_ref": "11022001",
+          "start_ref_usfm": "1KI 22:1",
+          "end_ref": "11022050",
+          "end_ref_usfm": "1KI 22:50"
+        },
+        {
+          "start_ref": "14017001",
+          "start_ref_usfm": "2CH 17:1",
+          "end_ref": "14021001",
+          "end_ref_usfm": "2CH 21:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

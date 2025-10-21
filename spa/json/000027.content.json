@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 658347,
+    "reference_id": 203422,
+    "title": "Débora",
+    "media_type": "Text",
+    "index_reference": "débora",
+    "language": "spa",
+    "content": "<p>La profetisa Débora fue una de las primeras juezas de Israel. Era una mujer íntegra y devota al Señor. Como profetisa, recibía mensajes divinos, y como jueza, resolvía disputas legales. A menudo la llamaban “una madre en Israel” (ver <a href=\"https://ref.ly/Judg5:7\">Jueces 5.7</a>).</p><p>Durante la época de Débora, la gente estaba cometiendo más actos malvados. Abandonaron los caminos de Dios, y las tribus de Israel no estaban unidas. Israel estaba haciendo &quot;lo malo ante los ojos del Señor&quot;. (<a href=\"https://ref.ly/Judg4:1\">Jueces 4.1</a>). Entonces, Dios entregó a Israel a un opresor, Jabín de Canaán. Una vez más, Israel clamó al Señor por ayuda (<a href=\"https://ref.ly/Judg4:3\">Jueces 4.3</a>).</p><p>Dios llamó a Barac para luchar contra Sísara, el comandante del ejército de Jabín, a través de Débora. Sin embargo, Barac no mostró entusiasmo ni valentía. Insistió en que Débora lo acompañara. Débora aceptó, pero advirtió que una mujer recibiría la gloria por la victoria, no Barac. Esto se cumplió cuando Barac derrotó a Sísara y su ejército, pero Jael, la mujer que mató a Sísara, recibió la gloria. Barac demostró poco coraje o liderazgo, lo cual contrastó con el valor y liderazgo de Débora y Jael. Las acciones de Débora condujeron a cuarenta años de paz para Israel (<a href=\"https://ref.ly/Judg5:31\">Jueces 5.31</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Judg4:1-Judg5:31\">Jueces 4.1–5.31</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07004001",
+          "start_ref_usfm": "JDG 4:1",
+          "end_ref": "07004001",
+          "end_ref_usfm": "JDG 4:1"
+        },
+        {
+          "start_ref": "07004003",
+          "start_ref_usfm": "JDG 4:3",
+          "end_ref": "07004003",
+          "end_ref_usfm": "JDG 4:3"
+        },
+        {
+          "start_ref": "07005007",
+          "start_ref_usfm": "JDG 5:7",
+          "end_ref": "07005007",
+          "end_ref_usfm": "JDG 5:7"
+        },
+        {
+          "start_ref": "07005031",
+          "start_ref_usfm": "JDG 5:31",
+          "end_ref": "07005031",
+          "end_ref_usfm": "JDG 5:31"
+        },
+        {
+          "start_ref": "07004001",
+          "start_ref_usfm": "JDG 4:1",
+          "end_ref": "07005031",
+          "end_ref_usfm": "JDG 5:31"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

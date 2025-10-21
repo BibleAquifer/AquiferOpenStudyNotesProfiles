@@ -1,0 +1,112 @@
+[
+  {
+    "content_id": 654232,
+    "reference_id": 203431,
+    "title": "अमालेकियों",
+    "media_type": "Text",
+    "index_reference": "अमालेकियों",
+    "language": "hin",
+    "content": "<p>अमालेकियों के पूर्वज अमालेक थे, जो एसाव के पोते थे (<a href=\"https://ref.ly/Gen36:12\">उत 36:12</a>; <a href=\"https://ref.ly/1Chr1:36\">1 इति 1:36</a>)। वे घुमंतू चरवाहे थे। दक्षिण देश में उनकी सीमा बेर्शेबा के दक्षिण से दक्षिण-पूर्व तक फैली हुई थी, जो एलत और एस्योनगेबेर तक पहुँचता था। वे सम्भवतः पश्चिम में तटीय मैदान में, पूर्व में अराबा के जंगल में, और सम्भवतः अरब में छापेमारी करते थे।</p><p>अमालेकी इस्राएल के गहरे शत्रु थे। जब उन्होंने इस्राएल पर चढ़ाई की तब इस्राएल ने पहली बार अमालेकी योद्धाओं से सीनै के पास रपीदीम में सामना किया (<a href=\"https://ref.ly/Exod17:8-Exod17:16\">निर्ग 17:8–16</a>)। यहोशू और इस्राएली सेना ने इस युद्ध में अमालेकियों को हरा दिया। बाद में, अमालेकियों ने इस्राएल को अनाज्ञाकारी प्रयास के साथ प्रतिज्ञा के देश में प्रवेश करने से रोक दिया (<a href=\"https://ref.ly/Num14:39-Num14:45\">गिन 14:39–45</a>)।</p><p>उनकी शत्रुता के कारण, मूसा ने इस्राएल से कहा कि वे उन्हें नाश कर दें (<a href=\"https://ref.ly/Deut25:17-Deut25:19\">व्य.वि. 25:17–19</a>)। लेकिन अमालेकी दक्षिण देश में बसे रहे (देखें <a href=\"https://ref.ly/Judg3:12-Judg3:14\">न्या 3:12–14</a>; <a href=\"https://ref.ly/Judg6:33\">6:33</a>; <a href=\"https://ref.ly/1Sam14:47-1Sam14:48\">1 शमू 14:47–48</a>; <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">15:1–35</a>)। जो लोग बच गए, वे इस्राएल के शत्रु बने रहे (<a href=\"https://ref.ly/1Sam27:8\">1 शमू 27:8</a>; <a href=\"https://ref.ly/1Sam30:1-1Sam30:20\">30:1–20</a>; <a href=\"https://ref.ly/2Sam8:11-2Sam8:12\">2 शमू 8:11–12</a>; <a href=\"https://ref.ly/Ps83:1-Ps83:8\">भज 83:1–8</a>)। यह बचे हुए दल अन्ततः राजा हिजकिय्याह के शासनकाल के समय नाश कर दिए गए (<a href=\"https://ref.ly/1Chr4:42-1Chr4:43\">1 इति 4:42–43</a>)। एस्तेर की पुस्तक में, राजा अगाग के वंशज हामान ने अन्त तक अपनी शत्रुता दिखाई (<a href=\"https://ref.ly/Esth3:1-Esth3:15\">एस्त 3</a>; देखें <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">1 शमू 15</a>)।</p><p><u>अधिक अध्ययन के लिये अंश</u></p><p><a href=\"https://ref.ly/1Sam30:1-1Sam30:31\">1 शमूएल 30:1–31</a></p><p></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01036012",
+          "start_ref_usfm": "GEN 36:12",
+          "end_ref": "01036012",
+          "end_ref_usfm": "GEN 36:12"
+        },
+        {
+          "start_ref": "07006033",
+          "start_ref_usfm": "JDG 6:33",
+          "end_ref": "07006033",
+          "end_ref_usfm": "JDG 6:33"
+        },
+        {
+          "start_ref": "09027008",
+          "start_ref_usfm": "1SA 27:8",
+          "end_ref": "09027008",
+          "end_ref_usfm": "1SA 27:8"
+        },
+        {
+          "start_ref": "13001036",
+          "start_ref_usfm": "1CH 1:36",
+          "end_ref": "13001036",
+          "end_ref_usfm": "1CH 1:36"
+        },
+        {
+          "start_ref": "02017008",
+          "start_ref_usfm": "EXO 17:8",
+          "end_ref": "02017016",
+          "end_ref_usfm": "EXO 17:16"
+        },
+        {
+          "start_ref": "09015001",
+          "start_ref_usfm": "1SA 15:1",
+          "end_ref": "09015035",
+          "end_ref_usfm": "1SA 15:35"
+        },
+        {
+          "start_ref": "04014039",
+          "start_ref_usfm": "NUM 14:39",
+          "end_ref": "04014045",
+          "end_ref_usfm": "NUM 14:45"
+        },
+        {
+          "start_ref": "05025017",
+          "start_ref_usfm": "DEU 25:17",
+          "end_ref": "05025019",
+          "end_ref_usfm": "DEU 25:19"
+        },
+        {
+          "start_ref": "07003012",
+          "start_ref_usfm": "JDG 3:12",
+          "end_ref": "07003014",
+          "end_ref_usfm": "JDG 3:14"
+        },
+        {
+          "start_ref": "09014047",
+          "start_ref_usfm": "1SA 14:47",
+          "end_ref": "09014048",
+          "end_ref_usfm": "1SA 14:48"
+        },
+        {
+          "start_ref": "09030001",
+          "start_ref_usfm": "1SA 30:1",
+          "end_ref": "09030020",
+          "end_ref_usfm": "1SA 30:20"
+        },
+        {
+          "start_ref": "10008011",
+          "start_ref_usfm": "2SA 8:11",
+          "end_ref": "10008012",
+          "end_ref_usfm": "2SA 8:12"
+        },
+        {
+          "start_ref": "17003001",
+          "start_ref_usfm": "EST 3:1",
+          "end_ref": "17003015",
+          "end_ref_usfm": "EST 3:15"
+        },
+        {
+          "start_ref": "09030001",
+          "start_ref_usfm": "1SA 30:1",
+          "end_ref": "09030031",
+          "end_ref_usfm": "1SA 30:31"
+        },
+        {
+          "start_ref": "13004042",
+          "start_ref_usfm": "1CH 4:42",
+          "end_ref": "13004043",
+          "end_ref_usfm": "1CH 4:43"
+        },
+        {
+          "start_ref": "19083001",
+          "start_ref_usfm": "PSA 83:1",
+          "end_ref": "19083008",
+          "end_ref_usfm": "PSA 83:8"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

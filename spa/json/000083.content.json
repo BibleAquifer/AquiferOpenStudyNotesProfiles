@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 658406,
+    "reference_id": 203481,
+    "title": "Los saduceos",
+    "media_type": "Text",
+    "index_reference": "los saduceos",
+    "language": "spa",
+    "content": "<p>Los saduceos eran un grupo judío importante compuesto por sacerdotes y sus familias. Se diferenciaban de los fariseos, otro grupo judío, porque los fariseos eran personas comunes (&quot;laicos&quot;), que no eran sacerdotes. Probablemente vivían cerca de Jerusalén y controlaban el sistema del templo (<a href=\"https://ref.ly/Acts4:1-Acts4:2\">Hechos 4:1–2,</a> <a href=\"https://ref.ly/Acts5:17\">5:17</a>). Estos líderes poderosos y ricos (aristócratas), actuaban como mediadores entre Roma e Israel (ver Josefo, <em>Antigüedades</em> 13.10.6; <em>Guerra</em> 2.10.5). No gozaban de mucho favor o influencia entre el pueblo (Josefo, <em>Antigüedades</em> 18.1.4).</p><p>El término <em>Sadduceo</em> probablemente se origina de <em>Sadoc,</em> el sumo sacerdote durante los reinados del Rey David y el Rey Salomón (<a href=\"https://ref.ly/2Sam8:17\">2 Samuel 8:17,</a> <a href=\"https://ref.ly/2Sam15:24\">15:24,</a> <a href=\"https://ref.ly/1Kgs1:8\">1 Reyes 1:8,</a><a href=\"https://ref.ly/1Kgs1:32-1Kgs1:48\"> 32–48</a>). Ambas palabras comparten la misma raíz hebrea. La mención histórica más antigua de los saduceos se encuentra durante el reinado de Juan Hircano, de 135 a 104 a.C., un descendiente de los Macabeos (Josefo, <em>Antigüedades</em> 13.10.6), aunque claramente existían antes.</p><p>Sus opiniones sobre Dios a menudo diferían de las de los fariseos (<a href=\"https://ref.ly/Acts23:8\">Hechos 23:8</a>; ver también <a href=\"https://ref.ly/Acts4:1-Acts4:2\">Hechos 4:1–2</a>). Los saduceos otorgaban autoridad principal al Pentateuco y rechazaban la tradición oral que los fariseos valoraban. A diferencia de los fariseos, los saduceos no creían en:</p><ul><li><p>la resurrección de los muertos (ver <a href=\"https://ref.ly/Matt22:23-Matt22:33\">Mateo 22:23–33</a>),</p></li><li><p>seres angelicales (ver <a href=\"https://ref.ly/Acts23:8\">Hechos 23:8</a>), o</p></li><li><p>el concepto del juicio final.</p></li></ul><p>Sin embargo, los fariseos creían firmemente en la resurrección (el regreso a la vida después de la muerte). Incluso apoyaron a Pablo contra los saduceos cuando estaba siendo juzgado por perturbar el templo (<a href=\"https://ref.ly/Acts23:6-Acts23:10\">Hechos 23:6–10</a>).</p><p>A pesar de sus diferencias, los fariseos y los saduceos se unieron contra Jesús. Los fariseos se opusieron a Jesús porque él no seguía sus tradiciones orales. Los saduceos se opusieron a él porque creía en ángeles, demonios, el juicio final y la resurrección.</p><p>Cuando el templo fue destruido en el año 70 d.C., los saduceos desaparecieron. No dejaron ningún registro escrito. Todo nuestro conocimiento sobre los saduceos proviene de sus oponentes, por lo que nuestra comprensión de ellos es limitada.</p><p><u>Pasajes para estudio complementario</u></p><p><a href=\"https://ref.ly/Matt3:7\">Mateo 3:7,</a> <a href=\"https://ref.ly/Matt16:1-Matt16:12\">16:1–12,</a> <a href=\"https://ref.ly/Matt22:23-Matt22:33\">22:23–33,</a> <a href=\"https://ref.ly/Mark12:18-Mark12:27\">Marcos 12:18–27,</a> <a href=\"https://ref.ly/Luke20:27-Luke20:40\">Lucas 20:27–40,</a> <a href=\"https://ref.ly/Acts4:1-Acts4:2\">Hechos 4:1–2,</a> <a href=\"https://ref.ly/Acts5:17-Acts5:18\">5:17–18,</a> <a href=\"https://ref.ly/Acts23:6-Acts23:10\">23:6–10</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10008017",
+          "start_ref_usfm": "2SA 8:17",
+          "end_ref": "10008017",
+          "end_ref_usfm": "2SA 8:17"
+        },
+        {
+          "start_ref": "10015024",
+          "start_ref_usfm": "2SA 15:24",
+          "end_ref": "10015024",
+          "end_ref_usfm": "2SA 15:24"
+        },
+        {
+          "start_ref": "11001008",
+          "start_ref_usfm": "1KI 1:8",
+          "end_ref": "11001008",
+          "end_ref_usfm": "1KI 1:8"
+        },
+        {
+          "start_ref": "40003007",
+          "start_ref_usfm": "MAT 3:7",
+          "end_ref": "40003007",
+          "end_ref_usfm": "MAT 3:7"
+        },
+        {
+          "start_ref": "44005017",
+          "start_ref_usfm": "ACT 5:17",
+          "end_ref": "44005017",
+          "end_ref_usfm": "ACT 5:17"
+        },
+        {
+          "start_ref": "44023008",
+          "start_ref_usfm": "ACT 23:8",
+          "end_ref": "44023008",
+          "end_ref_usfm": "ACT 23:8"
+        },
+        {
+          "start_ref": "40016001",
+          "start_ref_usfm": "MAT 16:1",
+          "end_ref": "40016012",
+          "end_ref_usfm": "MAT 16:12"
+        },
+        {
+          "start_ref": "41012018",
+          "start_ref_usfm": "MRK 12:18",
+          "end_ref": "41012027",
+          "end_ref_usfm": "MRK 12:27"
+        },
+        {
+          "start_ref": "40022023",
+          "start_ref_usfm": "MAT 22:23",
+          "end_ref": "40022033",
+          "end_ref_usfm": "MAT 22:33"
+        },
+        {
+          "start_ref": "42020027",
+          "start_ref_usfm": "LUK 20:27",
+          "end_ref": "42020040",
+          "end_ref_usfm": "LUK 20:40"
+        },
+        {
+          "start_ref": "44005017",
+          "start_ref_usfm": "ACT 5:17",
+          "end_ref": "44005018",
+          "end_ref_usfm": "ACT 5:18"
+        },
+        {
+          "start_ref": "44004001",
+          "start_ref_usfm": "ACT 4:1",
+          "end_ref": "44004002",
+          "end_ref_usfm": "ACT 4:2"
+        },
+        {
+          "start_ref": "44023006",
+          "start_ref_usfm": "ACT 23:6",
+          "end_ref": "44023010",
+          "end_ref_usfm": "ACT 23:10"
+        },
+        {
+          "start_ref": "11001032",
+          "start_ref_usfm": "1KI 1:32",
+          "end_ref": "11001048",
+          "end_ref_usfm": "1KI 1:48"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

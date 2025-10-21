@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 658545,
+    "reference_id": 203468,
+    "title": "Ezequiel",
+    "media_type": "Text",
+    "index_reference": "ezequiel",
+    "language": "por",
+    "content": "<p>Ezequiel era um sacerdote e profeta. Ele nasceu por volta de 623 a.C. Provavelmente cresceu em Jerusalém e era casado (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ez 24.16–18</a>). Em 597 a.C., ele foi exilado para a Babilônia com Jeoaquim e viveu junto ao Rio Quebar. Ele recebeu seu chamado como profeta na Babilônia em 31 de julho de 593 a.C. (<a href=\"https://ref.ly/Ezek1:1\">Ez 1.1</a>). Aprendemos sobre sua vida pessoal no livro que leva seu nome.</p><p>Ezequiel frequentemente usava ações incomuns para enfatizar suas mensagens proféticas de Deus. Por exemplo, ele demonstrou a grave escassez de alimentos durante o cerco final de Jerusalém comendo comida cozida sobre esterco (<a href=\"https://ref.ly/Ezek4:12\">Ez 4.12</a>). Outra vez, ele ficou imóvel por 430 dias, com cada dia representando um ano do pecado de Israel e Judá (<a href=\"https://ref.ly/Ezek4:4-Ezek4:7\">Ez 4.4–7</a>). Quando a esposa de Ezequiel morreu repentinamente, ele não teve permissão para lamentá-la publicamente (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ez 24.16–18</a>); a morte dela serviu como um sério aviso do que aconteceria em Judá (<a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">Ez 24.15–27</a>). As ações incomuns de Ezequiel tinham o objetivo de chamar a atenção das pessoas.</p><p>Inicialmente, as pessoas rejeitaram as mensagens de Ezequiel. No entanto, suas profecias se mostraram verdadeiras, e a nação parou de adorar falsos deuses. Ele ensinou sobre santidade, pureza, ressurreição e lei ritual (regras e práticas religiosas). Sua mensagem esperançosa encorajou os exilados a permanecerem fiéis durante o cativeiro. Após o retorno, inspirou-os a esperar por um cumprimento maior.</p><p>Não sabemos como Ezequiel morreu, e ele não é mencionado em outro lugar no Antigo Testamento. O Novo Testamento refere-se às profecias de Ezequiel mais de sessenta vezes, principalmente no livro de Apocalipse. A visão profética de Ezequiel ia além de seu futuro próximo, contemplando o julgamento final (a decisão definitiva de Deus sobre todas as pessoas) e a grande esperança do céu.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Ezek2:1-Ezek2:10\">Ezequiel 2.1–10</a>; <a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">24.15–27</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "26001001",
+          "start_ref_usfm": "EZK 1:1",
+          "end_ref": "26001001",
+          "end_ref_usfm": "EZK 1:1"
+        },
+        {
+          "start_ref": "26004012",
+          "start_ref_usfm": "EZK 4:12",
+          "end_ref": "26004012",
+          "end_ref_usfm": "EZK 4:12"
+        },
+        {
+          "start_ref": "26024016",
+          "start_ref_usfm": "EZK 24:16",
+          "end_ref": "26024018",
+          "end_ref_usfm": "EZK 24:18"
+        },
+        {
+          "start_ref": "26024015",
+          "start_ref_usfm": "EZK 24:15",
+          "end_ref": "26024027",
+          "end_ref_usfm": "EZK 24:27"
+        },
+        {
+          "start_ref": "26002001",
+          "start_ref_usfm": "EZK 2:1",
+          "end_ref": "26002010",
+          "end_ref_usfm": "EZK 2:10"
+        },
+        {
+          "start_ref": "26004004",
+          "start_ref_usfm": "EZK 4:4",
+          "end_ref": "26004007",
+          "end_ref_usfm": "EZK 4:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

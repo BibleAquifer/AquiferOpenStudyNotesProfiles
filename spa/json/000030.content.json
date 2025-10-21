@@ -1,0 +1,112 @@
+[
+  {
+    "content_id": 658407,
+    "reference_id": 203482,
+    "title": "El Alto Consejo Judío",
+    "media_type": "Text",
+    "index_reference": "el alto consejo judío",
+    "language": "spa",
+    "content": "<p>El alto consejo de líderes judíos en Jerusalén tenía un poder significativo en el gobierno del pueblo judío. Tradicionalmente se le llama el Sanedrín, una transliteración de la palabra griega <em>sunedrion</em>, que significa &quot;consejo&quot;.</p><p>La tradición judía sostiene que el Sanedrín comenzó cuando Moisés eligió a setenta ancianos (<a href=\"https://ref.ly/Num11:16\">Números 11:16</a>). Sin embargo, la referencia más antigua se encuentra en las <em>Antigüedades</em> de Josefo 12.3.3, de la época de Antíoco el Grande, entre 223 y 187 a.C. El Sanedrín probablemente se originó como un grupo de líderes autogobernados bajo el dominio persa (ver <a href=\"https://ref.ly/Ezra5:5-Ezra5:10\">Esdras 5:5–10,</a> <a href=\"https://ref.ly/Neh2:16\">Nehemías 2:16</a>). La clase sacerdotal, encabezada por el sumo sacerdote, controlaba el alto consejo. Los gobernantes romanos y los fariseos influían en estos sacerdotes en diferentes grados. Herodes el Grande ejerció una fuerte influencia sobre las actividades del Sanedrín.</p><p>El Sanedrín se encargaba de los asuntos legales y religiosos del judaísmo. Esto incluía tomar decisiones judiciales que no se resolvían en tribunales más pequeños, conocidos como &quot;sanedrines locales&quot;, así como gestionar la justicia penal y los arrestos (ver <a href=\"https://ref.ly/Acts9:1-Acts9:2\">Hechos 9:1–2</a>). También tomaban decisiones oficiales sobre asuntos judíos, aunque estas decisiones no eran ejecutables por sí mismas. El Sanedrín no podía ejecutar criminales por su cuenta (<a href=\"https://ref.ly/John18:31\">Juan 18:31</a>), pero podía hacerlo con la aprobación romana.</p><p>La destrucción de Jerusalén en el año 70 d.C. puso fin al papel del alto consejo como líder del judaísmo.</p><p><u>Pasajes para estudio complementario</u></p><p><a href=\"https://ref.ly/Matt26:57-Matt26:68\">Mateo 26:57–68,</a> <a href=\"https://ref.ly/Mark14:53-Mark14:65\">Marcos 14:53–65,</a> <a href=\"https://ref.ly/Mark15:1\">15:1</a>, <a href=\"https://ref.ly/Mark15:43\">43,</a> <a href=\"https://ref.ly/Luke22:66-Luke22:71\">Lucas 22:66–71,</a><a href=\"https://ref.ly/Luke23:50-Luke23:54\">23:50–54,</a> <a href=\"https://ref.ly/John11:47-John11:53\">Juan 11:47–53,</a> <a href=\"https://ref.ly/Acts5:21-Acts5:41\">Hechos 5:21–41,</a> <a href=\"https://ref.ly/Acts6:11-Acts8:1\">6:11–8:1,</a> <a href=\"https://ref.ly/Acts22:30-Acts23:10\">22:30–23:10,</a> <a href=\"https://ref.ly/Acts23:26-Acts23:30\">23:26–30</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04011016",
+          "start_ref_usfm": "NUM 11:16",
+          "end_ref": "04011016",
+          "end_ref_usfm": "NUM 11:16"
+        },
+        {
+          "start_ref": "16002016",
+          "start_ref_usfm": "NEH 2:16",
+          "end_ref": "16002016",
+          "end_ref_usfm": "NEH 2:16"
+        },
+        {
+          "start_ref": "41015001",
+          "start_ref_usfm": "MRK 15:1",
+          "end_ref": "41015001",
+          "end_ref_usfm": "MRK 15:1"
+        },
+        {
+          "start_ref": "41015043",
+          "start_ref_usfm": "MRK 15:43",
+          "end_ref": "41015043",
+          "end_ref_usfm": "MRK 15:43"
+        },
+        {
+          "start_ref": "43018031",
+          "start_ref_usfm": "JHN 18:31",
+          "end_ref": "43018031",
+          "end_ref_usfm": "JHN 18:31"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026068",
+          "end_ref_usfm": "MAT 26:68"
+        },
+        {
+          "start_ref": "41014053",
+          "start_ref_usfm": "MRK 14:53",
+          "end_ref": "41014065",
+          "end_ref_usfm": "MRK 14:65"
+        },
+        {
+          "start_ref": "44022030",
+          "start_ref_usfm": "ACT 22:30",
+          "end_ref": "44023010",
+          "end_ref_usfm": "ACT 23:10"
+        },
+        {
+          "start_ref": "44009001",
+          "start_ref_usfm": "ACT 9:1",
+          "end_ref": "44009002",
+          "end_ref_usfm": "ACT 9:2"
+        },
+        {
+          "start_ref": "44023026",
+          "start_ref_usfm": "ACT 23:26",
+          "end_ref": "44023030",
+          "end_ref_usfm": "ACT 23:30"
+        },
+        {
+          "start_ref": "42022066",
+          "start_ref_usfm": "LUK 22:66",
+          "end_ref": "42022071",
+          "end_ref_usfm": "LUK 22:71"
+        },
+        {
+          "start_ref": "15005005",
+          "start_ref_usfm": "EZR 5:5",
+          "end_ref": "15005010",
+          "end_ref_usfm": "EZR 5:10"
+        },
+        {
+          "start_ref": "42023050",
+          "start_ref_usfm": "LUK 23:50",
+          "end_ref": "42023054",
+          "end_ref_usfm": "LUK 23:54"
+        },
+        {
+          "start_ref": "43011047",
+          "start_ref_usfm": "JHN 11:47",
+          "end_ref": "43011053",
+          "end_ref_usfm": "JHN 11:53"
+        },
+        {
+          "start_ref": "44005021",
+          "start_ref_usfm": "ACT 5:21",
+          "end_ref": "44005041",
+          "end_ref_usfm": "ACT 5:41"
+        },
+        {
+          "start_ref": "44006011",
+          "start_ref_usfm": "ACT 6:11",
+          "end_ref": "44008001",
+          "end_ref_usfm": "ACT 8:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 500546,
+    "reference_id": 203489,
+    "title": "Martha, Mary, and Lazarus",
+    "media_type": "Text",
+    "index_reference": "martha, mary, and lazarus",
+    "language": "eng",
+    "content": "<p>The sisters Martha and Mary lived with their brother Lazarus in Bethany, near Jerusalem. Jesus loved this family and spent time with them. The Gospels of Luke and John mention Martha and Mary, while Lazarus appears only in John. This Lazarus is not the beggar from <a href=\"https://ref.ly/Luke16:19-Luke16:31\">Luke 16:19–31</a>.</p><p>Luke’s account of these two sisters (<a href=\"https://ref.ly/Luke10:38-Luke10:42\">Luke 10:38–42</a>) highlights the contrast between Martha and Mary. When Jesus visited their home, Martha was busy in the kitchen and became upset with her sister for not helping her prepare the meal. Jesus defended Mary’s choice to sit and learn from him, saying it was the most important thing.</p><p>The Gospel of John tells the story of Jesus raising Lazarus from the dead (<a href=\"https://ref.ly/John11:1-John11:44\">John 11:1–44</a>). Jesus arrived in Bethany four days after Lazarus died. The sisters were upset that Jesus had not come earlier to heal their brother. Jesus felt deeply moved by the family&apos;s and friends&apos; tears. He went to the tomb and told Lazarus to come out. To everyone&apos;s surprise, Lazarus came out, still wrapped in burial cloths. This miracle shows Jesus as the giver of eternal life (<a href=\"https://ref.ly/John11:25-John11:26\">John 11:25–26</a>). Ironically, this act also pushed the Jewish leaders to plan Jesus&apos;s death because many people believed in Jesus&apos;s miracles (<a href=\"https://ref.ly/John11:47-John11:53\">John 11:47–53</a>; <a href=\"https://ref.ly/John12:10-John12:11\">12:10–11</a>).</p><p>Shortly after, the family invited Jesus to their home for a celebration meal. Mary poured a very expensive bottle of perfume on Jesus. When people criticized her for wasting it, Jesus defended her. He said her action anticipated his upcoming death (<a href=\"https://ref.ly/John12:1-John12:8\">John 12:1–8</a>; see also <a href=\"https://ref.ly/Matt26:6-Matt26:13\">Matthew 26:6–13</a>; <a href=\"https://ref.ly/Mark14:3-Mark14:9\">Mark 14:3–9</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt26:6-Matt26:13\">Matthew 26:6–13</a>; <a href=\"https://ref.ly/Mark14:3-Mark14:9\">Mark 14:3–9</a>; <a href=\"https://ref.ly/Luke10:38-Luke10:42\">Luke 10:38–42</a>; <a href=\"https://ref.ly/John11:1-John11:44\">John 11:1–44</a>; <a href=\"https://ref.ly/John12:1-John12:11\">12:1–11</a>, <a href=\"https://ref.ly/John12:17\">17</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43012017",
+          "start_ref_usfm": "JHN 12:17",
+          "end_ref": "43012017",
+          "end_ref_usfm": "JHN 12:17"
+        },
+        {
+          "start_ref": "42016019",
+          "start_ref_usfm": "LUK 16:19",
+          "end_ref": "42016031",
+          "end_ref_usfm": "LUK 16:31"
+        },
+        {
+          "start_ref": "40026006",
+          "start_ref_usfm": "MAT 26:6",
+          "end_ref": "40026013",
+          "end_ref_usfm": "MAT 26:13"
+        },
+        {
+          "start_ref": "41014003",
+          "start_ref_usfm": "MRK 14:3",
+          "end_ref": "41014009",
+          "end_ref_usfm": "MRK 14:9"
+        },
+        {
+          "start_ref": "43011025",
+          "start_ref_usfm": "JHN 11:25",
+          "end_ref": "43011026",
+          "end_ref_usfm": "JHN 11:26"
+        },
+        {
+          "start_ref": "43011001",
+          "start_ref_usfm": "JHN 11:1",
+          "end_ref": "43011044",
+          "end_ref_usfm": "JHN 11:44"
+        },
+        {
+          "start_ref": "42010038",
+          "start_ref_usfm": "LUK 10:38",
+          "end_ref": "42010042",
+          "end_ref_usfm": "LUK 10:42"
+        },
+        {
+          "start_ref": "43012010",
+          "start_ref_usfm": "JHN 12:10",
+          "end_ref": "43012011",
+          "end_ref_usfm": "JHN 12:11"
+        },
+        {
+          "start_ref": "43012001",
+          "start_ref_usfm": "JHN 12:1",
+          "end_ref": "43012011",
+          "end_ref_usfm": "JHN 12:11"
+        },
+        {
+          "start_ref": "43012001",
+          "start_ref_usfm": "JHN 12:1",
+          "end_ref": "43012008",
+          "end_ref_usfm": "JHN 12:8"
+        },
+        {
+          "start_ref": "43011047",
+          "start_ref_usfm": "JHN 11:47",
+          "end_ref": "43011053",
+          "end_ref_usfm": "JHN 11:53"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

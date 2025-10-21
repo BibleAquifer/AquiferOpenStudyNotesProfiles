@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 668962,
+    "reference_id": 203504,
+    "title": "Luc",
+    "media_type": "Text",
+    "index_reference": "luc",
+    "language": "fra",
+    "content": "<p>Luc était un médecin gentil (non-juif) qui est devenu chrétien et un aide de confiance de Paul dans ses missions. Il a écrit à la fois l&apos;Évangile de Luc et les Actes des Apôtres, qui représentent environ un quart du Nouveau Testament.</p><p>Nous savons peu de choses sur les origines de Luc, mais il a probablement rencontré Paul pour la première fois dans l&apos;ouest de l&apos;Asie Mineure, où il est devenu chrétien. Il a quitté son foyer pour servir Jésus et répandre la bonne nouvelle à son sujet en tant qu&apos;assistant dévoué de Paul. Paul l&apos;appelle chaleureusement « le médecin bien-aimé » et un fidèle « compagnon d&apos;œuvre » (<a href=\"https://ref.ly/Col4:14\">Col 4.14</a> ; <a href=\"https://ref.ly/Phlm1:24\">Phm 1.24</a>). Luc était le seul chrétien à être resté avec Paul lorsqu&apos;il attendait son exécution à Rome (<a href=\"https://ref.ly/2Tim4:11\">2Tm 4.11</a>). Il est également la seule personne non juive dont les écrits figurent dans le Nouveau Testament.</p><p>Lors du dernier voyage de Paul à Jérusalem, Luc a probablement recueilli des informations pour son Évangile et la première partie du livre des Actes. Il a interrogé des personnes en Judée pendant que Paul y était emprisonné pendant deux ans. Luc a parlé avec ceux qui avaient entendu et vu Jésus et a étudié ce que d&apos;autres avaient écrit à son sujet. Il a ensuite rédigé son propre récit détaillé de la vie et des enseignements de Jésus (voir <a href=\"https://ref.ly/Luke1:1-Luke1:4\">Lc&nbsp;1.1–4</a>).</p><p>Lorsque Paul voyagea par bateau vers Rome pour son procès, Luc l’accompagna. Pendant que Paul était en résidence surveillée, en attendant son procès, Luc aurait utilisé ce temps pour écrire le livre des Actes. Les quinze premiers chapitres donnent un compte rendu des premiers travaux des missionnaires dans l’ordre où ils se sont déroulés et tels qu’ils lui ont été racontés par les premiers disciples de Jésus. Paul lui-même lui a probablement raconté certaines de ces choses. À partir du verset <a href=\"https://ref.ly/Acts16:10\">Ac&nbsp;16.10</a>, Luc écrit sur ce qu’il a vu et vécu lui-même lorsqu’il a rejoint l’équipe de Paul. Dans les Actes, Luc souligne comment le Saint-Esprit a donné pouvoir et guidé les premiers missionnaires dans leur travail (voir <a href=\"https://ref.ly/Acts1:4-Acts1:5\">Ac&nbsp;1.4–5</a>, <a href=\"https://ref.ly/Acts1:8\">1.8</a>). Le livre se termine avec Paul toujours en résidence surveillée à Rome (<a href=\"https://ref.ly/Acts28:30-Acts28:31\">Ac&nbsp;28.30–31</a>).</p><p>Nous devons à Luc de nombreux passages uniques. Ceux-ci incluent son récit de la naissance de Jésus, des descriptions du ministère de Jésus auprès des femmes, et de nombreux récits sur Jésus prenant soin des pauvres. Il fournit également le seul récit complet des trente premières années de l’activité missionnaire chrétienne, le tout soigneusement documenté. À travers les écrits de Luc, nous acquérons une appréciation plus profonde du travail crucial du Saint-Esprit dans le ministère de Jésus et des premiers missionnaires.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Luke1:3\">Lc&nbsp;1.3</a>&nbsp;; <a href=\"https://ref.ly/Acts1:1\">Ac&nbsp;1.1</a>&nbsp;; <a href=\"https://ref.ly/Acts16:10\">16.10</a>&nbsp;; <a href=\"https://ref.ly/Col4:14\">Col&nbsp;4.14</a>&nbsp;; <a href=\"https://ref.ly/2Tim4:11\">2Tm&nbsp;4.11</a>&nbsp;; <a href=\"https://ref.ly/Phlm1:24\">Phm&nbsp;1.24</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001003",
+          "start_ref_usfm": "LUK 1:3",
+          "end_ref": "42001003",
+          "end_ref_usfm": "LUK 1:3"
+        },
+        {
+          "start_ref": "44001001",
+          "start_ref_usfm": "ACT 1:1",
+          "end_ref": "44001001",
+          "end_ref_usfm": "ACT 1:1"
+        },
+        {
+          "start_ref": "44001008",
+          "start_ref_usfm": "ACT 1:8",
+          "end_ref": "44001008",
+          "end_ref_usfm": "ACT 1:8"
+        },
+        {
+          "start_ref": "44016010",
+          "start_ref_usfm": "ACT 16:10",
+          "end_ref": "44016010",
+          "end_ref_usfm": "ACT 16:10"
+        },
+        {
+          "start_ref": "51004014",
+          "start_ref_usfm": "COL 4:14",
+          "end_ref": "51004014",
+          "end_ref_usfm": "COL 4:14"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004011",
+          "end_ref_usfm": "2TI 4:11"
+        },
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "42001001",
+          "start_ref_usfm": "LUK 1:1",
+          "end_ref": "42001004",
+          "end_ref_usfm": "LUK 1:4"
+        },
+        {
+          "start_ref": "44028030",
+          "start_ref_usfm": "ACT 28:30",
+          "end_ref": "44028031",
+          "end_ref_usfm": "ACT 28:31"
+        },
+        {
+          "start_ref": "44001004",
+          "start_ref_usfm": "ACT 1:4",
+          "end_ref": "44001005",
+          "end_ref_usfm": "ACT 1:5"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

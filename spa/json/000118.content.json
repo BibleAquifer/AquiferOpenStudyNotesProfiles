@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 658352,
+    "reference_id": 203427,
+    "title": "Saúl",
+    "media_type": "Text",
+    "index_reference": "saúl",
+    "language": "spa",
+    "content": "<p>Saúl fue el primer rey de Israel. Dios y el pueblo lo eligieron, pero fracasó enormemente debido a su falta de confianza en sí mismo y en Dios. Saúl era una persona compleja. A veces, sentimos lástima por él debido a sus luchas. Sin embargo, a menudo provocaba sus propios problemas, causando tristeza y dificultades a quienes lo rodeaban.</p><p>Saúl era el hijo de un terrateniente adinerado. Se convirtió en rey sin esperarlo ni desearlo. El pueblo quería un rey que los guiara en las batallas, por lo que estaban complacidos con Saúl, quien era más alto que cualquiera (<a href=\"https://ref.ly/1Sam10:23\">1 Samuel 10:23</a>). Sin embargo, sus problemas militares eran abrumadores, y Saúl carecía de confianza como líder militar. Sin el profeta Samuel y el hijo de Saúl, Jonatán, el reinado de Saúl podría haber terminado en un desastre total.</p><p>Saúl ofendió a Dios al hacer promesas apresuradas sin reflexionar durante la guerra (<a href=\"https://ref.ly/1Sam14:16-1Sam14:46\">1 Samuel 14:16–46</a>). También realizó sacrificios antes de la batalla en lugar de esperar a Samuel (<a href=\"https://ref.ly/1Sam13:7-1Sam13:14\">1 Samuel 13:7–14</a>). Desobedeció la orden de Dios de destruir a todas las personas y bienes de los amalecitas (<a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">1 Samuel 15:1–35</a>). Debido a esto, Dios decidió quitarle el reino a Saúl. Dios envió a Samuel a elegir a David como el nuevo rey, derramando aceite sagrado sobre su cabeza. Pronto, Saúl se volvió muy desconfiado de David, quien era el mejor amigo de su hijo y su siervo más leal. Saúl se convirtió en un gobernante cruel que se negó a ceder el control sin importar las circunstancias. Dedicó mucho tiempo y esfuerzo a intentar atrapar y matar a David.</p><p>Saúl resultó herido en una batalla contra los filisteos y posteriormente se suicidó con su espada. Su muerte fue consecuencia del juicio de Dios. Aunque David había pasado mucho tiempo huyendo de Saúl, honró al primer rey y a su hijo Jonatán con un discurso sincero (<a href=\"https://ref.ly/2Sam1:17-2Sam1:27\">2 Samuel 1:17–27</a>).</p><p><u>Pasajes para estudio complementario</u></p><p><a href=\"https://ref.ly/1Sam9:1-1Sam11:15\">1 Samuel 9:1–11:15,</a> <a href=\"https://ref.ly/1Sam13:1-1Sam31:13\">13:1–31:13,</a> <a href=\"https://ref.ly/2Sam1:1-2Sam1:27\">2 Samuel 1:1–27,</a> <a href=\"https://ref.ly/1Chr9:35-1Chr10:14\">1 Crónicas 9:35–10:14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09010023",
+          "start_ref_usfm": "1SA 10:23",
+          "end_ref": "09010023",
+          "end_ref_usfm": "1SA 10:23"
+        },
+        {
+          "start_ref": "09015001",
+          "start_ref_usfm": "1SA 15:1",
+          "end_ref": "09015035",
+          "end_ref_usfm": "1SA 15:35"
+        },
+        {
+          "start_ref": "10001001",
+          "start_ref_usfm": "2SA 1:1",
+          "end_ref": "10001027",
+          "end_ref_usfm": "2SA 1:27"
+        },
+        {
+          "start_ref": "10001017",
+          "start_ref_usfm": "2SA 1:17",
+          "end_ref": "10001027",
+          "end_ref_usfm": "2SA 1:27"
+        },
+        {
+          "start_ref": "09009001",
+          "start_ref_usfm": "1SA 9:1",
+          "end_ref": "09011015",
+          "end_ref_usfm": "1SA 11:15"
+        },
+        {
+          "start_ref": "09013007",
+          "start_ref_usfm": "1SA 13:7",
+          "end_ref": "09013014",
+          "end_ref_usfm": "1SA 13:14"
+        },
+        {
+          "start_ref": "09014016",
+          "start_ref_usfm": "1SA 14:16",
+          "end_ref": "09014046",
+          "end_ref_usfm": "1SA 14:46"
+        },
+        {
+          "start_ref": "09013001",
+          "start_ref_usfm": "1SA 13:1",
+          "end_ref": "09031013",
+          "end_ref_usfm": "1SA 31:13"
+        },
+        {
+          "start_ref": "13009035",
+          "start_ref_usfm": "1CH 9:35",
+          "end_ref": "13010014",
+          "end_ref_usfm": "1CH 10:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

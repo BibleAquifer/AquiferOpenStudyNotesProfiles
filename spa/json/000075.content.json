@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 658435,
+    "reference_id": 203510,
+    "title": "La Iglesia romana",
+    "media_type": "Text",
+    "index_reference": "la iglesia romana",
+    "language": "spa",
+    "content": "<p>Los detalles exactos de cómo se inició la iglesia en Roma no son claros. Roma contaba con una gran población judía, y algunos judíos romanos estaban en Jerusalén durante Pentecostés cuando comenzó la iglesia (<a href=\"https://ref.ly/Acts2:10\">Hechos 2:10</a>). Es probable que algunos de estos judíos se convirtieran al cristianismo y llevaran el mensaje de Jesús a Roma. Esto dio lugar a la formación de una comunidad cristiana dentro de las sinagogas romanas.</p><p>Es poco probable que Pedro haya fundado la iglesia romana o que estuviera en Roma cuando Pablo escribió a los cristianos romanos alrededor del año 57 d.C. Si Pedro hubiera estado allí, Pablo lo habría mencionado. Por lo tanto, Pablo escribió esta carta para asegurar que la iglesia romana recibiera orientación de un apóstol. No escribió a las iglesias en Judea, que fueron fundadas por otros apóstoles. En cambio, escribió a las iglesias que él mismo fundó, como las de Corinto y Galacia, o a aquellas sin guía apostólica directa, como Colosas y Roma.</p><p>Con el tiempo, es probable que los judíos no cristianos en Roma expulsaran a los judíos cristianos de las sinagogas, como sucedió en otros lugares. Para cuando Pablo escribió a la iglesia romana, se reunían en iglesias domésticas separadas en casas privadas (<a href=\"https://ref.ly/Rom16:5\">Romanos 16:5</a>, <a href=\"https://ref.ly/Rom16:10-Rom16:11\">10–11</a>, <a href=\"https://ref.ly/Rom16:15\">15</a>). No había edificios centrales, y no está claro si todos los creyentes en Roma se reunían juntos.</p><p>Cuando Claudio expulsó a los judíos de Roma alrededor del año 49 d.C., los cristianos judíos como Priscila y Áquila también tuvieron que irse (<a href=\"https://ref.ly/Acts18:2\">Hechos 18:2</a>). Sin los judíos, la iglesia romana probablemente se volvió más gentil. Cuando los judíos regresaron, probablemente poco después de que Claudio muriera en el año 54 d.C., surgieron preguntas y posiblemente conflictos entre los cristianos judíos y gentiles. Pablo pudo haber escrito Romanos para abordar estos problemas entre el grupo mixto de judíos y gentiles que adoraban a Cristo en la misma ciudad.</p><p>Como se muestra en <a href=\"https://ref.ly/Rom16:1-Rom16:27\">Romanos 16</a>, Pablo ya tenía muchos amigos en la iglesia romana. En la primavera del año 60 d.C., aproximadamente dos años después de escribir Romanos, Pablo tuvo la oportunidad de ir a Roma, un deseo que había expresado con frecuencia (<a href=\"https://ref.ly/Acts19:21\">Hechos 19:21,</a> <a href=\"https://ref.ly/Rom1:13-Rom1:15\">Romanos 1:13–15</a>). Se quedó en Roma durante dos años, viviendo en una casa mientras era custodiado por soldados romanos y esperaba su primer juicio ante Nerón. Durante este tiempo, Pablo “predicó <span>el reino de Dios ... enseñando lo que es del Señor Jesucristo con toda libertad, sin impedimento</span>” (<a href=\"https://ref.ly/Acts28:30-Acts28:31\">Hechos 28:30–31</a>).</p><p><u>Pasajes para estudio complementario</u></p><p><a href=\"https://ref.ly/Acts28:15-Acts28:31\">Hechos 28:15–31,</a> <a href=\"https://ref.ly/Rom1:13-Rom1:15\">Romanos 1:13–15,</a> <a href=\"https://ref.ly/Rom16:1-Rom16:16\">16:1–16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002010",
+          "start_ref_usfm": "ACT 2:10",
+          "end_ref": "44002010",
+          "end_ref_usfm": "ACT 2:10"
+        },
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "44019021",
+          "start_ref_usfm": "ACT 19:21",
+          "end_ref": "44019021",
+          "end_ref_usfm": "ACT 19:21"
+        },
+        {
+          "start_ref": "45016005",
+          "start_ref_usfm": "ROM 16:5",
+          "end_ref": "45016005",
+          "end_ref_usfm": "ROM 16:5"
+        },
+        {
+          "start_ref": "45016015",
+          "start_ref_usfm": "ROM 16:15",
+          "end_ref": "45016015",
+          "end_ref_usfm": "ROM 16:15"
+        },
+        {
+          "start_ref": "44028030",
+          "start_ref_usfm": "ACT 28:30",
+          "end_ref": "44028031",
+          "end_ref_usfm": "ACT 28:31"
+        },
+        {
+          "start_ref": "45016001",
+          "start_ref_usfm": "ROM 16:1",
+          "end_ref": "45016027",
+          "end_ref_usfm": "ROM 16:27"
+        },
+        {
+          "start_ref": "45016010",
+          "start_ref_usfm": "ROM 16:10",
+          "end_ref": "45016011",
+          "end_ref_usfm": "ROM 16:11"
+        },
+        {
+          "start_ref": "45016001",
+          "start_ref_usfm": "ROM 16:1",
+          "end_ref": "45016016",
+          "end_ref_usfm": "ROM 16:16"
+        },
+        {
+          "start_ref": "45001013",
+          "start_ref_usfm": "ROM 1:13",
+          "end_ref": "45001015",
+          "end_ref_usfm": "ROM 1:15"
+        },
+        {
+          "start_ref": "44028015",
+          "start_ref_usfm": "ACT 28:15",
+          "end_ref": "44028031",
+          "end_ref_usfm": "ACT 28:31"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

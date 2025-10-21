@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 500570,
+    "reference_id": 203513,
+    "title": "Philippi",
+    "media_type": "Text",
+    "index_reference": "philippi",
+    "language": "eng",
+    "content": "<p>Philippi was a small village in Thrace until around 357 BC. Philip II of Macedon, Alexander the Great&apos;s father, conquered and rebuilt it. He named the village after himself, fortified it as a military base, and used the nearby gold mines. Philippi became famous worldwide in 42 BC. It was where Octavian and Mark Antony&apos;s imperial armies defeated Brutus and Cassius, Julius Caesar&apos;s assassins. This victory paved the way for the Roman Empire under Octavian Augustus.</p><p>Many veterans from the war of 42 BC and other battles settled in Philippi. When Paul visited the city, it still showed its Roman military heritage. Located on the Egnatian Way, it was an important stop on the major military road connecting the Adriatic Sea with the Aegean Sea. It had strong civic pride as a Roman colony, enjoying many privileges like tax exemption, and promoted Latin as its official language. Its government was based on the municipal constitution of Rome, and the people considered themselves Romans (see <a href=\"https://ref.ly/Acts16:21\">Acts 16:21</a>).</p><p>Paul visited the city on his second missionary journey, and the book of Acts describes this visit in detail (<a href=\"https://ref.ly/Acts16:12-Acts16:40\">Acts 16:12–40</a>). The story often highlights the city&apos;s Roman background. Paul uses his Roman citizenship to defend himself successfully (<a href=\"https://ref.ly/Acts16:37-Acts16:39\">Acts 16:37–39</a>). The city leaders hold the Latin title <em>praetor</em>, translated as <em>stratēgos</em> in Greek (<a href=\"https://ref.ly/Acts16:20-Acts16:22\">Acts 16:20–22</a>, <a href=\"https://ref.ly/Acts16:38\">38</a>). There seems to have been a small Jewish community there. </p><p>The church started with Jewish women who believed and met outside the city because there was no synagogue. Later, they gathered in the home of a well-known woman convert named Lydia (<a href=\"https://ref.ly/Acts16:14-Acts16:15\">Acts 16:14–15</a>, <a href=\"https://ref.ly/Acts16:40\">40</a>). Luke likely stayed in Philippi when Paul left for Thessalonica (<a href=\"https://ref.ly/Acts16:12\">Acts 16:12</a>, <a href=\"https://ref.ly/Acts16:40\">40</a>) and rejoined Paul at Philippi during Paul&apos;s third missionary journey several years later (<a href=\"https://ref.ly/Acts20:6\">Acts 20:6</a>). Paul wrote a friendly letter to the church at Philippi during one of his imprisonments.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts16:12-Acts16:40\">Acts 16:12–40</a>; <a href=\"https://ref.ly/Acts20:6\">20:6</a>; <a href=\"https://ref.ly/Phil1:1\">Philippians 1:1</a>; <a href=\"https://ref.ly/Phil2:19-Phil2:30\">2:19–30</a>; <a href=\"https://ref.ly/Phil4:2-Phil4:3\">4:2–3</a>, <a href=\"https://ref.ly/Phil4:10-Phil4:22\">10–22</a>; <a href=\"https://ref.ly/1Thess2:2\">1 Thessalonians 2:2</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44016012",
+          "start_ref_usfm": "ACT 16:12",
+          "end_ref": "44016012",
+          "end_ref_usfm": "ACT 16:12"
+        },
+        {
+          "start_ref": "44016021",
+          "start_ref_usfm": "ACT 16:21",
+          "end_ref": "44016021",
+          "end_ref_usfm": "ACT 16:21"
+        },
+        {
+          "start_ref": "44016038",
+          "start_ref_usfm": "ACT 16:38",
+          "end_ref": "44016038",
+          "end_ref_usfm": "ACT 16:38"
+        },
+        {
+          "start_ref": "44016040",
+          "start_ref_usfm": "ACT 16:40",
+          "end_ref": "44016040",
+          "end_ref_usfm": "ACT 16:40"
+        },
+        {
+          "start_ref": "44020006",
+          "start_ref_usfm": "ACT 20:6",
+          "end_ref": "44020006",
+          "end_ref_usfm": "ACT 20:6"
+        },
+        {
+          "start_ref": "50001001",
+          "start_ref_usfm": "PHP 1:1",
+          "end_ref": "50001001",
+          "end_ref_usfm": "PHP 1:1"
+        },
+        {
+          "start_ref": "52002002",
+          "start_ref_usfm": "1TH 2:2",
+          "end_ref": "52002002",
+          "end_ref_usfm": "1TH 2:2"
+        },
+        {
+          "start_ref": "44016037",
+          "start_ref_usfm": "ACT 16:37",
+          "end_ref": "44016039",
+          "end_ref_usfm": "ACT 16:39"
+        },
+        {
+          "start_ref": "50002019",
+          "start_ref_usfm": "PHP 2:19",
+          "end_ref": "50002030",
+          "end_ref_usfm": "PHP 2:30"
+        },
+        {
+          "start_ref": "44016020",
+          "start_ref_usfm": "ACT 16:20",
+          "end_ref": "44016022",
+          "end_ref_usfm": "ACT 16:22"
+        },
+        {
+          "start_ref": "44016014",
+          "start_ref_usfm": "ACT 16:14",
+          "end_ref": "44016015",
+          "end_ref_usfm": "ACT 16:15"
+        },
+        {
+          "start_ref": "44016012",
+          "start_ref_usfm": "ACT 16:12",
+          "end_ref": "44016040",
+          "end_ref_usfm": "ACT 16:40"
+        },
+        {
+          "start_ref": "50004002",
+          "start_ref_usfm": "PHP 4:2",
+          "end_ref": "50004003",
+          "end_ref_usfm": "PHP 4:3"
+        },
+        {
+          "start_ref": "50004010",
+          "start_ref_usfm": "PHP 4:10",
+          "end_ref": "50004022",
+          "end_ref_usfm": "PHP 4:22"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 500485,
+    "reference_id": 203428,
+    "title": "Jonathan",
+    "media_type": "Text",
+    "index_reference": "jonathan",
+    "language": "eng",
+    "content": "<p>Jonathan was King Saul&apos;s oldest son. He was supposed to be the next king after Saul. However, when God rejected Saul and chose David, Jonathan supported David&apos;s rise to power (<a href=\"https://ref.ly/1Sam18:1-1Sam18:4\">1 Samuel 18:1–4</a>; <a href=\"https://ref.ly/1Sam19:1-1Sam19:7\">19:1–7</a>).</p><p>Jonathan was an excellent military leader. He led his father&apos;s army to victory over the Philistine garrison at Geba (<a href=\"https://ref.ly/1Sam13:3-1Sam13:4\">1 Samuel 13:3–4</a>). In another bold move, Jonathan and his armor bearer attacked a Philistine outpost alone. This caused confusion and chaos among the Philistine army. This allowed the main Israelite army to attack and win (<a href=\"https://ref.ly/1Sam14:1-1Sam14:23\">1 Samuel 14:1–23</a>; see also David’s tribute to Jonathan, <a href=\"https://ref.ly/2Sam1:22\">2 Samuel 1:22</a>). </p><p>Saul had unwisely made an oath that no one should eat until they won. Jonathan did not know about the vow and ate some honey. When he learned of Saul’s vow, Jonathan criticized it strongly. Saul would have had Jonathan killed after the battle he helped win if the people had not intervened.</p><p>When Jonathan and David met, they quickly became friends (<a href=\"https://ref.ly/1Sam18:1-1Sam18:4\">1 Samuel 18:1–4</a>). Jonathan showed his deep love for David by giving him his robe, tunic, sword, bow, and belt. This might have meant that Jonathan believed David should be the next ruler. When Saul tried to kill David, Jonathan spoke up for David and helped him escape safely.</p><p>Jonathan stayed with his father even after the Lord made it clear that He had left Saul. As a result, Jonathan died with Saul while fighting the Philistines (<a href=\"https://ref.ly/1Sam31:2\">1 Samuel 31:2</a>; <a href=\"https://ref.ly/1Chr10:2\">1 Chronicles 10:2</a>). Jonathan was a virtuous, brave, and selfless man who always spoke and acted with honesty. His love and courage helped David survive King Saul&apos;s mad attacks.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Sam13:1-1Sam14:46\">1 Samuel 13:1–14:46</a>; <a href=\"https://ref.ly/1Sam18:1-1Sam18:4\">18:1–4</a>; <a href=\"https://ref.ly/1Sam20:1-1Sam20:42\">20:1–42</a>; <a href=\"https://ref.ly/1Sam23:16-1Sam23:18\">23:16–18</a>; <a href=\"https://ref.ly/1Sam31:2\">31:2</a>; <a href=\"https://ref.ly/2Sam1:1-2Sam1:27\">2 Samuel 1:1–27</a>; <a href=\"https://ref.ly/2Sam4:4\">4:4</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09031002",
+          "start_ref_usfm": "1SA 31:2",
+          "end_ref": "09031002",
+          "end_ref_usfm": "1SA 31:2"
+        },
+        {
+          "start_ref": "10001022",
+          "start_ref_usfm": "2SA 1:22",
+          "end_ref": "10001022",
+          "end_ref_usfm": "2SA 1:22"
+        },
+        {
+          "start_ref": "10004004",
+          "start_ref_usfm": "2SA 4:4",
+          "end_ref": "10004004",
+          "end_ref_usfm": "2SA 4:4"
+        },
+        {
+          "start_ref": "13010002",
+          "start_ref_usfm": "1CH 10:2",
+          "end_ref": "13010002",
+          "end_ref_usfm": "1CH 10:2"
+        },
+        {
+          "start_ref": "10001001",
+          "start_ref_usfm": "2SA 1:1",
+          "end_ref": "10001027",
+          "end_ref_usfm": "2SA 1:27"
+        },
+        {
+          "start_ref": "09020001",
+          "start_ref_usfm": "1SA 20:1",
+          "end_ref": "09020042",
+          "end_ref_usfm": "1SA 20:42"
+        },
+        {
+          "start_ref": "09019001",
+          "start_ref_usfm": "1SA 19:1",
+          "end_ref": "09019007",
+          "end_ref_usfm": "1SA 19:7"
+        },
+        {
+          "start_ref": "09014001",
+          "start_ref_usfm": "1SA 14:1",
+          "end_ref": "09014023",
+          "end_ref_usfm": "1SA 14:23"
+        },
+        {
+          "start_ref": "09013003",
+          "start_ref_usfm": "1SA 13:3",
+          "end_ref": "09013004",
+          "end_ref_usfm": "1SA 13:4"
+        },
+        {
+          "start_ref": "09018001",
+          "start_ref_usfm": "1SA 18:1",
+          "end_ref": "09018004",
+          "end_ref_usfm": "1SA 18:4"
+        },
+        {
+          "start_ref": "09013001",
+          "start_ref_usfm": "1SA 13:1",
+          "end_ref": "09014046",
+          "end_ref_usfm": "1SA 14:46"
+        },
+        {
+          "start_ref": "09023016",
+          "start_ref_usfm": "1SA 23:16",
+          "end_ref": "09023018",
+          "end_ref_usfm": "1SA 23:18"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

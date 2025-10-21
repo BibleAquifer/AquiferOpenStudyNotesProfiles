@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 658385,
+    "reference_id": 203460,
+    "title": "Los medos y persas",
+    "media_type": "Text",
+    "index_reference": "los medos y persas",
+    "language": "spa",
+    "content": "<h3>Los medos (aproximadamente 850–549 a.C.)</h3><p>Los primeros medos no dejaron registros escritos. Una inscripción de Salmanasar III de Asiria, quien gobernó desde 858 hasta 824 a.C., indica que los medos se establecieron alrededor de Acmeta, su capital, hacia mediados del siglo IX a.C. Acmeta, actualmente conocida como Hamadan, Irán. Los medos eran famosos por la cría de caballos, por lo que Salmanasar saqueó su tierra para robar muchos caballos de calidad. Los medos estuvieron bajo control asirio hasta finales del siglo VII a.C., cuando se independizaron a medida que Asiria se debilitaba.</p><h3>Los persas (aproximadamente 700–549 a.C.)</h3><p>Alrededor del año 700 a.C., Achaemenes fundó un pequeño reino persa y gobernó aproximadamente desde el 700 hasta el 675 a.C. Su hijo, Teispes, gobernó desde el 675 hasta el 640 a.C. bajo el dominio de los medos, quienes estaban reuniendo fuerzas para derrocar a Asiria. Sin embargo, problemas posteriores para los Medos liberaron a Teispes de su control. Cambises, que vivió desde el 600 hasta el 559 a.C., era hijo de Ciro I y nieto de Teispes. Se casó con la hija del rey medo, Astiages. Su hijo, Ciro II, gobernó a los persas desde el 559 hasta el 530 a.C., comenzando en el 559 a.C.</p><h3>El Imperio medo-persa (549–331 a.C.)</h3><p>Ciro II venció a su abuelo, Astiages de Media, en el año 549 a.C. Estableció Acmeta en Media como su capital y ubicó sus archivos allí (ver <a href=\"https://ref.ly/Ezra6:1-Ezra6:5\">Esdras 6:1–5</a>). Con un padre persa y una madre meda, Ciro II simbolizaba la unión de Media y Persia.</p><p>Ciro demostró bondad y generosidad hacia los enemigos derrotados. Como un líder militar hábil, invadió Asia Menor, derrotó a Creso, el rey de Lidia, y controló las ciudades griegas de la región. En 539 a.C., capturó Babilonia con casi ninguna resistencia y permitió que los exiliados regresaran a casa para reconstruir sus templos (ver <a href=\"https://ref.ly/Ezra1:1-Ezra1:4\">Esdras 1:1–4</a>).</p><p>El hijo de Ciro, Cambises II, conquistó Egipto y gobernó desde 529 hasta 522 a.C. Sin embargo, el imperio casi se desmoronó cuando él se suicidó. Darío I, hijo de Histaspes, quien era el gobernador de Partia, sucedió a Cambises y gobernó desde 521 hasta 486 a.C. Darío fue un líder enérgico y eficiente. Detuvo las revueltas internas y organizó el imperio en veinte provincias.</p><p>Cada provincia estaba bajo el mando de un gobernador, llamado sátrapa o &quot;protector del reino&quot;. Inspectores, conocidos como &quot;los oídos del rey&quot;, supervisaban las acciones de los sátrapas. Darío trasladó la capital principal de los Persas a Persépolis, donde finalmente construyeron un gran complejo palaciego. Darío seguía a Zoroastro y adoraba a Ahura Mazda, el principal dios del zoroastrismo. Jerjes y Artajerjes, quienes lo sucedieron, también siguieron esta fe.</p><p>En los últimos años del gobierno de Darío, los griegos lo derrotaron en Maratón en el 490 a.C.</p><p>El hijo de Darío, Jerjes, conocido como Khshayarsha en persa y Asuero en hebreo, lo sucedió. Durante el gobierno de Jerjes, de 486 a 465 a.C., los griegos derrotaron a la flota persa en Salamina en 480 a.C.</p><p>La gente atribuye el fin del imperio a la cobardía de Darío III, quien gobernó desde 336 hasta 330 a.C. Alejandro Magno derrotó a sus ejércitos en Issus en 333 a.C. y finalmente en Gaugamela, cerca de la moderna Erbil (Arbela), en 331 a.C.</p><h3>Los persas y la Biblia</h3><p>La primera mención de los persas en la historia de Israel se encuentra en <a href=\"https://ref.ly/Isa44:28-Isa45:13\">Isaías 44:28–45:13</a>. Esta profecía fue dada a Isaías más de 150 años antes de que Ciro conquistara Babilonia y permitiera a los judíos exiliados regresar a Jerusalén. Otras referencias bíblicas a los persas aparecen más tarde en la historia del Antiguo Testamento, como en Esdras, Nehemías y Ester, y en los escritos de los profetas durante y después del exilio, como Daniel, Sofonías y Hageo. Las Escrituras describen a los persas como gobernantes estrictos pero en su mayoría amables, que permitieron a los judíos autogobernarse y adorar libremente. Sin embargo, la comunidad judía siempre recordaba que estaban bajo dominio extranjero.</p><p><u>Pasajes para estudio complementario</u></p><p><a href=\"https://ref.ly/Ezra4:5-Ezra4:7\">Esdras 4:5–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001004",
+          "end_ref_usfm": "EZR 1:4"
+        },
+        {
+          "start_ref": "15006001",
+          "start_ref_usfm": "EZR 6:1",
+          "end_ref": "15006005",
+          "end_ref_usfm": "EZR 6:5"
+        },
+        {
+          "start_ref": "23044028",
+          "start_ref_usfm": "ISA 44:28",
+          "end_ref": "23045013",
+          "end_ref_usfm": "ISA 45:13"
+        },
+        {
+          "start_ref": "15004005",
+          "start_ref_usfm": "EZR 4:5",
+          "end_ref": "15004007",
+          "end_ref_usfm": "EZR 4:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

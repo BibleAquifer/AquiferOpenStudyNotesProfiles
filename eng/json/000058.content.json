@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 500501,
+    "reference_id": 203444,
+    "title": "Jezebel",
+    "media_type": "Text",
+    "index_reference": "jezebel",
+    "language": "eng",
+    "content": "<p>Jezebel, daughter of Ethbaal, king of Sidon (<a href=\"https://ref.ly/1Kgs16:31\">1 Kings 16:31</a>), married King Ahab of Israel, likely to strengthen a political alliance between their nations. Jezebel supported Baal worship and insisted on total control for the king and queen.</p><p>Jezebel persuaded Ahab to start Baal worship in Samaria and to set up an Asherah pole (<a href=\"https://ref.ly/1Kgs16:30-1Kgs16:33\">1 Kings 16:30–33</a>). She attempted to eliminate God&apos;s prophets (<a href=\"https://ref.ly/1Kgs18:4\">1 Kings 18:4</a>) and supported many of Baal&apos;s prophets in the royal palace (<a href=\"https://ref.ly/1Kgs18:19\">1 Kings 18:19</a>).</p><p>Elijah confronted Jezebel and Ahab on Mount Carmel (<a href=\"https://ref.ly/1Kgs18:19-1Kgs18:40\">1 Kings 18:19–40</a>). There, he challenged Israel to follow the true God. After God showed His power, the Israelites recognized Him and assisted Elijah in killing the false prophets. When Jezebel learned of this, she threatened Elijah, causing him to flee (<a href=\"https://ref.ly/1Kgs19:1-1Kgs19:3\">1 Kings 19:1–3</a>).</p><p>Later, Jezebel advised her husband on how to take a vineyard from their neighbor Naboth. When Naboth refused to sell it, Jezebel made a plan to falsely accuse him of cursing God and the king. As a result, Naboth was executed. Ahab took the vineyard, but God sent Elijah to announce judgment on Jezebel and Ahab (<a href=\"https://ref.ly/1Kgs21:20-1Kgs21:24\">1 Kings 21:20–24</a>). Ahab died soon after (<a href=\"https://ref.ly/1Kgs22:29-1Kgs22:40\">1 Kings 22:29–40</a>), but Jezebel lived through her son Ahaziah’s reign. She was later executed when Jehu destroyed the ruling family, fulfilling God’s judgment against her (<a href=\"https://ref.ly/2Kgs9:30-2Kgs9:37\">2 Kings 9:30–37</a>).</p><p>Jezebel&apos;s evil influence reached the southern kingdom of Judah when her daughter Athaliah married Jehoram, the son of King Jehoshaphat (see <a href=\"https://ref.ly/2Kgs8:18\">2 Kings 8:18</a>, <a href=\"https://ref.ly/2Kgs8:26-2Kgs8:27\">26–27</a>).</p><p>Her name has long been linked with evil. In <a href=\"https://ref.ly/Rev2:20\">Revelation 2:20</a>, Jezebel is a prophetess who led the Christians of Thyatira to commit sexual sins and eat food offered to idols.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Kgs16:31-1Kgs21:28\">1 Kings 16:31–21:28</a>; <a href=\"https://ref.ly/2Kgs9:1-2Kgs9:37\">2 Kings 9:1–37</a>; <a href=\"https://ref.ly/Rev2:20\">Revelation 2:20</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11016031",
+          "start_ref_usfm": "1KI 16:31",
+          "end_ref": "11016031",
+          "end_ref_usfm": "1KI 16:31"
+        },
+        {
+          "start_ref": "11018004",
+          "start_ref_usfm": "1KI 18:4",
+          "end_ref": "11018004",
+          "end_ref_usfm": "1KI 18:4"
+        },
+        {
+          "start_ref": "11018019",
+          "start_ref_usfm": "1KI 18:19",
+          "end_ref": "11018019",
+          "end_ref_usfm": "1KI 18:19"
+        },
+        {
+          "start_ref": "12008018",
+          "start_ref_usfm": "2KI 8:18",
+          "end_ref": "12008018",
+          "end_ref_usfm": "2KI 8:18"
+        },
+        {
+          "start_ref": "66002020",
+          "start_ref_usfm": "REV 2:20",
+          "end_ref": "66002020",
+          "end_ref_usfm": "REV 2:20"
+        },
+        {
+          "start_ref": "12008026",
+          "start_ref_usfm": "2KI 8:26",
+          "end_ref": "12008027",
+          "end_ref_usfm": "2KI 8:27"
+        },
+        {
+          "start_ref": "11022029",
+          "start_ref_usfm": "1KI 22:29",
+          "end_ref": "11022040",
+          "end_ref_usfm": "1KI 22:40"
+        },
+        {
+          "start_ref": "11016030",
+          "start_ref_usfm": "1KI 16:30",
+          "end_ref": "11016033",
+          "end_ref_usfm": "1KI 16:33"
+        },
+        {
+          "start_ref": "11018019",
+          "start_ref_usfm": "1KI 18:19",
+          "end_ref": "11018040",
+          "end_ref_usfm": "1KI 18:40"
+        },
+        {
+          "start_ref": "11021020",
+          "start_ref_usfm": "1KI 21:20",
+          "end_ref": "11021024",
+          "end_ref_usfm": "1KI 21:24"
+        },
+        {
+          "start_ref": "12009001",
+          "start_ref_usfm": "2KI 9:1",
+          "end_ref": "12009037",
+          "end_ref_usfm": "2KI 9:37"
+        },
+        {
+          "start_ref": "12009030",
+          "start_ref_usfm": "2KI 9:30",
+          "end_ref": "12009037",
+          "end_ref_usfm": "2KI 9:37"
+        },
+        {
+          "start_ref": "11019001",
+          "start_ref_usfm": "1KI 19:1",
+          "end_ref": "11019003",
+          "end_ref_usfm": "1KI 19:3"
+        },
+        {
+          "start_ref": "11016031",
+          "start_ref_usfm": "1KI 16:31",
+          "end_ref": "11021028",
+          "end_ref_usfm": "1KI 21:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "content_id": 658424,
+    "reference_id": 203499,
+    "title": "Felipe",
+    "media_type": "Text",
+    "index_reference": "felipe",
+    "language": "spa",
+    "content": "<p>Felipe fue uno de los primeros en compartir las buenas nuevas sobre Jesús con personas fuera de Judea. Muy respetado por los primeros cristianos, fue uno de los siete hombres seleccionados para gestionar el programa de distribución de alimentos para los creyentes necesitados en Jerusalén (<a href=\"https://ref.ly/Acts6:1-Acts6:6\">Hc 6:1–6</a>). Felipe fue un evangelista poderoso y eficaz, predicando las buenas nuevas a través del poder del Espíritu.</p><p>Tras la muerte de Esteban, los cristianos huyeron de Jerusalén (<a href=\"https://ref.ly/Acts8:1-Acts8:5\">Hc 8:1–5</a>). Felipe llevó el mensaje de Cristo a Samaria, una ciudad con una población diversa. Allí, curó a muchos y expulsó espíritus malignos, y la gente recibió con entusiasmo su mensaje (<a href=\"https://ref.ly/Acts8:5-Acts8:8\">Hc 8:5–8</a>). Muchos, incluido un famoso hechicero llamado Simón, fueron bautizados (<a href=\"https://ref.ly/Acts8:9-Acts8:13\">Hc 8:9–13</a>).</p><p>Un ángel guió a Felipe a viajar al suroeste desde Jerusalén hacia Gaza (<a href=\"https://ref.ly/Acts8:26\">Hc 8:26</a>). Allí, el Espíritu lo llevó a encontrarse con el tesorero de Etiopía, quien regresaba a casa desde Jerusalén (<a href=\"https://ref.ly/Acts8:27-Acts8:28\">Hc 8:27–28</a>). El etíope le pidió a Felipe que le explicara <a href=\"https://ref.ly/Isa53:1-Isa53:12\">Isaías 53</a>. Felipe compartió el mensaje sobre Jesús (<a href=\"https://ref.ly/Acts8:30-Acts8:35\">Hc 8:30–35</a>) y bautizó al hombre al lado del camino (<a href=\"https://ref.ly/Acts8:36-Acts8:38\">8:36–38</a>). Luego, el Espíritu de Dios llevó repentinamente a Felipe a Azoto (<a href=\"https://ref.ly/Acts8:39-Acts8:40\">Hc 8:39–40</a>). Allí predicó el mensaje y viajó por pueblos costeros hasta llegar a Cesarea, una gran ciudad romana, donde probablemente se estableció (<a href=\"https://ref.ly/Acts8:40\">Hc 8:40,</a> <a href=\"https://ref.ly/Acts21:8-Acts21:9\">21:8–9</a>).</p><p>Muchos años después, Pablo se quedó a pasar la noche en la casa de Felipe en Cesarea (<a href=\"https://ref.ly/Acts21:8\">Hc 21:8</a>). Para entonces, la gente conocía a Felipe como Felipe el Evangelista. Tenía cuatro hijas solteras, y todas poseían el don de profecía (<a href=\"https://ref.ly/Acts21:9\">Hc 21:9</a>).</p><p>Felipe representa a los primeros evangelistas cristianos. El Espíritu los capacitó y los guió para confirmar su mensaje (véase también <a href=\"https://ref.ly/Acts1:8\">Hc 1:8,</a> <a href=\"https://ref.ly/Acts3:4-Acts3:8\">3:4–8,</a> <a href=\"https://ref.ly/Acts5:12-Acts5:16\">5:12–16,</a> <a href=\"https://ref.ly/Acts6:8\">6:8,</a> <a href=\"https://ref.ly/Acts10:9-Acts10:20\">10:9–20,</a> <a href=\"https://ref.ly/Acts13:2\">13:2,</a> <a href=\"https://ref.ly/Acts16:6-Acts16:10\">16:6–10,</a> <a href=\"https://ref.ly/Acts19:11-Acts19:12\">19:11–12,</a> <a href=\"https://ref.ly/Acts20:22-Acts20:23\">20:22–23</a>). Felipe siguió el poder y la orientación 1del Espíritu, y Dios lo utilizó para difundir las buenas nuevas más allá de Judea.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Acts6:5\">Hechos 6:5;</a> <a href=\"https://ref.ly/Acts8:4-Acts8:13\">8:4–13</a>,<a href=\"https://ref.ly/Acts8:26-Acts8:40\">26–40</a>; <a href=\"https://ref.ly/Acts21:8-Acts21:9\">21:8–9</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44001008",
+          "start_ref_usfm": "ACT 1:8",
+          "end_ref": "44001008",
+          "end_ref_usfm": "ACT 1:8"
+        },
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006005",
+          "end_ref_usfm": "ACT 6:5"
+        },
+        {
+          "start_ref": "44006008",
+          "start_ref_usfm": "ACT 6:8",
+          "end_ref": "44006008",
+          "end_ref_usfm": "ACT 6:8"
+        },
+        {
+          "start_ref": "44008026",
+          "start_ref_usfm": "ACT 8:26",
+          "end_ref": "44008026",
+          "end_ref_usfm": "ACT 8:26"
+        },
+        {
+          "start_ref": "44008040",
+          "start_ref_usfm": "ACT 8:40",
+          "end_ref": "44008040",
+          "end_ref_usfm": "ACT 8:40"
+        },
+        {
+          "start_ref": "44013002",
+          "start_ref_usfm": "ACT 13:2",
+          "end_ref": "44013002",
+          "end_ref_usfm": "ACT 13:2"
+        },
+        {
+          "start_ref": "44021008",
+          "start_ref_usfm": "ACT 21:8",
+          "end_ref": "44021008",
+          "end_ref_usfm": "ACT 21:8"
+        },
+        {
+          "start_ref": "44021009",
+          "start_ref_usfm": "ACT 21:9",
+          "end_ref": "44021009",
+          "end_ref_usfm": "ACT 21:9"
+        },
+        {
+          "start_ref": "44008026",
+          "start_ref_usfm": "ACT 8:26",
+          "end_ref": "44008040",
+          "end_ref_usfm": "ACT 8:40"
+        },
+        {
+          "start_ref": "44006001",
+          "start_ref_usfm": "ACT 6:1",
+          "end_ref": "44006006",
+          "end_ref_usfm": "ACT 6:6"
+        },
+        {
+          "start_ref": "23053001",
+          "start_ref_usfm": "ISA 53:1",
+          "end_ref": "23053012",
+          "end_ref_usfm": "ISA 53:12"
+        },
+        {
+          "start_ref": "44008004",
+          "start_ref_usfm": "ACT 8:4",
+          "end_ref": "44008013",
+          "end_ref_usfm": "ACT 8:13"
+        },
+        {
+          "start_ref": "44021008",
+          "start_ref_usfm": "ACT 21:8",
+          "end_ref": "44021009",
+          "end_ref_usfm": "ACT 21:9"
+        },
+        {
+          "start_ref": "44016006",
+          "start_ref_usfm": "ACT 16:6",
+          "end_ref": "44016010",
+          "end_ref_usfm": "ACT 16:10"
+        },
+        {
+          "start_ref": "44019011",
+          "start_ref_usfm": "ACT 19:11",
+          "end_ref": "44019012",
+          "end_ref_usfm": "ACT 19:12"
+        },
+        {
+          "start_ref": "44005012",
+          "start_ref_usfm": "ACT 5:12",
+          "end_ref": "44005016",
+          "end_ref_usfm": "ACT 5:16"
+        },
+        {
+          "start_ref": "44008039",
+          "start_ref_usfm": "ACT 8:39",
+          "end_ref": "44008040",
+          "end_ref_usfm": "ACT 8:40"
+        },
+        {
+          "start_ref": "44008036",
+          "start_ref_usfm": "ACT 8:36",
+          "end_ref": "44008038",
+          "end_ref_usfm": "ACT 8:38"
+        },
+        {
+          "start_ref": "44008027",
+          "start_ref_usfm": "ACT 8:27",
+          "end_ref": "44008028",
+          "end_ref_usfm": "ACT 8:28"
+        },
+        {
+          "start_ref": "44020022",
+          "start_ref_usfm": "ACT 20:22",
+          "end_ref": "44020023",
+          "end_ref_usfm": "ACT 20:23"
+        },
+        {
+          "start_ref": "44008001",
+          "start_ref_usfm": "ACT 8:1",
+          "end_ref": "44008005",
+          "end_ref_usfm": "ACT 8:5"
+        },
+        {
+          "start_ref": "44008005",
+          "start_ref_usfm": "ACT 8:5",
+          "end_ref": "44008008",
+          "end_ref_usfm": "ACT 8:8"
+        },
+        {
+          "start_ref": "44008009",
+          "start_ref_usfm": "ACT 8:9",
+          "end_ref": "44008013",
+          "end_ref_usfm": "ACT 8:13"
+        },
+        {
+          "start_ref": "44008030",
+          "start_ref_usfm": "ACT 8:30",
+          "end_ref": "44008035",
+          "end_ref_usfm": "ACT 8:35"
+        },
+        {
+          "start_ref": "44003004",
+          "start_ref_usfm": "ACT 3:4",
+          "end_ref": "44003008",
+          "end_ref_usfm": "ACT 3:8"
+        },
+        {
+          "start_ref": "44010009",
+          "start_ref_usfm": "ACT 10:9",
+          "end_ref": "44010020",
+          "end_ref_usfm": "ACT 10:20"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

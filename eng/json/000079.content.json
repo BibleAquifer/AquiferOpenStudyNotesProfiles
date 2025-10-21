@@ -1,0 +1,148 @@
+[
+  {
+    "content_id": 500474,
+    "reference_id": 203417,
+    "title": "Moab and Ammon",
+    "media_type": "Text",
+    "index_reference": "moab and ammon",
+    "language": "eng",
+    "content": "<p>The Moabites descended from Moab, the son of Lot and his oldest daughter (<a href=\"https://ref.ly/Gen19:36-Gen19:38\">Genesis 19:36–38</a>). They settled on the high plateau east of the Dead Sea. Most of Moab is gently rolling tableland divided by ravines. Even at its peak, ancient Moab covered a small area, but its location on the King’s Highway was strategically important (see <a href=\"https://ref.ly/Num21:21-Num21:22\">Numbers 21:21–22</a>; <a href=\"https://ref.ly/Judg11:15-Judg11:18\">Judges 11:15–18</a>). </p><p>Before the Israelites passed through the Transjordan, the Moabites were under the control of Sihon, the Amorite king who ruled at Heshbon (see <a href=\"https://ref.ly/Num21:13\">Numbers 21:13</a>, <a href=\"https://ref.ly/Num21:26\">26</a>). After Israel defeated Sihon, King Balak of Moab feared Israel might conquer his land, and Moab waged war against them (<a href=\"https://ref.ly/Num22:1-Num25:3\">Numbers 22:1–25:3</a>; <a href=\"https://ref.ly/Josh24:9\">Joshua 24:9</a>). From that time onward, Moab and Israel were often in conflict (<a href=\"https://ref.ly/Judg3:12-Judg3:30\">Judges 3:12–30</a>; <a href=\"https://ref.ly/1Sam14:47\">1 Samuel 14:47</a>; <a href=\"https://ref.ly/2Sam8:2\">2 Samuel 8:2</a>; <a href=\"https://ref.ly/2Kgs3:1-2Kgs3:27\">2 Kings 3</a>). But there were also times of peace between them (<a href=\"https://ref.ly/Ruth1:1-Ruth1:2\">Ruth 1:1–2</a>). A Moabite woman named Ruth showed great kindness to her Israelite mother-in-law, Naomi, who experienced many tragedies. Ruth became part of the family line that produced King David and Jesus.</p><p>The Ammonites were descendants of Ammon, the son of Lot&apos;s younger daughter (<a href=\"https://ref.ly/Gen19:36-Gen19:38\">Genesis 19:36–38</a>). They settled in the Transjordan area, northeast of the Dead Sea. When the Israelites arrived after leaving Egypt, God told them not to take Ammonite land, as it belonged to Lot&apos;s descendants (<a href=\"https://ref.ly/Deut2:18-Deut2:19\">Deuteronomy 2:18–19</a>, <a href=\"https://ref.ly/Deut2:37\">37</a>). The Ammonites helped the Moabites fight against Israel and were banned from joining the Lord&apos;s congregation for ten generations (<a href=\"https://ref.ly/Deut23:3-Deut23:6\">Deuteronomy 23:3–6</a>; <a href=\"https://ref.ly/Neh13:1-Neh13:2\">Nehemiah 13:1–2</a>; see <a href=\"https://ref.ly/Num22:1-Num25:3\">Numbers 22:1–25:3</a>). After that, the Ammonites often fought with Israel (<a href=\"https://ref.ly/Judg10:1-Judg11:40\">Judges 10–11</a>; <a href=\"https://ref.ly/1Sam11:1-1Sam11:15\">1 Samuel 11</a>; <a href=\"https://ref.ly/1Sam14:47\">14:47</a>; <a href=\"https://ref.ly/1Chr20:1-1Chr20:3\">1 Chronicles 20:1–3</a>; <a href=\"https://ref.ly/2Chr20:1-2Chr20:24\">2 Chronicles 20:1–24</a>). But, David seemed to have allied with them for a while (<a href=\"https://ref.ly/2Sam17:27-2Sam17:29\">2 Samuel 17:27–29</a>; <a href=\"https://ref.ly/2Sam23:37\">23:37</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Deut23:3-Deut23:6\">Deuteronomy 23:3–6</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04021013",
+          "start_ref_usfm": "NUM 21:13",
+          "end_ref": "04021013",
+          "end_ref_usfm": "NUM 21:13"
+        },
+        {
+          "start_ref": "04021026",
+          "start_ref_usfm": "NUM 21:26",
+          "end_ref": "04021026",
+          "end_ref_usfm": "NUM 21:26"
+        },
+        {
+          "start_ref": "05002037",
+          "start_ref_usfm": "DEU 2:37",
+          "end_ref": "05002037",
+          "end_ref_usfm": "DEU 2:37"
+        },
+        {
+          "start_ref": "06024009",
+          "start_ref_usfm": "JOS 24:9",
+          "end_ref": "06024009",
+          "end_ref_usfm": "JOS 24:9"
+        },
+        {
+          "start_ref": "09014047",
+          "start_ref_usfm": "1SA 14:47",
+          "end_ref": "09014047",
+          "end_ref_usfm": "1SA 14:47"
+        },
+        {
+          "start_ref": "10008002",
+          "start_ref_usfm": "2SA 8:2",
+          "end_ref": "10008002",
+          "end_ref_usfm": "2SA 8:2"
+        },
+        {
+          "start_ref": "10023037",
+          "start_ref_usfm": "2SA 23:37",
+          "end_ref": "10023037",
+          "end_ref_usfm": "2SA 23:37"
+        },
+        {
+          "start_ref": "10017027",
+          "start_ref_usfm": "2SA 17:27",
+          "end_ref": "10017029",
+          "end_ref_usfm": "2SA 17:29"
+        },
+        {
+          "start_ref": "16013001",
+          "start_ref_usfm": "NEH 13:1",
+          "end_ref": "16013002",
+          "end_ref_usfm": "NEH 13:2"
+        },
+        {
+          "start_ref": "07003012",
+          "start_ref_usfm": "JDG 3:12",
+          "end_ref": "07003030",
+          "end_ref_usfm": "JDG 3:30"
+        },
+        {
+          "start_ref": "12003001",
+          "start_ref_usfm": "2KI 3:1",
+          "end_ref": "12003027",
+          "end_ref_usfm": "2KI 3:27"
+        },
+        {
+          "start_ref": "07010001",
+          "start_ref_usfm": "JDG 10:1",
+          "end_ref": "07011040",
+          "end_ref_usfm": "JDG 11:40"
+        },
+        {
+          "start_ref": "09011001",
+          "start_ref_usfm": "1SA 11:1",
+          "end_ref": "09011015",
+          "end_ref_usfm": "1SA 11:15"
+        },
+        {
+          "start_ref": "04021021",
+          "start_ref_usfm": "NUM 21:21",
+          "end_ref": "04021022",
+          "end_ref_usfm": "NUM 21:22"
+        },
+        {
+          "start_ref": "05023003",
+          "start_ref_usfm": "DEU 23:3",
+          "end_ref": "05023006",
+          "end_ref_usfm": "DEU 23:6"
+        },
+        {
+          "start_ref": "08001001",
+          "start_ref_usfm": "RUT 1:1",
+          "end_ref": "08001002",
+          "end_ref_usfm": "RUT 1:2"
+        },
+        {
+          "start_ref": "01019036",
+          "start_ref_usfm": "GEN 19:36",
+          "end_ref": "01019038",
+          "end_ref_usfm": "GEN 19:38"
+        },
+        {
+          "start_ref": "13020001",
+          "start_ref_usfm": "1CH 20:1",
+          "end_ref": "13020003",
+          "end_ref_usfm": "1CH 20:3"
+        },
+        {
+          "start_ref": "07011015",
+          "start_ref_usfm": "JDG 11:15",
+          "end_ref": "07011018",
+          "end_ref_usfm": "JDG 11:18"
+        },
+        {
+          "start_ref": "04022001",
+          "start_ref_usfm": "NUM 22:1",
+          "end_ref": "04025003",
+          "end_ref_usfm": "NUM 25:3"
+        },
+        {
+          "start_ref": "05002018",
+          "start_ref_usfm": "DEU 2:18",
+          "end_ref": "05002019",
+          "end_ref_usfm": "DEU 2:19"
+        },
+        {
+          "start_ref": "14020001",
+          "start_ref_usfm": "2CH 20:1",
+          "end_ref": "14020024",
+          "end_ref_usfm": "2CH 20:24"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

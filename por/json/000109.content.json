@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 658569,
+    "reference_id": 203492,
+    "title": "Samaritanos",
+    "media_type": "Text",
+    "index_reference": "samaritanos",
+    "language": "por",
+    "content": "<p>Samaria era uma região ao norte da Judeia, centrada em torno da antiga cidade de Siquém, chamada de Sicar no Novo Testamento. Após a conquista de Israel em 722 a.C., as cidades de Samaria e Siquém foram destruídas. Pessoas de todo o império assírio repovoaram a área (<a href=\"https://ref.ly/2Kgs17:21-2Kgs17:41\">2Rs 17.21–41</a>). Esses novos residentes trouxeram muitas práticas pagãs, tornando a impureza religiosa da terra bem conhecida. Com o tempo, a crença judaica em um único Deus tornou-se predominante, mas algumas práticas de fé mudaram. Os samaritanos aceitavam apenas o Pentateuco (os primeiros cinco livros do Antigo Testamento) como Escritura. Eles também adoravam em um novo templo no Monte Gerizim, acima de Siquém.</p><p>Os samaritanos e os judeus tinham uma longa história de conflito, começando após o retorno dos judeus do exílio (veja <a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">Ed 4.1–5</a>; <a href=\"https://ref.ly/Neh4:1-Neh4:23\">Ne 4.1–23</a>). Alexandre, o Grande, e mais tarde generais gregos fizeram de Siquém uma base importante porque encontraram aliados anti-judeus lá. Em 128 a.C., os judeus destruíram Siquém e queimaram o templo samaritano no Monte Gerizim. De 6 a 9 d.C., os samaritanos revidaram desonrando o Templo de Jerusalém. Eles espalharam ossos humanos de um cemitério durante a Páscoa. Na época de Jesus, a tensão entre Judeia e Samaria ainda era forte.</p><p>Durante o tempo de Jesus, os judeus evitavam viajar pela Samaria porque consideravam seu povo hostil e impuro. Quando Jesus viajou pela Samaria e encontrou uma mulher samaritana, as tensões dessa relação eram evidentes. Alguém vivendo no primeiro século dificilmente esperaria que Jesus e a mulher se cumprimentassem, muito menos conversassem. No entanto, Jesus foi além de sua identidade étnica e convidou até mesmo uma mulher samaritana com má reputação a acreditar.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/2Kgs17:21-2Kgs17:41\">2 Reis 17.21–41</a>; <a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">Esdras 4.1–5</a>; <a href=\"https://ref.ly/Neh4:1-Neh4:23\">Neemias 4.1–23</a>; <a href=\"https://ref.ly/John4:1-John4:42\">João 4.1–42</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15004001",
+          "start_ref_usfm": "EZR 4:1",
+          "end_ref": "15004005",
+          "end_ref_usfm": "EZR 4:5"
+        },
+        {
+          "start_ref": "43004001",
+          "start_ref_usfm": "JHN 4:1",
+          "end_ref": "43004042",
+          "end_ref_usfm": "JHN 4:42"
+        },
+        {
+          "start_ref": "16004001",
+          "start_ref_usfm": "NEH 4:1",
+          "end_ref": "16004023",
+          "end_ref_usfm": "NEH 4:23"
+        },
+        {
+          "start_ref": "12017021",
+          "start_ref_usfm": "2KI 17:21",
+          "end_ref": "12017041",
+          "end_ref_usfm": "2KI 17:41"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

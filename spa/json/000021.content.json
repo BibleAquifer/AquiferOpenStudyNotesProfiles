@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 658422,
+    "reference_id": 203497,
+    "title": "Bernabé",
+    "media_type": "Text",
+    "index_reference": "bernabé",
+    "language": "spa",
+    "content": "<p>Bernabé se presenta en Hechos como un excelente ejemplo de líder cristiano. Era de Cipro y participaba activamente en la iglesia de Jerusalem. Bernabé demostró gran generosidad al ayudar a los miembros más necesitados (<a href=\"https://ref.ly/Acts4:32-Acts4:37\">Hechos 4.32–37</a>). Su verdadero nombre era José, pero le apodaron Bernabé. Bernabé significa &quot;Hijo de Consolación&quot; y refleja su carácter (<a href=\"https://ref.ly/Acts4:36\">Hechos 4.36</a>).</p><p>Bernabé estaba bien preparado para evaluar adecuadamente el nuevo trabajo en Antioquía (<a href=\"https://ref.ly/Acts11:19-Acts11:22\">Hechos 11.19–22</a>). Bernabé reconoció la bendición de Dios allí y animó a los creyentes a mantenerse fieles al Señor (<a href=\"https://ref.ly/Acts11:23\">Hechos 11.23</a>). Su buen carácter se reflejaba en su amabilidad, fuerte fe, y una vida y trabajo llenos del Espíritu (<a href=\"https://ref.ly/Acts11:24\">Hechos 11.24</a>). El Espíritu eligió a Bernabé y Saúl para una misión especial (conocida como el primer viaje misionero). La iglesia en Antioquía los envió en este viaje (<a href=\"https://ref.ly/Acts13:1-Acts13:3\">Hechos 13.1–3</a>).</p><p>Bernabé demostró sabiduría al ir a Tarso para encontrar a Saúl (<a href=\"https://ref.ly/Acts11:25\">Hechos 11.25</a>). Bernabé admiraba la valiente predicación de Saúl como nuevo cristiano en Damasco. Presentó a Saúl a los apóstoles, lo cual fue crucial porque Saúl había atacado previamente a los creyentes. Gracias a Bernabé, Saúl conoció a los apóstoles originales, ganó su aceptación y predicó valientemente en Jerusalem hasta que tuvo que irse (<a href=\"https://ref.ly/Acts9:26-Acts9:30\">Hechos 9.26–30</a>). El viaje de Bernabé fue exitoso, y durante un año, trabajaron juntos en la iglesia de Antioquía, atrayendo a grandes multitudes (<a href=\"https://ref.ly/Acts11:26\">Hechos 11.26</a>).</p><p>Bernabé era una persona influyente. En Listra, la gente incluso creía que era Zeus (ver <a href=\"https://ref.ly/Acts14:8-Acts14:18\">Hechos 14.8–18</a>). Era primo y mentor de Juan Marcos. Bernabé ayudó a Juan Marcos a obtener una segunda oportunidad para destacarse como líder cristiano después de que abandonara una misión anterior (ver <a href=\"https://ref.ly/Acts15:36-Acts15:40\">Hechos 15.36–40</a>).</p><p>Bernabé comprendía cómo otros podían influir en las personas para hacer cosas incorrectas. En una ocasión, sucumbió a esta presión e hizo algo que sabía que estaba mal (<a href=\"https://ref.ly/Gal2:11-Gal2:13\">Gálatas 2.11–13</a>). Bernabé no era perfecto, pero fue un &quot;Hijo de Consolación&quot; para muchos. Era generoso y desinteresado, ayudando a otros y a la iglesia a crecer.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Acts4:36-Acts4:37\">Hechos 4.36–37</a>; <a href=\"https://ref.ly/Acts9:26-Acts9:28\">9.26–28</a>; <a href=\"https://ref.ly/Acts11:19-Acts11:30\">11.19–30</a>; <a href=\"https://ref.ly/Acts13:1-Acts15:40\">13.1–15.40</a>; <a href=\"https://ref.ly/Gal2:1-Gal2:14\">Gálatas 2.1–14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44004036",
+          "start_ref_usfm": "ACT 4:36",
+          "end_ref": "44004036",
+          "end_ref_usfm": "ACT 4:36"
+        },
+        {
+          "start_ref": "44011023",
+          "start_ref_usfm": "ACT 11:23",
+          "end_ref": "44011023",
+          "end_ref_usfm": "ACT 11:23"
+        },
+        {
+          "start_ref": "44011024",
+          "start_ref_usfm": "ACT 11:24",
+          "end_ref": "44011024",
+          "end_ref_usfm": "ACT 11:24"
+        },
+        {
+          "start_ref": "44011025",
+          "start_ref_usfm": "ACT 11:25",
+          "end_ref": "44011025",
+          "end_ref_usfm": "ACT 11:25"
+        },
+        {
+          "start_ref": "44011026",
+          "start_ref_usfm": "ACT 11:26",
+          "end_ref": "44011026",
+          "end_ref_usfm": "ACT 11:26"
+        },
+        {
+          "start_ref": "44013001",
+          "start_ref_usfm": "ACT 13:1",
+          "end_ref": "44013003",
+          "end_ref_usfm": "ACT 13:3"
+        },
+        {
+          "start_ref": "44004032",
+          "start_ref_usfm": "ACT 4:32",
+          "end_ref": "44004037",
+          "end_ref_usfm": "ACT 4:37"
+        },
+        {
+          "start_ref": "44004036",
+          "start_ref_usfm": "ACT 4:36",
+          "end_ref": "44004037",
+          "end_ref_usfm": "ACT 4:37"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011022",
+          "end_ref_usfm": "ACT 11:22"
+        },
+        {
+          "start_ref": "44009026",
+          "start_ref_usfm": "ACT 9:26",
+          "end_ref": "44009030",
+          "end_ref_usfm": "ACT 9:30"
+        },
+        {
+          "start_ref": "44014008",
+          "start_ref_usfm": "ACT 14:8",
+          "end_ref": "44014018",
+          "end_ref_usfm": "ACT 14:18"
+        },
+        {
+          "start_ref": "44009026",
+          "start_ref_usfm": "ACT 9:26",
+          "end_ref": "44009028",
+          "end_ref_usfm": "ACT 9:28"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011030",
+          "end_ref_usfm": "ACT 11:30"
+        },
+        {
+          "start_ref": "48002011",
+          "start_ref_usfm": "GAL 2:11",
+          "end_ref": "48002013",
+          "end_ref_usfm": "GAL 2:13"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015040",
+          "end_ref_usfm": "ACT 15:40"
+        },
+        {
+          "start_ref": "44013001",
+          "start_ref_usfm": "ACT 13:1",
+          "end_ref": "44015040",
+          "end_ref_usfm": "ACT 15:40"
+        },
+        {
+          "start_ref": "48002001",
+          "start_ref_usfm": "GAL 2:1",
+          "end_ref": "48002014",
+          "end_ref_usfm": "GAL 2:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

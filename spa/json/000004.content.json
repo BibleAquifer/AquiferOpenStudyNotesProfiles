@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 658359,
+    "reference_id": 203434,
+    "title": "Abner",
+    "media_type": "Text",
+    "index_reference": "abner",
+    "language": "spa",
+    "content": "<p>Abner, hijo de Ner, era primo del rey Saúl y su general (<a href=\"https://ref.ly/1Sam14:49-1Sam14:52\">1 Samuel 14.49–52</a>). Bajo el mando de Abner, los ejércitos de Saúl lograron victorias clave contra los filisteos (<a href=\"https://ref.ly/1Sam17:1-1Sam17:58\">1 Samuel 17.1–58</a>). Abner también compartió la mesa del rey con David y Jonathán (<a href=\"https://ref.ly/1Sam20:24-1Sam20:25\">1 Samuel 20.24–25</a>). Sin embargo, tanto Jonathán como David superaron a Abner en el ejército de Saúl.</p><p>David avergonzó a Abner en una ocasión (<a href=\"https://ref.ly/1Sam26:1-1Sam26:25\">1 Samuel 26.1–25</a>). Saúl estaba persiguiendo a David para matarlo. Saúl y sus tropas acamparon en un círculo, con Saúl durmiendo en el centro y Abner a su lado. Abisai y David se infiltraron en el campamento y pudieron haber matado a Saúl. En lugar de hacerlo, tomaron algunos objetos que estaban junto a la cabeza de Saúl. Después de retirarse, David gritó para despertar a Saúl y Abner, y criticó a Abner por ser descuidado.</p><p>Después de la muerte de Saúl y Jonathán, Abner apoyó al hijo de Saúl, Is-boseth (<a href=\"https://ref.ly/2Sam2:8-2Sam2:12\">2 Samuel 2.8–12</a>), mientras que la tribu de Judá proclamó a David como rey. Durante este período, Abner sostenía el poder real en el norte. Cuando Is-boseth acusó a Abner de tener relaciones con una de las concubinas de Saúl, Abner transfirió el control del reino del norte a David. Is-boseth fue asesinado posteriormente (<a href=\"https://ref.ly/2Sam4:1-2Sam4:12\">2 Samuel 4.1–12</a>).</p><p>Durante la batalla entre Is-boseth y David, Abner se vio obligado a matar al hermano de Joab, Asael, en defensa propia. No deseaba hacerlo y le había advertido que se retirara (<a href=\"https://ref.ly/2Sam2:18-2Sam2:32\">2 Samuel 2.18–32</a>). Más tarde, Joab asesinó a Abner en un acto premeditado de venganza (<a href=\"https://ref.ly/2Sam3:22-2Sam3:30\">2 Samuel 3.22–30</a>), algo que David no pudo evitar (ver <a href=\"https://ref.ly/2Sam3:38-2Sam3:39\">2 Samuel 3.38–39</a>). David honró a Abner con una elegía (un discurso de alabanza que conmemora su vida y logros), luto público y un funeral de estado (<a href=\"https://ref.ly/2Sam3:31-2Sam3:37\">2 Samuel 3.31–37</a>). Posteriormente, David recordó estos eventos y se aseguró de que Joab fuera castigado por el asesinato (<a href=\"https://ref.ly/1Kgs2:5-1Kgs2:6\">1 Reyes 2.5–6</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/1Sam14:49-1Sam14:52\">1 Samuel 14.49–52</a>; <a href=\"https://ref.ly/1Sam17:55-1Sam17:58\">17.55–58</a>; <a href=\"https://ref.ly/1Sam26:5-1Sam26:16\">26.5–16</a>; <a href=\"https://ref.ly/2Sam2:8-2Sam2:29\">2 Samuel 2.8–29</a>; <a href=\"https://ref.ly/2Sam3:6-2Sam3:39\">3.6–39</a>; <a href=\"https://ref.ly/1Kgs2:5\">1 Reyes 2.5</a>, <a href=\"https://ref.ly/1Kgs2:32\">32.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11002005",
+          "start_ref_usfm": "1KI 2:5",
+          "end_ref": "11002005",
+          "end_ref_usfm": "1KI 2:5"
+        },
+        {
+          "start_ref": "11002032",
+          "start_ref_usfm": "1KI 2:32",
+          "end_ref": "11002032",
+          "end_ref_usfm": "1KI 2:32"
+        },
+        {
+          "start_ref": "09017001",
+          "start_ref_usfm": "1SA 17:1",
+          "end_ref": "09017058",
+          "end_ref_usfm": "1SA 17:58"
+        },
+        {
+          "start_ref": "11002005",
+          "start_ref_usfm": "1KI 2:5",
+          "end_ref": "11002006",
+          "end_ref_usfm": "1KI 2:6"
+        },
+        {
+          "start_ref": "09026001",
+          "start_ref_usfm": "1SA 26:1",
+          "end_ref": "09026025",
+          "end_ref_usfm": "1SA 26:25"
+        },
+        {
+          "start_ref": "10002018",
+          "start_ref_usfm": "2SA 2:18",
+          "end_ref": "10002032",
+          "end_ref_usfm": "2SA 2:32"
+        },
+        {
+          "start_ref": "10004001",
+          "start_ref_usfm": "2SA 4:1",
+          "end_ref": "10004012",
+          "end_ref_usfm": "2SA 4:12"
+        },
+        {
+          "start_ref": "09017055",
+          "start_ref_usfm": "1SA 17:55",
+          "end_ref": "09017058",
+          "end_ref_usfm": "1SA 17:58"
+        },
+        {
+          "start_ref": "09014049",
+          "start_ref_usfm": "1SA 14:49",
+          "end_ref": "09014052",
+          "end_ref_usfm": "1SA 14:52"
+        },
+        {
+          "start_ref": "09020024",
+          "start_ref_usfm": "1SA 20:24",
+          "end_ref": "09020025",
+          "end_ref_usfm": "1SA 20:25"
+        },
+        {
+          "start_ref": "10002008",
+          "start_ref_usfm": "2SA 2:8",
+          "end_ref": "10002012",
+          "end_ref_usfm": "2SA 2:12"
+        },
+        {
+          "start_ref": "10003022",
+          "start_ref_usfm": "2SA 3:22",
+          "end_ref": "10003030",
+          "end_ref_usfm": "2SA 3:30"
+        },
+        {
+          "start_ref": "10003038",
+          "start_ref_usfm": "2SA 3:38",
+          "end_ref": "10003039",
+          "end_ref_usfm": "2SA 3:39"
+        },
+        {
+          "start_ref": "10003031",
+          "start_ref_usfm": "2SA 3:31",
+          "end_ref": "10003037",
+          "end_ref_usfm": "2SA 3:37"
+        },
+        {
+          "start_ref": "09026005",
+          "start_ref_usfm": "1SA 26:5",
+          "end_ref": "09026016",
+          "end_ref_usfm": "1SA 26:16"
+        },
+        {
+          "start_ref": "10002008",
+          "start_ref_usfm": "2SA 2:8",
+          "end_ref": "10002029",
+          "end_ref_usfm": "2SA 2:29"
+        },
+        {
+          "start_ref": "10003006",
+          "start_ref_usfm": "2SA 3:6",
+          "end_ref": "10003039",
+          "end_ref_usfm": "2SA 3:39"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

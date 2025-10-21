@@ -1,0 +1,102 @@
+[
+  {
+    "content_id": 500569,
+    "reference_id": 203512,
+    "title": "Ephesus",
+    "media_type": "Text",
+    "index_reference": "ephesus",
+    "language": "eng",
+    "content": "<p>Ephesus was at the crossroads of major trade routes, both north-south and east-west. It was famous as the &quot;guardian&quot; of the temple of Artemis (<a href=\"https://ref.ly/Acts19:35\">Acts 19:35</a>). As guardian, Ephesus was officially recognized as the caretaker and protector of the temple. This was an important title that brought honor and economic benefits to the city. </p><p>Ionian Greeks founded Ephesus around 1044 BC on a natural harbor where the Cayster River flowed into a gulf of the Aegean Sea. Today, the ancient city&apos;s site is far inland. The city came under Roman rule in 41 BC. During the time of the apostles, Ephesus was wealthy, serving as a commercial and religious center. It was the most important city in the Roman province of Asia.</p><p>The worship of Artemis in Ephesus was almost as old as the city. The temple of Artemis, one of the seven wonders of the ancient world, was crucial to Ephesus&apos;s wealth and trade. Pilgrims visiting for Artemis worship created many business opportunities for idol makers and other vendors.</p><p>When Paul arrived on his third missionary journey in AD 53, Ephesus had been a city for over a thousand years (<a href=\"https://ref.ly/Acts19:1-Acts19:41\">Acts 19</a>). The people were deeply devoted to their patron goddess and her temple. As more people accepted Paul&apos;s message, this reduced business for those who made and sold statues of Artemis. This made them angry, and they started a riot that almost killed Paul (<a href=\"https://ref.ly/Acts19:24\">Acts 19:24</a>, <a href=\"https://ref.ly/Acts19:28-Acts19:31\">28–31</a>).</p><p>The church of Ephesus grew strong under Paul&apos;s teaching and leadership. People who learned from Paul in Ephesus started churches in nearby communities, like Colossae (see <span data-bnType=\"resourceReference\" data-resourceId=\"26427\" data-resourceType=\"TyndaleStudyNotesBookIntros\">Colossians Book Introduction</span>, “Setting”). However, Paul warned the Ephesian church leaders about the threat of false teachers (<a href=\"https://ref.ly/Acts20:29-Acts20:31\">Acts 20:29–31</a>).</p><p>The apostle John likely settled in Ephesus around AD 70. From there, he was exiled to the island of Patmos (<a href=\"https://ref.ly/Rev1:9\">Revelation 1:9</a>). John likely wrote Revelation while living on Patmos, probably in the AD 90s. By then, the Christian community&apos;s love and good works, praised in the letter to the Ephesians, had mostly faded (<a href=\"https://ref.ly/Rev2:4\">Revelation 2:4</a>). IAccording to the early Christian writer Irenaeus, John came back to Ephesus after his time on Patmos. He lived there until his death, which happened during the time when Trajan was emperor from AD 98 to 117. Tradition says that Mary, the mother of Jesus, also spent her final days in Ephesus under John&apos;s care (see <a href=\"https://ref.ly/John19:25-John19:27\">John 19:25–27</a>).</p><p>The Goths burned the Temple of Artemis in AD 262. The Goths were people from northern Europe who fought against the Roman Empire. By the time of the third ecumenical council (also called the Council of Ephesus) in Ephesus in AD 431, Artemis was no longer influential among the Ephesians. This change supports Paul&apos;s message that &quot;<span>man-made god</span>s&quot; like Artemis &quot;<span>are no gods at all</span>&quot; (<a href=\"https://ref.ly/Acts19:26\">Acts 19:26</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts18:19-Acts19:41\">Acts 18:19–19:41</a>; <a href=\"https://ref.ly/Acts20:16-Acts20:38\">20:16–38</a>; <a href=\"https://ref.ly/Eph1:1\">Ephesians 1:1</a>; <a href=\"https://ref.ly/Rev2:1-Rev2:7\">Revelation 2:1–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44019024",
+          "start_ref_usfm": "ACT 19:24",
+          "end_ref": "44019024",
+          "end_ref_usfm": "ACT 19:24"
+        },
+        {
+          "start_ref": "44019026",
+          "start_ref_usfm": "ACT 19:26",
+          "end_ref": "44019026",
+          "end_ref_usfm": "ACT 19:26"
+        },
+        {
+          "start_ref": "44019035",
+          "start_ref_usfm": "ACT 19:35",
+          "end_ref": "44019035",
+          "end_ref_usfm": "ACT 19:35"
+        },
+        {
+          "start_ref": "49001001",
+          "start_ref_usfm": "EPH 1:1",
+          "end_ref": "49001001",
+          "end_ref_usfm": "EPH 1:1"
+        },
+        {
+          "start_ref": "66001009",
+          "start_ref_usfm": "REV 1:9",
+          "end_ref": "66001009",
+          "end_ref_usfm": "REV 1:9"
+        },
+        {
+          "start_ref": "66002004",
+          "start_ref_usfm": "REV 2:4",
+          "end_ref": "66002004",
+          "end_ref_usfm": "REV 2:4"
+        },
+        {
+          "start_ref": "44019001",
+          "start_ref_usfm": "ACT 19:1",
+          "end_ref": "44019041",
+          "end_ref_usfm": "ACT 19:41"
+        },
+        {
+          "start_ref": "43019025",
+          "start_ref_usfm": "JHN 19:25",
+          "end_ref": "43019027",
+          "end_ref_usfm": "JHN 19:27"
+        },
+        {
+          "start_ref": "66002001",
+          "start_ref_usfm": "REV 2:1",
+          "end_ref": "66002007",
+          "end_ref_usfm": "REV 2:7"
+        },
+        {
+          "start_ref": "44019028",
+          "start_ref_usfm": "ACT 19:28",
+          "end_ref": "44019031",
+          "end_ref_usfm": "ACT 19:31"
+        },
+        {
+          "start_ref": "44020029",
+          "start_ref_usfm": "ACT 20:29",
+          "end_ref": "44020031",
+          "end_ref_usfm": "ACT 20:31"
+        },
+        {
+          "start_ref": "44018019",
+          "start_ref_usfm": "ACT 18:19",
+          "end_ref": "44019041",
+          "end_ref_usfm": "ACT 19:41"
+        },
+        {
+          "start_ref": "44020016",
+          "start_ref_usfm": "ACT 20:16",
+          "end_ref": "44020038",
+          "end_ref_usfm": "ACT 20:38"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26427,
+          "content_id": 27336,
+          "resource_code": "TyndaleStudyNotesBookIntros",
+          "label": "Colossians",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 658434,
+    "reference_id": 203509,
+    "title": "Nerón",
+    "media_type": "Text",
+    "index_reference": "nerón",
+    "language": "spa",
+    "content": "<p>Nerón ascendió al trono como emperador de Roma en el año 54 d.C. a la edad de diecisiete años, después de que su madre envenenara a su esposo, el emperador Claudio. A Nerón le fascinaba ser el centro de atención. Era conocido por su conducta inmoral y su gasto extravagante. Durante los primeros años de su reinado, contó con dos consejeros que administraron eficazmente el imperio:</p><ul><li><p>Burro fue el prefecto de la Guardia Pretoriana, es decir, el comandante de los soldados de élite del Emperador.</p></li><li><p>Séneca fue un célebre filósofo que adoptó el estoicismo, una filosofía que destaca la razón, el autocontrol y la virtud.</p></li></ul><p>Cuando Pablo escribió a los Romanos alrededor del año 57 d.C., instándolos a &quot;someterse a las autoridades gobernantes&quot; como &quot;designadas por Dios&quot; (<a href=\"https://ref.ly/Rom13:1\">Romanos 13:1</a>), el carácter inmoral de Nerón ya era ampliamente conocido.</p><p>Las peores acciones de Nerón ocurrieron después de que organizó el asesinato de su madre en el año 59 d.C. (el mismo año en que Pablo apeló a César, <a href=\"https://ref.ly/Acts25:11\">Hechos 25:11</a>). En el año 62 d.C., desterró y luego ejecutó a su esposa, se casó con su amante y obligó a Burro y Séneca a retirarse. En el año 64 d.C., un incendio destruyó gran parte de Roma. En ese momento, Nerón estaba fuera de la ciudad, pero muchos creyeron el rumor de que él mismo había iniciado el incendio. Nerón culpó a los cristianos, acusándolos del crimen. La gente veía a los cristianos como hostiles a la sociedad y merecedores de castigo, incluso si pocos creían que ellos habían iniciado el incendio. Fueron &quot;condenados no tanto por incendio como por odio a la raza humana&quot; (Tacitus, <em>Anales</em> 15.44). La persecución de los cristianos en Roma fue severa; es probable que Pedro y Pablo fueran ejecutados en Roma durante este tiempo.</p><p>En el año 66 d.C., comenzó una revuelta judía en Cesárea. Nerón envió a su general, Vespasiano, para detener el levantamiento. Nerón mostró poco interés en gobernar y pasó dos años actuando en Grecia, dejando el gobierno en manos de un prefecto romano. Al regresar a Roma, los gobernadores de Francia, España y África se opusieron a él. Como resultado, Nerón se suicidó en el año 68 d.C., exclamando: “¡Qué artista muere conmigo!” Fue el último y peor emperador de la línea de Julio César. (Véase también las notas de estudio sobre <span data-bnType=\"resourceReference\" data-resourceId=\"24415\" data-resourceType=\"TyndaleStudyNotes\">Apocalipsis 13:3</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"24406\" data-resourceType=\"TyndaleStudyNotes\">11</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"24412\" data-resourceType=\"TyndaleStudyNotes\">18</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"24473\" data-resourceType=\"TyndaleStudyNotes\">17:8</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"24461\" data-resourceType=\"TyndaleStudyNotes\">10–11</span>.)</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Rom13:1-Rom13:7\">Romanos 13:1–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44025011",
+          "start_ref_usfm": "ACT 25:11",
+          "end_ref": "44025011",
+          "end_ref_usfm": "ACT 25:11"
+        },
+        {
+          "start_ref": "45013001",
+          "start_ref_usfm": "ROM 13:1",
+          "end_ref": "45013001",
+          "end_ref_usfm": "ROM 13:1"
+        },
+        {
+          "start_ref": "45013001",
+          "start_ref_usfm": "ROM 13:1",
+          "end_ref": "45013007",
+          "end_ref_usfm": "ROM 13:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 24406,
+          "content_id": 718265,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "Apocalipsis 13:11",
+          "language": "spa"
+        },
+        {
+          "reference_id": 24412,
+          "content_id": 718271,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "Apocalipsis 13:18",
+          "language": "spa"
+        },
+        {
+          "reference_id": 24415,
+          "content_id": 718274,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "Apocalipsis 13:3",
+          "language": "spa"
+        },
+        {
+          "reference_id": 24461,
+          "content_id": 718320,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "Apocalipsis 17:10-11",
+          "language": "spa"
+        },
+        {
+          "reference_id": 24473,
+          "content_id": 718332,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "Apocalipsis 17:8",
+          "language": "spa"
+        }
+      ]
+    }
+  }
+]

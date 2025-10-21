@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 668960,
+    "reference_id": 203502,
+    "title": "Jean Marc",
+    "media_type": "Text",
+    "index_reference": "jean marc",
+    "language": "fra",
+    "content": "<p>Jean Marc, auteur du premier Évangile (celui de Marc), fut l’assistant de trois missionnaires de la première heure&nbsp;:</p><ul><li><p>Barnabé</p></li><li><p>Paul</p></li><li><p>Pierre</p></li></ul><p>Barnabé et Paul ont pris Marc comme assistant lors de leur premier voyage comme missionnaires. Cependant, Marc les a quittés et est retourné à Jérusalem avant la fin du voyage (<a href=\"https://ref.ly/Acts12:25\">Ac&nbsp;12.25</a>&nbsp;; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13.4–5</a>, <a href=\"https://ref.ly/Acts13:13\">13</a>). À cause de cela, lorsque Barnabé a voulu emmener Marc lors du deuxième voyage, Paul a refusé. Ce désaccord a divisé l’équipe&nbsp;: Barnabé a pris Marc, son cousin, tandis que Paul a choisi Silas. Les deux paires ont alors pris des chemins séparés (<a href=\"https://ref.ly/Acts15:36-Acts15:41\">Ac&nbsp;15.36–41</a>).</p><p>Plus tard, Paul et Marc se sont réconciliés, et Marc est redevenu son assistant. Dans l’épître aux Colossiens, Paul appelle Marc un collaborateur et suggère qu’il pourrait bientôt l’envoyer visiter l’église à Colosses (<a href=\"https://ref.ly/Col4:10\">Col&nbsp;4.10</a>&nbsp;; voir aussi <a href=\"https://ref.ly/Phlm1:24\">Phm&nbsp;1.24</a>). Encore plus tard, lorsque Paul attendait son exécution dans une prison romaine, il a demandé à Timothée de prendre Marc parce qu’il croyait que Marc serait utile dans son ministère (<a href=\"https://ref.ly/2Tim4:11\">2Tm&nbsp;4.11</a>).</p><p>Marc a probablement aidé Pierre avec son travail de missionnaire en Italie vers la fin de sa vie. Dans l’une des lettres de Pierre, il appelle affectueusement Marc son «&nbsp;fils&nbsp;» qui est avec lui (<a href=\"https://ref.ly/1Pet5:13\">1P&nbsp;5.13</a>). La tradition chrétienne ancienne décrit Marc comme l’«&nbsp;interprète&nbsp;» de Pierre et suggère que Marc a obtenu ses informations sur la vie et les paroles de Jésus directement de Pierre (Eusèbe, <em>Histoire de l’Église</em>&nbsp;3.39.16).</p><p>L’Évangile de Marc est généralement considéré comme le plus ancien de tous les Évangiles. Il a presque certainement été une source principale pour Matthieu et Luc lorsqu’ils ont rédigé leurs propres Évangiles. Pour cette raison, l’Évangile de Marc est l’un des écrits chrétiens anciens les plus influents.</p><p>L’histoire de Marc montre que Dieu peut réparer les erreurs humaines et restaurer des relations difficiles pour le Christ et la bonne nouvelle. Les échecs précoces n’empêchent pas une personne d’avoir une vie de service significative et impactante.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Acts12:12\">Ac&nbsp;12.12</a>, <a href=\"https://ref.ly/Acts12:25\">25&nbsp;</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13.4–5</a>, <a href=\"https://ref.ly/Acts13:13\">13&nbsp;</a>; <a href=\"https://ref.ly/Acts15:36-Acts15:39\">15.36–39&nbsp;</a>; <a href=\"https://ref.ly/Col4:10\">Col&nbsp;4.10&nbsp;</a>; <a href=\"https://ref.ly/2Tim4:11\">2Tm&nbsp;4.11&nbsp;</a>; <a href=\"https://ref.ly/Phlm1:23-Phlm1:24\">Phm&nbsp;1.23–24&nbsp;</a>; <a href=\"https://ref.ly/1Pet5:13\">1P&nbsp;5.13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012012",
+          "start_ref_usfm": "ACT 12:12",
+          "end_ref": "44012012",
+          "end_ref_usfm": "ACT 12:12"
+        },
+        {
+          "start_ref": "44012025",
+          "start_ref_usfm": "ACT 12:25",
+          "end_ref": "44012025",
+          "end_ref_usfm": "ACT 12:25"
+        },
+        {
+          "start_ref": "44013013",
+          "start_ref_usfm": "ACT 13:13",
+          "end_ref": "44013013",
+          "end_ref_usfm": "ACT 13:13"
+        },
+        {
+          "start_ref": "51004010",
+          "start_ref_usfm": "COL 4:10",
+          "end_ref": "51004010",
+          "end_ref_usfm": "COL 4:10"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004011",
+          "end_ref_usfm": "2TI 4:11"
+        },
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "60005013",
+          "start_ref_usfm": "1PE 5:13",
+          "end_ref": "60005013",
+          "end_ref_usfm": "1PE 5:13"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "57001023",
+          "start_ref_usfm": "PHM 1:23",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "44013004",
+          "start_ref_usfm": "ACT 13:4",
+          "end_ref": "44013005",
+          "end_ref_usfm": "ACT 13:5"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015039",
+          "end_ref_usfm": "ACT 15:39"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

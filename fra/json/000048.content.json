@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 668935,
+    "reference_id": 203477,
+    "title": "Hérode le Grand",
+    "media_type": "Text",
+    "index_reference": "hérode le grand",
+    "language": "fra",
+    "content": "<p>Hérode le Grand fut le roi de Judée, nommé par les Romains, de 37 à 4 av. J.‑C. &nbsp;Il était gouverneur au moment de la naissance de Jésus (<a href=\"https://ref.ly/Matt2:1\">Mt 2.1</a> ; <a href=\"https://ref.ly/Luke1:5\">Lc 1.5</a>). Chef militaire redoutable, politicien habile et dirigeant impitoyable, Hérode est issu d&apos;une famille iduméenne (édomite) qui possèdait de solides relations avec Rome. &nbsp;Il s&apos;empara du pouvoir en se faisant apprécier des Romains et le conserva en faisant preuve d&apos;une grande cruauté envers ceux qui s&apos;opposaient à lui.</p><p>Hérode était célèbre pour ses grands projets de construction. Son plus grand accomplissement fut la reconstruction et l&apos;embellissement du temple de Jérusalem, entreprise débutée vers 20 av. J.-C.&nbsp; (Josèphe, <em>Antiquités juives</em> 15.8.1), qui fit de ce sanctuaire l&apos;un des édifices les plus impressionnants du monde antique. Il fonda également Césarée, et fit de cette ville le siège romain en Palestine. Il méritait ainsi le titre de « le Grand » pour sa remarquable ingéniosité architecturale.</p><p>Hérode était aussi tristement célèbre pour ses problèmes familiaux et son traitement sévère des opposants (ou de ceux qu&apos;il percevait comme tel). ll fit exécuter deux de ses épouses et trois de ses fils, les soupçonnant de conspirer contre lui. César Auguste a dit un jour qu&apos;il valait mieux être le<em> porc</em> d&apos;Hérode que son propre <em>fils </em>(un jeu de mots en grec entre deux mots aux consonances proches : «<em> hus</em> » et « <em>huios </em>»).</p><p>Vers la fin de son règne, lorsqu&apos;il apprit que Jésus serait un futur « roi », il tenta de le faire tuer. Incapable de retrouver l&apos;enfant, il ordonna le massacre de tous les garçons de moins de deux ans dans la région de Bethléhem (voir <a href=\"https://ref.ly/Matt2:1-Matt2:20\">Mt 2.1–20</a>), un acte qui illustrait toute la cruauté et la paranoïa de son règne.</p><p>Bien qu&apos;on l&apos;appelât « roi des Juifs », le peuple juif ne le considérait pas comme leur véritable souverain, car il ne faisait pas partie de la lignée davidique. <span>Il n&apos;était pas issu de la lignée du roi David et était un Édomite, un descendant d&apos;Ésau, et non un Juif.</span></p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Matt2:1-Matt2:20\">Mt 2.1–20</a> ; <a href=\"https://ref.ly/Luke1:5\">Lc 1.5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002001",
+          "end_ref_usfm": "MAT 2:1"
+        },
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001005",
+          "end_ref_usfm": "LUK 1:5"
+        },
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002020",
+          "end_ref_usfm": "MAT 2:20"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

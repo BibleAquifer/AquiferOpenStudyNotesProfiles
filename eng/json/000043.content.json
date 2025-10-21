@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 500534,
+    "reference_id": 203477,
+    "title": "Herod the Great",
+    "media_type": "Text",
+    "index_reference": "herod the great",
+    "language": "eng",
+    "content": "<p>Herod the Great was the Roman-appointed king of Judea from 37 to 4 BC. Herod the Great was king when Jesus was born (<a href=\"https://ref.ly/Matt2:1\">Matthew 2:1</a>; <a href=\"https://ref.ly/Luke1:5\">Luke 1:5</a>). He was a strong military leader, a skilled politician, and a harsh ruler. He was born into an Idumean (Edomite) family with Roman connections. He gained power by making the Romans like him, and he kept this power by being cruel to anyone who opposed him.</p><p>Herod was famous for his large building projects. His greatest achievement was rebuilding and beautifying the Jerusalem Temple, which began around 20 BC (Josephus, <em>Antiquities</em> 15.8.1). This made it one of the most impressive buildings in the ancient world. He also built Caesarea and made it the Roman headquarters in Palestine. Herod earned the title &quot;the Great&quot; due to his reputation as an excellent builder.</p><p>Herod was known for his family problems and harsh treatment of opponents or perceived threats. He killed two of his wives and three of his sons when he suspected them of plotting against him. Caesar Augustus once said he would rather be Herod’s <em>swine</em> (pig) than his <em>son</em> (a play on words in Greek since the two words sound alike—<em>hus</em>, <em>huios</em>). When Jesus was born near the end of Herod’s reign and Herod heard him called a future “king,” he tried to have him killed. Unable to find the boy, Herod ordered the killing of all boys under two years old in the Bethlehem area (see <a href=\"https://ref.ly/Matt2:1-Matt2:20\">Matthew 2:1–20</a>). This act was typical of his cruelty and paranoia.</p><p>Herod was called &quot;king of the Jews,&quot; but the Jewish people did not accept him as their true king. He was not from King David&apos;s family line and was an Edomite, a descendant of Esau, not a Jew.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt2:1-Matt2:20\">Matthew 2:1–20</a>; <a href=\"https://ref.ly/Luke1:5\">Luke 1:5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002001",
+          "end_ref_usfm": "MAT 2:1"
+        },
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001005",
+          "end_ref_usfm": "LUK 1:5"
+        },
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002020",
+          "end_ref_usfm": "MAT 2:20"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

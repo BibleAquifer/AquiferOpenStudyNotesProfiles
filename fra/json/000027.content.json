@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 668880,
+    "reference_id": 203422,
+    "title": "Débora",
+    "media_type": "Text",
+    "index_reference": "débora",
+    "language": "fra",
+    "content": "<p>La prophétesse Débora fut l&apos;une des premières juges d&apos;Israël. Elle était une femme intègre et dévoué pour le Seigneur. En tant que prophète, elle recevait des messages divins. En tant que juge, elle réglait des différends juridiques. Les gens la qualifiaient souvent de « mère en Israël » (voir <a href=\"https://ref.ly/Judg5:7\">Jg 5.7</a>).</p><p>À l&apos;époque de Débora, le peuple d&apos;Israël s&apos;était égaré : il abandonnait les voies de Dieu pour sombrer dans l&apos;injustice, faisant « <span>ce qui déplaît à l’Éternel »</span> (<a href=\"https://ref.ly/Judg4:1\">Jg 4.1</a>) et ne vivant pas dans l&apos;unité. Attristé de cela, le Seigneur livra Israël aux mains d&apos;un oppresseur, Jabin, roi de Canaan. Dans leur détresse, les Israélites élevèrent à nouveau un cri vers le Seigneur, implorant son secours (<a href=\"https://ref.ly/Judg4:3\">Jg 4.3</a>).</p><p>Dieu appela alors Barak, par l&apos;intermédiaire de Débora, pour mener la lutte contre Sisera, le redoutable commandant de l&apos;armée de Jabin. Cependant, Barak, manquant de courage, insista pour que Débora l&apos;accompagne. Débora accepta mais lui dit que la gloire de la victoire reviendrait à une femme, et non pas à lui. Cette prédiction se réalisa lorsque, malgré la victoire de Barak sur Sisera, c&apos;est Jaël, la femme qui porta le coup de grâce en tuant Sisera, qui reçut tous les honneurs. Ce contraste saisissant révéla la force et les qualités de commandement de Débora et de Jaël, et la timidité de Barak. La manière d&apos;agir de Débora permit à Israël de jouir de quarante années de paix (<a href=\"https://ref.ly/Judg5:31\">Jg 5.31</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Judg4:1-Judg5:31\">Jg 4.1–5.31</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07004001",
+          "start_ref_usfm": "JDG 4:1",
+          "end_ref": "07004001",
+          "end_ref_usfm": "JDG 4:1"
+        },
+        {
+          "start_ref": "07004003",
+          "start_ref_usfm": "JDG 4:3",
+          "end_ref": "07004003",
+          "end_ref_usfm": "JDG 4:3"
+        },
+        {
+          "start_ref": "07005007",
+          "start_ref_usfm": "JDG 5:7",
+          "end_ref": "07005007",
+          "end_ref_usfm": "JDG 5:7"
+        },
+        {
+          "start_ref": "07005031",
+          "start_ref_usfm": "JDG 5:31",
+          "end_ref": "07005031",
+          "end_ref_usfm": "JDG 5:31"
+        },
+        {
+          "start_ref": "07004001",
+          "start_ref_usfm": "JDG 4:1",
+          "end_ref": "07005031",
+          "end_ref_usfm": "JDG 5:31"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

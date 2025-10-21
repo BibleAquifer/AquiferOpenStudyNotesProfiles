@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 668907,
+    "reference_id": 203449,
+    "title": "Achaz",
+    "media_type": "Text",
+    "index_reference": "achaz",
+    "language": "fra",
+    "content": "<p>Achaz régna sur Juda durant une période tumultueuse, de 743 à 715 av. J.-C. Alors que son père, Jotham, et son fils, Ézéchias, ont été loués pour leur fidélité au Seigneur (voir <a href=\"https://ref.ly/2Kgs15:32-2Kgs15:38\">2R 15.32–38</a> ; <a href=\"https://ref.ly/2Chr27:1-2Chr27:9\">2 Ch 27.1–9</a> ; et <a href=\"https://ref.ly/2Kgs18:1-2Kgs18:8\">2R 18.1–8</a>), Achaz se distingua par sa méchanceté et, pire encore, il sacrifia même l&apos;un de ses fils à de faux dieux.</p><p>Son règne fut marqué par de nombreux conflits. Lorsque le roi Pékach d&apos;Israël et le roi Retsin de Syrie tentèrent d&apos;entraîner Juda dans une coalition contre l&apos;Assyrie, Achaz refusa de s&apos;y joindre. Cette décision mena à une attaque de Pékach et de Retsin, qui remportèrent d&apos;importantes victoires, semant la terreur chez Achaz. Le prophète Ésaïe tenta de l&apos;exhorter à faire confiance au Seigneur, mais Achaz persista dans son obstination (<a href=\"https://ref.ly/Isa7:1-Isa7:25\">És 7</a>).</p><p>Dans son manque de confiance en Dieu, Achaz sollicita l&apos;aide de <span>Tiglath-Piléser</span> III (<a href=\"https://ref.ly/2Kgs16:7-2Kgs16:9\">2R 16.7–9</a>), ce qui plongea Juda dans une dangereuse dépendance vis-à-vis de l&apos;Assyrie, transformant le royaume en un état vassal. Le roi assyrien profita de cette situation pour vaincre les Araméens lors d&apos;une campagne de deux ans (de 734 à 732 av. J.-C.), tuant Retsin, soumettant Israël et annexant à son empire d&apos;importantes régions du territoire de Pékach (<a href=\"https://ref.ly/2Kgs15:29\">2R 15.29</a>).</p><p>Achaz se révéla être un fervent adepte des pratiques assyriennes. Lors d&apos;une visite à Damas, où il rencontra Tiglath-Piléser III, il fut séduit par un autel assyrien et fit envoyer un modèle similaire à Jérusalem, remplaçant ainsi l&apos;autel en bronze originel (<a href=\"https://ref.ly/2Kgs16:10-2Kgs16:18\">2R 16.10–18</a>). D&apos;autres réformes apportées au temple témoignèrent également de son éloignement progressif de la foi en Dieu.</p><p>En définitive, le règne d&apos;Achaz illustre les raisons pour lesquelles le peuple de Juda fut finalement conduit à l&apos;exil. Il ne gouverna pas conformément aux prescriptions divines ni adora le Seigneur (<a href=\"https://ref.ly/Deut17:14-Deut17:20\">Dt 17.14–20</a>). À sa mort, son fils Ézéchias monta sur le trône (<a href=\"https://ref.ly/2Kgs16:20\">2R 16.20</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/2Kgs15:38-2Kgs16:20\">2 Rois 15.38–16.20</a> ; <a href=\"https://ref.ly/2Chr27:9-2Chr28:27\">2 Chroniques 27.9–28.27</a> ; <a href=\"https://ref.ly/Isa7:1-Isa7:25\">Ésaïe 7.1–25</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12015029",
+          "start_ref_usfm": "2KI 15:29",
+          "end_ref": "12015029",
+          "end_ref_usfm": "2KI 15:29"
+        },
+        {
+          "start_ref": "12016020",
+          "start_ref_usfm": "2KI 16:20",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "23007001",
+          "start_ref_usfm": "ISA 7:1",
+          "end_ref": "23007025",
+          "end_ref_usfm": "ISA 7:25"
+        },
+        {
+          "start_ref": "12016007",
+          "start_ref_usfm": "2KI 16:7",
+          "end_ref": "12016009",
+          "end_ref_usfm": "2KI 16:9"
+        },
+        {
+          "start_ref": "12016010",
+          "start_ref_usfm": "2KI 16:10",
+          "end_ref": "12016018",
+          "end_ref_usfm": "2KI 16:18"
+        },
+        {
+          "start_ref": "05017014",
+          "start_ref_usfm": "DEU 17:14",
+          "end_ref": "05017020",
+          "end_ref_usfm": "DEU 17:20"
+        },
+        {
+          "start_ref": "12015032",
+          "start_ref_usfm": "2KI 15:32",
+          "end_ref": "12015038",
+          "end_ref_usfm": "2KI 15:38"
+        },
+        {
+          "start_ref": "14027001",
+          "start_ref_usfm": "2CH 27:1",
+          "end_ref": "14027009",
+          "end_ref_usfm": "2CH 27:9"
+        },
+        {
+          "start_ref": "12018001",
+          "start_ref_usfm": "2KI 18:1",
+          "end_ref": "12018008",
+          "end_ref_usfm": "2KI 18:8"
+        },
+        {
+          "start_ref": "12015038",
+          "start_ref_usfm": "2KI 15:38",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "14027009",
+          "start_ref_usfm": "2CH 27:9",
+          "end_ref": "14028027",
+          "end_ref_usfm": "2CH 28:27"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

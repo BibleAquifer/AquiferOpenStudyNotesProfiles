@@ -1,0 +1,142 @@
+[
+  {
+    "content_id": 500462,
+    "reference_id": 203405,
+    "title": "Leah",
+    "media_type": "Text",
+    "index_reference": "leah",
+    "language": "eng",
+    "content": "<p>Leah was Laban&apos;s first daughter, Jacob&apos;s first wife whom he did not love, and Rachel&apos;s older sister.</p><p>Jacob tricked his father Isaac into giving him the blessing meant for Esau (<a href=\"https://ref.ly/Gen27:1-Gen27:40\">Genesis 27:1–40</a>). Then he went to his uncle Laban in Mesopotamia. He wanted to escape Esau&apos;s anger and find a wife (<a href=\"https://ref.ly/Gen27:41-Gen28:5\">Genesis 27:41–28:5</a>). Jacob fell in love with his cousin Rachel and agreed with her father to marry her after working for seven years (<a href=\"https://ref.ly/Gen29:17-Gen29:20\">Genesis 29:17–20</a>). During the wedding feast, Laban tricked Jacob by giving him Leah instead of Rachel (<a href=\"https://ref.ly/Gen29:21-Gen29:25\">Genesis 29:21–25</a>). Laban said the custom required the older daughter to marry first (<a href=\"https://ref.ly/Gen29:26\">Genesis 29:26</a>). Leah was less attractive than her sister (<a href=\"https://ref.ly/Gen29:17\">Genesis 29:17</a>). Jacob did not love her (<a href=\"https://ref.ly/Gen29:30-Gen29:35\">Genesis 29:30–35</a>).</p><p>Jacob loved Rachel so much that he worked another seven years to marry her. Because Jacob favored Rachel, the Lord blessed Leah with six sons and a daughter before Rachel could have children (<a href=\"https://ref.ly/Gen29:31-Gen30:22\">Genesis 29:31–30:22</a>): </p><ol><li><p>Reuben</p></li><li><p>Simeon</p></li><li><p>Levi</p></li><li><p>Judah</p></li><li><p>Issachar</p></li><li><p>Zebulun</p></li><li><p>Dinah </p></li></ol><p>At one point, Rachel traded with Leah for some mandrakes in exchange for time with Jacob. People thought mandrakes helped women become pregnant. After a night with Jacob, Leah became pregnant and gave birth to her fifth son (<a href=\"https://ref.ly/Gen30:14-Gen30:17\">Genesis 30:14–17</a>). This increased her advantage in her rivalry with Rachel.</p><p>Leah was the mother of two important tribes in Israelite history. The tribe of Levi was the tribe of priests. The tribe of Judah became the royal tribe, leading to Jesus Christ, the promised descendant (<a href=\"https://ref.ly/Gen3:15\">Genesis 3:15</a>; <a href=\"https://ref.ly/Gen12:2-Gen12:3\">12:2–3</a>; <a href=\"https://ref.ly/2Sam7:16\">2 Samuel 7:16</a>; <a href=\"https://ref.ly/Matt1:1\">Matthew 1:1</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen29:14-Gen29:35\">Genesis 29:14–35</a>; <a href=\"https://ref.ly/Gen30:9-Gen30:21\">30:9–21</a>; <a href=\"https://ref.ly/Gen31:4-Gen31:16\">31:4–16</a>; <a href=\"https://ref.ly/Gen33:1-Gen33:7\">33:1–7</a>; <a href=\"https://ref.ly/Gen34:1\">34:1</a>; <a href=\"https://ref.ly/Gen46:8-Gen46:15\">46:8–15</a>; <a href=\"https://ref.ly/Gen49:31\">49:31</a>; <a href=\"https://ref.ly/Ruth4:11\">Ruth 4:11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01003015",
+          "start_ref_usfm": "GEN 3:15",
+          "end_ref": "01003015",
+          "end_ref_usfm": "GEN 3:15"
+        },
+        {
+          "start_ref": "01029017",
+          "start_ref_usfm": "GEN 29:17",
+          "end_ref": "01029017",
+          "end_ref_usfm": "GEN 29:17"
+        },
+        {
+          "start_ref": "01029026",
+          "start_ref_usfm": "GEN 29:26",
+          "end_ref": "01029026",
+          "end_ref_usfm": "GEN 29:26"
+        },
+        {
+          "start_ref": "01034001",
+          "start_ref_usfm": "GEN 34:1",
+          "end_ref": "01034001",
+          "end_ref_usfm": "GEN 34:1"
+        },
+        {
+          "start_ref": "01049031",
+          "start_ref_usfm": "GEN 49:31",
+          "end_ref": "01049031",
+          "end_ref_usfm": "GEN 49:31"
+        },
+        {
+          "start_ref": "08004011",
+          "start_ref_usfm": "RUT 4:11",
+          "end_ref": "08004011",
+          "end_ref_usfm": "RUT 4:11"
+        },
+        {
+          "start_ref": "10007016",
+          "start_ref_usfm": "2SA 7:16",
+          "end_ref": "10007016",
+          "end_ref_usfm": "2SA 7:16"
+        },
+        {
+          "start_ref": "40001001",
+          "start_ref_usfm": "MAT 1:1",
+          "end_ref": "40001001",
+          "end_ref_usfm": "MAT 1:1"
+        },
+        {
+          "start_ref": "01012002",
+          "start_ref_usfm": "GEN 12:2",
+          "end_ref": "01012003",
+          "end_ref_usfm": "GEN 12:3"
+        },
+        {
+          "start_ref": "01029021",
+          "start_ref_usfm": "GEN 29:21",
+          "end_ref": "01029025",
+          "end_ref_usfm": "GEN 29:25"
+        },
+        {
+          "start_ref": "01029031",
+          "start_ref_usfm": "GEN 29:31",
+          "end_ref": "01030022",
+          "end_ref_usfm": "GEN 30:22"
+        },
+        {
+          "start_ref": "01030014",
+          "start_ref_usfm": "GEN 30:14",
+          "end_ref": "01030017",
+          "end_ref_usfm": "GEN 30:17"
+        },
+        {
+          "start_ref": "01027001",
+          "start_ref_usfm": "GEN 27:1",
+          "end_ref": "01027040",
+          "end_ref_usfm": "GEN 27:40"
+        },
+        {
+          "start_ref": "01027041",
+          "start_ref_usfm": "GEN 27:41",
+          "end_ref": "01028005",
+          "end_ref_usfm": "GEN 28:5"
+        },
+        {
+          "start_ref": "01033001",
+          "start_ref_usfm": "GEN 33:1",
+          "end_ref": "01033007",
+          "end_ref_usfm": "GEN 33:7"
+        },
+        {
+          "start_ref": "01029017",
+          "start_ref_usfm": "GEN 29:17",
+          "end_ref": "01029020",
+          "end_ref_usfm": "GEN 29:20"
+        },
+        {
+          "start_ref": "01029030",
+          "start_ref_usfm": "GEN 29:30",
+          "end_ref": "01029035",
+          "end_ref_usfm": "GEN 29:35"
+        },
+        {
+          "start_ref": "01029014",
+          "start_ref_usfm": "GEN 29:14",
+          "end_ref": "01029035",
+          "end_ref_usfm": "GEN 29:35"
+        },
+        {
+          "start_ref": "01030009",
+          "start_ref_usfm": "GEN 30:9",
+          "end_ref": "01030021",
+          "end_ref_usfm": "GEN 30:21"
+        },
+        {
+          "start_ref": "01031004",
+          "start_ref_usfm": "GEN 31:4",
+          "end_ref": "01031016",
+          "end_ref_usfm": "GEN 31:16"
+        },
+        {
+          "start_ref": "01046008",
+          "start_ref_usfm": "GEN 46:8",
+          "end_ref": "01046015",
+          "end_ref_usfm": "GEN 46:15"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

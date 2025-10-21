@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 500573,
+    "reference_id": 203516,
+    "title": "Roman Emperors",
+    "media_type": "Text",
+    "index_reference": "roman emperors",
+    "language": "eng",
+    "content": "<ol><li><p><em>Augustus </em>(Octavian) ruled from 27 BC to AD 14. He became the first Roman emperor after defeating Marc Antony at the Battle of Actium in 31 BC. He ruled wisely and managed the empire well. He received the title &quot;Augustus&quot; in 27 BC, starting the practice of emperor worship. </p><p><em>See </em><a href=\"https://ref.ly/Luke2:1\"><em>Luke 2:1</em></a>.</p></li><li><p><em>Tiberius </em>ruled from AD 14 to 37. He was Augustus&apos;s adopted son. Augustus chose Tiberius to be emperor after him. Tiberius was a wise and humble ruler who appointed Pontius Pilate as governor of Judea. </p><p><em>See </em><a href=\"https://ref.ly/Luke3:1\"><em>Luke 3:1</em></a><em>; </em><a href=\"https://ref.ly/John19:12\"><em>John 19:12</em></a>.</p></li><li><p>(Gaius) <em>Caligula </em>ruled from AD 37 to 41. He was the son of Augustus&apos;s general, Germanicus. He earned the nickname Caligula, meaning &quot;Little Boot,&quot; due to his military clothing. He lost his ability to think clearly, spent all the kingdom&apos;s money foolishly, ruled cruelly over his people, and was killed by his enemies.</p></li><li><p><em>Claudius</em> ruled from AD 41 to 54. He was Tiberius’s nephew. He became emperor after the royal guards (Praetorian Guard) chose him following Caligula’s death. He was a friend of Herod Agrippa I. Claudius stopped the persecution of Jews in Alexandria but later expelled Jews from Rome around AD 49. He married Nero’s mother, Agrippina, who poisoned him. </p><p><em>See </em><a href=\"https://ref.ly/Acts18:2\"><em>Acts 18:2</em></a>.</p></li><li><p><em>Nero </em>ruled from AD 54 to 68. He was adopted by Claudius and became emperor after he died. He spent much time on personal pleasures. Paul appealed to him, instructing Roman Christians to obey Nero. Later, Nero murdered his wife and mother. He was the first to persecute Christians. </p><p><em>See </em><a href=\"https://ref.ly/Acts25:11\"><em>Acts 25:11</em></a><em>; </em><a href=\"https://ref.ly/Rom13:1-Rom13:7\"><em>Romans 13:1–7</em></a>.</p></li><li><p><em>Vespasian</em> ruled from AD 69 to 79. He was a successful general and the son of a tax collector. He started the Jewish War by invading Galilee in AD 67. As emperor, he improved Rome&apos;s finances, reorganized the armies, and was known for his fairness. He also began building the Colosseum. He died from an illness.</p></li><li><p><em>Titus</em> ruled from AD 79 to 81. He was the son of Vespasian. He ended the Jewish War by destroying Jerusalem in AD 70. As emperor, he completed the Colosseum and provided disaster relief after Mount Vesuvius erupted in AD 79 and a fire occurred in Rome in AD 80. He died from a fever.</p></li><li><p><em>Domitian </em>ruled from AD 81 to 96. He was the younger son of Vespasian. He grew up overshadowed by his brother Titus and desired power. As emperor, he was a capable administrator. He rebuilt damaged areas of Rome and declared himself a god. He imposed new taxes and, in his later years, harshly persecuted Christians. He was eventually killed by his enemies.</p></li></ol><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Rev17:9-Rev17:11\">Revelation 17:9–11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42002001",
+          "start_ref_usfm": "LUK 2:1",
+          "end_ref": "42002001",
+          "end_ref_usfm": "LUK 2:1"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003001",
+          "end_ref_usfm": "LUK 3:1"
+        },
+        {
+          "start_ref": "43019012",
+          "start_ref_usfm": "JHN 19:12",
+          "end_ref": "43019012",
+          "end_ref_usfm": "JHN 19:12"
+        },
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "44025011",
+          "start_ref_usfm": "ACT 25:11",
+          "end_ref": "44025011",
+          "end_ref_usfm": "ACT 25:11"
+        },
+        {
+          "start_ref": "45013001",
+          "start_ref_usfm": "ROM 13:1",
+          "end_ref": "45013007",
+          "end_ref_usfm": "ROM 13:7"
+        },
+        {
+          "start_ref": "66017009",
+          "start_ref_usfm": "REV 17:9",
+          "end_ref": "66017011",
+          "end_ref_usfm": "REV 17:11"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 658573,
+    "reference_id": 203496,
+    "title": "Tomé",
+    "media_type": "Text",
+    "index_reference": "tomé",
+    "language": "por",
+    "content": "<p>Tomé foi um dos doze apóstolos (<a href=\"https://ref.ly/Matt10:3\">Mt 10.3</a>; <a href=\"https://ref.ly/Mark3:18\">Mc 3.18</a>; <a href=\"https://ref.ly/Luke6:15\">Lc 6.15</a>; <a href=\"https://ref.ly/Acts1:13\">At 1.13</a>). Ele também é conhecido como &quot;o Gêmeo&quot;. As pessoas o lembram principalmente por duvidar que Jesus havia ressuscitado dos mortos.</p><p>Não sabemos como Jesus conheceu e chamou Tomé para ser seu discípulo. O Evangelho de João é a única fonte com relatos pessoais de Tomé. Tomé expressou sua disposição de seguir Jesus, mesmo que isso significasse a morte (<a href=\"https://ref.ly/John11:16\">Jo 11.16</a>). Ele disse abertamente a Jesus que não entendia o que ele estava dizendo (<a href=\"https://ref.ly/John14:5\">Jo 14.5</a>). Tomé também foi um dos sete discípulos que voltaram a pescar após a ressurreição, quando Jesus apareceu a eles (<a href=\"https://ref.ly/John21:2\">Jo 21.2</a>).</p><p>Quando Jesus apareceu pela primeira vez aos seus discípulos após sua morte, Tomé não estava presente. Quando Tomé ouviu o relato dos outros, ele não acreditou. Ele insistiu que precisava ver as marcas da crucificação no corpo de Jesus e tocá-las ele mesmo (<a href=\"https://ref.ly/John20:19-John20:25\">Jo 20.19–25</a>). Uma semana depois, Jesus apareceu novamente aos discípulos e falou diretamente com Tomé. Ele disse a Tomé para examinar as marcas dos pregos e da lança em seu corpo e desafiou-o a acreditar, não duvidar (<a href=\"https://ref.ly/John20:26-John20:27\">Jo 20.26–27</a>).</p><p>Quando Tomé viu Jesus vivo novamente, ele fez uma das declarações mais importantes do Novo Testamento. Ele reconheceu Jesus como Deus ao dizer: “Meu Senhor e meu Deus!” (<a href=\"https://ref.ly/John20:28\">Jo 20.28</a>). Este momento demonstra de forma mais clara no Evangelho de João que Jesus é divino (Deus em forma humana).</p><p>Tradições posteriores afirmam que Tomé atuou como missionário no Oriente, incluindo a Pártia (segundo Eusébio), a Pérsia (segundo Jerônimo) e a Índia (de acordo com os <em>Atos de Tomé</em>). A Igreja Mar Thoma, na costa oeste da Índia, atribui suas origens ao trabalho missionário inicial de Tomé. A precisão histórica desses relatos é incerta.</p><p>Alguns livros antigos afirmam ter sido escritos por Tomé ou serem sobre ele, mas foram escritos muito tempo depois de sua morte e não são considerados confiáveis. Estes incluem:</p><ul><li><p><em>Os Atos de Tomé</em></p></li><li><p><em>O Evangelho da Infância de Tomé</em></p></li><li><p><em>A Epístola aos Apóstolos</em></p></li><li><p><em>O Apocalipse de Tomé</em></p></li><li><p><em>O Livro de Tomé, o Atleta</em></p></li><li><p><em>O Evangelho de Tomé</em> (uma coleção gnóstica de ensinamentos de Jesus)</p></li></ul><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Matt10:3\">Mateus 10.3</a>; <a href=\"https://ref.ly/Mark3:18\">Marcos 3.18</a>; <a href=\"https://ref.ly/Luke6:15\">Lucas 6.15</a>; <a href=\"https://ref.ly/John11:16\">João 11.16</a>; <a href=\"https://ref.ly/John14:5\">João 14.5</a>; <a href=\"https://ref.ly/John20:24-John20:29\">João 20.24–29</a>; <a href=\"https://ref.ly/John21:2\">João 21.2; </a><a href=\"https://ref.ly/Acts1:13\">At 1.13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "42006015",
+          "start_ref_usfm": "LUK 6:15",
+          "end_ref": "42006015",
+          "end_ref_usfm": "LUK 6:15"
+        },
+        {
+          "start_ref": "43011016",
+          "start_ref_usfm": "JHN 11:16",
+          "end_ref": "43011016",
+          "end_ref_usfm": "JHN 11:16"
+        },
+        {
+          "start_ref": "43014005",
+          "start_ref_usfm": "JHN 14:5",
+          "end_ref": "43014005",
+          "end_ref_usfm": "JHN 14:5"
+        },
+        {
+          "start_ref": "43020028",
+          "start_ref_usfm": "JHN 20:28",
+          "end_ref": "43020028",
+          "end_ref_usfm": "JHN 20:28"
+        },
+        {
+          "start_ref": "43021002",
+          "start_ref_usfm": "JHN 21:2",
+          "end_ref": "43021002",
+          "end_ref_usfm": "JHN 21:2"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "43020024",
+          "start_ref_usfm": "JHN 20:24",
+          "end_ref": "43020029",
+          "end_ref_usfm": "JHN 20:29"
+        },
+        {
+          "start_ref": "43020026",
+          "start_ref_usfm": "JHN 20:26",
+          "end_ref": "43020027",
+          "end_ref_usfm": "JHN 20:27"
+        },
+        {
+          "start_ref": "43020019",
+          "start_ref_usfm": "JHN 20:19",
+          "end_ref": "43020025",
+          "end_ref_usfm": "JHN 20:25"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

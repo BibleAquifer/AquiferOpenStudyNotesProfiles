@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 500472,
+    "reference_id": 203415,
+    "title": "Eleazar",
+    "media_type": "Text",
+    "index_reference": "eleazar",
+    "language": "eng",
+    "content": "<p>Eleazar was the third son of Aaron, the first high priest (<a href=\"https://ref.ly/Exod6:23\">Exodus 6:23</a>). Eleazar&apos;s two older brothers, Nadab and Abihu, angered God by offering incense differently than God commanded (<a href=\"https://ref.ly/Lev10:1-Lev10:7\">Leviticus 10:1–7</a>). Because they disobeyed, God killed them. As the next oldest son, Eleazar was next in line to become high priest. He performed priestly duties during his father&apos;s life and assisted his father and Moses when some Levites rebelled, seeking equal status with Aaron&apos;s priestly family (<a href=\"https://ref.ly/Num16:36-Num16:40\">Numbers 16:36–40</a>).</p><p>Aaron died in the wilderness shortly before the Israelites entered the Promised Land. He could not enter because he and Moses had disobeyed God by striking the rock at Meribah (<a href=\"https://ref.ly/Num20:1-Num20:13\">Numbers 20:1–13</a>). Before Aaron died, he, Moses, and Eleazar went up on Mount Hor. There, Moses took the priestly garments from Aaron and gave them to his son (<a href=\"https://ref.ly/Num20:22-Num20:29\">Numbers 20:22–29</a>).</p><p>After this, Eleazar served as high priest for the rest of his life, including during the time when the Israelites took control of the land of Canaan. When it was time to divide the land among the tribes, Eleazar and Joshua used sacred lots to decide where each tribe would settle (<a href=\"https://ref.ly/Josh14:1-Josh14:5\">Joshua 14:1–5</a>). When Eleazar died, his son Phinehas became high priest. Phinehas had shown his faithfulness to the covenant when Israel started worshiping the gods of Moab (<a href=\"https://ref.ly/Num25:1-Num25:18\">Numbers 25</a>). Eleazar&apos;s descendants included: </p><ul><li><p>Zadok, the faithful priest who replaced Abiathar (<a href=\"https://ref.ly/1Kgs2:26-1Kgs2:27\">1 Kings 2:26–27</a>, <a href=\"https://ref.ly/1Kgs2:35\">35</a>; see <a href=\"https://ref.ly/1Chr6:3-1Chr6:8\">1 Chronicles 6:3–8</a>, <a href=\"https://ref.ly/1Chr6:50-1Chr6:53\">50–53</a>)</p></li><li><p>Ezra, who played a key role in rebuilding Judea after the Exile (see <a href=\"https://ref.ly/Ezra7:1-Ezra7:5\">Ezra 7:1–5</a>)</p></li></ul><p>In Ezekiel&apos;s ideal temple, only Eleazar&apos;s descendants through Zadok would be allowed to serve (<a href=\"https://ref.ly/Ezek44:15\">Ezekiel 44:15</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Exod6:23-Exod6:25\">Exodus 6:23–25</a>; <a href=\"https://ref.ly/Lev10:6-Lev10:7\">Leviticus 10:6–7</a>; <a href=\"https://ref.ly/Num3:1-Num3:4\">Numbers 3:1–4</a>; <a href=\"https://ref.ly/Num16:36-Num16:40\">Numbers 16:36–40</a>; <a href=\"https://ref.ly/Num20:22-Num20:26\">Numbers 20:22–26</a>; <a href=\"https://ref.ly/Num26:1-Num26:4\">Numbers 26:1–4</a>; <a href=\"https://ref.ly/Josh14:1\">Joshua 14:1</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02006023",
+          "start_ref_usfm": "EXO 6:23",
+          "end_ref": "02006023",
+          "end_ref_usfm": "EXO 6:23"
+        },
+        {
+          "start_ref": "06014001",
+          "start_ref_usfm": "JOS 14:1",
+          "end_ref": "06014001",
+          "end_ref_usfm": "JOS 14:1"
+        },
+        {
+          "start_ref": "11002035",
+          "start_ref_usfm": "1KI 2:35",
+          "end_ref": "11002035",
+          "end_ref_usfm": "1KI 2:35"
+        },
+        {
+          "start_ref": "26044015",
+          "start_ref_usfm": "EZK 44:15",
+          "end_ref": "26044015",
+          "end_ref_usfm": "EZK 44:15"
+        },
+        {
+          "start_ref": "11002026",
+          "start_ref_usfm": "1KI 2:26",
+          "end_ref": "11002027",
+          "end_ref_usfm": "1KI 2:27"
+        },
+        {
+          "start_ref": "04025001",
+          "start_ref_usfm": "NUM 25:1",
+          "end_ref": "04025018",
+          "end_ref_usfm": "NUM 25:18"
+        },
+        {
+          "start_ref": "13006003",
+          "start_ref_usfm": "1CH 6:3",
+          "end_ref": "13006008",
+          "end_ref_usfm": "1CH 6:8"
+        },
+        {
+          "start_ref": "03010001",
+          "start_ref_usfm": "LEV 10:1",
+          "end_ref": "03010007",
+          "end_ref_usfm": "LEV 10:7"
+        },
+        {
+          "start_ref": "04003001",
+          "start_ref_usfm": "NUM 3:1",
+          "end_ref": "04003004",
+          "end_ref_usfm": "NUM 3:4"
+        },
+        {
+          "start_ref": "13006050",
+          "start_ref_usfm": "1CH 6:50",
+          "end_ref": "13006053",
+          "end_ref_usfm": "1CH 6:53"
+        },
+        {
+          "start_ref": "15007001",
+          "start_ref_usfm": "EZR 7:1",
+          "end_ref": "15007005",
+          "end_ref_usfm": "EZR 7:5"
+        },
+        {
+          "start_ref": "02006023",
+          "start_ref_usfm": "EXO 6:23",
+          "end_ref": "02006025",
+          "end_ref_usfm": "EXO 6:25"
+        },
+        {
+          "start_ref": "04016036",
+          "start_ref_usfm": "NUM 16:36",
+          "end_ref": "04016040",
+          "end_ref_usfm": "NUM 16:40"
+        },
+        {
+          "start_ref": "03010006",
+          "start_ref_usfm": "LEV 10:6",
+          "end_ref": "03010007",
+          "end_ref_usfm": "LEV 10:7"
+        },
+        {
+          "start_ref": "04020022",
+          "start_ref_usfm": "NUM 20:22",
+          "end_ref": "04020029",
+          "end_ref_usfm": "NUM 20:29"
+        },
+        {
+          "start_ref": "04020001",
+          "start_ref_usfm": "NUM 20:1",
+          "end_ref": "04020013",
+          "end_ref_usfm": "NUM 20:13"
+        },
+        {
+          "start_ref": "04026001",
+          "start_ref_usfm": "NUM 26:1",
+          "end_ref": "04026004",
+          "end_ref_usfm": "NUM 26:4"
+        },
+        {
+          "start_ref": "06014001",
+          "start_ref_usfm": "JOS 14:1",
+          "end_ref": "06014005",
+          "end_ref_usfm": "JOS 14:5"
+        },
+        {
+          "start_ref": "04020022",
+          "start_ref_usfm": "NUM 20:22",
+          "end_ref": "04020026",
+          "end_ref_usfm": "NUM 20:26"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

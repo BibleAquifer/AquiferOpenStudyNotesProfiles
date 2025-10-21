@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 658578,
+    "reference_id": 203501,
+    "title": "Herodes Agripa I",
+    "media_type": "Text",
+    "index_reference": "herodes agripa i",
+    "language": "por",
+    "content": "<p>Herodes Agripa I era neto de Herodes, o Grande, sobrinho de Herodes Antipas e irmão de Herodias. Agripa I governou toda a Palestina por um curto período após a morte de Jesus, durante os primeiros dias do movimento cristão, de 41 a 44 d.C.</p><p>Enquanto frequentava a escola em Roma, Agripa viveu de forma imprudente e acumulou muitas dívidas. Certa vez, ele expressou o desejo de que seu amigo Gaio Calígula fosse Imperador em vez de Tibério. Alguém relatou isso a Tibério, que então prendeu Agripa. Ele ficou na prisão até que Tibério morreu seis meses depois.</p><p>Quando Calígula se tornou Imperador, ele recompensou Agripa libertando-o e concedendo-lhe as terras de Filipe, o Tetrarca, e a parte norte do território de Lisânias, junto com o título de rei. Este título deixou Herodias com ciúmes, e seu marido, Herodes Antipas, foi tanto crítico quanto invejoso de Agripa. Agripa acusou Antipas de conspiração, levando ao banimento de Antipas. Agripa então assumiu todas as terras e propriedades de Antipas em 39 d.C.</p><p>Quando seu amigo Calígula morreu em 41 d.C., Agripa ganhou o favor do novo imperador, Cláudio. Cláudio então adicionou a Judeia e Samaria ao domínio de Agripa. Este território foi outrora governado por seu avô, Herodes, o Grande.</p><p>Agripa perseguiu ativamente os primeiros cristãos. Ele é conhecido por matar o apóstolo Tiago e prender Pedro, ações que agradaram aos judeus (<a href=\"https://ref.ly/Acts12:1-Acts12:4\">At 12.1–4</a>). Os judeus gostavam dele mais do que de qualquer outro Herodes. Agripa morreu subitamente em 44 d.C., logo após seus súditos o elogiarem como um deus (<a href=\"https://ref.ly/Acts12:20-Acts12:23\">At 12.20–23</a>; veja também Josefo, <em>Antiguidades</em> 19.8.2; 19.9.1; <em>Guerra</em> 2.11.5).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Acts12:1-Acts12:4\">Atos 12.1–4</a>,<a href=\"https://ref.ly/Acts12:18-Acts12:23\">18–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012020",
+          "start_ref_usfm": "ACT 12:20",
+          "end_ref": "44012023",
+          "end_ref_usfm": "ACT 12:23"
+        },
+        {
+          "start_ref": "44012001",
+          "start_ref_usfm": "ACT 12:1",
+          "end_ref": "44012004",
+          "end_ref_usfm": "ACT 12:4"
+        },
+        {
+          "start_ref": "44012018",
+          "start_ref_usfm": "ACT 12:18",
+          "end_ref": "44012023",
+          "end_ref_usfm": "ACT 12:23"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 500497,
+    "reference_id": 203440,
+    "title": "Solomon",
+    "media_type": "Text",
+    "index_reference": "solomon",
+    "language": "eng",
+    "content": "<p>Solomon was the third king of Israel and the second son of David and Bathsheba (<a href=\"https://ref.ly/2Sam12:13-2Sam12:25\">2 Samuel 12:13–25</a>). He ruled for forty years, from 971 to 931 BC. When Solomon first became king he had strong faith in God. But, he ended his life worshiping idols, which led to the destruction of his kingdom.</p><p>As King David neared death, his son Adonijah tried to make himself king with support from the priest Abiathar and the general Joab (<a href=\"https://ref.ly/1Kgs1:1-1Kgs1:53\">1 Kings 1:1–53</a>). However, the kingdom was promised to Solomon (<a href=\"https://ref.ly/1Kgs1:17\">1 Kings 1:17</a>; see <a href=\"https://ref.ly/2Sam12:24-2Sam12:25\">2 Samuel 12:24–25</a>; <a href=\"https://ref.ly/1Chr28:4-1Chr28:7\">1 Chronicles 28:4–7</a>). So, Bathsheba and the prophet Nathan told David about Adonijah’s plans. David quickly arranged for Solomon to be officially declared king. Then David advised Solomon to follow God faithfully (<a href=\"https://ref.ly/1Kgs2:1-1Kgs2:9\">1 Kings 2:1–9</a>).</p><p>Solomon loved God and asked for his help. God offered him a gift, and Solomon chose wisdom over long life, riches, or fame. As a result, God granted Solomon all of these:</p><ul><li><p>He ruled wisely (<a href=\"https://ref.ly/1Kgs3:16-1Kgs3:28\">1 Kings 3:16–28</a>). </p></li><li><p>He earned worldwide respect (<a href=\"https://ref.ly/1Kgs4:20-1Kgs4:34\">1 Kings 4:20–34</a>). </p></li><li><p>He wrote the Song of Songs, most of Proverbs, and Ecclesiastes. </p></li></ul><p>Rabbis (Jewish teachers) said these books reflect three stages of his life: “When a man is young he composes songs; when he grows older he makes sententious remarks; and when he becomes an old man he speaks of the vanity of things” (<em>Midrash Rabbah</em>). He also built the temple in Jerusalem and his palace. He expanded trade and increased Israel&apos;s wealth and security. His wisdom and wealth were famous. The queen of Sheba visited Jerusalem to see him herself (<a href=\"https://ref.ly/1Kgs10:1-1Kgs10:29\">1 Kings 10:1–29</a>).</p><p>Solomon made many foreign alliances and married many foreign women, starting with the daughter of Egypt’s pharaoh (<a href=\"https://ref.ly/1Kgs3:1\">1 Kings 3:1</a>). His foreign wives led him away from God and toward idols. Later in life, Solomon, once wise, became very foolish under their influence. He worshiped false gods and treated his people badly. As a result, God used Jeroboam to take away a large part of Solomon&apos;s kingdom.</p><p>Even so, the New Testament remembers Solomon’s wisdom and glory as the example by which others are judged. Jesus is the incarnation of God&apos;s wisdom (or God&apos;s wisdom in human form), which greatly exceeds Solomon&apos;s (<a href=\"https://ref.ly/Matt12:42\">Matthew 12:42</a>; <a href=\"https://ref.ly/Luke11:31\">Luke 11:31</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/2Sam12:24-2Sam12:25\">2 Samuel 12:24–25</a>; <a href=\"https://ref.ly/1Kgs1:1-1Kgs11:43\">1 Kings 1:1–11:43</a>; <a href=\"https://ref.ly/2Chr1:1-2Chr9:31\">2 Chronicles 1:1–9:31</a>; <a href=\"https://ref.ly/Ps72:1-Ps72:20\">Psalms 72:1–20</a>; <a href=\"https://ref.ly/Ps127:1-Ps127:5\">127:1–5</a>; <a href=\"https://ref.ly/Prov1:1\">Proverbs 1:1</a>; <a href=\"https://ref.ly/Matt6:28-Matt6:30\">Matthew 6:28–30</a>; <a href=\"https://ref.ly/Matt12:42\">12:42</a>; <a href=\"https://ref.ly/Luke11:31\">Luke 11:31</a>; <a href=\"https://ref.ly/Luke12:27\">12:27</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11001017",
+          "start_ref_usfm": "1KI 1:17",
+          "end_ref": "11001017",
+          "end_ref_usfm": "1KI 1:17"
+        },
+        {
+          "start_ref": "11003001",
+          "start_ref_usfm": "1KI 3:1",
+          "end_ref": "11003001",
+          "end_ref_usfm": "1KI 3:1"
+        },
+        {
+          "start_ref": "20001001",
+          "start_ref_usfm": "PRO 1:1",
+          "end_ref": "20001001",
+          "end_ref_usfm": "PRO 1:1"
+        },
+        {
+          "start_ref": "40012042",
+          "start_ref_usfm": "MAT 12:42",
+          "end_ref": "40012042",
+          "end_ref_usfm": "MAT 12:42"
+        },
+        {
+          "start_ref": "42011031",
+          "start_ref_usfm": "LUK 11:31",
+          "end_ref": "42011031",
+          "end_ref_usfm": "LUK 11:31"
+        },
+        {
+          "start_ref": "42012027",
+          "start_ref_usfm": "LUK 12:27",
+          "end_ref": "42012027",
+          "end_ref_usfm": "LUK 12:27"
+        },
+        {
+          "start_ref": "11001001",
+          "start_ref_usfm": "1KI 1:1",
+          "end_ref": "11001053",
+          "end_ref_usfm": "1KI 1:53"
+        },
+        {
+          "start_ref": "14001001",
+          "start_ref_usfm": "2CH 1:1",
+          "end_ref": "14009031",
+          "end_ref_usfm": "2CH 9:31"
+        },
+        {
+          "start_ref": "11003016",
+          "start_ref_usfm": "1KI 3:16",
+          "end_ref": "11003028",
+          "end_ref_usfm": "1KI 3:28"
+        },
+        {
+          "start_ref": "10012024",
+          "start_ref_usfm": "2SA 12:24",
+          "end_ref": "10012025",
+          "end_ref_usfm": "2SA 12:25"
+        },
+        {
+          "start_ref": "11010001",
+          "start_ref_usfm": "1KI 10:1",
+          "end_ref": "11010029",
+          "end_ref_usfm": "1KI 10:29"
+        },
+        {
+          "start_ref": "11001001",
+          "start_ref_usfm": "1KI 1:1",
+          "end_ref": "11011043",
+          "end_ref_usfm": "1KI 11:43"
+        },
+        {
+          "start_ref": "40006028",
+          "start_ref_usfm": "MAT 6:28",
+          "end_ref": "40006030",
+          "end_ref_usfm": "MAT 6:30"
+        },
+        {
+          "start_ref": "19072001",
+          "start_ref_usfm": "PSA 72:1",
+          "end_ref": "19072020",
+          "end_ref_usfm": "PSA 72:20"
+        },
+        {
+          "start_ref": "19127001",
+          "start_ref_usfm": "PSA 127:1",
+          "end_ref": "19127005",
+          "end_ref_usfm": "PSA 127:5"
+        },
+        {
+          "start_ref": "13028004",
+          "start_ref_usfm": "1CH 28:4",
+          "end_ref": "13028007",
+          "end_ref_usfm": "1CH 28:7"
+        },
+        {
+          "start_ref": "10012013",
+          "start_ref_usfm": "2SA 12:13",
+          "end_ref": "10012025",
+          "end_ref_usfm": "2SA 12:25"
+        },
+        {
+          "start_ref": "11002001",
+          "start_ref_usfm": "1KI 2:1",
+          "end_ref": "11002009",
+          "end_ref_usfm": "1KI 2:9"
+        },
+        {
+          "start_ref": "11004020",
+          "start_ref_usfm": "1KI 4:20",
+          "end_ref": "11004034",
+          "end_ref_usfm": "1KI 4:34"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 668853,
+    "reference_id": 203395,
+    "title": "Melchisédek",
+    "media_type": "Text",
+    "index_reference": "melchisédek",
+    "language": "fra",
+    "content": "<p>Melchisédek est un personnage mystérieux de la Bible. Son nom signifie «&nbsp;roi de justice&nbsp;». C’était un prêtre et un roi cananéen. Il n’existe aucune trace de sa famille, de sa naissance ou de sa mort.</p><p>Abraham rencontra Melchisédek après avoir vaincu quatre rois mésopotamiens. Les Mésopotamiens avaient pillé Sodome et Gomorrhe et capturé Lot, le neveu d’Abraham (<a href=\"https://ref.ly/Gen14:1-Gen14:16\">Gn&nbsp;14.1–16</a>). Lorsque Abraham revint de la bataille, Melchisédek, roi de Salem (la ville de Jérusalem&nbsp;; voir <a href=\"https://ref.ly/Ps76:2\">Ps 76.2</a> et sa note de bas de page), se trouvait avec les rois reconnaissants de la confédération de la mer Morte. Melchisédek donna à Abraham du pain, du vin et sa bénédiction, agissant en tant que «&nbsp;sacrificateur du Dieu Très-Haut&nbsp;» (<a href=\"https://ref.ly/Gen14:18\">Gn&nbsp;14.18</a>), le vrai Dieu qui a créé le ciel et la terre (voir <a href=\"https://ref.ly/Ps7:17\">Ps 7.17</a>&nbsp;; <a href=\"https://ref.ly/Ps47:2\">47.2</a>&nbsp;; <a href=\"https://ref.ly/Ps57:2\">57.2</a>&nbsp;; <a href=\"https://ref.ly/Ps78:56\">78.56</a>). Melchisédek comprit qu’Abraham adorait le vrai Dieu, et il loua Dieu pour avoir donné la victoire à Abraham (<a href=\"https://ref.ly/Gen14:19-Gen14:20\">Gn&nbsp;14.19–20</a>). Abraham accepta les dons de Melchisédek et lui donna une dîme, montrant ainsi l’importance de Melchisédek (voir <a href=\"https://ref.ly/Heb7:4-Heb7:10\">Hé&nbsp;7.4–10</a>).</p><p>La Genèse inclut les généalogies de nombreuses personnes, mais Melchisédek apparaît soudainement sans ascendance connue. Il disparaît tout aussi soudainement. Bien plus tard dans l’histoire d’Israël, le roi David y a peut-être pensé lorsqu’il a dit que le Messie (le choisi de Dieu) est «&nbsp;un sacrificateur pour toujours selon l’ordre de Melchisédek&nbsp;» (<a href=\"https://ref.ly/Ps110:4\">Ps&nbsp;110.4</a>; à comparer aux versets <a href=\"https://ref.ly/Heb7:15-Heb7:25\">Hé&nbsp;7.15–25</a>). L’épître aux Hébreux utilise l’absence de généalogie de Melchisédek pour comparer la prêtrise lévitique temporaire avec la prêtrise éternelle de Jésus-Christ. Il est également expliqué dans l’épître aux Hébreux que Melchisédek est présenté comme «&nbsp;semblable au Fils de Dieu&nbsp;», mais qu’il n’était pas le Fils de Dieu (<a href=\"https://ref.ly/Heb7:3\">Hé&nbsp;7.3</a>). Son sacerdoce dure éternellement en tant que modèle précédant le sacerdoce du Messie. Comme Melchisédek, mais contrairement aux rois d’Israël, Jésus est un roi qui remplit également des fonctions sacerdotales.</p><p>Melchisédek, prêtre et roi, était supérieur à Lévi, l’ancêtre des prêtres d’Israël. De la même manière, le Messie, Jésus-Christ, est un prêtre supérieur aux descendants d’Aaron. Jésus offre un pardon durable des péchés et un accès direct à Dieu (<a href=\"https://ref.ly/Heb7:24-Heb7:28\">Hé&nbsp;7.24–28</a>). Il guide son peuple par le Saint-Esprit plutôt que par la loi (<a href=\"https://ref.ly/Heb8:7-Heb8:13\">Hé&nbsp;8.7–13</a>). Il demeure à jamais prêtre et roi pour ceux qui lui font confiance.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Gen14:17-Gen14:24\">Gn 14.17–20</a>&nbsp;; <a href=\"https://ref.ly/Ps110:4\">Ps&nbsp;110.4&nbsp;</a>; <a href=\"https://ref.ly/Heb5:6-Heb5:10\">Hé&nbsp;5.6–10</a>&nbsp;; <a href=\"https://ref.ly/Heb6:20-Heb7:28\">6.20–7.28</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014018",
+          "start_ref_usfm": "GEN 14:18",
+          "end_ref": "01014018",
+          "end_ref_usfm": "GEN 14:18"
+        },
+        {
+          "start_ref": "19007017",
+          "start_ref_usfm": "PSA 7:17",
+          "end_ref": "19007017",
+          "end_ref_usfm": "PSA 7:17"
+        },
+        {
+          "start_ref": "19047002",
+          "start_ref_usfm": "PSA 47:2",
+          "end_ref": "19047002",
+          "end_ref_usfm": "PSA 47:2"
+        },
+        {
+          "start_ref": "19057002",
+          "start_ref_usfm": "PSA 57:2",
+          "end_ref": "19057002",
+          "end_ref_usfm": "PSA 57:2"
+        },
+        {
+          "start_ref": "19076002",
+          "start_ref_usfm": "PSA 76:2",
+          "end_ref": "19076002",
+          "end_ref_usfm": "PSA 76:2"
+        },
+        {
+          "start_ref": "19078056",
+          "start_ref_usfm": "PSA 78:56",
+          "end_ref": "19078056",
+          "end_ref_usfm": "PSA 78:56"
+        },
+        {
+          "start_ref": "19110004",
+          "start_ref_usfm": "PSA 110:4",
+          "end_ref": "19110004",
+          "end_ref_usfm": "PSA 110:4"
+        },
+        {
+          "start_ref": "58007003",
+          "start_ref_usfm": "HEB 7:3",
+          "end_ref": "58007003",
+          "end_ref_usfm": "HEB 7:3"
+        },
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        },
+        {
+          "start_ref": "01014017",
+          "start_ref_usfm": "GEN 14:17",
+          "end_ref": "01014024",
+          "end_ref_usfm": "GEN 14:24"
+        },
+        {
+          "start_ref": "58008007",
+          "start_ref_usfm": "HEB 8:7",
+          "end_ref": "58008013",
+          "end_ref_usfm": "HEB 8:13"
+        },
+        {
+          "start_ref": "58007004",
+          "start_ref_usfm": "HEB 7:4",
+          "end_ref": "58007010",
+          "end_ref_usfm": "HEB 7:10"
+        },
+        {
+          "start_ref": "01014019",
+          "start_ref_usfm": "GEN 14:19",
+          "end_ref": "01014020",
+          "end_ref_usfm": "GEN 14:20"
+        },
+        {
+          "start_ref": "58007015",
+          "start_ref_usfm": "HEB 7:15",
+          "end_ref": "58007025",
+          "end_ref_usfm": "HEB 7:25"
+        },
+        {
+          "start_ref": "58007024",
+          "start_ref_usfm": "HEB 7:24",
+          "end_ref": "58007028",
+          "end_ref_usfm": "HEB 7:28"
+        },
+        {
+          "start_ref": "58005006",
+          "start_ref_usfm": "HEB 5:6",
+          "end_ref": "58005010",
+          "end_ref_usfm": "HEB 5:10"
+        },
+        {
+          "start_ref": "58006020",
+          "start_ref_usfm": "HEB 6:20",
+          "end_ref": "58007028",
+          "end_ref_usfm": "HEB 7:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

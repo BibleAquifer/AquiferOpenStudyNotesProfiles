@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 658556,
+    "reference_id": 203479,
+    "title": "Mateus (Levi)",
+    "media_type": "Text",
+    "index_reference": "mateus (levi)",
+    "language": "por",
+    "content": "<p>Mateus trabalhou como coletor de impostos para os romanos e, mais tarde, tornou-se um dos doze seguidores mais próximos de Jesus (chamados apóstolos). A tradição antiga afirma que ele escreveu o Evangelho de Mateus.</p><p>Ele é chamado de Mateus em todas as listas dos apóstolos (<a href=\"https://ref.ly/Matt10:3\">Mt 10.3</a>; <a href=\"https://ref.ly/Mark3:18\">Mc 3.18</a>; <a href=\"https://ref.ly/Luke6:15\">Lc 6.15</a>; <a href=\"https://ref.ly/Acts1:13\">At 1.13</a>). No entanto, em dois relatos de seu chamado, ele é referido como Levi, seu outro nome (<a href=\"https://ref.ly/Mark2:14-Mark2:15\">Mc 2.14–15</a>; <a href=\"https://ref.ly/Luke5:27-Luke5:29\">Lc 5.27–29</a>; compare <a href=\"https://ref.ly/Matt9:9-Matt9:10\">Mt 9.9–10</a>). Seu pai era Alfeu (<a href=\"https://ref.ly/Mark2:14\">Mc 2.14</a>). Não sabemos se ele é irmão de Tiago, filho de Alfeu, já que não é mencionado que sejam irmãos nas listas dos apóstolos (como os outros pares de irmãos são).</p><p>Os judeus que coletavam impostos para os romanos eram frequentemente vistos como pecadores por outros judeus. Eles ganhavam dinheiro trabalhando para as forças de ocupação e praticavam extorsão legal. É significativo que Jesus tenha escolhido um coletor de impostos para ser um de seus seguidores. Quando os fariseus criticaram Jesus por aceitar o convite para jantar de Mateus e comer com coletores de impostos e outros pecadores, Jesus usou o momento para ensinar sobre compaixão. Ele enfatizou que veio para os pecadores, não para aqueles que se viam como justos (<a href=\"https://ref.ly/Matt9:9-Matt9:13\">Mt 9.9–13</a>; <a href=\"https://ref.ly/Mark2:14-Mark2:17\">Mc 2.14–17</a>; <a href=\"https://ref.ly/Luke5:27-Luke5:32\">Lc 5.27–32</a>). Mateus imediatamente seguiu o chamado de Jesus, deixando tudo para trás (<a href=\"https://ref.ly/Luke5:28\">Lc 5.28</a>). Isso sugere que ele nunca voltou a coletar impostos ou à sua vida antiga.</p><p>O Evangelho de Mateus foi escrito para os judeus e oferece uma perspectiva judaica sobre a vida e os ensinamentos de Jesus. Inclui tópicos importantes para aqueles com um histórico judaico. Este Evangelho foi muito popular na igreja primitiva, o que provavelmente explica por que aparece primeiro no Novo Testamento.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Matt9:9-Matt9:10\">Mateus 9.9–10</a>; <a href=\"https://ref.ly/Matt10:3\">10.3</a>; <a href=\"https://ref.ly/Mark2:14-Mark2:15\">Marcos 2.14–15</a>; <a href=\"https://ref.ly/Mark3:18\">3.18</a>; <a href=\"https://ref.ly/Luke5:27-Luke5:29\">Lucas 5.27–29</a>; <a href=\"https://ref.ly/Luke6:15\">6.15</a>; <a href=\"https://ref.ly/Acts1:13\">Atos 1.13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002014",
+          "end_ref_usfm": "MRK 2:14"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "42005028",
+          "start_ref_usfm": "LUK 5:28",
+          "end_ref": "42005028",
+          "end_ref_usfm": "LUK 5:28"
+        },
+        {
+          "start_ref": "42006015",
+          "start_ref_usfm": "LUK 6:15",
+          "end_ref": "42006015",
+          "end_ref_usfm": "LUK 6:15"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "40009009",
+          "start_ref_usfm": "MAT 9:9",
+          "end_ref": "40009013",
+          "end_ref_usfm": "MAT 9:13"
+        },
+        {
+          "start_ref": "42005027",
+          "start_ref_usfm": "LUK 5:27",
+          "end_ref": "42005032",
+          "end_ref_usfm": "LUK 5:32"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002015",
+          "end_ref_usfm": "MRK 2:15"
+        },
+        {
+          "start_ref": "40009009",
+          "start_ref_usfm": "MAT 9:9",
+          "end_ref": "40009010",
+          "end_ref_usfm": "MAT 9:10"
+        },
+        {
+          "start_ref": "42005027",
+          "start_ref_usfm": "LUK 5:27",
+          "end_ref": "42005029",
+          "end_ref_usfm": "LUK 5:29"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002017",
+          "end_ref_usfm": "MRK 2:17"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

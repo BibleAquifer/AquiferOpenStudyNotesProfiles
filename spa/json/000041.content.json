@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 658375,
+    "reference_id": 203450,
+    "title": "Ezechîas",
+    "media_type": "Text",
+    "index_reference": "ezechîas",
+    "language": "spa",
+    "content": "<p><span>Ezechîas</span> fue uno de los mejores Reyes de Judá. Gobernó desde 728 hasta 686 a.C. Su padre, <span>Achâz</span>, dejó de adorar a Dios. Sin embargo, Ezechîas promovió la verdadera adoración a Dios. Reparó las puertas del templo, hizo que los levitas se prepararan para el servicio sagrado y reinició las ceremonias religiosas. Ofreció sacrificios, restauró el servicio sacerdotal del templo e invitó a personas de Judá e Israel a celebrar la Pascua en Jerusalem (<a href=\"https://ref.ly/2Chr29:1-2Chr30:27\">2 Crónicas 29–30</a>). Después de la celebración, destruyó los sitios de adoración pagana.</p><p>Después de que Ezechîas comenzó su reinado, los Asirios, liderados por Salmanasar V y luego Sargón II, derrotaron al reino del norte. Deportaron a su gente y trajeron extranjeros en 722 a.C. Cuando Sargón II murió en 705 a.C., su hijo <span>Sennachêrib</span> asumió el poder, provocando una rebelión generalizada. Ezechîas dejó de pagar el tributo que su padre Achâz había pagado (<a href=\"https://ref.ly/2Kgs18:7\">2 Reyes 18.7,</a> ver <a href=\"https://ref.ly/2Kgs16:7\">16.7</a>). Como resultado, en 701 a.C., Sennachêrib invadió Judá. Ezechîas intentó apaciguar al gobernante asirio con un gran tributo, pero esto fracasó. Las fuerzas Asirias amenazaron Jerusalem y se burlaron de la confianza de Ezechîas en el Señor (<a href=\"https://ref.ly/2Kgs18:17-2Kgs18:35\">2 Reyes 18.17–35</a>). Ezechîas respondió con duelo y oración. El Señor, a través del profeta Isaías, aseguró a Ezechîas que sus oraciones habían sido escuchadas y que Sennachêrib no conquistaría Jerusalem (<a href=\"https://ref.ly/2Kgs19:1-2Kgs19:34\">2 Reyes 19.1–34</a>).</p><p>En ese tiempo, Ezechîas se enfermó gravemente (<a href=\"https://ref.ly/2Kgs20:1-2Kgs20:11\">2 Reyes 20.1–11</a>). Isaías le dijo que se preparara para morir, pero Ezechîas oró al Señor pidiendo sanación. El Señor le prometió quince años más de vida y liberación de los asirios. Después de recuperarse, Ezechîas imprudentemente recibió al rey babilónico <span>Berodach-baladán</span> en su palacio. Le mostró los tesoros del templo y buscó apoyo de Babilonia en lugar del Señor. Isaías predijo que esos tesoros serían llevados a Babilonia (<a href=\"https://ref.ly/2Kgs20:12-2Kgs20:19\">2 Reyes 20.12–19</a>).</p><p>Tras la amenaza Asiria en 701 a.C., Ezechîas disfrutó de años de paz y éxito. Falleció en 686 a.C., y su hijo Manasés lo sucedió.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/2Kgs18:1-2Kgs20:21\">2 Reyes 18.1–20.21,</a> <a href=\"https://ref.ly/2Chr28:27-2Chr32:33\">2 Crónicas 28.27–32.33,</a> <a href=\"https://ref.ly/Isa36:1-Isa39:8\">Isaías 36.1–39.8</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12016007",
+          "start_ref_usfm": "2KI 16:7",
+          "end_ref": "12016007",
+          "end_ref_usfm": "2KI 16:7"
+        },
+        {
+          "start_ref": "12018007",
+          "start_ref_usfm": "2KI 18:7",
+          "end_ref": "12018007",
+          "end_ref_usfm": "2KI 18:7"
+        },
+        {
+          "start_ref": "12020012",
+          "start_ref_usfm": "2KI 20:12",
+          "end_ref": "12020019",
+          "end_ref_usfm": "2KI 20:19"
+        },
+        {
+          "start_ref": "12020001",
+          "start_ref_usfm": "2KI 20:1",
+          "end_ref": "12020011",
+          "end_ref_usfm": "2KI 20:11"
+        },
+        {
+          "start_ref": "12018001",
+          "start_ref_usfm": "2KI 18:1",
+          "end_ref": "12020021",
+          "end_ref_usfm": "2KI 20:21"
+        },
+        {
+          "start_ref": "23036001",
+          "start_ref_usfm": "ISA 36:1",
+          "end_ref": "23039008",
+          "end_ref_usfm": "ISA 39:8"
+        },
+        {
+          "start_ref": "14029001",
+          "start_ref_usfm": "2CH 29:1",
+          "end_ref": "14030027",
+          "end_ref_usfm": "2CH 30:27"
+        },
+        {
+          "start_ref": "12018017",
+          "start_ref_usfm": "2KI 18:17",
+          "end_ref": "12018035",
+          "end_ref_usfm": "2KI 18:35"
+        },
+        {
+          "start_ref": "12019001",
+          "start_ref_usfm": "2KI 19:1",
+          "end_ref": "12019034",
+          "end_ref_usfm": "2KI 19:34"
+        },
+        {
+          "start_ref": "14028027",
+          "start_ref_usfm": "2CH 28:27",
+          "end_ref": "14032033",
+          "end_ref_usfm": "2CH 32:33"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

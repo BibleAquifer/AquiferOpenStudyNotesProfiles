@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 500513,
+    "reference_id": 203456,
+    "title": "Uzziah",
+    "media_type": "Text",
+    "index_reference": "uzziah",
+    "language": "eng",
+    "content": "<p>Uzziah was the son of Amaziah and Jecoliah. He was king of Judah for 52 years, from 792 to 740 BC (see <a href=\"https://ref.ly/2Kgs14:21-2Kgs14:22\">2 Kings 14:21–22</a>; <a href=\"https://ref.ly/2Kgs15:1-2Kgs15:2\">15:1–2</a>; <a href=\"https://ref.ly/2Chr26:1-2Chr26:3\">2 Chronicles 26:1–3</a>). He began as co-ruler with his father at age sixteen for about 25 years. After his father was assassinated, Uzziah became the only ruler. He was a capable, energetic, and well-organized king who pleased the Lord for most of his reign.</p><p>During most of Uzziah’s reign, Jeroboam II ruled the northern kingdom of Israel from 793 to 753 BC. Both kings were successful and brought a long period of prosperity to Israel and Judah. Uzziah successfully fought the Philistines and built many fortifications in Jerusalem and throughout Judah. He &quot;<span>sought the LORD&quot;</span> (<a href=\"https://ref.ly/2Chr26:5\">2 Chronicles 26:5</a>), and as long as he did, the Lord blessed him in all his efforts, and he prospered.</p><p>Several prophets were active during Uzziah’s reign. Amos and Hosea prophesied during his life (<a href=\"https://ref.ly/Hos1:1\">Hosea 1:1</a>; <a href=\"https://ref.ly/Amos1:1\">Amos 1:1</a>), though most of their messages were for the northern kingdom. The prophet Isaiah received his call the year Uzziah died (<a href=\"https://ref.ly/Isa1:1\">Isaiah 1:1</a>; <a href=\"https://ref.ly/Isa6:1\">6:1</a>).</p><p>Uzziah became proud of his many successes, which led to his downfall (<a href=\"https://ref.ly/2Chr26:16\">2 Chronicles 26:16</a>). He acted like a priest, entered the holy area of the temple, and burned incense. The priests tried to stop him from sinning against the Lord, but he angrily ignored their warnings. Because of his disobedience, God gave Uzziah leprosy, and he had to live the rest of his life in isolation. Uzziah was buried with his ancestors, but at a distance because of his leprosy (<a href=\"https://ref.ly/2Chr26:23\">2 Chronicles 26:23</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/2Kgs14:21-2Kgs14:22\">2 Kings 14:21–22</a>; <a href=\"https://ref.ly/2Kgs15:1-2Kgs15:7\">15:1–7</a>; <a href=\"https://ref.ly/2Chr26:1-2Chr26:23\">2 Chronicles 26:1–23</a>; <a href=\"https://ref.ly/Isa1:1\">Isaiah 1:1</a>; <a href=\"https://ref.ly/Isa6:1\">6:1</a>; <a href=\"https://ref.ly/Hos1:1\">Hosea 1:1</a>; <a href=\"https://ref.ly/Amos1:1\">Amos 1:1</a>; <a href=\"https://ref.ly/Zech14:5\">Zechariah 14:5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14026005",
+          "start_ref_usfm": "2CH 26:5",
+          "end_ref": "14026005",
+          "end_ref_usfm": "2CH 26:5"
+        },
+        {
+          "start_ref": "14026016",
+          "start_ref_usfm": "2CH 26:16",
+          "end_ref": "14026016",
+          "end_ref_usfm": "2CH 26:16"
+        },
+        {
+          "start_ref": "14026023",
+          "start_ref_usfm": "2CH 26:23",
+          "end_ref": "14026023",
+          "end_ref_usfm": "2CH 26:23"
+        },
+        {
+          "start_ref": "23001001",
+          "start_ref_usfm": "ISA 1:1",
+          "end_ref": "23001001",
+          "end_ref_usfm": "ISA 1:1"
+        },
+        {
+          "start_ref": "23006001",
+          "start_ref_usfm": "ISA 6:1",
+          "end_ref": "23006001",
+          "end_ref_usfm": "ISA 6:1"
+        },
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001001",
+          "end_ref_usfm": "HOS 1:1"
+        },
+        {
+          "start_ref": "30001001",
+          "start_ref_usfm": "AMO 1:1",
+          "end_ref": "30001001",
+          "end_ref_usfm": "AMO 1:1"
+        },
+        {
+          "start_ref": "38014005",
+          "start_ref_usfm": "ZEC 14:5",
+          "end_ref": "38014005",
+          "end_ref_usfm": "ZEC 14:5"
+        },
+        {
+          "start_ref": "12015001",
+          "start_ref_usfm": "2KI 15:1",
+          "end_ref": "12015007",
+          "end_ref_usfm": "2KI 15:7"
+        },
+        {
+          "start_ref": "12014021",
+          "start_ref_usfm": "2KI 14:21",
+          "end_ref": "12014022",
+          "end_ref_usfm": "2KI 14:22"
+        },
+        {
+          "start_ref": "14026001",
+          "start_ref_usfm": "2CH 26:1",
+          "end_ref": "14026023",
+          "end_ref_usfm": "2CH 26:23"
+        },
+        {
+          "start_ref": "12015001",
+          "start_ref_usfm": "2KI 15:1",
+          "end_ref": "12015002",
+          "end_ref_usfm": "2KI 15:2"
+        },
+        {
+          "start_ref": "14026001",
+          "start_ref_usfm": "2CH 26:1",
+          "end_ref": "14026003",
+          "end_ref_usfm": "2CH 26:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

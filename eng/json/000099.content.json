@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 500549,
+    "reference_id": 203492,
+    "title": "Samaritans",
+    "media_type": "Text",
+    "index_reference": "samaritans",
+    "language": "eng",
+    "content": "<p>Samaria was a region north of Judea. It was centered around the ancient city of Shechem, which is called Sychar in the New Testament. After the conquest of Israel in 722 BC, the cities of Samaria and Shechem were destroyed. People from across the Assyrian empire repopulated the area (<a href=\"https://ref.ly/2Kgs17:21-2Kgs17:41\">2 Kings 17:21–41</a>). These new residents brought many pagan practices, making the land&apos;s religious impurity well-known. Over time, the Jewish belief in one God became the main belief, but some things about how people practiced their faith changed. The Samaritans only accepted the Pentateuch (the first five books of the Old Testament) as Scripture. They also worshiped at a new temple on Mount Gerizim above Shechem.</p><p>The Samaritans and Jews had a long history of conflict, starting after the Jews returned from exile (see <a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">Ezra 4:1–5</a>; <a href=\"https://ref.ly/Neh4:1-Neh4:23\">Nehemiah 4:1–23</a>). Alexander the Great and later Greek generals made Shechem an important base because they found anti-Jewish allies there. In 128 BC, the Jews destroyed Shechem and burned the Samaritan temple on Mount Gerizim. In AD 6 to 9, the Samaritans fought back by dishonoring the Jerusalem Temple. They scattered human bones from a cemetery during Passover. By the time of Jesus, tension between Judea and Samaria was still strong.</p><p>During Jesus&apos;s time, Jews avoided traveling through Samaria because they saw its people as hostile and impure. When Jesus traveled through Samaria and met a Samaritan woman, the tensions of this relationship were clear. Someone living in the first century would hardly expect Jesus and the woman to acknowledge each other, let alone speak. Yet Jesus went beyond his ethnic identity and invited even a Samaritan woman with a bad reputation to believe.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/2Kgs17:21-2Kgs17:41\">2 Kings 17:21–41</a>; <a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">Ezra 4:1–5</a>; <a href=\"https://ref.ly/Neh4:1-Neh4:23\">Nehemiah 4:1–23</a>; <a href=\"https://ref.ly/John4:1-John4:42\">John 4:1–42</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15004001",
+          "start_ref_usfm": "EZR 4:1",
+          "end_ref": "15004005",
+          "end_ref_usfm": "EZR 4:5"
+        },
+        {
+          "start_ref": "43004001",
+          "start_ref_usfm": "JHN 4:1",
+          "end_ref": "43004042",
+          "end_ref_usfm": "JHN 4:42"
+        },
+        {
+          "start_ref": "16004001",
+          "start_ref_usfm": "NEH 4:1",
+          "end_ref": "16004023",
+          "end_ref_usfm": "NEH 4:23"
+        },
+        {
+          "start_ref": "12017021",
+          "start_ref_usfm": "2KI 17:21",
+          "end_ref": "12017041",
+          "end_ref_usfm": "2KI 17:41"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

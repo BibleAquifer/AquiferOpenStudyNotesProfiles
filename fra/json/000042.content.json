@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 668926,
+    "reference_id": 203468,
+    "title": "Ézéchiel",
+    "media_type": "Text",
+    "index_reference": "ézéchiel",
+    "language": "fra",
+    "content": "<p>Ézéchiel, prêtre et prophète, est né vers 623 av. J.-C. Il a vraisemblablement grandi à Jérusalem et il était marié (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ez 24.16–18</a>). En 597 av. J.-C., il fut exilé à Babylone avec Jojakin et s&apos;établit près du fleuve Kebar. Il reçut ensuite son appel pour être un prophète à Babylone, le 31 juillet 593 av. J.‑C (<a href=\"https://ref.ly/Ezek1:1\">Ez 1.1</a>). Sa vie personnelle et son ministère nous sont connus grâce au livre qui porte son nom.</p><p>Ézéchiel se distingua par des actions symboliques destinées à illustrer les messages divins qu&apos;il recevait. &nbsp;Lors du siège final de la ville de Jérusalem, par exemple, il démontra la sévérité de la famine en faisant cuire sa nourriture sur du fumier&nbsp;(<a href=\"https://ref.ly/Ezek4:12\">Ez 4.12</a>). À une autre occasion, il resta immobile pendant 430 jours, chaque jour symbolisant une année de péché d&apos;Israël et de Juda (<a href=\"https://ref.ly/Ezek4:4-Ezek4:7\">Ez 4.4–7</a>). Lorsque sa femme mourut subitement, il fut interdit de la pleurer publiquement (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ez 24.16–18</a>), et cet événement servit d&apos;avertissement sur le destin tragique qui s&apos;annonçait pour Juda&nbsp;(<a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">Ez 24.15–27</a>). Toutes ces actions visaient à capter l&apos;attention du peuple sur la gravité de leur infidélité.</p><p>Au début, ses messages furent rejetés, mais avec le temps, ses prophéties se révélèrent exactes, et la nation cessa d&apos;adorer de faux dieux. Ézéchiel enseigna la sainteté, la pureté, la résurrection et la loi rituelle (règles et pratiques religieuses), insufflant ainsi aux exilés l&apos;espérance de demeurer fidèles pendant leur captivité et de voir un accomplissement plus grand à leur retour.</p><p>Les circonstances exactes de sa mort restent inconnues, et il n&apos;est mentionné nulle part ailleurs dans l&apos;Ancien Testament. Le Nouveau Testament fait allusion à ses prophéties plus de soixante fois, notamment dans le livre de l&apos;Apocalypse. Les visions prophétiques d&apos;Ézéchiel portaient sur des choses plus lointaines que le seul avenir proche, allant du jugement final (le jugement ultime de Dieu concernant tous les peuples) à l&apos;espoir du paradis éternel.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Ezek2:1-Ezek2:10\">Ez 2.1–10</a> ; <a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">24.15–27</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "26001001",
+          "start_ref_usfm": "EZK 1:1",
+          "end_ref": "26001001",
+          "end_ref_usfm": "EZK 1:1"
+        },
+        {
+          "start_ref": "26004012",
+          "start_ref_usfm": "EZK 4:12",
+          "end_ref": "26004012",
+          "end_ref_usfm": "EZK 4:12"
+        },
+        {
+          "start_ref": "26024016",
+          "start_ref_usfm": "EZK 24:16",
+          "end_ref": "26024018",
+          "end_ref_usfm": "EZK 24:18"
+        },
+        {
+          "start_ref": "26024015",
+          "start_ref_usfm": "EZK 24:15",
+          "end_ref": "26024027",
+          "end_ref_usfm": "EZK 24:27"
+        },
+        {
+          "start_ref": "26002001",
+          "start_ref_usfm": "EZK 2:1",
+          "end_ref": "26002010",
+          "end_ref_usfm": "EZK 2:10"
+        },
+        {
+          "start_ref": "26004004",
+          "start_ref_usfm": "EZK 4:4",
+          "end_ref": "26004007",
+          "end_ref_usfm": "EZK 4:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

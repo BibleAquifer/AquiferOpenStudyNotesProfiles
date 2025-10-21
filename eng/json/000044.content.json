@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 500507,
+    "reference_id": 203450,
+    "title": "Hezekiah",
+    "media_type": "Text",
+    "index_reference": "hezekiah",
+    "language": "eng",
+    "content": "<p>Hezekiah was one of Judah’s best kings. He ruled from 728 to 686 BC. His father, Ahaz, stopped worshiping God. But Hezekiah encouraged true worship of God. He fixed the temple doors, had the Levites prepare themselves for holy service, and restarted religious ceremonies. He offered sacrifices, restored the priestly temple service, and invited people from Judah and Israel to celebrate Passover in Jerusalem (<a href=\"https://ref.ly/2Chr29:1-2Chr30:27\">2 Chronicles 29–30</a>). After the celebration, he destroyed pagan worship sites.</p><p>After Hezekiah began his rule, the Assyrians, led by Shalmaneser V and later Sargon II, defeated the northern kingdom. They deported its people and brought in foreigners in 722 BC. When Sargon II died in 705 BC, his son Sennacherib took power, causing widespread rebellion. Hezekiah stopped paying the tribute his father Ahaz had paid (<a href=\"https://ref.ly/2Kgs18:7\">2 Kings 18:7</a>; see <a href=\"https://ref.ly/2Kgs16:7\">16:7</a>). As a result, in 701 BC, Sennacherib invaded Judah. Hezekiah tried to appease the Assyrian ruler with a large tribute, but this failed. The Assyrian forces threatened Jerusalem and mocked Hezekiah&apos;s trust in the Lord (<a href=\"https://ref.ly/2Kgs18:17-2Kgs18:35\">2 Kings 18:17–35</a>). Hezekiah responded with mourning and prayer. The Lord, through the prophet Isaiah, assured Hezekiah that his prayers were heard and that Sennacherib would not conquer Jerusalem (<a href=\"https://ref.ly/2Kgs19:1-2Kgs19:34\">2 Kings 19:1–34</a>).</p><p>Around that time, Hezekiah became very ill (<a href=\"https://ref.ly/2Kgs20:1-2Kgs20:11\">2 Kings 20:1–11</a>). Isaiah told him to prepare for death, but Hezekiah prayed to the Lord for healing. The Lord promised him fifteen more years of life and deliverance from the Assyrians. After he recovered, Hezekiah unwisely hosted the Babylonian king Merodach-baladan in his palace. He showed him the temple treasures and sought support from Babylon instead of the Lord. Isaiah predicted that those treasures would be taken to Babylon (<a href=\"https://ref.ly/2Kgs20:12-2Kgs20:19\">2 Kings 20:12–19</a>).</p><p>After the Assyrian threat in 701 BC, Hezekiah enjoyed peaceful and successful years. He died in 686 BC, and his son Manasseh succeeded him.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/2Kgs18:1-2Kgs20:21\">2 Kings 18:1–20:21</a>; <a href=\"https://ref.ly/2Chr28:27-2Chr32:33\">2 Chronicles 28:27–32:33</a>; <a href=\"https://ref.ly/Isa36:1-Isa39:8\">Isaiah 36:1–39:8</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12016007",
+          "start_ref_usfm": "2KI 16:7",
+          "end_ref": "12016007",
+          "end_ref_usfm": "2KI 16:7"
+        },
+        {
+          "start_ref": "12018007",
+          "start_ref_usfm": "2KI 18:7",
+          "end_ref": "12018007",
+          "end_ref_usfm": "2KI 18:7"
+        },
+        {
+          "start_ref": "12020012",
+          "start_ref_usfm": "2KI 20:12",
+          "end_ref": "12020019",
+          "end_ref_usfm": "2KI 20:19"
+        },
+        {
+          "start_ref": "12020001",
+          "start_ref_usfm": "2KI 20:1",
+          "end_ref": "12020011",
+          "end_ref_usfm": "2KI 20:11"
+        },
+        {
+          "start_ref": "12018001",
+          "start_ref_usfm": "2KI 18:1",
+          "end_ref": "12020021",
+          "end_ref_usfm": "2KI 20:21"
+        },
+        {
+          "start_ref": "23036001",
+          "start_ref_usfm": "ISA 36:1",
+          "end_ref": "23039008",
+          "end_ref_usfm": "ISA 39:8"
+        },
+        {
+          "start_ref": "14029001",
+          "start_ref_usfm": "2CH 29:1",
+          "end_ref": "14030027",
+          "end_ref_usfm": "2CH 30:27"
+        },
+        {
+          "start_ref": "12018017",
+          "start_ref_usfm": "2KI 18:17",
+          "end_ref": "12018035",
+          "end_ref_usfm": "2KI 18:35"
+        },
+        {
+          "start_ref": "12019001",
+          "start_ref_usfm": "2KI 19:1",
+          "end_ref": "12019034",
+          "end_ref_usfm": "2KI 19:34"
+        },
+        {
+          "start_ref": "14028027",
+          "start_ref_usfm": "2CH 28:27",
+          "end_ref": "14032033",
+          "end_ref_usfm": "2CH 32:33"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

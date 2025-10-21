@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 668955,
+    "reference_id": 203497,
+    "title": "Barnabas",
+    "media_type": "Text",
+    "index_reference": "barnabas",
+    "language": "fra",
+    "content": "<p>Dans le livre des Actes, Barnabas est présenté comme un responsable chrétien inspirant. Originaire de Chypre et actif au sein de l&apos;église de Jérusalem, il se distingua par sa générosité exemplaire, apportant son aide aux membres les plus démunis (<a href=\"https://ref.ly/Acts4:32-Acts4:37\">Ac 4.32–37</a>). Son vrai nom était Joseph, mais il était surnommé Barnabas. Barnabas signifie « fils d&apos;encouragement », ce qui témoigne de son caractère (<a href=\"https://ref.ly/Acts4:36\">Ac 4.36</a>).</p><p>Son esprit de discernement le disposa à évaluer de manière juste le renouveau qui s&apos;opérait à Antioche (<a href=\"https://ref.ly/Acts11:19-Acts11:22\">Ac 11.19–22</a>). Constatant la bénédiction de Dieu sur cette communauté naissante, il encouragea les croyants à persévérer dans la foi (<a href=\"https://ref.ly/Acts11:23\">Ac 11.23</a>). Son bon caractère était évident dans sa gentillesse, sa foi affermie, ainsi que sa vie remplie de l&apos;Esprit (<a href=\"https://ref.ly/Acts11:24\">Ac 11.24</a>). Ainsi, le Saint-Esprit choisit Barnabas pour participer au premier voyage missionnaire aux côtés de Saul, une mission confiée par l&apos;église d&apos;Antioche (<a href=\"https://ref.ly/Acts13:1-Acts13:3\">Ac 13.1–3</a>).</p><p>Faisant preuve de sagesse, il se rendit à Tarse pour retrouver Saul (<a href=\"https://ref.ly/Acts11:25\">Ac 11.25</a>), dont la prédication courageuse à Damas l&apos;avait profondément impressionné. Par son intermédiaire, Saul (ancien persécuteur des croyants) fut présenté aux apôtres, obtint leur acceptation et se mit à prêcher courageusement à Jérusalem (<a href=\"https://ref.ly/Acts9:26-Acts9:30\">Ac 9.26–30</a>). Le voyage de Barnabas et Saul fut des plus fructueux : pendant une année, leur travail commun à l&apos;église d&apos;Antioche attira de grandes foules (<a href=\"https://ref.ly/Acts11:26\">Ac 11.26</a>).</p><p>La renommée de Barnabas était telle qu’à Lystre, certains allèrent jusqu’à le confondre avec Jupiter (voir <a href=\"https://ref.ly/Acts14:8-Acts14:18\">Ac 14.8–18</a>). Cousin et mentor de Jean-Marc (où Jean, surnommé Marc), il offrit à ce dernier une seconde chance pour devenir un responsable chrétien influent après son abandon lors d&apos;une mission précédente (voir <a href=\"https://ref.ly/Acts15:36-Acts15:40\">Ac 15.36–40</a>).</p><p>Bien que conscient des influences néfastes auxquelles chacun peut succomber, et cédant parfois à la pression pour commettre des actes qu&apos;il savait répréhensibles&nbsp; (<a href=\"https://ref.ly/Gal2:11-Gal2:13\">Ga 2.11–13</a>), Barnabas resta pour beaucoup, et malgré certaines erreurs, un véritable « fils d’encouragement ». Sa générosité et son service désintéressé contribuèrent de manière décisive à la croissance et à l&apos;essor de l&apos;Église.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Acts4:36-Acts4:37\">Actes 4.36–37</a> ; <a href=\"https://ref.ly/Acts9:26-Acts9:28\">9.26–28</a> ; <a href=\"https://ref.ly/Acts11:19-Acts11:30\">11.19–30</a> ; <a href=\"https://ref.ly/Acts13:1-Acts15:40\">13.1–15.40</a> ; <a href=\"https://ref.ly/Gal2:1-Gal2:14\">Galates 2.1–14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44004036",
+          "start_ref_usfm": "ACT 4:36",
+          "end_ref": "44004036",
+          "end_ref_usfm": "ACT 4:36"
+        },
+        {
+          "start_ref": "44011023",
+          "start_ref_usfm": "ACT 11:23",
+          "end_ref": "44011023",
+          "end_ref_usfm": "ACT 11:23"
+        },
+        {
+          "start_ref": "44011024",
+          "start_ref_usfm": "ACT 11:24",
+          "end_ref": "44011024",
+          "end_ref_usfm": "ACT 11:24"
+        },
+        {
+          "start_ref": "44011025",
+          "start_ref_usfm": "ACT 11:25",
+          "end_ref": "44011025",
+          "end_ref_usfm": "ACT 11:25"
+        },
+        {
+          "start_ref": "44011026",
+          "start_ref_usfm": "ACT 11:26",
+          "end_ref": "44011026",
+          "end_ref_usfm": "ACT 11:26"
+        },
+        {
+          "start_ref": "44013001",
+          "start_ref_usfm": "ACT 13:1",
+          "end_ref": "44013003",
+          "end_ref_usfm": "ACT 13:3"
+        },
+        {
+          "start_ref": "44004032",
+          "start_ref_usfm": "ACT 4:32",
+          "end_ref": "44004037",
+          "end_ref_usfm": "ACT 4:37"
+        },
+        {
+          "start_ref": "44004036",
+          "start_ref_usfm": "ACT 4:36",
+          "end_ref": "44004037",
+          "end_ref_usfm": "ACT 4:37"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011022",
+          "end_ref_usfm": "ACT 11:22"
+        },
+        {
+          "start_ref": "44009026",
+          "start_ref_usfm": "ACT 9:26",
+          "end_ref": "44009030",
+          "end_ref_usfm": "ACT 9:30"
+        },
+        {
+          "start_ref": "44014008",
+          "start_ref_usfm": "ACT 14:8",
+          "end_ref": "44014018",
+          "end_ref_usfm": "ACT 14:18"
+        },
+        {
+          "start_ref": "44009026",
+          "start_ref_usfm": "ACT 9:26",
+          "end_ref": "44009028",
+          "end_ref_usfm": "ACT 9:28"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011030",
+          "end_ref_usfm": "ACT 11:30"
+        },
+        {
+          "start_ref": "48002011",
+          "start_ref_usfm": "GAL 2:11",
+          "end_ref": "48002013",
+          "end_ref_usfm": "GAL 2:13"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015040",
+          "end_ref_usfm": "ACT 15:40"
+        },
+        {
+          "start_ref": "44013001",
+          "start_ref_usfm": "ACT 13:1",
+          "end_ref": "44015040",
+          "end_ref_usfm": "ACT 15:40"
+        },
+        {
+          "start_ref": "48002001",
+          "start_ref_usfm": "GAL 2:1",
+          "end_ref": "48002014",
+          "end_ref_usfm": "GAL 2:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

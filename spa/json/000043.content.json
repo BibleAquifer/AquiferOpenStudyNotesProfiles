@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 658338,
+    "reference_id": 203413,
+    "title": "Faraón",
+    "media_type": "Text",
+    "index_reference": "faraón",
+    "language": "spa",
+    "content": "<p>&quot;Faraón&quot; es una palabra egipcia que significa &quot;Gran casa&quot;. Se refiere al palacio real y también es un título para el rey de Egipto. Durante la época de José, el Faraón veía favorablemente a los israelitas. José interpretó los sueños del Faraón, lo que llevó a su promoción como segundo al mando en Egipto (<a href=\"https://ref.ly/Gen41:1-Gen41:44\">Gn 41:1–44</a>). El Faraón le otorgó a la familia de José la mejor tierra en Egipto (<a href=\"https://ref.ly/Gen45:16-Gen45:20\">Gn 45:16–20</a>). Los israelitas crecieron en número y prosperaron allí.</p><p>En el libro del Éxodo se mencionan dos faraones, y ninguno de ellos valoraba al pueblo hebreo (ver <a href=\"https://ref.ly/Exod1:8-Exod1:10\">Ex 1:8–10</a>). El primer faraón gobernaba cuando Moisés nació. Temía a los hebreos y ordenó la matanza de todos los bebés varones hebreos. Moisés escapó de la muerte y fue criado por la hija del faraón en el palacio. Este faraón murió después de que Moisés huyó de Egipto (<a href=\"https://ref.ly/Exod2:23\">Ex 2:23</a>).</p><p>Un nuevo faraón llegó al poder, y Moisés y Aarón lo confrontaron más tarde. Este faraón estaba decidido a mantener a los israelitas en Egipto. Mantuvo su obstinación incluso cuando presenció el poder de Dios. La Biblia describe su falta de disposición para cambiar (ver <a href=\"https://ref.ly/Exod8:32\">Ex 8:32;</a> <a href=\"https://ref.ly/Exod9:12\">9:12</a>,<a href=\"https://ref.ly/Exod9:34-Exod9:35\">34–35,</a> comparar <a href=\"https://ref.ly/Rom1:18-Rom1:32\">Ro 1:18–32</a>).</p><p>Como rey, el Faraón representaba el dominio de los dioses sobre Egipto, lo que le otorgaba poder absoluto. Las plagas fueron ataques de Dios contra los falsos dioses de Egipto (ver <a href=\"https://ref.ly/Exod12:12\">Ex 12:12</a>). La plaga final, la muerte de los primogénitos, tuvo como objetivo la casa del Faraón. Esta plaga decisiva convenció al Faraón de liberar a Israel. Sin embargo, después de que los israelitas partieron, el Faraón cambió de opinión y los persiguió hasta el Mar Rojo. El rescate de Dios a los israelitas indefensos y la destrucción de los poderosos egipcios en el Mar Rojo es uno de los rescates más dramáticos en el Antiguo Testamento. El Señor se reveló en el Mar Rojo como un guerrero que luchó por su pueblo (<a href=\"https://ref.ly/Exod15:3\">Ex 15:3</a>).</p><p>Los faraones mencionados en el Éxodo no están identificados por nombre, probablemente siguiendo la tradición egipcia. Si los israelitas salieron de Egipto en el siglo XIV a.C., el faraón podría haber sido Thutmose III, quien gobernó aproximadamente entre 1504 y 1450 a.C. Si el éxodo ocurrió en el siglo XIII a.C., según otra cronología, el faraón podría haber sido Ramsés II, quien gobernó aproximadamente entre 1279 y 1213 a.C.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Exod1:8-Exod1:22\">Éxodo 1:8–22;</a> <a href=\"https://ref.ly/Exod2:14-Exod2:15\">2:14–15</a>,<a href=\"https://ref.ly/Exod2:23\">23</a>; <a href=\"https://ref.ly/Exod5:1-Exod15:21\">5:1–15:21</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02002023",
+          "start_ref_usfm": "EXO 2:23",
+          "end_ref": "02002023",
+          "end_ref_usfm": "EXO 2:23"
+        },
+        {
+          "start_ref": "02008032",
+          "start_ref_usfm": "EXO 8:32",
+          "end_ref": "02008032",
+          "end_ref_usfm": "EXO 8:32"
+        },
+        {
+          "start_ref": "02009012",
+          "start_ref_usfm": "EXO 9:12",
+          "end_ref": "02009012",
+          "end_ref_usfm": "EXO 9:12"
+        },
+        {
+          "start_ref": "02012012",
+          "start_ref_usfm": "EXO 12:12",
+          "end_ref": "02012012",
+          "end_ref_usfm": "EXO 12:12"
+        },
+        {
+          "start_ref": "02015003",
+          "start_ref_usfm": "EXO 15:3",
+          "end_ref": "02015003",
+          "end_ref_usfm": "EXO 15:3"
+        },
+        {
+          "start_ref": "45001018",
+          "start_ref_usfm": "ROM 1:18",
+          "end_ref": "45001032",
+          "end_ref_usfm": "ROM 1:32"
+        },
+        {
+          "start_ref": "02001008",
+          "start_ref_usfm": "EXO 1:8",
+          "end_ref": "02001010",
+          "end_ref_usfm": "EXO 1:10"
+        },
+        {
+          "start_ref": "02001008",
+          "start_ref_usfm": "EXO 1:8",
+          "end_ref": "02001022",
+          "end_ref_usfm": "EXO 1:22"
+        },
+        {
+          "start_ref": "01041001",
+          "start_ref_usfm": "GEN 41:1",
+          "end_ref": "01041044",
+          "end_ref_usfm": "GEN 41:44"
+        },
+        {
+          "start_ref": "01045016",
+          "start_ref_usfm": "GEN 45:16",
+          "end_ref": "01045020",
+          "end_ref_usfm": "GEN 45:20"
+        },
+        {
+          "start_ref": "02009034",
+          "start_ref_usfm": "EXO 9:34",
+          "end_ref": "02009035",
+          "end_ref_usfm": "EXO 9:35"
+        },
+        {
+          "start_ref": "02002014",
+          "start_ref_usfm": "EXO 2:14",
+          "end_ref": "02002015",
+          "end_ref_usfm": "EXO 2:15"
+        },
+        {
+          "start_ref": "02005001",
+          "start_ref_usfm": "EXO 5:1",
+          "end_ref": "02015021",
+          "end_ref_usfm": "EXO 15:21"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

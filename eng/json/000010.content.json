@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 500552,
+    "reference_id": 203495,
+    "title": "Annas and Caiaphas",
+    "media_type": "Text",
+    "index_reference": "annas and caiaphas",
+    "language": "eng",
+    "content": "<p>Annas and Caiaphas were both high priests during Jesus&apos; time. They played key roles in condemning Jesus to death.</p><p>Annas was the Jewish high priest around AD 6 to 15. Even after the Roman procurator of Judea removed him, he remained very powerful and influential in the Jewish high council. People still called him &quot;high priest&quot; fifteen to twenty years later (<a href=\"https://ref.ly/Luke3:2\">Luke 3:2</a>; <a href=\"https://ref.ly/Acts4:6\">Acts 4:6</a>). This might be because Jews believed high priests held their position for life. Five of his sons and his son-in-law, Caiaphas, became high priests after him. According to the Gospel of John, when Jesus was arrested, he was first taken to Annas for questioning before being handed over to Caiaphas for the official trial (<a href=\"https://ref.ly/John18:13-John18:24\">John 18:13–24</a>).</p><p>Caiaphas was the Jewish high priest from around AD 18 to 36. He worked closely with his influential father-in-law, Annas. Caiaphas argued in the high council that sacrificing Jesus would be better than risking the nation&apos;s destruction (<a href=\"https://ref.ly/John11:49-John11:50\">John 11:49–50</a>). God gave him these prophetic words because he was the high priest (<a href=\"https://ref.ly/John11:51-John11:52\">John 11:51–52</a>). During Jesus&apos; trial, Caiaphas tore his robes when Jesus claimed to be the Son of God. He urged the high council to condemn Jesus for blasphemy (<a href=\"https://ref.ly/Matt26:57-Matt26:66\">Matthew 26:57–66</a>).</p><p>Shortly after Jesus&apos;s execution, Jewish leaders grew worried about the rising number of Christ&apos;s followers. Annas and Caiaphas questioned Peter and John about healing a crippled beggar and preaching about the resurrection of the dead (<a href=\"https://ref.ly/Acts4:5-Acts4:7\">Acts 4:5–7</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt26:3-Matt26:5\">Matthew 26:3–5</a>, <a href=\"https://ref.ly/Matt26:57-Matt26:67\">57–67</a>; <a href=\"https://ref.ly/Mark14:53-Mark14:65\">Mark 14:53–65</a>; <a href=\"https://ref.ly/Luke3:2\">Luke 3:2</a>; <a href=\"https://ref.ly/John11:49-John11:53\">John 11:49–53</a>; <a href=\"https://ref.ly/John18:13-John18:28\">John 18:13–28</a>; <a href=\"https://ref.ly/Acts4:5-Acts4:7\">Acts 4:5–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42003002",
+          "start_ref_usfm": "LUK 3:2",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "44004006",
+          "start_ref_usfm": "ACT 4:6",
+          "end_ref": "44004006",
+          "end_ref_usfm": "ACT 4:6"
+        },
+        {
+          "start_ref": "41014053",
+          "start_ref_usfm": "MRK 14:53",
+          "end_ref": "41014065",
+          "end_ref_usfm": "MRK 14:65"
+        },
+        {
+          "start_ref": "43011051",
+          "start_ref_usfm": "JHN 11:51",
+          "end_ref": "43011052",
+          "end_ref_usfm": "JHN 11:52"
+        },
+        {
+          "start_ref": "40026003",
+          "start_ref_usfm": "MAT 26:3",
+          "end_ref": "40026005",
+          "end_ref_usfm": "MAT 26:5"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026066",
+          "end_ref_usfm": "MAT 26:66"
+        },
+        {
+          "start_ref": "44004005",
+          "start_ref_usfm": "ACT 4:5",
+          "end_ref": "44004007",
+          "end_ref_usfm": "ACT 4:7"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018024",
+          "end_ref_usfm": "JHN 18:24"
+        },
+        {
+          "start_ref": "43011049",
+          "start_ref_usfm": "JHN 11:49",
+          "end_ref": "43011050",
+          "end_ref_usfm": "JHN 11:50"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026067",
+          "end_ref_usfm": "MAT 26:67"
+        },
+        {
+          "start_ref": "43011049",
+          "start_ref_usfm": "JHN 11:49",
+          "end_ref": "43011053",
+          "end_ref_usfm": "JHN 11:53"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018028",
+          "end_ref_usfm": "JHN 18:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

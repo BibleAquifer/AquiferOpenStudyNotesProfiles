@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 658402,
+    "reference_id": 203477,
+    "title": "Herodes el Grande",
+    "media_type": "Text",
+    "index_reference": "herodes el grande",
+    "language": "spa",
+    "content": "<p>Herodes el Grande fue el rey de Judea designado por los romanos desde el 37 hasta el 4 a.C. Herodes el Grande era rey cuando nació Jesús (<a href=\"https://ref.ly/Matt2:1\">Mateo 2.1,</a> <a href=\"https://ref.ly/Luke1:5\">Lucas 1.5</a>). Era un líder militar fuerte, un político hábil y un gobernante severo. Nació en una familia idumea (edomita) con conexiones romanas. Ganó poder al ganarse el favor de los romanos y mantuvo este poder siendo cruel con cualquiera que se le opusiera.</p><p>Herodes fue famoso por sus grandes proyectos de construcción. Su mayor logro fue la reconstrucción y embellecimiento del Templo de Jerusalem, que comenzó alrededor del año 20 a.C. (Josefo, <em>Antigüedades</em> 15.8.1). Esto lo convirtió en uno de los edificios más impresionantes del mundo antiguo. También construyó Cesarea y la convirtió en la sede romana en Palestina. Herodes obtuvo el título de &quot;el Grande&quot; debido a su reputación como un excelente constructor.</p><p>Herodes era conocido por sus problemas familiares y su trato severo hacia los oponentes o amenazas percibidas. Mató a dos de sus esposas y a tres de sus hijos cuando sospechó que conspiraban contra él. Augusto <span>César</span> una vez dijo que preferiría ser el <em>cerdo</em> de Herodes que su <em>hijo</em> (un juego de palabras en Griego ya que las dos palabras suenan parecido—<em>hus</em>, <em>huios</em>). Cuando Jesús nació cerca del final del reinado de Herodes y este escuchó que lo llamaban un futuro “Rey”, intentó matarlo. Incapaz de encontrar al niño, Herodes ordenó la matanza de todos los niños menores de dos años en el área de <span>Bethlehem</span> (ver <a href=\"https://ref.ly/Matt2:1-Matt2:20\">Mateo 2.1–20</a>). Este acto era típico de su crueldad y paranoia.</p><p>A Herodes se le llamaba &quot;Rey de los judíos&quot;, pero el pueblo judío no lo aceptaba como su verdadero rey. No pertenecía a la línea familiar del rey David y era un edomita, descendiente de Esaú, no un judío.</p><p><u>Pasajes para estudio complementario</u></p><p><a href=\"https://ref.ly/Matt2:1-Matt2:20\">Mateo 2.1–20,</a> <a href=\"https://ref.ly/Luke1:5\">Lucas 1.5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002001",
+          "end_ref_usfm": "MAT 2:1"
+        },
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001005",
+          "end_ref_usfm": "LUK 1:5"
+        },
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002020",
+          "end_ref_usfm": "MAT 2:20"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

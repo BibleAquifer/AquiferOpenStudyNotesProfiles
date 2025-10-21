@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 500486,
+    "reference_id": 203429,
+    "title": "Michal",
+    "media_type": "Text",
+    "index_reference": "michal",
+    "language": "eng",
+    "content": "<p>Michal was King Saul’s younger daughter (<a href=\"https://ref.ly/1Sam14:49\">1 Samuel 14:49</a>). She was King David’s first wife (<a href=\"https://ref.ly/1Sam18:17-1Sam18:27\">18:17–27</a>). She was important in the change from Saul’s rule to David’s.</p><p>In the ancient Near East, leading families often arranged marriages for political reasons. Saul tried to trap David by promising him his older daughter, Merab, if he fought the Philistines. David, a strong warrior, was becoming a leader in Saul&apos;s kingdom. The king should have been glad to have such an ally, but he soon became jealous of David&apos;s success and suspicious of his goals. </p><p>Saul hoped David would die in battle, but the plan failed. Later, Saul found out that his younger daughter, Michal, loved David (<a href=\"https://ref.ly/1Sam18:20\">1 Samuel 18:20</a>). This gave him another chance to lure David into fighting the Philistines. This time, David agreed. When David returned victorious, Saul had to give David his daughter in marriage. This marriage alliance helped David when he was building his reputation with the northern tribes (<a href=\"https://ref.ly/2Sam3:13-2Sam3:16\">2 Samuel 3:13–16</a>).</p><p>Michal loved David early in their relationship and even tricked her father to help David escape a plan to kill him (<a href=\"https://ref.ly/1Sam19:11-1Sam19:17\">1 Samuel 19:11–17</a>). After David left Saul’s court, Saul arranged another marriage for her (<a href=\"https://ref.ly/1Sam25:44\">1 Samuel 25:44</a>). But David later ended that marriage to bring her back (<a href=\"https://ref.ly/2Sam3:13-2Sam3:16\">2 Samuel 3:13–16</a>). Michal showed disrespect toward David when he danced happily before the ark of the covenant as it was brought into Jerusalem (<a href=\"https://ref.ly/2Sam6:16-2Sam6:23\">2 Samuel 6:16–23</a>). Because she showed disrespect toward King David, Michal was not able to have children.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Sam14:49\">1 Samuel 14:49</a>; <a href=\"https://ref.ly/1Sam18:17-1Sam18:30\">18:17–30</a>; <a href=\"https://ref.ly/1Sam19:11-1Sam19:17\">19:11–17</a>; <a href=\"https://ref.ly/2Sam3:13-2Sam3:16\">2 Samuel 3:13–16</a>; <a href=\"https://ref.ly/2Sam6:16-2Sam6:23\">6:16–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09014049",
+          "start_ref_usfm": "1SA 14:49",
+          "end_ref": "09014049",
+          "end_ref_usfm": "1SA 14:49"
+        },
+        {
+          "start_ref": "09018020",
+          "start_ref_usfm": "1SA 18:20",
+          "end_ref": "09018020",
+          "end_ref_usfm": "1SA 18:20"
+        },
+        {
+          "start_ref": "09025044",
+          "start_ref_usfm": "1SA 25:44",
+          "end_ref": "09025044",
+          "end_ref_usfm": "1SA 25:44"
+        },
+        {
+          "start_ref": "09019011",
+          "start_ref_usfm": "1SA 19:11",
+          "end_ref": "09019017",
+          "end_ref_usfm": "1SA 19:17"
+        },
+        {
+          "start_ref": "10006016",
+          "start_ref_usfm": "2SA 6:16",
+          "end_ref": "10006023",
+          "end_ref_usfm": "2SA 6:23"
+        },
+        {
+          "start_ref": "09018017",
+          "start_ref_usfm": "1SA 18:17",
+          "end_ref": "09018027",
+          "end_ref_usfm": "1SA 18:27"
+        },
+        {
+          "start_ref": "10003013",
+          "start_ref_usfm": "2SA 3:13",
+          "end_ref": "10003016",
+          "end_ref_usfm": "2SA 3:16"
+        },
+        {
+          "start_ref": "09018017",
+          "start_ref_usfm": "1SA 18:17",
+          "end_ref": "09018030",
+          "end_ref_usfm": "1SA 18:30"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

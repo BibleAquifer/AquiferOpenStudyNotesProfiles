@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 658409,
+    "reference_id": 203484,
+    "title": "Herodes Antipas",
+    "media_type": "Text",
+    "index_reference": "herodes antipas",
+    "language": "spa",
+    "content": "<p>Herodes Antipas fue el sexto hijo de Herodes el Grande. Gobernó Galilea y Perea desde el 4 a.C. hasta el 39 d.C., durante la vida de Jesús. Gobernó las áreas donde Jesús y Juan el Bautista centraron su labor.</p><p>Herodes Antipas, al igual que su padre, fundó ciudades. Séforis, su primer proyecto, se convirtió en la ciudad más grande de Galilea. Sirvió como capital de Antipas hasta que construyó Tiberías, nombrada en honor al Emperador Tiberio, quien gobernó del 14 al 37 d.C. Tiberías se encontraba en la orilla occidental del Mar de Galilea. Antipas la completó en el año 23 d.C. y la convirtió en su capital.</p><p>Herodes Antipas ofendió a muchos judíos al divorciarse de su esposa y casarse con Herodías, quien era la esposa de su medio hermano, Herodes Felipe. Este matrimonio violaba la ley de Moisés porque el hermano de Herodes, Felipe, aún vivía (<a href=\"https://ref.ly/Lev18:16\">Levítico 18.16;</a> <a href=\"https://ref.ly/Lev20:21\">20.21</a>). Cuando Juan el Bautista criticó severamente este matrimonio ilegal, Antipas lo encarceló (<a href=\"https://ref.ly/Mark6:17-Mark6:18\">Marcos 6.17–18</a>). Herodes temía que las críticas de Juan provocaran un levantamiento en su contra (Antigüedades 18.5.2). Más tarde, en un banquete, la hija de Herodías impresionó a Herodes con su baile, lo que lo llevó a hacer una promesa imprudente de darle cualquier cosa que ella deseara. Herodías aprovechó esta oportunidad para que Juan fuera decapitado (<a href=\"https://ref.ly/Matt14:1-Matt14:12\">Mateo 14.1–12</a>).</p><p>Cuando Jesús fue arrestado, Pilato no encontró ninguna falta en él, así que lo envió a Herodes Antipas, quien estaba en Jerusalem para la Pascua. Pilato también pudo haber intentado mejorar su relación con Antipas, ya que su relación había sido problemática desde la masacre en Galilea (<a href=\"https://ref.ly/Luke13:1\">Lucas 13.1</a>). Además, Pilato había llevado escudos con la imagen de Tiberio a Jerusalem, lo cual era considerado blasfemo por los judíos (Filón, Sobre la Embajada a Gayo 299–304). Estas acciones faltaron gravemente al respeto a Dios y sus leyes, ofendiendo profundamente al pueblo judío. Cuando Jesús fue presentado ante Antipas, Herodes solo se burló de él y lo envió de regreso a Pilato (<a href=\"https://ref.ly/Luke23:6-Luke23:11\">Lucas 23.6–11</a>). El principal efecto político de este evento fue que la relación entre Herodes y Pilato mejoró (<a href=\"https://ref.ly/Luke23:12\">Lucas 23.12</a>).</p><p>Herodes Antipas fue posteriormente derrotado en la guerra por el rey Aretas, cuya hija se había divorciado de él. Los judíos vieron esta derrota como un juicio divino. Más tarde, en el año 39 d.C., el emperador Gayo destituyó a Antipas del poder y lo exilió después de que Herodes Agripa I lo acusara de conspirar contra Roma.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Matt14:1-Matt14:12\">Mateo 14.1–12,</a> <a href=\"https://ref.ly/Mark1:14\">Marcos 1.14;</a> <a href=\"https://ref.ly/Mark6:14-Mark6:29\">6.14–29,</a> <a href=\"https://ref.ly/Luke3:1\">Lucas 3.1</a>, <a href=\"https://ref.ly/Luke3:19-Luke3:20\">19–20</a>; <a href=\"https://ref.ly/Luke9:7-Luke9:9\">9.7–9</a>; <a href=\"https://ref.ly/Luke13:31-Luke13:33\">13.31–33</a>; <a href=\"https://ref.ly/Luke23:7-Luke23:12\">23.7–12</a>, <a href=\"https://ref.ly/Luke23:15\">15</a>; <a href=\"https://ref.ly/Acts4:27\">Hechos 4.27</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03018016",
+          "start_ref_usfm": "LEV 18:16",
+          "end_ref": "03018016",
+          "end_ref_usfm": "LEV 18:16"
+        },
+        {
+          "start_ref": "03020021",
+          "start_ref_usfm": "LEV 20:21",
+          "end_ref": "03020021",
+          "end_ref_usfm": "LEV 20:21"
+        },
+        {
+          "start_ref": "41001014",
+          "start_ref_usfm": "MRK 1:14",
+          "end_ref": "41001014",
+          "end_ref_usfm": "MRK 1:14"
+        },
+        {
+          "start_ref": "41008015",
+          "start_ref_usfm": "MRK 8:15",
+          "end_ref": "41008015",
+          "end_ref_usfm": "MRK 8:15"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003001",
+          "end_ref_usfm": "LUK 3:1"
+        },
+        {
+          "start_ref": "42013001",
+          "start_ref_usfm": "LUK 13:1",
+          "end_ref": "42013001",
+          "end_ref_usfm": "LUK 13:1"
+        },
+        {
+          "start_ref": "42023012",
+          "start_ref_usfm": "LUK 23:12",
+          "end_ref": "42023012",
+          "end_ref_usfm": "LUK 23:12"
+        },
+        {
+          "start_ref": "42023015",
+          "start_ref_usfm": "LUK 23:15",
+          "end_ref": "42023015",
+          "end_ref_usfm": "LUK 23:15"
+        },
+        {
+          "start_ref": "44004027",
+          "start_ref_usfm": "ACT 4:27",
+          "end_ref": "44004027",
+          "end_ref_usfm": "ACT 4:27"
+        },
+        {
+          "start_ref": "40014001",
+          "start_ref_usfm": "MAT 14:1",
+          "end_ref": "40014012",
+          "end_ref_usfm": "MAT 14:12"
+        },
+        {
+          "start_ref": "41006014",
+          "start_ref_usfm": "MRK 6:14",
+          "end_ref": "41006029",
+          "end_ref_usfm": "MRK 6:29"
+        },
+        {
+          "start_ref": "42003019",
+          "start_ref_usfm": "LUK 3:19",
+          "end_ref": "42003020",
+          "end_ref_usfm": "LUK 3:20"
+        },
+        {
+          "start_ref": "40014001",
+          "start_ref_usfm": "MAT 14:1",
+          "end_ref": "40014002",
+          "end_ref_usfm": "MAT 14:2"
+        },
+        {
+          "start_ref": "41006014",
+          "start_ref_usfm": "MRK 6:14",
+          "end_ref": "41006016",
+          "end_ref_usfm": "MRK 6:16"
+        },
+        {
+          "start_ref": "42009007",
+          "start_ref_usfm": "LUK 9:7",
+          "end_ref": "42009009",
+          "end_ref_usfm": "LUK 9:9"
+        },
+        {
+          "start_ref": "42013031",
+          "start_ref_usfm": "LUK 13:31",
+          "end_ref": "42013033",
+          "end_ref_usfm": "LUK 13:33"
+        },
+        {
+          "start_ref": "42023007",
+          "start_ref_usfm": "LUK 23:7",
+          "end_ref": "42023012",
+          "end_ref_usfm": "LUK 23:12"
+        },
+        {
+          "start_ref": "41006017",
+          "start_ref_usfm": "MRK 6:17",
+          "end_ref": "41006018",
+          "end_ref_usfm": "MRK 6:18"
+        },
+        {
+          "start_ref": "42023006",
+          "start_ref_usfm": "LUK 23:6",
+          "end_ref": "42023011",
+          "end_ref_usfm": "LUK 23:11"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

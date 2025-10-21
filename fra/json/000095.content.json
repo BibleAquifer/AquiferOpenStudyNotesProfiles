@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 668949,
+    "reference_id": 203491,
+    "title": "Nicodème",
+    "media_type": "Text",
+    "index_reference": "nicodème",
+    "language": "fra",
+    "content": "<p>Nicodème était un pharisien juif respecté (<a href=\"https://ref.ly/John3:1\">Jn 3.1</a>) et un membre éminent du grand conseil. Il semble qu’il soit devenu un disciple de Jésus. L’Évangile de Jean est le seul endroit où il est mentionné.</p><p>Nicodème était curieux de l’autorité et des miracles de Jésus. Il a donc rendu visite à Jésus en secret la nuit pour en apprendre davantage sur lui. Jésus lui a dit qu’il devait naître de nouveau pour entrer dans le royaume de Dieu (<a href=\"https://ref.ly/John3:1-John3:8\">Jn 3.1–8</a>). L’Évangile ne nous révèle toutefois pas la réponse de Nicodème.</p><p>Plus tard, contrairement à ses collègues du Sanhédrin, Nicodème a fermement défendu l’idée que Jésus méritait un procès équitable (<a href=\"https://ref.ly/John7:50-John7:51\">Jn 7.50–51</a>). Après la crucifixion de Jésus, il a acheté soixante-quinze livres de parfum coûteux pour l’enterrement. Il les a apportés au tombeau et a aidé Joseph d’Arimathée à enterrer Jésus (<a href=\"https://ref.ly/John19:39-John19:42\">Jn 19.39–42</a>). Ainsi, Nicodème semble avoir été un pharisien qui croyait en Jésus et était prêt à montrer publiquement son engagement après la mort de celui-ci.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/John3:1-John3:9\">Jn&nbsp;3.1–9</a>&nbsp;; <a href=\"https://ref.ly/John7:50\">7.50</a>&nbsp;; <a href=\"https://ref.ly/John19:39-John19:42\">19.39–42</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43003001",
+          "start_ref_usfm": "JHN 3:1",
+          "end_ref": "43003001",
+          "end_ref_usfm": "JHN 3:1"
+        },
+        {
+          "start_ref": "43007050",
+          "start_ref_usfm": "JHN 7:50",
+          "end_ref": "43007050",
+          "end_ref_usfm": "JHN 7:50"
+        },
+        {
+          "start_ref": "43019039",
+          "start_ref_usfm": "JHN 19:39",
+          "end_ref": "43019042",
+          "end_ref_usfm": "JHN 19:42"
+        },
+        {
+          "start_ref": "43003001",
+          "start_ref_usfm": "JHN 3:1",
+          "end_ref": "43003008",
+          "end_ref_usfm": "JHN 3:8"
+        },
+        {
+          "start_ref": "43007050",
+          "start_ref_usfm": "JHN 7:50",
+          "end_ref": "43007051",
+          "end_ref_usfm": "JHN 7:51"
+        },
+        {
+          "start_ref": "43003001",
+          "start_ref_usfm": "JHN 3:1",
+          "end_ref": "43003009",
+          "end_ref_usfm": "JHN 3:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

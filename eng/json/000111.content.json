@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 500517,
+    "reference_id": 203460,
+    "title": "The Medes and Persians",
+    "media_type": "Text",
+    "index_reference": "the medes and persians",
+    "language": "eng",
+    "content": "<h3>The Medes (around 850–549 BC)</h3><p>The early Medes did not leave written records. An inscription from Shalmaneser III of Assyria, who ruled from 858 to 824 BC, states that the Medes settled around Ecbatana, their capital, by the mid-800s BC. Ecbatana is now called Hamadan, Iran. The Medes were famous for breeding horses, so Shalmaneser raided their land to steal many fine horses. The Medes were under Assyrian control until the late 600s BC, when they became independent as Assyria weakened.</p><h3>The Persians (around 700–549 BC)</h3><p>Around 700 BC, Achaemenes founded a small Persian kingdom. He ruled from about 700 to 675 BC. His son, Teispes, ruled from 675 to 640 BC under the control of the Medes. The Medes were gathering forces to overthrow Assyria. However, problems for the Medes later freed Teispes from their control. Cambyses, who lived from 600 to 559 BC, was the son of Cyrus I and the grandson of Teispes. He married the daughter of the Median king, Astyages. Their son, Cyrus II, ruled Persia from 559 to 530 BC, starting in 559 BC.</p><h3>The Medo-Persian Empire (549–331 BC)</h3><p>Cyrus II defeated his grandfather, Astyages of Media, in 549 BC. He established Ecbatana in Media as his capital and set up his archives there (see <a href=\"https://ref.ly/Ezra6:1-Ezra6:5\">Ezra 6:1–5</a>). With a Persian father and a Median mother, Cyrus II represented the union of Media and Persia.</p><p>Cyrus showed kindness and generosity to defeated enemies. As a skilled military leader, he invaded Asia Minor, defeated Croesus, the king of Lydia, and controlled the Greek cities in the region. In 539 BC, he captured Babylon with almost no resistance and allowed exiled people to return home to rebuild their temples (see <a href=\"https://ref.ly/Ezra1:1-Ezra1:4\">Ezra 1:1–4</a>).</p><p>Cyrus&apos;s son, Cambyses II, conquered Egypt and ruled from 529 to 522 BC. However, the empire almost fell apart when he committed suicide. Darius I, the son of Hystaspes, who was the governor of Parthia, succeeded Cambyses and ruled from 521 to 486 BC. Darius was an energetic and efficient leader. He stopped internal revolts and organized the empire into twenty provinces. </p><p>Each province was under a governor, called a satrap or &quot;protector of the kingdom.&quot; Inspectors, known as &quot;the ears of the king,&quot; monitored the satraps&apos; actions. Darius moved the main capital of Persia to Persepolis, where they eventually built a large palace complex. Darius followed Zoroaster and worshiped Ahura Mazda, the main god of Zoroastrianism. Xerxes and Artaxerxes, who came after him, also followed this faith.</p><p>In the later years of Darius&apos;s rule, the Greeks defeated him at Marathon in 491 BC.</p><p>Darius&apos;s son, Khshayarsha, also known as Xerxes in Greek and Ahasuerus in Hebrew, succeeded him. During Xerxes&apos;s rule from 486 to 465 BC, the Greeks defeated the Persian fleet at Salamis in 480 BC.</p><p>People blame the end of the empire on the cowardice of Darius III, who ruled from 336 to 330 BC. Alexander the Great defeated his armies at Issus in 333 BC and finally at Gaugamela, near modern Erbil (Arbela), in 331 BC.</p><h3>Persia and the Bible</h3><p>The first mention of Persia in Israel&apos;s history is in <a href=\"https://ref.ly/Isa44:28-Isa45:13\">Isaiah 44:28–45:13</a>. This prophecy was given to Isaiah over 150 years before Cyrus took Babylon and allowed the exiled Jews to return to Jerusalem. Other biblical references to Persia appear later in Old Testament history, such as in Ezra, Nehemiah, and Esther, and in the writings of prophets during and after the exile, like Daniel, Zephaniah, and Haggai. Scripture depicts Persia as a strict but mostly kind ruler that allowed the Jews to govern themselves and worship freely. However, the Judean community always remembered they were under foreign rule.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Ezra4:5-Ezra4:7\">Ezra 4:5–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001004",
+          "end_ref_usfm": "EZR 1:4"
+        },
+        {
+          "start_ref": "15006001",
+          "start_ref_usfm": "EZR 6:1",
+          "end_ref": "15006005",
+          "end_ref_usfm": "EZR 6:5"
+        },
+        {
+          "start_ref": "23044028",
+          "start_ref_usfm": "ISA 44:28",
+          "end_ref": "23045013",
+          "end_ref_usfm": "ISA 45:13"
+        },
+        {
+          "start_ref": "15004005",
+          "start_ref_usfm": "EZR 4:5",
+          "end_ref": "15004007",
+          "end_ref_usfm": "EZR 4:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

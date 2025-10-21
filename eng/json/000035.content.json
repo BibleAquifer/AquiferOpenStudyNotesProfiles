@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 500525,
+    "reference_id": 203468,
+    "title": "Ezekiel",
+    "media_type": "Text",
+    "index_reference": "ezekiel",
+    "language": "eng",
+    "content": "<p>Ezekiel was a priest and prophet. He was born around 623 BC. He likely grew up in Jerusalem and was married (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ezekiel 24:16–18</a>). In 597 BC, he went into exile in Babylon with Jehoiachin and lived by the Kebar River. He received his calling as a prophet in Babylon on July 31, 593 BC (<a href=\"https://ref.ly/Ezek1:1\">Ezekiel 1:1</a>). We learn about his personal life from the book named after him.</p><p>Ezekiel often used unusual actions to emphasize his prophetic messages from God. For example, he demonstrated the severe food shortage during Jerusalem&apos;s final siege by eating food cooked over dung (<a href=\"https://ref.ly/Ezek4:12\">Ezekiel 4:12</a>). Another time, he lay still for 430 days, with each day representing a year of Israel&apos;s and Judah&apos;s sin (<a href=\"https://ref.ly/Ezek4:4-Ezek4:7\">Ezekiel 4:4–7</a>). When Ezekiel&apos;s wife died suddenly, he was not allowed to mourn her publicly (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ezekiel 24:16–18</a>); her death served as a serious warning of what would happen in Judah (<a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">Ezekiel 24:15–27</a>). Ezekiel&apos;s unusual actions were meant to capture people&apos;s attention.</p><p>Initially, people rejected Ezekiel&apos;s messages. However, his prophecies were proven true, and the nation stopped worshiping false gods. He taught about holiness, purity, resurrection, and ritual law (religious rules and practices). His hopeful message encouraged exiles to stay faithful during their captivity. After their return, it inspired them to look forward to greater fulfillment.</p><p>We do not know how Ezekiel died, and he is not mentioned elsewhere in the Old Testament. The New Testament refers to Ezekiel&apos;s prophecies over sixty times, mostly in the book of Revelation. Ezekiel&apos;s prophetic vision looked beyond his near future to the final judgment (God&apos;s final decision about all people) and the great hope of heaven.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Ezek2:1-Ezek2:10\">Ezekiel 2:1–10</a>; <a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">24:15–27</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "26001001",
+          "start_ref_usfm": "EZK 1:1",
+          "end_ref": "26001001",
+          "end_ref_usfm": "EZK 1:1"
+        },
+        {
+          "start_ref": "26004012",
+          "start_ref_usfm": "EZK 4:12",
+          "end_ref": "26004012",
+          "end_ref_usfm": "EZK 4:12"
+        },
+        {
+          "start_ref": "26024016",
+          "start_ref_usfm": "EZK 24:16",
+          "end_ref": "26024018",
+          "end_ref_usfm": "EZK 24:18"
+        },
+        {
+          "start_ref": "26024015",
+          "start_ref_usfm": "EZK 24:15",
+          "end_ref": "26024027",
+          "end_ref_usfm": "EZK 24:27"
+        },
+        {
+          "start_ref": "26002001",
+          "start_ref_usfm": "EZK 2:1",
+          "end_ref": "26002010",
+          "end_ref_usfm": "EZK 2:10"
+        },
+        {
+          "start_ref": "26004004",
+          "start_ref_usfm": "EZK 4:4",
+          "end_ref": "26004007",
+          "end_ref_usfm": "EZK 4:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

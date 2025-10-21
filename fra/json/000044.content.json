@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 668881,
+    "reference_id": 203423,
+    "title": "Gédéon",
+    "media_type": "Text",
+    "index_reference": "gédéon",
+    "language": "fra",
+    "content": "<p>Gédéon fut un juge israélite. Il était le fils de Joash, appartenant à la tribu de Manassé, et se décrivit lui-même comme le moins important de son clan. Pourtant, son histoire démontre avec éclat comment Dieu peut utiliser les plus modestes pour accomplir de grands desseins.</p><p>À cette époque, Madian opprimait Israël et le peuple implorait le secours du Seigneur (<a href=\"https://ref.ly/Judg6:6\">Jg 6.6</a>). En réponse à cela,&nbsp;Dieu envoya un prophète pour réprimander les Israélites, qui avaient abandonné leur Dieu pour adorer d&apos;autres divinités. Dieu envoya son ange pour appeler Gédéon à libérer Israël.</p><p>La première apparition de Gédéon ne laissait pas présager une suite prometteuse : on le découvre battant le blé dans le recoin d&apos;un pressoir à vin pour se cacher des Madianites. Lorsque l&apos;ange du Seigneur apparut à Gédéon, Gédéon lui demanda pourquoi Dieu n&apos;avait pas sauvé son peuple comme lors de l&apos;Exode. Dieu lui révéla alors qu&apos;il l&apos;avait choisi pour être le libérateur d&apos;Israël et que sa présence l&apos;accompagnerait. Gédéon, hésitant, demanda un signe, et lorsque l&apos;ange toucha son offrande, un feu jaillit miraculeusement du rocher qui se trouvait dessous.</p><p>Dieu lui ordonna de démolir l&apos;autel de Baal érigé par son père, de couper le poteau d&apos;Ashéra, et d&apos;ériger, à sa place, un autel en l&apos;honneur du Seigneur. Gédéon obéit fidèlement, se devint un combattant de l&apos;Eternel contre les faux dieux.</p><p>L&apos;Esprit de Dieu vint sur Gédéon, et il rassembla une armée pour combattre les Madianites et leurs alliés. Toujours prudent, Gédéon sollicita un autre signe : il plaça une toison à l&apos;extérieur durant deux nuits consécutives, demandant que, par un miracle, la rosée tombe sur la toison sans mouiller le sol environnant. Dieu exécuta ce prodige, et Gédéon se sentit prêt à suivre les plans du Seigneur.</p><p>Initialement, Gédéon parvint à mobiliser 32 000 hommes. Toutefois, Dieu lui ordonna de réduire ce nombre à seulement 300 soldats. Armé de cette poignée d&apos;hommes, Gédéon mena son modeste contingent contre une armée bien plus nombreuse et remporta la victoire.</p><p>Avec sagesse, Gédéon refusa de devenir le dirigeant du peuple, contrairement à la demande des siens. Néanmoins, il fabriqua un éphod à partir des boucles d&apos;oreilles des soldats vaincus, et cet objet devint une idole (<a href=\"https://ref.ly/Judg8:22-Judg8:27\">Jg 8.22–27</a>). </p><p>Faible dans la foi, et se fiant aux signes visibles, Gédéon se détourna peu à peu de l&apos;adoration du Dieu invisible, laissant place à l&apos;idolâtrie. Israël connut la paix pendant son règne, mais son manque de foi engendra des troubles après sa mort (<a href=\"https://ref.ly/Judg8:33-Judg9:57\">Jg 8.33–9.57</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Judg6:1-Judg8:35\">Jg 6.1–8.35</a> ; <a href=\"https://ref.ly/1Sam12:11\">1S 12.11</a> ; <a href=\"https://ref.ly/Isa10:26\">Es 10.26</a> ; <a href=\"https://ref.ly/Heb11:32\">Hé 11.32</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07006006",
+          "start_ref_usfm": "JDG 6:6",
+          "end_ref": "07006006",
+          "end_ref_usfm": "JDG 6:6"
+        },
+        {
+          "start_ref": "09012011",
+          "start_ref_usfm": "1SA 12:11",
+          "end_ref": "09012011",
+          "end_ref_usfm": "1SA 12:11"
+        },
+        {
+          "start_ref": "23010026",
+          "start_ref_usfm": "ISA 10:26",
+          "end_ref": "23010026",
+          "end_ref_usfm": "ISA 10:26"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011032",
+          "end_ref_usfm": "HEB 11:32"
+        },
+        {
+          "start_ref": "07006001",
+          "start_ref_usfm": "JDG 6:1",
+          "end_ref": "07008035",
+          "end_ref_usfm": "JDG 8:35"
+        },
+        {
+          "start_ref": "07008022",
+          "start_ref_usfm": "JDG 8:22",
+          "end_ref": "07008027",
+          "end_ref_usfm": "JDG 8:27"
+        },
+        {
+          "start_ref": "07008033",
+          "start_ref_usfm": "JDG 8:33",
+          "end_ref": "07009057",
+          "end_ref_usfm": "JDG 9:57"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

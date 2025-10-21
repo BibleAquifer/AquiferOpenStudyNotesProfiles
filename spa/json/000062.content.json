@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 658337,
+    "reference_id": 203412,
+    "title": "Jethro (Ragüel)",
+    "media_type": "Text",
+    "index_reference": "jethro (ragüel)",
+    "language": "spa",
+    "content": "<p><span>Jethro</span>, también conocido como <span>Ragüel</span> (<a href=\"https://ref.ly/Exod2:16-Exod2:18\">Éxodo 2.16–18</a>; <a href=\"https://ref.ly/Num10:29\">Números 10.29</a>), era el sacerdote de Madián (<a href=\"https://ref.ly/Exod2:16\">Éxodo 2.16</a>). Moisés rescató a las siete hijas de Jethro de unos pastores rudos en un pozo y las ayudó a dar de beber a sus rebaños. En casa, ellas le contaron a su padre sobre este sorprendente encuentro con un egipcio. Jethro, agradecido, invitó a Moisés a una comida. Moisés decidió establecerse allí. Más tarde, Jethro dio a su hija <span>Séphora</span> en matrimonio a Moisés.</p><p>Mientras Moisés vivía en Madián con su suegro, conoció a Dios en la zarza ardiente (<a href=\"https://ref.ly/Exod3:1-Exod3:2\">Éxodo 3.1–2</a>). Antes de ir a Egipto, Moisés pidió permiso a Jethro para irse. Más tarde, envió a su familia a quedarse con Jethro durante el éxodo de Egipto.</p><p>Mientras Moisés y los israelitas estaban en el desierto, Jethro regresó con la familia de Moisés. Jethro escuchó cómo Jehová salvó a su pueblo de Egipto y lo reconoció como el más grande de todos los dioses. Adoró a Jehová con una ofrenda quemada y sacrificios, alineándose con Israel (<a href=\"https://ref.ly/Exod18:11\">Éxodo 18.11</a>). En respuesta, los líderes de Israel se unieron a él para una comida sacrificial en la presencia de Dios (<a href=\"https://ref.ly/Exod18:12\">Éxodo 18.12</a>).</p><p>Jethro observó que Moisés estaba sobrecargado con la gestión de los numerosos israelitas. Le aconsejó a Moisés sobre cómo organizar mejor al pueblo y resolver sus disputas (<a href=\"https://ref.ly/Exod18:13-Exod18:23\">Éxodo 18.13–23</a>). Moisés siguió este consejo y eligió hombres capaces para ayudar como líderes y jueces (<a href=\"https://ref.ly/Exod18:24-Exod18:27\">Éxodo 18.24–27</a>). Jethro regresó a Madián y no tuvo más interacción con Israel, pero su hijo (<a href=\"https://ref.ly/Num10:29-Num10:33\">Números 10.29–33</a>) y otros descendientes se establecieron más tarde con los israelitas (<a href=\"https://ref.ly/Judg1:16\">Jueces 1.16</a>; <a href=\"https://ref.ly/Judg4:11\">4.11</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Exod2:16-Exod2:25\">Éxodo 2.16–25;</a> <a href=\"https://ref.ly/Exod3:1\">3.1;</a> <a href=\"https://ref.ly/Exod18:1-Exod18:27\">18.1–27;</a> <a href=\"https://ref.ly/Num10:29\">Números 10.29;</a> <a href=\"https://ref.ly/Judg1:16\">Jueces 1.16;</a> <a href=\"https://ref.ly/Judg4:11\">4.11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02002016",
+          "start_ref_usfm": "EXO 2:16",
+          "end_ref": "02002016",
+          "end_ref_usfm": "EXO 2:16"
+        },
+        {
+          "start_ref": "02003001",
+          "start_ref_usfm": "EXO 3:1",
+          "end_ref": "02003001",
+          "end_ref_usfm": "EXO 3:1"
+        },
+        {
+          "start_ref": "02018011",
+          "start_ref_usfm": "EXO 18:11",
+          "end_ref": "02018011",
+          "end_ref_usfm": "EXO 18:11"
+        },
+        {
+          "start_ref": "02018012",
+          "start_ref_usfm": "EXO 18:12",
+          "end_ref": "02018012",
+          "end_ref_usfm": "EXO 18:12"
+        },
+        {
+          "start_ref": "04010029",
+          "start_ref_usfm": "NUM 10:29",
+          "end_ref": "04010029",
+          "end_ref_usfm": "NUM 10:29"
+        },
+        {
+          "start_ref": "07001016",
+          "start_ref_usfm": "JDG 1:16",
+          "end_ref": "07001016",
+          "end_ref_usfm": "JDG 1:16"
+        },
+        {
+          "start_ref": "07004011",
+          "start_ref_usfm": "JDG 4:11",
+          "end_ref": "07004011",
+          "end_ref_usfm": "JDG 4:11"
+        },
+        {
+          "start_ref": "02018013",
+          "start_ref_usfm": "EXO 18:13",
+          "end_ref": "02018023",
+          "end_ref_usfm": "EXO 18:23"
+        },
+        {
+          "start_ref": "02018001",
+          "start_ref_usfm": "EXO 18:1",
+          "end_ref": "02018027",
+          "end_ref_usfm": "EXO 18:27"
+        },
+        {
+          "start_ref": "04010029",
+          "start_ref_usfm": "NUM 10:29",
+          "end_ref": "04010033",
+          "end_ref_usfm": "NUM 10:33"
+        },
+        {
+          "start_ref": "02002016",
+          "start_ref_usfm": "EXO 2:16",
+          "end_ref": "02002018",
+          "end_ref_usfm": "EXO 2:18"
+        },
+        {
+          "start_ref": "02002016",
+          "start_ref_usfm": "EXO 2:16",
+          "end_ref": "02002025",
+          "end_ref_usfm": "EXO 2:25"
+        },
+        {
+          "start_ref": "02003001",
+          "start_ref_usfm": "EXO 3:1",
+          "end_ref": "02003002",
+          "end_ref_usfm": "EXO 3:2"
+        },
+        {
+          "start_ref": "02018024",
+          "start_ref_usfm": "EXO 18:24",
+          "end_ref": "02018027",
+          "end_ref_usfm": "EXO 18:27"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

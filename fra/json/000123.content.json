@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 668921,
+    "reference_id": 203463,
+    "title": "Xerxès Ier",
+    "media_type": "Text",
+    "index_reference": "xerxès ier",
+    "language": "fra",
+    "content": "<p>Xerxès Ier a régné sur l&apos;Empire perse de 486 à 465 av. J.‑C. Il était le fils et successeur de Darius Ier (Hystaspes). Xerxès a hérité d&apos;un vaste empire de son père et de son grand-père maternel, Cyrus II. Cependant, il a eu des difficultés à bien gouverner la Perse en raison de sa cruauté et de son instabilité.</p><p>Tôt dans le règne de Xerxès, l&apos;Égypte et Babylone se rebellèrent contre la domination perse. Xerxès mit fin aux rébellions et s&apos;assura que les recettes fiscales continuaient d&apos;affluer, mais son traitement sévère des populations commença à lui forger une réputation de tyran.</p><p>Dans la troisième année de son règne, Xerxès rassembla ses responsables pour planifier une invasion de la Grèce (le livre d&apos;Esther commence d&apos;ailleurs par un banquet probablement lié à cet événement.) En 480 av. J.-C. commença la célèbre, mais vouée à l’échec, tentative de conquête de la Grèce. La dureté de Xerxès est illustrée par deux histoires rapportées par Hérodote au sujet de cette campagne. Lorsque Xerxès et ses armées atteignirent l&apos;Hellespont (la voie navigable reliant la mer Noire à la Méditerranée, aussi appelée détroit des Dardanelles), ses ingénieurs construisirent un pont pour le traverser mais une tempête le détruisit. Xerxès réagit en décapitant les ingénieurs puis en fouettant l&apos;eau avant de construire un pont plus solide.</p><p>Plus tard, après avoir incendié Athènes, sa flotte subit une défaite à Salamine. Xerxès fit exécuter l’amiral de la flotte phénicienne, ce qui poussa les Phéniciens et les Égyptiens à l’abandonner. Seule la flotte perse resta en lice, mais elle fut vaincue par les Grecs en 479 av. J.-C., forçant Xerxès à se replier. Par la suite, il se concentra sur les affaires internes, notamment de grands projets de construction à Suse et Persépolis, ainsi que sur les événements relatés dans le livre d’Esther.</p><p>Xerxès craignait les assassins cherchant à l’éliminer. Selon <a href=\"https://ref.ly/Esth2:21-Esth2:23\">Est 2.21–23</a>, Mardochée déjoua un complot d&apos;assassinat, ce qui conduisit Xerxès à lui rendre publiquement honneur. Après une nouvelle défaite face aux Grecs lors de la bataille de l’Eurymédon en 466 av. J.-C., il perdit des territoires. Finalement, un complot d&apos;assassinat tramé par ses propres officiers présents à la cour aboutit, et son règne s’acheva honteusement en 465 av. J.-C.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Ezra4:6\">Esd 4.6</a> ; <a href=\"https://ref.ly/Esth1:1-Esth1:22\">Est 1.1–22</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15004006",
+          "start_ref_usfm": "EZR 4:6",
+          "end_ref": "15004006",
+          "end_ref_usfm": "EZR 4:6"
+        },
+        {
+          "start_ref": "17002021",
+          "start_ref_usfm": "EST 2:21",
+          "end_ref": "17002023",
+          "end_ref_usfm": "EST 2:23"
+        },
+        {
+          "start_ref": "17001001",
+          "start_ref_usfm": "EST 1:1",
+          "end_ref": "17001022",
+          "end_ref_usfm": "EST 1:22"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

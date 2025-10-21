@@ -1,0 +1,124 @@
+[
+  {
+    "content_id": 658532,
+    "reference_id": 203455,
+    "title": "Josafá",
+    "media_type": "Text",
+    "index_reference": "josafá",
+    "language": "por",
+    "content": "<p>Josafá tornou-se o quarto rei de Judá após seu pai Asa, que governou de 872 a 848 a.C. Assim como Ezequias e Josias, Josafá confiou no Senhor durante toda a sua vida. Ele trabalhou para remover a maior parte da adoração pagã de Israel (<a href=\"https://ref.ly/2Chr17:6\">2Cr 17.6</a>).</p><p>Josafá continuou as reformas religiosas de seu pai Asa, mas alterou sua política externa. Ele encerrou a guerra de Judá com Israel sobre suas fronteiras (veja <a href=\"https://ref.ly/1Kgs22:2\">1Rs 22.2</a>). Ele se aliou a Acabe. Para fortalecer essa aliança, ele arranjou o casamento de seu filho Jeorão com a filha de Acabe, Atalia (<a href=\"https://ref.ly/2Chr18:1-2Chr18:2\">2Cr 18.1–2</a>; <a href=\"https://ref.ly/2Kgs8:18\">2Rs 8.18</a>). Ele também apoiou o norte em guerras contra os arameus e moabitas (<a href=\"https://ref.ly/2Chr18:3-2Chr18:34\">2Cr 18.3–34</a>; <a href=\"https://ref.ly/1Kgs22:1-1Kgs22:53\">1Rs 22</a>; <a href=\"https://ref.ly/2Kgs3:4-2Kgs3:27\">2Rs 3.4–27</a>). O profeta Jeú criticou Josafá por sua aliança imprudente com Israel (<a href=\"https://ref.ly/2Chr19:1-2Chr19:3\">2Cr 19.1–3</a>). Isso levou seu filho Jeorão a ser influenciado por Acabe e Jezabel. Jeorão e seu filho Acazias conduziram Judá à adoração de ídolos.</p><p>Durante seu reinado, Josafá manteve o culto ao Senhor puro. Ele fechou os templos de prostituição (<a href=\"https://ref.ly/1Kgs22:46\">1Rs 22.46</a>) e enviou mestres da lei de Deus por toda a terra (<a href=\"https://ref.ly/2Chr17:7-2Chr17:9\">2Cr 17.7–9</a>). Ele também estabeleceu um sistema de juízes e lhes disse para agirem como representantes do Senhor para que a justiça prevalecesse (<a href=\"https://ref.ly/2Chr19:4-2Chr19:7\">2Cr 19.4–7</a>). Ele nomeou levitas sacerdotes e líderes de família para lidarem com casos religiosos e resolverem disputas entre os cidadãos (<a href=\"https://ref.ly/2Chr19:8-2Chr19:10\">2Cr 19.8–10</a>).</p><p>Antes de ir para a batalha, Josafá insistiu em ouvir um verdadeiro profeta do Senhor. Em uma das descrições mais poderosas de guerra no Antigo Testamento, Josafá falou ao exército antes de entrar na batalha. Como resultado, Deus fez com que os exércitos de Amom, Moabe e seus aliados se voltassem uns contra os outros (<a href=\"https://ref.ly/2Chr20:1-2Chr20:37\">2Cr 20</a>).</p><p>Josafá morreu por volta dos sessenta anos e foi sepultado em Jerusalém. Seu filho Jeorão tornou-se o próximo rei de Judá (<a href=\"https://ref.ly/2Chr21:1\">2Cr 21.1</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/1Kgs15:24\">1 Reis 15.24</a>; <a href=\"https://ref.ly/1Kgs22:1-1Kgs22:50\">22.1–50</a>; <a href=\"https://ref.ly/2Kgs3:1-2Kgs3:27\">2 Reis 3.1–27</a>; <a href=\"https://ref.ly/2Chr17:1-2Chr21:1\">2 Crônicas 17.1–21.1</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11015024",
+          "start_ref_usfm": "1KI 15:24",
+          "end_ref": "11015024",
+          "end_ref_usfm": "1KI 15:24"
+        },
+        {
+          "start_ref": "11022002",
+          "start_ref_usfm": "1KI 22:2",
+          "end_ref": "11022002",
+          "end_ref_usfm": "1KI 22:2"
+        },
+        {
+          "start_ref": "11022046",
+          "start_ref_usfm": "1KI 22:46",
+          "end_ref": "11022046",
+          "end_ref_usfm": "1KI 22:46"
+        },
+        {
+          "start_ref": "12008018",
+          "start_ref_usfm": "2KI 8:18",
+          "end_ref": "12008018",
+          "end_ref_usfm": "2KI 8:18"
+        },
+        {
+          "start_ref": "14017006",
+          "start_ref_usfm": "2CH 17:6",
+          "end_ref": "14017006",
+          "end_ref_usfm": "2CH 17:6"
+        },
+        {
+          "start_ref": "14021001",
+          "start_ref_usfm": "2CH 21:1",
+          "end_ref": "14021001",
+          "end_ref_usfm": "2CH 21:1"
+        },
+        {
+          "start_ref": "12003004",
+          "start_ref_usfm": "2KI 3:4",
+          "end_ref": "12003027",
+          "end_ref_usfm": "2KI 3:27"
+        },
+        {
+          "start_ref": "12003001",
+          "start_ref_usfm": "2KI 3:1",
+          "end_ref": "12003027",
+          "end_ref_usfm": "2KI 3:27"
+        },
+        {
+          "start_ref": "11022001",
+          "start_ref_usfm": "1KI 22:1",
+          "end_ref": "11022053",
+          "end_ref_usfm": "1KI 22:53"
+        },
+        {
+          "start_ref": "14017007",
+          "start_ref_usfm": "2CH 17:7",
+          "end_ref": "14017009",
+          "end_ref_usfm": "2CH 17:9"
+        },
+        {
+          "start_ref": "14018001",
+          "start_ref_usfm": "2CH 18:1",
+          "end_ref": "14018002",
+          "end_ref_usfm": "2CH 18:2"
+        },
+        {
+          "start_ref": "14019001",
+          "start_ref_usfm": "2CH 19:1",
+          "end_ref": "14019003",
+          "end_ref_usfm": "2CH 19:3"
+        },
+        {
+          "start_ref": "14019008",
+          "start_ref_usfm": "2CH 19:8",
+          "end_ref": "14019010",
+          "end_ref_usfm": "2CH 19:10"
+        },
+        {
+          "start_ref": "14020001",
+          "start_ref_usfm": "2CH 20:1",
+          "end_ref": "14020037",
+          "end_ref_usfm": "2CH 20:37"
+        },
+        {
+          "start_ref": "14018003",
+          "start_ref_usfm": "2CH 18:3",
+          "end_ref": "14018034",
+          "end_ref_usfm": "2CH 18:34"
+        },
+        {
+          "start_ref": "14019004",
+          "start_ref_usfm": "2CH 19:4",
+          "end_ref": "14019007",
+          "end_ref_usfm": "2CH 19:7"
+        },
+        {
+          "start_ref": "11022001",
+          "start_ref_usfm": "1KI 22:1",
+          "end_ref": "11022050",
+          "end_ref_usfm": "1KI 22:50"
+        },
+        {
+          "start_ref": "14017001",
+          "start_ref_usfm": "2CH 17:1",
+          "end_ref": "14021001",
+          "end_ref_usfm": "2CH 21:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

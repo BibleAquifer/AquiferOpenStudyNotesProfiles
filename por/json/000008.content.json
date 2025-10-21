@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 658526,
+    "reference_id": 203449,
+    "title": "Acaz",
+    "media_type": "Text",
+    "index_reference": "acaz",
+    "language": "por",
+    "content": "<p>Acaz governou Judá durante um período difícil, de 743 a 715 a.C. Seu pai, Jotão, e seu filho, Ezequias, foram elogiados por seguirem o Senhor (veja <a href=\"https://ref.ly/2Kgs15:32-2Kgs15:38\">2Rs 15.32–38</a>; <a href=\"https://ref.ly/2Chr27:1-2Chr27:9\">2Cr 27.1–9</a>; e <a href=\"https://ref.ly/2Kgs18:1-2Kgs18:8\">2Rs 18.1–8</a>). No entanto, Acaz foi perverso e até sacrificou um de seus filhos a falsos deuses.</p><p>Houve muitos conflitos durante o reinado de Acaz. O rei Peca de Israel e o rei Rezim de Aram (Síria) queriam que ele se juntasse a uma aliança contra a Assíria, mas ele se recusou. Então, Peca e Rezim atacaram Judá e obtiveram grandes vitórias, o que assustou muito Acaz. Isaías, o profeta, encorajou Acaz a confiar no Senhor, mas Acaz recusou (<a href=\"https://ref.ly/Isa7:1-Isa7:25\">Is 7</a>).</p><p>Acaz demonstrou sua falta de confiança no verdadeiro Deus ao pedir ajuda a Tiglate-Pileser III (<a href=\"https://ref.ly/2Kgs16:7-2Kgs16:9\">2Rs 16.7–9</a>). Acaz tornou Judá perigosamente dependente da Assíria, transformando-o em um estado vassalo. O rei assírio então derrotou os arameus em uma campanha de dois anos que durou de 734 a 732 a.C. e matou Rezim. Ele subjugou Israel e adicionou grandes áreas das terras de Peca ao Império Assírio (<a href=\"https://ref.ly/2Kgs15:29\">2Rs 15.29</a>).</p><p>Acaz tornou-se um seguidor devoto da Assíria. Ele adotou muitas práticas religiosas baseadas em exemplos assírios. Acaz visitou Tiglate-Pileser III em Damasco. Lá, ele viu um altar assírio e enviou um modelo dele para Jerusalém. Um altar semelhante foi construído lá, substituindo o altar de bronze original (<a href=\"https://ref.ly/2Kgs16:10-2Kgs16:18\">2Rs 16.10–18</a>). Várias outras mudanças no templo também mostram o afastamento de Acaz da fé no Senhor.</p><p>Acaz demonstra por que o povo de Judá foi eventualmente exilado. Ele não agiu adequadamente como rei (<a href=\"https://ref.ly/Deut17:14-Deut17:20\">Dt 17.14–20</a>). Ele também não adorou o Senhor. Quando ele morreu, seu filho Ezequias tornou-se rei (<a href=\"https://ref.ly/2Kgs16:20\">2Rs 16.20</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/2Kgs15:38-2Kgs16:20\">2 Reis 15.38–16.20</a>; <a href=\"https://ref.ly/2Chr27:9-2Chr28:27\">2 Crônicas 27.9–28.27</a>; <a href=\"https://ref.ly/Isa7:1-Isa7:25\">Isaías 7.1–25</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12015029",
+          "start_ref_usfm": "2KI 15:29",
+          "end_ref": "12015029",
+          "end_ref_usfm": "2KI 15:29"
+        },
+        {
+          "start_ref": "12016020",
+          "start_ref_usfm": "2KI 16:20",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "23007001",
+          "start_ref_usfm": "ISA 7:1",
+          "end_ref": "23007025",
+          "end_ref_usfm": "ISA 7:25"
+        },
+        {
+          "start_ref": "12016007",
+          "start_ref_usfm": "2KI 16:7",
+          "end_ref": "12016009",
+          "end_ref_usfm": "2KI 16:9"
+        },
+        {
+          "start_ref": "12016010",
+          "start_ref_usfm": "2KI 16:10",
+          "end_ref": "12016018",
+          "end_ref_usfm": "2KI 16:18"
+        },
+        {
+          "start_ref": "05017014",
+          "start_ref_usfm": "DEU 17:14",
+          "end_ref": "05017020",
+          "end_ref_usfm": "DEU 17:20"
+        },
+        {
+          "start_ref": "12015032",
+          "start_ref_usfm": "2KI 15:32",
+          "end_ref": "12015038",
+          "end_ref_usfm": "2KI 15:38"
+        },
+        {
+          "start_ref": "14027001",
+          "start_ref_usfm": "2CH 27:1",
+          "end_ref": "14027009",
+          "end_ref_usfm": "2CH 27:9"
+        },
+        {
+          "start_ref": "12018001",
+          "start_ref_usfm": "2KI 18:1",
+          "end_ref": "12018008",
+          "end_ref_usfm": "2KI 18:8"
+        },
+        {
+          "start_ref": "12015038",
+          "start_ref_usfm": "2KI 15:38",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "14027009",
+          "start_ref_usfm": "2CH 27:9",
+          "end_ref": "14028027",
+          "end_ref_usfm": "2CH 28:27"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

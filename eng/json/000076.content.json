@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 500536,
+    "reference_id": 203479,
+    "title": "Matthew (Levi)",
+    "media_type": "Text",
+    "index_reference": "matthew (levi)",
+    "language": "eng",
+    "content": "<p>Matthew worked as a tax collector for the Romans and later became one of Jesus&apos; twelve closest followers (called apostles). Early tradition says he wrote the Gospel of Matthew.</p><p>He is called Matthew in all the lists of the apostles (<a href=\"https://ref.ly/Matt10:3\">Matt 10:3</a>; <a href=\"https://ref.ly/Mark3:18\">Mark 3:18</a>; <a href=\"https://ref.ly/Luke6:15\">Luke 6:15</a>; <a href=\"https://ref.ly/Acts1:13\">Acts 1:13</a>). But, in two accounts of his calling, he is called Levi, his other name (<a href=\"https://ref.ly/Mark2:14-Mark2:15\">Mark 2:14–15</a>; <a href=\"https://ref.ly/Luke5:27-Luke5:29\">Luke 5:27–29</a>; compare <a href=\"https://ref.ly/Matt9:9-Matt9:10\">Matthew 9:9–10</a>). His father was Alphaeus (<a href=\"https://ref.ly/Mark2:14\">Mark 2:14</a>). We do not know if he is the brother of James, the son of Alphaeus, since they are not said to be brothers in the lists of the apostles (as the other pairs of brothers are).</p><p>Jews who collected taxes for the Romans were often seen as sinners by other Jews. They made money by working for the occupying forces and practiced legal extortion. It is important that Jesus chose a tax collector to be one of his followers. When the Pharisees criticized Jesus for accepting Matthew&apos;s dinner invitation and eating with tax collectors and other sinners, Jesus used the moment to teach about compassion. He stressed that he came for sinners, not for those who saw themselves as righteous (<a href=\"https://ref.ly/Matt9:9-Matt9:13\">Matthew 9:9–13</a>; <a href=\"https://ref.ly/Mark2:14-Mark2:17\">Mark 2:14–17</a>; <a href=\"https://ref.ly/Luke5:27-Luke5:32\">Luke 5:27–32</a>). Matthew immediately followed Jesus&apos; call, leaving everything behind (<a href=\"https://ref.ly/Luke5:28\">Luke 5:28</a>). This suggests he never returned to tax collecting or his old life.</p><p>Matthew&apos;s Gospel was written for Jews and offers a Jewish view of Jesus&apos;s life and teachings. It includes topics important to those with a Jewish background. This Gospel was very popular in the early church, which is likely why it appears first in the New Testament.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt9:9-Matt9:10\">Matthew 9:9–10</a>; <a href=\"https://ref.ly/Matt10:3\">10:3</a>; <a href=\"https://ref.ly/Mark2:14-Mark2:15\">Mark 2:14–15</a>; <a href=\"https://ref.ly/Mark3:18\">3:18</a>; <a href=\"https://ref.ly/Luke5:27-Luke5:29\">Luke 5:27–29</a>; <a href=\"https://ref.ly/Luke6:15\">6:15</a>; <a href=\"https://ref.ly/Acts1:13\">Acts 1:13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002014",
+          "end_ref_usfm": "MRK 2:14"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "42005028",
+          "start_ref_usfm": "LUK 5:28",
+          "end_ref": "42005028",
+          "end_ref_usfm": "LUK 5:28"
+        },
+        {
+          "start_ref": "42006015",
+          "start_ref_usfm": "LUK 6:15",
+          "end_ref": "42006015",
+          "end_ref_usfm": "LUK 6:15"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "40009009",
+          "start_ref_usfm": "MAT 9:9",
+          "end_ref": "40009013",
+          "end_ref_usfm": "MAT 9:13"
+        },
+        {
+          "start_ref": "42005027",
+          "start_ref_usfm": "LUK 5:27",
+          "end_ref": "42005032",
+          "end_ref_usfm": "LUK 5:32"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002015",
+          "end_ref_usfm": "MRK 2:15"
+        },
+        {
+          "start_ref": "40009009",
+          "start_ref_usfm": "MAT 9:9",
+          "end_ref": "40009010",
+          "end_ref_usfm": "MAT 9:10"
+        },
+        {
+          "start_ref": "42005027",
+          "start_ref_usfm": "LUK 5:27",
+          "end_ref": "42005029",
+          "end_ref_usfm": "LUK 5:29"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002017",
+          "end_ref_usfm": "MRK 2:17"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

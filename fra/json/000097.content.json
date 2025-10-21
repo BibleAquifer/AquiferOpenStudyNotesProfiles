@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 668914,
+    "reference_id": 203456,
+    "title": "Ozias",
+    "media_type": "Text",
+    "index_reference": "ozias",
+    "language": "fra",
+    "content": "<p>Ozias, fils d&apos;Amatsia et de Jecolia, régna sur Juda pendant 52 ans, de 792 à 740 av. J.-C.&nbsp; (voir <a href=\"https://ref.ly/2Kgs14:21-2Kgs14:22\">2R 14.21–22</a> ; <a href=\"https://ref.ly/2Kgs15:1-2Kgs15:2\">15.1–2</a> ; <a href=\"https://ref.ly/2Chr26:1-2Chr26:3\">2Ch 26.1–3</a>). Il commença son règne en partageant le pouvoir avec son père alors qu&apos;il était âgé de seize ans, codirigeant le royaume durant environ 25 ans. Après l&apos;assassinat de son père, Ozias devint le seul souverain. Capable, énergique et méthodique, il plut au Seigneur durant la majeure partie de son règne.</p><p>Parallèlement, durant la majeure partie du règne d&apos;Ozias, Jéroboam II régna sur le royaume du nord d&apos;Israël de 793 à 753 av. J.-C. Les deux rois connurent le succès et instaurèrent une longue période de prospérité pour Israël et Juda. Ozias combattit avec succès les Philistins et fit ériger de nombreuses fortifications à Jérusalem ainsi que dans tout Juda. Il « <span>s’appliqua à rechercher Dieu » </span>(<a href=\"https://ref.ly/2Chr26:5\">2Ch 26.5</a>), et aussi longtemps qu&apos;il persévéra dans cette voie, ses projets prospérèrent. </p><p>Durant son règne, plusieurs prophètes furent en activité. Amos et Osée proclamèrent la parole de Dieu durant sa vie (<a href=\"https://ref.ly/Hos1:1\">Os 1.1</a> ; <a href=\"https://ref.ly/Amos1:1\">Am 1.1</a>), bien que la plupart de leurs messages étaient destinés au royaume du Nord. Le prophète Ésaïe reçut quant à lui son appel l&apos;année de la mort d&apos;Ozias (<a href=\"https://ref.ly/Isa1:1\">Es 1.1</a> ; <a href=\"https://ref.ly/Isa6:1\">6.1</a>).</p><p>Du fait de ses nombreux succès, Ozias devint malheureusement orgueilleux, ce qui conduisit à sa chute (<a href=\"https://ref.ly/2Chr26:16\">2Ch 26.16</a>). Agissant comme s&apos;il était&nbsp;sacrificateur, il pénétra dans le lieu saint du temple et y brûla de l&apos;encens. Les prêtres essayèrent de l&apos;empêcher de pécher contre le Seigneur, mais il ignora leurs avertissements avec colère. En conséquence de cette désobéissance, Dieu le frappa de lèpre. Condamné à vivre le reste de ses jours dans l&apos;isolement, Ozias fut finalement enterré parmi ses ancêtres, mais à distance, en raison de sa maladie de peau (<a href=\"https://ref.ly/2Chr26:23\">2Ch 26.23</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/2Kgs14:21-2Kgs14:22\">2R 14.21–22</a> ; <a href=\"https://ref.ly/2Kgs15:1-2Kgs15:7\">15.1–7</a> ; <a href=\"https://ref.ly/2Chr26:1-2Chr26:23\">2Ch 26.1–23</a><span> ; </span><a href=\"https://ref.ly/Isa1:1\">Es 1.1</a><span> ; </span><a href=\"https://ref.ly/Isa6:1\">6.1</a><span> ; </span><a href=\"https://ref.ly/Hos1:1\">Os 1.1</a><span> ; </span><a href=\"https://ref.ly/Amos1:1\">Am 1.1</a><span> ; </span><a href=\"https://ref.ly/Zech14:5\">Za 14.5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14026005",
+          "start_ref_usfm": "2CH 26:5",
+          "end_ref": "14026005",
+          "end_ref_usfm": "2CH 26:5"
+        },
+        {
+          "start_ref": "14026016",
+          "start_ref_usfm": "2CH 26:16",
+          "end_ref": "14026016",
+          "end_ref_usfm": "2CH 26:16"
+        },
+        {
+          "start_ref": "14026023",
+          "start_ref_usfm": "2CH 26:23",
+          "end_ref": "14026023",
+          "end_ref_usfm": "2CH 26:23"
+        },
+        {
+          "start_ref": "23001001",
+          "start_ref_usfm": "ISA 1:1",
+          "end_ref": "23001001",
+          "end_ref_usfm": "ISA 1:1"
+        },
+        {
+          "start_ref": "23006001",
+          "start_ref_usfm": "ISA 6:1",
+          "end_ref": "23006001",
+          "end_ref_usfm": "ISA 6:1"
+        },
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001001",
+          "end_ref_usfm": "HOS 1:1"
+        },
+        {
+          "start_ref": "30001001",
+          "start_ref_usfm": "AMO 1:1",
+          "end_ref": "30001001",
+          "end_ref_usfm": "AMO 1:1"
+        },
+        {
+          "start_ref": "38014005",
+          "start_ref_usfm": "ZEC 14:5",
+          "end_ref": "38014005",
+          "end_ref_usfm": "ZEC 14:5"
+        },
+        {
+          "start_ref": "12015001",
+          "start_ref_usfm": "2KI 15:1",
+          "end_ref": "12015007",
+          "end_ref_usfm": "2KI 15:7"
+        },
+        {
+          "start_ref": "12014021",
+          "start_ref_usfm": "2KI 14:21",
+          "end_ref": "12014022",
+          "end_ref_usfm": "2KI 14:22"
+        },
+        {
+          "start_ref": "14026001",
+          "start_ref_usfm": "2CH 26:1",
+          "end_ref": "14026023",
+          "end_ref_usfm": "2CH 26:23"
+        },
+        {
+          "start_ref": "12015001",
+          "start_ref_usfm": "2KI 15:1",
+          "end_ref": "12015002",
+          "end_ref_usfm": "2KI 15:2"
+        },
+        {
+          "start_ref": "14026001",
+          "start_ref_usfm": "2CH 26:1",
+          "end_ref": "14026003",
+          "end_ref_usfm": "2CH 26:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

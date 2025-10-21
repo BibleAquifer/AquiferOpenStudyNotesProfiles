@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 668950,
+    "reference_id": 203492,
+    "title": "Samaritains",
+    "media_type": "Text",
+    "index_reference": "samaritains",
+    "language": "fra",
+    "content": "<p>La Samarie était une région du nord de la Judée, dont le centre était l’ancienne ville de Sichem, appelée Sychar dans le Nouveau Testament. Après la conquête d’Israël en 722 av. J.‑C., les villes de Samarie et de Sichem ont été détruites. Des personnes de tout l’empire assyrien ont repeuplé la région (<a href=\"https://ref.ly/2Kgs17:21-2Kgs17:41\">2R&nbsp;17.21–41</a>). Ces nouveaux résidents ont apporté de nombreuses pratiques païennes, rendant l’impureté religieuse du pays bien connue. Au fil du temps, la croyance juive en un seul Dieu est devenue la croyance principale, mais certains aspects de la pratique de leur foi ont changé. Les Samaritains n’acceptaient que le Pentateuque (les cinq premiers livres de l’Ancien Testament) comme Écriture. Ils adoraient également dans un nouveau temple sur la montagne de Garizim, au-dessus de Sichem.</p><p>Les Samaritains et les Juifs avaient une longue histoire de conflit, qui remonte au retour des Juifs de l’exil (voir <a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">Esd&nbsp;4.1–5</a>&nbsp;; <a href=\"https://ref.ly/Neh4:1-Neh4:23\">Né 4.1–23</a>). Alexandre le Grand, puis ses généraux grecs, ont fait de Sichem un site stratégique, car ils y ont trouvé des alliés hostiles aux Juifs. En 128 av. J.-C., les Juifs ont détruit Sichem et incendié le temple samaritain sur le mont Garizim. Entre 6 et 9 apr. J.-C., les Samaritains ont riposté en profanant le Temple de Jérusalem, en dispersant des ossements humains d’un cimetière pendant la fête de la Pâque. À l’époque de Jésus, les tensions entre la Judée et la Samarie demeuraient très vives.</p><p>À l’époque de Jésus, les Juifs évitaient de passer par la Samarie, car ils considéraient ses habitants comme ennemis et impurs. Lorsque Jésus a traversé cette région et a rencontré une femme samaritaine, les rivalités historiques entre les deux peuples étaient palpables. Au premier siècle, il aurait été inimaginable que Jésus et cette femme se parlent, encore moins qu’ils échangent des paroles. Pourtant, Jésus a brisé les barrières ethniques et sociales, offrant à cette femme, malgré sa mauvaise réputation, la possibilité de croire en lui.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/2Kgs17:21-2Kgs17:41\">2R&nbsp;17.21–41</a>&nbsp;; <a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">Esd&nbsp;4.1–5</a>&nbsp;; <a href=\"https://ref.ly/Neh4:1-Neh4:23\">Né 4.1–23</a>&nbsp;; <a href=\"https://ref.ly/John4:1-John4:42\">Jn&nbsp;4.1–42</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15004001",
+          "start_ref_usfm": "EZR 4:1",
+          "end_ref": "15004005",
+          "end_ref_usfm": "EZR 4:5"
+        },
+        {
+          "start_ref": "43004001",
+          "start_ref_usfm": "JHN 4:1",
+          "end_ref": "43004042",
+          "end_ref_usfm": "JHN 4:42"
+        },
+        {
+          "start_ref": "16004001",
+          "start_ref_usfm": "NEH 4:1",
+          "end_ref": "16004023",
+          "end_ref_usfm": "NEH 4:23"
+        },
+        {
+          "start_ref": "12017021",
+          "start_ref_usfm": "2KI 17:21",
+          "end_ref": "12017041",
+          "end_ref_usfm": "2KI 17:41"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 668900,
+    "reference_id": 203442,
+    "title": "Roboam",
+    "media_type": "Text",
+    "index_reference": "roboam",
+    "language": "fra",
+    "content": "<p>Roboam était le fils de Salomon et d’une femme ammonite (<a href=\"https://ref.ly/1Kgs14:21\">1R&nbsp;14.21</a>). Il est devenu roi à l’âge de 41&nbsp;ans et a régné pendant 17&nbsp;ans, de 931 à 913 av. J.‑C. Il est connu pour avoir causé la division du royaume de Salomon et pour avoir été le premier roi de Juda, le royaume du sud.</p><p>À la mort de Salomon en 931 av. J.‑C., Juda a rapidement fait de Roboam son roi. Les dix tribus du nord ont hésité à le soutenir&nbsp;; elles souhaitaient un allègement des politiques sévères de Salomon (voir <a href=\"https://ref.ly/1Kgs12:4\">1R&nbsp;12.4</a>&nbsp;; <a href=\"https://ref.ly/2Chr10:4\">2&nbsp;Ch&nbsp;10.4</a>). Les conseillers plus âgés du roi lui ont suggéré d’accepter leurs demandes, mais il les a ignorées. Au lieu de cela, il a écouté les conseillers plus jeunes qui lui ont conseillé d’être plus dur que son père. Les tribus du nord se sont rebellées et ont fait de Jéroboam, l’ancien responsable des travaux de Salomon, leur roi. Roboam est parti en guerre pour contrôler le nord, mais Dieu a envoyé le prophète Schemaeja pour lui dire que c’était inutile. La scission a été le jugement de Dieu (<a href=\"https://ref.ly/2Chr11:1-2Chr11:4\">2&nbsp;Ch 11.1–4</a>). Ainsi, Roboam est retourné à Juda et a consolidé ses frontières (<a href=\"https://ref.ly/2Chr11:5-2Chr11:12\">2&nbsp;Ch 11.5–12</a>).</p><p>Lorsque Jéroboam a instauré une nouvelle fausse religion dans le royaume du nord, les prêtres et les Lévites ont déménagé vers le sud. Ils ont renforcé la vie spirituelle de la région et ont aidé à maintenir la stabilité de Juda (<a href=\"https://ref.ly/2Chr11:13-2Chr11:17\">2&nbsp;Ch 11.13–17</a>). Cependant, Roboam s’est finalement tourné vers l’idolâtrie également. Le peuple de Juda a construit des hauts lieux et des sanctuaires païens à travers le pays, adoptant des pratiques religieuses corrompues des nations voisines (<a href=\"https://ref.ly/1Kgs14:22-1Kgs14:24\">1R&nbsp;14.22–24</a>). Dieu a cessé de soutenir Roboam, le laissant vulnérable lorsque le roi Schischak d’Égypte l’a attaqué en 926 à 925 av. J.‑C. et s’est emparé de nombreux objets précieux du temple (<a href=\"https://ref.ly/1Kgs14:25-1Kgs14:26\">1R&nbsp;14.25–26</a>&nbsp;; <a href=\"https://ref.ly/2Chr12:1-2Chr12:5\">2&nbsp;Ch&nbsp;12.1–5</a>). Roboam a ensuite remplacé les boucliers d’or de Salomon par des boucliers de bronze (<a href=\"https://ref.ly/1Kgs14:27\">1R&nbsp;14.27</a>). Cela symbolisait la perte de la gloire de Juda en raison du faux culte.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/1Kgs12:1-1Kgs12:24\">1 Rois 12.1–24</a>&nbsp;; <a href=\"https://ref.ly/1Kgs14:21-1Kgs14:31\">14.21–31</a>&nbsp;; <a href=\"https://ref.ly/2Chr9:31-2Chr12:16\">2&nbsp;Ch 9.31–12.16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11012004",
+          "start_ref_usfm": "1KI 12:4",
+          "end_ref": "11012004",
+          "end_ref_usfm": "1KI 12:4"
+        },
+        {
+          "start_ref": "11014021",
+          "start_ref_usfm": "1KI 14:21",
+          "end_ref": "11014021",
+          "end_ref_usfm": "1KI 14:21"
+        },
+        {
+          "start_ref": "11014027",
+          "start_ref_usfm": "1KI 14:27",
+          "end_ref": "11014027",
+          "end_ref_usfm": "1KI 14:27"
+        },
+        {
+          "start_ref": "14010004",
+          "start_ref_usfm": "2CH 10:4",
+          "end_ref": "14010004",
+          "end_ref_usfm": "2CH 10:4"
+        },
+        {
+          "start_ref": "11014022",
+          "start_ref_usfm": "1KI 14:22",
+          "end_ref": "11014024",
+          "end_ref_usfm": "1KI 14:24"
+        },
+        {
+          "start_ref": "11014025",
+          "start_ref_usfm": "1KI 14:25",
+          "end_ref": "11014026",
+          "end_ref_usfm": "1KI 14:26"
+        },
+        {
+          "start_ref": "14011001",
+          "start_ref_usfm": "2CH 11:1",
+          "end_ref": "14011004",
+          "end_ref_usfm": "2CH 11:4"
+        },
+        {
+          "start_ref": "14011013",
+          "start_ref_usfm": "2CH 11:13",
+          "end_ref": "14011017",
+          "end_ref_usfm": "2CH 11:17"
+        },
+        {
+          "start_ref": "14011005",
+          "start_ref_usfm": "2CH 11:5",
+          "end_ref": "14011012",
+          "end_ref_usfm": "2CH 11:12"
+        },
+        {
+          "start_ref": "11014021",
+          "start_ref_usfm": "1KI 14:21",
+          "end_ref": "11014031",
+          "end_ref_usfm": "1KI 14:31"
+        },
+        {
+          "start_ref": "14012001",
+          "start_ref_usfm": "2CH 12:1",
+          "end_ref": "14012005",
+          "end_ref_usfm": "2CH 12:5"
+        },
+        {
+          "start_ref": "11012001",
+          "start_ref_usfm": "1KI 12:1",
+          "end_ref": "11012024",
+          "end_ref_usfm": "1KI 12:24"
+        },
+        {
+          "start_ref": "14009031",
+          "start_ref_usfm": "2CH 9:31",
+          "end_ref": "14012016",
+          "end_ref_usfm": "2CH 12:16"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

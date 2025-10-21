@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 658374,
+    "reference_id": 203449,
+    "title": "Achâz",
+    "media_type": "Text",
+    "index_reference": "achâz",
+    "language": "spa",
+    "content": "<p><span>Achâz</span> gobernó Judá en un período complicado, desde 743 hasta 715 a.C. Tanto su padre, Jotham, como su hijo, <span>Ezechîas</span>, fueron elogiados por seguir al Señor (ver <a href=\"https://ref.ly/2Kgs15:32-2Kgs15:38\">2 Reyes 15.32–38</a>; <a href=\"https://ref.ly/2Chr27:1-2Chr27:9\">2 Crónicas 27.1–9</a>; y <a href=\"https://ref.ly/2Kgs18:1-2Kgs18:8\">2 Reyes 18.1–8</a>). Sin embargo, Achâz fue malvado e incluso sacrificó a uno de sus hijos a dioses falsos.</p><p>Durante el reinado de Achâz, hubo muchos conflictos. El rey Peka de Israel y el rey Resín de Aram (Siria) querían que se uniera a una coalición contra Asiria, pero él se negó. Entonces, Peka y Resín atacaron Judá y lograron grandes victorias, lo que asustó mucho a Achâz. Isaías, el profeta, animó a Achâz a confiar en el Señor, pero Achâz se negó (<a href=\"https://ref.ly/Isa7:1-Isa7:25\">Isaías 7</a>).</p><p>Achâz demostró su falta de confianza en el verdadero Dios al solicitar ayuda a Tiglath-pileser III (<a href=\"https://ref.ly/2Kgs16:7-2Kgs16:9\">2 Reyes 16.7–9</a>). Achâz hizo que Judá dependiera peligrosamente de Asiria, convirtiéndola en un estado vasallo. El rey asirio luego derrotó a los Arameos en una campaña de dos años que se extendió desde el 734 hasta el 732 a.C. y mató a Resín. Subyugó a Israel y añadió grandes áreas del territorio de Peka al Imperio Asirio (<a href=\"https://ref.ly/2Kgs15:29\">2 Reyes 15.29</a>).</p><p>Achâz se convirtió en un seguidor devoto de Asiria y adoptó muchas prácticas religiosas basadas en ejemplos asirios. Visitó a Tiglath-pileser III en Damasco, donde vio un altar asirio y envió un modelo de este a Jerusalem. Un altar similar fue construido allí, reemplazando al altar de bronce original (<a href=\"https://ref.ly/2Kgs16:10-2Kgs16:18\">2 Reyes 16.10–18</a>). Varios otros cambios en el templo también reflejan el alejamiento de Achâz de la fe en el Señor.</p><p>Achâz demuestra por qué el pueblo de Judá fue finalmente exiliado. No actuó adecuadamente como rey (<a href=\"https://ref.ly/Deut17:14-Deut17:20\">Deuteronomio 17.14–20</a>) ni adoró al Señor. Cuando murió, su hijo <span>Ezechîas</span> se convirtió en rey (<a href=\"https://ref.ly/2Kgs16:20\">2 Reyes 16.20</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/2Kgs15:38-2Kgs16:20\">2 Reyes 15.38–16.20</a>; <a href=\"https://ref.ly/2Chr27:9-2Chr28:27\">2 Crónicas 27.9–28.27</a>; <a href=\"https://ref.ly/Isa7:1-Isa7:25\">Isaías 7.1–25</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12015029",
+          "start_ref_usfm": "2KI 15:29",
+          "end_ref": "12015029",
+          "end_ref_usfm": "2KI 15:29"
+        },
+        {
+          "start_ref": "12016020",
+          "start_ref_usfm": "2KI 16:20",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "23007001",
+          "start_ref_usfm": "ISA 7:1",
+          "end_ref": "23007025",
+          "end_ref_usfm": "ISA 7:25"
+        },
+        {
+          "start_ref": "12016007",
+          "start_ref_usfm": "2KI 16:7",
+          "end_ref": "12016009",
+          "end_ref_usfm": "2KI 16:9"
+        },
+        {
+          "start_ref": "12016010",
+          "start_ref_usfm": "2KI 16:10",
+          "end_ref": "12016018",
+          "end_ref_usfm": "2KI 16:18"
+        },
+        {
+          "start_ref": "05017014",
+          "start_ref_usfm": "DEU 17:14",
+          "end_ref": "05017020",
+          "end_ref_usfm": "DEU 17:20"
+        },
+        {
+          "start_ref": "12015032",
+          "start_ref_usfm": "2KI 15:32",
+          "end_ref": "12015038",
+          "end_ref_usfm": "2KI 15:38"
+        },
+        {
+          "start_ref": "14027001",
+          "start_ref_usfm": "2CH 27:1",
+          "end_ref": "14027009",
+          "end_ref_usfm": "2CH 27:9"
+        },
+        {
+          "start_ref": "12018001",
+          "start_ref_usfm": "2KI 18:1",
+          "end_ref": "12018008",
+          "end_ref_usfm": "2KI 18:8"
+        },
+        {
+          "start_ref": "12015038",
+          "start_ref_usfm": "2KI 15:38",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "14027009",
+          "start_ref_usfm": "2CH 27:9",
+          "end_ref": "14028027",
+          "end_ref_usfm": "2CH 28:27"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

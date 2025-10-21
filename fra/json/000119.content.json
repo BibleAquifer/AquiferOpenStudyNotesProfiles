@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 668954,
+    "reference_id": 203496,
+    "title": "Thomas",
+    "media_type": "Text",
+    "index_reference": "thomas",
+    "language": "fra",
+    "content": "<p>Thomas était l&apos;un des douze apôtres (<a href=\"https://ref.ly/Matt10:3\">Mt 10.3</a> ; <a href=\"https://ref.ly/Mark3:18\">Mc 3.18</a> ; <a href=\"https://ref.ly/Luke6:15\">Lc 6.15</a> ; <a href=\"https://ref.ly/Acts1:13\">Ac 1.13</a>), également surnommé « le Jumeau ». Il reste surtout célèbre pour avoir douté de la résurrection de Jésus.</p><p>On ne sait pas comment Jésus rencontra Thomas et l&apos;appela pour qu&apos;il devienne son disciple, et l&apos;Évangile de Jean est la seule source racontant des choses à son sujet. Thomas exprima son désir de suivre Jésus, quitte à en payer le prix, même si cela signifiait la mort (<a href=\"https://ref.ly/John11:16\">Jn 11.16</a>). Il admit ouvertement à Jésus qu&apos;il ne comprenait pas ces paroles (<a href=\"https://ref.ly/John14:5\">Jn 14.5</a>),&nbsp;et fut l&apos;un des sept disciples qui retourna pêcher après la résurrection, lorsque Jésus leur apparut (<a href=\"https://ref.ly/John21:2\">Jn 21.2</a>).</p><p>Lors de la première apparition de Jésus aux disciples après sa mort, Thomas n&apos;était pas présent. Entendant le témoignage des autres, il ne crut pas à la résurrection de Jésus. Il insista sur le fait qu&apos;il lui fallait voir de ses propres yeux et toucher les marques de la crucifixion sur le corps de Jésus pour croire (<a href=\"https://ref.ly/John20:19-John20:25\">Jn 20.19–25</a>). Une semaine plus tard, Jésus se manifesta de nouveau à ses disciples et s&apos;adressa directement à Thomas, lui demandant d&apos;examiner les marques des clous et de la lance et l&apos;exhortant à croire sans douter (<a href=\"https://ref.ly/John20:26-John20:27\">Jn 20.26–27</a>).</p><p>Lorsque Thomas vit Jésus ressuscité, il prononça l&apos;une des déclarations les plus marquantes du Nouveau Testament, en reconnaissant Jésus comme Dieu en déclarant : « Mon Seigneur et mon Dieu! » (<a href=\"https://ref.ly/John20:28\">Jn 20.28</a>). Cet évènement représente bien, dans l&apos;Évangile selon Jean, la divinité de Jésus, Dieu en personne.</p><p>Des traditions ultérieures rapportent que Thomas fut missionnaire en Orient, notamment en Parthie (selon Eusèbe), en Perse (selon Jérôme) et en Inde (selon <em>les Actes de Thomas</em>). L&apos;Église Mar Thoma, fondée sur la côte ouest de l&apos;Inde, se réclame du ministère ancien de Thomas, même si l&apos;authenticité historique de ces récits reste floue.</p><p>Par ailleurs, plusieurs ouvrages anciens prétendent avoir été rédigés par Thomas ou en parler, mais ils furent composés bien après sa mort et ne sont pas considérés comme fiables. Parmi ceux-ci figurent :</p><ul><li><p>Les <em>Actes de Thomas</em></p></li><li><p><em>L</em>&apos;<em>Évangile de l&apos;enfance selon Thomas</em></p></li><li><p><em>L</em>&apos;Épître des Apôtres</p></li><li><p><em>L&apos;</em>Apocalypse de Thomas</p></li><li><p><em>Le</em> <em>Livre de Thomas l&apos;Athlète</em></p></li><li><p><em>L&apos;</em>Évangile de Thomas (une collection gnostique des paroles de Jésus)</p></li></ul><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Matt10:3\">Mt 10.3</a> ; <a href=\"https://ref.ly/Mark3:18\">Mc 3.18</a> ; <a href=\"https://ref.ly/Luke6:15\">Lc 6.15</a> ; <a href=\"https://ref.ly/John11:16\">Jn 11.16</a> ; <a href=\"https://ref.ly/John14:5\">Jn 14.5</a> ; <a href=\"https://ref.ly/John20:24-John20:29\">Jn 20.24–29</a> ; <a href=\"https://ref.ly/John21:2\">Jn 21.2 ; </a><a href=\"https://ref.ly/Acts1:13\">Ac 1.13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "42006015",
+          "start_ref_usfm": "LUK 6:15",
+          "end_ref": "42006015",
+          "end_ref_usfm": "LUK 6:15"
+        },
+        {
+          "start_ref": "43011016",
+          "start_ref_usfm": "JHN 11:16",
+          "end_ref": "43011016",
+          "end_ref_usfm": "JHN 11:16"
+        },
+        {
+          "start_ref": "43014005",
+          "start_ref_usfm": "JHN 14:5",
+          "end_ref": "43014005",
+          "end_ref_usfm": "JHN 14:5"
+        },
+        {
+          "start_ref": "43020028",
+          "start_ref_usfm": "JHN 20:28",
+          "end_ref": "43020028",
+          "end_ref_usfm": "JHN 20:28"
+        },
+        {
+          "start_ref": "43021002",
+          "start_ref_usfm": "JHN 21:2",
+          "end_ref": "43021002",
+          "end_ref_usfm": "JHN 21:2"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "43020024",
+          "start_ref_usfm": "JHN 20:24",
+          "end_ref": "43020029",
+          "end_ref_usfm": "JHN 20:29"
+        },
+        {
+          "start_ref": "43020026",
+          "start_ref_usfm": "JHN 20:26",
+          "end_ref": "43020027",
+          "end_ref_usfm": "JHN 20:27"
+        },
+        {
+          "start_ref": "43020019",
+          "start_ref_usfm": "JHN 20:19",
+          "end_ref": "43020025",
+          "end_ref_usfm": "JHN 20:25"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

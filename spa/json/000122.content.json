@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 658421,
+    "reference_id": 203496,
+    "title": "Tomás",
+    "media_type": "Text",
+    "index_reference": "tomás",
+    "language": "spa",
+    "content": "<p>Tomás fue uno de los doce apóstoles (<a href=\"https://ref.ly/Matt10:3\">Mateo 10:3,</a> <a href=\"https://ref.ly/Mark3:18\">Marcos 3:18,</a> <a href=\"https://ref.ly/Luke6:15\">Lucas 6:15,</a> <a href=\"https://ref.ly/Acts1:13\">Hechos 1:13</a>). También es conocido como &quot;el mellizo&quot;. La gente lo recuerda principalmente por dudar de que Jesús había resucitado de entre los muertos.</p><p>No sabemos cómo Jesús conoció y llamó a Tomás para ser su discípulo. El Evangelio de Juan es la única fuente que ofrece relatos personales de Tomás. Este mostró su disposición a seguir a Jesús, incluso si eso significaba la muerte (<a href=\"https://ref.ly/John11:16\">Juan 11:16</a>). Le dijo abiertamente a Jesús que no comprendía lo que estaba diciendo (<a href=\"https://ref.ly/John14:5\">Juan 14:5</a>). Tomás también fue uno de los siete discípulos que regresaron a pescar después de la resurrección, cuando Jesús se les apareció (<a href=\"https://ref.ly/John21:2\">Juan 21:2</a>).</p><p>Cuando Jesús se apareció por primera vez a sus discípulos después de su muerte, Tomás no estaba presente. Al escuchar el relato de los demás, Tomás no lo creyó. Insistió en que necesitaba ver y tocar las marcas de la crucifixión en el cuerpo de Jesús él mismo (<a href=\"https://ref.ly/John20:19-John20:25\">Juan 20:19–25</a>). Una semana después, Jesús se apareció nuevamente a los discípulos y se dirigió directamente a Tomás. Le pidió que examinara las marcas de los clavos y la lanza en su cuerpo y lo desafió a creer, no a dudar (<a href=\"https://ref.ly/John20:26-John20:27\">Juan 20:26–27</a>).</p><p>Cuando Tomás vio a Jesús vivo nuevamente, hizo una de las declaraciones más importantes del Nuevo Testamento. Reconoció a Jesús como Dios al decir: “¡Mi Señor y mi Dios!” (<a href=\"https://ref.ly/John20:28\">Juan 20:28</a>). Este momento en el Evangelio de Juan muestra con mayor claridad que Jesús es divino (Dios en forma humana).</p><p>Según tradiciones posteriores, Tomás trabajó como misionero en el este, incluyendo Partia (según Eusebio), Persia (según Jerónimo) e India (según los Hechos de Tomás). La Iglesia Mar Thoma, en la costa oeste de India, rastrea sus orígenes hasta el temprano trabajo misionero de Tomás. La exactitud histórica de estos relatos es incierta.</p><p>Algunos libros antiguos afirman haber sido escritos por Tomás o tratar sobre él, pero fueron redactados mucho después de su muerte y no se consideran fiables. Estos incluyen:</p><ul><li><p><em>Los Hechos de Tomás</em></p></li><li><p><em>El Evangelio de la Infancia de Tomás</em></p></li><li><p><em>La Epístola a los Apóstoles</em></p></li><li><p><em>El Apocalipsis de Tomás</em></p></li><li><p><em>El Libro de Tomás el Atleta</em></p></li><li><p><em>El Evangelio de Tomás </em>(una colección gnóstica de dichos de Jesús)</p></li></ul><p><u>Pasajes para estudio complementario</u></p><p><a href=\"https://ref.ly/Matt10:3\">Mateo 10:3,</a> <a href=\"https://ref.ly/Mark3:18\">Marcos 3:18,</a> <a href=\"https://ref.ly/Luke6:15\">Lucas 6:15,</a> <a href=\"https://ref.ly/John11:16\">Juan 11:16,</a> <a href=\"https://ref.ly/John14:5\">Juan 14:5,</a> <a href=\"https://ref.ly/John20:24-John20:29\">Juan 20:24–29,</a> <a href=\"https://ref.ly/John21:2\">Juan 21:2, </a><a href=\"https://ref.ly/Acts1:13\">Hechos 1:13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "42006015",
+          "start_ref_usfm": "LUK 6:15",
+          "end_ref": "42006015",
+          "end_ref_usfm": "LUK 6:15"
+        },
+        {
+          "start_ref": "43011016",
+          "start_ref_usfm": "JHN 11:16",
+          "end_ref": "43011016",
+          "end_ref_usfm": "JHN 11:16"
+        },
+        {
+          "start_ref": "43014005",
+          "start_ref_usfm": "JHN 14:5",
+          "end_ref": "43014005",
+          "end_ref_usfm": "JHN 14:5"
+        },
+        {
+          "start_ref": "43020028",
+          "start_ref_usfm": "JHN 20:28",
+          "end_ref": "43020028",
+          "end_ref_usfm": "JHN 20:28"
+        },
+        {
+          "start_ref": "43021002",
+          "start_ref_usfm": "JHN 21:2",
+          "end_ref": "43021002",
+          "end_ref_usfm": "JHN 21:2"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "43020024",
+          "start_ref_usfm": "JHN 20:24",
+          "end_ref": "43020029",
+          "end_ref_usfm": "JHN 20:29"
+        },
+        {
+          "start_ref": "43020026",
+          "start_ref_usfm": "JHN 20:26",
+          "end_ref": "43020027",
+          "end_ref_usfm": "JHN 20:27"
+        },
+        {
+          "start_ref": "43020019",
+          "start_ref_usfm": "JHN 20:19",
+          "end_ref": "43020025",
+          "end_ref_usfm": "JHN 20:25"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

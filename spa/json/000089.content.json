@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 658414,
+    "reference_id": 203489,
+    "title": "Marta, María y Lázaro",
+    "media_type": "Text",
+    "index_reference": "marta, maría y lázaro",
+    "language": "spa",
+    "content": "<p>Las hermanas Marta y María vivían con su hermano Lázaro en Bethania, cerca de Jerusalén. Jesús amaba a esta familia y pasaba tiempo con ellos. Los Evangelios de Lucas y Juan mencionan a Marta y María, mientras que Lázaro aparece solo en Juan. Este Lázaro no es el mendigo mencionado en <a href=\"https://ref.ly/Luke16:19-Luke16:31\">Lucas 16.19–31</a>.</p><p>El relato de Lucas sobre estas dos hermanas (<a href=\"https://ref.ly/Luke10:38-Luke10:42\">Lucas 10.38–42</a>) destaca el contraste entre Marta y María. Cuando Jesús visitó su hogar, Marta estaba ocupada en la cocina y se molestó con su hermana por no ayudarla a preparar la comida. Jesús defendió la decisión de María de sentarse y aprender de él, afirmando que era lo más importante.</p><p>El Evangelio de Juan narra la historia de Jesús resucitando a Lázaro de entre los muertos (<a href=\"https://ref.ly/John11:1-John11:44\">Juan 11.1–44</a>). Jesús llegó a Betania cuatro días después de la muerte de Lázaro. Las hermanas estaban molestas porque Jesús no había venido antes para sanar a su hermano. Jesús se sintió profundamente conmovido por las lágrimas de la familia y los amigos. Fue a la tumba y le dijo a Lázaro que saliera. Para sorpresa de todos, Lázaro salió, todavía envuelto en lienzos funerarios. Este milagro muestra a Jesús como el dador de vida eterna (<a href=\"https://ref.ly/John11:25-John11:26\">Juan 11.25–26</a>). Irónicamente, este acto también llevó a los líderes judíos a planear la muerte de Jesús porque muchas personas creyeron en sus milagros (<a href=\"https://ref.ly/John11:47-John11:53\">Juan 11.47–53;</a> <a href=\"https://ref.ly/John12:10-John12:11\">12.10–11</a>).</p><p>Poco después, la familia invitó a Jesús a su hogar para una comida de celebración. María derramó un frasco de perfume muy caro sobre Jesús. Cuando la gente la criticó por desperdiciarlo, Jesús la defendió. Dijo que su acción anticipaba su muerte próxima (<a href=\"https://ref.ly/John12:1-John12:8\">Juan 12.1–8;</a> ver también <a href=\"https://ref.ly/Matt26:6-Matt26:13\">Mateo 26.6–13;</a> <a href=\"https://ref.ly/Mark14:3-Mark14:9\">Marcos 14.3–9</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Matt26:6-Matt26:13\">Mateo 26.6–13;</a> <a href=\"https://ref.ly/Mark14:3-Mark14:9\">Marcos 14.3–9;</a> <a href=\"https://ref.ly/Luke10:38-Luke10:42\">Lucas 10.38–42;</a> <a href=\"https://ref.ly/John11:1-John11:44\">Juan 11.1–44;</a> <a href=\"https://ref.ly/John12:1-John12:11\">12:1–11</a>, <a href=\"https://ref.ly/John12:17\">17</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43012017",
+          "start_ref_usfm": "JHN 12:17",
+          "end_ref": "43012017",
+          "end_ref_usfm": "JHN 12:17"
+        },
+        {
+          "start_ref": "42016019",
+          "start_ref_usfm": "LUK 16:19",
+          "end_ref": "42016031",
+          "end_ref_usfm": "LUK 16:31"
+        },
+        {
+          "start_ref": "40026006",
+          "start_ref_usfm": "MAT 26:6",
+          "end_ref": "40026013",
+          "end_ref_usfm": "MAT 26:13"
+        },
+        {
+          "start_ref": "41014003",
+          "start_ref_usfm": "MRK 14:3",
+          "end_ref": "41014009",
+          "end_ref_usfm": "MRK 14:9"
+        },
+        {
+          "start_ref": "43011025",
+          "start_ref_usfm": "JHN 11:25",
+          "end_ref": "43011026",
+          "end_ref_usfm": "JHN 11:26"
+        },
+        {
+          "start_ref": "43011001",
+          "start_ref_usfm": "JHN 11:1",
+          "end_ref": "43011044",
+          "end_ref_usfm": "JHN 11:44"
+        },
+        {
+          "start_ref": "42010038",
+          "start_ref_usfm": "LUK 10:38",
+          "end_ref": "42010042",
+          "end_ref_usfm": "LUK 10:42"
+        },
+        {
+          "start_ref": "43012010",
+          "start_ref_usfm": "JHN 12:10",
+          "end_ref": "43012011",
+          "end_ref_usfm": "JHN 12:11"
+        },
+        {
+          "start_ref": "43012001",
+          "start_ref_usfm": "JHN 12:1",
+          "end_ref": "43012011",
+          "end_ref_usfm": "JHN 12:11"
+        },
+        {
+          "start_ref": "43012001",
+          "start_ref_usfm": "JHN 12:1",
+          "end_ref": "43012008",
+          "end_ref_usfm": "JHN 12:8"
+        },
+        {
+          "start_ref": "43011047",
+          "start_ref_usfm": "JHN 11:47",
+          "end_ref": "43011053",
+          "end_ref_usfm": "JHN 11:53"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

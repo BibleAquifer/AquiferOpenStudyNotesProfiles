@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 658531,
+    "reference_id": 203454,
+    "title": "Asa",
+    "media_type": "Text",
+    "index_reference": "asa",
+    "language": "por",
+    "content": "<p>Asa tornou-se o terceiro rei de Judá após o império de Salomão se dividir em reinos separados. Ele assumiu o trono após seu pai, Abias, que governou brevemente de 913 a 910 a.C. Asa reinou por 41 anos, de 910 a 869 a.C.</p><p>No início de seu reinado, Asa foi um bom rei. Ele se opôs à adoração de falsos deuses, destruiu o poste de Aserá que sua avó Maaca havia erguido e removeu sua influência política (<a href=\"https://ref.ly/1Kgs15:13\">1Rs 15.13</a>; <a href=\"https://ref.ly/2Chr15:16\">2Cr 15.16</a>).</p><p>Nos primeiros dias do reinado de Asa, Deus lhe concedeu vitórias militares e paz. Asa expulsou ou derrotou qualquer um que tentasse conquistar, dividir ou destruir Judá (<a href=\"https://ref.ly/2Chr14:1-2Chr14:8\">2Cr 14.1–8</a>). A vitória mais notável de Asa foi sobre um líder etíope chamado Zerá, que atacou Judá com mais de um milhão de tropas. Devido à obediência e fidelidade de Asa, Deus lhe concedeu uma grande vitória (<a href=\"https://ref.ly/2Chr14:9-2Chr14:15\">2Cr 14.9–15</a>).</p><p>Infelizmente, a atitude de Asa mudou perto do fim de sua vida. Ele parou de confiar em Deus. Baasa, o rei do reino do norte, atacou Judá com a ajuda de Ben-Hadade, rei de Aram, e fortaleceu a cidade de Ramá. Asa pagou ao rei de Aram para mudar de lado e apoiá-lo em vez de Baasa. Isso mostrou que Asa confiava mais em um rei estrangeiro do que no Senhor. Pior, Asa pagou Ben-Hadade com ouro e prata que ele havia dado anteriormente ao templo! A estratégia de Asa funcionou, e o reino do norte de Israel teve que deixar Judá para lidar com a ameaça de Ben-Hadade do norte. No entanto, o profeta Hanani criticou Asa por sua falta de fé em Deus. Irritado, Asa prendeu Hanani (<a href=\"https://ref.ly/2Chr16:7-2Chr16:10\">2Cr 16.7–10</a>).</p><p>Nos últimos anos de seu reinado, Asa teve uma grave doença nos pés. Apesar da gravidade de sua enfermidade, ele não buscou a ajuda do Senhor. Em vez disso, confiou apenas em seus médicos (<a href=\"https://ref.ly/2Chr16:12\">2Cr 16.12</a>). Mesmo assim, quando Asa morreu, eles o enterraram com honra nos túmulos reais (<a href=\"https://ref.ly/2Chr16:14\">2Cr 16.14</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/1Kgs15:8-1Kgs15:24\">1 Reis 15.8–24</a>; <a href=\"https://ref.ly/2Chr14:1-2Chr16:14\">2 Crônicas 14.1–16.14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11015013",
+          "start_ref_usfm": "1KI 15:13",
+          "end_ref": "11015013",
+          "end_ref_usfm": "1KI 15:13"
+        },
+        {
+          "start_ref": "14015016",
+          "start_ref_usfm": "2CH 15:16",
+          "end_ref": "14015016",
+          "end_ref_usfm": "2CH 15:16"
+        },
+        {
+          "start_ref": "14016012",
+          "start_ref_usfm": "2CH 16:12",
+          "end_ref": "14016012",
+          "end_ref_usfm": "2CH 16:12"
+        },
+        {
+          "start_ref": "14016014",
+          "start_ref_usfm": "2CH 16:14",
+          "end_ref": "14016014",
+          "end_ref_usfm": "2CH 16:14"
+        },
+        {
+          "start_ref": "14014001",
+          "start_ref_usfm": "2CH 14:1",
+          "end_ref": "14014008",
+          "end_ref_usfm": "2CH 14:8"
+        },
+        {
+          "start_ref": "14016007",
+          "start_ref_usfm": "2CH 16:7",
+          "end_ref": "14016010",
+          "end_ref_usfm": "2CH 16:10"
+        },
+        {
+          "start_ref": "14014009",
+          "start_ref_usfm": "2CH 14:9",
+          "end_ref": "14014015",
+          "end_ref_usfm": "2CH 14:15"
+        },
+        {
+          "start_ref": "11015008",
+          "start_ref_usfm": "1KI 15:8",
+          "end_ref": "11015024",
+          "end_ref_usfm": "1KI 15:24"
+        },
+        {
+          "start_ref": "14014001",
+          "start_ref_usfm": "2CH 14:1",
+          "end_ref": "14016014",
+          "end_ref_usfm": "2CH 16:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

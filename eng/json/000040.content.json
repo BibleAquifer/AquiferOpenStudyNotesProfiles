@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 500558,
+    "reference_id": 203501,
+    "title": "Herod Agrippa I",
+    "media_type": "Text",
+    "index_reference": "herod agrippa i",
+    "language": "eng",
+    "content": "<p>Herod Agrippa I was the grandson of Herod the Great, the nephew of Herod Antipas, and the brother of Herodias. Agrippa I ruled all of Palestine for a short time after Jesus&apos;s death, during the early days of the Christian movement, from AD 41 to 44.</p><p>While attending school in Rome, Agrippa lived recklessly and accumulated many debts. He once expressed a wish for his friend Gaius Caligula to be emperor instead of Tiberius. Someone reported this to Tiberius, who then imprisoned Agrippa. He stayed in prison until Tiberius died six months later.</p><p>When Caligula became emperor, he rewarded Agrippa by freeing him and giving him Philip the Tetrarch&apos;s lands and the northern part of Lysanias&apos;s territory, along with the title of king. This title made Herodias jealous, and her husband, Herod Antipas, was both critical and envious of Agrippa. Agrippa accused Antipas of conspiracy, leading to Antipas&apos;s banishment. Agrippa then took over all of Antipas&apos;s lands and property in AD 39.</p><p>When his friend Caligula died in AD 41, Agrippa gained favor with the new emperor, Claudius. Claudius then added Judea and Samaria to Agrippa&apos;s domain. This territory was once ruled by his grandfather, Herod the Great.</p><p>Agrippa actively persecuted early Christians. He is known for killing the apostle James and arresting Peter, actions that pleased the Jews (<a href=\"https://ref.ly/Acts12:1-Acts12:4\">Acts 12:1–4</a>). The Jews liked him more than any other Herod. Agrippa died suddenly in AD 44, soon after his subjects praised him as a god (<a href=\"https://ref.ly/Acts12:20-Acts12:23\">Acts 12:20–23</a>; see also Josephus, <em>Antiquities</em> 19.8.2; 19.9.1; <em>War</em> 2.11.5).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts12:1-Acts12:4\">Acts 12:1–4</a>, <a href=\"https://ref.ly/Acts12:18-Acts12:23\">18–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012020",
+          "start_ref_usfm": "ACT 12:20",
+          "end_ref": "44012023",
+          "end_ref_usfm": "ACT 12:23"
+        },
+        {
+          "start_ref": "44012001",
+          "start_ref_usfm": "ACT 12:1",
+          "end_ref": "44012004",
+          "end_ref_usfm": "ACT 12:4"
+        },
+        {
+          "start_ref": "44012018",
+          "start_ref_usfm": "ACT 12:18",
+          "end_ref": "44012023",
+          "end_ref_usfm": "ACT 12:23"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

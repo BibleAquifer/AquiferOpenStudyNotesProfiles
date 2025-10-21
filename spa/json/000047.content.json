@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 658426,
+    "reference_id": 203501,
+    "title": "Herodes Agripa I",
+    "media_type": "Text",
+    "index_reference": "herodes agripa i",
+    "language": "spa",
+    "content": "<p>Herodes Agripa I era el nieto de Herodes el Grande, sobrino de Herodes Antipas y hermano de Herodías. Agripa I gobernó toda Palestina por un breve período después de la muerte de Jesús, durante los primeros días del movimiento cristiano, desde el año 41 hasta el 44 d.C.</p><p>Durante su tiempo en la escuela en Roma, Agripa vivió de manera imprudente y acumuló muchas deudas. En una ocasión, expresó su deseo de que su amigo Gayo Calígula fuera Emperador en lugar de Tiberio. Alguien informó de esto a Tiberio, quien luego encarceló a Agripa. Permaneció en prisión hasta que Tiberio murió seis meses después.</p><p>Cuando Calígula se convirtió en Emperador, recompensó a Agripa liberándolo y otorgándole las tierras de Felipe el Tetrarca y la parte norte del territorio de Lisanias, junto con el título de rey. Este título provocó los celos de Herodías, y su esposo, Herodes Antipas, fue tanto crítico como envidioso de Agripa. Agripa acusó a Antipas de conspiración, lo que llevó al destierro de Antipas. Posteriormente, Agripa tomó posesión de todas las tierras y propiedades de Antipas en el año 39 d.C.</p><p>Cuando su amigo Calígula murió en el año 41 d.C., Agripa se ganó el favor del nuevo emperador, Claudio. Claudio posteriormente añadió Judea y Samaria al dominio de Agripa. Este territorio había sido gobernado anteriormente por su abuelo, Herodes el Grande.</p><p>Agripa persiguió activamente a los primeros cristianos. Es conocido por matar al apóstol Jacobo y arrestar a Pedro, acciones que complacieron a los judíos (<a href=\"https://ref.ly/Acts12:1-Acts12:4\">Hechos 12.1–4</a>). Los judíos lo apreciaban más que a cualquier otro Herodes. Agripa murió repentinamente en el año 44 d.C., poco después de que sus súbditos lo alabaran como a un dios (<a href=\"https://ref.ly/Acts12:20-Acts12:23\">Hechos 12.20–23</a>; ver también Josefo, <em>Antigüedades</em> 19.8.2; 19.9.1; <em>Guerra</em> 2.11.5).</p><p><u>Pasajes para Estudio Adicional</u></p><p><a href=\"https://ref.ly/Acts12:1-Acts12:4\">Hechos 12.1–4</a>, <a href=\"https://ref.ly/Acts12:18-Acts12:23\">18–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012020",
+          "start_ref_usfm": "ACT 12:20",
+          "end_ref": "44012023",
+          "end_ref_usfm": "ACT 12:23"
+        },
+        {
+          "start_ref": "44012001",
+          "start_ref_usfm": "ACT 12:1",
+          "end_ref": "44012004",
+          "end_ref_usfm": "ACT 12:4"
+        },
+        {
+          "start_ref": "44012018",
+          "start_ref_usfm": "ACT 12:18",
+          "end_ref": "44012023",
+          "end_ref_usfm": "ACT 12:23"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

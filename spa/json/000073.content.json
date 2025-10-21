@@ -1,0 +1,166 @@
+[
+  {
+    "content_id": 658332,
+    "reference_id": 203407,
+    "title": "Judá",
+    "media_type": "Text",
+    "index_reference": "judá",
+    "language": "spa",
+    "content": "<p>Judá es más famoso por ser el antepasado del Rey David y de Jesucristo. Judá no era el hijo mayor e hizo cosas malas como adulto (<a href=\"https://ref.ly/Gen38:1-Gen38:30\">Génesis 38</a>). A pesar de eso, Dios eligió a Judá para continuar la línea del Rey David y del Mesías (ver <a href=\"https://ref.ly/1Chr2:1-1Chr2:17\">1 Crónicas 2.1–17;</a> <a href=\"https://ref.ly/1Chr3:1-1Chr3:24\">3.1–24</a>; y <a href=\"https://ref.ly/Gen49:8-Gen49:12\">Génesis 49.8–12;</a> <a href=\"https://ref.ly/Matt1:1-Matt1:16\">Mateo 1.1–16;</a> <a href=\"https://ref.ly/Luke3:23-Luke3:34\">Lucas 3.23–34</a>).</p><p>Judá fue el cuarto de los doce hijos de Jacob (<a href=\"https://ref.ly/Gen35:23\">Génesis 35.23;</a> <a href=\"https://ref.ly/1Chr2:1\">1 Crónicas 2.1</a>). Lea se alegró al tener a su cuarto hijo y lo llamó Judá, que significa &quot;alabanza&quot; (<a href=\"https://ref.ly/Gen29:35\">Génesis 29.35</a>).</p><p>Judá tuvo cinco hijos:</p><ol><li><p>Er</p></li><li><p>Onán</p></li><li><p>Sela</p></li><li><p><span>Phares</span></p></li><li><p><span>Zara</span></p></li></ol><p><span>Súa</span>, una mujer cananea, fue la madre de Er, Onán y Sela (<a href=\"https://ref.ly/Gen38:1-Gen38:5\">Génesis 38:1–5</a>; <a href=\"https://ref.ly/1Chr2:3\">1 Crónicas 2:3</a>). Phares y Zara eran gemelos. Thamar, la nuera de Judá, fue su madre (<a href=\"https://ref.ly/Gen38:27-Gen38:30\">Génesis 38.27–30;</a> <a href=\"https://ref.ly/1Chr2:4\">1 Crónicas 2.4</a>).</p><p>Dios mató a los dos primeros hijos de Judá, Er y Onán, en Canaán debido a su desobediencia (<a href=\"https://ref.ly/Gen46:12\">Génesis 46.12</a>). Luego, Judá trasladó a su familia a Egipto junto con su padre y hermanos (<a href=\"https://ref.ly/Exod1:1-Exod1:2\">Éxodo 1.1–2</a>).</p><p>Judá actuó imprudentemente con Thamar, pero asumió la responsabilidad por la seguridad de Benjamín en Egipto (<a href=\"https://ref.ly/Gen38:6-Gen38:30\">Génesis 38.6–30</a>). También intercedió ante José por sus hermanos (<a href=\"https://ref.ly/Gen44:14-Gen44:34\">Génesis 44.14–34</a>). Cuando Jacob dio su bendición antes de morir, le otorgó a Judá un papel de liderazgo. Los futuros reyes de Israel provendrían de los descendientes de Judá (ver <a href=\"https://ref.ly/Gen49:10\">Génesis 49.10</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Gen29:35\">Génesis 29.35;</a> <a href=\"https://ref.ly/Gen37:26-Gen37:27\">37.26–27;</a> <a href=\"https://ref.ly/Gen38:1-Gen38:30\">38.1–30;</a> <a href=\"https://ref.ly/Gen43:1-Gen43:10\">43.1–10;</a> <a href=\"https://ref.ly/Gen44:14-Gen44:34\">44.14–34;</a> <a href=\"https://ref.ly/Gen46:28\">46.28;</a> <a href=\"https://ref.ly/Gen49:8-Gen49:12\">49.8–12</a>; <a href=\"https://ref.ly/Ruth4:12\">Rut 4.12;</a> <a href=\"https://ref.ly/1Chr2:3-1Chr2:4\">1 Crónicas 2.3–4;</a> <a href=\"https://ref.ly/1Chr5:2\">5.2</a>; <a href=\"https://ref.ly/Ps108:8\">Salmo 108.8</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01029035",
+          "start_ref_usfm": "GEN 29:35",
+          "end_ref": "01029035",
+          "end_ref_usfm": "GEN 29:35"
+        },
+        {
+          "start_ref": "01035023",
+          "start_ref_usfm": "GEN 35:23",
+          "end_ref": "01035023",
+          "end_ref_usfm": "GEN 35:23"
+        },
+        {
+          "start_ref": "01046012",
+          "start_ref_usfm": "GEN 46:12",
+          "end_ref": "01046012",
+          "end_ref_usfm": "GEN 46:12"
+        },
+        {
+          "start_ref": "01046028",
+          "start_ref_usfm": "GEN 46:28",
+          "end_ref": "01046028",
+          "end_ref_usfm": "GEN 46:28"
+        },
+        {
+          "start_ref": "01049010",
+          "start_ref_usfm": "GEN 49:10",
+          "end_ref": "01049010",
+          "end_ref_usfm": "GEN 49:10"
+        },
+        {
+          "start_ref": "08004012",
+          "start_ref_usfm": "RUT 4:12",
+          "end_ref": "08004012",
+          "end_ref_usfm": "RUT 4:12"
+        },
+        {
+          "start_ref": "13002001",
+          "start_ref_usfm": "1CH 2:1",
+          "end_ref": "13002001",
+          "end_ref_usfm": "1CH 2:1"
+        },
+        {
+          "start_ref": "13002003",
+          "start_ref_usfm": "1CH 2:3",
+          "end_ref": "13002003",
+          "end_ref_usfm": "1CH 2:3"
+        },
+        {
+          "start_ref": "13002004",
+          "start_ref_usfm": "1CH 2:4",
+          "end_ref": "13002004",
+          "end_ref_usfm": "1CH 2:4"
+        },
+        {
+          "start_ref": "13005002",
+          "start_ref_usfm": "1CH 5:2",
+          "end_ref": "13005002",
+          "end_ref_usfm": "1CH 5:2"
+        },
+        {
+          "start_ref": "19108008",
+          "start_ref_usfm": "PSA 108:8",
+          "end_ref": "19108008",
+          "end_ref_usfm": "PSA 108:8"
+        },
+        {
+          "start_ref": "01038001",
+          "start_ref_usfm": "GEN 38:1",
+          "end_ref": "01038030",
+          "end_ref_usfm": "GEN 38:30"
+        },
+        {
+          "start_ref": "01044014",
+          "start_ref_usfm": "GEN 44:14",
+          "end_ref": "01044034",
+          "end_ref_usfm": "GEN 44:34"
+        },
+        {
+          "start_ref": "01038027",
+          "start_ref_usfm": "GEN 38:27",
+          "end_ref": "01038030",
+          "end_ref_usfm": "GEN 38:30"
+        },
+        {
+          "start_ref": "01049008",
+          "start_ref_usfm": "GEN 49:8",
+          "end_ref": "01049012",
+          "end_ref_usfm": "GEN 49:12"
+        },
+        {
+          "start_ref": "01038006",
+          "start_ref_usfm": "GEN 38:6",
+          "end_ref": "01038030",
+          "end_ref_usfm": "GEN 38:30"
+        },
+        {
+          "start_ref": "13003001",
+          "start_ref_usfm": "1CH 3:1",
+          "end_ref": "13003024",
+          "end_ref_usfm": "1CH 3:24"
+        },
+        {
+          "start_ref": "13002001",
+          "start_ref_usfm": "1CH 2:1",
+          "end_ref": "13002017",
+          "end_ref_usfm": "1CH 2:17"
+        },
+        {
+          "start_ref": "40001001",
+          "start_ref_usfm": "MAT 1:1",
+          "end_ref": "40001016",
+          "end_ref_usfm": "MAT 1:16"
+        },
+        {
+          "start_ref": "42003023",
+          "start_ref_usfm": "LUK 3:23",
+          "end_ref": "42003034",
+          "end_ref_usfm": "LUK 3:34"
+        },
+        {
+          "start_ref": "01038001",
+          "start_ref_usfm": "GEN 38:1",
+          "end_ref": "01038005",
+          "end_ref_usfm": "GEN 38:5"
+        },
+        {
+          "start_ref": "02001001",
+          "start_ref_usfm": "EXO 1:1",
+          "end_ref": "02001002",
+          "end_ref_usfm": "EXO 1:2"
+        },
+        {
+          "start_ref": "01037026",
+          "start_ref_usfm": "GEN 37:26",
+          "end_ref": "01037027",
+          "end_ref_usfm": "GEN 37:27"
+        },
+        {
+          "start_ref": "01043001",
+          "start_ref_usfm": "GEN 43:1",
+          "end_ref": "01043010",
+          "end_ref_usfm": "GEN 43:10"
+        },
+        {
+          "start_ref": "13002003",
+          "start_ref_usfm": "1CH 2:3",
+          "end_ref": "13002004",
+          "end_ref_usfm": "1CH 2:4"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
