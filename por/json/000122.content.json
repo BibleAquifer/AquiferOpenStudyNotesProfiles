@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 658540,
+    "reference_id": 203463,
+    "title": "Xerxes I",
+    "media_type": "Text",
+    "index_reference": "xerxes i",
+    "language": "por",
+    "content": "<p>Xerxes I governou o Império Persa de 486 a 465 a.C. Ele era filho e sucessor de Dario I (Histaspes). Xerxes herdou um grande império de seu pai e de seu avô materno, Ciro II. No entanto, ele enfrentou dificuldades para governar bem a Pérsia devido à sua crueldade e instabilidade.</p><p>No início do reinado de Xerxes, o Egito e a Babilônia se rebelaram contra o domínio persa. Xerxes conteve as rebeliões e garantiu que as receitas fiscais continuassem, mas seu tratamento severo das pessoas começou a construir sua reputação de tirano.</p><p>No terceiro ano de seu reinado, Xerxes reuniu seus líderes para planejar uma invasão da Grécia. (O livro de Ester começa com um banquete provavelmente relacionado a este evento). Em 480 a.C., iniciou-se a famosa, mas fadada ao fracasso, tentativa de conquistar a Grécia. A severidade de Xerxes é ilustrada em duas histórias registradas por Heródoto sobre esta campanha. Quando Xerxes e seus exércitos chegaram ao Helesponto (a via navegável que conecta o Mar Negro ao Mediterrâneo), seus engenheiros construíram uma ponte para a travessia, mas uma tempestade a destruiu. Xerxes reagiu decapitando os engenheiros e chicoteando a água antes de construir uma ponte mais forte.</p><p>Mais tarde, após incendiar Atenas, sua frota foi derrotada em Salamina. Xerxes executou o almirante da frota fenícia, o que levou os fenícios e egípcios a abandoná-lo. Apenas a frota persa permaneceu, e foi derrotada pelos gregos em 479 a.C. Xerxes teve que recuar. Depois, ele se concentrou em assuntos internos, como grandes projetos de construção em Susã e Persépolis, e os eventos descritos em Ester.</p><p>Xerxes estava preocupado com assassinos tentando matá-lo. De acordo com <a href=\"https://ref.ly/Esth2:21-Esth2:23\">Ester 2.21–23</a>, Mordecai impediu um complô de assassinato, o que levou Xerxes a honrá-lo publicamente. Após os gregos derrotarem Xerxes novamente na Batalha do Eurimedonte em 466 a.C., ele perdeu território. Outro complô de assassinato por parte de seus oficiais da corte teve sucesso, e seu reinado terminou vergonhosamente em 465 a.C.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Ezra4:6\">Esdras 4.6</a>; <a href=\"https://ref.ly/Esth1:1-Esth1:22\">Ester 1.1–22</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15004006",
+          "start_ref_usfm": "EZR 4:6",
+          "end_ref": "15004006",
+          "end_ref_usfm": "EZR 4:6"
+        },
+        {
+          "start_ref": "17002021",
+          "start_ref_usfm": "EST 2:21",
+          "end_ref": "17002023",
+          "end_ref_usfm": "EST 2:23"
+        },
+        {
+          "start_ref": "17001001",
+          "start_ref_usfm": "EST 1:1",
+          "end_ref": "17001022",
+          "end_ref_usfm": "EST 1:22"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

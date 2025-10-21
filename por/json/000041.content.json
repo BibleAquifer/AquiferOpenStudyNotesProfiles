@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 658490,
+    "reference_id": 203413,
+    "title": "Faraó",
+    "media_type": "Text",
+    "index_reference": "faraó",
+    "language": "por",
+    "content": "<p>&quot;Faraó&quot; é uma palavra egípcia que significa &quot;Grande casa&quot;. Refere-se ao palácio real e também é um título para o rei do Egito. Durante o tempo de José, o Faraó via os israelitas favoravelmente. José interpretou os sonhos do Faraó, o que levou à sua promoção como segundo no comando no Egito (<a href=\"https://ref.ly/Gen41:1-Gen41:44\">Gn 41.1–44</a>). O Faraó deu à família de José a melhor terra no Egito (<a href=\"https://ref.ly/Gen45:16-Gen45:20\">Gn 45.16–20</a>). Os israelitas cresceram em número e prosperaram lá.</p><p>Dois faraós são mencionados no livro do Êxodo, e nenhum deles valorizava o povo hebreu (veja <a href=\"https://ref.ly/Exod1:8-Exod1:10\">Êx 1.8–10</a>). O primeiro faraó governava quando Moisés nasceu. Ele temia os hebreus e ordenou a morte de todos os meninos hebreus. Moisés escapou da morte e foi criado pela filha do faraó no palácio. Este faraó morreu depois que Moisés fugiu do Egito (<a href=\"https://ref.ly/Exod2:23\">Êx 2.23</a>).</p><p>Um novo Faraó subiu ao poder, e Moisés e Arão mais tarde o confrontaram. Este Faraó estava determinado a manter os israelitas no Egito. Ele permaneceu teimoso mesmo quando viu o poder de Deus. A Bíblia descreve sua relutância em mudar (veja <a href=\"https://ref.ly/Exod8:32\">Êx 8.32</a>; <a href=\"https://ref.ly/Exod9:12\">9.12</a>,<a href=\"https://ref.ly/Exod9:34-Exod9:35\">34–35</a>; compare <a href=\"https://ref.ly/Rom1:18-Rom1:32\">Rm 1.18–32</a>).</p><p>Como rei, o Faraó representava o domínio dos deuses sobre o Egito, conferindo-lhe poder absoluto. As pragas foram ataques de Deus aos falsos deuses do Egito (veja <a href=\"https://ref.ly/Exod12:12\">Êx 12.12</a>). A praga final, a morte dos primogênitos, teve como alvo a casa do Faraó. Esta praga decisiva convenceu o Faraó a deixar Israel partir. No entanto, após a saída dos israelitas, o Faraó mudou de ideia e os perseguiu até o Mar Vermelho. O resgate de Deus dos israelitas indefesos e a destruição dos poderosos egípcios no Mar Vermelho é um dos resgates mais dramáticos do Antigo Testamento. O Senhor se revelou no Mar Vermelho como um guerreiro que lutou por seu povo (<a href=\"https://ref.ly/Exod15:3\">Êx 15.3</a>).</p><p>Os faraós em Êxodo não são nomeados, provavelmente seguindo a tradição egípcia. Se os israelitas saíram do Egito nos anos 1400 a.C., o faraó pode ter sido Tutmés III, que governou aproximadamente de 1504 a 1450 a.C. Se isso ocorreu nos anos 1200 a.C., com base em outra linha do tempo, o faraó pode ter sido Ramessés II, que governou aproximadamente de 1279 a 1213 a.C.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Exod1:8-Exod1:22\">Êxodo 1.8–22</a>; <a href=\"https://ref.ly/Exod2:14-Exod2:15\">2.14–15</a>, <a href=\"https://ref.ly/Exod2:23\">23</a>; <a href=\"https://ref.ly/Exod5:1-Exod15:21\">5.1–15.21</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02002023",
+          "start_ref_usfm": "EXO 2:23",
+          "end_ref": "02002023",
+          "end_ref_usfm": "EXO 2:23"
+        },
+        {
+          "start_ref": "02008032",
+          "start_ref_usfm": "EXO 8:32",
+          "end_ref": "02008032",
+          "end_ref_usfm": "EXO 8:32"
+        },
+        {
+          "start_ref": "02009012",
+          "start_ref_usfm": "EXO 9:12",
+          "end_ref": "02009012",
+          "end_ref_usfm": "EXO 9:12"
+        },
+        {
+          "start_ref": "02012012",
+          "start_ref_usfm": "EXO 12:12",
+          "end_ref": "02012012",
+          "end_ref_usfm": "EXO 12:12"
+        },
+        {
+          "start_ref": "02015003",
+          "start_ref_usfm": "EXO 15:3",
+          "end_ref": "02015003",
+          "end_ref_usfm": "EXO 15:3"
+        },
+        {
+          "start_ref": "45001018",
+          "start_ref_usfm": "ROM 1:18",
+          "end_ref": "45001032",
+          "end_ref_usfm": "ROM 1:32"
+        },
+        {
+          "start_ref": "02001008",
+          "start_ref_usfm": "EXO 1:8",
+          "end_ref": "02001010",
+          "end_ref_usfm": "EXO 1:10"
+        },
+        {
+          "start_ref": "02001008",
+          "start_ref_usfm": "EXO 1:8",
+          "end_ref": "02001022",
+          "end_ref_usfm": "EXO 1:22"
+        },
+        {
+          "start_ref": "01041001",
+          "start_ref_usfm": "GEN 41:1",
+          "end_ref": "01041044",
+          "end_ref_usfm": "GEN 41:44"
+        },
+        {
+          "start_ref": "01045016",
+          "start_ref_usfm": "GEN 45:16",
+          "end_ref": "01045020",
+          "end_ref_usfm": "GEN 45:20"
+        },
+        {
+          "start_ref": "02009034",
+          "start_ref_usfm": "EXO 9:34",
+          "end_ref": "02009035",
+          "end_ref_usfm": "EXO 9:35"
+        },
+        {
+          "start_ref": "02002014",
+          "start_ref_usfm": "EXO 2:14",
+          "end_ref": "02002015",
+          "end_ref_usfm": "EXO 2:15"
+        },
+        {
+          "start_ref": "02005001",
+          "start_ref_usfm": "EXO 5:1",
+          "end_ref": "02015021",
+          "end_ref_usfm": "EXO 15:21"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

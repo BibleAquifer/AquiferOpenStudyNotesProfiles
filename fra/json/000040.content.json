@@ -1,0 +1,154 @@
+[
+  {
+    "content_id": 668956,
+    "reference_id": 203498,
+    "title": "Étienne",
+    "media_type": "Text",
+    "index_reference": "étienne",
+    "language": "fra",
+    "content": "<p>Étienne fut un chrétien des premiers temps, dont la vie incarna un exemple à suivre. Par son courage et sa foi inébranlable, il proclama ouvertement la bonne nouvelle de Jésus, ce qui attira la fureur des autorités juives, qui l&apos;arrêtèrent et le condamnèrent à mort.&nbsp;Considéré comme le premier martyr chrétien, il fut le premier à sacrifier sa vie pour la foi en Jésus.</p><p>Choisi parmi les sept hommes désignés pour distribuer la nourriture aux chrétiens nécessiteux à Jérusalem (<a href=\"https://ref.ly/Acts6:1-Acts6:6\">Ac 6.1–6</a>), Étienne se distingua parce qu&apos;il était « <span>plein de foi et d’Esprit-Saint</span> » (<a href=\"https://ref.ly/Acts6:5\">Ac 6.5</a>). Manifestant la grâce et la puissance de Dieu de manière particulière, il accomplissait des miracles (<a href=\"https://ref.ly/Acts6:8\">Ac 6.8</a>) et avait l&apos;art d&apos;expliquer et de défendre les vérités chrétiennes avec courage (<a href=\"https://ref.ly/Acts6:9-Acts6:10\">Ac 6.9–10</a>). Parce qu&apos;il parlait si ouvertement de Jésus, il fut arrêté par les dirigeants juifs et présenté devant le conseil juif (le sanhédrin) pour être interrogé (<a href=\"https://ref.ly/Acts6:9-Acts6:12\">Ac 6.9–12</a>).</p><p>Accusé de proférer des paroles contre le saint temple et la loi de Moïse (<a href=\"https://ref.ly/Acts6:13-Acts6:14\">Ac 6.13–14</a> ; comparer <a href=\"https://ref.ly/Mark13:2\">Mc 13.2</a> ; <a href=\"https://ref.ly/John2:19\">Jn 2.19</a> ; <a href=\"https://ref.ly/John4:21\">4.21</a>), Étienne se défendit avec ferveur devant le sanhédrin (<a href=\"https://ref.ly/Acts7:1-Acts7:53\">Ac 7.1–53</a>), évoquant la longue histoire de résistance du peuple d&apos;Israël envers Dieu et ses serviteurs (évoquant d&apos;abord Moïse, puis le prophète que Moïse avait prédit ; voir <a href=\"https://ref.ly/Acts7:51-Acts7:53\">Ac 7.51–53</a>). Irrités par ses affirmations, les autorités le traînèrent hors de la ville et le lapidèrent à mort&nbsp;(<a href=\"https://ref.ly/Acts7:54-Acts7:60\">Ac 7.54–60</a>). Dans ses derniers instants, Étienne pria pour le pardon de ses persécuteurs (<a href=\"https://ref.ly/Acts7:60\">Ac 7.60</a>).</p><p>Le courageux témoignage d&apos;Étienne conduit à la première persécution des chrétiens (<a href=\"https://ref.ly/Acts8:1-Acts8:3\">Ac 8.1–3</a>). Cette persécution permit à la Bonne Nouvelle de se répandre davantage,&nbsp;car les croyants, contraints de quitter Jérusalem, partagèrent le message de Jésus partout où ils allèrent (<a href=\"https://ref.ly/Acts8:4\">Ac 8.4</a> ; <a href=\"https://ref.ly/Acts11:19-Acts11:21\">11.19–21</a>). Les chrétiens commencèrent ainsi à partager l&apos;Évangile de Jésus-Christ au-delà de leur terre natale de Judée.</p><p>La vie d&apos;Étienne nous enseigne que rester fidèle à Jésus peut susciter une vive opposition : parler avec audace peut coûter cher (voir <a href=\"https://ref.ly/Rev2:10\">Ap 2.10</a>, <a href=\"https://ref.ly/Rev2:13\">13</a>), mais rien ne saurait entraver la croissance de l&apos;Église (voir <a href=\"https://ref.ly/Matt16:18\">Mt 16.18</a> ; <a href=\"https://ref.ly/Acts8:1-Acts8:4\">Ac 8.1–4</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Acts6:5-Acts8:2\">Ac 6.5–8.2</a> ; <a href=\"https://ref.ly/Acts11:19\">11.19</a> ; <a href=\"https://ref.ly/Acts22:20\">22.20</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40016018",
+          "start_ref_usfm": "MAT 16:18",
+          "end_ref": "40016018",
+          "end_ref_usfm": "MAT 16:18"
+        },
+        {
+          "start_ref": "41013002",
+          "start_ref_usfm": "MRK 13:2",
+          "end_ref": "41013002",
+          "end_ref_usfm": "MRK 13:2"
+        },
+        {
+          "start_ref": "43002019",
+          "start_ref_usfm": "JHN 2:19",
+          "end_ref": "43002019",
+          "end_ref_usfm": "JHN 2:19"
+        },
+        {
+          "start_ref": "43004021",
+          "start_ref_usfm": "JHN 4:21",
+          "end_ref": "43004021",
+          "end_ref_usfm": "JHN 4:21"
+        },
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006005",
+          "end_ref_usfm": "ACT 6:5"
+        },
+        {
+          "start_ref": "44006008",
+          "start_ref_usfm": "ACT 6:8",
+          "end_ref": "44006008",
+          "end_ref_usfm": "ACT 6:8"
+        },
+        {
+          "start_ref": "44007060",
+          "start_ref_usfm": "ACT 7:60",
+          "end_ref": "44007060",
+          "end_ref_usfm": "ACT 7:60"
+        },
+        {
+          "start_ref": "44008004",
+          "start_ref_usfm": "ACT 8:4",
+          "end_ref": "44008004",
+          "end_ref_usfm": "ACT 8:4"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011019",
+          "end_ref_usfm": "ACT 11:19"
+        },
+        {
+          "start_ref": "44022020",
+          "start_ref_usfm": "ACT 22:20",
+          "end_ref": "44022020",
+          "end_ref_usfm": "ACT 22:20"
+        },
+        {
+          "start_ref": "66002010",
+          "start_ref_usfm": "REV 2:10",
+          "end_ref": "66002010",
+          "end_ref_usfm": "REV 2:10"
+        },
+        {
+          "start_ref": "66002013",
+          "start_ref_usfm": "REV 2:13",
+          "end_ref": "66002013",
+          "end_ref_usfm": "REV 2:13"
+        },
+        {
+          "start_ref": "44006001",
+          "start_ref_usfm": "ACT 6:1",
+          "end_ref": "44006006",
+          "end_ref_usfm": "ACT 6:6"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011021",
+          "end_ref_usfm": "ACT 11:21"
+        },
+        {
+          "start_ref": "44007001",
+          "start_ref_usfm": "ACT 7:1",
+          "end_ref": "44007053",
+          "end_ref_usfm": "ACT 7:53"
+        },
+        {
+          "start_ref": "44007054",
+          "start_ref_usfm": "ACT 7:54",
+          "end_ref": "44007060",
+          "end_ref_usfm": "ACT 7:60"
+        },
+        {
+          "start_ref": "44008001",
+          "start_ref_usfm": "ACT 8:1",
+          "end_ref": "44008003",
+          "end_ref_usfm": "ACT 8:3"
+        },
+        {
+          "start_ref": "44008001",
+          "start_ref_usfm": "ACT 8:1",
+          "end_ref": "44008004",
+          "end_ref_usfm": "ACT 8:4"
+        },
+        {
+          "start_ref": "44007051",
+          "start_ref_usfm": "ACT 7:51",
+          "end_ref": "44007053",
+          "end_ref_usfm": "ACT 7:53"
+        },
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006010",
+          "end_ref_usfm": "ACT 6:10"
+        },
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006012",
+          "end_ref_usfm": "ACT 6:12"
+        },
+        {
+          "start_ref": "44006013",
+          "start_ref_usfm": "ACT 6:13",
+          "end_ref": "44006014",
+          "end_ref_usfm": "ACT 6:14"
+        },
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44008002",
+          "end_ref_usfm": "ACT 8:2"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 658348,
+    "reference_id": 203423,
+    "title": "Gedeón",
+    "media_type": "Text",
+    "index_reference": "gedeón",
+    "language": "spa",
+    "content": "<p>Gedeón fue un juez israelita e hijo de <span>Joas</span>, perteneciente a la tribu de Manasés. Afirmó que su clan era el más débil en Manasés y que él era el menos importante dentro de su clan. Su historia demuestra cómo Dios puede utilizar a una persona débil para grandes propósitos.</p><p>Durante este período, Madián oprimió a Israel, y el pueblo clamó a Dios por ayuda (<a href=\"https://ref.ly/Judg6:6\">Jueces 6.6</a>). En respuesta, Dios envió un profeta para reprenderlos por ignorarlo y adorar a otros dioses. También envió a Su Ángel para llamar a Gedeón para que salvara a Israel.</p><p>La primera aparición de Gedeón no es prometedora. Estaba trillando trigo en el fondo de un lagar para esconderse de los madianitas. Cuando el ángel del Señor se le apareció, Gedeón preguntó por qué Dios no había salvado a su pueblo como lo hizo durante el Éxodo. Dios le dijo a Gedeón que había sido elegido para ser el libertador de Israel y que estaría con él. Gedeón dudaba en creer y pidió una señal. Trajo una ofrenda, y cuando el ángel la tocó, salió fuego de la roca debajo.</p><p>Esta señal le dio a Gedeón la fe necesaria para actuar en su comunidad. Dios le instruyó que derribara el altar de su padre dedicado a Baal, cortara el poste de Asera y construyera un altar al Señor en su lugar. Gedeón obedeció el mandato de Dios y se convirtió en un guerrero para Él contra los falsos dioses.</p><p>El Espíritu de Dios vino sobre Gedeón, quien reunió un ejército para luchar contra los madianitas y sus aliados. Gedeón se mantuvo cauteloso y pidió a Dios otra señal para confirmar su misión. Colocó un vellón afuera durante dos noches diferentes, solicitando a Dios que demostrara su poder haciendo que el rocío se asentara sobre el vellón y el suelo de maneras milagrosas. Dios cumplió con esto, y Gedeón estaba listo para seguir el plan de Dios.</p><p>Gedeón logró reclutar con éxito a 32.000 hombres para el ejército. Sin embargo, Dios le indicó que redujera el número a 300 hombres. Gedeón lideró a estos 300 hombres contra una fuerza mucho mayor y salió victorioso.</p><p>Gedeón sabiamente rechazó la petición del pueblo de convertirse en su gobernante. Sin embargo, hizo un ephod con los pendientes de los soldados derrotados, y este se convirtió en un ídolo (<a href=\"https://ref.ly/Judg8:22-Judg8:27\">Jueces 8.22–27</a>). Gedeón, que era débil en la fe y dependía de señales visibles, eventualmente se apartó de adorar al Dios invisible y adoró ídolos. Israel experimentó paz durante su vida, pero su falta de fe condujo a problemas después de su muerte (<a href=\"https://ref.ly/Judg8:33-Judg9:57\">Jueces 8.33–9.57</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Judg6:1-Judg8:35\">Jueces 6.1–8.35</a>; <a href=\"https://ref.ly/1Sam12:11\">1 Samuel 12.11</a>; <a href=\"https://ref.ly/Isa10:26\">Isaías 10.26</a>; <a href=\"https://ref.ly/Heb11:32\">Hebreos 11.32</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07006006",
+          "start_ref_usfm": "JDG 6:6",
+          "end_ref": "07006006",
+          "end_ref_usfm": "JDG 6:6"
+        },
+        {
+          "start_ref": "09012011",
+          "start_ref_usfm": "1SA 12:11",
+          "end_ref": "09012011",
+          "end_ref_usfm": "1SA 12:11"
+        },
+        {
+          "start_ref": "23010026",
+          "start_ref_usfm": "ISA 10:26",
+          "end_ref": "23010026",
+          "end_ref_usfm": "ISA 10:26"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011032",
+          "end_ref_usfm": "HEB 11:32"
+        },
+        {
+          "start_ref": "07006001",
+          "start_ref_usfm": "JDG 6:1",
+          "end_ref": "07008035",
+          "end_ref_usfm": "JDG 8:35"
+        },
+        {
+          "start_ref": "07008022",
+          "start_ref_usfm": "JDG 8:22",
+          "end_ref": "07008027",
+          "end_ref_usfm": "JDG 8:27"
+        },
+        {
+          "start_ref": "07008033",
+          "start_ref_usfm": "JDG 8:33",
+          "end_ref": "07009057",
+          "end_ref_usfm": "JDG 9:57"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

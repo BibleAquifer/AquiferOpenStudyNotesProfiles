@@ -1,0 +1,154 @@
+[
+  {
+    "content_id": 500555,
+    "reference_id": 203498,
+    "title": "Stephen",
+    "media_type": "Text",
+    "index_reference": "stephen",
+    "language": "eng",
+    "content": "<p>Stephen was an early Christian whose life was an example for others to follow. Because he spoke bravely about his faith, the Jewish authorities arrested and killed him. He is known as the first Christian martyr. This means he was the first person to die for his faith in Jesus.</p><p>Stephen was one of seven men chosen to help distribute food to needy Christians in Jerusalem (<a href=\"https://ref.ly/Acts6:1-Acts6:6\">Acts 6:1–6</a>). Of the seven men chosen, Stephen was special because he was “full of faith and the Holy Spirit” (<a href=\"https://ref.ly/Acts6:5\">Acts 6:5</a>). Showing God&apos;s grace and power in a special way, he performed miracles (<a href=\"https://ref.ly/Acts6:8\">Acts 6:8</a>). He was brave in telling others about Jesus and was good at explaining and protecting Christian beliefs (<a href=\"https://ref.ly/Acts6:9-Acts6:10\">Acts 6:9–10</a>). Because he spoke so openly about Jesus, the Jewish leaders arrested him. They brought him before their ruling council (called the Sanhedrin) to question him (<a href=\"https://ref.ly/Acts6:9-Acts6:12\">Acts 6:9–12</a>).</p><p>Witnesses accused Stephen of speaking against the holy temple and the law of Moses (<a href=\"https://ref.ly/Acts6:13-Acts6:14\">Acts 6:13–14</a>; compare <a href=\"https://ref.ly/Mark13:2\">Mark 13:2</a>; <a href=\"https://ref.ly/John2:19\">John 2:19</a>; <a href=\"https://ref.ly/John4:21\">4:21</a>). Stephen defended himself before the Jewish ruling council (<a href=\"https://ref.ly/Acts7:1-Acts7:53\">Acts 7:1–53</a>). He talked about Israel&apos;s long history of resisting God and his servants—first Moses and now the Prophet whom Moses had predicted (<a href=\"https://ref.ly/Acts7:51-Acts7:53\">Acts 7:51–53</a>). The Jewish authorities, angry at Stephen&apos;s bold claims, dragged him outside the city and stoned him to death (<a href=\"https://ref.ly/Acts7:54-Acts7:60\">Acts 7:54–60</a>). As he died, Stephen prayed for their forgiveness (<a href=\"https://ref.ly/Acts7:60\">Acts 7:60</a>).</p><p>Stephen&apos;s brave testimony led to the first persecution of early Christians (<a href=\"https://ref.ly/Acts8:1-Acts8:3\">Acts 8:1–3</a>). This persecution caused the Good News to spread further as believers left Jerusalem and shared Jesus&apos;s message wherever they went (<a href=\"https://ref.ly/Acts8:4\">Acts 8:4</a>; <a href=\"https://ref.ly/Acts11:19-Acts11:21\">11:19–21</a>). After Stephen died for his faith, Christians began sharing the good news about Jesus beyond their homeland of Judea.</p><p>Stephen&apos;s life shows us that being a faithful Christian can lead to strong opposition. Speaking boldly for Jesus may be costly (see <a href=\"https://ref.ly/Rev2:10\">Revelation 2:10</a>, <a href=\"https://ref.ly/Rev2:13\">13</a>), but nothing can stop the church from growing (see <a href=\"https://ref.ly/Matt16:18\">Matthew 16:18</a>; <a href=\"https://ref.ly/Acts8:1-Acts8:4\">Acts 8:1–4</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts6:5-Acts8:2\">Acts 6:5–8:2</a>; <a href=\"https://ref.ly/Acts11:19\">11:19</a>; <a href=\"https://ref.ly/Acts22:20\">22:20</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40016018",
+          "start_ref_usfm": "MAT 16:18",
+          "end_ref": "40016018",
+          "end_ref_usfm": "MAT 16:18"
+        },
+        {
+          "start_ref": "41013002",
+          "start_ref_usfm": "MRK 13:2",
+          "end_ref": "41013002",
+          "end_ref_usfm": "MRK 13:2"
+        },
+        {
+          "start_ref": "43002019",
+          "start_ref_usfm": "JHN 2:19",
+          "end_ref": "43002019",
+          "end_ref_usfm": "JHN 2:19"
+        },
+        {
+          "start_ref": "43004021",
+          "start_ref_usfm": "JHN 4:21",
+          "end_ref": "43004021",
+          "end_ref_usfm": "JHN 4:21"
+        },
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006005",
+          "end_ref_usfm": "ACT 6:5"
+        },
+        {
+          "start_ref": "44006008",
+          "start_ref_usfm": "ACT 6:8",
+          "end_ref": "44006008",
+          "end_ref_usfm": "ACT 6:8"
+        },
+        {
+          "start_ref": "44007060",
+          "start_ref_usfm": "ACT 7:60",
+          "end_ref": "44007060",
+          "end_ref_usfm": "ACT 7:60"
+        },
+        {
+          "start_ref": "44008004",
+          "start_ref_usfm": "ACT 8:4",
+          "end_ref": "44008004",
+          "end_ref_usfm": "ACT 8:4"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011019",
+          "end_ref_usfm": "ACT 11:19"
+        },
+        {
+          "start_ref": "44022020",
+          "start_ref_usfm": "ACT 22:20",
+          "end_ref": "44022020",
+          "end_ref_usfm": "ACT 22:20"
+        },
+        {
+          "start_ref": "66002010",
+          "start_ref_usfm": "REV 2:10",
+          "end_ref": "66002010",
+          "end_ref_usfm": "REV 2:10"
+        },
+        {
+          "start_ref": "66002013",
+          "start_ref_usfm": "REV 2:13",
+          "end_ref": "66002013",
+          "end_ref_usfm": "REV 2:13"
+        },
+        {
+          "start_ref": "44006001",
+          "start_ref_usfm": "ACT 6:1",
+          "end_ref": "44006006",
+          "end_ref_usfm": "ACT 6:6"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011021",
+          "end_ref_usfm": "ACT 11:21"
+        },
+        {
+          "start_ref": "44007001",
+          "start_ref_usfm": "ACT 7:1",
+          "end_ref": "44007053",
+          "end_ref_usfm": "ACT 7:53"
+        },
+        {
+          "start_ref": "44007054",
+          "start_ref_usfm": "ACT 7:54",
+          "end_ref": "44007060",
+          "end_ref_usfm": "ACT 7:60"
+        },
+        {
+          "start_ref": "44008001",
+          "start_ref_usfm": "ACT 8:1",
+          "end_ref": "44008003",
+          "end_ref_usfm": "ACT 8:3"
+        },
+        {
+          "start_ref": "44008001",
+          "start_ref_usfm": "ACT 8:1",
+          "end_ref": "44008004",
+          "end_ref_usfm": "ACT 8:4"
+        },
+        {
+          "start_ref": "44007051",
+          "start_ref_usfm": "ACT 7:51",
+          "end_ref": "44007053",
+          "end_ref_usfm": "ACT 7:53"
+        },
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006010",
+          "end_ref_usfm": "ACT 6:10"
+        },
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006012",
+          "end_ref_usfm": "ACT 6:12"
+        },
+        {
+          "start_ref": "44006013",
+          "start_ref_usfm": "ACT 6:13",
+          "end_ref": "44006014",
+          "end_ref_usfm": "ACT 6:14"
+        },
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44008002",
+          "end_ref_usfm": "ACT 8:2"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

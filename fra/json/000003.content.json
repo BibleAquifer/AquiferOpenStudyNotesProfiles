@@ -1,0 +1,154 @@
+[
+  {
+    "content_id": 668895,
+    "reference_id": 203437,
+    "title": "Abischaï",
+    "media_type": "Text",
+    "index_reference": "abischaï",
+    "language": "fra",
+    "content": "<p>Abischaï était un redoutable guerrier et un chef éminent dans l’armée de David. Neveu du roi, il était le fils de Tseruja, la sœur de David, et le frère de Joab et Asaël (<a href=\"https://ref.ly/1Chr2:13-1Chr2:16\">1Ch 2.13–16</a>).</p><p>D’une loyauté indéfectible envers David, Abischaï se montrait souvent prompt à la violence contre ses ennemis. Lorsque Dieu permit à David et Abischaï de pénétrer dans le camp de Saül, endormi avec ses hommes, Abischaï voulut en profiter pour tuer le roi déchu. Mais David l’en empêcha. Plus tard, lors de la révolte d’Absalom, alors que David quittait Jérusalem, Schimeï, un membre de la famille de Saül, l’accabla d’insultes et de malédictions. Outré, Abischaï demanda la permission de l’exécuter (<a href=\"https://ref.ly/2Sam16:5-2Sam16:9\">2S 16.5–9</a>), mais David refusa à deux reprises (<a href=\"https://ref.ly/2Sam16:10-2Sam16:13\">2S 16.10–13</a> ; <a href=\"https://ref.ly/2Sam19:18-2Sam19:23\">19.18–23</a>). Le désir de vengeance d&apos;Abischaï s’était déjà manifesté auparavant : après qu’Abner, le général de Saül, eut tué son frère Asaël en légitime défense, Abischaï et Joab l’assassinèrent pour le venger (<a href=\"https://ref.ly/2Sam3:22-2Sam3:30\">2S 3.22–30</a>).</p><p>Abischaï se distinguait par son courage et son habileté au combat. Il tua trois cents soldats en une seule bataille, exploit qui lui valut de devenir le chef des trois, une élite de guerriers d’exception, se plaçant juste en dessous des légendaires trois premiers (<a href=\"https://ref.ly/1Chr11:20-1Chr11:21\">1Ch 11.20–21</a>). Abischaï a également remporté une grande victoire sur les Édomites (<a href=\"https://ref.ly/1Chr18:12-1Chr18:13\">1Ch 18.12–13</a>). Lors d’un affrontement contre les Philistins, il sauva la vie de David en terrassant le géant Jischbi-Benob&nbsp;(<a href=\"https://ref.ly/2Sam21:15-2Sam21:17\">2S 21.15–17</a>). Chef respecté, il mena l’armée à plusieurs reprises et, lors d’une campagne militaire, commanda une division tandis que son frère Joab dirigeait l’autre (<a href=\"https://ref.ly/2Sam10:1-2Sam10:19\">2S 10.1–19</a> ; <a href=\"https://ref.ly/2Sam18:1-2Sam18:18\">18.1–18</a>). Ensemble, ils remportèrent de nombreuses victoires militaires.</p><p>Si les actions de Joab finirent par lui coûter la vie, le récit ne rapporte pas de fin tragique concernant Abischaï. Tout comme son frère, c&apos;était un chef militaire violent et impulsif.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/1Sam26:6-1Sam26:12\">1 Samuel 26.6–12</a> ; <a href=\"https://ref.ly/2Sam2:18\">2 Samuel 2.18</a> ; <a href=\"https://ref.ly/2Sam3:30\">3.30</a>, <a href=\"https://ref.ly/2Sam3:39\">39</a> ; <a href=\"https://ref.ly/2Sam10:10-2Sam10:14\">10.10–14</a> ; <a href=\"https://ref.ly/2Sam16:9-2Sam16:12\">16.9–12</a> ; <a href=\"https://ref.ly/2Sam18:1-2Sam18:8\">18.1–8</a> ; <a href=\"https://ref.ly/2Sam19:21-2Sam19:23\">19.21–23</a> ; <a href=\"https://ref.ly/2Sam20:6-2Sam20:10\">20.6–10</a> ; <a href=\"https://ref.ly/2Sam21:17\">21.17</a> ; <a href=\"https://ref.ly/2Sam23:18-2Sam23:19\">23.18–19 </a> ; <a href=\"https://ref.ly/1Chr2:16\">1 Chroniques 2.16</a> ; <a href=\"https://ref.ly/1Chr11:20-1Chr11:21\">11.20–21</a> ; <a href=\"https://ref.ly/1Chr18:12-1Chr18:13\">18.12–13</a> ; <a href=\"https://ref.ly/1Chr19:11-1Chr19:15\">19.11–15</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10002018",
+          "start_ref_usfm": "2SA 2:18",
+          "end_ref": "10002018",
+          "end_ref_usfm": "2SA 2:18"
+        },
+        {
+          "start_ref": "10003030",
+          "start_ref_usfm": "2SA 3:30",
+          "end_ref": "10003030",
+          "end_ref_usfm": "2SA 3:30"
+        },
+        {
+          "start_ref": "10003039",
+          "start_ref_usfm": "2SA 3:39",
+          "end_ref": "10003039",
+          "end_ref_usfm": "2SA 3:39"
+        },
+        {
+          "start_ref": "10021017",
+          "start_ref_usfm": "2SA 21:17",
+          "end_ref": "10021017",
+          "end_ref_usfm": "2SA 21:17"
+        },
+        {
+          "start_ref": "13002016",
+          "start_ref_usfm": "1CH 2:16",
+          "end_ref": "13002016",
+          "end_ref_usfm": "1CH 2:16"
+        },
+        {
+          "start_ref": "09026006",
+          "start_ref_usfm": "1SA 26:6",
+          "end_ref": "09026012",
+          "end_ref_usfm": "1SA 26:12"
+        },
+        {
+          "start_ref": "13018012",
+          "start_ref_usfm": "1CH 18:12",
+          "end_ref": "13018013",
+          "end_ref_usfm": "1CH 18:13"
+        },
+        {
+          "start_ref": "10019021",
+          "start_ref_usfm": "2SA 19:21",
+          "end_ref": "10019023",
+          "end_ref_usfm": "2SA 19:23"
+        },
+        {
+          "start_ref": "10021015",
+          "start_ref_usfm": "2SA 21:15",
+          "end_ref": "10021017",
+          "end_ref_usfm": "2SA 21:17"
+        },
+        {
+          "start_ref": "10023018",
+          "start_ref_usfm": "2SA 23:18",
+          "end_ref": "10023019",
+          "end_ref_usfm": "2SA 23:19"
+        },
+        {
+          "start_ref": "13011020",
+          "start_ref_usfm": "1CH 11:20",
+          "end_ref": "13011021",
+          "end_ref_usfm": "1CH 11:21"
+        },
+        {
+          "start_ref": "10018001",
+          "start_ref_usfm": "2SA 18:1",
+          "end_ref": "10018018",
+          "end_ref_usfm": "2SA 18:18"
+        },
+        {
+          "start_ref": "10010001",
+          "start_ref_usfm": "2SA 10:1",
+          "end_ref": "10010019",
+          "end_ref_usfm": "2SA 10:19"
+        },
+        {
+          "start_ref": "10003022",
+          "start_ref_usfm": "2SA 3:22",
+          "end_ref": "10003030",
+          "end_ref_usfm": "2SA 3:30"
+        },
+        {
+          "start_ref": "13002013",
+          "start_ref_usfm": "1CH 2:13",
+          "end_ref": "13002016",
+          "end_ref_usfm": "1CH 2:16"
+        },
+        {
+          "start_ref": "10016005",
+          "start_ref_usfm": "2SA 16:5",
+          "end_ref": "10016009",
+          "end_ref_usfm": "2SA 16:9"
+        },
+        {
+          "start_ref": "10016010",
+          "start_ref_usfm": "2SA 16:10",
+          "end_ref": "10016013",
+          "end_ref_usfm": "2SA 16:13"
+        },
+        {
+          "start_ref": "10019018",
+          "start_ref_usfm": "2SA 19:18",
+          "end_ref": "10019023",
+          "end_ref_usfm": "2SA 19:23"
+        },
+        {
+          "start_ref": "10010010",
+          "start_ref_usfm": "2SA 10:10",
+          "end_ref": "10010014",
+          "end_ref_usfm": "2SA 10:14"
+        },
+        {
+          "start_ref": "10016009",
+          "start_ref_usfm": "2SA 16:9",
+          "end_ref": "10016012",
+          "end_ref_usfm": "2SA 16:12"
+        },
+        {
+          "start_ref": "10018001",
+          "start_ref_usfm": "2SA 18:1",
+          "end_ref": "10018008",
+          "end_ref_usfm": "2SA 18:8"
+        },
+        {
+          "start_ref": "10020006",
+          "start_ref_usfm": "2SA 20:6",
+          "end_ref": "10020010",
+          "end_ref_usfm": "2SA 20:10"
+        },
+        {
+          "start_ref": "13019011",
+          "start_ref_usfm": "1CH 19:11",
+          "end_ref": "13019015",
+          "end_ref_usfm": "1CH 19:15"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

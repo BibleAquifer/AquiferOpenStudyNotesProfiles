@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 658344,
+    "reference_id": 203419,
+    "title": "Rahab",
+    "media_type": "Text",
+    "index_reference": "rahab",
+    "language": "spa",
+    "content": "<p>Rahab fue una prostituta y una mujer de fe. Ella continúa siendo un misterio incluso cientos de años después de su breve papel en la historia de Israel. Creyó en el Dios de Israel y ayudó a dos exploradores israelitas que visitaron su casa. Gracias a esto, su vida fue perdonada cuando Israel capturó Jericó.</p><p>La casa de Rahab estaba en la muralla de la ciudad, por lo que los exploradores de Josué se dirigieron allí al entrar en Jericó. Rahab podría haber sido una posadera o una prostituta. Otros documentos de la época del Antiguo Testamento mencionan a mujeres que desempeñaban ambos roles. Si la casa de Rahab era una posada, habría sido un lugar lógico para visitar, ya que los exploradores de Josué podrían estar esperando evitar atención no deseada en ese lugar.</p><p>El acuerdo de Rahab con los exploradores fue una contundente declaración de fe en Jehová, el Dios de Israel (<a href=\"https://ref.ly/Josh2:8-Josh2:21\">Jos 2:8–21</a>). Como cananea, Rahab probablemente seguía el culto de fertilidad de Baal, el dios de las tormentas y la lluvia, y su compañera Asera, la diosa de la tierra. Sin embargo, después de escuchar sobre el avance de Israel hacia su tierra, Rahab se dio cuenta de que Jehová, el Dios de Israel, es &quot;Dios arriba en los cielos y abajo en la tierra&quot; (<a href=\"https://ref.ly/Josh2:11\">Jos 2:11</a>).</p><p>Después de que Josué conquistó Jericó, Rahab se casó con Salmón de la tribu de Judá. Ella tuvo un hijo llamado Booz (<a href=\"https://ref.ly/Ruth4:21\">Rt 4:21,</a> <a href=\"https://ref.ly/Matt1:5\">Mt 1:5</a>). Rahab se convirtió en la suegra de Rut, otra mujer extranjera que se unió a Israel. Rahab también fue la tatarabuela del rey David. Se la menciona junto a Moisés, David, Sansón y Samuel como un ejemplo de fe demostrada a través de buenas obras (<a href=\"https://ref.ly/Heb11:31\">Hb 11:31,</a> <a href=\"https://ref.ly/Jas2:25\">St 2:25</a>). Rahab es una de las cinco mujeres, incluyendo a María, mencionadas en la genealogía de Jesús en Mateo, el árbol genealógico humano del Hijo de Dios (<a href=\"https://ref.ly/Matt1:5\">Mt 1:5</a>). Rahab ilustra el amplio alcance de la gracia de Dios.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Josh2:1-Josh2:21\">Josué 2:1–21;</a> <a href=\"https://ref.ly/Josh6:17\">6:17</a>,<a href=\"https://ref.ly/Josh6:22-Josh6:25\">22–25;</a> <a href=\"https://ref.ly/Matt1:5\">Mateo 1:5;</a> <a href=\"https://ref.ly/Heb11:31\">Hebreos 11:31;</a> <a href=\"https://ref.ly/Jas2:25\">Santiago 2:25</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06002011",
+          "start_ref_usfm": "JOS 2:11",
+          "end_ref": "06002011",
+          "end_ref_usfm": "JOS 2:11"
+        },
+        {
+          "start_ref": "06006017",
+          "start_ref_usfm": "JOS 6:17",
+          "end_ref": "06006017",
+          "end_ref_usfm": "JOS 6:17"
+        },
+        {
+          "start_ref": "08004021",
+          "start_ref_usfm": "RUT 4:21",
+          "end_ref": "08004021",
+          "end_ref_usfm": "RUT 4:21"
+        },
+        {
+          "start_ref": "40001005",
+          "start_ref_usfm": "MAT 1:5",
+          "end_ref": "40001005",
+          "end_ref_usfm": "MAT 1:5"
+        },
+        {
+          "start_ref": "58011031",
+          "start_ref_usfm": "HEB 11:31",
+          "end_ref": "58011031",
+          "end_ref_usfm": "HEB 11:31"
+        },
+        {
+          "start_ref": "59002025",
+          "start_ref_usfm": "JAS 2:25",
+          "end_ref": "59002025",
+          "end_ref_usfm": "JAS 2:25"
+        },
+        {
+          "start_ref": "06002008",
+          "start_ref_usfm": "JOS 2:8",
+          "end_ref": "06002021",
+          "end_ref_usfm": "JOS 2:21"
+        },
+        {
+          "start_ref": "06002001",
+          "start_ref_usfm": "JOS 2:1",
+          "end_ref": "06002021",
+          "end_ref_usfm": "JOS 2:21"
+        },
+        {
+          "start_ref": "06006022",
+          "start_ref_usfm": "JOS 6:22",
+          "end_ref": "06006025",
+          "end_ref_usfm": "JOS 6:25"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

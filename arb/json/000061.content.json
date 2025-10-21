@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 726033,
+    "reference_id": 203404,
+    "title": "رَاحِيل",
+    "media_type": "Text",
+    "index_reference": "رَاحِيل",
+    "language": "arb",
+    "content": "<p>راحيل هي الابنة الصغرى للابان. كانت جميلة، وقد أحبها يعقوب أكثر من زوجاته الأخريات. التقى يعقوب براحيل أول مرة عندما وصل إلى فَدَّان أَرَام في حاران. كما ساعدها على دحرجة الحجر من على فم البئر وسقى غنم أبيها (<a href=\"https://ref.ly/Gen29:10\">تكوين 29:10</a>). وافق يعقوب على العمل سبع سنوات لدى لابان ليتزوج براحيل. مضت تلك الفترة وكأنها مجرد أيام معدودة لأنه أحبّها كثيرًا.</p><p>احتال لابان على يعقوب وزوَّجه ليئة، ابنته الكبرى التي كانت أقل جمالًا، قبل أن يعطيه راحيل زوجة له. لم تتمكن راحيل من إنجاب الأولاد في البداية على عكس ليئة التي رزقت بأولاد كثيرين(<a href=\"https://ref.ly/Gen29:31\">تكوين 29:31</a>؛ <a href=\"https://ref.ly/Gen30:1\">30:1</a>). أعطت راحيل خادمتها بلهة ليعقوب لتنجب له أطفالًا نيابة عنها، فولدت له دان ونفتالي (<a href=\"https://ref.ly/Gen30:3-Gen30:8\">تكوين 30:3–8</a>). في النهاية، صارت راحيل حُبلى وولدت يُوسُف (<a href=\"https://ref.ly/Gen30:22-Gen30:24\">تكوين 30:22–24</a>). بعد ذلك بفترة وجيزة، غادر يعقوب حاران مع زوجاته وأبنائه وممتلكاته.</p><p>ما بين بيت إيل وبيت لحم، ماتت راحيل في أثناء ولادتها لبنيامين (<a href=\"https://ref.ly/Gen35:16-Gen35:20\">تكوين 35:16–20</a>). أقام يعقوب عمودًا فوق قبرها، وظل مَعْلَمًا بارزًا وتاريخيًا حتى زمن شاول (<a href=\"https://ref.ly/1Sam10:2\">1صموئيل 10:2</a>). راحيل وليئة تتمتعان بتقدير كبير لدورهما في بناء بيت إسرائيل (<a href=\"https://ref.ly/Ruth4:11\">راعوث 4:11</a>). وفي <a href=\"https://ref.ly/Jer31:15\">إرميا 31:15</a>، تُصوّر راحيل وهي تبكي على أولادها الذين أُخذوا إلى السبي. ويشير متّى أيضًا إلى كلمات إرميا في واقعة قتل هيرودس للرضع الذكور في كل تخوم بيت لحم بعد وقت قصير من ولادة يسوع (<a href=\"https://ref.ly/Matt2:16-Matt2:18\">متّى 2:16–18</a>). </p><p><u>مقاطع كتابية لدراسة أعمق</u></p><p><a href=\"https://ref.ly/Gen29:6-Gen30:24\">تكوين 29:6–30:24</a>؛ <a href=\"https://ref.ly/Gen31:4-Gen31:19\">31:4–19</a>، <a href=\"https://ref.ly/Gen31:31-Gen31:35\">31–35</a>؛ <a href=\"https://ref.ly/Gen33:1-Gen33:7\">33:1–7</a>؛ <a href=\"https://ref.ly/Gen35:16-Gen35:20\">35:16–20</a>؛ <a href=\"https://ref.ly/Gen46:19-Gen46:22\">46:19–22</a>؛ <a href=\"https://ref.ly/Gen48:7\">48:7</a>؛ <a href=\"https://ref.ly/Ruth4:11\">راعوث 4:11</a>؛ <a href=\"https://ref.ly/1Sam10:2\">1صموئيل 10:2</a>؛ <a href=\"https://ref.ly/Jer31:15\">إرميا 31:15</a>؛ <a href=\"https://ref.ly/Matt2:18\">متى 2:18.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01029010",
+          "start_ref_usfm": "GEN 29:10",
+          "end_ref": "01029010",
+          "end_ref_usfm": "GEN 29:10"
+        },
+        {
+          "start_ref": "01029031",
+          "start_ref_usfm": "GEN 29:31",
+          "end_ref": "01029031",
+          "end_ref_usfm": "GEN 29:31"
+        },
+        {
+          "start_ref": "01030001",
+          "start_ref_usfm": "GEN 30:1",
+          "end_ref": "01030001",
+          "end_ref_usfm": "GEN 30:1"
+        },
+        {
+          "start_ref": "01048007",
+          "start_ref_usfm": "GEN 48:7",
+          "end_ref": "01048007",
+          "end_ref_usfm": "GEN 48:7"
+        },
+        {
+          "start_ref": "08004011",
+          "start_ref_usfm": "RUT 4:11",
+          "end_ref": "08004011",
+          "end_ref_usfm": "RUT 4:11"
+        },
+        {
+          "start_ref": "09010002",
+          "start_ref_usfm": "1SA 10:2",
+          "end_ref": "09010002",
+          "end_ref_usfm": "1SA 10:2"
+        },
+        {
+          "start_ref": "24031015",
+          "start_ref_usfm": "JER 31:15",
+          "end_ref": "24031015",
+          "end_ref_usfm": "JER 31:15"
+        },
+        {
+          "start_ref": "40002018",
+          "start_ref_usfm": "MAT 2:18",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        },
+        {
+          "start_ref": "01035016",
+          "start_ref_usfm": "GEN 35:16",
+          "end_ref": "01035020",
+          "end_ref_usfm": "GEN 35:20"
+        },
+        {
+          "start_ref": "01030003",
+          "start_ref_usfm": "GEN 30:3",
+          "end_ref": "01030008",
+          "end_ref_usfm": "GEN 30:8"
+        },
+        {
+          "start_ref": "40002016",
+          "start_ref_usfm": "MAT 2:16",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        },
+        {
+          "start_ref": "01030022",
+          "start_ref_usfm": "GEN 30:22",
+          "end_ref": "01030024",
+          "end_ref_usfm": "GEN 30:24"
+        },
+        {
+          "start_ref": "01029006",
+          "start_ref_usfm": "GEN 29:6",
+          "end_ref": "01030024",
+          "end_ref_usfm": "GEN 30:24"
+        },
+        {
+          "start_ref": "01031004",
+          "start_ref_usfm": "GEN 31:4",
+          "end_ref": "01031019",
+          "end_ref_usfm": "GEN 31:19"
+        },
+        {
+          "start_ref": "01031031",
+          "start_ref_usfm": "GEN 31:31",
+          "end_ref": "01031035",
+          "end_ref_usfm": "GEN 31:35"
+        },
+        {
+          "start_ref": "01033001",
+          "start_ref_usfm": "GEN 33:1",
+          "end_ref": "01033007",
+          "end_ref_usfm": "GEN 33:7"
+        },
+        {
+          "start_ref": "01046019",
+          "start_ref_usfm": "GEN 46:19",
+          "end_ref": "01046022",
+          "end_ref_usfm": "GEN 46:22"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

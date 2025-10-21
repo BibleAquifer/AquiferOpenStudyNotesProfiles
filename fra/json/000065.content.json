@@ -1,0 +1,124 @@
+[
+  {
+    "content_id": 668913,
+    "reference_id": 203455,
+    "title": "Josaphat",
+    "media_type": "Text",
+    "index_reference": "josaphat",
+    "language": "fra",
+    "content": "<p>Josaphat devint le quatrième roi de Juda après son père Asa, qui régna de 872 à 848 av. J.‑C. Comme Ézéchias et Josias, Josaphat fit confiance au Seigneur tout au long de sa vie. Il s’efforça de supprimer la plupart des cultes païens d’Israël (<a href=\"https://ref.ly/2Chr17:6\">2Chr 17.6</a>).</p><p>Josaphat a poursuivi les réformes religieuses de son père Asa, mais a modifié sa politique étrangère. Il a mis fin à la guerre de Juda avec Israël concernant leurs frontières (voir <a href=\"https://ref.ly/1Kgs22:2\">1R&nbsp;22.2</a>). Il s’est allié avec Achab. Pour renforcer cette alliance, il a arrangé le mariage de son fils Joram avec la fille d’Achab, Athalie (<a href=\"https://ref.ly/2Chr18:1-2Chr18:2\">2Chr&nbsp;18.1–2</a>&nbsp;; <a href=\"https://ref.ly/2Kgs8:18\">2R&nbsp;8.18</a>). Il a également soutenu le nord dans les guerres contre les Araméens et les Moabites (<a href=\"https://ref.ly/2Chr18:3-2Chr18:34\">2Chr 18.3–34</a>&nbsp;; <a href=\"https://ref.ly/1Kgs22:1-1Kgs22:53\">1R&nbsp;22</a>&nbsp;; <a href=\"https://ref.ly/2Kgs3:4-2Kgs3:27\">2R&nbsp;3.4–27</a>). Le prophète Jéhu a critiqué Josaphat pour son alliance imprudente avec Israël (<a href=\"https://ref.ly/2Chr19:1-2Chr19:3\">2Chr 19.1–3</a>). Cela a conduit son fils Joram à être influencé par Achab et Jézabel. Joram et son fils Achazia ont poussé Juda vers l’adoration des idoles.</p><p>Durant son règne, Josaphat a maintenu le culte du Seigneur pur. Il a fermé les temples de prostitution (<a href=\"https://ref.ly/1Kgs22:46\">1R&nbsp;22.46</a>) et a envoyé des enseignants de la loi de Dieu à travers le pays (<a href=\"https://ref.ly/2Chr17:7-2Chr17:9\">2Chr 17.7–9</a>). Il a également mis en place un système de juges et leur a dit d’agir en tant que représentants du Seigneur afin que la justice prévale (<a href=\"https://ref.ly/2Chr19:4-2Chr19:7\">2Chr 19.4–7</a>). Il a nommé des Lévites, des prêtres et des chefs de famille pour traiter les affaires religieuses et résoudre les différends entre les citoyens (<a href=\"https://ref.ly/2Chr19:8-2Chr19:10\">2Chr 19.8–10</a>).</p><p>Avant de partir en bataille, Josaphat insista pour entendre un véritable prophète du Seigneur. Dans l’une des descriptions les plus puissantes de la guerre dans l’Ancien Testament, Josaphat s’adressa à l’armée avant d’entrer en bataille. En conséquence, Dieu fit en sorte que les armées d’Ammon, de Moab et leurs alliés se retournent les unes contre les autres (<a href=\"https://ref.ly/2Chr20:1-2Chr20:37\">2Ch&nbsp;20</a>).</p><p>Josaphat est mort à environ soixante ans et a été enterré à Jérusalem. Son fils Joram est devenu roi de Juda à sa suite (<a href=\"https://ref.ly/2Chr21:1\">2Ch&nbsp;21.1</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/1Kgs15:24\">1R&nbsp;15.24</a>&nbsp;; <a href=\"https://ref.ly/1Kgs22:1-1Kgs22:50\">22.1–50</a>&nbsp;; <a href=\"https://ref.ly/2Kgs3:1-2Kgs3:27\">2R&nbsp;3.1–27</a>&nbsp;; <a href=\"https://ref.ly/2Chr17:1-2Chr21:1\">2Chr&nbsp;17.1–21.1</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11015024",
+          "start_ref_usfm": "1KI 15:24",
+          "end_ref": "11015024",
+          "end_ref_usfm": "1KI 15:24"
+        },
+        {
+          "start_ref": "11022002",
+          "start_ref_usfm": "1KI 22:2",
+          "end_ref": "11022002",
+          "end_ref_usfm": "1KI 22:2"
+        },
+        {
+          "start_ref": "11022046",
+          "start_ref_usfm": "1KI 22:46",
+          "end_ref": "11022046",
+          "end_ref_usfm": "1KI 22:46"
+        },
+        {
+          "start_ref": "12008018",
+          "start_ref_usfm": "2KI 8:18",
+          "end_ref": "12008018",
+          "end_ref_usfm": "2KI 8:18"
+        },
+        {
+          "start_ref": "14017006",
+          "start_ref_usfm": "2CH 17:6",
+          "end_ref": "14017006",
+          "end_ref_usfm": "2CH 17:6"
+        },
+        {
+          "start_ref": "14021001",
+          "start_ref_usfm": "2CH 21:1",
+          "end_ref": "14021001",
+          "end_ref_usfm": "2CH 21:1"
+        },
+        {
+          "start_ref": "12003004",
+          "start_ref_usfm": "2KI 3:4",
+          "end_ref": "12003027",
+          "end_ref_usfm": "2KI 3:27"
+        },
+        {
+          "start_ref": "12003001",
+          "start_ref_usfm": "2KI 3:1",
+          "end_ref": "12003027",
+          "end_ref_usfm": "2KI 3:27"
+        },
+        {
+          "start_ref": "11022001",
+          "start_ref_usfm": "1KI 22:1",
+          "end_ref": "11022053",
+          "end_ref_usfm": "1KI 22:53"
+        },
+        {
+          "start_ref": "14017007",
+          "start_ref_usfm": "2CH 17:7",
+          "end_ref": "14017009",
+          "end_ref_usfm": "2CH 17:9"
+        },
+        {
+          "start_ref": "14018001",
+          "start_ref_usfm": "2CH 18:1",
+          "end_ref": "14018002",
+          "end_ref_usfm": "2CH 18:2"
+        },
+        {
+          "start_ref": "14019001",
+          "start_ref_usfm": "2CH 19:1",
+          "end_ref": "14019003",
+          "end_ref_usfm": "2CH 19:3"
+        },
+        {
+          "start_ref": "14019008",
+          "start_ref_usfm": "2CH 19:8",
+          "end_ref": "14019010",
+          "end_ref_usfm": "2CH 19:10"
+        },
+        {
+          "start_ref": "14020001",
+          "start_ref_usfm": "2CH 20:1",
+          "end_ref": "14020037",
+          "end_ref_usfm": "2CH 20:37"
+        },
+        {
+          "start_ref": "14018003",
+          "start_ref_usfm": "2CH 18:3",
+          "end_ref": "14018034",
+          "end_ref_usfm": "2CH 18:34"
+        },
+        {
+          "start_ref": "14019004",
+          "start_ref_usfm": "2CH 19:4",
+          "end_ref": "14019007",
+          "end_ref_usfm": "2CH 19:7"
+        },
+        {
+          "start_ref": "11022001",
+          "start_ref_usfm": "1KI 22:1",
+          "end_ref": "11022050",
+          "end_ref_usfm": "1KI 22:50"
+        },
+        {
+          "start_ref": "14017001",
+          "start_ref_usfm": "2CH 17:1",
+          "end_ref": "14021001",
+          "end_ref_usfm": "2CH 21:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

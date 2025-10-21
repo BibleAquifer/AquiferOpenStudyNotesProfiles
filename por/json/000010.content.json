@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 658473,
+    "reference_id": 203396,
+    "title": "Agar",
+    "media_type": "Text",
+    "index_reference": "agar",
+    "language": "por",
+    "content": "<p>Agar era a serva egípcia de Sarai, esposa de Abrão. Quando Deus disse a Abrão para deixar a Mesopotâmia, Ele prometeu a Abrão muitos descendentes e uma nova terra (<a href=\"https://ref.ly/Gen12:2\">Gn 12.2</a>,<a href=\"https://ref.ly/Gen12:7\">7</a>). Após dez anos em Canaã sem filhos, Sarai seguiu um costume mesopotâmico. Ela deu Agar a Abrão como concubina (esposa secundária). Qualquer filho dessa união era considerado filho da esposa (veja <a href=\"https://ref.ly/Gen30:1-Gen30:8\">Gn 30.1–8</a>).</p><p>Agar ficou grávida e começou a desrespeitar Sarai. Sarai reagiu tratando-a com dureza, então Agar fugiu para o deserto (<a href=\"https://ref.ly/Gen16:4-Gen16:6\">Gn 16.4–6</a>). Um anjo do Senhor apareceu a ela em um poço no deserto e disse-lhe para voltar à casa de Abrão e obedecer a Sarai.</p><p>Agar deu à luz um filho chamado Ismael quando Abrão tinha oitenta e seis anos (<a href=\"https://ref.ly/Gen16:1-Gen16:16\">Gn 16.1–16</a>).</p><p>Catorze anos depois, Deus deu a Abraão e Sara seu filho prometido, Isaque. Quando Isaque foi desmamado, por volta dos três anos de idade, eles realizaram uma festa tradicional. Durante o evento, Ismael zombou de Isaque (<a href=\"https://ref.ly/Gen21:9\">Gn 21.9</a>), então Sara insistiu que Abraão mandasse Agar e Ismael embora. Deus apoiou essa decisão (<a href=\"https://ref.ly/Gen21:12\">Gn 21.12</a>), então Agar e Ismael partiram para vagar no deserto de Berseba. Quando a água deles acabou, Deus os salvou milagrosamente e prometeu a Agar que Ismael se tornaria o pai de uma grande nação (<a href=\"https://ref.ly/Gen21:17-Gen21:19\">Gn 21.17–19</a>).</p><p>Paulo usou uma analogia em <a href=\"https://ref.ly/Gal4:22-Gal4:31\">Gálatas 4.22–31</a> onde Agar simboliza o Monte Sinai, o lugar da antiga aliança (o acordo especial de Deus com os israelitas). Sara simboliza a Jerusalém celestial, a comunidade daqueles que obtêm salvação através da fé em Cristo. Assim como Isaque foi filho de Abraão através da fé na promessa de Deus, os cristãos que são livres da lei são filhos espirituais de Sara.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen16:1-Gen16:16\">Gênesis 16.1–16</a>; <a href=\"https://ref.ly/Gen21:9-Gen21:21\">21.9–21</a>; <a href=\"https://ref.ly/Gen25:12\">25.12</a>; <a href=\"https://ref.ly/Gal4:22-Gal4:31\">Gálatas 4.22–31</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012002",
+          "start_ref_usfm": "GEN 12:2",
+          "end_ref": "01012002",
+          "end_ref_usfm": "GEN 12:2"
+        },
+        {
+          "start_ref": "01012007",
+          "start_ref_usfm": "GEN 12:7",
+          "end_ref": "01012007",
+          "end_ref_usfm": "GEN 12:7"
+        },
+        {
+          "start_ref": "01021009",
+          "start_ref_usfm": "GEN 21:9",
+          "end_ref": "01021009",
+          "end_ref_usfm": "GEN 21:9"
+        },
+        {
+          "start_ref": "01021012",
+          "start_ref_usfm": "GEN 21:12",
+          "end_ref": "01021012",
+          "end_ref_usfm": "GEN 21:12"
+        },
+        {
+          "start_ref": "01025012",
+          "start_ref_usfm": "GEN 25:12",
+          "end_ref": "01025012",
+          "end_ref_usfm": "GEN 25:12"
+        },
+        {
+          "start_ref": "01016001",
+          "start_ref_usfm": "GEN 16:1",
+          "end_ref": "01016016",
+          "end_ref_usfm": "GEN 16:16"
+        },
+        {
+          "start_ref": "01021009",
+          "start_ref_usfm": "GEN 21:9",
+          "end_ref": "01021021",
+          "end_ref_usfm": "GEN 21:21"
+        },
+        {
+          "start_ref": "01021017",
+          "start_ref_usfm": "GEN 21:17",
+          "end_ref": "01021019",
+          "end_ref_usfm": "GEN 21:19"
+        },
+        {
+          "start_ref": "48004022",
+          "start_ref_usfm": "GAL 4:22",
+          "end_ref": "48004031",
+          "end_ref_usfm": "GAL 4:31"
+        },
+        {
+          "start_ref": "01030001",
+          "start_ref_usfm": "GEN 30:1",
+          "end_ref": "01030008",
+          "end_ref_usfm": "GEN 30:8"
+        },
+        {
+          "start_ref": "01016004",
+          "start_ref_usfm": "GEN 16:4",
+          "end_ref": "01016006",
+          "end_ref_usfm": "GEN 16:6"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

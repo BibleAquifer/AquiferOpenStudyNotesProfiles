@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 668968,
+    "reference_id": 203510,
+    "title": "L'Église de Rome",
+    "media_type": "Text",
+    "index_reference": "l'église de rome",
+    "language": "fra",
+    "content": "<p>Les détails exacts de la fondation de l&apos;église à Rome restent obscurs. La ville comptait une importante population juive, et certains de ces Juifs, présents à Jérusalem lors de la Pentecôte (<a href=\"https://ref.ly/Acts2:10\">Ac 2.10</a>), auraient été convertis au christianisme et auraient ramené le message de Jésus à Rome. Cela aurait ainsi donné naissance à une communauté chrétienne au sein des synagogues romaines.</p><p>Il est peu probable que Pierre ait lui-même fondé l&apos;église de Rome, ou qu&apos;il y ait été au moment où Paul écrivit sa lettre aux chrétiens romains vers 57 après J.-C. Si c&apos;était le cas, Paul l&apos;aurait sûrement mentionné dans ses lettres. Ainsi, Paul rédigea cette lettre afin d&apos;offrir des conseils apostoliques à l&apos;église de Rome, qui, en l&apos;absence d&apos;une direction directe d&apos;un apôtre, devait être guidée comme celles qu&apos;il avait fondées (par exemple à Corinthe et en Galatie) ou comme celles qui ne bénéficiaient pas d&apos;une direction apostolique directe, telles que Colosses et Rome.</p><p>Comme en d&apos;autres endroits, il est probable que les Juifs non-chrétiens de Rome expulsèrent les Juifs chrétiens des synagogues, de sorte que lorsque Paul écrivit aux Romains, les croyants se réunissaient au sein de maisons privées (<a href=\"https://ref.ly/Rom16:5\">Rm 16.5</a>, <a href=\"https://ref.ly/Rom16:10-Rom16:11\">10–11</a>, <a href=\"https://ref.ly/Rom16:15\">15</a>). Il n&apos;y avait pas de bâtiment central et on ne sait donc pas si tous les croyants de Rome parvenaient à se réunir en un même lieu.</p><p>Lorsque Claude expulsa les Juifs de Rome vers 49 après J.-C., des chrétiens d&apos;origine juive tels que Priscille et Aquilas durent également partir (<a href=\"https://ref.ly/Acts18:2\">Ac 18.2</a>). Ce départ contribua à ce que l&apos;église de Rome se dirige peu à peu vers les païens. Lorsque les Juifs revinrent peu après la mort de Claude en 54 après J.-C., des questions (voire des conflits) émergèrent entre les chrétiens d&apos;origine juive et d&apos;origine païenne. Paul pourrait avoir écrit sa lettre aux Romains pour discuter de ces problèmes pouvant émerger dans un tel groupe mixte.</p><p>Comme le montre <a href=\"https://ref.ly/Rom16:1-Rom16:27\">Rm 16</a>, Paul avait déjà tissé de nombreuses amitiés dans l&apos;église de Rome. Au printemps de l&apos;an 60 après J.-C., environ deux ans après la rédaction de sa lettre, il eut enfin l&apos;occasion de se rendre à Rome, un désir qu&apos;il exprimait fréquemment&nbsp; (<a href=\"https://ref.ly/Acts19:21\">Ac 19.21</a> ; <a href=\"https://ref.ly/Rom1:13-Rom1:15\">Rm 1.13–15</a>). Il y demeura pendant deux ans, vivant dans une maison surveillée par des soldats romains en attendant son premier procès devant Néron, tout en « <span>prêchant le royaume de Dieu et enseignant ce qui concerne le Seigneur Jésus-Christ, en toute liberté et sans obstacle » </span>(<a href=\"https://ref.ly/Acts28:30-Acts28:31\">Ac 28.30–31</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Acts28:15-Acts28:31\">Ac 28.15–31</a> ; <a href=\"https://ref.ly/Rom1:13-Rom1:15\">Rm 1.13–15</a> ; <a href=\"https://ref.ly/Rom16:1-Rom16:16\">16.1–16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002010",
+          "start_ref_usfm": "ACT 2:10",
+          "end_ref": "44002010",
+          "end_ref_usfm": "ACT 2:10"
+        },
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "44019021",
+          "start_ref_usfm": "ACT 19:21",
+          "end_ref": "44019021",
+          "end_ref_usfm": "ACT 19:21"
+        },
+        {
+          "start_ref": "45016005",
+          "start_ref_usfm": "ROM 16:5",
+          "end_ref": "45016005",
+          "end_ref_usfm": "ROM 16:5"
+        },
+        {
+          "start_ref": "45016015",
+          "start_ref_usfm": "ROM 16:15",
+          "end_ref": "45016015",
+          "end_ref_usfm": "ROM 16:15"
+        },
+        {
+          "start_ref": "44028030",
+          "start_ref_usfm": "ACT 28:30",
+          "end_ref": "44028031",
+          "end_ref_usfm": "ACT 28:31"
+        },
+        {
+          "start_ref": "45016001",
+          "start_ref_usfm": "ROM 16:1",
+          "end_ref": "45016027",
+          "end_ref_usfm": "ROM 16:27"
+        },
+        {
+          "start_ref": "45016010",
+          "start_ref_usfm": "ROM 16:10",
+          "end_ref": "45016011",
+          "end_ref_usfm": "ROM 16:11"
+        },
+        {
+          "start_ref": "45016001",
+          "start_ref_usfm": "ROM 16:1",
+          "end_ref": "45016016",
+          "end_ref_usfm": "ROM 16:16"
+        },
+        {
+          "start_ref": "45001013",
+          "start_ref_usfm": "ROM 1:13",
+          "end_ref": "45001015",
+          "end_ref_usfm": "ROM 1:15"
+        },
+        {
+          "start_ref": "44028015",
+          "start_ref_usfm": "ACT 28:15",
+          "end_ref": "44028031",
+          "end_ref_usfm": "ACT 28:31"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

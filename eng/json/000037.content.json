@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 500480,
+    "reference_id": 203423,
+    "title": "Gideon",
+    "media_type": "Text",
+    "index_reference": "gideon",
+    "language": "eng",
+    "content": "<p>Gideon was an Israelite judge and the son of Joash from the tribe of Manasseh. He said his clan was the weakest in Manasseh, and he was the least important in his clan. His story shows how God can use a weak person for great purposes.</p><p>During this period, Midian oppressed Israel, and the people cried out to God for help (<a href=\"https://ref.ly/Judg6:6\">Judges 6:6</a>). In response, God sent a prophet to reprimand them for ignoring Him and worshiping other gods. He also sent His angel to call Gideon to save Israel.</p><p>Gideon&apos;s first appearance is not promising. He was threshing wheat at the bottom of a winepress to hide from the Midianites. When the angel of the Lord appeared to Gideon there, Gideon asked why God had not saved his people like during the Exodus. God told Gideon that he was chosen to be Israel&apos;s deliverer and that God would be with him. Gideon was hesitant to believe and asked for a sign. He brought an offering, and when the angel touched it, fire came from the rock beneath.</p><p>This sign gave Gideon enough faith to take action in his community. God instructed him to tear down his father&apos;s altar to Baal, cut down the Asherah pole, and build an altar to the Lord instead. Gideon obeyed God&apos;s command and became a warrior for God against false gods.</p><p>The Spirit of God came upon Gideon, and he gathered an army to fight the Midianites and their allies. Gideon remained cautious and asked God for another sign to confirm his mission. He placed a fleece outside on two different nights, asking God to show his power by making the dew settle on the fleece and the ground in miraculous ways. God did this, and Gideon was ready to follow God&apos;s plan.</p><p>Gideon successfully recruited 32,000 men for the army. However, God instructed him to reduce the number to 300 men. Gideon led these 300 men against a much larger force and won.</p><p>Gideon wisely refused the people&apos;s request to become their ruler. However, he made an ephod from the earrings of the defeated soldiers, and it became an idol (<a href=\"https://ref.ly/Judg8:22-Judg8:27\">Judges 8:22–27</a>). Gideon, who was weak in faith and relied on visible signs, eventually turned away from worshiping the invisible God and worshiped idols. Israel experienced peace during his lifetime, but his lack of faith led to problems after his death (<a href=\"https://ref.ly/Judg8:33-Judg9:57\">Judges 8:33–9:57</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Judg6:1-Judg8:35\">Judges 6:1–8:35</a>; <a href=\"https://ref.ly/1Sam12:11\">1 Samuel 12:11</a>; <a href=\"https://ref.ly/Isa10:26\">Isaiah 10:26</a>; <a href=\"https://ref.ly/Heb11:32\">Hebrews 11:32</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07006006",
+          "start_ref_usfm": "JDG 6:6",
+          "end_ref": "07006006",
+          "end_ref_usfm": "JDG 6:6"
+        },
+        {
+          "start_ref": "09012011",
+          "start_ref_usfm": "1SA 12:11",
+          "end_ref": "09012011",
+          "end_ref_usfm": "1SA 12:11"
+        },
+        {
+          "start_ref": "23010026",
+          "start_ref_usfm": "ISA 10:26",
+          "end_ref": "23010026",
+          "end_ref_usfm": "ISA 10:26"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011032",
+          "end_ref_usfm": "HEB 11:32"
+        },
+        {
+          "start_ref": "07006001",
+          "start_ref_usfm": "JDG 6:1",
+          "end_ref": "07008035",
+          "end_ref_usfm": "JDG 8:35"
+        },
+        {
+          "start_ref": "07008022",
+          "start_ref_usfm": "JDG 8:22",
+          "end_ref": "07008027",
+          "end_ref_usfm": "JDG 8:27"
+        },
+        {
+          "start_ref": "07008033",
+          "start_ref_usfm": "JDG 8:33",
+          "end_ref": "07009057",
+          "end_ref_usfm": "JDG 9:57"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

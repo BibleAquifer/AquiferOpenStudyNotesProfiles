@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 658554,
+    "reference_id": 203477,
+    "title": "Herodes, o Grande",
+    "media_type": "Text",
+    "index_reference": "herodes, o grande",
+    "language": "por",
+    "content": "<p>Herodes, o Grande, foi o rei nomeado pelos romanos da Judeia de 37 a 4 a.C. Herodes, o Grande, era rei quando Jesus nasceu (<a href=\"https://ref.ly/Matt2:1\">Mt 2.1</a>; <a href=\"https://ref.ly/Luke1:5\">Lc 1.5</a>). Ele foi um líder militar forte, um político habilidoso e um governante severo. Ele nasceu em uma família idumeia (edomita) com conexões romanas. Ele ganhou poder conquistando o favor dos romanos e manteve esse poder sendo cruel com qualquer um que se opusesse a ele.</p><p>Herodes era famoso por seus grandes projetos de construção. Seu maior feito foi reconstruir e embelezar o Templo de Jerusalém, iniciado por volta de 20 a.C. (Josefo, <em>Antiguidades</em> 15.8.1). Isso o tornou um dos edifícios mais impressionantes do mundo antigo. Ele também construiu Cesareia e a transformou na sede romana na Palestina. Herodes ganhou o título de &quot;o Grande&quot; devido à sua reputação como excelente construtor.</p><p>Herodes era conhecido por seus problemas familiares e pelo tratamento severo de oponentes ou ameaças percebidas. Ele matou duas de suas esposas e três de seus filhos quando suspeitou que estavam conspirando contra ele. César Augusto uma vez disse que preferia ser o <em>porco</em> de Herodes do que seu <em>filho</em> (um jogo de palavras em grego, já que as duas palavras soam parecidas—<em>hus</em>, <em>huios</em>). Quando Jesus nasceu perto do final do reinado de Herodes e Herodes ouviu chamá-lo de futuro “rei”, ele tentou matá-lo. Incapaz de encontrar o menino, Herodes ordenou a morte de todos os meninos com menos de dois anos na área de Belém (veja <a href=\"https://ref.ly/Matt2:1-Matt2:20\">Mt 2.1–20</a>). Este ato era típico de sua crueldade e paranoia.</p><p>Herodes foi chamado de &quot;rei dos judeus&quot;, mas o povo judeu não o aceitava como seu verdadeiro rei. Ele não era da linhagem da família do Rei Davi e era um edomita, descendente de Esaú, e não um judeu.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Matt2:1-Matt2:20\">Mateus 2.1–20</a>; <a href=\"https://ref.ly/Luke1:5\">Lucas 1.5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002001",
+          "end_ref_usfm": "MAT 2:1"
+        },
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001005",
+          "end_ref_usfm": "LUK 1:5"
+        },
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002020",
+          "end_ref_usfm": "MAT 2:20"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

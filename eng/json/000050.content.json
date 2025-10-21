@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 500560,
+    "reference_id": 203503,
+    "title": "James, Brother of Jesus",
+    "media_type": "Text",
+    "index_reference": "james, brother of jesus",
+    "language": "eng",
+    "content": "<p>James was one of Jesus&apos; brothers (<a href=\"https://ref.ly/Matt13:55\">Matthew 13:55</a>; <a href=\"https://ref.ly/Mark6:3\">Mark 6:3</a>; <a href=\"https://ref.ly/Gal1:19\">Galatians 1:19</a>; compare <a href=\"https://ref.ly/Jude1:1\">Jude 1:1</a>). He became the leader of the church in Jerusalem soon after Jesus rose from the dead. According to tradition, this James is the author of the New Testament book of James.</p><p>Jesus&apos; brothers were initially doubtful of his claims (<a href=\"https://ref.ly/John7:2-John7:5\">John 7:2–5</a>). But they later became believers (<a href=\"https://ref.ly/Acts1:14\">Acts 1:14</a>). James&apos;s personal encounter with the risen Jesus might have convinced him (<a href=\"https://ref.ly/1Cor15:7\">1 Corinthians 15:7</a>). Two of Jesus&apos; brothers, James and Jude, had important roles in the early Christian community. James quickly became the leader of the church in Jerusalem. At the council in Jerusalem, James helped Jewish church leaders accept gentile (non-Jewish) believers without requiring circumcision. This decision was essential for Paul and the early mission to gentiles (<a href=\"https://ref.ly/Acts15:13-Acts15:21\">Acts 15:13–21</a>). Paul visited James in Jerusalem after his third missionary trip, just as he had done earlier after his conversion (<a href=\"https://ref.ly/Acts21:18\">Acts 21:18</a>; <a href=\"https://ref.ly/Gal1:19\">Galatians 1:19</a>).</p><p>Like most Jewish Christians, James followed the law of Moses. He stressed the importance of observing certain key laws when among Jews (<a href=\"https://ref.ly/Acts15:20-Acts15:21\">Acts 15:20–21</a>; <a href=\"https://ref.ly/Acts21:18-Acts21:25\">21:18–25</a>). James recognized Paul&apos;s mission and focus on salvation through faith alone (<a href=\"https://ref.ly/Gal2:6-Gal2:9\">Galatians 2:6–9</a>), but many Jewish Christians did not agree. These Jewish believers, whom Paul associated with James once (see <a href=\"https://ref.ly/Gal2:12\">Galatians 2:12</a>), insisted that gentiles who became Christians must be circumcised and follow the law of Moses to join the Christian community.</p><p>James&apos;s Jewish background is evident in his letter, which offers wise, practical advice for living. Much of it aligns with traditional Jewish Scripture wisdom. One paragraph of his letter (<a href=\"https://ref.ly/Jas5:1-Jas5:6\">James 5:1–6</a>) resembles the work of Old Testament prophets (for example, compare <a href=\"https://ref.ly/Amos5:21-Amos5:24\">Amos 5:21–24</a>; <a href=\"https://ref.ly/Amos6:1-Amos6:7\">6:1–7</a>).</p><p>James, known as &quot;the Just&quot; by people of his time, was killed for his faith by Jewish priests in Jerusalem (Josephus, <em>Antiquities</em> 20.9; Eusebius, <em>Church History</em> 2.23.4–18).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt13:55\">Matthew 13:55</a>; <a href=\"https://ref.ly/Mark6:3\">Mark 6:3</a>; <a href=\"https://ref.ly/Acts12:17\">Acts 12:17</a>; <a href=\"https://ref.ly/Acts15:13-Acts15:21\">Acts 15:13–21</a>; <a href=\"https://ref.ly/Acts21:18-Acts21:25\">Acts 21:18–25</a>; <a href=\"https://ref.ly/1Cor15:7\">1 Corinthians 15:7</a>; <a href=\"https://ref.ly/Gal2:9\">Galatians 2:9</a>, <a href=\"https://ref.ly/Gal2:12\">Galatians 2:12</a>; <a href=\"https://ref.ly/Jas1:1-Jas5:20\">James 1:1–5:20</a>; <a href=\"https://ref.ly/Jude1:1\">Jude 1:1</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40013055",
+          "start_ref_usfm": "MAT 13:55",
+          "end_ref": "40013055",
+          "end_ref_usfm": "MAT 13:55"
+        },
+        {
+          "start_ref": "41006003",
+          "start_ref_usfm": "MRK 6:3",
+          "end_ref": "41006003",
+          "end_ref_usfm": "MRK 6:3"
+        },
+        {
+          "start_ref": "44001014",
+          "start_ref_usfm": "ACT 1:14",
+          "end_ref": "44001014",
+          "end_ref_usfm": "ACT 1:14"
+        },
+        {
+          "start_ref": "44012017",
+          "start_ref_usfm": "ACT 12:17",
+          "end_ref": "44012017",
+          "end_ref_usfm": "ACT 12:17"
+        },
+        {
+          "start_ref": "44021018",
+          "start_ref_usfm": "ACT 21:18",
+          "end_ref": "44021018",
+          "end_ref_usfm": "ACT 21:18"
+        },
+        {
+          "start_ref": "46015007",
+          "start_ref_usfm": "1CO 15:7",
+          "end_ref": "46015007",
+          "end_ref_usfm": "1CO 15:7"
+        },
+        {
+          "start_ref": "48001019",
+          "start_ref_usfm": "GAL 1:19",
+          "end_ref": "48001019",
+          "end_ref_usfm": "GAL 1:19"
+        },
+        {
+          "start_ref": "48002009",
+          "start_ref_usfm": "GAL 2:9",
+          "end_ref": "48002009",
+          "end_ref_usfm": "GAL 2:9"
+        },
+        {
+          "start_ref": "48002012",
+          "start_ref_usfm": "GAL 2:12",
+          "end_ref": "48002012",
+          "end_ref_usfm": "GAL 2:12"
+        },
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001001",
+          "end_ref_usfm": "JUD 1:1"
+        },
+        {
+          "start_ref": "44015013",
+          "start_ref_usfm": "ACT 15:13",
+          "end_ref": "44015021",
+          "end_ref_usfm": "ACT 15:21"
+        },
+        {
+          "start_ref": "59005001",
+          "start_ref_usfm": "JAS 5:1",
+          "end_ref": "59005006",
+          "end_ref_usfm": "JAS 5:6"
+        },
+        {
+          "start_ref": "44021018",
+          "start_ref_usfm": "ACT 21:18",
+          "end_ref": "44021025",
+          "end_ref_usfm": "ACT 21:25"
+        },
+        {
+          "start_ref": "30006001",
+          "start_ref_usfm": "AMO 6:1",
+          "end_ref": "30006007",
+          "end_ref_usfm": "AMO 6:7"
+        },
+        {
+          "start_ref": "30005021",
+          "start_ref_usfm": "AMO 5:21",
+          "end_ref": "30005024",
+          "end_ref_usfm": "AMO 5:24"
+        },
+        {
+          "start_ref": "43007002",
+          "start_ref_usfm": "JHN 7:2",
+          "end_ref": "43007005",
+          "end_ref_usfm": "JHN 7:5"
+        },
+        {
+          "start_ref": "44015020",
+          "start_ref_usfm": "ACT 15:20",
+          "end_ref": "44015021",
+          "end_ref_usfm": "ACT 15:21"
+        },
+        {
+          "start_ref": "48002006",
+          "start_ref_usfm": "GAL 2:6",
+          "end_ref": "48002009",
+          "end_ref_usfm": "GAL 2:9"
+        },
+        {
+          "start_ref": "59001001",
+          "start_ref_usfm": "JAS 1:1",
+          "end_ref": "59005020",
+          "end_ref_usfm": "JAS 5:20"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

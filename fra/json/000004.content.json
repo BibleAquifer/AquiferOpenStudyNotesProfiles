@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 668892,
+    "reference_id": 203434,
+    "title": "Abner",
+    "media_type": "Text",
+    "index_reference": "abner",
+    "language": "fra",
+    "content": "<p>Abner, fils de Ner, était le cousin du roi Saül et son général (<a href=\"https://ref.ly/1Sam14:49-1Sam14:52\">1S 14.49–52</a>). Sous son commandement, les armées de Saül remportèrent des victoires décisives contre les Philistins (<a href=\"https://ref.ly/1Sam17:1-1Sam17:58\">1S 17.1–58</a>). &nbsp;Il partagea même, lors d’un repas à la cour, la table avec David et Jonathan (<a href=\"https://ref.ly/1Sam20:24-1Sam20:25\">1S 20.24–25</a>), bien que ses exploits militaires soient surpassés par ceux de ces deux figures.</p><p>Un épisode marquant fut celui où David embarrassa Abner&nbsp;(<a href=\"https://ref.ly/1Sam26:1-1Sam26:25\">1S 26.1–25</a>), lorsque Saül et ses hommes poursuivaient David pour le tuer. Alors que Saül et ses troupes dormaient en formant un cercle (le roi dormant au centre et Abner à ses côtés), Abischaï et David s’introduisirent furtivement dans le camp. Plutôt que de commettre un meurtre en tuant Saül, ils se contentèrent de dérober quelques objets déposés près de la tête du roi. Après s&apos;être retirés, David fit retentir des cris afin de réveiller le roi et Abner, lui reprochant alors ouvertement son imprudence.</p><p>À la suite de la mort de Saül et de Jonathan, Abner prit parti pour <span>Isch-Boscheth</span>, le fils de Saül (<a href=\"https://ref.ly/2Sam2:8-2Sam2:12\">2S 2.8–12</a>), alors que la tribu de Juda proclamait David roi. Durant cette période, il exerça en effet le véritable pouvoir dans le nord du royaume. Toutefois, lorsqu’I<span>sch-Boscheth </span>l’accusa d’avoir entretenu des relations avec l’une des concubines de Saül, Abner décida de remettre le contrôle du royaume du nord entre les mains de David, précipitant ainsi la chute d’Isch-Boscheth, qui fut bientôt assassiné (<a href=\"https://ref.ly/2Sam4:1-2Sam4:12\">2S 4.1–12</a>).</p><p>Lors d’un affrontement entre les forces d’Isch-Boscheth et celles de David, Abner fut contraint, en légitime défense, d’abattre Asaël, le frère de Joab. Il ne voulait pas tuer Asaël, et lui avait demandé à plusieurs reprises de faire demi-tour (<a href=\"https://ref.ly/2Sam2:18-2Sam2:32\">2S 2.18–32</a>). Plus tard, mû par un désir de vengeance soigneusement orchestré, Joab assassina Abner (<a href=\"https://ref.ly/2Sam3:22-2Sam3:30\">2S 3.22–30</a>), une action que David ne put empêcher (voir <a href=\"https://ref.ly/2Sam3:38-2Sam3:39\">2S 3.38–39</a>). Pour honorer la mémoire d’Abner, David lui rendit un vibrant hommage à travers une oraison funèbre (un discours de louange commémorant sa vie et ses réalisations), institua un deuil public et célébra des funérailles nationales (<a href=\"https://ref.ly/2Sam3:31-2Sam3:37\">2S 3.31–37</a>). Par la suite, David n’oublia pas ces événements douloureux et s’assura que Joab fut finalement puni pour cet assassinat (<a href=\"https://ref.ly/1Kgs2:5-1Kgs2:6\">1R 2.5–6</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/1Sam14:49-1Sam14:52\">1 Samuel 14.49–52</a> ; <a href=\"https://ref.ly/1Sam17:55-1Sam17:58\">17.55–58</a> ; <a href=\"https://ref.ly/1Sam26:5-1Sam26:16\">26.5–16</a> ; <a href=\"https://ref.ly/2Sam2:8-2Sam2:29\">2 Samuel 2.8–29</a> ; <a href=\"https://ref.ly/2Sam3:6-2Sam3:39\">3.6–39</a> ; <a href=\"https://ref.ly/1Kgs2:5\">1 Rois 2.5</a>, <a href=\"https://ref.ly/1Kgs2:32\">32</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11002005",
+          "start_ref_usfm": "1KI 2:5",
+          "end_ref": "11002005",
+          "end_ref_usfm": "1KI 2:5"
+        },
+        {
+          "start_ref": "11002032",
+          "start_ref_usfm": "1KI 2:32",
+          "end_ref": "11002032",
+          "end_ref_usfm": "1KI 2:32"
+        },
+        {
+          "start_ref": "09017001",
+          "start_ref_usfm": "1SA 17:1",
+          "end_ref": "09017058",
+          "end_ref_usfm": "1SA 17:58"
+        },
+        {
+          "start_ref": "11002005",
+          "start_ref_usfm": "1KI 2:5",
+          "end_ref": "11002006",
+          "end_ref_usfm": "1KI 2:6"
+        },
+        {
+          "start_ref": "09026001",
+          "start_ref_usfm": "1SA 26:1",
+          "end_ref": "09026025",
+          "end_ref_usfm": "1SA 26:25"
+        },
+        {
+          "start_ref": "10002018",
+          "start_ref_usfm": "2SA 2:18",
+          "end_ref": "10002032",
+          "end_ref_usfm": "2SA 2:32"
+        },
+        {
+          "start_ref": "10004001",
+          "start_ref_usfm": "2SA 4:1",
+          "end_ref": "10004012",
+          "end_ref_usfm": "2SA 4:12"
+        },
+        {
+          "start_ref": "09017055",
+          "start_ref_usfm": "1SA 17:55",
+          "end_ref": "09017058",
+          "end_ref_usfm": "1SA 17:58"
+        },
+        {
+          "start_ref": "09014049",
+          "start_ref_usfm": "1SA 14:49",
+          "end_ref": "09014052",
+          "end_ref_usfm": "1SA 14:52"
+        },
+        {
+          "start_ref": "09020024",
+          "start_ref_usfm": "1SA 20:24",
+          "end_ref": "09020025",
+          "end_ref_usfm": "1SA 20:25"
+        },
+        {
+          "start_ref": "10002008",
+          "start_ref_usfm": "2SA 2:8",
+          "end_ref": "10002012",
+          "end_ref_usfm": "2SA 2:12"
+        },
+        {
+          "start_ref": "10003022",
+          "start_ref_usfm": "2SA 3:22",
+          "end_ref": "10003030",
+          "end_ref_usfm": "2SA 3:30"
+        },
+        {
+          "start_ref": "10003038",
+          "start_ref_usfm": "2SA 3:38",
+          "end_ref": "10003039",
+          "end_ref_usfm": "2SA 3:39"
+        },
+        {
+          "start_ref": "10003031",
+          "start_ref_usfm": "2SA 3:31",
+          "end_ref": "10003037",
+          "end_ref_usfm": "2SA 3:37"
+        },
+        {
+          "start_ref": "09026005",
+          "start_ref_usfm": "1SA 26:5",
+          "end_ref": "09026016",
+          "end_ref_usfm": "1SA 26:16"
+        },
+        {
+          "start_ref": "10002008",
+          "start_ref_usfm": "2SA 2:8",
+          "end_ref": "10002029",
+          "end_ref_usfm": "2SA 2:29"
+        },
+        {
+          "start_ref": "10003006",
+          "start_ref_usfm": "2SA 3:6",
+          "end_ref": "10003039",
+          "end_ref_usfm": "2SA 3:39"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

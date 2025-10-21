@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 726087,
+    "reference_id": 203458,
+    "title": "كُورَش الثاني",
+    "media_type": "Text",
+    "index_reference": "كُورَش الثاني",
+    "language": "arb",
+    "content": "<p>أسس كورش الثاني، ملك فارس من 559 إلى 530 قبل الميلاد، الإمبراطورية الفارسية. كان أبوه ملك فارس، وهي أمة صغيرة تحت سيطرة الميديين، وكانت أمه ابنة ملك الميديين. في عام 549 قبل الميلاد، غزا كورش الميديين ووحد الأمتين معًا. ثم غزا ليديا في آسيا الصغرى في عام 547 قبل الميلاد. <span>ثم </span>انعطف شرقًا، فأضاف  إلى الإمبراطورية الفارسية <span>فرثية </span>وجزءًا من الهند. وأخيرًا، في 29 أكتوبر 539 قبل الميلاد، غزا كورش بابل وضمّها إلى إمبراطوريته (انظر <a href=\"https://ref.ly/Dan5:30-Dan5:31\">دانيآل 5:30–31</a>).</p><p>بعدما غزا كورش بابل أصدر مرسومًا يسمح للشعب اليهودي بالعودة إلى وطنهم وإعادة بناء الهيكل في أورشليم. الجزء المتعلق باليهود في هذا المرسوم مسجل في <a href=\"https://ref.ly/2Chr36:22-2Chr36:23\">2أخبار الأيام 36:22–23</a> و<a href=\"https://ref.ly/Ezra1:1-Ezra1:4\">عزرا 1:1–4</a>. وأسطوانة كورش، وهي قطعة طينية تاريخية على شكل بِرْمِيل وُجدت في بابل بين 1879 و1882،  تؤكد على تنفيذ هذه الحقيقة التاريخية. وتصف أيضًا سياسة كورش تجاه الشعوب التي هزمها واحتل أراضيها.</p><p>وقال إشعياء عن كورش أنه محرر يهوذا مستقبلًا  (<a href=\"https://ref.ly/Isa44:28-Isa45:13\">إشعياء 44:28–45:13</a>). كما صف إشعياء كورش بأنه ممسوح من الرب (<a href=\"https://ref.ly/Isa45:1\">إشعياء 45:1</a>، الكلمة العبرية <em>mashiakh</em> وتعني &quot;مسيّا&quot;). رأى إسرائيل كورش مختارًا ومفوّضًا من الله ليحررهم. لم يكن كورش <em>هو</em> المسيّا، لكن أفعاله كانت بمنزلة <span>علاماتٍ </span>تُؤْذن<span> سلفًا </span>بما سيفعله لاحقًا المسيّا الحقيقي، يسوع المسيح، في تحرير شعب الله من العبوديّة.</p><p><span><u>مقاطع كتابية لدراسة أعمق</u></span></p><p><a href=\"https://ref.ly/2Chr36:22-2Chr36:23\">2أخبار الأيام 36:22–23</a><span>؛</span> <a href=\"https://ref.ly/Ezra1:1-Ezra1:11\">عزرا 1:1–11</a><span>؛</span> <a href=\"https://ref.ly/Ezra3:7\">3:7</a><span>؛</span> <a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">4:1–5</a><span>؛</span> <a href=\"https://ref.ly/Ezra5:6-Ezra5:17\">5:6–17</a><span>؛</span> <a href=\"https://ref.ly/Ezra6:14-Ezra6:15\">6:14–15</a><span>؛</span> <a href=\"https://ref.ly/Isa44:28-Isa45:13\">إشعياء 44:28–45:13</a><span>؛</span> <a href=\"https://ref.ly/Isa48:14-Isa48:16\">48:14–16</a><span>؛</span> <a href=\"https://ref.ly/Dan6:28\">دانيال 6:28</a><span>؛</span> <a href=\"https://ref.ly/Dan10:1\">10:1.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15003007",
+          "start_ref_usfm": "EZR 3:7",
+          "end_ref": "15003007",
+          "end_ref_usfm": "EZR 3:7"
+        },
+        {
+          "start_ref": "23045001",
+          "start_ref_usfm": "ISA 45:1",
+          "end_ref": "23045001",
+          "end_ref_usfm": "ISA 45:1"
+        },
+        {
+          "start_ref": "27006028",
+          "start_ref_usfm": "DAN 6:28",
+          "end_ref": "27006028",
+          "end_ref_usfm": "DAN 6:28"
+        },
+        {
+          "start_ref": "27010001",
+          "start_ref_usfm": "DAN 10:1",
+          "end_ref": "27010001",
+          "end_ref_usfm": "DAN 10:1"
+        },
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001004",
+          "end_ref_usfm": "EZR 1:4"
+        },
+        {
+          "start_ref": "27005030",
+          "start_ref_usfm": "DAN 5:30",
+          "end_ref": "27005031",
+          "end_ref_usfm": "DAN 5:31"
+        },
+        {
+          "start_ref": "14036022",
+          "start_ref_usfm": "2CH 36:22",
+          "end_ref": "14036023",
+          "end_ref_usfm": "2CH 36:23"
+        },
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001011",
+          "end_ref_usfm": "EZR 1:11"
+        },
+        {
+          "start_ref": "15004001",
+          "start_ref_usfm": "EZR 4:1",
+          "end_ref": "15004005",
+          "end_ref_usfm": "EZR 4:5"
+        },
+        {
+          "start_ref": "15005006",
+          "start_ref_usfm": "EZR 5:6",
+          "end_ref": "15005017",
+          "end_ref_usfm": "EZR 5:17"
+        },
+        {
+          "start_ref": "23044028",
+          "start_ref_usfm": "ISA 44:28",
+          "end_ref": "23045013",
+          "end_ref_usfm": "ISA 45:13"
+        },
+        {
+          "start_ref": "15006014",
+          "start_ref_usfm": "EZR 6:14",
+          "end_ref": "15006015",
+          "end_ref_usfm": "EZR 6:15"
+        },
+        {
+          "start_ref": "23048014",
+          "start_ref_usfm": "ISA 48:14",
+          "end_ref": "23048016",
+          "end_ref_usfm": "ISA 48:16"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

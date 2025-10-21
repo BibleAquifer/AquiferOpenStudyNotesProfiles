@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 668902,
+    "reference_id": 203444,
+    "title": "Jézabel",
+    "media_type": "Text",
+    "index_reference": "jézabel",
+    "language": "fra",
+    "content": "<p>Jézabel, fille d’Ethbaal, roi de Sidon (<a href=\"https://ref.ly/1Kgs16:31\">1R&nbsp;16.31</a>), épousa le roi Achab d’Israël, probablement pour renforcer une alliance politique entre leurs nations. Jézabel soutenait le culte de Baal et insistait pour que le roi et la reine exercent un contrôle total.</p><p>Jézabel a persuadé Achab d’initier le culte de Baal en Samarie et d’ériger un poteau d’Ashéra (<a href=\"https://ref.ly/1Kgs16:30-1Kgs16:33\">1R&nbsp;16.30–33</a>). Elle a tenté d’éliminer les prophètes de Dieu (<a href=\"https://ref.ly/1Kgs18:4\">1R&nbsp;18.4</a>) et a soutenu de nombreux prophètes de Baal dans le palais royal (<a href=\"https://ref.ly/1Kgs18:19\">1R&nbsp;18.19</a>).</p><p>Élie a confronté Jézabel et Achab sur le mont Carmel (<a href=\"https://ref.ly/1Kgs18:19-1Kgs18:40\">1R&nbsp;18.19–40</a>). Là, il a mis au défi Israël de suivre le vrai Dieu. Après que Dieu a montré Sa puissance, les Israélites L’ont reconnu et ont aidé Élie à tuer les faux prophètes. Quand Jézabel a appris cela, elle a menacé Élie, le poussant à fuir (<a href=\"https://ref.ly/1Kgs19:1-1Kgs19:3\">1R&nbsp;19.1–3</a>).</p><p>Plus tard, Jézabel conseilla son mari sur la manière de prendre une vigne à leur voisin Naboth. Lorsque Naboth refusa de la vendre, Jézabel élabora un plan pour l’accuser faussement d’avoir maudit Dieu et le roi. En conséquence, Naboth fut exécuté. Achab prit la vigne, mais Dieu envoya Élie pour annoncer le jugement sur Jézabel et Achab (<a href=\"https://ref.ly/1Kgs21:20-1Kgs21:24\">1R&nbsp;21.20–24</a>). Achab mourut peu après (<a href=\"https://ref.ly/1Kgs22:29-1Kgs22:40\">1R&nbsp;22.29–40</a>), mais Jézabel vécut pendant le règne de son fils Achazia. Elle fut ensuite exécutée lorsque Jéhu détruisit la famille régnante, accomplissant ainsi le jugement de Dieu contre elle (<a href=\"https://ref.ly/2Kgs9:30-2Kgs9:37\">2R&nbsp;9.30–37</a>).</p><p>L’influence maléfique de Jézabel atteignit le royaume du sud de Juda lorsque sa fille Athalie épousa Joram, le fils du roi Josaphat (voir <a href=\"https://ref.ly/2Kgs8:18\">2R&nbsp;8.18</a>, <a href=\"https://ref.ly/2Kgs8:26-2Kgs8:27\">26–27</a>).</p><p>Son nom a longtemps été associé au mal. Dans le verset <a href=\"https://ref.ly/Rev2:20\">Ap&nbsp;2.20</a>, Jézabel est une prophétesse qui a conduit les Chrétiens de Thyatire à commettre des péchés sexuels et à manger des aliments offerts aux idoles.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/1Kgs16:31-1Kgs21:28\">1R 16.31–21.28</a>&nbsp;; <a href=\"https://ref.ly/2Kgs9:1-2Kgs9:37\">2R&nbsp;9.1–37</a>&nbsp;; <a href=\"https://ref.ly/Rev2:20\">Ap&nbsp;2.20</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11016031",
+          "start_ref_usfm": "1KI 16:31",
+          "end_ref": "11016031",
+          "end_ref_usfm": "1KI 16:31"
+        },
+        {
+          "start_ref": "11018004",
+          "start_ref_usfm": "1KI 18:4",
+          "end_ref": "11018004",
+          "end_ref_usfm": "1KI 18:4"
+        },
+        {
+          "start_ref": "11018019",
+          "start_ref_usfm": "1KI 18:19",
+          "end_ref": "11018019",
+          "end_ref_usfm": "1KI 18:19"
+        },
+        {
+          "start_ref": "12008018",
+          "start_ref_usfm": "2KI 8:18",
+          "end_ref": "12008018",
+          "end_ref_usfm": "2KI 8:18"
+        },
+        {
+          "start_ref": "66002020",
+          "start_ref_usfm": "REV 2:20",
+          "end_ref": "66002020",
+          "end_ref_usfm": "REV 2:20"
+        },
+        {
+          "start_ref": "12008026",
+          "start_ref_usfm": "2KI 8:26",
+          "end_ref": "12008027",
+          "end_ref_usfm": "2KI 8:27"
+        },
+        {
+          "start_ref": "11022029",
+          "start_ref_usfm": "1KI 22:29",
+          "end_ref": "11022040",
+          "end_ref_usfm": "1KI 22:40"
+        },
+        {
+          "start_ref": "11016030",
+          "start_ref_usfm": "1KI 16:30",
+          "end_ref": "11016033",
+          "end_ref_usfm": "1KI 16:33"
+        },
+        {
+          "start_ref": "11018019",
+          "start_ref_usfm": "1KI 18:19",
+          "end_ref": "11018040",
+          "end_ref_usfm": "1KI 18:40"
+        },
+        {
+          "start_ref": "11021020",
+          "start_ref_usfm": "1KI 21:20",
+          "end_ref": "11021024",
+          "end_ref_usfm": "1KI 21:24"
+        },
+        {
+          "start_ref": "12009001",
+          "start_ref_usfm": "2KI 9:1",
+          "end_ref": "12009037",
+          "end_ref_usfm": "2KI 9:37"
+        },
+        {
+          "start_ref": "12009030",
+          "start_ref_usfm": "2KI 9:30",
+          "end_ref": "12009037",
+          "end_ref_usfm": "2KI 9:37"
+        },
+        {
+          "start_ref": "11019001",
+          "start_ref_usfm": "1KI 19:1",
+          "end_ref": "11019003",
+          "end_ref_usfm": "1KI 19:3"
+        },
+        {
+          "start_ref": "11016031",
+          "start_ref_usfm": "1KI 16:31",
+          "end_ref": "11021028",
+          "end_ref_usfm": "1KI 21:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

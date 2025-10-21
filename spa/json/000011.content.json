@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 658420,
+    "reference_id": 203495,
+    "title": "Anás y Caifás",
+    "media_type": "Text",
+    "index_reference": "anás y caifás",
+    "language": "spa",
+    "content": "<p>Anás y Caifás fueron sumos sacerdotes durante el tiempo de Jesús y desempeñaron papeles clave en su condena a muerte.</p><p>Anás fue el sumo sacerdote judío aproximadamente entre los años 6 y 15 d.C. Incluso después de que el procurador romano de Judea lo destituyera, continuó siendo muy poderoso e influyente en el consejo supremo judío. La gente todavía lo llamaba &quot;Sumo Sacerdote&quot; quince a veinte años después (<a href=\"https://ref.ly/Luke3:2\">Lucas 3.2</a>; <a href=\"https://ref.ly/Acts4:6\">Hechos 4.6</a>). Esto podría deberse a que los judíos creían que los sumos sacerdotes mantenían su posición de por vida. Cinco de sus hijos y su yerno, Caifás, se convirtieron en sumos sacerdotes después de él. Según el Evangelio de Juan, cuando Jesús fue arrestado, primero fue llevado a Anás para ser interrogado antes de ser entregado a Caifás para el juicio oficial (<a href=\"https://ref.ly/John18:13-John18:24\">Juan 18.13–24</a>).</p><p>Caifás fue el sumo sacerdote judío aproximadamente desde el año 18 hasta el 36 d.C. Trabajó estrechamente con su influyente suegro, Anás. Caifás argumentó en el alto consejo que sacrificar a Jesús sería preferible a arriesgar la destrucción de la nación (<a href=\"https://ref.ly/John11:49-John11:50\">Juan 11.49–50</a>). Dios le dio estas palabras proféticas porque era el Sumo Sacerdote (<a href=\"https://ref.ly/John11:51-John11:52\">Juan 11.51–52</a>). Durante el juicio de Jesús, Caifás rasgó sus vestiduras cuando Jesús afirmó ser el Hijo de Dios. Instó al alto consejo a condenar a Jesús por blasfemia (<a href=\"https://ref.ly/Matt26:57-Matt26:66\">Mateo 26.57–66</a>).</p><p>Poco después de la ejecución de Jesús, los líderes judíos se preocuparon por el creciente número de seguidores de Cristo. Anás y Caifás interrogaron a Pedro y Juan acerca de la curación de un mendigo lisiado y la predicación sobre la resurrección de los muertos (<a href=\"https://ref.ly/Acts4:5-Acts4:7\">Hechos 4.5–7</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Matt26:3-Matt26:5\">Mateo 26.3–5</a>, <a href=\"https://ref.ly/Matt26:57-Matt26:67\">57–67</a>; <a href=\"https://ref.ly/Mark14:53-Mark14:65\">Marcos 14.53–65</a>; <a href=\"https://ref.ly/Luke3:2\">Lucas 3.2</a>; <a href=\"https://ref.ly/John11:49-John11:53\">Juan 11.49–53</a>; <a href=\"https://ref.ly/John18:13-John18:28\">Juan 18.13–28</a>; <a href=\"https://ref.ly/Acts4:5-Acts4:7\">Hechos 4.5–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42003002",
+          "start_ref_usfm": "LUK 3:2",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "44004006",
+          "start_ref_usfm": "ACT 4:6",
+          "end_ref": "44004006",
+          "end_ref_usfm": "ACT 4:6"
+        },
+        {
+          "start_ref": "41014053",
+          "start_ref_usfm": "MRK 14:53",
+          "end_ref": "41014065",
+          "end_ref_usfm": "MRK 14:65"
+        },
+        {
+          "start_ref": "43011051",
+          "start_ref_usfm": "JHN 11:51",
+          "end_ref": "43011052",
+          "end_ref_usfm": "JHN 11:52"
+        },
+        {
+          "start_ref": "40026003",
+          "start_ref_usfm": "MAT 26:3",
+          "end_ref": "40026005",
+          "end_ref_usfm": "MAT 26:5"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026066",
+          "end_ref_usfm": "MAT 26:66"
+        },
+        {
+          "start_ref": "44004005",
+          "start_ref_usfm": "ACT 4:5",
+          "end_ref": "44004007",
+          "end_ref_usfm": "ACT 4:7"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018024",
+          "end_ref_usfm": "JHN 18:24"
+        },
+        {
+          "start_ref": "43011049",
+          "start_ref_usfm": "JHN 11:49",
+          "end_ref": "43011050",
+          "end_ref_usfm": "JHN 11:50"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026067",
+          "end_ref_usfm": "MAT 26:67"
+        },
+        {
+          "start_ref": "43011049",
+          "start_ref_usfm": "JHN 11:49",
+          "end_ref": "43011053",
+          "end_ref_usfm": "JHN 11:53"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018028",
+          "end_ref_usfm": "JHN 18:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

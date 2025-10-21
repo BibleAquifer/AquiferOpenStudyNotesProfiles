@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 500487,
+    "reference_id": 203430,
+    "title": "Abiathar",
+    "media_type": "Text",
+    "index_reference": "abiathar",
+    "language": "eng",
+    "content": "<p>Abiathar served as high priest during the reigns of David and Solomon. He first met David before David became king. When David fled from Saul, he stopped in the city of Nob. Pretending to follow Saul&apos;s orders, David obtained food and supplies from the priests there. Saul found out and became so angry that he killed all the priests except one; only Abiathar survived.</p><p>Abiathar was one of the first from Saul&apos;s administration to support David. His support was strong. He represented Eli&apos;s priestly line and brought the holy ephod with the Urim and Thummim (<a href=\"https://ref.ly/Exod28:29-Exod28:30\">Exodus 28:29–30</a>). (The ephod was a sacred garment worn by the high priest, and the Urim and Thummim were used for seeking God&apos;s guidance.) This allowed him to seek God&apos;s guidance for David during crises (<a href=\"https://ref.ly/1Sam23:1-1Sam23:12\">1 Samuel 23:1–12</a>; <a href=\"https://ref.ly/1Sam30:7-1Sam30:8\">30:7–8</a>). </p><p>After David became king, Abiathar served as a priest alongside Zadok, who was not from Eli&apos;s line (<a href=\"https://ref.ly/1Chr6:8\">1 Chronicles 6:8</a>; <a href=\"https://ref.ly/1Chr18:16\">18:16</a>; <a href=\"https://ref.ly/1Chr24:3\">24:3</a>). Both served David well. During Absalom&apos;s rebellion, they informed David about events in the capital (<a href=\"https://ref.ly/2Sam15:27-2Sam15:37\">2 Samuel 15:27–37</a>; <a href=\"https://ref.ly/2Sam17:15-2Sam17:16\">17:15–16</a>).</p><p>In David&apos;s old age, Abiathar wrongly supported Adonijah&apos;s attempt to become king instead of his father. Zadok stayed loyal to David and supported Solomon (<a href=\"https://ref.ly/1Kgs1:5-1Kgs1:8\">1 Kings 1:5–8</a>). As a result, once Solomon became king, he removed Abiathar&apos;s priestly authority and sent him to his estate in Anathoth, a village about four miles northeast of Jerusalem (<a href=\"https://ref.ly/1Kgs2:26-1Kgs2:27\">1 Kings 2:26–27</a>). Zadok became the high priest, and his descendants inherited that role instead of Abiathar&apos;s. This fulfilled the prophecy the Lord gave at Shiloh about Eli&apos;s descendants (<a href=\"https://ref.ly/1Kgs2:27\">1 Kings 2:27</a>; see <a href=\"https://ref.ly/1Sam2:27-1Sam2:36\">1 Samuel 2:27–36</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Sam22:20-1Sam22:23\">1 Samuel 22:20–23</a>; <a href=\"https://ref.ly/1Sam23:6\">23:6</a>, <a href=\"https://ref.ly/1Sam23:9\">9</a>; <a href=\"https://ref.ly/1Sam30:7\">30:7</a>; <a href=\"https://ref.ly/2Sam15:27-2Sam15:37\">2 Samuel 15:27–37</a>; <a href=\"https://ref.ly/2Sam17:15\">17:15</a>; <a href=\"https://ref.ly/1Kgs1:1-1Kgs2:35\">1 Kings 1:1–2:35</a>; <a href=\"https://ref.ly/1Chr15:11\">1 Chronicles 15:11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09023006",
+          "start_ref_usfm": "1SA 23:6",
+          "end_ref": "09023006",
+          "end_ref_usfm": "1SA 23:6"
+        },
+        {
+          "start_ref": "09023009",
+          "start_ref_usfm": "1SA 23:9",
+          "end_ref": "09023009",
+          "end_ref_usfm": "1SA 23:9"
+        },
+        {
+          "start_ref": "09030007",
+          "start_ref_usfm": "1SA 30:7",
+          "end_ref": "09030007",
+          "end_ref_usfm": "1SA 30:7"
+        },
+        {
+          "start_ref": "10017015",
+          "start_ref_usfm": "2SA 17:15",
+          "end_ref": "10017015",
+          "end_ref_usfm": "2SA 17:15"
+        },
+        {
+          "start_ref": "11002027",
+          "start_ref_usfm": "1KI 2:27",
+          "end_ref": "11002027",
+          "end_ref_usfm": "1KI 2:27"
+        },
+        {
+          "start_ref": "13006008",
+          "start_ref_usfm": "1CH 6:8",
+          "end_ref": "13006008",
+          "end_ref_usfm": "1CH 6:8"
+        },
+        {
+          "start_ref": "13015011",
+          "start_ref_usfm": "1CH 15:11",
+          "end_ref": "13015011",
+          "end_ref_usfm": "1CH 15:11"
+        },
+        {
+          "start_ref": "13018016",
+          "start_ref_usfm": "1CH 18:16",
+          "end_ref": "13018016",
+          "end_ref_usfm": "1CH 18:16"
+        },
+        {
+          "start_ref": "13024003",
+          "start_ref_usfm": "1CH 24:3",
+          "end_ref": "13024003",
+          "end_ref_usfm": "1CH 24:3"
+        },
+        {
+          "start_ref": "09030007",
+          "start_ref_usfm": "1SA 30:7",
+          "end_ref": "09030008",
+          "end_ref_usfm": "1SA 30:8"
+        },
+        {
+          "start_ref": "11002026",
+          "start_ref_usfm": "1KI 2:26",
+          "end_ref": "11002027",
+          "end_ref_usfm": "1KI 2:27"
+        },
+        {
+          "start_ref": "09022020",
+          "start_ref_usfm": "1SA 22:20",
+          "end_ref": "09022023",
+          "end_ref_usfm": "1SA 22:23"
+        },
+        {
+          "start_ref": "09002027",
+          "start_ref_usfm": "1SA 2:27",
+          "end_ref": "09002036",
+          "end_ref_usfm": "1SA 2:36"
+        },
+        {
+          "start_ref": "02028029",
+          "start_ref_usfm": "EXO 28:29",
+          "end_ref": "02028030",
+          "end_ref_usfm": "EXO 28:30"
+        },
+        {
+          "start_ref": "09023001",
+          "start_ref_usfm": "1SA 23:1",
+          "end_ref": "09023012",
+          "end_ref_usfm": "1SA 23:12"
+        },
+        {
+          "start_ref": "10015027",
+          "start_ref_usfm": "2SA 15:27",
+          "end_ref": "10015037",
+          "end_ref_usfm": "2SA 15:37"
+        },
+        {
+          "start_ref": "10017015",
+          "start_ref_usfm": "2SA 17:15",
+          "end_ref": "10017016",
+          "end_ref_usfm": "2SA 17:16"
+        },
+        {
+          "start_ref": "11001005",
+          "start_ref_usfm": "1KI 1:5",
+          "end_ref": "11001008",
+          "end_ref_usfm": "1KI 1:8"
+        },
+        {
+          "start_ref": "11001001",
+          "start_ref_usfm": "1KI 1:1",
+          "end_ref": "11002035",
+          "end_ref_usfm": "1KI 2:35"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

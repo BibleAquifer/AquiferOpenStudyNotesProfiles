@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 658354,
+    "reference_id": 203429,
+    "title": "Mical",
+    "media_type": "Text",
+    "index_reference": "mical",
+    "language": "spa",
+    "content": "<p><span>Michâl</span> era la hija menor del Rey Saúl (<a href=\"https://ref.ly/1Sam14:49\">1 Samuel 14.49</a>) y fue la primera esposa del Rey David (<a href=\"https://ref.ly/1Sam18:17-1Sam18:27\">18.17–27</a>). Desempeñó un papel importante en la transición del gobierno de Saúl al de David.</p><p>En el antiguo Cercano Oriente, las familias principales solían arreglar matrimonios por razones políticas. Saúl intentó atrapar a David prometiéndole a su hija mayor, Merab, si luchaba contra los filisteos. David, un guerrero fuerte, se estaba convirtiendo en un líder en el reino de Saúl. El Rey debería haber estado contento de tener un aliado así, pero pronto se volvió celoso del éxito de David y desconfiado de sus intenciones.</p><p>Saúl esperaba que David muriera en batalla, pero el plan fracasó. Más tarde, Saúl descubrió que su hija menor, Michâl, amaba a David (<a href=\"https://ref.ly/1Sam18:20\">1 Samuel 18.20</a>). Esto le brindó otra oportunidad para atraer a David a luchar contra los filisteos. Esta vez, David aceptó. Cuando David regresó victorioso, Saúl tuvo que darle a su hija en matrimonio. Esta alianza matrimonial benefició a David mientras construía su reputación con las tribus del norte (<a href=\"https://ref.ly/2Sam3:13-2Sam3:16\">2 Samuel 3.13–16</a>).</p><p>Michâl amaba a David al inicio de su relación e incluso engañó a su padre para ayudar a David a escapar de un plan para matarlo (<a href=\"https://ref.ly/1Sam19:11-1Sam19:17\">1 Samuel 19.11–17</a>). Después de que David dejó la corte de Saúl, Saúl organizó otro matrimonio para ella (<a href=\"https://ref.ly/1Sam25:44\">1 Samuel 25.44</a>). Sin embargo, David más tarde anuló ese matrimonio para traerla de vuelta (<a href=\"https://ref.ly/2Sam3:13-2Sam3:16\">2 Samuel 3.13–16</a>). Michâl mostró falta de respeto hacia David cuando él bailó alegremente ante el arca de la alianza mientras era llevada a Jerusalén (<a href=\"https://ref.ly/2Sam6:16-2Sam6:23\">2 Samuel 6.16–23</a>). Debido a su falta de respeto hacia el Rey David, Michâl no pudo tener hijos.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/1Sam14:49\">1 Samuel 14.49;</a> <a href=\"https://ref.ly/1Sam18:17-1Sam18:30\">18.17–30;</a> <a href=\"https://ref.ly/1Sam19:11-1Sam19:17\">19.11–17</a>; <a href=\"https://ref.ly/2Sam3:13-2Sam3:16\">2 Samuel 3.13–16;</a> <a href=\"https://ref.ly/2Sam6:16-2Sam6:23\">6.16–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09014049",
+          "start_ref_usfm": "1SA 14:49",
+          "end_ref": "09014049",
+          "end_ref_usfm": "1SA 14:49"
+        },
+        {
+          "start_ref": "09018020",
+          "start_ref_usfm": "1SA 18:20",
+          "end_ref": "09018020",
+          "end_ref_usfm": "1SA 18:20"
+        },
+        {
+          "start_ref": "09025044",
+          "start_ref_usfm": "1SA 25:44",
+          "end_ref": "09025044",
+          "end_ref_usfm": "1SA 25:44"
+        },
+        {
+          "start_ref": "09019011",
+          "start_ref_usfm": "1SA 19:11",
+          "end_ref": "09019017",
+          "end_ref_usfm": "1SA 19:17"
+        },
+        {
+          "start_ref": "10006016",
+          "start_ref_usfm": "2SA 6:16",
+          "end_ref": "10006023",
+          "end_ref_usfm": "2SA 6:23"
+        },
+        {
+          "start_ref": "09018017",
+          "start_ref_usfm": "1SA 18:17",
+          "end_ref": "09018027",
+          "end_ref_usfm": "1SA 18:27"
+        },
+        {
+          "start_ref": "10003013",
+          "start_ref_usfm": "2SA 3:13",
+          "end_ref": "10003016",
+          "end_ref_usfm": "2SA 3:16"
+        },
+        {
+          "start_ref": "09018017",
+          "start_ref_usfm": "1SA 18:17",
+          "end_ref": "09018030",
+          "end_ref_usfm": "1SA 18:30"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

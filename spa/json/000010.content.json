@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 658321,
+    "reference_id": 203396,
+    "title": "Agar",
+    "media_type": "Text",
+    "index_reference": "agar",
+    "language": "spa",
+    "content": "<p>Agar era la sierva egipcia de Sarai, la esposa de Abram. Cuando Dios le dijo a Abram que dejara Mesopotamia, le prometió muchos descendientes y una nueva tierra (<a href=\"https://ref.ly/Gen12:2\">Génesis 12.2</a>, <a href=\"https://ref.ly/Gen12:7\">7</a>). Después de diez años en Canaán sin hijos, Sarai siguió una costumbre mesopotámica. Ella entregó a Agar a Abram como concubina (esposa secundaria). Cualquier hijo de esta unión se consideraba hijo de la esposa (ver <a href=\"https://ref.ly/Gen30:1-Gen30:8\">Génesis 30.1–8</a>).</p><p>Agar quedó embarazada y empezó a faltar al respeto a Sarai. Sarai reaccionó tratándola con dureza, lo que llevó a Agar a huir al desierto (<a href=\"https://ref.ly/Gen16:4-Gen16:6\">Génesis 16.4–6</a>). Un ángel del Señor se le apareció junto a un pozo en el desierto y le indicó que regresara a la casa de Abram y obedeciera a Sarai.</p><p>Agar dio a luz a un hijo llamado Ismael cuando Abram tenía ochenta y seis años (<a href=\"https://ref.ly/Gen16:1-Gen16:16\">Génesis 16.1–16</a>).</p><p>Catorce años después, Dios les dio a Abraham y Sara su hijo prometido, Isaac. Cuando Isaac fue destetado, alrededor de los tres años, celebraron un banquete tradicional. Durante el evento, Ismael se burló de Isaac (<a href=\"https://ref.ly/Gen21:9\">Génesis 21.9</a>), por lo que Sara insistió en que Abraham enviara a Agar e Ismael lejos. Dios apoyó esta decisión (<a href=\"https://ref.ly/Gen21:12\">Génesis 21.12</a>), así que Agar e Ismael se fueron a vagar por el desierto de <span>Beer-seba</span>. Cuando se les acabó el agua, Dios los salvó milagrosamente y prometió a Agar que Ismael se convertiría en el padre de una gran nación (<a href=\"https://ref.ly/Gen21:17-Gen21:19\">Génesis 21.17–19</a>).</p><p>Pablo empleó una analogía en <a href=\"https://ref.ly/Gal4:22-Gal4:31\">Gálatas 4.22–31</a> donde Agar representa el Monte Sinaí, el lugar del antiguo pacto (el acuerdo especial de Dios con los israelitas). Sara representa la Jerusalem celestial, la comunidad de aquellos que obtienen la salvación mediante la fe en Cristo. Así como Isaac fue el hijo de Abraham por la fe en la promesa de Dios, los cristianos que son libres de la ley son hijos espirituales de Sara.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Gen16:1-Gen16:16\">Génesis 16.1–16</a>; <a href=\"https://ref.ly/Gen21:9-Gen21:21\">21.9–21</a>; <a href=\"https://ref.ly/Gen25:12\">25.12</a>; <a href=\"https://ref.ly/Gal4:22-Gal4:31\">Gálatas 4.22–31</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012002",
+          "start_ref_usfm": "GEN 12:2",
+          "end_ref": "01012002",
+          "end_ref_usfm": "GEN 12:2"
+        },
+        {
+          "start_ref": "01012007",
+          "start_ref_usfm": "GEN 12:7",
+          "end_ref": "01012007",
+          "end_ref_usfm": "GEN 12:7"
+        },
+        {
+          "start_ref": "01021009",
+          "start_ref_usfm": "GEN 21:9",
+          "end_ref": "01021009",
+          "end_ref_usfm": "GEN 21:9"
+        },
+        {
+          "start_ref": "01021012",
+          "start_ref_usfm": "GEN 21:12",
+          "end_ref": "01021012",
+          "end_ref_usfm": "GEN 21:12"
+        },
+        {
+          "start_ref": "01025012",
+          "start_ref_usfm": "GEN 25:12",
+          "end_ref": "01025012",
+          "end_ref_usfm": "GEN 25:12"
+        },
+        {
+          "start_ref": "01016001",
+          "start_ref_usfm": "GEN 16:1",
+          "end_ref": "01016016",
+          "end_ref_usfm": "GEN 16:16"
+        },
+        {
+          "start_ref": "01021009",
+          "start_ref_usfm": "GEN 21:9",
+          "end_ref": "01021021",
+          "end_ref_usfm": "GEN 21:21"
+        },
+        {
+          "start_ref": "01021017",
+          "start_ref_usfm": "GEN 21:17",
+          "end_ref": "01021019",
+          "end_ref_usfm": "GEN 21:19"
+        },
+        {
+          "start_ref": "48004022",
+          "start_ref_usfm": "GAL 4:22",
+          "end_ref": "48004031",
+          "end_ref_usfm": "GAL 4:31"
+        },
+        {
+          "start_ref": "01030001",
+          "start_ref_usfm": "GEN 30:1",
+          "end_ref": "01030008",
+          "end_ref_usfm": "GEN 30:8"
+        },
+        {
+          "start_ref": "01016004",
+          "start_ref_usfm": "GEN 16:4",
+          "end_ref": "01016006",
+          "end_ref_usfm": "GEN 16:6"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

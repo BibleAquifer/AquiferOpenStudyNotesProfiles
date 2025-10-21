@@ -1,0 +1,126 @@
+[
+  {
+    "content_id": 658341,
+    "reference_id": 203416,
+    "title": "Balaam",
+    "media_type": "Text",
+    "index_reference": "balaam",
+    "language": "spa",
+    "content": "<p>Balaam era un adivino que interpretaba señales para predecir el futuro y realizaba rituales para modificarlo (ver <span data-bnType=\"resourceReference\" data-resourceId=\"21970\" data-resourceType=\"TyndaleStudyNotes\">nota de estudio sobre Números 22.5–6</span>; comparar <a href=\"https://ref.ly/Josh13:22\">Josué 13.22</a>). Trabajaba por dinero, así que cuando Balac, el rey de Moab, quiso contratarlo para maldecir a Israel, estaba ansioso por comenzar. Incluso cuando Dios le dijo que no fuera, esperaba que Dios cambiara de opinión porque estaba muy interesado en el dinero (<a href=\"https://ref.ly/2Pet2:15\">2 Pedro 2.15</a>).</p><p>Finalmente, Dios permitió que Balaam fuera, pero solo si Balaam aceptaba decir lo que Dios le instruyera, con el objetivo de frustrar los planes de Balac (<a href=\"https://ref.ly/Deut23:4-Deut23:5\">Deuteronomio 23.4–5</a>). En el camino, el burro de Balaam se detuvo y se negó a avanzar porque el Ángel del Señor bloqueaba el camino. El burro podía ver al Ángel, pero Balaam no. A pesar de esto, Balaam, sabiamente, eligió no maldecir a los israelitas cuando Dios le dijo que los bendijera. Para gran frustración de Balac, bendecirlos fue lo único que Balaam pudo hacer.</p><p>Recientemente, se descubrió una inscripción que menciona a Balaam, hijo de Beor, un adivino que tenía visiones nocturnas (ver <a href=\"https://ref.ly/Num22:9-Num22:12\">Números 22.9–12</a>, <a href=\"https://ref.ly/Num22:20\">20</a>). La inscripción fue escrita en una pared de yeso en Deir ‘Alla, a ocho millas al este del Río Jordán, cerca del lugar donde los hebreos acamparon durante el incidente de Balaam. Este texto no bíblico, fechado entre 800 y 750 a.C., identifica a Balaam como un “vidente de los dioses.” Indica que los dioses, cuyos nombres en la inscripción se asemejan a <em>Shaddai</em> (“Todopoderoso”; ver <a href=\"https://ref.ly/Num24:4\">Números 24.4</a>, <a href=\"https://ref.ly/Num24:16\">16</a>), le dieron a Balaam un mensaje y anunciaron juicio sobre el mundo (ver <a href=\"https://ref.ly/Num24:15-Num24:25\">Números 24.15–25</a>). La inscripción proporciona una rara evidencia externa a la Biblia sobre un personaje bíblico.</p><p>El carácter y las motivaciones de Balaam parecen ser mixtos en <a href=\"https://ref.ly/Num22:1-Num24:25\">Números 22–24</a>. <a href=\"https://ref.ly/Num25:1-Num25:18\">Números 25</a> describe cómo los hombres de Israel pecaron al relacionarse con mujeres moabitas y adorar a sus dioses, lo que enfureció a Dios. Aunque Balaam no se menciona aquí, <a href=\"https://ref.ly/Num31:16\">Números 31.16</a> lo identifica como el instigador de este complot. Después de que terminaron sus visiones, Balaam permaneció en Moab y buscó formas de perjudicar a Israel y obtener ganancias. Los israelitas lo mataron poco después (<a href=\"https://ref.ly/Num31:8\">Números 31.8</a>). Balaam se hizo conocido como:</p><ul><li><p>Un mago con malas intenciones (ver <a href=\"https://ref.ly/Deut23:4-Deut23:5\">Deuteronomio 23.4–5</a>; <a href=\"https://ref.ly/Josh13:22\">Josué 13.22</a>)</p></li><li><p>Un falso maestro interesado únicamente en el dinero (ver <a href=\"https://ref.ly/Neh13:2\">Nehemías 13.2</a>; <a href=\"https://ref.ly/2Pet2:15\">2 Pedro 2.15</a>; <a href=\"https://ref.ly/Jude1:11\">Judas 1.11</a>)</p></li><li><p>Alguien que condujo a Israel hacia la idolatría y la inmoralidad (<a href=\"https://ref.ly/Num31:16\">Números 31.16</a>; ver <a href=\"https://ref.ly/Rev2:14\">Apocalipsis 2.14</a>)</p></li></ul><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Num22:1-Num25:18\">Números 22.1–25.18</a>; <a href=\"https://ref.ly/Num31:8\">31.8</a>, <a href=\"https://ref.ly/Num31:16\">16</a>; <a href=\"https://ref.ly/Josh13:22\">Josué 13.22</a>; <a href=\"https://ref.ly/2Pet2:15-2Pet2:16\">2 Pedro 2.15–16</a>; <a href=\"https://ref.ly/Jude1:11\">Judas 1.11</a>; <a href=\"https://ref.ly/Rev2:14\">Apocalipsis 2.14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04022020",
+          "start_ref_usfm": "NUM 22:20",
+          "end_ref": "04022020",
+          "end_ref_usfm": "NUM 22:20"
+        },
+        {
+          "start_ref": "04024004",
+          "start_ref_usfm": "NUM 24:4",
+          "end_ref": "04024004",
+          "end_ref_usfm": "NUM 24:4"
+        },
+        {
+          "start_ref": "04024016",
+          "start_ref_usfm": "NUM 24:16",
+          "end_ref": "04024016",
+          "end_ref_usfm": "NUM 24:16"
+        },
+        {
+          "start_ref": "04031008",
+          "start_ref_usfm": "NUM 31:8",
+          "end_ref": "04031008",
+          "end_ref_usfm": "NUM 31:8"
+        },
+        {
+          "start_ref": "04031016",
+          "start_ref_usfm": "NUM 31:16",
+          "end_ref": "04031016",
+          "end_ref_usfm": "NUM 31:16"
+        },
+        {
+          "start_ref": "06013022",
+          "start_ref_usfm": "JOS 13:22",
+          "end_ref": "06013022",
+          "end_ref_usfm": "JOS 13:22"
+        },
+        {
+          "start_ref": "16013002",
+          "start_ref_usfm": "NEH 13:2",
+          "end_ref": "16013002",
+          "end_ref_usfm": "NEH 13:2"
+        },
+        {
+          "start_ref": "61002015",
+          "start_ref_usfm": "2PE 2:15",
+          "end_ref": "61002015",
+          "end_ref_usfm": "2PE 2:15"
+        },
+        {
+          "start_ref": "65001011",
+          "start_ref_usfm": "JUD 1:11",
+          "end_ref": "65001011",
+          "end_ref_usfm": "JUD 1:11"
+        },
+        {
+          "start_ref": "66002014",
+          "start_ref_usfm": "REV 2:14",
+          "end_ref": "66002014",
+          "end_ref_usfm": "REV 2:14"
+        },
+        {
+          "start_ref": "04022001",
+          "start_ref_usfm": "NUM 22:1",
+          "end_ref": "04024025",
+          "end_ref_usfm": "NUM 24:25"
+        },
+        {
+          "start_ref": "04025001",
+          "start_ref_usfm": "NUM 25:1",
+          "end_ref": "04025018",
+          "end_ref_usfm": "NUM 25:18"
+        },
+        {
+          "start_ref": "04024015",
+          "start_ref_usfm": "NUM 24:15",
+          "end_ref": "04024025",
+          "end_ref_usfm": "NUM 24:25"
+        },
+        {
+          "start_ref": "61002015",
+          "start_ref_usfm": "2PE 2:15",
+          "end_ref": "61002016",
+          "end_ref_usfm": "2PE 2:16"
+        },
+        {
+          "start_ref": "05023004",
+          "start_ref_usfm": "DEU 23:4",
+          "end_ref": "05023005",
+          "end_ref_usfm": "DEU 23:5"
+        },
+        {
+          "start_ref": "04022009",
+          "start_ref_usfm": "NUM 22:9",
+          "end_ref": "04022012",
+          "end_ref_usfm": "NUM 22:12"
+        },
+        {
+          "start_ref": "04022001",
+          "start_ref_usfm": "NUM 22:1",
+          "end_ref": "04025018",
+          "end_ref_usfm": "NUM 25:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 21970,
+          "content_id": 634573,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "Números 22:5-6",
+          "language": "spa"
+        }
+      ]
+    }
+  }
+]

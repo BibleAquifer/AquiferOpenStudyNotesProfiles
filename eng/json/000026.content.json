@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 500479,
+    "reference_id": 203422,
+    "title": "Deborah",
+    "media_type": "Text",
+    "index_reference": "deborah",
+    "language": "eng",
+    "content": "<p>The prophet Deborah was one of the early judges of Israel. She was a woman of integrity and devotion to the Lord. As a prophet, she received divine messages. As a judge, she settled legal disputes. People often called her “a mother in Israel” (see <a href=\"https://ref.ly/Judg5:7\">Judges 5:7</a>).</p><p>During Deborah&apos;s time, people were doing more wrong things. They stopped following God&apos;s ways, and the tribes of Israel were not united. Israel was doing &quot;<span>evil in the sight of the LORD&quot;</span> (<a href=\"https://ref.ly/Judg4:1\">Judges 4:1</a>). So, God handed Israel over to an oppressor, Jabin of Canaan. Once more, Israel cried out to the Lord for help (<a href=\"https://ref.ly/Judg4:3\">Judges 4:3</a>).</p><p>God called Barak to fight Sisera, the commander of Jabin’s army, through Deborah. However, Barak was not enthusiastic or brave. He insisted that Deborah accompany him. Deborah agreed but warned that a woman would receive the glory for the victory, not Barak. This came true when Barak defeated Sisera and his army, but Jael, the woman who killed Sisera, received the glory. Barak showed little courage or leadership. This was very different from the courage and leadership of Deborah and Jael. Deborah&apos;s actions led to forty years of peace for Israel (<a href=\"https://ref.ly/Judg5:31\">Judges 5:31</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Judg4:1-Judg5:31\">Judges 4:1–5:31</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07004001",
+          "start_ref_usfm": "JDG 4:1",
+          "end_ref": "07004001",
+          "end_ref_usfm": "JDG 4:1"
+        },
+        {
+          "start_ref": "07004003",
+          "start_ref_usfm": "JDG 4:3",
+          "end_ref": "07004003",
+          "end_ref_usfm": "JDG 4:3"
+        },
+        {
+          "start_ref": "07005007",
+          "start_ref_usfm": "JDG 5:7",
+          "end_ref": "07005007",
+          "end_ref_usfm": "JDG 5:7"
+        },
+        {
+          "start_ref": "07005031",
+          "start_ref_usfm": "JDG 5:31",
+          "end_ref": "07005031",
+          "end_ref_usfm": "JDG 5:31"
+        },
+        {
+          "start_ref": "07004001",
+          "start_ref_usfm": "JDG 4:1",
+          "end_ref": "07005031",
+          "end_ref_usfm": "JDG 5:31"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 658427,
+    "reference_id": 203502,
+    "title": "Juan Marcos",
+    "media_type": "Text",
+    "index_reference": "juan marcos",
+    "language": "spa",
+    "content": "<p>Juan Marcos, quien escribió el primer Evangelio (el Evangelio de Marcos), asistió a tres misioneros tempranos:</p><ul><li><p>Bernabé</p></li><li><p>Pablo</p></li><li><p>Pedro</p></li></ul><p>Bernabé y Pablo llevaron a Marcos como asistente en su primer viaje misionero. Sin embargo, Marcos los abandonó y regresó a Jerusalem antes de que el viaje concluyera (<a href=\"https://ref.ly/Acts12:25\">Hechos 12.25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13.4–5</a>, <a href=\"https://ref.ly/Acts13:13\">13</a>). Debido a esto, cuando Bernabé quiso llevar a Marcos en el segundo viaje, Pablo se negó. Este desacuerdo dividió al equipo: Bernabé llevó a Marcos, su primo, mientras que Pablo eligió a Silas. Las dos parejas luego tomaron caminos separados (<a href=\"https://ref.ly/Acts15:36-Acts15:41\">Hechos 15.36–41</a>).</p><p>Más tarde, Pablo y Marcos se reconciliaron, y Marcos volvió a ser su asistente. En Colosenses, Pablo se refiere a Marcos como un colaborador y sugiere que pronto podría enviarlo a visitar la iglesia en Colosas (<a href=\"https://ref.ly/Col4:10\">Colosenses 4.10</a>; ver también <a href=\"https://ref.ly/Phlm1:24\">Filemón 1.24</a>). Incluso más adelante, cuando Pablo esperaba la ejecución en una prisión Romana, pidió a Timoteo que trajera a Marcos porque consideraba que sería útil en su ministerio (<a href=\"https://ref.ly/2Tim4:11\">2 Timoteo 4.11</a>).</p><p>Es probable que Marcos haya ayudado a Pedro con su obra misionera en Italia cerca del final de la vida de Pedro. En una de las cartas de Pedro, él llama cariñosamente a Marcos su &quot;hijo&quot; que está con él (<a href=\"https://ref.ly/1Pet5:13\">1 Pedro 5.13</a>). La tradición cristiana temprana describe a Marcos como el &quot;intérprete&quot; de Pedro y sugiere que Marcos obtuvo su información sobre la vida y las palabras de Jesús directamente de Pedro (Eusebio, <em>Historia de la Iglesia</em> 3.39.16).</p><p>El Evangelio de Marcos es generalmente considerado el más antiguo de todos los Evangelios. Casi con certeza, sirvió como fuente primaria para Mateo y Lucas al escribir sus propios Evangelios. Por esta razón, el Evangelio de Marcos es uno de los escritos cristianos tempranos más influyentes.</p><p>La historia de Marcos demuestra que Dios puede corregir errores humanos y restaurar relaciones complicadas para Cristo y el evangelio. Los fracasos iniciales no impiden que alguien tenga una vida de servicio significativa e impactante.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Acts12:12\">Hechos 12.12</a>, <a href=\"https://ref.ly/Acts12:25\">25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13.4–5</a>, <a href=\"https://ref.ly/Acts13:13\">13;</a> <a href=\"https://ref.ly/Acts15:36-Acts15:39\">15.36–39</a>; <a href=\"https://ref.ly/Col4:10\">Colosenses 4.10,</a> <a href=\"https://ref.ly/2Tim4:11\">2 Timoteo 4.11;</a> <a href=\"https://ref.ly/Phlm1:23-Phlm1:24\">Filemón 1.23–24,</a> <a href=\"https://ref.ly/1Pet5:13\">1 Pedro 5.13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012012",
+          "start_ref_usfm": "ACT 12:12",
+          "end_ref": "44012012",
+          "end_ref_usfm": "ACT 12:12"
+        },
+        {
+          "start_ref": "44012025",
+          "start_ref_usfm": "ACT 12:25",
+          "end_ref": "44012025",
+          "end_ref_usfm": "ACT 12:25"
+        },
+        {
+          "start_ref": "44013013",
+          "start_ref_usfm": "ACT 13:13",
+          "end_ref": "44013013",
+          "end_ref_usfm": "ACT 13:13"
+        },
+        {
+          "start_ref": "51004010",
+          "start_ref_usfm": "COL 4:10",
+          "end_ref": "51004010",
+          "end_ref_usfm": "COL 4:10"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004011",
+          "end_ref_usfm": "2TI 4:11"
+        },
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "60005013",
+          "start_ref_usfm": "1PE 5:13",
+          "end_ref": "60005013",
+          "end_ref_usfm": "1PE 5:13"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "57001023",
+          "start_ref_usfm": "PHM 1:23",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "44013004",
+          "start_ref_usfm": "ACT 13:4",
+          "end_ref": "44013005",
+          "end_ref_usfm": "ACT 13:5"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015039",
+          "end_ref_usfm": "ACT 15:39"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

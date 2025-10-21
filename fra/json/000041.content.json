@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 668908,
+    "reference_id": 203450,
+    "title": "Ézéchias",
+    "media_type": "Text",
+    "index_reference": "ézéchias",
+    "language": "fra",
+    "content": "<p>Ézéchias a été l&apos;un des meilleurs rois de Juda. Il a régné de 728 à 686 av. J.‑C. Alors que son père Achaz avait renoncé à adorer le Seigneur, Ézéchias se distingua en encourageant la véritable adoration de Dieu. Il entreprit de réparer les portes du temple, prépara les Lévites pour le service sacré et relança les cérémonies religieuses. Il offrit des sacrifices, rétablit le service sacerdotal et invita les habitants de Juda et d&apos;Israël à célébrer la Pâque à Jérusalem (<a href=\"https://ref.ly/2Chr29:1-2Chr30:27\">2Ch 29–30</a>). Après cette fête, il fit disparaître les lieux de culte païens.</p><p>Peu après le début de son règne, les Assyriens, d&apos;abord dirigés par Salmanasar V puis par Sargon II, remportèrent d&apos;importantes victoires sur le royaume du Nord, déportant le peuple et y amenant des étrangers (722 av. J.-C). Lorsque Sargon II mourut en 705 av. J.-C., son fils Sanchérib accéda au pouvoir, ce qui s&apos;accompagna d&apos;un climat de rébellion généralisé.</p><p>Ézéchias cessa alors de payer le tribut consentit par son père Achaz (<a href=\"https://ref.ly/2Kgs18:7\">2R 18.7</a> ; voir <a href=\"https://ref.ly/2Kgs16:7\">16.7</a>). En retour, Sanchérib envahit Juda en 701 av. J.‑C. Ézéchias tenta d&apos;apaiser le dirigeant assyrien en offrant un tribut considérable, mais cela ne fonctionna pas. Les forces assyriennes menacèrent alors Jérusalem et se moquèrent de la confiance d&apos;Ézéchias dans le Seigneur (<a href=\"https://ref.ly/2Kgs18:17-2Kgs18:35\">2R 18.17–35</a>). Ézéchias répondit à ces attaques par le deuil et la prière, et le Seigneur, par l&apos;intermédiaire du prophète Ésaïe, lui assura que ses prières allaient être exaucées et que Sanchérib n&apos;allait pas conquérir Jérusalem (<a href=\"https://ref.ly/2Kgs19:1-2Kgs19:34\">2R 19.1–34</a>).</p><p>C&apos;est autour de la même époque qu&apos;Ézéchias tomba gravement malade (<a href=\"https://ref.ly/2Kgs20:1-2Kgs20:11\">2R 20.1–11</a>). Le prophète Ésaïe lui conseilla de se préparer à mourir, mais Ézéchias implora le Seigneur pour sa guérison. Dieu lui accorda alors quinze années de vie supplémentaires, ainsi que la délivrance des Assyriens. Cependant, dans un moment d&apos;imprudence, Ézéchias invita le roi babylonien Berodac-Baladan dans son palais, lui montrant les trésors du temple et cherchant le soutien de Babylone plutôt que celui du Seigneur. Ésaïe lui dit alors que toutes ses richesses allaient bientôt être emportées à Babylone (<a href=\"https://ref.ly/2Kgs20:12-2Kgs20:19\">2R 20.12–19</a>).</p><p>Après la menace assyrienne de 701 av. J.-C., Ézéchias vécut des années paisibles et prospères. Il mourut en 686 av. J.-C., laissant le trône à son fils Manassé.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/2Kgs18:1-2Kgs20:21\">2R 18.1–20.21</a> ; <a href=\"https://ref.ly/2Chr28:27-2Chr32:33\">2Ch 28.27–32.33</a> ; <a href=\"https://ref.ly/Isa36:1-Isa39:8\">Es 36.1–39.8</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12016007",
+          "start_ref_usfm": "2KI 16:7",
+          "end_ref": "12016007",
+          "end_ref_usfm": "2KI 16:7"
+        },
+        {
+          "start_ref": "12018007",
+          "start_ref_usfm": "2KI 18:7",
+          "end_ref": "12018007",
+          "end_ref_usfm": "2KI 18:7"
+        },
+        {
+          "start_ref": "12020012",
+          "start_ref_usfm": "2KI 20:12",
+          "end_ref": "12020019",
+          "end_ref_usfm": "2KI 20:19"
+        },
+        {
+          "start_ref": "12020001",
+          "start_ref_usfm": "2KI 20:1",
+          "end_ref": "12020011",
+          "end_ref_usfm": "2KI 20:11"
+        },
+        {
+          "start_ref": "12018001",
+          "start_ref_usfm": "2KI 18:1",
+          "end_ref": "12020021",
+          "end_ref_usfm": "2KI 20:21"
+        },
+        {
+          "start_ref": "23036001",
+          "start_ref_usfm": "ISA 36:1",
+          "end_ref": "23039008",
+          "end_ref_usfm": "ISA 39:8"
+        },
+        {
+          "start_ref": "14029001",
+          "start_ref_usfm": "2CH 29:1",
+          "end_ref": "14030027",
+          "end_ref_usfm": "2CH 30:27"
+        },
+        {
+          "start_ref": "12018017",
+          "start_ref_usfm": "2KI 18:17",
+          "end_ref": "12018035",
+          "end_ref_usfm": "2KI 18:35"
+        },
+        {
+          "start_ref": "12019001",
+          "start_ref_usfm": "2KI 19:1",
+          "end_ref": "12019034",
+          "end_ref_usfm": "2KI 19:34"
+        },
+        {
+          "start_ref": "14028027",
+          "start_ref_usfm": "2CH 28:27",
+          "end_ref": "14032033",
+          "end_ref_usfm": "2CH 32:33"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

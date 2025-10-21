@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 500482,
+    "reference_id": 203425,
+    "title": "Ruth",
+    "media_type": "Text",
+    "index_reference": "ruth",
+    "language": "eng",
+    "content": "<p>The story of Ruth is about a kind and loyal woman. It shows how God&apos;s hidden guidance helps those who love Him (<a href=\"https://ref.ly/Rom8:28\">Romans 8:28</a>). This story is part of the history leading to the Messiah (God’s chosen one). It begins with sadness but ends happily.</p><p>Ruth lived during the chaotic time of the judges. She was a foreigner from Moab who married into an Israelite family from Bethlehem while they were in Moab. All the men in this family died in Moab, leaving three widows—Ruth, her mother-in-law Naomi, and her sister-in-law Orpah. When Naomi decided to return to Bethlehem, Ruth chose to go with her. Ruth&apos;s expression of love, loyalty, and faith in the Lord, who was Naomi&apos;s God, is unmatched (<a href=\"https://ref.ly/Ruth1:16-Ruth1:17\">Ruth 1:16–17</a>).</p><p>As Naomi expected, life in Bethlehem was hard for her and her daughter-in-law. Ruth took the initiative to solve their food problem by gleaning in the grain fields. This task was hard and risky (<a href=\"https://ref.ly/Ruth2:2\">Ruth 2:2</a>). She acted with modesty, grace, and courtesy, but also with determination, focus, and endurance.</p><p>With Naomi&apos;s encouragement, Ruth asked Boaz, a wealthy landowner who supported her gleaning, to be the family redeemer (<a href=\"https://ref.ly/Ruth3:1-Ruth3:9\">Ruth 3:1–9</a>). This included marriage. By doing this, Ruth showed great family loyalty (<a href=\"https://ref.ly/Ruth3:10\">Ruth 3:10</a>). Ruth&apos;s generous and diligent care for Naomi is a major theme in this book. Boaz responded to Ruth&apos;s proposal by calling her a virtuous woman (<a href=\"https://ref.ly/Ruth3:11\">Ruth 3:11</a>). She showed what it means to be a virtuous and capable wife (see <a href=\"https://ref.ly/Prov31:10-Prov31:31\">Proverbs 31:10–31</a>, which uses the same Hebrew phrase and is placed immediately before Ruth in the Hebrew Bible).</p><p>Boaz resolved the legal matters and then married Ruth. The book concludes with the birth of a baby boy, Obed. This ending reveals an important purpose of the book of Ruth. Obed became King David&apos;s grandfather. The New Testament mentions Ruth as one of only five women in the genealogy of Jesus Christ (<a href=\"https://ref.ly/Matt1:5\">Matthew 1:5</a>). Ruth&apos;s everyday faithfulness had eternal significance as God fulfilled his purposes through her.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Ruth1:4-Ruth4:13\">Ruth 1:4–4:13</a>; <a href=\"https://ref.ly/Matt1:5\">Matthew 1:5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08002002",
+          "start_ref_usfm": "RUT 2:2",
+          "end_ref": "08002002",
+          "end_ref_usfm": "RUT 2:2"
+        },
+        {
+          "start_ref": "08003010",
+          "start_ref_usfm": "RUT 3:10",
+          "end_ref": "08003010",
+          "end_ref_usfm": "RUT 3:10"
+        },
+        {
+          "start_ref": "08003011",
+          "start_ref_usfm": "RUT 3:11",
+          "end_ref": "08003011",
+          "end_ref_usfm": "RUT 3:11"
+        },
+        {
+          "start_ref": "40001005",
+          "start_ref_usfm": "MAT 1:5",
+          "end_ref": "40001005",
+          "end_ref_usfm": "MAT 1:5"
+        },
+        {
+          "start_ref": "45008028",
+          "start_ref_usfm": "ROM 8:28",
+          "end_ref": "45008028",
+          "end_ref_usfm": "ROM 8:28"
+        },
+        {
+          "start_ref": "20031010",
+          "start_ref_usfm": "PRO 31:10",
+          "end_ref": "20031031",
+          "end_ref_usfm": "PRO 31:31"
+        },
+        {
+          "start_ref": "08001016",
+          "start_ref_usfm": "RUT 1:16",
+          "end_ref": "08001017",
+          "end_ref_usfm": "RUT 1:17"
+        },
+        {
+          "start_ref": "08003001",
+          "start_ref_usfm": "RUT 3:1",
+          "end_ref": "08003009",
+          "end_ref_usfm": "RUT 3:9"
+        },
+        {
+          "start_ref": "08001004",
+          "start_ref_usfm": "RUT 1:4",
+          "end_ref": "08004013",
+          "end_ref_usfm": "RUT 4:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

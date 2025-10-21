@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 668912,
+    "reference_id": 203454,
+    "title": "Asa",
+    "media_type": "Text",
+    "index_reference": "asa",
+    "language": "fra",
+    "content": "<p>Asa devint le troisième roi de Juda après la division de l&apos;empire de Salomon en royaumes distincts. Il monta sur le trône à la suite de son père, Abija, qui régna brièvement de 913 à 910 av. J.-C. Asa régna pendant 41 ans, de 910 à 869 av. J.-C.</p><p>Au début de son règne, Asa se distingua comme un roi exemplaire. Il s&apos;opposa vigoureusement au culte des faux dieux, détruisit le poteau d&apos;Astarté érigé par sa grand-mère Maaca, et mit fin à son influence politique (<a href=\"https://ref.ly/1Kgs15:13\">1R 15.13</a> ; <a href=\"https://ref.ly/2Chr15:16\">2Ch 15.16</a>).</p><p>Dans les premières années de son règne, Dieu lui accorda à la fois des victoires militaires et une période de paix. Ainsi, Asa expulsa ou vainquit quiconque cherchait à conquérir, diviser ou détruire le royaume de Juda&nbsp; (<a href=\"https://ref.ly/2Chr14:1-2Chr14:8\">2Ch 14.1–8</a>). Sa victoire la plus remarquable fut remportée contre un chef éthiopien nommé Zérach, qui avait lancé une attaque avec plus d&apos;un million de soldats. Par son obéissance et sa fidélité, Asa vit Dieu lui accorder une victoire éclatante (<a href=\"https://ref.ly/2Chr14:9-2Chr14:15\">2Ch 14.9–15</a>).</p><p>Cependant, vers la fin de son règne, l&apos;attitude d&apos;Asa devint mauvaise. Il cessa de faire confiance au Seigneur et se tourna vers des solutions humaines. Lorsque <span>Baescha</span>, le roi du royaume du Nord, attaqua Juda avec l&apos;appui de Ben-Hadad, roi d&apos;Aram, et fortifia la ville de Rama, Asa choisit de payer le roi d&apos;Aram afin de le détourner de son alliance avec <span>Baescha</span>. Ce geste montra qu&apos;Asa eut davantage confiance en un roi étranger qu&apos;en l&apos;Éternel. Pire encore, il paya Ben-Hadad avec l&apos;or et l&apos;argent qu&apos;il avait auparavant offert au temple. Bien que sa stratégie réussît à faire reculer le royaume du Nord, le prophète Hanani ne manqua pas de critiquer Asa pour ce manque de foi, ce qui poussa le roi à emprisonner le prophète (<a href=\"https://ref.ly/2Chr16:7-2Chr16:10\">2Ch 16.7–10</a>).</p><p>Dans les dernières années de son règne, Asa fut affligé par une grave maladie des pieds. Plutôt que de chercher le secours du Seigneur, il s&apos;en remit uniquement à l&apos;expertise de ses médecins (<a href=\"https://ref.ly/2Chr16:12\">2Ch 16.12</a>). Néanmoins, à sa mort, il fut enterré avec honneur dans les tombes royales (<a href=\"https://ref.ly/2Chr16:14\">2Ch 16.14</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/1Kgs15:8-1Kgs15:24\">1 Rois 15.8–24</a> ; <a href=\"https://ref.ly/2Chr14:1-2Chr16:14\">2 Chroniques 14.1–16.14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11015013",
+          "start_ref_usfm": "1KI 15:13",
+          "end_ref": "11015013",
+          "end_ref_usfm": "1KI 15:13"
+        },
+        {
+          "start_ref": "14015016",
+          "start_ref_usfm": "2CH 15:16",
+          "end_ref": "14015016",
+          "end_ref_usfm": "2CH 15:16"
+        },
+        {
+          "start_ref": "14016012",
+          "start_ref_usfm": "2CH 16:12",
+          "end_ref": "14016012",
+          "end_ref_usfm": "2CH 16:12"
+        },
+        {
+          "start_ref": "14016014",
+          "start_ref_usfm": "2CH 16:14",
+          "end_ref": "14016014",
+          "end_ref_usfm": "2CH 16:14"
+        },
+        {
+          "start_ref": "14014001",
+          "start_ref_usfm": "2CH 14:1",
+          "end_ref": "14014008",
+          "end_ref_usfm": "2CH 14:8"
+        },
+        {
+          "start_ref": "14016007",
+          "start_ref_usfm": "2CH 16:7",
+          "end_ref": "14016010",
+          "end_ref_usfm": "2CH 16:10"
+        },
+        {
+          "start_ref": "14014009",
+          "start_ref_usfm": "2CH 14:9",
+          "end_ref": "14014015",
+          "end_ref_usfm": "2CH 14:15"
+        },
+        {
+          "start_ref": "11015008",
+          "start_ref_usfm": "1KI 15:8",
+          "end_ref": "11015024",
+          "end_ref_usfm": "1KI 15:24"
+        },
+        {
+          "start_ref": "14014001",
+          "start_ref_usfm": "2CH 14:1",
+          "end_ref": "14016014",
+          "end_ref_usfm": "2CH 16:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 668871,
+    "reference_id": 203413,
+    "title": "Pharaon",
+    "media_type": "Text",
+    "index_reference": "pharaon",
+    "language": "fra",
+    "content": "<p>Le terme <strong>« </strong>Pharaon » vient de l&apos;égyptien et signifie « grande maison ». Il désignait à la fois le palais royal et servait de titre au roi d&apos;Égypte. À l’époque de Joseph, le Pharaon portait un regard favorable sur les Israélites. Après que Joseph a interprété ses rêves, il a été élevé au rang de second en Égypte (<a href=\"https://ref.ly/Gen41:1-Gen41:44\">Gn 41.1–44</a>). Le Pharaon a donné à la famille de Joseph les meilleures terres d&apos;Égypte (<a href=\"https://ref.ly/Gen45:16-Gen45:20\">Gn 45.16–20</a>). Les Israélites s&apos;y sont établis, ont prospéré et ont vu leur population augmenter.</p><p>Deux pharaons sont mentionnés dans le livre de l&apos;Exode, et aucun d&apos;eux ne portait un regard favorable sur le peuple hébreu (voir <a href=\"https://ref.ly/Exod1:8-Exod1:10\">Ex 1.8–10</a>). Craignant la montée en puissance des Hébreux, il a ordonné l’exécution de tous les nouveau-nés de sexe masculin. Moïse a échappé à ce sort et a été élevé au palais par la fille du pharaon. Ce pharaon est mort après la fuite de Moïse hors d&apos;Égypte (<a href=\"https://ref.ly/Exod2:23\">Ex 2.23</a>).</p><p>Un nouveau Pharaon a accédé au pouvoir, et Moïse et Aaron l&apos;ont ensuite confronté. Résolu à retenir les Israélites en Égypte, il est demeuré inflexible malgré les manifestations de la puissance de Dieu. La Bible souligne son entêtement (voir <a href=\"https://ref.ly/Exod8:32\">Ex 8.32</a> ; <a href=\"https://ref.ly/Exod9:12\">9.12</a>, <a href=\"https://ref.ly/Exod9:34-Exod9:35\">34–35</a> ; comparer <a href=\"https://ref.ly/Rom1:18-Rom1:32\">Rm 1.18–32</a>).</p><p>En tant que roi, le Pharaon incarnait l&apos;autorité des dieux sur l&apos;Égypte, ce qui lui conférait un pouvoir absolu. Les plaies envoyées par Dieu représentaient une attaque directe contre les faux-dieux égyptiens (voir <a href=\"https://ref.ly/Exod12:12\">Ex 12.12</a>). La dernière plaie, la mort des premiers-nés, ciblait la maison du Pharaon, et c&apos;est elle qui l&apos;a décidé à libérer Israël. Cependant, après leur départ, il est revenu sur sa décision et a lancé ses troupes à leur poursuite jusqu’à la mer Rouge. Là, Dieu est intervenu en sauvant les Israélites sans défense et en anéantissant les Égyptiens, faisant de cet événement l’une des délivrances les plus marquantes de l’Ancien Testament. À la mer Rouge, le Seigneur s&apos;est manifesté comme un puissant guerrier qui combat pour son peuple (<a href=\"https://ref.ly/Exod15:3\">Ex 15.3</a>).</p><p>Les pharaons mentionnés dans l&apos;Exode ne sont pas appelés par leur nom, comme le voulait la tradition égyptienne. Si les Israélites ont quitté l&apos;Égypte dans les années 1 400 av. J.‑C., le pharaon était peut-être Thoutmôsis III, qui a régné d&apos;environ 1 504 à 1 450 av. J.‑C. S&apos;ils sont partis dans les années 1 200 av. J.‑C. comme l&apos;indique une autre chronologie, le pharaon était alors probablement Ramsès II, qui a régné d&apos;environ 1 279 à 1 213 av. J.‑C.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Exod1:8-Exod1:22\">Exode 1.8–22</a> ; <a href=\"https://ref.ly/Exod2:14-Exod2:15\">2.14–15</a>, <a href=\"https://ref.ly/Exod2:23\">23</a> ; <a href=\"https://ref.ly/Exod5:1-Exod15:21\">5.1–15.21</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02002023",
+          "start_ref_usfm": "EXO 2:23",
+          "end_ref": "02002023",
+          "end_ref_usfm": "EXO 2:23"
+        },
+        {
+          "start_ref": "02008032",
+          "start_ref_usfm": "EXO 8:32",
+          "end_ref": "02008032",
+          "end_ref_usfm": "EXO 8:32"
+        },
+        {
+          "start_ref": "02009012",
+          "start_ref_usfm": "EXO 9:12",
+          "end_ref": "02009012",
+          "end_ref_usfm": "EXO 9:12"
+        },
+        {
+          "start_ref": "02012012",
+          "start_ref_usfm": "EXO 12:12",
+          "end_ref": "02012012",
+          "end_ref_usfm": "EXO 12:12"
+        },
+        {
+          "start_ref": "02015003",
+          "start_ref_usfm": "EXO 15:3",
+          "end_ref": "02015003",
+          "end_ref_usfm": "EXO 15:3"
+        },
+        {
+          "start_ref": "45001018",
+          "start_ref_usfm": "ROM 1:18",
+          "end_ref": "45001032",
+          "end_ref_usfm": "ROM 1:32"
+        },
+        {
+          "start_ref": "02001008",
+          "start_ref_usfm": "EXO 1:8",
+          "end_ref": "02001010",
+          "end_ref_usfm": "EXO 1:10"
+        },
+        {
+          "start_ref": "02001008",
+          "start_ref_usfm": "EXO 1:8",
+          "end_ref": "02001022",
+          "end_ref_usfm": "EXO 1:22"
+        },
+        {
+          "start_ref": "01041001",
+          "start_ref_usfm": "GEN 41:1",
+          "end_ref": "01041044",
+          "end_ref_usfm": "GEN 41:44"
+        },
+        {
+          "start_ref": "01045016",
+          "start_ref_usfm": "GEN 45:16",
+          "end_ref": "01045020",
+          "end_ref_usfm": "GEN 45:20"
+        },
+        {
+          "start_ref": "02009034",
+          "start_ref_usfm": "EXO 9:34",
+          "end_ref": "02009035",
+          "end_ref_usfm": "EXO 9:35"
+        },
+        {
+          "start_ref": "02002014",
+          "start_ref_usfm": "EXO 2:14",
+          "end_ref": "02002015",
+          "end_ref_usfm": "EXO 2:15"
+        },
+        {
+          "start_ref": "02005001",
+          "start_ref_usfm": "EXO 5:1",
+          "end_ref": "02015021",
+          "end_ref_usfm": "EXO 15:21"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

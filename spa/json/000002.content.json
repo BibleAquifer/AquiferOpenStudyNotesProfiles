@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 658355,
+    "reference_id": 203430,
+    "title": "Abiathar",
+    "media_type": "Text",
+    "index_reference": "abiathar",
+    "language": "spa",
+    "content": "<p>Abiathar sirvió como sumo sacerdote durante los reinados de David y Salomón. Conoció a David por primera vez antes de que este se convirtiera en rey. Cuando David huyó de Saúl, se detuvo en la ciudad de Nob. Fingiendo seguir las órdenes de Saúl, David obtuvo comida y suministros de los sacerdotes allí. Saúl se enteró y se enfureció tanto que mató a todos los sacerdotes, excepto a uno; solo Abiathar sobrevivió.</p><p>Abiathar fue uno de los primeros en la administración de Saúl en apoyar a David. Su apoyo fue sólido. Representaba la línea sacerdotal de Elí y trajo el santo ephod con el Urim y Thummim (<a href=\"https://ref.ly/Exod28:29-Exod28:30\">Éxodo 28.29–30</a>). (El ephod era una vestimenta sagrada usada por el sumo sacerdote, y el Urim y Thummim se utilizaban para buscar la guía de Dios). Esto le permitió buscar la orientación divina para David durante las crisis (<a href=\"https://ref.ly/1Sam23:1-1Sam23:12\">1 Samuel 23.1–12;</a> <a href=\"https://ref.ly/1Sam30:7-1Sam30:8\">30.7–8</a>).</p><p>Después de que David se convirtió en rey, Abiathar sirvió como sacerdote junto a Sadoc, quien no pertenecía a la línea de Elí (<a href=\"https://ref.ly/1Chr6:8\">1 Crónicas 6.8;</a> <a href=\"https://ref.ly/1Chr18:16\">18.16;</a> <a href=\"https://ref.ly/1Chr24:3\">24.3</a>). Ambos sirvieron bien a David. Durante la rebelión de Absalom, informaron a David sobre los eventos en la capital (<a href=\"https://ref.ly/2Sam15:27-2Sam15:37\">2 Samuel 15.27–37;</a> <a href=\"https://ref.ly/2Sam17:15-2Sam17:16\">17.15–16</a>).</p><p>Durante la vejez de David, Abiathar apoyó equivocadamente el intento de Adonía de convertirse en rey en lugar de su padre. Sadoc, por su parte, se mantuvo leal a David y respaldó a Salomón (<a href=\"https://ref.ly/1Kgs1:5-1Kgs1:8\">1 Reyes 1.5–8</a>). Como consecuencia, cuando Salomón ascendió al trono, despojó a Abiathar de su autoridad sacerdotal y lo envió a su propiedad en Anathoth, un pueblo situado a unas cuatro millas al noreste de Jerusalem (<a href=\"https://ref.ly/1Kgs2:26-1Kgs2:27\">1 Reyes 2.26–27</a>). Sadoc fue nombrado sumo sacerdote, y sus descendientes heredaron ese cargo en lugar de los de Abiathar. Esto cumplió la profecía que el Señor había dado en Silo sobre los descendientes de Eli (<a href=\"https://ref.ly/1Kgs2:27\">1 Reyes 2.27;</a> ver <a href=\"https://ref.ly/1Sam2:27-1Sam2:36\">1 Samuel 2.27–36</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/1Sam22:20-1Sam22:23\">1 Samuel 22.20–23;</a> <a href=\"https://ref.ly/1Sam23:6\">23.6</a>, <a href=\"https://ref.ly/1Sam23:9\">9;</a> <a href=\"https://ref.ly/1Sam30:7\">30.7;</a> <a href=\"https://ref.ly/2Sam15:27-2Sam15:37\">2 Samuel 15.27–37;</a> <a href=\"https://ref.ly/2Sam17:15\">17.15;</a> <a href=\"https://ref.ly/1Kgs1:1-1Kgs2:35\">1 Reyes 1.1–2.35;</a> <a href=\"https://ref.ly/1Chr15:11\">1 Crónicas 15.11.</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09023006",
+          "start_ref_usfm": "1SA 23:6",
+          "end_ref": "09023006",
+          "end_ref_usfm": "1SA 23:6"
+        },
+        {
+          "start_ref": "09023009",
+          "start_ref_usfm": "1SA 23:9",
+          "end_ref": "09023009",
+          "end_ref_usfm": "1SA 23:9"
+        },
+        {
+          "start_ref": "09030007",
+          "start_ref_usfm": "1SA 30:7",
+          "end_ref": "09030007",
+          "end_ref_usfm": "1SA 30:7"
+        },
+        {
+          "start_ref": "10017015",
+          "start_ref_usfm": "2SA 17:15",
+          "end_ref": "10017015",
+          "end_ref_usfm": "2SA 17:15"
+        },
+        {
+          "start_ref": "11002027",
+          "start_ref_usfm": "1KI 2:27",
+          "end_ref": "11002027",
+          "end_ref_usfm": "1KI 2:27"
+        },
+        {
+          "start_ref": "13006008",
+          "start_ref_usfm": "1CH 6:8",
+          "end_ref": "13006008",
+          "end_ref_usfm": "1CH 6:8"
+        },
+        {
+          "start_ref": "13015011",
+          "start_ref_usfm": "1CH 15:11",
+          "end_ref": "13015011",
+          "end_ref_usfm": "1CH 15:11"
+        },
+        {
+          "start_ref": "13018016",
+          "start_ref_usfm": "1CH 18:16",
+          "end_ref": "13018016",
+          "end_ref_usfm": "1CH 18:16"
+        },
+        {
+          "start_ref": "13024003",
+          "start_ref_usfm": "1CH 24:3",
+          "end_ref": "13024003",
+          "end_ref_usfm": "1CH 24:3"
+        },
+        {
+          "start_ref": "09030007",
+          "start_ref_usfm": "1SA 30:7",
+          "end_ref": "09030008",
+          "end_ref_usfm": "1SA 30:8"
+        },
+        {
+          "start_ref": "11002026",
+          "start_ref_usfm": "1KI 2:26",
+          "end_ref": "11002027",
+          "end_ref_usfm": "1KI 2:27"
+        },
+        {
+          "start_ref": "09022020",
+          "start_ref_usfm": "1SA 22:20",
+          "end_ref": "09022023",
+          "end_ref_usfm": "1SA 22:23"
+        },
+        {
+          "start_ref": "09002027",
+          "start_ref_usfm": "1SA 2:27",
+          "end_ref": "09002036",
+          "end_ref_usfm": "1SA 2:36"
+        },
+        {
+          "start_ref": "02028029",
+          "start_ref_usfm": "EXO 28:29",
+          "end_ref": "02028030",
+          "end_ref_usfm": "EXO 28:30"
+        },
+        {
+          "start_ref": "09023001",
+          "start_ref_usfm": "1SA 23:1",
+          "end_ref": "09023012",
+          "end_ref_usfm": "1SA 23:12"
+        },
+        {
+          "start_ref": "10015027",
+          "start_ref_usfm": "2SA 15:27",
+          "end_ref": "10015037",
+          "end_ref_usfm": "2SA 15:37"
+        },
+        {
+          "start_ref": "10017015",
+          "start_ref_usfm": "2SA 17:15",
+          "end_ref": "10017016",
+          "end_ref_usfm": "2SA 17:16"
+        },
+        {
+          "start_ref": "11001005",
+          "start_ref_usfm": "1KI 1:5",
+          "end_ref": "11001008",
+          "end_ref_usfm": "1KI 1:8"
+        },
+        {
+          "start_ref": "11001001",
+          "start_ref_usfm": "1KI 1:1",
+          "end_ref": "11002035",
+          "end_ref_usfm": "1KI 2:35"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

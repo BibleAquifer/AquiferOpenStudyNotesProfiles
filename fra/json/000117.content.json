@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 668885,
+    "reference_id": 203427,
+    "title": "Saül",
+    "media_type": "Text",
+    "index_reference": "saül",
+    "language": "fra",
+    "content": "<p>Saül fut le premier roi d&apos;Israël, choisi à la fois par Dieu et par le peuple. Pourtant, il échoua lamentablement en raison de son manque de confiance en lui-même et en Dieu. Personnalité complexe, il nous fait parfois de la peine en raison de ses luttes intérieures, mais il était aussi l&apos;artisan de ses propres malheurs, apportant tristesse et problèmes à ceux qui l&apos;entouraient.</p><p>Fils d&apos;un riche propriétaire terrien, Saül accéda au trône sans l&apos;avoir cherché ni réellement voulu. Le peuple, désireux d&apos;un chef pour le conduire au combat, se réjouissait de sa stature imposante, car il surpassait en taille tous ses semblables (<a href=\"https://ref.ly/1Sam10:23\">1S 10.23</a>). Cependant, les difficultés militaires étaient grandes, et Saül manquait de confiance en sa capacité de commandement. Sans l&apos;intervention salvatrice du prophète Samuel et l&apos;appui fidèle de son fils Jonathan, son règne aurait pu se solder par un désastre complet.</p><p>Saül contraria Dieu en formulant des promesses hâtives et irréfléchies en pleine guerre&nbsp;(<a href=\"https://ref.ly/1Sam14:16-1Sam14:46\">1S 14.16–46</a>). Il offrit des sacrifices avant la bataille, au lieu d&apos;attendre l&apos;intervention de Samuel (<a href=\"https://ref.ly/1Sam13:7-1Sam13:14\">1S 13.7b–14</a>), et désobéit à l&apos;ordre divin de détruire tous les Amalécites ainsi que leurs biens (<a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">1S 15.1–35</a>). </p><p>En raison de ces nombreuses fautes, Dieu décida de lui ôter la royauté. Le prophète Samuel fut alors chargé de choisir David comme nouveau roi, en oignant ce dernier d&apos;huile sacrée sur la tête. Rapidement, Saül devint méfiant envers David, qui était non seulement le meilleur ami de son fils, mais aussi son serviteur le plus loyal. Saül se transforma alors en un dirigeant cruel, refusant de céder le pouvoir et faisant tous ces efforts pour essayer de capturer et de tuer David.</p><p>Finalement, Saül fut blessé lors d&apos;une bataille contre les Philistins et se suicida en se jetant son épée. Bien que David ait passé de longues années à fuir Saül, il rendit hommage à celui qui fut le premier roi d&apos;Israël (ainsi qu&apos;à son fils Jonathan) dans un discours empreint de sincérité (<a href=\"https://ref.ly/2Sam1:17-2Sam1:27\">2S 1.17–27</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/1Sam9:1-1Sam11:15\">1S 9.1–11.15</a> ; <a href=\"https://ref.ly/1Sam13:1-1Sam31:13\">13.1–31.13</a> ; <a href=\"https://ref.ly/2Sam1:1-2Sam1:27\">2S 1.1–27</a> ; <a href=\"https://ref.ly/1Chr9:35-1Chr10:14\">1Ch 9.35–10.14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09010023",
+          "start_ref_usfm": "1SA 10:23",
+          "end_ref": "09010023",
+          "end_ref_usfm": "1SA 10:23"
+        },
+        {
+          "start_ref": "09015001",
+          "start_ref_usfm": "1SA 15:1",
+          "end_ref": "09015035",
+          "end_ref_usfm": "1SA 15:35"
+        },
+        {
+          "start_ref": "10001001",
+          "start_ref_usfm": "2SA 1:1",
+          "end_ref": "10001027",
+          "end_ref_usfm": "2SA 1:27"
+        },
+        {
+          "start_ref": "10001017",
+          "start_ref_usfm": "2SA 1:17",
+          "end_ref": "10001027",
+          "end_ref_usfm": "2SA 1:27"
+        },
+        {
+          "start_ref": "09009001",
+          "start_ref_usfm": "1SA 9:1",
+          "end_ref": "09011015",
+          "end_ref_usfm": "1SA 11:15"
+        },
+        {
+          "start_ref": "09013007",
+          "start_ref_usfm": "1SA 13:7",
+          "end_ref": "09013014",
+          "end_ref_usfm": "1SA 13:14"
+        },
+        {
+          "start_ref": "09014016",
+          "start_ref_usfm": "1SA 14:16",
+          "end_ref": "09014046",
+          "end_ref_usfm": "1SA 14:46"
+        },
+        {
+          "start_ref": "09013001",
+          "start_ref_usfm": "1SA 13:1",
+          "end_ref": "09031013",
+          "end_ref_usfm": "1SA 31:13"
+        },
+        {
+          "start_ref": "13009035",
+          "start_ref_usfm": "1CH 9:35",
+          "end_ref": "13010014",
+          "end_ref_usfm": "1CH 10:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 500491,
+    "reference_id": 203434,
+    "title": "Abner",
+    "media_type": "Text",
+    "index_reference": "abner",
+    "language": "eng",
+    "content": "<p>Abner, son of Ner, was King Saul’s cousin and his general (<a href=\"https://ref.ly/1Sam14:49-1Sam14:52\">1 Samuel 14:49–52</a>). Under Abner&apos;s command, Saul’s armies won key battles against the Philistines (<a href=\"https://ref.ly/1Sam17:1-1Sam17:58\">1 Samuel 17:1–58</a>). Abner also dined with David and Jonathan at the king’s table (<a href=\"https://ref.ly/1Sam20:24-1Sam20:25\">1 Samuel 20:24–25</a>). However, Jonathan and David both surpassed Abner in Saul’s army.</p><p>David embarrassed Abner once (<a href=\"https://ref.ly/1Sam26:1-1Sam26:25\">1 Samuel 26:1–25</a>). Saul was chasing David to kill him. Saul and his troops camped in a circle, with Saul sleeping in the center and Abner beside him. Abishai and David sneaked into the camp and could have killed Saul. Instead, they took some items from beside Saul’s head. After retreating, David shouted to wake Saul and Abner and criticized Abner for being careless.</p><p>After Saul and Jonathan died, Abner supported Saul’s son Ishbosheth (<a href=\"https://ref.ly/2Sam2:8-2Sam2:12\">2 Samuel 2:8–12</a>) while the tribe of Judah made David king. During this period, Abner held the real power in the north. When Ishbosheth accused Abner of having relations with one of Saul’s concubines, Abner handed control of the northern kingdom to David. Ishbosheth was later murdered (<a href=\"https://ref.ly/2Sam4:1-2Sam4:12\">2 Samuel 4:1–12</a>).</p><p>During the battle between Ishbosheth and David, Abner had to kill Joab’s brother Asahel in self-defense. He did not want to kill Asahel and had warned him to turn back (<a href=\"https://ref.ly/2Sam2:18-2Sam2:32\">2 Samuel 2:18–32</a>). Joab later murdered Abner in a planned act of revenge (<a href=\"https://ref.ly/2Sam3:22-2Sam3:30\">2 Samuel 3:22–30</a>), which David could not stop (see <a href=\"https://ref.ly/2Sam3:38-2Sam3:39\">2 Samuel 3:38–39</a>). David honored Abner with a eulogy (a speech of praise commemorating his life and achievements), public mourning, and a state funeral (<a href=\"https://ref.ly/2Sam3:31-2Sam3:37\">2 Samuel 3:31–37</a>). Later, David remembered these events and ensured Joab was punished for the murder (<a href=\"https://ref.ly/1Kgs2:5-1Kgs2:6\">1 Kings 2:5–6</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Sam14:49-1Sam14:52\">1 Samuel 14:49–52</a>; <a href=\"https://ref.ly/1Sam17:55-1Sam17:58\">17:55–58</a>; <a href=\"https://ref.ly/1Sam26:5-1Sam26:16\">26:5–16</a>; <a href=\"https://ref.ly/2Sam2:8-2Sam2:29\">2 Samuel 2:8–29</a>; <a href=\"https://ref.ly/2Sam3:6-2Sam3:39\">3:6–39</a>; <a href=\"https://ref.ly/1Kgs2:5\">1 Kings 2:5</a>, <a href=\"https://ref.ly/1Kgs2:32\">32</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11002005",
+          "start_ref_usfm": "1KI 2:5",
+          "end_ref": "11002005",
+          "end_ref_usfm": "1KI 2:5"
+        },
+        {
+          "start_ref": "11002032",
+          "start_ref_usfm": "1KI 2:32",
+          "end_ref": "11002032",
+          "end_ref_usfm": "1KI 2:32"
+        },
+        {
+          "start_ref": "09017001",
+          "start_ref_usfm": "1SA 17:1",
+          "end_ref": "09017058",
+          "end_ref_usfm": "1SA 17:58"
+        },
+        {
+          "start_ref": "11002005",
+          "start_ref_usfm": "1KI 2:5",
+          "end_ref": "11002006",
+          "end_ref_usfm": "1KI 2:6"
+        },
+        {
+          "start_ref": "09026001",
+          "start_ref_usfm": "1SA 26:1",
+          "end_ref": "09026025",
+          "end_ref_usfm": "1SA 26:25"
+        },
+        {
+          "start_ref": "10002018",
+          "start_ref_usfm": "2SA 2:18",
+          "end_ref": "10002032",
+          "end_ref_usfm": "2SA 2:32"
+        },
+        {
+          "start_ref": "10004001",
+          "start_ref_usfm": "2SA 4:1",
+          "end_ref": "10004012",
+          "end_ref_usfm": "2SA 4:12"
+        },
+        {
+          "start_ref": "09017055",
+          "start_ref_usfm": "1SA 17:55",
+          "end_ref": "09017058",
+          "end_ref_usfm": "1SA 17:58"
+        },
+        {
+          "start_ref": "09014049",
+          "start_ref_usfm": "1SA 14:49",
+          "end_ref": "09014052",
+          "end_ref_usfm": "1SA 14:52"
+        },
+        {
+          "start_ref": "09020024",
+          "start_ref_usfm": "1SA 20:24",
+          "end_ref": "09020025",
+          "end_ref_usfm": "1SA 20:25"
+        },
+        {
+          "start_ref": "10002008",
+          "start_ref_usfm": "2SA 2:8",
+          "end_ref": "10002012",
+          "end_ref_usfm": "2SA 2:12"
+        },
+        {
+          "start_ref": "10003022",
+          "start_ref_usfm": "2SA 3:22",
+          "end_ref": "10003030",
+          "end_ref_usfm": "2SA 3:30"
+        },
+        {
+          "start_ref": "10003038",
+          "start_ref_usfm": "2SA 3:38",
+          "end_ref": "10003039",
+          "end_ref_usfm": "2SA 3:39"
+        },
+        {
+          "start_ref": "10003031",
+          "start_ref_usfm": "2SA 3:31",
+          "end_ref": "10003037",
+          "end_ref_usfm": "2SA 3:37"
+        },
+        {
+          "start_ref": "09026005",
+          "start_ref_usfm": "1SA 26:5",
+          "end_ref": "09026016",
+          "end_ref_usfm": "1SA 26:16"
+        },
+        {
+          "start_ref": "10002008",
+          "start_ref_usfm": "2SA 2:8",
+          "end_ref": "10002029",
+          "end_ref_usfm": "2SA 2:29"
+        },
+        {
+          "start_ref": "10003006",
+          "start_ref_usfm": "2SA 3:6",
+          "end_ref": "10003039",
+          "end_ref_usfm": "2SA 3:39"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

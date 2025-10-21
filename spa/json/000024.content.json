@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 658436,
+    "reference_id": 203511,
+    "title": "Corinto",
+    "media_type": "Text",
+    "index_reference": "corinto",
+    "language": "spa",
+    "content": "<p>Corinto es una de las ciudades más antiguas de Grecia, con asentamientos que se remontan al menos al 3000 a.C. Su ubicación estratégica en rutas comerciales clave la convirtió en un importante centro de comercio. Corinto alcanzó su máximo poder entre el 800 y el 600 a.C. A mediados del siglo II a.C., mientras el ejército Romano expandía su imperio, Corinto lideró la Liga Helénica para resistir el control romano en Grecia. Sin embargo, no pudieron derrotar a los Romanos. En el 146 a.C., los Romanos destruyeron completamente Corinto, ejecutaron a los hombres y vendieron a las mujeres y niños como esclavos. Corinto permaneció en ruinas durante un siglo.</p><p>En el 44 a.C., Julio César estableció una colonia Romana en Corinto. Esta colonia atrajo a un grupo diverso de italianos, libertos (antiguos esclavos liberados) de Roma y Griegos desplazados. Los nuevos residentes, con arduo trabajo y creatividad, rápidamente reconstruyeron la ciudad, convirtiéndola en un próspero centro de comercio, negocios e industria. Para cuando Pablo llegó a Corinto, era una ciudad vibrante y diversa con casi 700.000 personas, incluyendo a muchos individuos adinerados y otros que aspiraban a la riqueza.</p><p>Corinto atrajo a comerciantes de todo el mundo, pero también se hizo conocida por el lujo, la indulgencia y el vicio. La ciudad tenía una reputación de promiscuidad y prostitución, tanto que el verbo “corintianizar” significaba participar en conductas sexuales inmorales. La iglesia en Corinto enfrentó desafíos relacionados con la inmoralidad sexual (<a href=\"https://ref.ly/1Cor5:1-1Cor5:13\">1 Corintios 5.1–13</a>; <a href=\"https://ref.ly/1Cor6:12-1Cor6:20\">6.12–20</a>).</p><p>Corinto también fue importante debido a los Juegos Ístmicos, que comenzaron en 523 a.C. y se celebraban cada dos años. Los eventos se centraban en tres tipos: ecuestres, gimnásticos y musicales. Durante el período del Nuevo Testamento, los juegos incluían carreras de carros y otros espectáculos Romanos, junto con competiciones Griegas tradicionales. Pablo se refirió a estos concursos atléticos, mencionando tanto correr como boxeo (<a href=\"https://ref.ly/1Cor9:24-1Cor9:26\">1 Corintios 9.24–26</a>). Los ganadores de los juegos se convertían en héroes nacionales. Recibían una corona hecha de mirto, olivo o ramas de pino. También obtenían un estipendio del estado, exenciones fiscales y beneficios especiales para sus hijos.</p><p>En la mayoría de las ciudades Romanas, los templos de mármol dominaban el paisaje. Adorar a los dioses y participar en sus festividades eran aspectos importantes de la vida en Corinto. La iglesia de Corinto enfrentó dificultades con estas festividades paganas (<a href=\"https://ref.ly/1Cor8:1-1Cor10:33\">1 Corintios 8.1–10.33</a>).</p><p>Un gran grupo de judíos desplazados también se estableció en la ciudad. Muchos de ellos pueden haber llegado después de que el Emperador Claudio expulsara a los judíos de Roma (ver <a href=\"https://ref.ly/Acts18:2\">Hechos 18.2</a>). Cuando Pablo viajó a Corinto en su segundo viaje misionero, conoció a Aquila y Priscila, quienes se convirtieron en sus amigos cercanos y compañeros de trabajo (<a href=\"https://ref.ly/Acts18:1-Acts18:3\">Hechos 18.1–3</a>). Pablo permaneció en Corinto por más de un año y medio, enseñando la palabra de Dios (<a href=\"https://ref.ly/Acts18:11\">Hechos 18.11</a>).</p><p>La iglesia de Corinto, que surgió en un lugar lleno de paganismo y promiscuidad, enfrentó muchos desafíos. Las cartas de Pablo a ellos ofrecen soluciones valiosas a problemas prácticos en la vida y la comunidad cristiana.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Acts18:1-Acts18:18\">Hechos 18.1–18</a>; <a href=\"https://ref.ly/1Cor1:1-1Cor1:2\">1 Corintios 1.1–2</a>; <a href=\"https://ref.ly/1Cor16:5-1Cor16:20\">16.5–20</a>; <a href=\"https://ref.ly/2Cor1:1\">2 Corintios 1.1</a>; <a href=\"https://ref.ly/2Cor13:1\">13.1</a>; <a href=\"https://ref.ly/2Tim4:20\">2 Timoteo 4.20</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "44018011",
+          "start_ref_usfm": "ACT 18:11",
+          "end_ref": "44018011",
+          "end_ref_usfm": "ACT 18:11"
+        },
+        {
+          "start_ref": "47001001",
+          "start_ref_usfm": "2CO 1:1",
+          "end_ref": "47001001",
+          "end_ref_usfm": "2CO 1:1"
+        },
+        {
+          "start_ref": "47013001",
+          "start_ref_usfm": "2CO 13:1",
+          "end_ref": "47013001",
+          "end_ref_usfm": "2CO 13:1"
+        },
+        {
+          "start_ref": "55004020",
+          "start_ref_usfm": "2TI 4:20",
+          "end_ref": "55004020",
+          "end_ref_usfm": "2TI 4:20"
+        },
+        {
+          "start_ref": "46008001",
+          "start_ref_usfm": "1CO 8:1",
+          "end_ref": "46010033",
+          "end_ref_usfm": "1CO 10:33"
+        },
+        {
+          "start_ref": "46006012",
+          "start_ref_usfm": "1CO 6:12",
+          "end_ref": "46006020",
+          "end_ref_usfm": "1CO 6:20"
+        },
+        {
+          "start_ref": "46005001",
+          "start_ref_usfm": "1CO 5:1",
+          "end_ref": "46005013",
+          "end_ref_usfm": "1CO 5:13"
+        },
+        {
+          "start_ref": "44018001",
+          "start_ref_usfm": "ACT 18:1",
+          "end_ref": "44018003",
+          "end_ref_usfm": "ACT 18:3"
+        },
+        {
+          "start_ref": "44018001",
+          "start_ref_usfm": "ACT 18:1",
+          "end_ref": "44018018",
+          "end_ref_usfm": "ACT 18:18"
+        },
+        {
+          "start_ref": "46009024",
+          "start_ref_usfm": "1CO 9:24",
+          "end_ref": "46009026",
+          "end_ref_usfm": "1CO 9:26"
+        },
+        {
+          "start_ref": "46001001",
+          "start_ref_usfm": "1CO 1:1",
+          "end_ref": "46001002",
+          "end_ref_usfm": "1CO 1:2"
+        },
+        {
+          "start_ref": "46016005",
+          "start_ref_usfm": "1CO 16:5",
+          "end_ref": "46016020",
+          "end_ref_usfm": "1CO 16:20"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

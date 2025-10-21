@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 500515,
+    "reference_id": 203458,
+    "title": "Cyrus II",
+    "media_type": "Text",
+    "index_reference": "cyrus ii",
+    "language": "eng",
+    "content": "<p>Cyrus II, king of Persia from 559 to 530 BC, founded the Persian Empire. His father was the king of Persia, a small nation under Media&apos;s control, and his mother was the daughter of the king of the Medes. In 549 BC, Cyrus conquered the Medes and united the two nations. He then conquered Lydia in Asia Minor in 547 BC. Turning east, he added Parthia and part of India to the Persian Empire. Finally, on October 29, 539 BC, Cyrus conquered Babylon and included Babylonia in his empire (see <a href=\"https://ref.ly/Dan5:30-Dan5:31\">Daniel 5:30–31</a>).</p><p>After conquering Babylon, Cyrus issued a decree allowing the Jewish people to return home and rebuild the Temple in Jerusalem. The part of this decree concerning the Jews is recorded in <a href=\"https://ref.ly/2Chr36:22-2Chr36:23\">2 Chronicles 36:22–23</a> and <a href=\"https://ref.ly/Ezra1:1-Ezra1:4\">Ezra 1:1–4</a>. The Cyrus Cylinder, a barrel found in Babylon between 1879 and 1882, confirms this practice. It describes Cyrus&apos;s policy on conquered peoples.</p><p>Isaiah identified Cyrus as the future liberator of Judah (<a href=\"https://ref.ly/Isa44:28-Isa45:13\">Isaiah 44:28–45:13</a>). Isaiah referred to Cyrus as the Lord’s anointed (<a href=\"https://ref.ly/Isa45:1\">Isaiah 45:1</a>, Hebrew <em>mashiakh</em>, meaning “messiah”). Israel saw Cyrus as chosen and empowered by God to free them. Cyrus was not <em>the</em> Messiah, but his actions foreshadowed what the Messiah, Jesus Christ, would later do in freeing God&apos;s people from servitude.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/2Chr36:22-2Chr36:23\">2 Chronicles 36:22–23</a>; <a href=\"https://ref.ly/Ezra1:1-Ezra1:11\">Ezra 1:1–11</a>; <a href=\"https://ref.ly/Ezra3:7\">3:7</a>; <a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">4:1–5</a>; <a href=\"https://ref.ly/Ezra5:6-Ezra5:17\">5:6–17</a>; <a href=\"https://ref.ly/Ezra6:14-Ezra6:15\">6:14–15</a>; <a href=\"https://ref.ly/Isa44:28-Isa45:13\">Isaiah 44:28–45:13</a>; <a href=\"https://ref.ly/Isa48:14-Isa48:16\">48:14–16</a>; <a href=\"https://ref.ly/Dan6:28\">Daniel 6:28</a>; <a href=\"https://ref.ly/Dan10:1\">10:1</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15003007",
+          "start_ref_usfm": "EZR 3:7",
+          "end_ref": "15003007",
+          "end_ref_usfm": "EZR 3:7"
+        },
+        {
+          "start_ref": "23045001",
+          "start_ref_usfm": "ISA 45:1",
+          "end_ref": "23045001",
+          "end_ref_usfm": "ISA 45:1"
+        },
+        {
+          "start_ref": "27006028",
+          "start_ref_usfm": "DAN 6:28",
+          "end_ref": "27006028",
+          "end_ref_usfm": "DAN 6:28"
+        },
+        {
+          "start_ref": "27010001",
+          "start_ref_usfm": "DAN 10:1",
+          "end_ref": "27010001",
+          "end_ref_usfm": "DAN 10:1"
+        },
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001004",
+          "end_ref_usfm": "EZR 1:4"
+        },
+        {
+          "start_ref": "27005030",
+          "start_ref_usfm": "DAN 5:30",
+          "end_ref": "27005031",
+          "end_ref_usfm": "DAN 5:31"
+        },
+        {
+          "start_ref": "14036022",
+          "start_ref_usfm": "2CH 36:22",
+          "end_ref": "14036023",
+          "end_ref_usfm": "2CH 36:23"
+        },
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001011",
+          "end_ref_usfm": "EZR 1:11"
+        },
+        {
+          "start_ref": "15004001",
+          "start_ref_usfm": "EZR 4:1",
+          "end_ref": "15004005",
+          "end_ref_usfm": "EZR 4:5"
+        },
+        {
+          "start_ref": "15005006",
+          "start_ref_usfm": "EZR 5:6",
+          "end_ref": "15005017",
+          "end_ref_usfm": "EZR 5:17"
+        },
+        {
+          "start_ref": "23044028",
+          "start_ref_usfm": "ISA 44:28",
+          "end_ref": "23045013",
+          "end_ref_usfm": "ISA 45:13"
+        },
+        {
+          "start_ref": "15006014",
+          "start_ref_usfm": "EZR 6:14",
+          "end_ref": "15006015",
+          "end_ref_usfm": "EZR 6:15"
+        },
+        {
+          "start_ref": "23048014",
+          "start_ref_usfm": "ISA 48:14",
+          "end_ref": "23048016",
+          "end_ref_usfm": "ISA 48:16"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

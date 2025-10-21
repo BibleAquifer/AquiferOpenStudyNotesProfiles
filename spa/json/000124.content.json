@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 658399,
+    "reference_id": 203474,
+    "title": "Zorobabel",
+    "media_type": "Text",
+    "index_reference": "zorobabel",
+    "language": "spa",
+    "content": "<p>Zorobabel era un judío nacido en Babilonia. Se trasladó a Judea en el 538 a.C. como gobernador de Jerusalén bajo el dominio Persa. Ciro, el rey de los Persas, permitió que los judíos capturados y exiliados de Judá regresaran a su hogar. Zorobabel lideró uno de los primeros grupos de estos exiliados en regresar.</p><p>Zorobabel llegó a Judea para reconstruir el templo, comenzando con el altar. Los sacrificios podían reanudarse una vez que el santuario estuviera listo. Sin embargo, la oposición local detuvo la construcción. Los judeanos perdieron el enfoque hasta que la predicación de Hageo y Zacarías los motivó a reiniciar. Zorobabel desempeñó un papel clave en liderar y organizar la reconstrucción, que tomó aproximadamente seis años, desde el 520 hasta el 515 a.C.</p><p>Muchas personas esperaban grandes cosas de Zorobabel porque él pertenecía a la familia del Rey David (<a href=\"https://ref.ly/1Chr3:1-1Chr3:19\">1 Crónicas 3:1–19</a>). Zacarías y Ageo describen a Zorobabel en términos mesiánicos como el elegido por Dios para restaurar a Israel (<a href=\"https://ref.ly/Hag2:21-Hag2:23\">Hageo 2:21–23,</a> <a href=\"https://ref.ly/Zech4:6-Zech4:7\">Zacarías 4:6–7</a>). Sin embargo, Zorobabel pronto desaparece de la historia bíblica sin explicación. Este primer gobernador de Judea no fue el Mesías. En cambio, Jesucristo, uno de los descendientes de Zorobabel, asumiría ese glorioso papel (<a href=\"https://ref.ly/Matt1:12\">Mateo 1:12</a>).</p><p><u>Pasajes para estudio complementario</u></p><p><a href=\"https://ref.ly/Ezra2:1-Ezra6:22\">Esdras 2:1–6:22,</a> <a href=\"https://ref.ly/Neh7:7\">Nehemías 7:7,</a> <a href=\"https://ref.ly/Hag1:12-Hag2:23\">Hageo 1:12–2:23,</a> <a href=\"https://ref.ly/Zech4:1-Zech4:14\">Zacarías 4:1–14,</a> <a href=\"https://ref.ly/Matt1:12\">Mateo 1:12</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16007007",
+          "start_ref_usfm": "NEH 7:7",
+          "end_ref": "16007007",
+          "end_ref_usfm": "NEH 7:7"
+        },
+        {
+          "start_ref": "40001012",
+          "start_ref_usfm": "MAT 1:12",
+          "end_ref": "40001012",
+          "end_ref_usfm": "MAT 1:12"
+        },
+        {
+          "start_ref": "37002021",
+          "start_ref_usfm": "HAG 2:21",
+          "end_ref": "37002023",
+          "end_ref_usfm": "HAG 2:23"
+        },
+        {
+          "start_ref": "38004001",
+          "start_ref_usfm": "ZEC 4:1",
+          "end_ref": "38004014",
+          "end_ref_usfm": "ZEC 4:14"
+        },
+        {
+          "start_ref": "38004006",
+          "start_ref_usfm": "ZEC 4:6",
+          "end_ref": "38004007",
+          "end_ref_usfm": "ZEC 4:7"
+        },
+        {
+          "start_ref": "13003001",
+          "start_ref_usfm": "1CH 3:1",
+          "end_ref": "13003019",
+          "end_ref_usfm": "1CH 3:19"
+        },
+        {
+          "start_ref": "15002001",
+          "start_ref_usfm": "EZR 2:1",
+          "end_ref": "15006022",
+          "end_ref_usfm": "EZR 6:22"
+        },
+        {
+          "start_ref": "37001012",
+          "start_ref_usfm": "HAG 1:12",
+          "end_ref": "37002023",
+          "end_ref_usfm": "HAG 2:23"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

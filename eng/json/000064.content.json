@@ -1,0 +1,136 @@
+[
+  {
+    "content_id": 500463,
+    "reference_id": 203406,
+    "title": "Joseph",
+    "media_type": "Text",
+    "index_reference": "joseph",
+    "language": "eng",
+    "content": "<p>Joseph is famous for his dreams and the beautiful coat his father, Jacob, gave him. He is an example of faith, wisdom, and skill in managing. Despite many challenges, Joseph saved Canaan, Egypt, and his family from starvation during seven years of drought.</p><p>Joseph was Jacob’s eleventh son and the first child of Jacob’s favorite wife, Rachel. Joseph’s name means “may he add,” showing Rachel’s wish for God to give her another son (<a href=\"https://ref.ly/Gen30:24\">Genesis 30:24</a>). Rachel later died while giving birth to Benjamin, Joseph’s only full brother.</p><p>Joseph&apos;s brothers were jealous of him because of his dreams. They sold him to a passing caravan and made Jacob think an animal had killed him. In Egypt, Joseph quickly became important, but he was jailed when his master&apos;s wife falsely accused him. In prison, he correctly interpreted dreams for other inmates and was later called when Pharaoh could not understand his own dreams. Joseph explained Pharaoh&apos;s dreams, which were about a coming famine, with insight and wisdom. </p><p>Pharaoh released him thirteen years after he had been brought to Egypt as a slave and appointed him to lead the nation in preparing for the famine. When Joseph&apos;s brothers came to buy grain in Egypt, they appeared before him but did not recognize him. Later, their regret and Judah&apos;s plea led Joseph to reveal his identity. The family reconciled and reunited when Jacob came to live in Egypt.</p><p>Jacob blessed Joseph&apos;s sons, Ephraim and Manasseh, and adopted them as his own (<a href=\"https://ref.ly/Gen48:5-Gen48:20\">Genesis 48:5–20</a>). Each became a separate tribe in Israel. Jacob placed Ephraim first and gave him the birthright (<a href=\"https://ref.ly/Gen48:17-Gen48:20\">Genesis 48:17–20</a>). Ephraim became one of Israel&apos;s strongest tribes and led the northern kingdom after it split during Rehoboam&apos;s reign (see <a href=\"https://ref.ly/1Kgs11:26-1Kgs12:33\">1 Kings 11:26–12:33</a>). Several prophets refer to the northern kingdom as Ephraim (for example, <a href=\"https://ref.ly/Ezek37:15-Ezek37:19\">Ezekiel 37:15–19</a>; <a href=\"https://ref.ly/Hos5:3-Hos5:5\">Hosea 5:3–5</a>) and Joseph (for example, <a href=\"https://ref.ly/Obad1:18\">Obadiah 1:18</a>).</p><p>Joseph believed the Israelites would return to the land God promised them. His dying wish was for his bones to be buried in Canaan when they left Egypt (<a href=\"https://ref.ly/Gen50:24-Gen50:26\">Genesis 50:24–26</a>; see <a href=\"https://ref.ly/Exod13:19\">Exodus 13:19</a>; <a href=\"https://ref.ly/Josh24:32\">Joshua 24:32</a>). Joseph&apos;s story shows the life of a faithful man with godly character who followed God&apos;s plan. His name appears often in Scripture, indicating that later Israelites respected him. The Psalms summarize his story (<a href=\"https://ref.ly/Ps105:16-Ps105:22\">Psalm 105:16–22</a>), and Stephen mentions him in his speech before his martyrdom (<a href=\"https://ref.ly/Acts7:9-Acts7:14\">Acts 7:9–14</a>).</p><p>Joseph’s life shows that God controls history, even when bad things occur (<a href=\"https://ref.ly/Gen50:20\">Genesis 50:20</a>). God shows his power through his caring and faithful love for his people. Joseph also demonstrates strong faith in God and personal integrity during tough times.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen30:22-Gen30:24\">Genesis 30:22–24</a>; <a href=\"https://ref.ly/Gen37:2-Gen37:36\">37:2–36</a>; <a href=\"https://ref.ly/Gen39:1-Gen45:28\">39:1–45:28</a>; <a href=\"https://ref.ly/Gen48:1-Gen48:22\">48:1–22</a>; <a href=\"https://ref.ly/Gen49:22-Gen49:26\">49:22–26</a>; <a href=\"https://ref.ly/Gen50:1-Gen50:26\">50:1–26</a>; <a href=\"https://ref.ly/Exod13:19\">Exodus 13:19</a>; <a href=\"https://ref.ly/Deut33:13-Deut33:17\">Deuteronomy 33:13–17</a>; <a href=\"https://ref.ly/Josh24:32\">Joshua 24:32</a>; <a href=\"https://ref.ly/Ps105:16-Ps105:22\">Psalm 105:16–22</a>; <a href=\"https://ref.ly/Acts7:9-Acts7:14\">Acts 7:9–14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01030024",
+          "start_ref_usfm": "GEN 30:24",
+          "end_ref": "01030024",
+          "end_ref_usfm": "GEN 30:24"
+        },
+        {
+          "start_ref": "01050020",
+          "start_ref_usfm": "GEN 50:20",
+          "end_ref": "01050020",
+          "end_ref_usfm": "GEN 50:20"
+        },
+        {
+          "start_ref": "02013019",
+          "start_ref_usfm": "EXO 13:19",
+          "end_ref": "02013019",
+          "end_ref_usfm": "EXO 13:19"
+        },
+        {
+          "start_ref": "06024032",
+          "start_ref_usfm": "JOS 24:32",
+          "end_ref": "06024032",
+          "end_ref_usfm": "JOS 24:32"
+        },
+        {
+          "start_ref": "31001018",
+          "start_ref_usfm": "OBA 1:18",
+          "end_ref": "31001018",
+          "end_ref_usfm": "OBA 1:18"
+        },
+        {
+          "start_ref": "01048001",
+          "start_ref_usfm": "GEN 48:1",
+          "end_ref": "01048022",
+          "end_ref_usfm": "GEN 48:22"
+        },
+        {
+          "start_ref": "01049022",
+          "start_ref_usfm": "GEN 49:22",
+          "end_ref": "01049026",
+          "end_ref_usfm": "GEN 49:26"
+        },
+        {
+          "start_ref": "28005003",
+          "start_ref_usfm": "HOS 5:3",
+          "end_ref": "28005005",
+          "end_ref_usfm": "HOS 5:5"
+        },
+        {
+          "start_ref": "05033013",
+          "start_ref_usfm": "DEU 33:13",
+          "end_ref": "05033017",
+          "end_ref_usfm": "DEU 33:17"
+        },
+        {
+          "start_ref": "01030022",
+          "start_ref_usfm": "GEN 30:22",
+          "end_ref": "01030024",
+          "end_ref_usfm": "GEN 30:24"
+        },
+        {
+          "start_ref": "19105016",
+          "start_ref_usfm": "PSA 105:16",
+          "end_ref": "19105022",
+          "end_ref_usfm": "PSA 105:22"
+        },
+        {
+          "start_ref": "01037002",
+          "start_ref_usfm": "GEN 37:2",
+          "end_ref": "01037036",
+          "end_ref_usfm": "GEN 37:36"
+        },
+        {
+          "start_ref": "01048005",
+          "start_ref_usfm": "GEN 48:5",
+          "end_ref": "01048020",
+          "end_ref_usfm": "GEN 48:20"
+        },
+        {
+          "start_ref": "01048017",
+          "start_ref_usfm": "GEN 48:17",
+          "end_ref": "01048020",
+          "end_ref_usfm": "GEN 48:20"
+        },
+        {
+          "start_ref": "11011026",
+          "start_ref_usfm": "1KI 11:26",
+          "end_ref": "11012033",
+          "end_ref_usfm": "1KI 12:33"
+        },
+        {
+          "start_ref": "26037015",
+          "start_ref_usfm": "EZK 37:15",
+          "end_ref": "26037019",
+          "end_ref_usfm": "EZK 37:19"
+        },
+        {
+          "start_ref": "01050024",
+          "start_ref_usfm": "GEN 50:24",
+          "end_ref": "01050026",
+          "end_ref_usfm": "GEN 50:26"
+        },
+        {
+          "start_ref": "44007009",
+          "start_ref_usfm": "ACT 7:9",
+          "end_ref": "44007014",
+          "end_ref_usfm": "ACT 7:14"
+        },
+        {
+          "start_ref": "01039001",
+          "start_ref_usfm": "GEN 39:1",
+          "end_ref": "01045028",
+          "end_ref_usfm": "GEN 45:28"
+        },
+        {
+          "start_ref": "01050001",
+          "start_ref_usfm": "GEN 50:1",
+          "end_ref": "01050026",
+          "end_ref_usfm": "GEN 50:26"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

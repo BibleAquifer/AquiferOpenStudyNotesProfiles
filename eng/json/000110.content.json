@@ -1,0 +1,112 @@
+[
+  {
+    "content_id": 500539,
+    "reference_id": 203482,
+    "title": "The Jewish High Council",
+    "media_type": "Text",
+    "index_reference": "the jewish high council",
+    "language": "eng",
+    "content": "<p>The high council of Jewish leaders in Jerusalem had significant power in governing the Jewish people. It is traditionally called the Sanhedrin, a transliteration of the Greek word <em>sunedrion</em>, which means &quot;council.&quot;</p><p>Jewish tradition says the Sanhedrin began when Moses chose seventy elders (<a href=\"https://ref.ly/Num11:16\">Numbers 11:16</a>). However, the earliest reference is in Josephus&apos;s <em>Antiquities</em> 12.3.3, from the time of Antiochus the Great, from 223 to 187 BC. The Sanhedrin likely started as a self-governing group of leaders under Persian rule (see <a href=\"https://ref.ly/Ezra5:5-Ezra5:10\">Ezra 5:5–10</a>; <a href=\"https://ref.ly/Neh2:16\">Nehemiah 2:16</a>). The priestly class, led by the high priest, controlled the high council. Roman rulers and the Pharisees influenced these priests to different extents. Herod the Great had a strong influence over the Sanhedrin&apos;s activities.</p><p>The Sanhedrin dealt with the legal and religious matters of Judaism. This included making judicial decisions not settled in smaller courts, known as &quot;local sanhedrins,&quot; as well as managing criminal justice and arrests (see <a href=\"https://ref.ly/Acts9:1-Acts9:2\">Acts 9:1–2</a>). They also made official decisions on Jewish issues, although these decisions were not enforceable. The Sanhedrin could not execute criminals on its own (<a href=\"https://ref.ly/John18:31\">John 18:31</a>), but it could do so with Roman approval.</p><p>The destruction of Jerusalem in AD 70 ended the high council&apos;s role as the leader of Judaism.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt26:57-Matt26:68\">Matthew 26:57–68</a>; <a href=\"https://ref.ly/Mark14:53-Mark14:65\">Mark 14:53–65</a>; <a href=\"https://ref.ly/Mark15:1\">15:1</a>, <a href=\"https://ref.ly/Mark15:43\">43</a>; <a href=\"https://ref.ly/Luke22:66-Luke22:71\">Luke 22:66–71</a>; <a href=\"https://ref.ly/Luke23:50-Luke23:54\">23:50–54</a>; <a href=\"https://ref.ly/John11:47-John11:53\">John 11:47–53</a>; <a href=\"https://ref.ly/Acts5:21-Acts5:41\">Acts 5:21–41</a>; <a href=\"https://ref.ly/Acts6:11-Acts8:1\">6:11–8:1</a>; <a href=\"https://ref.ly/Acts22:30-Acts23:10\">22:30–23:10</a>; <a href=\"https://ref.ly/Acts23:26-Acts23:30\">23:26–30</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04011016",
+          "start_ref_usfm": "NUM 11:16",
+          "end_ref": "04011016",
+          "end_ref_usfm": "NUM 11:16"
+        },
+        {
+          "start_ref": "16002016",
+          "start_ref_usfm": "NEH 2:16",
+          "end_ref": "16002016",
+          "end_ref_usfm": "NEH 2:16"
+        },
+        {
+          "start_ref": "41015001",
+          "start_ref_usfm": "MRK 15:1",
+          "end_ref": "41015001",
+          "end_ref_usfm": "MRK 15:1"
+        },
+        {
+          "start_ref": "41015043",
+          "start_ref_usfm": "MRK 15:43",
+          "end_ref": "41015043",
+          "end_ref_usfm": "MRK 15:43"
+        },
+        {
+          "start_ref": "43018031",
+          "start_ref_usfm": "JHN 18:31",
+          "end_ref": "43018031",
+          "end_ref_usfm": "JHN 18:31"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026068",
+          "end_ref_usfm": "MAT 26:68"
+        },
+        {
+          "start_ref": "41014053",
+          "start_ref_usfm": "MRK 14:53",
+          "end_ref": "41014065",
+          "end_ref_usfm": "MRK 14:65"
+        },
+        {
+          "start_ref": "44022030",
+          "start_ref_usfm": "ACT 22:30",
+          "end_ref": "44023010",
+          "end_ref_usfm": "ACT 23:10"
+        },
+        {
+          "start_ref": "44009001",
+          "start_ref_usfm": "ACT 9:1",
+          "end_ref": "44009002",
+          "end_ref_usfm": "ACT 9:2"
+        },
+        {
+          "start_ref": "44023026",
+          "start_ref_usfm": "ACT 23:26",
+          "end_ref": "44023030",
+          "end_ref_usfm": "ACT 23:30"
+        },
+        {
+          "start_ref": "42022066",
+          "start_ref_usfm": "LUK 22:66",
+          "end_ref": "42022071",
+          "end_ref_usfm": "LUK 22:71"
+        },
+        {
+          "start_ref": "15005005",
+          "start_ref_usfm": "EZR 5:5",
+          "end_ref": "15005010",
+          "end_ref_usfm": "EZR 5:10"
+        },
+        {
+          "start_ref": "42023050",
+          "start_ref_usfm": "LUK 23:50",
+          "end_ref": "42023054",
+          "end_ref_usfm": "LUK 23:54"
+        },
+        {
+          "start_ref": "43011047",
+          "start_ref_usfm": "JHN 11:47",
+          "end_ref": "43011053",
+          "end_ref_usfm": "JHN 11:53"
+        },
+        {
+          "start_ref": "44005021",
+          "start_ref_usfm": "ACT 5:21",
+          "end_ref": "44005041",
+          "end_ref_usfm": "ACT 5:41"
+        },
+        {
+          "start_ref": "44006011",
+          "start_ref_usfm": "ACT 6:11",
+          "end_ref": "44008001",
+          "end_ref_usfm": "ACT 8:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

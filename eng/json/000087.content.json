@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 500470,
+    "reference_id": 203413,
+    "title": "Pharaoh",
+    "media_type": "Text",
+    "index_reference": "pharaoh",
+    "language": "eng",
+    "content": "<p>&quot;Pharaoh&quot; is an Egyptian word that means &quot;great house.&quot; It refers to the royal palace and is also a title for the king of Egypt. During Joseph&apos;s time, the pharaoh viewed the Israelites favorably. Joseph interpreted the pharaoh&apos;s dreams, which led to his promotion as second-in-command in Egypt (<a href=\"https://ref.ly/Gen41:1-Gen41:44\">Genesis 41:1–44</a>). Pharaoh gave Joseph&apos;s family the best land in Egypt (<a href=\"https://ref.ly/Gen45:16-Gen45:20\">Genesis 45:16–20</a>). The Israelites grew in number and prospered there.</p><p>Two pharaohs are mentioned in the book of Exodus, and neither valued the Hebrew people (see <a href=\"https://ref.ly/Exod1:8-Exod1:10\">Exodus 1:8–10</a>). The first pharaoh ruled when Moses was born. He feared the Hebrews and ordered the killing of all Hebrew baby boys. Moses escaped death and was raised by Pharaoh’s daughter in the palace. This pharaoh died after Moses fled from Egypt (<a href=\"https://ref.ly/Exod2:23\">Exodus 2:23</a>).</p><p>A new pharaoh came to power, and Moses and Aaron later confronted him. This pharaoh was determined to keep the Israelites in Egypt. He stayed stubborn even when he saw God&apos;s power. The Bible describes his unwillingness to change (see <a href=\"https://ref.ly/Exod8:32\">Exodus 8:32</a>; <a href=\"https://ref.ly/Exod9:12\">9:12</a>, <a href=\"https://ref.ly/Exod9:34-Exod9:35\">34–35</a>; compare <a href=\"https://ref.ly/Rom1:18-Rom1:32\">Romans 1:18–32</a>).</p><p>As king, the pharaoh represented the gods&apos; rule over Egypt, giving him complete power. The plagues were God&apos;s attacks on Egypt&apos;s false gods (see <a href=\"https://ref.ly/Exod12:12\">Exodus 12:12</a>). The final plague, the death of the firstborn, targeted Pharaoh&apos;s household. This decisive plague convinced Pharaoh to let Israel go. However, after the Israelites left, Pharaoh changed his mind and pursued them to the Red Sea. God&apos;s rescue of the defenseless Israelites and the destruction of the powerful Egyptians at the Red Sea is one of the most dramatic rescues in the Old Testament. The Lord revealed himself at the Red Sea as a warrior who fought for his people (<a href=\"https://ref.ly/Exod15:3\">Exodus 15:3</a>).</p><p>The pharaohs in Exodus are not named, likely following Egyptian tradition. If the Israelites left Egypt in the 1400s BC, the pharaoh might have been Thutmose III, who ruled from around 1504 to 1450 BC. If it occurred in the 1200s BC, based on another timeline, the pharaoh might have been Rameses II, who ruled from around 1279 to 1213 BC.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Exod1:8-Exod1:22\">Exodus 1:8–22</a>; <a href=\"https://ref.ly/Exod2:14-Exod2:15\">2:14–15</a>, <a href=\"https://ref.ly/Exod2:23\">23</a>; <a href=\"https://ref.ly/Exod5:1-Exod15:21\">5:1–15:21</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02002023",
+          "start_ref_usfm": "EXO 2:23",
+          "end_ref": "02002023",
+          "end_ref_usfm": "EXO 2:23"
+        },
+        {
+          "start_ref": "02008032",
+          "start_ref_usfm": "EXO 8:32",
+          "end_ref": "02008032",
+          "end_ref_usfm": "EXO 8:32"
+        },
+        {
+          "start_ref": "02009012",
+          "start_ref_usfm": "EXO 9:12",
+          "end_ref": "02009012",
+          "end_ref_usfm": "EXO 9:12"
+        },
+        {
+          "start_ref": "02012012",
+          "start_ref_usfm": "EXO 12:12",
+          "end_ref": "02012012",
+          "end_ref_usfm": "EXO 12:12"
+        },
+        {
+          "start_ref": "02015003",
+          "start_ref_usfm": "EXO 15:3",
+          "end_ref": "02015003",
+          "end_ref_usfm": "EXO 15:3"
+        },
+        {
+          "start_ref": "45001018",
+          "start_ref_usfm": "ROM 1:18",
+          "end_ref": "45001032",
+          "end_ref_usfm": "ROM 1:32"
+        },
+        {
+          "start_ref": "02001008",
+          "start_ref_usfm": "EXO 1:8",
+          "end_ref": "02001010",
+          "end_ref_usfm": "EXO 1:10"
+        },
+        {
+          "start_ref": "02001008",
+          "start_ref_usfm": "EXO 1:8",
+          "end_ref": "02001022",
+          "end_ref_usfm": "EXO 1:22"
+        },
+        {
+          "start_ref": "01041001",
+          "start_ref_usfm": "GEN 41:1",
+          "end_ref": "01041044",
+          "end_ref_usfm": "GEN 41:44"
+        },
+        {
+          "start_ref": "01045016",
+          "start_ref_usfm": "GEN 45:16",
+          "end_ref": "01045020",
+          "end_ref_usfm": "GEN 45:20"
+        },
+        {
+          "start_ref": "02009034",
+          "start_ref_usfm": "EXO 9:34",
+          "end_ref": "02009035",
+          "end_ref_usfm": "EXO 9:35"
+        },
+        {
+          "start_ref": "02002014",
+          "start_ref_usfm": "EXO 2:14",
+          "end_ref": "02002015",
+          "end_ref_usfm": "EXO 2:15"
+        },
+        {
+          "start_ref": "02005001",
+          "start_ref_usfm": "EXO 5:1",
+          "end_ref": "02015021",
+          "end_ref_usfm": "EXO 15:21"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

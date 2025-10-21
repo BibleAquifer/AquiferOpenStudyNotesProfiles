@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 668967,
+    "reference_id": 203509,
+    "title": "Néron",
+    "media_type": "Text",
+    "index_reference": "néron",
+    "language": "fra",
+    "content": "<p>Néron est devenu empereur de Rome en 54 apr. J.‑C., à l’âge de 17&nbsp;ans, après que sa mère a empoisonné son mari, l’empereur Claude. Néron aimait attirer l’attention. Il était connu pour son comportement immoral et ses dépenses excessives. Au cours des premières années de son règne, il a eu deux conseillers qui administraient bien l’empire&nbsp;:</p><ul><li><p>Burrus était le préfet de la garde prétorienne (commandant des soldats d’élite de l’empereur).</p></li><li><p>Sénèque était un philosophe célèbre adepte du stoïcisme, une philosophie qui met l’accent sur la raison, la maîtrise de soi et la vertu.</p></li></ul><p>Lorsque Paul a écrit aux Romains vers 57 apr. J.‑C., il les a exhortés à «&nbsp;se soumettre aux autorités supérieures&nbsp;», celles «&nbsp;instituées par Dieu&nbsp;» (<a href=\"https://ref.ly/Rom13:1\">Rm&nbsp;13.1</a>), à un moment où le caractère immoral de Néron était largement connu.</p><p>Les pires actions de Néron ont eu lieu après avoir organisé le meurtre de sa mère en 59 après J.‑C. (la même année où Paul en a appelé à César, <a href=\"https://ref.ly/Acts25:11\">Ac&nbsp;25.11</a>). En 62 apr. J.‑C., il a banni puis exécuté sa femme, épousé sa maîtresse et il a forcé Burrus et Sénèque à prendre leur retraite. En 64 apr. J.‑C., un incendie a détruit une grande partie de Rome. À l’époque, Néron était absent de la ville, mais beaucoup croyaient à la rumeur selon laquelle il avait lui-même causé l’incendie. Néron accusa les chrétiens, les tenant responsables du sinistre. Les habitants les percevaient comme hostiles à la société et estimaient qu’ils méritaient une punition, bien que peu croyaient qu’ils étaient responsables de l’incendie. Ils furent «&nbsp;condamnés non tant pour incendie criminel que pour haine du genre humain&nbsp;» (Tacite, <em>Annales</em>&nbsp;15.44). La persécution des chrétiens à Rome a été sévère&nbsp;; il est probable que Pierre et Paul ont été exécutés à Rome durant cette période.</p><p>En l’an&nbsp;66 apr. J.‑C., une révolte juive a éclaté à Césarée. Néron a envoyé son général Vespasien réprimer la révolte. Néron montrait peu d’intérêt pour le gouvernement et a passé deux ans à participer à des spectacles en Grèce. Il a laissé le gouvernement à un préfet romain. À son retour à Rome, les gouverneurs postés en France, en Espagne et en Afrique se sont opposés à lui. Suite à cela, Néron s’est suicidé en 68 apr. J.‑C., en disant&nbsp;: «&nbsp;Quel artiste meurt avec moi&nbsp;!&nbsp;» Il a été le dernier et le pire des empereurs de la lignée de Jules César (voir aussi les notes d’étude des versets <span data-bnType=\"resourceReference\" data-resourceId=\"24415\" data-resourceType=\"TyndaleStudyNotes\">Ap&nbsp;13.3</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"24406\" data-resourceType=\"TyndaleStudyNotes\">11</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"24412\" data-resourceType=\"TyndaleStudyNotes\">18</span>&nbsp;; <span data-bnType=\"resourceReference\" data-resourceId=\"24473\" data-resourceType=\"TyndaleStudyNotes\">17.8</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"24461\" data-resourceType=\"TyndaleStudyNotes\">10–11</span>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Rom13:1-Rom13:7\">Rm&nbsp;13.1–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44025011",
+          "start_ref_usfm": "ACT 25:11",
+          "end_ref": "44025011",
+          "end_ref_usfm": "ACT 25:11"
+        },
+        {
+          "start_ref": "45013001",
+          "start_ref_usfm": "ROM 13:1",
+          "end_ref": "45013001",
+          "end_ref_usfm": "ROM 13:1"
+        },
+        {
+          "start_ref": "45013001",
+          "start_ref_usfm": "ROM 13:1",
+          "end_ref": "45013007",
+          "end_ref_usfm": "ROM 13:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 24406,
+          "content_id": 699833,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "Apocalypse 13.11",
+          "language": "fra"
+        },
+        {
+          "reference_id": 24412,
+          "content_id": 699839,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "Apocalypse 13.18",
+          "language": "fra"
+        },
+        {
+          "reference_id": 24415,
+          "content_id": 699842,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "Apocalypse 13.3",
+          "language": "fra"
+        },
+        {
+          "reference_id": 24461,
+          "content_id": 699888,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "Apocalypse 17.10-11",
+          "language": "fra"
+        },
+        {
+          "reference_id": 24473,
+          "content_id": 699900,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "Apocalypse 17.8",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

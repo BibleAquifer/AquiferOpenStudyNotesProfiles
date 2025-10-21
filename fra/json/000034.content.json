@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 668974,
+    "reference_id": 203516,
+    "title": "Empereurs romains",
+    "media_type": "Text",
+    "index_reference": "empereurs romains",
+    "language": "fra",
+    "content": "<ol><li><p><em>Auguste </em>(Octavien) a régné de 27 av. J.‑C. à 14 apr. J.‑C. Il est devenu le premier empereur romain après avoir vaincu Marc Antoine lors de la bataille d’Actium en 31 av. J.‑C. Il a régné avec sagesse et a bien géré l’Empire. Il a reçu le titre d’«&nbsp;Auguste&nbsp;» en 27 av. J.‑C., lançant la pratique du culte de l’empereur.</p><p><em>Voir </em><a href=\"https://ref.ly/Luke2:1\"><em>Lc&nbsp;2.1</em></a>.</p></li><li><p><em>Tibère</em> a régné de 14 à 37 après J.‑C. C’était le fils adoptif d’Auguste, qui l’a choisi pour lui succéder comme empereur. Tibère était un dirigeant sage et humble, et c’est lui qui a nommé Ponce Pilate gouverneur de Judée.</p><p><em>Voir </em><a href=\"https://ref.ly/Luke3:1\"><em>Lc&nbsp;3.1</em></a><em>&nbsp;; </em><a href=\"https://ref.ly/John19:12\"><em>Jn&nbsp;19.12</em></a>.</p></li><li><p>(Gaïus) <em>Caligula</em> a régné de 37 à 41 après J.‑C. C’était le fils du général d’Auguste, Germanicus. On lui a donné le surnom de Caligula, signifiant «&nbsp;petite botte&nbsp;», en raison de ses vêtements militaires. II a perdu sa clarté d’esprit, dilapidé toutes les richesses du royaume de façon irrationnelle, gouverné son peuple avec cruauté et a fini par être assassiné par ses ennemis.</p></li><li><p><em>Claude</em> a régné de 41 à 54 apr. J.‑C. C’était le neveu de Tibère. Il est devenu empereur lorsque les gardes royaux (garde prétorienne) l’ont choisi suite à la mort de Caligula. C’était un ami d’Hérode Agrippa&nbsp;I<sup>er</sup>. Claude a arrêté la persécution des Juifs à Alexandrie, mais a ensuite expulsé les Juifs de Rome vers 49 apr. J.‑C. Il a épousé la mère de Néron, Agrippine, qui l’a empoisonné.</p><p><em>Voir </em><a href=\"https://ref.ly/Acts18:2\"><em>Ac&nbsp;18.2</em></a>.</p></li><li><p><em>Néron</em> a régné de 54 à 68 après J.‑C. Il a été adopté par Claude et est devenu empereur après la mort de ce dernier. Il a consacré beaucoup de temps à ses plaisirs personnels. Paul a fait appel à lui en exhortant les chrétiens romains à obéir à Néron. Plus tard, Néron a assassiné sa femme et sa mère. Il a été le premier à persécuter les chrétiens.</p><p><em>Voir </em><a href=\"https://ref.ly/Acts25:11\"><em>Ac&nbsp;25.11</em></a><em>&nbsp;; </em><a href=\"https://ref.ly/Rom13:1-Rom13:7\"><em>Rm&nbsp;13.1–7</em></a>.</p></li><li><p><em>Vespasien</em> a régné de 69 à 79 après J.‑C. C’était un général accompli et le fils d’un collecteur d’impôts. Il a commencé la guerre juive en envahissant la Galilée en 67 après J.‑C. En tant qu’empereur, il a amélioré les finances de Rome, a réorganisé les armées et était connu pour son équité. Il a également commencé la construction du Colisée. Il est mort d’une maladie.</p></li><li><p><em>Titus</em> a régné de 79 à 81 apr. J.-C. en tant qu’empereur romain. Fils de Vespasien, il a mis un terme à la guerre juive en détruisant Jérusalem en 70 apr. J.-C. En tant qu’empereur, il a achevé la construction du Colisée et a apporté une aide précieuse lors de catastrophes majeures, notamment après l’éruption du Vésuve en 79 apr. J.-C. et un incendie dévastateur à Rome en 80 apr. J.-C. Il est décédé des suites d’une fièvre.</p></li><li><p><em>Domitien</em> a régné de 81 à 96 après J.‑C. Fils cadet de Vespasien, il a grandi dans l’ombre de son frère Titus et nourrissait de grandes ambitions pour le pouvoir. En tant qu’empereur, il s’est révélé être un administrateur compétent. Il a entrepris la reconstruction des zones dévastées de Rome et s’est autoproclamé dieu. Il a également imposé de nouveaux impôts et, dans ses dernières années, a mené une persécution brutale contre les chrétiens. Il a finalement été assassiné par ses ennemis.</p></li></ol><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Rev17:9-Rev17:11\">Ap&nbsp;17.9–11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42002001",
+          "start_ref_usfm": "LUK 2:1",
+          "end_ref": "42002001",
+          "end_ref_usfm": "LUK 2:1"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003001",
+          "end_ref_usfm": "LUK 3:1"
+        },
+        {
+          "start_ref": "43019012",
+          "start_ref_usfm": "JHN 19:12",
+          "end_ref": "43019012",
+          "end_ref_usfm": "JHN 19:12"
+        },
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "44025011",
+          "start_ref_usfm": "ACT 25:11",
+          "end_ref": "44025011",
+          "end_ref_usfm": "ACT 25:11"
+        },
+        {
+          "start_ref": "45013001",
+          "start_ref_usfm": "ROM 13:1",
+          "end_ref": "45013007",
+          "end_ref_usfm": "ROM 13:7"
+        },
+        {
+          "start_ref": "66017009",
+          "start_ref_usfm": "REV 17:9",
+          "end_ref": "66017011",
+          "end_ref_usfm": "REV 17:11"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

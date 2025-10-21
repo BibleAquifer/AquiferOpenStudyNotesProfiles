@@ -1,0 +1,6313 @@
+{
+  "resource_metadata": {
+    "aquifer_type": "StudyNotes",
+    "resource_type": "Study Notes",
+    "title": "Aquifer Open Study Notes (Profiles)",
+    "aquifer_name": "Study Notes - Profiles (Tyndale)",
+    "collection_title": "Study Notes - Profiles (Tyndale)",
+    "short_name": "TSNP",
+    "license_info": {
+      "title": "Tyndale Open Study Notes",
+      "copyright": {
+        "dates": "2019",
+        "holder": {
+          "name": "Tyndale House Publishers",
+          "url": "https://tyndaleopenresources.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": false
+    },
+    "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by BiblioNexus and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
+    "resource_code": "TyndaleStudyNotesProfiles",
+    "date_created": "2025-10-20",
+    "language": "hin",
+    "localizations": [
+      "eng",
+      "arb",
+      "fra",
+      "por",
+      "spa",
+      "swh",
+      "zht"
+    ],
+    "order": "alphabetical",
+    "content_type": "Html"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2025-10-20T14:01:40.043901"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "TyndaleStudyNotesProfiles": {
+            "timestamp": "2025-10-20T14:01:40.043901"
+          }
+        }
+      },
+      "name": {
+        "hi": "Tyndale Open Study Notes"
+      },
+      "abbreviation": {
+        "hi": "TSNP"
+      }
+    },
+    "languages": [
+      {
+        "tag": "hi",
+        "name": {
+          "hi": "Hindi"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "peripheral",
+        "flavor": {
+          "name": "textAquiferAlphabetical",
+          "audience": "common"
+        },
+        "currentScope": {}
+      }
+    },
+    "ingredients": {
+      "json/000001.content.json": {
+        "mimeType": "text/json",
+        "size": 9922
+      },
+      "json/000002.content.json": {
+        "mimeType": "text/json",
+        "size": 11692
+      },
+      "json/000003.content.json": {
+        "mimeType": "text/json",
+        "size": 9854
+      },
+      "json/000004.content.json": {
+        "mimeType": "text/json",
+        "size": 8672
+      },
+      "json/000005.content.json": {
+        "mimeType": "text/json",
+        "size": 27333
+      },
+      "json/000006.content.json": {
+        "mimeType": "text/json",
+        "size": 6701
+      },
+      "json/000007.content.json": {
+        "mimeType": "text/json",
+        "size": 15904
+      },
+      "json/000008.content.json": {
+        "mimeType": "text/json",
+        "size": 11488
+      },
+      "json/000009.content.json": {
+        "mimeType": "text/json",
+        "size": 8746
+      },
+      "json/000010.content.json": {
+        "mimeType": "text/json",
+        "size": 17307
+      },
+      "json/000011.content.json": {
+        "mimeType": "text/json",
+        "size": 7171
+      },
+      "json/000012.content.json": {
+        "mimeType": "text/json",
+        "size": 7338
+      },
+      "json/000013.content.json": {
+        "mimeType": "text/json",
+        "size": 11348
+      },
+      "json/000014.content.json": {
+        "mimeType": "text/json",
+        "size": 11477
+      },
+      "json/000015.content.json": {
+        "mimeType": "text/json",
+        "size": 16190
+      },
+      "json/000016.content.json": {
+        "mimeType": "text/json",
+        "size": 8550
+      },
+      "json/000017.content.json": {
+        "mimeType": "text/json",
+        "size": 7746
+      },
+      "json/000018.content.json": {
+        "mimeType": "text/json",
+        "size": 8917
+      },
+      "json/000019.content.json": {
+        "mimeType": "text/json",
+        "size": 12167
+      },
+      "json/000020.content.json": {
+        "mimeType": "text/json",
+        "size": 9101
+      },
+      "json/000021.content.json": {
+        "mimeType": "text/json",
+        "size": 16901
+      },
+      "json/000022.content.json": {
+        "mimeType": "text/json",
+        "size": 8984
+      },
+      "json/000023.content.json": {
+        "mimeType": "text/json",
+        "size": 9555
+      },
+      "json/000024.content.json": {
+        "mimeType": "text/json",
+        "size": 11519
+      },
+      "json/000025.content.json": {
+        "mimeType": "text/json",
+        "size": 12898
+      },
+      "json/000026.content.json": {
+        "mimeType": "text/json",
+        "size": 5083
+      },
+      "json/000027.content.json": {
+        "mimeType": "text/json",
+        "size": 11066
+      },
+      "json/000028.content.json": {
+        "mimeType": "text/json",
+        "size": 10885
+      },
+      "json/000029.content.json": {
+        "mimeType": "text/json",
+        "size": 7052
+      },
+      "json/000030.content.json": {
+        "mimeType": "text/json",
+        "size": 6248
+      },
+      "json/000031.content.json": {
+        "mimeType": "text/json",
+        "size": 8438
+      },
+      "json/000032.content.json": {
+        "mimeType": "text/json",
+        "size": 18054
+      },
+      "json/000033.content.json": {
+        "mimeType": "text/json",
+        "size": 5555
+      },
+      "json/000034.content.json": {
+        "mimeType": "text/json",
+        "size": 12373
+      },
+      "json/000035.content.json": {
+        "mimeType": "text/json",
+        "size": 15258
+      },
+      "json/000036.content.json": {
+        "mimeType": "text/json",
+        "size": 9019
+      },
+      "json/000037.content.json": {
+        "mimeType": "text/json",
+        "size": 4634
+      },
+      "json/000038.content.json": {
+        "mimeType": "text/json",
+        "size": 25132
+      },
+      "json/000039.content.json": {
+        "mimeType": "text/json",
+        "size": 12741
+      },
+      "json/000040.content.json": {
+        "mimeType": "text/json",
+        "size": 12588
+      },
+      "json/000041.content.json": {
+        "mimeType": "text/json",
+        "size": 8899
+      },
+      "json/000042.content.json": {
+        "mimeType": "text/json",
+        "size": 4466
+      },
+      "json/000043.content.json": {
+        "mimeType": "text/json",
+        "size": 8488
+      },
+      "json/000044.content.json": {
+        "mimeType": "text/json",
+        "size": 8369
+      },
+      "json/000045.content.json": {
+        "mimeType": "text/json",
+        "size": 12593
+      },
+      "json/000046.content.json": {
+        "mimeType": "text/json",
+        "size": 15832
+      },
+      "json/000047.content.json": {
+        "mimeType": "text/json",
+        "size": 24954
+      },
+      "json/000048.content.json": {
+        "mimeType": "text/json",
+        "size": 7793
+      },
+      "json/000049.content.json": {
+        "mimeType": "text/json",
+        "size": 19246
+      },
+      "json/000050.content.json": {
+        "mimeType": "text/json",
+        "size": 8709
+      },
+      "json/000051.content.json": {
+        "mimeType": "text/json",
+        "size": 8926
+      },
+      "json/000052.content.json": {
+        "mimeType": "text/json",
+        "size": 11077
+      },
+      "json/000053.content.json": {
+        "mimeType": "text/json",
+        "size": 10888
+      },
+      "json/000054.content.json": {
+        "mimeType": "text/json",
+        "size": 9620
+      },
+      "json/000055.content.json": {
+        "mimeType": "text/json",
+        "size": 11579
+      },
+      "json/000056.content.json": {
+        "mimeType": "text/json",
+        "size": 11031
+      },
+      "json/000057.content.json": {
+        "mimeType": "text/json",
+        "size": 13815
+      },
+      "json/000058.content.json": {
+        "mimeType": "text/json",
+        "size": 9554
+      },
+      "json/000059.content.json": {
+        "mimeType": "text/json",
+        "size": 7778
+      },
+      "json/000060.content.json": {
+        "mimeType": "text/json",
+        "size": 12061
+      },
+      "json/000061.content.json": {
+        "mimeType": "text/json",
+        "size": 10238
+      },
+      "json/000062.content.json": {
+        "mimeType": "text/json",
+        "size": 12705
+      },
+      "json/000063.content.json": {
+        "mimeType": "text/json",
+        "size": 10015
+      },
+      "json/000064.content.json": {
+        "mimeType": "text/json",
+        "size": 6082
+      },
+      "json/000065.content.json": {
+        "mimeType": "text/json",
+        "size": 11783
+      },
+      "json/000066.content.json": {
+        "mimeType": "text/json",
+        "size": 7401
+      },
+      "json/000067.content.json": {
+        "mimeType": "text/json",
+        "size": 10641
+      },
+      "json/000068.content.json": {
+        "mimeType": "text/json",
+        "size": 6338
+      },
+      "json/000069.content.json": {
+        "mimeType": "text/json",
+        "size": 27556
+      },
+      "json/000070.content.json": {
+        "mimeType": "text/json",
+        "size": 9750
+      },
+      "json/000071.content.json": {
+        "mimeType": "text/json",
+        "size": 11851
+      },
+      "json/000072.content.json": {
+        "mimeType": "text/json",
+        "size": 9356
+      },
+      "json/000073.content.json": {
+        "mimeType": "text/json",
+        "size": 12712
+      },
+      "json/000074.content.json": {
+        "mimeType": "text/json",
+        "size": 7816
+      },
+      "json/000075.content.json": {
+        "mimeType": "text/json",
+        "size": 10248
+      },
+      "json/000076.content.json": {
+        "mimeType": "text/json",
+        "size": 7006
+      },
+      "json/000077.content.json": {
+        "mimeType": "text/json",
+        "size": 9391
+      },
+      "json/000078.content.json": {
+        "mimeType": "text/json",
+        "size": 16847
+      },
+      "json/000079.content.json": {
+        "mimeType": "text/json",
+        "size": 30553
+      },
+      "json/000080.content.json": {
+        "mimeType": "text/json",
+        "size": 15399
+      },
+      "json/000081.content.json": {
+        "mimeType": "text/json",
+        "size": 10510
+      },
+      "json/000082.content.json": {
+        "mimeType": "text/json",
+        "size": 10195
+      },
+      "json/000083.content.json": {
+        "mimeType": "text/json",
+        "size": 7202
+      },
+      "json/000084.content.json": {
+        "mimeType": "text/json",
+        "size": 7943
+      },
+      "json/000085.content.json": {
+        "mimeType": "text/json",
+        "size": 12109
+      },
+      "json/000086.content.json": {
+        "mimeType": "text/json",
+        "size": 12318
+      },
+      "json/000087.content.json": {
+        "mimeType": "text/json",
+        "size": 14326
+      },
+      "json/000088.content.json": {
+        "mimeType": "text/json",
+        "size": 13177
+      },
+      "json/000089.content.json": {
+        "mimeType": "text/json",
+        "size": 12861
+      },
+      "json/000090.content.json": {
+        "mimeType": "text/json",
+        "size": 23182
+      },
+      "json/000091.content.json": {
+        "mimeType": "text/json",
+        "size": 8122
+      },
+      "json/000092.content.json": {
+        "mimeType": "text/json",
+        "size": 16959
+      },
+      "json/000093.content.json": {
+        "mimeType": "text/json",
+        "size": 7689
+      },
+      "json/000094.content.json": {
+        "mimeType": "text/json",
+        "size": 12081
+      },
+      "json/000095.content.json": {
+        "mimeType": "text/json",
+        "size": 7831
+      },
+      "json/000096.content.json": {
+        "mimeType": "text/json",
+        "size": 7233
+      },
+      "json/000097.content.json": {
+        "mimeType": "text/json",
+        "size": 8179
+      },
+      "json/000098.content.json": {
+        "mimeType": "text/json",
+        "size": 10444
+      },
+      "json/000099.content.json": {
+        "mimeType": "text/json",
+        "size": 7807
+      },
+      "json/000100.content.json": {
+        "mimeType": "text/json",
+        "size": 15378
+      },
+      "json/000101.content.json": {
+        "mimeType": "text/json",
+        "size": 8973
+      },
+      "json/000102.content.json": {
+        "mimeType": "text/json",
+        "size": 9277
+      },
+      "json/000103.content.json": {
+        "mimeType": "text/json",
+        "size": 8998
+      },
+      "json/000104.content.json": {
+        "mimeType": "text/json",
+        "size": 9080
+      },
+      "json/000105.content.json": {
+        "mimeType": "text/json",
+        "size": 9860
+      },
+      "json/000106.content.json": {
+        "mimeType": "text/json",
+        "size": 14455
+      },
+      "json/000107.content.json": {
+        "mimeType": "text/json",
+        "size": 39122
+      },
+      "json/000108.content.json": {
+        "mimeType": "text/json",
+        "size": 7121
+      },
+      "json/000109.content.json": {
+        "mimeType": "text/json",
+        "size": 9290
+      },
+      "json/000110.content.json": {
+        "mimeType": "text/json",
+        "size": 17907
+      },
+      "json/000111.content.json": {
+        "mimeType": "text/json",
+        "size": 8936
+      },
+      "json/000112.content.json": {
+        "mimeType": "text/json",
+        "size": 10945
+      },
+      "json/000113.content.json": {
+        "mimeType": "text/json",
+        "size": 5973
+      },
+      "json/000114.content.json": {
+        "mimeType": "text/json",
+        "size": 12081
+      },
+      "json/000115.content.json": {
+        "mimeType": "text/json",
+        "size": 11224
+      },
+      "json/000116.content.json": {
+        "mimeType": "text/json",
+        "size": 11078
+      },
+      "json/000117.content.json": {
+        "mimeType": "text/json",
+        "size": 7159
+      },
+      "json/000118.content.json": {
+        "mimeType": "text/json",
+        "size": 7747
+      },
+      "json/000119.content.json": {
+        "mimeType": "text/json",
+        "size": 10476
+      },
+      "json/000120.content.json": {
+        "mimeType": "text/json",
+        "size": 8147
+      },
+      "json/000121.content.json": {
+        "mimeType": "text/json",
+        "size": 7673
+      },
+      "json/000122.content.json": {
+        "mimeType": "text/json",
+        "size": 10913
+      },
+      "json/000123.content.json": {
+        "mimeType": "text/json",
+        "size": 5782
+      },
+      "json/000124.content.json": {
+        "mimeType": "text/json",
+        "size": 5240
+      },
+      "md/000001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8243
+      },
+      "md/000002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8724
+      },
+      "md/000003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6432
+      },
+      "md/000004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6280
+      },
+      "md/000005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 17236
+      },
+      "md/000006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4434
+      },
+      "md/000007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10318
+      },
+      "md/000008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10528
+      },
+      "md/000009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6842
+      },
+      "md/000010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9570
+      },
+      "md/000011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6057
+      },
+      "md/000012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5917
+      },
+      "md/000013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9080
+      },
+      "md/000014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7266
+      },
+      "md/000015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9011
+      },
+      "md/000016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6465
+      },
+      "md/000017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5878
+      },
+      "md/000018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9094
+      },
+      "md/000019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8113
+      },
+      "md/000020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6296
+      },
+      "md/000021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10731
+      },
+      "md/000022.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6961
+      },
+      "md/000023.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6637
+      },
+      "md/000024.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8250
+      },
+      "md/000025.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8114
+      },
+      "md/000026.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4453
+      },
+      "md/000027.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7705
+      },
+      "md/000028.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9100
+      },
+      "md/000029.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5248
+      },
+      "md/000030.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6148
+      },
+      "md/000031.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7537
+      },
+      "md/000032.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9647
+      },
+      "md/000033.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4622
+      },
+      "md/000034.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9098
+      },
+      "md/000035.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9476
+      },
+      "md/000036.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7321
+      },
+      "md/000037.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4175
+      },
+      "md/000038.content.md": {
+        "mimeType": "text/markdown",
+        "size": 16632
+      },
+      "md/000039.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9706
+      },
+      "md/000040.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7661
+      },
+      "md/000041.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6967
+      },
+      "md/000042.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3820
+      },
+      "md/000043.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6966
+      },
+      "md/000044.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5360
+      },
+      "md/000045.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7450
+      },
+      "md/000046.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10775
+      },
+      "md/000047.content.md": {
+        "mimeType": "text/markdown",
+        "size": 18500
+      },
+      "md/000048.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7089
+      },
+      "md/000049.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10296
+      },
+      "md/000050.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6918
+      },
+      "md/000051.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6903
+      },
+      "md/000052.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7134
+      },
+      "md/000053.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8350
+      },
+      "md/000054.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7167
+      },
+      "md/000055.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9200
+      },
+      "md/000056.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8108
+      },
+      "md/000057.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11222
+      },
+      "md/000058.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9828
+      },
+      "md/000059.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6071
+      },
+      "md/000060.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8617
+      },
+      "md/000061.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6339
+      },
+      "md/000062.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7509
+      },
+      "md/000063.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7488
+      },
+      "md/000064.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5788
+      },
+      "md/000065.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11491
+      },
+      "md/000066.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5923
+      },
+      "md/000067.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7723
+      },
+      "md/000068.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5348
+      },
+      "md/000069.content.md": {
+        "mimeType": "text/markdown",
+        "size": 17907
+      },
+      "md/000070.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6410
+      },
+      "md/000071.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6642
+      },
+      "md/000072.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5384
+      },
+      "md/000073.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7671
+      },
+      "md/000074.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5491
+      },
+      "md/000075.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5368
+      },
+      "md/000076.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6247
+      },
+      "md/000077.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6611
+      },
+      "md/000078.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11175
+      },
+      "md/000079.content.md": {
+        "mimeType": "text/markdown",
+        "size": 18353
+      },
+      "md/000080.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8220
+      },
+      "md/000081.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7313
+      },
+      "md/000082.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7689
+      },
+      "md/000083.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5951
+      },
+      "md/000084.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5827
+      },
+      "md/000085.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8473
+      },
+      "md/000086.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8142
+      },
+      "md/000087.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12860
+      },
+      "md/000088.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13319
+      },
+      "md/000089.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9830
+      },
+      "md/000090.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12762
+      },
+      "md/000091.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6487
+      },
+      "md/000092.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9032
+      },
+      "md/000093.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6050
+      },
+      "md/000094.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8807
+      },
+      "md/000095.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6090
+      },
+      "md/000096.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6049
+      },
+      "md/000097.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5673
+      },
+      "md/000098.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6947
+      },
+      "md/000099.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6702
+      },
+      "md/000100.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13166
+      },
+      "md/000101.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7513
+      },
+      "md/000102.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8249
+      },
+      "md/000103.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5776
+      },
+      "md/000104.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7728
+      },
+      "md/000105.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7238
+      },
+      "md/000106.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9557
+      },
+      "md/000107.content.md": {
+        "mimeType": "text/markdown",
+        "size": 19865
+      },
+      "md/000108.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6069
+      },
+      "md/000109.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8024
+      },
+      "md/000110.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8928
+      },
+      "md/000111.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6843
+      },
+      "md/000112.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7343
+      },
+      "md/000113.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5716
+      },
+      "md/000114.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7724
+      },
+      "md/000115.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8365
+      },
+      "md/000116.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7595
+      },
+      "md/000117.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5549
+      },
+      "md/000118.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6176
+      },
+      "md/000119.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7188
+      },
+      "md/000120.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6878
+      },
+      "md/000121.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5683
+      },
+      "md/000122.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7997
+      },
+      "md/000123.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5553
+      },
+      "md/000124.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5308
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>Tyndale Open Study Notes © 2019 Tyndale House Publishers.</p>",
+          "mimetype": "text/html",
+          "lang": "hi"
+        }
+      ]
+    }
+  },
+  "article_metadata": {
+    "654307": {
+      "content_id": 654307,
+      "reference_id": 203506,
+      "index_reference": "अपुल्लोस",
+      "localizations": {
+        "eng": {
+          "content_id": 500563,
+          "language": "eng",
+          "title": "Apollos"
+        },
+        "arb": {
+          "content_id": 726135,
+          "language": "arb",
+          "title": "أَبُلُّوس"
+        },
+        "fra": {
+          "content_id": 668964,
+          "language": "fra",
+          "title": "Apollos"
+        },
+        "por": {
+          "content_id": 658583,
+          "language": "por",
+          "title": "Apolo"
+        },
+        "spa": {
+          "content_id": 658431,
+          "language": "spa",
+          "title": "Apolos"
+        },
+        "swh": {
+          "content_id": 734406,
+          "language": "swh",
+          "title": "Apolo"
+        },
+        "zht": {
+          "content_id": 650922,
+          "language": "zht",
+          "title": "亞波羅"
+        }
+      }
+    },
+    "654240": {
+      "content_id": 654240,
+      "reference_id": 203439,
+      "index_reference": "अबशालोम",
+      "localizations": {
+        "eng": {
+          "content_id": 500496,
+          "language": "eng",
+          "title": "Absalom"
+        },
+        "arb": {
+          "content_id": 726068,
+          "language": "arb",
+          "title": "أبْشَالُوم"
+        },
+        "fra": {
+          "content_id": 668897,
+          "language": "fra",
+          "title": "Absalom"
+        },
+        "por": {
+          "content_id": 658516,
+          "language": "por",
+          "title": "Absalão"
+        },
+        "spa": {
+          "content_id": 658364,
+          "language": "spa",
+          "title": "Absalom"
+        },
+        "swh": {
+          "content_id": 734339,
+          "language": "swh",
+          "title": "Absalomu"
+        },
+        "zht": {
+          "content_id": 650855,
+          "language": "zht",
+          "title": "押沙龍"
+        }
+      }
+    },
+    "654238": {
+      "content_id": 654238,
+      "reference_id": 203437,
+      "index_reference": "अबीशै",
+      "localizations": {
+        "eng": {
+          "content_id": 500494,
+          "language": "eng",
+          "title": "Abishai"
+        },
+        "arb": {
+          "content_id": 726066,
+          "language": "arb",
+          "title": "أَبْشَاي"
+        },
+        "fra": {
+          "content_id": 668895,
+          "language": "fra",
+          "title": "Abischaï"
+        },
+        "por": {
+          "content_id": 658514,
+          "language": "por",
+          "title": "Abisai"
+        },
+        "spa": {
+          "content_id": 658362,
+          "language": "spa",
+          "title": "Abisai"
+        },
+        "swh": {
+          "content_id": 734337,
+          "language": "swh",
+          "title": "Abishai"
+        },
+        "zht": {
+          "content_id": 650853,
+          "language": "zht",
+          "title": "亞比篩"
+        }
+      }
+    },
+    "654235": {
+      "content_id": 654235,
+      "reference_id": 203434,
+      "index_reference": "अब्नेर",
+      "localizations": {
+        "eng": {
+          "content_id": 500491,
+          "language": "eng",
+          "title": "Abner"
+        },
+        "arb": {
+          "content_id": 726063,
+          "language": "arb",
+          "title": "أَبْنَيْر"
+        },
+        "fra": {
+          "content_id": 668892,
+          "language": "fra",
+          "title": "Abner"
+        },
+        "por": {
+          "content_id": 658511,
+          "language": "por",
+          "title": "Abner"
+        },
+        "spa": {
+          "content_id": 658359,
+          "language": "spa",
+          "title": "Abner"
+        },
+        "swh": {
+          "content_id": 734334,
+          "language": "swh",
+          "title": "Abneri"
+        },
+        "zht": {
+          "content_id": 650850,
+          "language": "zht",
+          "title": "押尼珥"
+        }
+      }
+    },
+    "654209": {
+      "content_id": 654209,
+      "reference_id": 203408,
+      "index_reference": "अब्राहम",
+      "localizations": {
+        "eng": {
+          "content_id": 500465,
+          "language": "eng",
+          "title": "Abraham"
+        },
+        "arb": {
+          "content_id": 726037,
+          "language": "arb",
+          "title": "إبراهيم"
+        },
+        "fra": {
+          "content_id": 668866,
+          "language": "fra",
+          "title": "Abraham"
+        },
+        "por": {
+          "content_id": 658485,
+          "language": "por",
+          "title": "Abraão"
+        },
+        "spa": {
+          "content_id": 658333,
+          "language": "spa",
+          "title": "Abraham"
+        },
+        "swh": {
+          "content_id": 734308,
+          "language": "swh",
+          "title": "Abrahamu"
+        },
+        "zht": {
+          "content_id": 650824,
+          "language": "zht",
+          "title": "亞伯拉罕"
+        }
+      }
+    },
+    "654232": {
+      "content_id": 654232,
+      "reference_id": 203431,
+      "index_reference": "अमालेकियों",
+      "localizations": {
+        "eng": {
+          "content_id": 500488,
+          "language": "eng",
+          "title": "The Amalekites"
+        },
+        "arb": {
+          "content_id": 726060,
+          "language": "arb",
+          "title": "العَمَالِيق"
+        },
+        "fra": {
+          "content_id": 668889,
+          "language": "fra",
+          "title": "Les Amalécites"
+        },
+        "por": {
+          "content_id": 658508,
+          "language": "por",
+          "title": "Os amalequitas"
+        },
+        "spa": {
+          "content_id": 658356,
+          "language": "spa",
+          "title": "Los amalecitas"
+        },
+        "swh": {
+          "content_id": 734331,
+          "language": "swh",
+          "title": "Waamaleki"
+        },
+        "zht": {
+          "content_id": 650847,
+          "language": "zht",
+          "title": "亞瑪力人"
+        }
+      }
+    },
+    "654247": {
+      "content_id": 654247,
+      "reference_id": 203446,
+      "index_reference": "अरामी लोग",
+      "localizations": {
+        "eng": {
+          "content_id": 500503,
+          "language": "eng",
+          "title": "Arameans"
+        },
+        "arb": {
+          "content_id": 726075,
+          "language": "arb",
+          "title": "الآراميون"
+        },
+        "fra": {
+          "content_id": 668904,
+          "language": "fra",
+          "title": "Araméens"
+        },
+        "por": {
+          "content_id": 658523,
+          "language": "por",
+          "title": "Arameus"
+        },
+        "spa": {
+          "content_id": 658371,
+          "language": "spa",
+          "title": "Arameos"
+        },
+        "swh": {
+          "content_id": 734346,
+          "language": "swh",
+          "title": "Waaramu"
+        },
+        "zht": {
+          "content_id": 650862,
+          "language": "zht",
+          "title": "亞蘭人"
+        }
+      }
+    },
+    "654253": {
+      "content_id": 654253,
+      "reference_id": 203452,
+      "index_reference": "अश्शूर",
+      "localizations": {
+        "eng": {
+          "content_id": 500509,
+          "language": "eng",
+          "title": "Assyria"
+        },
+        "arb": {
+          "content_id": 726081,
+          "language": "arb",
+          "title": "أشّور"
+        },
+        "fra": {
+          "content_id": 668910,
+          "language": "fra",
+          "title": "Assyrie"
+        },
+        "por": {
+          "content_id": 658529,
+          "language": "por",
+          "title": "Assíria"
+        },
+        "spa": {
+          "content_id": 658377,
+          "language": "spa",
+          "title": "Asiria"
+        },
+        "swh": {
+          "content_id": 734352,
+          "language": "swh",
+          "title": "Ashuru"
+        },
+        "zht": {
+          "content_id": 650868,
+          "language": "zht",
+          "title": "亞述"
+        }
+      }
+    },
+    "654244": {
+      "content_id": 654244,
+      "reference_id": 203443,
+      "index_reference": "अहाब",
+      "localizations": {
+        "eng": {
+          "content_id": 500500,
+          "language": "eng",
+          "title": "Ahab"
+        },
+        "arb": {
+          "content_id": 726072,
+          "language": "arb",
+          "title": "أَخْآب"
+        },
+        "fra": {
+          "content_id": 668901,
+          "language": "fra",
+          "title": "Achab"
+        },
+        "por": {
+          "content_id": 658520,
+          "language": "por",
+          "title": "Acabe"
+        },
+        "spa": {
+          "content_id": 658368,
+          "language": "spa",
+          "title": "Achâb"
+        },
+        "swh": {
+          "content_id": 734343,
+          "language": "swh",
+          "title": "Ahabu"
+        },
+        "zht": {
+          "content_id": 650859,
+          "language": "zht",
+          "title": "亞哈"
+        }
+      }
+    },
+    "654194": {
+      "content_id": 654194,
+      "reference_id": 203393,
+      "index_reference": "आदम और हव्वा",
+      "localizations": {
+        "eng": {
+          "content_id": 500450,
+          "language": "eng",
+          "title": "Adam and Eve"
+        },
+        "arb": {
+          "content_id": 726022,
+          "language": "arb",
+          "title": "آدَم، وحَوَّاء"
+        },
+        "fra": {
+          "content_id": 668851,
+          "language": "fra",
+          "title": "Adam et Ève"
+        },
+        "por": {
+          "content_id": 658470,
+          "language": "por",
+          "title": "Adão e Eva"
+        },
+        "spa": {
+          "content_id": 658318,
+          "language": "spa",
+          "title": "Adam y Varona"
+        },
+        "swh": {
+          "content_id": 734293,
+          "language": "swh",
+          "title": "Adam na Hawa"
+        },
+        "zht": {
+          "content_id": 650809,
+          "language": "zht",
+          "title": "亞當和夏娃"
+        }
+      }
+    },
+    "654255": {
+      "content_id": 654255,
+      "reference_id": 203454,
+      "index_reference": "आसा",
+      "localizations": {
+        "eng": {
+          "content_id": 500511,
+          "language": "eng",
+          "title": "Asa"
+        },
+        "arb": {
+          "content_id": 726083,
+          "language": "arb",
+          "title": "آسا"
+        },
+        "fra": {
+          "content_id": 668912,
+          "language": "fra",
+          "title": "Asa"
+        },
+        "por": {
+          "content_id": 658531,
+          "language": "por",
+          "title": "Asa"
+        },
+        "spa": {
+          "content_id": 658379,
+          "language": "spa",
+          "title": "Asa"
+        },
+        "swh": {
+          "content_id": 734354,
+          "language": "swh",
+          "title": "Asa"
+        },
+        "zht": {
+          "content_id": 650870,
+          "language": "zht",
+          "title": "亞撒"
+        }
+      }
+    },
+    "654250": {
+      "content_id": 654250,
+      "reference_id": 203449,
+      "index_reference": "आहाज",
+      "localizations": {
+        "eng": {
+          "content_id": 500506,
+          "language": "eng",
+          "title": "Ahaz"
+        },
+        "arb": {
+          "content_id": 726078,
+          "language": "arb",
+          "title": "آحَاز "
+        },
+        "fra": {
+          "content_id": 668907,
+          "language": "fra",
+          "title": "Achaz"
+        },
+        "por": {
+          "content_id": 658526,
+          "language": "por",
+          "title": "Acaz"
+        },
+        "spa": {
+          "content_id": 658374,
+          "language": "spa",
+          "title": "Achâz "
+        },
+        "swh": {
+          "content_id": 734349,
+          "language": "swh",
+          "title": "Ahazi"
+        },
+        "zht": {
+          "content_id": 650865,
+          "language": "zht",
+          "title": "亞哈斯"
+        }
+      }
+    },
+    "654313": {
+      "content_id": 654313,
+      "reference_id": 203512,
+      "index_reference": "इफिसुस",
+      "localizations": {
+        "eng": {
+          "content_id": 500569,
+          "language": "eng",
+          "title": "Ephesus"
+        },
+        "arb": {
+          "content_id": 726141,
+          "language": "arb",
+          "title": "أَفَسُس"
+        },
+        "fra": {
+          "content_id": 668970,
+          "language": "fra",
+          "title": "Éphèse"
+        },
+        "por": {
+          "content_id": 658589,
+          "language": "por",
+          "title": "Éfeso"
+        },
+        "spa": {
+          "content_id": 658437,
+          "language": "spa",
+          "title": "Efeso"
+        },
+        "swh": {
+          "content_id": 734412,
+          "language": "swh",
+          "title": "Efeso"
+        },
+        "zht": {
+          "content_id": 650928,
+          "language": "zht",
+          "title": "以弗所"
+        }
+      }
+    },
+    "654198": {
+      "content_id": 654198,
+      "reference_id": 203397,
+      "index_reference": "इश्माएल",
+      "localizations": {
+        "eng": {
+          "content_id": 500454,
+          "language": "eng",
+          "title": "Ishmael"
+        },
+        "arb": {
+          "content_id": 726026,
+          "language": "arb",
+          "title": "إسماعيل"
+        },
+        "fra": {
+          "content_id": 668855,
+          "language": "fra",
+          "title": "Ismaël"
+        },
+        "por": {
+          "content_id": 658474,
+          "language": "por",
+          "title": "Ismael"
+        },
+        "spa": {
+          "content_id": 658322,
+          "language": "spa",
+          "title": "Ismael"
+        },
+        "swh": {
+          "content_id": 734297,
+          "language": "swh",
+          "title": "Ishmaeli"
+        },
+        "zht": {
+          "content_id": 650813,
+          "language": "zht",
+          "title": "以實瑪利"
+        }
+      }
+    },
+    "654201": {
+      "content_id": 654201,
+      "reference_id": 203400,
+      "index_reference": "इसहाक",
+      "localizations": {
+        "eng": {
+          "content_id": 500457,
+          "language": "eng",
+          "title": "Isaac"
+        },
+        "arb": {
+          "content_id": 726029,
+          "language": "arb",
+          "title": "إسحاق"
+        },
+        "fra": {
+          "content_id": 668858,
+          "language": "fra",
+          "title": "Isaac"
+        },
+        "por": {
+          "content_id": 658477,
+          "language": "por",
+          "title": "Isaque"
+        },
+        "spa": {
+          "content_id": 658325,
+          "language": "spa",
+          "title": "Isaac"
+        },
+        "swh": {
+          "content_id": 734300,
+          "language": "swh",
+          "title": "Isaka"
+        },
+        "zht": {
+          "content_id": 650816,
+          "language": "zht",
+          "title": "以撒"
+        }
+      }
+    },
+    "654245": {
+      "content_id": 654245,
+      "reference_id": 203444,
+      "index_reference": "ईजेबेल",
+      "localizations": {
+        "eng": {
+          "content_id": 500501,
+          "language": "eng",
+          "title": "Jezebel"
+        },
+        "arb": {
+          "content_id": 726073,
+          "language": "arb",
+          "title": "إِيزَابَل "
+        },
+        "fra": {
+          "content_id": 668902,
+          "language": "fra",
+          "title": "Jézabel"
+        },
+        "por": {
+          "content_id": 658521,
+          "language": "por",
+          "title": "Jezabel"
+        },
+        "spa": {
+          "content_id": 658369,
+          "language": "spa",
+          "title": "Jezabel"
+        },
+        "swh": {
+          "content_id": 734344,
+          "language": "swh",
+          "title": "Yezebeli"
+        },
+        "zht": {
+          "content_id": 650860,
+          "language": "zht",
+          "title": "耶洗別"
+        }
+      }
+    },
+    "654257": {
+      "content_id": 654257,
+      "reference_id": 203456,
+      "index_reference": "उज्जियाह",
+      "localizations": {
+        "eng": {
+          "content_id": 500513,
+          "language": "eng",
+          "title": "Uzziah"
+        },
+        "arb": {
+          "content_id": 726085,
+          "language": "arb",
+          "title": "عُزِّيَّا "
+        },
+        "fra": {
+          "content_id": 668914,
+          "language": "fra",
+          "title": "Ozias"
+        },
+        "por": {
+          "content_id": 658533,
+          "language": "por",
+          "title": "Uzias"
+        },
+        "spa": {
+          "content_id": 658381,
+          "language": "spa",
+          "title": "Uzzías"
+        },
+        "swh": {
+          "content_id": 734356,
+          "language": "swh",
+          "title": "Uzia"
+        },
+        "zht": {
+          "content_id": 650872,
+          "language": "zht",
+          "title": "烏西雅"
+        }
+      }
+    },
+    "654276": {
+      "content_id": 654276,
+      "reference_id": 203475,
+      "index_reference": "एंटिओकस चतुर्थ",
+      "localizations": {
+        "eng": {
+          "content_id": 500532,
+          "language": "eng",
+          "title": "Antiochus IV"
+        },
+        "arb": {
+          "content_id": 726104,
+          "language": "arb",
+          "title": "أنطيوخوس الرابع"
+        },
+        "fra": {
+          "content_id": 668933,
+          "language": "fra",
+          "title": "Antiochos IV"
+        },
+        "por": {
+          "content_id": 658552,
+          "language": "por",
+          "title": "Antíoco IV"
+        },
+        "spa": {
+          "content_id": 658400,
+          "language": "spa",
+          "title": "Antíoco IV"
+        },
+        "swh": {
+          "content_id": 734375,
+          "language": "swh",
+          "title": "Antioko IV"
+        },
+        "zht": {
+          "content_id": 650891,
+          "language": "zht",
+          "title": "安提阿古四世"
+        }
+      }
+    },
+    "654260": {
+      "content_id": 654260,
+      "reference_id": 203459,
+      "index_reference": "एज्रा",
+      "localizations": {
+        "eng": {
+          "content_id": 500516,
+          "language": "eng",
+          "title": "Ezra"
+        },
+        "arb": {
+          "content_id": 726088,
+          "language": "arb",
+          "title": "عَزْرَا "
+        },
+        "fra": {
+          "content_id": 668917,
+          "language": "fra",
+          "title": "Esdras"
+        },
+        "por": {
+          "content_id": 658536,
+          "language": "por",
+          "title": "Esdras"
+        },
+        "spa": {
+          "content_id": 658384,
+          "language": "spa",
+          "title": "Esdras"
+        },
+        "swh": {
+          "content_id": 734359,
+          "language": "swh",
+          "title": "Ezra"
+        },
+        "zht": {
+          "content_id": 650875,
+          "language": "zht",
+          "title": "以斯拉"
+        }
+      }
+    },
+    "654231": {
+      "content_id": 654231,
+      "reference_id": 203430,
+      "index_reference": "एब्यातार",
+      "localizations": {
+        "eng": {
+          "content_id": 500487,
+          "language": "eng",
+          "title": "Abiathar"
+        },
+        "arb": {
+          "content_id": 726059,
+          "language": "arb",
+          "title": "أَبِيَاثَار "
+        },
+        "fra": {
+          "content_id": 668888,
+          "language": "fra",
+          "title": "Abiathar"
+        },
+        "por": {
+          "content_id": 658507,
+          "language": "por",
+          "title": "Abiatar"
+        },
+        "spa": {
+          "content_id": 658355,
+          "language": "spa",
+          "title": "Abiathar"
+        },
+        "swh": {
+          "content_id": 734330,
+          "language": "swh",
+          "title": "Abiathari"
+        },
+        "zht": {
+          "content_id": 650846,
+          "language": "zht",
+          "title": "亞比亞他"
+        }
+      }
+    },
+    "654246": {
+      "content_id": 654246,
+      "reference_id": 203445,
+      "index_reference": "एलिय्याह",
+      "localizations": {
+        "eng": {
+          "content_id": 500502,
+          "language": "eng",
+          "title": "Elijah"
+        },
+        "arb": {
+          "content_id": 726074,
+          "language": "arb",
+          "title": "إِيلِيَّا التِّشْبِي"
+        },
+        "fra": {
+          "content_id": 668903,
+          "language": "fra",
+          "title": "Élie"
+        },
+        "por": {
+          "content_id": 658522,
+          "language": "por",
+          "title": "Elias"
+        },
+        "spa": {
+          "content_id": 658370,
+          "language": "spa",
+          "title": "Elías"
+        },
+        "swh": {
+          "content_id": 734345,
+          "language": "swh",
+          "title": "Eliya"
+        },
+        "zht": {
+          "content_id": 650861,
+          "language": "zht",
+          "title": "以利亞"
+        }
+      }
+    },
+    "654227": {
+      "content_id": 654227,
+      "reference_id": 203426,
+      "index_reference": "एली",
+      "localizations": {
+        "eng": {
+          "content_id": 500483,
+          "language": "eng",
+          "title": "Eli"
+        },
+        "arb": {
+          "content_id": 726055,
+          "language": "arb",
+          "title": "عالي"
+        },
+        "fra": {
+          "content_id": 668884,
+          "language": "fra",
+          "title": "Éli"
+        },
+        "por": {
+          "content_id": 658503,
+          "language": "por",
+          "title": "Eli"
+        },
+        "spa": {
+          "content_id": 658351,
+          "language": "spa",
+          "title": "Eli"
+        },
+        "swh": {
+          "content_id": 734326,
+          "language": "swh",
+          "title": "Eli"
+        },
+        "zht": {
+          "content_id": 650842,
+          "language": "zht",
+          "title": "以利"
+        }
+      }
+    },
+    "654216": {
+      "content_id": 654216,
+      "reference_id": 203415,
+      "index_reference": "एलीआजर",
+      "localizations": {
+        "eng": {
+          "content_id": 500472,
+          "language": "eng",
+          "title": "Eleazar"
+        },
+        "arb": {
+          "content_id": 726044,
+          "language": "arb",
+          "title": "أَلِعَازَار"
+        },
+        "fra": {
+          "content_id": 668873,
+          "language": "fra",
+          "title": "Éléazar"
+        },
+        "por": {
+          "content_id": 658492,
+          "language": "por",
+          "title": "Eleazar"
+        },
+        "spa": {
+          "content_id": 658340,
+          "language": "spa",
+          "title": "Eleazar"
+        },
+        "swh": {
+          "content_id": 734315,
+          "language": "swh",
+          "title": "Eleazari"
+        },
+        "zht": {
+          "content_id": 650831,
+          "language": "zht",
+          "title": "以利亞撒"
+        }
+      }
+    },
+    "654248": {
+      "content_id": 654248,
+      "reference_id": 203447,
+      "index_reference": "एलीशा",
+      "localizations": {
+        "eng": {
+          "content_id": 500504,
+          "language": "eng",
+          "title": "Elisha"
+        },
+        "arb": {
+          "content_id": 726076,
+          "language": "arb",
+          "title": "أَلِيشَع"
+        },
+        "fra": {
+          "content_id": 668905,
+          "language": "fra",
+          "title": "Élisée"
+        },
+        "por": {
+          "content_id": 658524,
+          "language": "por",
+          "title": "Eliseu"
+        },
+        "spa": {
+          "content_id": 658372,
+          "language": "spa",
+          "title": "Eliseo"
+        },
+        "swh": {
+          "content_id": 734347,
+          "language": "swh",
+          "title": "Elisha"
+        },
+        "zht": {
+          "content_id": 650863,
+          "language": "zht",
+          "title": "以利沙"
+        }
+      }
+    },
+    "654204": {
+      "content_id": 654204,
+      "reference_id": 203403,
+      "index_reference": "एसाव",
+      "localizations": {
+        "eng": {
+          "content_id": 500460,
+          "language": "eng",
+          "title": "Esau"
+        },
+        "arb": {
+          "content_id": 726032,
+          "language": "arb",
+          "title": "عِيسُو"
+        },
+        "fra": {
+          "content_id": 668861,
+          "language": "fra",
+          "title": "Ésaü"
+        },
+        "por": {
+          "content_id": 658480,
+          "language": "por",
+          "title": "Esaú"
+        },
+        "spa": {
+          "content_id": 658328,
+          "language": "spa",
+          "title": "Esaú"
+        },
+        "swh": {
+          "content_id": 734303,
+          "language": "swh",
+          "title": "Esau"
+        },
+        "zht": {
+          "content_id": 650819,
+          "language": "zht",
+          "title": "以掃"
+        }
+      }
+    },
+    "654263": {
+      "content_id": 654263,
+      "reference_id": 203462,
+      "index_reference": "एस्तेर",
+      "localizations": {
+        "eng": {
+          "content_id": 500519,
+          "language": "eng",
+          "title": "Esther"
+        },
+        "arb": {
+          "content_id": 726091,
+          "language": "arb",
+          "title": "أَسْتِير "
+        },
+        "fra": {
+          "content_id": 668920,
+          "language": "fra",
+          "title": "Esther"
+        },
+        "por": {
+          "content_id": 658539,
+          "language": "por",
+          "title": "Ester"
+        },
+        "spa": {
+          "content_id": 658387,
+          "language": "spa",
+          "title": "Esther"
+        },
+        "swh": {
+          "content_id": 734362,
+          "language": "swh",
+          "title": "Esta"
+        },
+        "zht": {
+          "content_id": 650878,
+          "language": "zht",
+          "title": "以斯帖"
+        }
+      }
+    },
+    "654221": {
+      "content_id": 654221,
+      "reference_id": 203420,
+      "index_reference": "कालेब",
+      "localizations": {
+        "eng": {
+          "content_id": 500477,
+          "language": "eng",
+          "title": "Caleb"
+        },
+        "arb": {
+          "content_id": 726049,
+          "language": "arb",
+          "title": "كَالَب "
+        },
+        "fra": {
+          "content_id": 668878,
+          "language": "fra",
+          "title": "Caleb"
+        },
+        "por": {
+          "content_id": 658497,
+          "language": "por",
+          "title": "Calebe"
+        },
+        "spa": {
+          "content_id": 658345,
+          "language": "spa",
+          "title": "Caleb"
+        },
+        "swh": {
+          "content_id": 734320,
+          "language": "swh",
+          "title": "Kalebu"
+        },
+        "zht": {
+          "content_id": 650836,
+          "language": "zht",
+          "title": "迦勒"
+        }
+      }
+    },
+    "654312": {
+      "content_id": 654312,
+      "reference_id": 203511,
+      "index_reference": "कुरिन्थुस",
+      "localizations": {
+        "eng": {
+          "content_id": 500568,
+          "language": "eng",
+          "title": "Corinth"
+        },
+        "arb": {
+          "content_id": 726140,
+          "language": "arb",
+          "title": "كورنثوس"
+        },
+        "fra": {
+          "content_id": 668969,
+          "language": "fra",
+          "title": "Corinthe"
+        },
+        "por": {
+          "content_id": 658588,
+          "language": "por",
+          "title": "Corinto"
+        },
+        "spa": {
+          "content_id": 658436,
+          "language": "spa",
+          "title": "Corinto"
+        },
+        "swh": {
+          "content_id": 734411,
+          "language": "swh",
+          "title": "Korintho"
+        },
+        "zht": {
+          "content_id": 650927,
+          "language": "zht",
+          "title": "哥林多"
+        }
+      }
+    },
+    "654259": {
+      "content_id": 654259,
+      "reference_id": 203458,
+      "index_reference": "कुस्रू द्वितीय",
+      "localizations": {
+        "eng": {
+          "content_id": 500515,
+          "language": "eng",
+          "title": "Cyrus II"
+        },
+        "arb": {
+          "content_id": 726087,
+          "language": "arb",
+          "title": "كُورَش الثاني"
+        },
+        "fra": {
+          "content_id": 668916,
+          "language": "fra",
+          "title": "Cyrus II"
+        },
+        "por": {
+          "content_id": 658535,
+          "language": "por",
+          "title": "Ciro II"
+        },
+        "spa": {
+          "content_id": 658383,
+          "language": "spa",
+          "title": "Ciro II"
+        },
+        "swh": {
+          "content_id": 734358,
+          "language": "swh",
+          "title": "Koreshi II"
+        },
+        "zht": {
+          "content_id": 650874,
+          "language": "zht",
+          "title": "塞魯士二世"
+        }
+      }
+    },
+    "654264": {
+      "content_id": 654264,
+      "reference_id": 203463,
+      "index_reference": "क्षयर्ष प्रथम",
+      "localizations": {
+        "eng": {
+          "content_id": 500520,
+          "language": "eng",
+          "title": "Xerxes I"
+        },
+        "arb": {
+          "content_id": 726092,
+          "language": "arb",
+          "title": "أحَشْوِيرُوش الأول"
+        },
+        "fra": {
+          "content_id": 668921,
+          "language": "fra",
+          "title": "Xerxès Ier"
+        },
+        "por": {
+          "content_id": 658540,
+          "language": "por",
+          "title": "Xerxes I"
+        },
+        "spa": {
+          "content_id": 658388,
+          "language": "spa",
+          "title": "Jerjes I"
+        },
+        "swh": {
+          "content_id": 734363,
+          "language": "swh",
+          "title": "Ahasuwero I"
+        },
+        "zht": {
+          "content_id": 650879,
+          "language": "zht",
+          "title": "薛西一世"
+        }
+      }
+    },
+    "654224": {
+      "content_id": 654224,
+      "reference_id": 203423,
+      "index_reference": "गिदोन",
+      "localizations": {
+        "eng": {
+          "content_id": 500480,
+          "language": "eng",
+          "title": "Gideon"
+        },
+        "arb": {
+          "content_id": 726052,
+          "language": "arb",
+          "title": "جِدْعُون"
+        },
+        "fra": {
+          "content_id": 668881,
+          "language": "fra",
+          "title": "Gédéon"
+        },
+        "por": {
+          "content_id": 658500,
+          "language": "por",
+          "title": "Gideão"
+        },
+        "spa": {
+          "content_id": 658348,
+          "language": "spa",
+          "title": "Gedeón"
+        },
+        "swh": {
+          "content_id": 734323,
+          "language": "swh",
+          "title": "Gideoni"
+        },
+        "zht": {
+          "content_id": 650839,
+          "language": "zht",
+          "title": "基甸"
+        }
+      }
+    },
+    "654295": {
+      "content_id": 654295,
+      "reference_id": 203494,
+      "index_reference": "जब्दी का पुत्र यूहन्ना",
+      "localizations": {
+        "eng": {
+          "content_id": 500551,
+          "language": "eng",
+          "title": "John, Son of Zebedee"
+        },
+        "arb": {
+          "content_id": 726123,
+          "language": "arb",
+          "title": "يوحنّا، بْنَ زَبْدِي "
+        },
+        "fra": {
+          "content_id": 668952,
+          "language": "fra",
+          "title": "Jean, fils de Zébédée"
+        },
+        "por": {
+          "content_id": 658571,
+          "language": "por",
+          "title": "João, Filho de Zebedeu"
+        },
+        "spa": {
+          "content_id": 658419,
+          "language": "spa",
+          "title": "Juan, hijo de Zebedeo"
+        },
+        "swh": {
+          "content_id": 734394,
+          "language": "swh",
+          "title": "Yohana, Mwana wa Zebedayo"
+        },
+        "zht": {
+          "content_id": 650910,
+          "language": "zht",
+          "title": "西庇太的兒子約翰"
+        }
+      }
+    },
+    "654275": {
+      "content_id": 654275,
+      "reference_id": 203474,
+      "index_reference": "जरुब्बाबेल",
+      "localizations": {
+        "eng": {
+          "content_id": 500531,
+          "language": "eng",
+          "title": "Zerubbabel"
+        },
+        "arb": {
+          "content_id": 726103,
+          "language": "arb",
+          "title": "زَرُبَّابِل"
+        },
+        "fra": {
+          "content_id": 668932,
+          "language": "fra",
+          "title": "Zorobabel"
+        },
+        "por": {
+          "content_id": 658551,
+          "language": "por",
+          "title": "Zorobabel"
+        },
+        "spa": {
+          "content_id": 658399,
+          "language": "spa",
+          "title": "Zorobabel"
+        },
+        "swh": {
+          "content_id": 734374,
+          "language": "swh",
+          "title": "Zerubabeli"
+        },
+        "zht": {
+          "content_id": 650890,
+          "language": "zht",
+          "title": "所羅巴伯"
+        }
+      }
+    },
+    "654316": {
+      "content_id": 654316,
+      "reference_id": 203515,
+      "index_reference": "तीतुस",
+      "localizations": {
+        "eng": {
+          "content_id": 500572,
+          "language": "eng",
+          "title": "Titus"
+        },
+        "arb": {
+          "content_id": 726144,
+          "language": "arb",
+          "title": "تيطس"
+        },
+        "fra": {
+          "content_id": 668973,
+          "language": "fra",
+          "title": "Tite"
+        },
+        "por": {
+          "content_id": 658592,
+          "language": "por",
+          "title": "Tito"
+        },
+        "spa": {
+          "content_id": 658440,
+          "language": "spa",
+          "title": "Tito"
+        },
+        "swh": {
+          "content_id": 734415,
+          "language": "swh",
+          "title": "Tito"
+        },
+        "zht": {
+          "content_id": 650931,
+          "language": "zht",
+          "title": "提多"
+        }
+      }
+    },
+    "654315": {
+      "content_id": 654315,
+      "reference_id": 203514,
+      "index_reference": "तीमुथियुस",
+      "localizations": {
+        "eng": {
+          "content_id": 500571,
+          "language": "eng",
+          "title": "Timothy"
+        },
+        "arb": {
+          "content_id": 726143,
+          "language": "arb",
+          "title": "تيموثاوس"
+        },
+        "fra": {
+          "content_id": 668972,
+          "language": "fra",
+          "title": "Timothée"
+        },
+        "por": {
+          "content_id": 658591,
+          "language": "por",
+          "title": "Timóteo"
+        },
+        "spa": {
+          "content_id": 658439,
+          "language": "spa",
+          "title": "Timoteo"
+        },
+        "swh": {
+          "content_id": 734414,
+          "language": "swh",
+          "title": "Timotheo"
+        },
+        "zht": {
+          "content_id": 650930,
+          "language": "zht",
+          "title": "提摩太"
+        }
+      }
+    },
+    "654297": {
+      "content_id": 654297,
+      "reference_id": 203496,
+      "index_reference": "थोमा",
+      "localizations": {
+        "eng": {
+          "content_id": 500553,
+          "language": "eng",
+          "title": "Thomas"
+        },
+        "arb": {
+          "content_id": 726125,
+          "language": "arb",
+          "title": "تُومَا"
+        },
+        "fra": {
+          "content_id": 668954,
+          "language": "fra",
+          "title": "Thomas"
+        },
+        "por": {
+          "content_id": 658573,
+          "language": "por",
+          "title": "Tomé"
+        },
+        "spa": {
+          "content_id": 658421,
+          "language": "spa",
+          "title": "Tomás"
+        },
+        "swh": {
+          "content_id": 734396,
+          "language": "swh",
+          "title": "Tomaso"
+        },
+        "zht": {
+          "content_id": 650912,
+          "language": "zht",
+          "title": "多馬"
+        }
+      }
+    },
+    "654223": {
+      "content_id": 654223,
+      "reference_id": 203422,
+      "index_reference": "दबोरा",
+      "localizations": {
+        "eng": {
+          "content_id": 500479,
+          "language": "eng",
+          "title": "Deborah"
+        },
+        "arb": {
+          "content_id": 726051,
+          "language": "arb",
+          "title": "دَبُورَة"
+        },
+        "fra": {
+          "content_id": 668880,
+          "language": "fra",
+          "title": "Débora"
+        },
+        "por": {
+          "content_id": 658499,
+          "language": "por",
+          "title": "Débora"
+        },
+        "spa": {
+          "content_id": 658347,
+          "language": "spa",
+          "title": "Débora"
+        },
+        "swh": {
+          "content_id": 734322,
+          "language": "swh",
+          "title": "Debora"
+        },
+        "zht": {
+          "content_id": 650838,
+          "language": "zht",
+          "title": "底波拉"
+        }
+      }
+    },
+    "654234": {
+      "content_id": 654234,
+      "reference_id": 203433,
+      "index_reference": "दाऊद",
+      "localizations": {
+        "eng": {
+          "content_id": 500490,
+          "language": "eng",
+          "title": "David"
+        },
+        "arb": {
+          "content_id": 726062,
+          "language": "arb",
+          "title": "داود"
+        },
+        "fra": {
+          "content_id": 668891,
+          "language": "fra",
+          "title": "David"
+        },
+        "por": {
+          "content_id": 658510,
+          "language": "por",
+          "title": "Davi"
+        },
+        "spa": {
+          "content_id": 658358,
+          "language": "spa",
+          "title": "David"
+        },
+        "swh": {
+          "content_id": 734333,
+          "language": "swh",
+          "title": "Daudi"
+        },
+        "zht": {
+          "content_id": 650849,
+          "language": "zht",
+          "title": "大衛"
+        }
+      }
+    },
+    "654270": {
+      "content_id": 654270,
+      "reference_id": 203469,
+      "index_reference": "दानिय्येल",
+      "localizations": {
+        "eng": {
+          "content_id": 500526,
+          "language": "eng",
+          "title": "Daniel"
+        },
+        "arb": {
+          "content_id": 726098,
+          "language": "arb",
+          "title": "دانيآل"
+        },
+        "fra": {
+          "content_id": 668927,
+          "language": "fra",
+          "title": "Daniel"
+        },
+        "por": {
+          "content_id": 658546,
+          "language": "por",
+          "title": "Daniel"
+        },
+        "spa": {
+          "content_id": 658394,
+          "language": "spa",
+          "title": "Daniel"
+        },
+        "swh": {
+          "content_id": 734369,
+          "language": "swh",
+          "title": "Danieli"
+        },
+        "zht": {
+          "content_id": 650885,
+          "language": "zht",
+          "title": "但以理"
+        }
+      }
+    },
+    "654271": {
+      "content_id": 654271,
+      "reference_id": 203470,
+      "index_reference": "नबूकदनेस्सर ii",
+      "localizations": {
+        "eng": {
+          "content_id": 500527,
+          "language": "eng",
+          "title": "Nebuchadnezzar II"
+        },
+        "arb": {
+          "content_id": 726099,
+          "language": "arb",
+          "title": "نَبُوخَذْنَاصَّر الثاني"
+        },
+        "fra": {
+          "content_id": 668928,
+          "language": "fra",
+          "title": "Nebucadnetsar II"
+        },
+        "por": {
+          "content_id": 658547,
+          "language": "por",
+          "title": "Nabucodonosor II"
+        },
+        "spa": {
+          "content_id": 658395,
+          "language": "spa",
+          "title": "Nabucodonosor II"
+        },
+        "swh": {
+          "content_id": 734370,
+          "language": "swh",
+          "title": "Nebukadneza II"
+        },
+        "zht": {
+          "content_id": 650886,
+          "language": "zht",
+          "title": "尼布甲尼撒二世"
+        }
+      }
+    },
+    "654262": {
+      "content_id": 654262,
+      "reference_id": 203461,
+      "index_reference": "नहेम्याह",
+      "localizations": {
+        "eng": {
+          "content_id": 500518,
+          "language": "eng",
+          "title": "Nehemiah"
+        },
+        "arb": {
+          "content_id": 726090,
+          "language": "arb",
+          "title": "نحميا"
+        },
+        "fra": {
+          "content_id": 668919,
+          "language": "fra",
+          "title": "Néhémie"
+        },
+        "por": {
+          "content_id": 658538,
+          "language": "por",
+          "title": "Neemias"
+        },
+        "spa": {
+          "content_id": 658386,
+          "language": "spa",
+          "title": "Nehemías"
+        },
+        "swh": {
+          "content_id": 734361,
+          "language": "swh",
+          "title": "Nehemia"
+        },
+        "zht": {
+          "content_id": 650877,
+          "language": "zht",
+          "title": "尼希米"
+        }
+      }
+    },
+    "654292": {
+      "content_id": 654292,
+      "reference_id": 203491,
+      "index_reference": "नीकुदेमुस",
+      "localizations": {
+        "eng": {
+          "content_id": 500548,
+          "language": "eng",
+          "title": "Nicodemus"
+        },
+        "arb": {
+          "content_id": 726120,
+          "language": "arb",
+          "title": "نِيقُودِيمُوس"
+        },
+        "fra": {
+          "content_id": 668949,
+          "language": "fra",
+          "title": "Nicodème"
+        },
+        "por": {
+          "content_id": 658568,
+          "language": "por",
+          "title": "Nicodemos"
+        },
+        "spa": {
+          "content_id": 658416,
+          "language": "spa",
+          "title": "Nicodemo"
+        },
+        "swh": {
+          "content_id": 734391,
+          "language": "swh",
+          "title": "Nikodemo"
+        },
+        "zht": {
+          "content_id": 650907,
+          "language": "zht",
+          "title": "尼哥德慕"
+        }
+      }
+    },
+    "654310": {
+      "content_id": 654310,
+      "reference_id": 203509,
+      "index_reference": "नीरो",
+      "localizations": {
+        "eng": {
+          "content_id": 500566,
+          "language": "eng",
+          "title": "Nero"
+        },
+        "arb": {
+          "content_id": 726138,
+          "language": "arb",
+          "title": "نيرون"
+        },
+        "fra": {
+          "content_id": 668967,
+          "language": "fra",
+          "title": "Néron"
+        },
+        "por": {
+          "content_id": 658586,
+          "language": "por",
+          "title": "Nero"
+        },
+        "spa": {
+          "content_id": 658434,
+          "language": "spa",
+          "title": "Nerón"
+        },
+        "swh": {
+          "content_id": 734409,
+          "language": "swh",
+          "title": "Nero"
+        },
+        "zht": {
+          "content_id": 650925,
+          "language": "zht",
+          "title": "尼祿"
+        }
+      }
+    },
+    "654195": {
+      "content_id": 654195,
+      "reference_id": 203394,
+      "index_reference": "नूह",
+      "localizations": {
+        "eng": {
+          "content_id": 500451,
+          "language": "eng",
+          "title": "Noah"
+        },
+        "arb": {
+          "content_id": 726023,
+          "language": "arb",
+          "title": "نوح"
+        },
+        "fra": {
+          "content_id": 668852,
+          "language": "fra",
+          "title": "Noé"
+        },
+        "por": {
+          "content_id": 658471,
+          "language": "por",
+          "title": "Noé"
+        },
+        "spa": {
+          "content_id": 658319,
+          "language": "spa",
+          "title": "Noé"
+        },
+        "swh": {
+          "content_id": 734294,
+          "language": "swh",
+          "title": "Noa"
+        },
+        "zht": {
+          "content_id": 650810,
+          "language": "zht",
+          "title": "挪亞"
+        }
+      }
+    },
+    "654222": {
+      "content_id": 654222,
+      "reference_id": 203421,
+      "index_reference": "पलिश्ती लोग",
+      "localizations": {
+        "eng": {
+          "content_id": 500478,
+          "language": "eng",
+          "title": "The Philistines"
+        },
+        "arb": {
+          "content_id": 726050,
+          "language": "arb",
+          "title": "الفلسطينيون"
+        },
+        "fra": {
+          "content_id": 668879,
+          "language": "fra",
+          "title": "Les Philistins"
+        },
+        "por": {
+          "content_id": 658498,
+          "language": "por",
+          "title": "Os Filisteus"
+        },
+        "spa": {
+          "content_id": 658346,
+          "language": "spa",
+          "title": "Los filisteos"
+        },
+        "swh": {
+          "content_id": 734321,
+          "language": "swh",
+          "title": "Wafilisti"
+        },
+        "zht": {
+          "content_id": 650837,
+          "language": "zht",
+          "title": "非利士人"
+        }
+      }
+    },
+    "654287": {
+      "content_id": 654287,
+      "reference_id": 203486,
+      "index_reference": "पुन्तियुस पिलातुस",
+      "localizations": {
+        "eng": {
+          "content_id": 500543,
+          "language": "eng",
+          "title": "Pontius Pilate"
+        },
+        "arb": {
+          "content_id": 726115,
+          "language": "arb",
+          "title": "بِيلَاطُس البُنطي "
+        },
+        "fra": {
+          "content_id": 668944,
+          "language": "fra",
+          "title": "Ponce Pilate"
+        },
+        "por": {
+          "content_id": 658563,
+          "language": "por",
+          "title": "Pontius Pilatos"
+        },
+        "spa": {
+          "content_id": 658411,
+          "language": "spa",
+          "title": "Poncio Pilato"
+        },
+        "swh": {
+          "content_id": 734386,
+          "language": "swh",
+          "title": "Pontio Pilato"
+        },
+        "zht": {
+          "content_id": 650902,
+          "language": "zht",
+          "title": "本丟‧彼拉多"
+        }
+      }
+    },
+    "654301": {
+      "content_id": 654301,
+      "reference_id": 203500,
+      "index_reference": "पौलुस (शाऊल)",
+      "localizations": {
+        "eng": {
+          "content_id": 500557,
+          "language": "eng",
+          "title": "Paul (Saul)"
+        },
+        "arb": {
+          "content_id": 726129,
+          "language": "arb",
+          "title": "بولس (شاول)"
+        },
+        "fra": {
+          "content_id": 668958,
+          "language": "fra",
+          "title": "Paul (Saül)"
+        },
+        "por": {
+          "content_id": 658577,
+          "language": "por",
+          "title": "Paulo (Saul)"
+        },
+        "spa": {
+          "content_id": 658425,
+          "language": "spa",
+          "title": "Pablo (Saúl)"
+        },
+        "swh": {
+          "content_id": 734400,
+          "language": "swh",
+          "title": "Paulo (Sauli)"
+        },
+        "zht": {
+          "content_id": 650916,
+          "language": "zht",
+          "title": "保羅（掃羅）"
+        }
+      }
+    },
+    "654306": {
+      "content_id": 654306,
+      "reference_id": 203505,
+      "index_reference": "प्रिस्किल्ला और अक्विला",
+      "localizations": {
+        "eng": {
+          "content_id": 500562,
+          "language": "eng",
+          "title": "Priscilla and Aquila"
+        },
+        "arb": {
+          "content_id": 726134,
+          "language": "arb",
+          "title": "بِرِيسْكِلَّا، وأَكِيلَا"
+        },
+        "fra": {
+          "content_id": 668963,
+          "language": "fra",
+          "title": "Priscille et Aquilas"
+        },
+        "por": {
+          "content_id": 658582,
+          "language": "por",
+          "title": "Priscila e Áquila"
+        },
+        "spa": {
+          "content_id": 658430,
+          "language": "spa",
+          "title": "Priscila y Aquila"
+        },
+        "swh": {
+          "content_id": 734405,
+          "language": "swh",
+          "title": "Prisila na Akila"
+        },
+        "zht": {
+          "content_id": 650921,
+          "language": "zht",
+          "title": "百基拉和亞居拉"
+        }
+      }
+    },
+    "654279": {
+      "content_id": 654279,
+      "reference_id": 203478,
+      "index_reference": "फरीसी",
+      "localizations": {
+        "eng": {
+          "content_id": 500535,
+          "language": "eng",
+          "title": "The Pharisees"
+        },
+        "arb": {
+          "content_id": 726107,
+          "language": "arb",
+          "title": "الفَرِّيسِيُّون"
+        },
+        "fra": {
+          "content_id": 668936,
+          "language": "fra",
+          "title": "Les Pharisiens"
+        },
+        "por": {
+          "content_id": 658555,
+          "language": "por",
+          "title": "Os Fariseus"
+        },
+        "spa": {
+          "content_id": 658403,
+          "language": "spa",
+          "title": "Los fariseos"
+        },
+        "swh": {
+          "content_id": 734378,
+          "language": "swh",
+          "title": "Mafarisayo"
+        },
+        "zht": {
+          "content_id": 650894,
+          "language": "zht",
+          "title": "法利賽人"
+        }
+      }
+    },
+    "654214": {
+      "content_id": 654214,
+      "reference_id": 203413,
+      "index_reference": "फिरौन",
+      "localizations": {
+        "eng": {
+          "content_id": 500470,
+          "language": "eng",
+          "title": "Pharaoh"
+        },
+        "arb": {
+          "content_id": 726042,
+          "language": "arb",
+          "title": "فرعون"
+        },
+        "fra": {
+          "content_id": 668871,
+          "language": "fra",
+          "title": "Pharaon"
+        },
+        "por": {
+          "content_id": 658490,
+          "language": "por",
+          "title": "Faraó"
+        },
+        "spa": {
+          "content_id": 658338,
+          "language": "spa",
+          "title": "Faraón"
+        },
+        "swh": {
+          "content_id": 734313,
+          "language": "swh",
+          "title": "Farao"
+        },
+        "zht": {
+          "content_id": 650829,
+          "language": "zht",
+          "title": "法老"
+        }
+      }
+    },
+    "654314": {
+      "content_id": 654314,
+      "reference_id": 203513,
+      "index_reference": "फिलिप्पी",
+      "localizations": {
+        "eng": {
+          "content_id": 500570,
+          "language": "eng",
+          "title": "Philippi"
+        },
+        "arb": {
+          "content_id": 726142,
+          "language": "arb",
+          "title": "فيلبّي"
+        },
+        "fra": {
+          "content_id": 668971,
+          "language": "fra",
+          "title": "Philippes"
+        },
+        "por": {
+          "content_id": 658590,
+          "language": "por",
+          "title": "Filipos"
+        },
+        "spa": {
+          "content_id": 658438,
+          "language": "spa",
+          "title": "Filipo"
+        },
+        "swh": {
+          "content_id": 734413,
+          "language": "swh",
+          "title": "Filipi"
+        },
+        "zht": {
+          "content_id": 650929,
+          "language": "zht",
+          "title": "腓立比"
+        }
+      }
+    },
+    "654300": {
+      "content_id": 654300,
+      "reference_id": 203499,
+      "index_reference": "फिलिप्पुस",
+      "localizations": {
+        "eng": {
+          "content_id": 500556,
+          "language": "eng",
+          "title": "Philip"
+        },
+        "arb": {
+          "content_id": 726128,
+          "language": "arb",
+          "title": "فِيلُبُّس "
+        },
+        "fra": {
+          "content_id": 668957,
+          "language": "fra",
+          "title": "Philippe"
+        },
+        "por": {
+          "content_id": 658576,
+          "language": "por",
+          "title": "Filipe"
+        },
+        "spa": {
+          "content_id": 658424,
+          "language": "spa",
+          "title": "Felipe"
+        },
+        "swh": {
+          "content_id": 734399,
+          "language": "swh",
+          "title": "Filipo"
+        },
+        "zht": {
+          "content_id": 650915,
+          "language": "zht",
+          "title": "腓利"
+        }
+      }
+    },
+    "654236": {
+      "content_id": 654236,
+      "reference_id": 203435,
+      "index_reference": "बतशेबा",
+      "localizations": {
+        "eng": {
+          "content_id": 500492,
+          "language": "eng",
+          "title": "Bathsheba"
+        },
+        "arb": {
+          "content_id": 726064,
+          "language": "arb",
+          "title": "بَثْشَبَع"
+        },
+        "fra": {
+          "content_id": 668893,
+          "language": "fra",
+          "title": "Bath-Schéba"
+        },
+        "por": {
+          "content_id": 658512,
+          "language": "por",
+          "title": "Bate-Seba"
+        },
+        "spa": {
+          "content_id": 658360,
+          "language": "spa",
+          "title": "Bath-sheba"
+        },
+        "swh": {
+          "content_id": 734335,
+          "language": "swh",
+          "title": "Bathsheba"
+        },
+        "zht": {
+          "content_id": 650851,
+          "language": "zht",
+          "title": "拔示巴"
+        }
+      }
+    },
+    "654298": {
+      "content_id": 654298,
+      "reference_id": 203497,
+      "index_reference": "बरनबास",
+      "localizations": {
+        "eng": {
+          "content_id": 500554,
+          "language": "eng",
+          "title": "Barnabas"
+        },
+        "arb": {
+          "content_id": 726126,
+          "language": "arb",
+          "title": "برنابا"
+        },
+        "fra": {
+          "content_id": 668955,
+          "language": "fra",
+          "title": "Barnabas"
+        },
+        "por": {
+          "content_id": 658574,
+          "language": "por",
+          "title": "Barnabé"
+        },
+        "spa": {
+          "content_id": 658422,
+          "language": "spa",
+          "title": "Bernabé"
+        },
+        "swh": {
+          "content_id": 734397,
+          "language": "swh",
+          "title": "Barnaba"
+        },
+        "zht": {
+          "content_id": 650913,
+          "language": "zht",
+          "title": "巴拿巴"
+        }
+      }
+    },
+    "654268": {
+      "content_id": 654268,
+      "reference_id": 203467,
+      "index_reference": "बारूक",
+      "localizations": {
+        "eng": {
+          "content_id": 500524,
+          "language": "eng",
+          "title": "Baruch"
+        },
+        "arb": {
+          "content_id": 726096,
+          "language": "arb",
+          "title": "باروخ"
+        },
+        "fra": {
+          "content_id": 668925,
+          "language": "fra",
+          "title": "Baruc"
+        },
+        "por": {
+          "content_id": 658544,
+          "language": "por",
+          "title": "Baruque"
+        },
+        "spa": {
+          "content_id": 658392,
+          "language": "spa",
+          "title": "Baruch"
+        },
+        "swh": {
+          "content_id": 734367,
+          "language": "swh",
+          "title": "Baruku"
+        },
+        "zht": {
+          "content_id": 650883,
+          "language": "zht",
+          "title": "巴錄"
+        }
+      }
+    },
+    "654217": {
+      "content_id": 654217,
+      "reference_id": 203416,
+      "index_reference": "बिलाम",
+      "localizations": {
+        "eng": {
+          "content_id": 500473,
+          "language": "eng",
+          "title": "Balaam"
+        },
+        "arb": {
+          "content_id": 726045,
+          "language": "arb",
+          "title": "بَلْعَام بْنُ بَعُور "
+        },
+        "fra": {
+          "content_id": 668874,
+          "language": "fra",
+          "title": "Balaam"
+        },
+        "por": {
+          "content_id": 658493,
+          "language": "por",
+          "title": "Balaão"
+        },
+        "spa": {
+          "content_id": 658341,
+          "language": "spa",
+          "title": "Balaam"
+        },
+        "swh": {
+          "content_id": 734316,
+          "language": "swh",
+          "title": "Balaamu"
+        },
+        "zht": {
+          "content_id": 650832,
+          "language": "zht",
+          "title": "巴蘭"
+        }
+      }
+    },
+    "654254": {
+      "content_id": 654254,
+      "reference_id": 203453,
+      "index_reference": "बेबीलोन",
+      "localizations": {
+        "eng": {
+          "content_id": 500510,
+          "language": "eng",
+          "title": "Babylon"
+        },
+        "arb": {
+          "content_id": 726082,
+          "language": "arb",
+          "title": "بابل"
+        },
+        "fra": {
+          "content_id": 668911,
+          "language": "fra",
+          "title": "Babylone"
+        },
+        "por": {
+          "content_id": 658530,
+          "language": "por",
+          "title": "Babilônia"
+        },
+        "spa": {
+          "content_id": 658378,
+          "language": "spa",
+          "title": "Babilonia"
+        },
+        "swh": {
+          "content_id": 734353,
+          "language": "swh",
+          "title": "Babuloni"
+        },
+        "zht": {
+          "content_id": 650869,
+          "language": "zht",
+          "title": "巴比倫"
+        }
+      }
+    },
+    "654277": {
+      "content_id": 654277,
+      "reference_id": 203476,
+      "index_reference": "मक्काबी",
+      "localizations": {
+        "eng": {
+          "content_id": 500533,
+          "language": "eng",
+          "title": "Maccabees"
+        },
+        "arb": {
+          "content_id": 726105,
+          "language": "arb",
+          "title": "المكابيّون"
+        },
+        "fra": {
+          "content_id": 668934,
+          "language": "fra",
+          "title": "Maccabées"
+        },
+        "por": {
+          "content_id": 658553,
+          "language": "por",
+          "title": "Macabeus"
+        },
+        "spa": {
+          "content_id": 658401,
+          "language": "spa",
+          "title": "Macabeos"
+        },
+        "swh": {
+          "content_id": 734376,
+          "language": "swh",
+          "title": "Makabayo"
+        },
+        "zht": {
+          "content_id": 650892,
+          "language": "zht",
+          "title": "馬加比家族"
+        }
+      }
+    },
+    "654280": {
+      "content_id": 654280,
+      "reference_id": 203479,
+      "index_reference": "मत्ती (लेवी)",
+      "localizations": {
+        "eng": {
+          "content_id": 500536,
+          "language": "eng",
+          "title": "Matthew (Levi)"
+        },
+        "arb": {
+          "content_id": 726108,
+          "language": "arb",
+          "title": "متى (لاوي)"
+        },
+        "fra": {
+          "content_id": 668937,
+          "language": "fra",
+          "title": "Matthieu (Lévi)"
+        },
+        "por": {
+          "content_id": 658556,
+          "language": "por",
+          "title": "Mateus (Levi)"
+        },
+        "spa": {
+          "content_id": 658404,
+          "language": "spa",
+          "title": "Mateo (Leví)"
+        },
+        "swh": {
+          "content_id": 734379,
+          "language": "swh",
+          "title": "Mathayo (Lawi)"
+        },
+        "zht": {
+          "content_id": 650895,
+          "language": "zht",
+          "title": "馬太（利未）"
+        }
+      }
+    },
+    "654258": {
+      "content_id": 654258,
+      "reference_id": 203457,
+      "index_reference": "मनश्शे",
+      "localizations": {
+        "eng": {
+          "content_id": 500514,
+          "language": "eng",
+          "title": "Manasseh"
+        },
+        "arb": {
+          "content_id": 726086,
+          "language": "arb",
+          "title": "منسّى"
+        },
+        "fra": {
+          "content_id": 668915,
+          "language": "fra",
+          "title": "Manassé"
+        },
+        "por": {
+          "content_id": 658534,
+          "language": "por",
+          "title": "Manassés"
+        },
+        "spa": {
+          "content_id": 658382,
+          "language": "spa",
+          "title": "Manasés"
+        },
+        "swh": {
+          "content_id": 734357,
+          "language": "swh",
+          "title": "Manase"
+        },
+        "zht": {
+          "content_id": 650873,
+          "language": "zht",
+          "title": "瑪拿西"
+        }
+      }
+    },
+    "654272": {
+      "content_id": 654272,
+      "reference_id": 203471,
+      "index_reference": "मनुष्य के पुत्र",
+      "localizations": {
+        "eng": {
+          "content_id": 500528,
+          "language": "eng",
+          "title": "The Son of Man"
+        },
+        "arb": {
+          "content_id": 726100,
+          "language": "arb",
+          "title": "ابن الإنسان"
+        },
+        "fra": {
+          "content_id": 668929,
+          "language": "fra",
+          "title": "Le fils de l'homme"
+        },
+        "por": {
+          "content_id": 658548,
+          "language": "por",
+          "title": "O Filho do Homem"
+        },
+        "spa": {
+          "content_id": 658396,
+          "language": "spa",
+          "title": "El hijo de hombre"
+        },
+        "swh": {
+          "content_id": 734371,
+          "language": "swh",
+          "title": "Mwana wa Mtu"
+        },
+        "zht": {
+          "content_id": 650887,
+          "language": "zht",
+          "title": "人子"
+        }
+      }
+    },
+    "654284": {
+      "content_id": 654284,
+      "reference_id": 203483,
+      "index_reference": "मरियम नामक स्त्रियाँ",
+      "localizations": {
+        "eng": {
+          "content_id": 500540,
+          "language": "eng",
+          "title": "Women Named Mary"
+        },
+        "arb": {
+          "content_id": 726112,
+          "language": "arb",
+          "title": "المَرْيَمات "
+        },
+        "fra": {
+          "content_id": 668941,
+          "language": "fra",
+          "title": "Femmes nommées Marie"
+        },
+        "por": {
+          "content_id": 658560,
+          "language": "por",
+          "title": "Mulheres chamadas Maria"
+        },
+        "spa": {
+          "content_id": 658408,
+          "language": "spa",
+          "title": "Mujeres llamadas María"
+        },
+        "swh": {
+          "content_id": 734383,
+          "language": "swh",
+          "title": "Wanawake Wanaoitwa Maria"
+        },
+        "zht": {
+          "content_id": 650899,
+          "language": "zht",
+          "title": "名叫馬利亞的婦女"
+        }
+      }
+    },
+    "654196": {
+      "content_id": 654196,
+      "reference_id": 203395,
+      "index_reference": "मलिकिसिदक",
+      "localizations": {
+        "eng": {
+          "content_id": 500452,
+          "language": "eng",
+          "title": "Melchizedek"
+        },
+        "arb": {
+          "content_id": 726024,
+          "language": "arb",
+          "title": "ملكي صادق"
+        },
+        "fra": {
+          "content_id": 668853,
+          "language": "fra",
+          "title": "Melchisédek"
+        },
+        "por": {
+          "content_id": 658472,
+          "language": "por",
+          "title": "Melquisedeque"
+        },
+        "spa": {
+          "content_id": 658320,
+          "language": "spa",
+          "title": "Melquisedec"
+        },
+        "swh": {
+          "content_id": 734295,
+          "language": "swh",
+          "title": "Melkizedeki"
+        },
+        "zht": {
+          "content_id": 650811,
+          "language": "zht",
+          "title": "麥基洗德"
+        }
+      }
+    },
+    "654278": {
+      "content_id": 654278,
+      "reference_id": 203477,
+      "index_reference": "महान हेरोदेस",
+      "localizations": {
+        "eng": {
+          "content_id": 500534,
+          "language": "eng",
+          "title": "Herod the Great"
+        },
+        "arb": {
+          "content_id": 726106,
+          "language": "arb",
+          "title": "هيرودس الكبير"
+        },
+        "fra": {
+          "content_id": 668935,
+          "language": "fra",
+          "title": "Hérode le Grand"
+        },
+        "por": {
+          "content_id": 658554,
+          "language": "por",
+          "title": "Herodes, o Grande"
+        },
+        "spa": {
+          "content_id": 658402,
+          "language": "spa",
+          "title": "Herodes el Grande"
+        },
+        "swh": {
+          "content_id": 734377,
+          "language": "swh",
+          "title": "Herode Mkuu"
+        },
+        "zht": {
+          "content_id": 650893,
+          "language": "zht",
+          "title": "大希律"
+        }
+      }
+    },
+    "654261": {
+      "content_id": 654261,
+      "reference_id": 203460,
+      "index_reference": "मादी और फारसी लोग",
+      "localizations": {
+        "eng": {
+          "content_id": 500517,
+          "language": "eng",
+          "title": "The Medes and Persians"
+        },
+        "arb": {
+          "content_id": 726089,
+          "language": "arb",
+          "title": "الميديون والفُرس"
+        },
+        "fra": {
+          "content_id": 668918,
+          "language": "fra",
+          "title": "Les Mèdes et les Perses"
+        },
+        "por": {
+          "content_id": 658537,
+          "language": "por",
+          "title": "Os Medos e Persas"
+        },
+        "spa": {
+          "content_id": 658385,
+          "language": "spa",
+          "title": "Los medos y persas"
+        },
+        "swh": {
+          "content_id": 734360,
+          "language": "swh",
+          "title": "Wamedi na Waajemi"
+        },
+        "zht": {
+          "content_id": 650876,
+          "language": "zht",
+          "title": "米底亞人和波斯人"
+        }
+      }
+    },
+    "654290": {
+      "content_id": 654290,
+      "reference_id": 203489,
+      "index_reference": "मार्था, मरियम और लाज़र",
+      "localizations": {
+        "eng": {
+          "content_id": 500546,
+          "language": "eng",
+          "title": "Martha, Mary, and Lazarus"
+        },
+        "arb": {
+          "content_id": 726118,
+          "language": "arb",
+          "title": "مرثا, مريم, و لعازر"
+        },
+        "fra": {
+          "content_id": 668947,
+          "language": "fra",
+          "title": "Marthe, Marie et Lazare"
+        },
+        "por": {
+          "content_id": 658566,
+          "language": "por",
+          "title": "Marta, Maria e Lázaro"
+        },
+        "spa": {
+          "content_id": 658414,
+          "language": "spa",
+          "title": "Marta, María y Lázaro"
+        },
+        "swh": {
+          "content_id": 734389,
+          "language": "swh",
+          "title": "Martha, Maria, na Lazaro"
+        },
+        "zht": {
+          "content_id": 650905,
+          "language": "zht",
+          "title": "馬大，馬利亞，和拉撒路"
+        }
+      }
+    },
+    "654211": {
+      "content_id": 654211,
+      "reference_id": 203410,
+      "index_reference": "मिस्र",
+      "localizations": {
+        "eng": {
+          "content_id": 500467,
+          "language": "eng",
+          "title": "Egypt"
+        },
+        "arb": {
+          "content_id": 726039,
+          "language": "arb",
+          "title": "مِصْر"
+        },
+        "fra": {
+          "content_id": 668868,
+          "language": "fra",
+          "title": "Égypte"
+        },
+        "por": {
+          "content_id": 658487,
+          "language": "por",
+          "title": "Egito"
+        },
+        "spa": {
+          "content_id": 658335,
+          "language": "spa",
+          "title": "Egipto"
+        },
+        "swh": {
+          "content_id": 734310,
+          "language": "swh",
+          "title": "Misri"
+        },
+        "zht": {
+          "content_id": 650826,
+          "language": "zht",
+          "title": "埃及"
+        }
+      }
+    },
+    "654230": {
+      "content_id": 654230,
+      "reference_id": 203429,
+      "index_reference": "मीकल",
+      "localizations": {
+        "eng": {
+          "content_id": 500486,
+          "language": "eng",
+          "title": "Michal"
+        },
+        "arb": {
+          "content_id": 726058,
+          "language": "arb",
+          "title": "مِيكَال"
+        },
+        "fra": {
+          "content_id": 668887,
+          "language": "fra",
+          "title": "Mical"
+        },
+        "por": {
+          "content_id": 658506,
+          "language": "por",
+          "title": "Mical"
+        },
+        "spa": {
+          "content_id": 658354,
+          "language": "spa",
+          "title": "Mical"
+        },
+        "swh": {
+          "content_id": 734329,
+          "language": "swh",
+          "title": "Mikali"
+        },
+        "zht": {
+          "content_id": 650845,
+          "language": "zht",
+          "title": "米甲"
+        }
+      }
+    },
+    "654215": {
+      "content_id": 654215,
+      "reference_id": 203414,
+      "index_reference": "मूसा",
+      "localizations": {
+        "eng": {
+          "content_id": 500471,
+          "language": "eng",
+          "title": "Moses"
+        },
+        "arb": {
+          "content_id": 726043,
+          "language": "arb",
+          "title": "موسى"
+        },
+        "fra": {
+          "content_id": 668872,
+          "language": "fra",
+          "title": "Moïse"
+        },
+        "por": {
+          "content_id": 658491,
+          "language": "por",
+          "title": "Moisés"
+        },
+        "spa": {
+          "content_id": 658339,
+          "language": "spa",
+          "title": "Moisés"
+        },
+        "swh": {
+          "content_id": 734314,
+          "language": "swh",
+          "title": "Mose"
+        },
+        "zht": {
+          "content_id": 650830,
+          "language": "zht",
+          "title": "摩西"
+        }
+      }
+    },
+    "654218": {
+      "content_id": 654218,
+      "reference_id": 203417,
+      "index_reference": "मोआब और अम्मोन",
+      "localizations": {
+        "eng": {
+          "content_id": 500474,
+          "language": "eng",
+          "title": "Moab and Ammon"
+        },
+        "arb": {
+          "content_id": 726046,
+          "language": "arb",
+          "title": "مُوآب وعَمُّون"
+        },
+        "fra": {
+          "content_id": 668875,
+          "language": "fra",
+          "title": "Moab et Ammon"
+        },
+        "por": {
+          "content_id": 658494,
+          "language": "por",
+          "title": "Moabe e Amom"
+        },
+        "spa": {
+          "content_id": 658342,
+          "language": "spa",
+          "title": "Moab y Ammón"
+        },
+        "swh": {
+          "content_id": 734317,
+          "language": "swh",
+          "title": "Moabu na Amoni"
+        },
+        "zht": {
+          "content_id": 650833,
+          "language": "zht",
+          "title": "摩押和亞捫"
+        }
+      }
+    },
+    "654266": {
+      "content_id": 654266,
+      "reference_id": 203465,
+      "index_reference": "यशायाह",
+      "localizations": {
+        "eng": {
+          "content_id": 500522,
+          "language": "eng",
+          "title": "Isaiah"
+        },
+        "arb": {
+          "content_id": 726094,
+          "language": "arb",
+          "title": "إِشَعْيَاء"
+        },
+        "fra": {
+          "content_id": 668923,
+          "language": "fra",
+          "title": "Ésaïe"
+        },
+        "por": {
+          "content_id": 658542,
+          "language": "por",
+          "title": "Isaías"
+        },
+        "spa": {
+          "content_id": 658390,
+          "language": "spa",
+          "title": "Isaías"
+        },
+        "swh": {
+          "content_id": 734365,
+          "language": "swh",
+          "title": "Isaya"
+        },
+        "zht": {
+          "content_id": 650881,
+          "language": "zht",
+          "title": "以賽亞"
+        }
+      }
+    },
+    "654208": {
+      "content_id": 654208,
+      "reference_id": 203407,
+      "index_reference": "यहूदा",
+      "localizations": {
+        "eng": {
+          "content_id": 500464,
+          "language": "eng",
+          "title": "Judah"
+        },
+        "arb": {
+          "content_id": 726036,
+          "language": "arb",
+          "title": "يهوذا"
+        },
+        "fra": {
+          "content_id": 668865,
+          "language": "fra",
+          "title": "Juda"
+        },
+        "por": {
+          "content_id": 658484,
+          "language": "por",
+          "title": "Judá"
+        },
+        "spa": {
+          "content_id": 658332,
+          "language": "spa",
+          "title": "Judá"
+        },
+        "swh": {
+          "content_id": 734307,
+          "language": "swh",
+          "title": "Yuda"
+        },
+        "zht": {
+          "content_id": 650823,
+          "language": "zht",
+          "title": "猶大"
+        }
+      }
+    },
+    "654286": {
+      "content_id": 654286,
+      "reference_id": 203485,
+      "index_reference": "यहूदा इस्करियोती",
+      "localizations": {
+        "eng": {
+          "content_id": 500542,
+          "language": "eng",
+          "title": "Judas Iscariot"
+        },
+        "arb": {
+          "content_id": 726114,
+          "language": "arb",
+          "title": " يهوذا الإسخريوطيّ"
+        },
+        "fra": {
+          "content_id": 668943,
+          "language": "fra",
+          "title": "Judas Iscariot"
+        },
+        "por": {
+          "content_id": 658562,
+          "language": "por",
+          "title": "Judas Iscariotes"
+        },
+        "spa": {
+          "content_id": 658410,
+          "language": "spa",
+          "title": "Judas Iscariote"
+        },
+        "swh": {
+          "content_id": 734385,
+          "language": "swh",
+          "title": "Yuda Iskariote"
+        },
+        "zht": {
+          "content_id": 650901,
+          "language": "zht",
+          "title": "加略人猶大"
+        }
+      }
+    },
+    "654283": {
+      "content_id": 654283,
+      "reference_id": 203482,
+      "index_reference": "यहूदियों की उच्च परिषद",
+      "localizations": {
+        "eng": {
+          "content_id": 500539,
+          "language": "eng",
+          "title": "The Jewish High Council"
+        },
+        "arb": {
+          "content_id": 726111,
+          "language": "arb",
+          "title": "المجلس الأعلى لليهود (السنهدرين)"
+        },
+        "fra": {
+          "content_id": 668940,
+          "language": "fra",
+          "title": "Le Sanhédrin"
+        },
+        "por": {
+          "content_id": 658559,
+          "language": "por",
+          "title": "O Alto Conselho Judaico"
+        },
+        "spa": {
+          "content_id": 658407,
+          "language": "spa",
+          "title": "El Alto Consejo Judío"
+        },
+        "swh": {
+          "content_id": 734382,
+          "language": "swh",
+          "title": "Baraza Kuu la Wayahudi"
+        },
+        "zht": {
+          "content_id": 650898,
+          "language": "zht",
+          "title": "猶太最高議會"
+        }
+      }
+    },
+    "654294": {
+      "content_id": 654294,
+      "reference_id": 203493,
+      "index_reference": "यहूदी अगुवे",
+      "localizations": {
+        "eng": {
+          "content_id": 500550,
+          "language": "eng",
+          "title": "Jewish Leaders"
+        },
+        "arb": {
+          "content_id": 726122,
+          "language": "arb",
+          "title": "القادة اليهود"
+        },
+        "fra": {
+          "content_id": 668951,
+          "language": "fra",
+          "title": "Dirigeants juifs"
+        },
+        "por": {
+          "content_id": 658570,
+          "language": "por",
+          "title": "Líderes judeus"
+        },
+        "spa": {
+          "content_id": 658418,
+          "language": "spa",
+          "title": "Líderes judíos"
+        },
+        "swh": {
+          "content_id": 734393,
+          "language": "swh",
+          "title": "Viongozi wa Kiyahudi"
+        },
+        "zht": {
+          "content_id": 650909,
+          "language": "zht",
+          "title": "猶太領袖"
+        }
+      }
+    },
+    "654269": {
+      "content_id": 654269,
+      "reference_id": 203468,
+      "index_reference": "यहेजकेल",
+      "localizations": {
+        "eng": {
+          "content_id": 500525,
+          "language": "eng",
+          "title": "Ezekiel"
+        },
+        "arb": {
+          "content_id": 726097,
+          "language": "arb",
+          "title": "حزقيال"
+        },
+        "fra": {
+          "content_id": 668926,
+          "language": "fra",
+          "title": "Ézéchiel"
+        },
+        "por": {
+          "content_id": 658545,
+          "language": "por",
+          "title": "Ezequiel"
+        },
+        "spa": {
+          "content_id": 658393,
+          "language": "spa",
+          "title": "Ezequiel"
+        },
+        "swh": {
+          "content_id": 734368,
+          "language": "swh",
+          "title": "Ezekieli"
+        },
+        "zht": {
+          "content_id": 650884,
+          "language": "zht",
+          "title": "以西結"
+        }
+      }
+    },
+    "654256": {
+      "content_id": 654256,
+      "reference_id": 203455,
+      "index_reference": "यहोशापात",
+      "localizations": {
+        "eng": {
+          "content_id": 500512,
+          "language": "eng",
+          "title": "Jehoshaphat"
+        },
+        "arb": {
+          "content_id": 726084,
+          "language": "arb",
+          "title": "يهوشافاط"
+        },
+        "fra": {
+          "content_id": 668913,
+          "language": "fra",
+          "title": "Josaphat"
+        },
+        "por": {
+          "content_id": 658532,
+          "language": "por",
+          "title": "Josafá"
+        },
+        "spa": {
+          "content_id": 658380,
+          "language": "spa",
+          "title": "Josaphat"
+        },
+        "swh": {
+          "content_id": 734355,
+          "language": "swh",
+          "title": "Yehoshafati"
+        },
+        "zht": {
+          "content_id": 650871,
+          "language": "zht",
+          "title": "約沙法"
+        }
+      }
+    },
+    "654219": {
+      "content_id": 654219,
+      "reference_id": 203418,
+      "index_reference": "यहोशू",
+      "localizations": {
+        "eng": {
+          "content_id": 500475,
+          "language": "eng",
+          "title": "Joshua"
+        },
+        "arb": {
+          "content_id": 726047,
+          "language": "arb",
+          "title": "يشوع"
+        },
+        "fra": {
+          "content_id": 668876,
+          "language": "fra",
+          "title": "Josué"
+        },
+        "por": {
+          "content_id": 658495,
+          "language": "por",
+          "title": "Josué"
+        },
+        "spa": {
+          "content_id": 658343,
+          "language": "spa",
+          "title": "Josué"
+        },
+        "swh": {
+          "content_id": 734318,
+          "language": "swh",
+          "title": "Yoshua"
+        },
+        "zht": {
+          "content_id": 650834,
+          "language": "zht",
+          "title": "約書亞"
+        }
+      }
+    },
+    "654210": {
+      "content_id": 654210,
+      "reference_id": 203409,
+      "index_reference": "याकूब",
+      "localizations": {
+        "eng": {
+          "content_id": 500466,
+          "language": "eng",
+          "title": "Jacob"
+        },
+        "arb": {
+          "content_id": 726038,
+          "language": "arb",
+          "title": "يعقوب"
+        },
+        "fra": {
+          "content_id": 668867,
+          "language": "fra",
+          "title": "Jacob"
+        },
+        "por": {
+          "content_id": 658486,
+          "language": "por",
+          "title": "Jacó"
+        },
+        "spa": {
+          "content_id": 658334,
+          "language": "spa",
+          "title": "Jacob"
+        },
+        "swh": {
+          "content_id": 734309,
+          "language": "swh",
+          "title": "Yakobo"
+        },
+        "zht": {
+          "content_id": 650825,
+          "language": "zht",
+          "title": "雅各"
+        }
+      }
+    },
+    "654289": {
+      "content_id": 654289,
+      "reference_id": 203488,
+      "index_reference": "याकूब, जब्दी के पुत्र",
+      "localizations": {
+        "eng": {
+          "content_id": 500545,
+          "language": "eng",
+          "title": "James, Son of Zebedee"
+        },
+        "arb": {
+          "content_id": 726117,
+          "language": "arb",
+          "title": "يعقوب، ابن زبدي"
+        },
+        "fra": {
+          "content_id": 668946,
+          "language": "fra",
+          "title": "Jacques, fils de Zébédée"
+        },
+        "por": {
+          "content_id": 658565,
+          "language": "por",
+          "title": "Tiago, Filho de Zebedeu"
+        },
+        "spa": {
+          "content_id": 658413,
+          "language": "spa",
+          "title": "Jacobo, hijo de Zebedeo"
+        },
+        "swh": {
+          "content_id": 734388,
+          "language": "swh",
+          "title": "Yakobo, Mwana wa Zebedayo"
+        },
+        "zht": {
+          "content_id": 650904,
+          "language": "zht",
+          "title": "雅各，西庇太的兒子"
+        }
+      }
+    },
+    "654304": {
+      "content_id": 654304,
+      "reference_id": 203503,
+      "index_reference": "याकूब, यीशु के भाई",
+      "localizations": {
+        "eng": {
+          "content_id": 500560,
+          "language": "eng",
+          "title": "James, Brother of Jesus"
+        },
+        "arb": {
+          "content_id": 726132,
+          "language": "arb",
+          "title": "يعقوب، أخو يسوع"
+        },
+        "fra": {
+          "content_id": 668961,
+          "language": "fra",
+          "title": "Jacques, frère de Jésus"
+        },
+        "por": {
+          "content_id": 658580,
+          "language": "por",
+          "title": "Tiago, irmão de Jesus"
+        },
+        "spa": {
+          "content_id": 658428,
+          "language": "spa",
+          "title": "Jacobo, hermano de Jesús"
+        },
+        "swh": {
+          "content_id": 734403,
+          "language": "swh",
+          "title": "Yakobo, Ndugu wa Yesu"
+        },
+        "zht": {
+          "content_id": 650919,
+          "language": "zht",
+          "title": "雅各，耶穌的弟弟"
+        }
+      }
+    },
+    "654242": {
+      "content_id": 654242,
+      "reference_id": 203441,
+      "index_reference": "यारोबाम i",
+      "localizations": {
+        "eng": {
+          "content_id": 500498,
+          "language": "eng",
+          "title": "Jeroboam I"
+        },
+        "arb": {
+          "content_id": 726070,
+          "language": "arb",
+          "title": "يَرُبْعَام الأول"
+        },
+        "fra": {
+          "content_id": 668899,
+          "language": "fra",
+          "title": "Jéroboam Ier"
+        },
+        "por": {
+          "content_id": 658518,
+          "language": "por",
+          "title": "Jeroboão I"
+        },
+        "spa": {
+          "content_id": 658366,
+          "language": "spa",
+          "title": "Jeroboam I"
+        },
+        "swh": {
+          "content_id": 734341,
+          "language": "swh",
+          "title": "Yeroboamu I"
+        },
+        "zht": {
+          "content_id": 650857,
+          "language": "zht",
+          "title": "耶羅波安一世"
+        }
+      }
+    },
+    "654249": {
+      "content_id": 654249,
+      "reference_id": 203448,
+      "index_reference": "यारोबाम ii",
+      "localizations": {
+        "eng": {
+          "content_id": 500505,
+          "language": "eng",
+          "title": "Jeroboam II"
+        },
+        "arb": {
+          "content_id": 726077,
+          "language": "arb",
+          "title": "يَرُبْعَام الثاني"
+        },
+        "fra": {
+          "content_id": 668906,
+          "language": "fra",
+          "title": "Jéroboam II"
+        },
+        "por": {
+          "content_id": 658525,
+          "language": "por",
+          "title": "Jeroboão II"
+        },
+        "spa": {
+          "content_id": 658373,
+          "language": "spa",
+          "title": "Jeroboam II"
+        },
+        "swh": {
+          "content_id": 734348,
+          "language": "swh",
+          "title": "Yeroboamu wa Pili"
+        },
+        "zht": {
+          "content_id": 650864,
+          "language": "zht",
+          "title": "耶羅波安二世"
+        }
+      }
+    },
+    "654213": {
+      "content_id": 654213,
+      "reference_id": 203412,
+      "index_reference": "यित्रो (रूएल)",
+      "localizations": {
+        "eng": {
+          "content_id": 500469,
+          "language": "eng",
+          "title": "Jethro (Reuel)"
+        },
+        "arb": {
+          "content_id": 726041,
+          "language": "arb",
+          "title": "يَثْرُون (رَعُوئِيل)"
+        },
+        "fra": {
+          "content_id": 668870,
+          "language": "fra",
+          "title": "Jéthro (Reuel)"
+        },
+        "por": {
+          "content_id": 658489,
+          "language": "por",
+          "title": "Jetro (Reuel)"
+        },
+        "spa": {
+          "content_id": 658337,
+          "language": "spa",
+          "title": "Jethro (Ragüel)"
+        },
+        "swh": {
+          "content_id": 734312,
+          "language": "swh",
+          "title": "Yethro (Reueli)"
+        },
+        "zht": {
+          "content_id": 650828,
+          "language": "zht",
+          "title": "葉忒羅（流珥）"
+        }
+      }
+    },
+    "654267": {
+      "content_id": 654267,
+      "reference_id": 203466,
+      "index_reference": "यिर्मयाह",
+      "localizations": {
+        "eng": {
+          "content_id": 500523,
+          "language": "eng",
+          "title": "Jeremiah"
+        },
+        "arb": {
+          "content_id": 726095,
+          "language": "arb",
+          "title": "إرميا"
+        },
+        "fra": {
+          "content_id": 668924,
+          "language": "fra",
+          "title": "Jérémie"
+        },
+        "por": {
+          "content_id": 658543,
+          "language": "por",
+          "title": "Jeremias"
+        },
+        "spa": {
+          "content_id": 658391,
+          "language": "spa",
+          "title": "Jeremías"
+        },
+        "swh": {
+          "content_id": 734366,
+          "language": "swh",
+          "title": "Yeremia"
+        },
+        "zht": {
+          "content_id": 650882,
+          "language": "zht",
+          "title": "耶利米"
+        }
+      }
+    },
+    "654288": {
+      "content_id": 654288,
+      "reference_id": 203487,
+      "index_reference": "यीशु की माता मरियम",
+      "localizations": {
+        "eng": {
+          "content_id": 500544,
+          "language": "eng",
+          "title": "Mary, Mother of Jesus"
+        },
+        "arb": {
+          "content_id": 726116,
+          "language": "arb",
+          "title": "مريم، أم يسوع"
+        },
+        "fra": {
+          "content_id": 668945,
+          "language": "fra",
+          "title": "Marie, Mère de Jésus"
+        },
+        "por": {
+          "content_id": 658564,
+          "language": "por",
+          "title": "Maria, Mãe de Jesus"
+        },
+        "spa": {
+          "content_id": 658412,
+          "language": "spa",
+          "title": "María, Madre de Jesús"
+        },
+        "swh": {
+          "content_id": 734387,
+          "language": "swh",
+          "title": "Maria, Mama wa Yesu"
+        },
+        "zht": {
+          "content_id": 650903,
+          "language": "zht",
+          "title": "耶穌的母親馬利亞"
+        }
+      }
+    },
+    "654274": {
+      "content_id": 654274,
+      "reference_id": 203473,
+      "index_reference": "यूनानिकृत साम्राज्य",
+      "localizations": {
+        "eng": {
+          "content_id": 500530,
+          "language": "eng",
+          "title": "Hellenistic Kingdoms"
+        },
+        "arb": {
+          "content_id": 726102,
+          "language": "arb",
+          "title": "الممالك الهيلينية"
+        },
+        "fra": {
+          "content_id": 668931,
+          "language": "fra",
+          "title": "Royaumes hellénistiques"
+        },
+        "por": {
+          "content_id": 658550,
+          "language": "por",
+          "title": "Reinos Helenísticos"
+        },
+        "spa": {
+          "content_id": 658398,
+          "language": "spa",
+          "title": "Reinos Helenísticos"
+        },
+        "swh": {
+          "content_id": 734373,
+          "language": "swh",
+          "title": "Falme za Kiheleni"
+        },
+        "zht": {
+          "content_id": 650889,
+          "language": "zht",
+          "title": "希臘化王國"
+        }
+      }
+    },
+    "654273": {
+      "content_id": 654273,
+      "reference_id": 203472,
+      "index_reference": "यूनानी",
+      "localizations": {
+        "eng": {
+          "content_id": 500529,
+          "language": "eng",
+          "title": "The Greeks"
+        },
+        "arb": {
+          "content_id": 726101,
+          "language": "arb",
+          "title": "اليونانيون"
+        },
+        "fra": {
+          "content_id": 668930,
+          "language": "fra",
+          "title": "La civilisation grecque"
+        },
+        "por": {
+          "content_id": 658549,
+          "language": "por",
+          "title": "Os Gregos"
+        },
+        "spa": {
+          "content_id": 658397,
+          "language": "spa",
+          "title": "Los griegos"
+        },
+        "swh": {
+          "content_id": 734372,
+          "language": "swh",
+          "title": "Wagiriki"
+        },
+        "zht": {
+          "content_id": 650888,
+          "language": "zht",
+          "title": "希臘人"
+        }
+      }
+    },
+    "654207": {
+      "content_id": 654207,
+      "reference_id": 203406,
+      "index_reference": "यूसुफ",
+      "localizations": {
+        "eng": {
+          "content_id": 500463,
+          "language": "eng",
+          "title": "Joseph"
+        },
+        "arb": {
+          "content_id": 726035,
+          "language": "arb",
+          "title": "يُوسُف "
+        },
+        "fra": {
+          "content_id": 668864,
+          "language": "fra",
+          "title": "Joseph"
+        },
+        "por": {
+          "content_id": 658483,
+          "language": "por",
+          "title": "José"
+        },
+        "spa": {
+          "content_id": 658331,
+          "language": "spa",
+          "title": "José"
+        },
+        "swh": {
+          "content_id": 734306,
+          "language": "swh",
+          "title": "Yosefu"
+        },
+        "zht": {
+          "content_id": 650822,
+          "language": "zht",
+          "title": "約瑟"
+        }
+      }
+    },
+    "654291": {
+      "content_id": 654291,
+      "reference_id": 203490,
+      "index_reference": "यूहन्ना बपतिस्मा देने वाला",
+      "localizations": {
+        "eng": {
+          "content_id": 500547,
+          "language": "eng",
+          "title": "John the Baptist"
+        },
+        "arb": {
+          "content_id": 726119,
+          "language": "arb",
+          "title": "يوحنّا المعمدان"
+        },
+        "fra": {
+          "content_id": 668948,
+          "language": "fra",
+          "title": "Jean le Baptiste"
+        },
+        "por": {
+          "content_id": 658567,
+          "language": "por",
+          "title": "João Batista"
+        },
+        "spa": {
+          "content_id": 658415,
+          "language": "spa",
+          "title": "Juan el Bautista"
+        },
+        "swh": {
+          "content_id": 734390,
+          "language": "swh",
+          "title": "Yohana Mbatizaji"
+        },
+        "zht": {
+          "content_id": 650906,
+          "language": "zht",
+          "title": "施洗約翰"
+        }
+      }
+    },
+    "654303": {
+      "content_id": 654303,
+      "reference_id": 203502,
+      "index_reference": "यूहन्ना मरकुस",
+      "localizations": {
+        "eng": {
+          "content_id": 500559,
+          "language": "eng",
+          "title": "John Mark"
+        },
+        "arb": {
+          "content_id": 726131,
+          "language": "arb",
+          "title": "يُوحَنَّا ٱلْمُلَقَّب مَرْقُس"
+        },
+        "fra": {
+          "content_id": 668960,
+          "language": "fra",
+          "title": "Jean Marc"
+        },
+        "por": {
+          "content_id": 658579,
+          "language": "por",
+          "title": "João Marcos"
+        },
+        "spa": {
+          "content_id": 658427,
+          "language": "spa",
+          "title": "Juan Marcos"
+        },
+        "swh": {
+          "content_id": 734402,
+          "language": "swh",
+          "title": "Yohana Marko"
+        },
+        "zht": {
+          "content_id": 650918,
+          "language": "zht",
+          "title": "約翰·馬可"
+        }
+      }
+    },
+    "654239": {
+      "content_id": 654239,
+      "reference_id": 203438,
+      "index_reference": "योआब",
+      "localizations": {
+        "eng": {
+          "content_id": 500495,
+          "language": "eng",
+          "title": "Joab"
+        },
+        "arb": {
+          "content_id": 726067,
+          "language": "arb",
+          "title": "يُوآب"
+        },
+        "fra": {
+          "content_id": 668896,
+          "language": "fra",
+          "title": "Joab"
+        },
+        "por": {
+          "content_id": 658515,
+          "language": "por",
+          "title": "Joabe"
+        },
+        "spa": {
+          "content_id": 658363,
+          "language": "spa",
+          "title": "Joab"
+        },
+        "swh": {
+          "content_id": 734338,
+          "language": "swh",
+          "title": "Yoabu"
+        },
+        "zht": {
+          "content_id": 650854,
+          "language": "zht",
+          "title": "約押"
+        }
+      }
+    },
+    "654229": {
+      "content_id": 654229,
+      "reference_id": 203428,
+      "index_reference": "योनातान",
+      "localizations": {
+        "eng": {
+          "content_id": 500485,
+          "language": "eng",
+          "title": "Jonathan"
+        },
+        "arb": {
+          "content_id": 726057,
+          "language": "arb",
+          "title": "يوناثان"
+        },
+        "fra": {
+          "content_id": 668886,
+          "language": "fra",
+          "title": "Jonathan"
+        },
+        "por": {
+          "content_id": 658505,
+          "language": "por",
+          "title": "Jônatas"
+        },
+        "spa": {
+          "content_id": 658353,
+          "language": "spa",
+          "title": "Jonathán"
+        },
+        "swh": {
+          "content_id": 734328,
+          "language": "swh",
+          "title": "Yonathani"
+        },
+        "zht": {
+          "content_id": 650844,
+          "language": "zht",
+          "title": "約拿單"
+        }
+      }
+    },
+    "654252": {
+      "content_id": 654252,
+      "reference_id": 203451,
+      "index_reference": "योशिय्याह",
+      "localizations": {
+        "eng": {
+          "content_id": 500508,
+          "language": "eng",
+          "title": "Josiah"
+        },
+        "arb": {
+          "content_id": 726080,
+          "language": "arb",
+          "title": "يوشيّا"
+        },
+        "fra": {
+          "content_id": 668909,
+          "language": "fra",
+          "title": "Josias"
+        },
+        "por": {
+          "content_id": 658528,
+          "language": "por",
+          "title": "Josias"
+        },
+        "spa": {
+          "content_id": 658376,
+          "language": "spa",
+          "title": "Josías"
+        },
+        "swh": {
+          "content_id": 734351,
+          "language": "swh",
+          "title": "Yosia"
+        },
+        "zht": {
+          "content_id": 650867,
+          "language": "zht",
+          "title": "約西亞"
+        }
+      }
+    },
+    "654243": {
+      "content_id": 654243,
+      "reference_id": 203442,
+      "index_reference": "रहबाम",
+      "localizations": {
+        "eng": {
+          "content_id": 500499,
+          "language": "eng",
+          "title": "Rehoboam"
+        },
+        "arb": {
+          "content_id": 726071,
+          "language": "arb",
+          "title": "رَحُبْعَام"
+        },
+        "fra": {
+          "content_id": 668900,
+          "language": "fra",
+          "title": "Roboam"
+        },
+        "por": {
+          "content_id": 658519,
+          "language": "por",
+          "title": "Roboão"
+        },
+        "spa": {
+          "content_id": 658367,
+          "language": "spa",
+          "title": "Roboam"
+        },
+        "swh": {
+          "content_id": 734342,
+          "language": "swh",
+          "title": "Rehoboamu"
+        },
+        "zht": {
+          "content_id": 650858,
+          "language": "zht",
+          "title": "羅波安"
+        }
+      }
+    },
+    "654220": {
+      "content_id": 654220,
+      "reference_id": 203419,
+      "index_reference": "राहाब",
+      "localizations": {
+        "eng": {
+          "content_id": 500476,
+          "language": "eng",
+          "title": "Rahab"
+        },
+        "arb": {
+          "content_id": 726048,
+          "language": "arb",
+          "title": "راحاب"
+        },
+        "fra": {
+          "content_id": 668877,
+          "language": "fra",
+          "title": "Rahab"
+        },
+        "por": {
+          "content_id": 658496,
+          "language": "por",
+          "title": "Raabe"
+        },
+        "spa": {
+          "content_id": 658344,
+          "language": "spa",
+          "title": "Rahab"
+        },
+        "swh": {
+          "content_id": 734319,
+          "language": "swh",
+          "title": "Rahabu"
+        },
+        "zht": {
+          "content_id": 650835,
+          "language": "zht",
+          "title": "喇合"
+        }
+      }
+    },
+    "654205": {
+      "content_id": 654205,
+      "reference_id": 203404,
+      "index_reference": "राहेल",
+      "localizations": {
+        "eng": {
+          "content_id": 500461,
+          "language": "eng",
+          "title": "Rachel"
+        },
+        "arb": {
+          "content_id": 726033,
+          "language": "arb",
+          "title": "رَاحِيل"
+        },
+        "fra": {
+          "content_id": 668862,
+          "language": "fra",
+          "title": "Rachel"
+        },
+        "por": {
+          "content_id": 658481,
+          "language": "por",
+          "title": "Raquel"
+        },
+        "spa": {
+          "content_id": 658329,
+          "language": "spa",
+          "title": "Raquel"
+        },
+        "swh": {
+          "content_id": 734304,
+          "language": "swh",
+          "title": "Raheli"
+        },
+        "zht": {
+          "content_id": 650820,
+          "language": "zht",
+          "title": "拉結"
+        }
+      }
+    },
+    "654203": {
+      "content_id": 654203,
+      "reference_id": 203402,
+      "index_reference": "रिबका",
+      "localizations": {
+        "eng": {
+          "content_id": 500459,
+          "language": "eng",
+          "title": "Rebekah"
+        },
+        "arb": {
+          "content_id": 726031,
+          "language": "arb",
+          "title": "رفقة"
+        },
+        "fra": {
+          "content_id": 668860,
+          "language": "fra",
+          "title": "Rebecca"
+        },
+        "por": {
+          "content_id": 658479,
+          "language": "por",
+          "title": "Rebeca"
+        },
+        "spa": {
+          "content_id": 658327,
+          "language": "spa",
+          "title": "Rebeca"
+        },
+        "swh": {
+          "content_id": 734302,
+          "language": "swh",
+          "title": "Rebeka"
+        },
+        "zht": {
+          "content_id": 650818,
+          "language": "zht",
+          "title": "利百加"
+        }
+      }
+    },
+    "654226": {
+      "content_id": 654226,
+      "reference_id": 203425,
+      "index_reference": "रूत",
+      "localizations": {
+        "eng": {
+          "content_id": 500482,
+          "language": "eng",
+          "title": "Ruth"
+        },
+        "arb": {
+          "content_id": 726054,
+          "language": "arb",
+          "title": "رَاعُوث"
+        },
+        "fra": {
+          "content_id": 668883,
+          "language": "fra",
+          "title": "Ruth"
+        },
+        "por": {
+          "content_id": 658502,
+          "language": "por",
+          "title": "Rute"
+        },
+        "spa": {
+          "content_id": 658350,
+          "language": "spa",
+          "title": "Rut"
+        },
+        "swh": {
+          "content_id": 734325,
+          "language": "swh",
+          "title": "Ruthu"
+        },
+        "zht": {
+          "content_id": 650841,
+          "language": "zht",
+          "title": "路得"
+        }
+      }
+    },
+    "654309": {
+      "content_id": 654309,
+      "reference_id": 203508,
+      "index_reference": "रोम",
+      "localizations": {
+        "eng": {
+          "content_id": 500565,
+          "language": "eng",
+          "title": "Rome"
+        },
+        "arb": {
+          "content_id": 726137,
+          "language": "arb",
+          "title": "روما"
+        },
+        "fra": {
+          "content_id": 668966,
+          "language": "fra",
+          "title": "Rome"
+        },
+        "por": {
+          "content_id": 658585,
+          "language": "por",
+          "title": "Roma"
+        },
+        "spa": {
+          "content_id": 658433,
+          "language": "spa",
+          "title": "Roma"
+        },
+        "swh": {
+          "content_id": 734408,
+          "language": "swh",
+          "title": "Rumi"
+        },
+        "zht": {
+          "content_id": 650924,
+          "language": "zht",
+          "title": "羅馬"
+        }
+      }
+    },
+    "654311": {
+      "content_id": 654311,
+      "reference_id": 203510,
+      "index_reference": "रोमी कलीसिया",
+      "localizations": {
+        "eng": {
+          "content_id": 500567,
+          "language": "eng",
+          "title": "The Roman Church"
+        },
+        "arb": {
+          "content_id": 726139,
+          "language": "arb",
+          "title": "كنيسة رومية"
+        },
+        "fra": {
+          "content_id": 668968,
+          "language": "fra",
+          "title": "L'Église de Rome"
+        },
+        "por": {
+          "content_id": 658587,
+          "language": "por",
+          "title": "A Igreja Romana"
+        },
+        "spa": {
+          "content_id": 658435,
+          "language": "spa",
+          "title": "La Iglesia romana"
+        },
+        "swh": {
+          "content_id": 734410,
+          "language": "swh",
+          "title": "Kanisa la Kirumi"
+        },
+        "zht": {
+          "content_id": 650926,
+          "language": "zht",
+          "title": "羅馬教會"
+        }
+      }
+    },
+    "654317": {
+      "content_id": 654317,
+      "reference_id": 203516,
+      "index_reference": "रोमी सम्राट",
+      "localizations": {
+        "eng": {
+          "content_id": 500573,
+          "language": "eng",
+          "title": "Roman Emperors"
+        },
+        "arb": {
+          "content_id": 726145,
+          "language": "arb",
+          "title": "الأباطرة الرومان"
+        },
+        "fra": {
+          "content_id": 668974,
+          "language": "fra",
+          "title": "Empereurs romains"
+        },
+        "por": {
+          "content_id": 658593,
+          "language": "por",
+          "title": "Imperadores Romanos"
+        },
+        "spa": {
+          "content_id": 658441,
+          "language": "spa",
+          "title": "Emperadores Romanos"
+        },
+        "swh": {
+          "content_id": 734416,
+          "language": "swh",
+          "title": "Wafalme wa Kirumi"
+        },
+        "zht": {
+          "content_id": 650932,
+          "language": "zht",
+          "title": "羅馬皇帝"
+        }
+      }
+    },
+    "654206": {
+      "content_id": 654206,
+      "reference_id": 203405,
+      "index_reference": "लिआ",
+      "localizations": {
+        "eng": {
+          "content_id": 500462,
+          "language": "eng",
+          "title": "Leah"
+        },
+        "arb": {
+          "content_id": 726034,
+          "language": "arb",
+          "title": "ليئة"
+        },
+        "fra": {
+          "content_id": 668863,
+          "language": "fra",
+          "title": "Léa"
+        },
+        "por": {
+          "content_id": 658482,
+          "language": "por",
+          "title": "Lia"
+        },
+        "spa": {
+          "content_id": 658330,
+          "language": "spa",
+          "title": "Lea"
+        },
+        "swh": {
+          "content_id": 734305,
+          "language": "swh",
+          "title": "Lea"
+        },
+        "zht": {
+          "content_id": 650821,
+          "language": "zht",
+          "title": "利亞"
+        }
+      }
+    },
+    "654305": {
+      "content_id": 654305,
+      "reference_id": 203504,
+      "index_reference": "लूका",
+      "localizations": {
+        "eng": {
+          "content_id": 500561,
+          "language": "eng",
+          "title": "Luke"
+        },
+        "arb": {
+          "content_id": 726133,
+          "language": "arb",
+          "title": "لوقا"
+        },
+        "fra": {
+          "content_id": 668962,
+          "language": "fra",
+          "title": "Luc"
+        },
+        "por": {
+          "content_id": 658581,
+          "language": "por",
+          "title": "Lucas"
+        },
+        "spa": {
+          "content_id": 658429,
+          "language": "spa",
+          "title": "Lucas"
+        },
+        "swh": {
+          "content_id": 734404,
+          "language": "swh",
+          "title": "Luka"
+        },
+        "zht": {
+          "content_id": 650920,
+          "language": "zht",
+          "title": "路加"
+        }
+      }
+    },
+    "654200": {
+      "content_id": 654200,
+      "reference_id": 203399,
+      "index_reference": "लूत",
+      "localizations": {
+        "eng": {
+          "content_id": 500456,
+          "language": "eng",
+          "title": "Lot"
+        },
+        "arb": {
+          "content_id": 726028,
+          "language": "arb",
+          "title": "لوط"
+        },
+        "fra": {
+          "content_id": 668857,
+          "language": "fra",
+          "title": "Lot"
+        },
+        "por": {
+          "content_id": 658476,
+          "language": "por",
+          "title": "Ló"
+        },
+        "spa": {
+          "content_id": 658324,
+          "language": "spa",
+          "title": "Lot"
+        },
+        "swh": {
+          "content_id": 734299,
+          "language": "swh",
+          "title": "Loti"
+        },
+        "zht": {
+          "content_id": 650815,
+          "language": "zht",
+          "title": "羅得"
+        }
+      }
+    },
+    "654233": {
+      "content_id": 654233,
+      "reference_id": 203432,
+      "index_reference": "शमूएल",
+      "localizations": {
+        "eng": {
+          "content_id": 500489,
+          "language": "eng",
+          "title": "Samuel"
+        },
+        "arb": {
+          "content_id": 726061,
+          "language": "arb",
+          "title": "صموئيل"
+        },
+        "fra": {
+          "content_id": 668890,
+          "language": "fra",
+          "title": "Samuel"
+        },
+        "por": {
+          "content_id": 658509,
+          "language": "por",
+          "title": "Samuel"
+        },
+        "spa": {
+          "content_id": 658357,
+          "language": "spa",
+          "title": "Samuel"
+        },
+        "swh": {
+          "content_id": 734332,
+          "language": "swh",
+          "title": "Samweli"
+        },
+        "zht": {
+          "content_id": 650848,
+          "language": "zht",
+          "title": "撒母耳"
+        }
+      }
+    },
+    "654281": {
+      "content_id": 654281,
+      "reference_id": 203480,
+      "index_reference": "शमौन पतरस",
+      "localizations": {
+        "eng": {
+          "content_id": 500537,
+          "language": "eng",
+          "title": "Simon Peter"
+        },
+        "arb": {
+          "content_id": 726109,
+          "language": "arb",
+          "title": "سمعان بطرس"
+        },
+        "fra": {
+          "content_id": 668938,
+          "language": "fra",
+          "title": "Simon Pierre"
+        },
+        "por": {
+          "content_id": 658557,
+          "language": "por",
+          "title": "Simão Pedro"
+        },
+        "spa": {
+          "content_id": 658405,
+          "language": "spa",
+          "title": "Simón Pedro"
+        },
+        "swh": {
+          "content_id": 734380,
+          "language": "swh",
+          "title": "Simoni Petro"
+        },
+        "zht": {
+          "content_id": 650896,
+          "language": "zht",
+          "title": "西門彼得"
+        }
+      }
+    },
+    "654228": {
+      "content_id": 654228,
+      "reference_id": 203427,
+      "index_reference": "शाऊल",
+      "localizations": {
+        "eng": {
+          "content_id": 500484,
+          "language": "eng",
+          "title": "Saul"
+        },
+        "arb": {
+          "content_id": 726056,
+          "language": "arb",
+          "title": "شاول"
+        },
+        "fra": {
+          "content_id": 668885,
+          "language": "fra",
+          "title": "Saül"
+        },
+        "por": {
+          "content_id": 658504,
+          "language": "por",
+          "title": "Saul"
+        },
+        "spa": {
+          "content_id": 658352,
+          "language": "spa",
+          "title": "Saúl"
+        },
+        "swh": {
+          "content_id": 734327,
+          "language": "swh",
+          "title": "Sauli"
+        },
+        "zht": {
+          "content_id": 650843,
+          "language": "zht",
+          "title": "掃羅"
+        }
+      }
+    },
+    "654225": {
+      "content_id": 654225,
+      "reference_id": 203424,
+      "index_reference": "शिमशोन",
+      "localizations": {
+        "eng": {
+          "content_id": 500481,
+          "language": "eng",
+          "title": "Samson"
+        },
+        "arb": {
+          "content_id": 726053,
+          "language": "arb",
+          "title": "شمشون"
+        },
+        "fra": {
+          "content_id": 668882,
+          "language": "fra",
+          "title": "Samson"
+        },
+        "por": {
+          "content_id": 658501,
+          "language": "por",
+          "title": "Sansão"
+        },
+        "spa": {
+          "content_id": 658349,
+          "language": "spa",
+          "title": "Sansón"
+        },
+        "swh": {
+          "content_id": 734324,
+          "language": "swh",
+          "title": "Samsoni"
+        },
+        "zht": {
+          "content_id": 650840,
+          "language": "zht",
+          "title": "參孫"
+        }
+      }
+    },
+    "654265": {
+      "content_id": 654265,
+      "reference_id": 203464,
+      "index_reference": "शैतान",
+      "localizations": {
+        "eng": {
+          "content_id": 500521,
+          "language": "eng",
+          "title": "Satan"
+        },
+        "arb": {
+          "content_id": 726093,
+          "language": "arb",
+          "title": "الشّيطان"
+        },
+        "fra": {
+          "content_id": 668922,
+          "language": "fra",
+          "title": "Satan"
+        },
+        "por": {
+          "content_id": 658541,
+          "language": "por",
+          "title": "Satanás"
+        },
+        "spa": {
+          "content_id": 658389,
+          "language": "spa",
+          "title": "Satanás"
+        },
+        "swh": {
+          "content_id": 734364,
+          "language": "swh",
+          "title": "Shetani"
+        },
+        "zht": {
+          "content_id": 650880,
+          "language": "zht",
+          "title": "撒但"
+        }
+      }
+    },
+    "654282": {
+      "content_id": 654282,
+      "reference_id": 203481,
+      "index_reference": "सदूकी लोग",
+      "localizations": {
+        "eng": {
+          "content_id": 500538,
+          "language": "eng",
+          "title": "The Sadducees"
+        },
+        "arb": {
+          "content_id": 726110,
+          "language": "arb",
+          "title": "الصدوقيون"
+        },
+        "fra": {
+          "content_id": 668939,
+          "language": "fra",
+          "title": "Les Sadducéens"
+        },
+        "por": {
+          "content_id": 658558,
+          "language": "por",
+          "title": "Os Saduceus"
+        },
+        "spa": {
+          "content_id": 658406,
+          "language": "spa",
+          "title": "Los saduceos"
+        },
+        "swh": {
+          "content_id": 734381,
+          "language": "swh",
+          "title": "Masadukayo"
+        },
+        "zht": {
+          "content_id": 650897,
+          "language": "zht",
+          "title": "撒都該人"
+        }
+      }
+    },
+    "654237": {
+      "content_id": 654237,
+      "reference_id": 203436,
+      "index_reference": "सादोक",
+      "localizations": {
+        "eng": {
+          "content_id": 500493,
+          "language": "eng",
+          "title": "Zadok"
+        },
+        "arb": {
+          "content_id": 726065,
+          "language": "arb",
+          "title": "صادوق"
+        },
+        "fra": {
+          "content_id": 668894,
+          "language": "fra",
+          "title": "Tsadok"
+        },
+        "por": {
+          "content_id": 658513,
+          "language": "por",
+          "title": "Zadoque"
+        },
+        "spa": {
+          "content_id": 658361,
+          "language": "spa",
+          "title": "Sadoc"
+        },
+        "swh": {
+          "content_id": 734336,
+          "language": "swh",
+          "title": "Sadoki"
+        },
+        "zht": {
+          "content_id": 650852,
+          "language": "zht",
+          "title": "撒督"
+        }
+      }
+    },
+    "654293": {
+      "content_id": 654293,
+      "reference_id": 203492,
+      "index_reference": "सामरी",
+      "localizations": {
+        "eng": {
+          "content_id": 500549,
+          "language": "eng",
+          "title": "Samaritans"
+        },
+        "arb": {
+          "content_id": 726121,
+          "language": "arb",
+          "title": "السامريون"
+        },
+        "fra": {
+          "content_id": 668950,
+          "language": "fra",
+          "title": "Samaritains"
+        },
+        "por": {
+          "content_id": 658569,
+          "language": "por",
+          "title": "Samaritanos"
+        },
+        "spa": {
+          "content_id": 658417,
+          "language": "spa",
+          "title": "Samaritanos"
+        },
+        "swh": {
+          "content_id": 734392,
+          "language": "swh",
+          "title": "Wasamaria"
+        },
+        "zht": {
+          "content_id": 650908,
+          "language": "zht",
+          "title": "撒馬利亞人"
+        }
+      }
+    },
+    "654199": {
+      "content_id": 654199,
+      "reference_id": 203398,
+      "index_reference": "सारा",
+      "localizations": {
+        "eng": {
+          "content_id": 500455,
+          "language": "eng",
+          "title": "Sarah"
+        },
+        "arb": {
+          "content_id": 726027,
+          "language": "arb",
+          "title": "سارة"
+        },
+        "fra": {
+          "content_id": 668856,
+          "language": "fra",
+          "title": "Sara"
+        },
+        "por": {
+          "content_id": 658475,
+          "language": "por",
+          "title": "Sara"
+        },
+        "spa": {
+          "content_id": 658323,
+          "language": "spa",
+          "title": "Sara"
+        },
+        "swh": {
+          "content_id": 734298,
+          "language": "swh",
+          "title": "Sara"
+        },
+        "zht": {
+          "content_id": 650814,
+          "language": "zht",
+          "title": "撒拉"
+        }
+      }
+    },
+    "654241": {
+      "content_id": 654241,
+      "reference_id": 203440,
+      "index_reference": "सुलैमान",
+      "localizations": {
+        "eng": {
+          "content_id": 500497,
+          "language": "eng",
+          "title": "Solomon"
+        },
+        "arb": {
+          "content_id": 726069,
+          "language": "arb",
+          "title": "سُلَيْمَان"
+        },
+        "fra": {
+          "content_id": 668898,
+          "language": "fra",
+          "title": "Salomon"
+        },
+        "por": {
+          "content_id": 658517,
+          "language": "por",
+          "title": "Salomão"
+        },
+        "spa": {
+          "content_id": 658365,
+          "language": "spa",
+          "title": "Salomón"
+        },
+        "swh": {
+          "content_id": 734340,
+          "language": "swh",
+          "title": "Solomoni"
+        },
+        "zht": {
+          "content_id": 650856,
+          "language": "zht",
+          "title": "所羅門"
+        }
+      }
+    },
+    "654299": {
+      "content_id": 654299,
+      "reference_id": 203498,
+      "index_reference": "स्तिफनुस",
+      "localizations": {
+        "eng": {
+          "content_id": 500555,
+          "language": "eng",
+          "title": "Stephen"
+        },
+        "arb": {
+          "content_id": 726127,
+          "language": "arb",
+          "title": "ٱستفانوس"
+        },
+        "fra": {
+          "content_id": 668956,
+          "language": "fra",
+          "title": "Étienne"
+        },
+        "por": {
+          "content_id": 658575,
+          "language": "por",
+          "title": "Estevão"
+        },
+        "spa": {
+          "content_id": 658423,
+          "language": "spa",
+          "title": "Esteban"
+        },
+        "swh": {
+          "content_id": 734398,
+          "language": "swh",
+          "title": "Stefano"
+        },
+        "zht": {
+          "content_id": 650914,
+          "language": "zht",
+          "title": "司提反"
+        }
+      }
+    },
+    "654296": {
+      "content_id": 654296,
+      "reference_id": 203495,
+      "index_reference": "हन्ना और कैफा",
+      "localizations": {
+        "eng": {
+          "content_id": 500552,
+          "language": "eng",
+          "title": "Annas and Caiaphas"
+        },
+        "arb": {
+          "content_id": 726124,
+          "language": "arb",
+          "title": " حَنَّان وَقَيَافَا"
+        },
+        "fra": {
+          "content_id": 668953,
+          "language": "fra",
+          "title": "Anne et Caïphe"
+        },
+        "por": {
+          "content_id": 658572,
+          "language": "por",
+          "title": "Anás e Caifás"
+        },
+        "spa": {
+          "content_id": 658420,
+          "language": "spa",
+          "title": "Anás y Caifás"
+        },
+        "swh": {
+          "content_id": 734395,
+          "language": "swh",
+          "title": "Anasi na Kayafa"
+        },
+        "zht": {
+          "content_id": 650911,
+          "language": "zht",
+          "title": "亞那和該亞法"
+        }
+      }
+    },
+    "654197": {
+      "content_id": 654197,
+      "reference_id": 203396,
+      "index_reference": "हागार",
+      "localizations": {
+        "eng": {
+          "content_id": 500453,
+          "language": "eng",
+          "title": "Hagar"
+        },
+        "arb": {
+          "content_id": 726025,
+          "language": "arb",
+          "title": "هاجر"
+        },
+        "fra": {
+          "content_id": 668854,
+          "language": "fra",
+          "title": "Agar"
+        },
+        "por": {
+          "content_id": 658473,
+          "language": "por",
+          "title": "Agar"
+        },
+        "spa": {
+          "content_id": 658321,
+          "language": "spa",
+          "title": "Agar"
+        },
+        "swh": {
+          "content_id": 734296,
+          "language": "swh",
+          "title": "Hajiri"
+        },
+        "zht": {
+          "content_id": 650812,
+          "language": "zht",
+          "title": "夏甲"
+        }
+      }
+    },
+    "654212": {
+      "content_id": 654212,
+      "reference_id": 203411,
+      "index_reference": "हारून",
+      "localizations": {
+        "eng": {
+          "content_id": 500468,
+          "language": "eng",
+          "title": "Aaron"
+        },
+        "arb": {
+          "content_id": 726040,
+          "language": "arb",
+          "title": "هارون"
+        },
+        "fra": {
+          "content_id": 668869,
+          "language": "fra",
+          "title": "Aaron"
+        },
+        "por": {
+          "content_id": 658488,
+          "language": "por",
+          "title": "Arão"
+        },
+        "spa": {
+          "content_id": 658336,
+          "language": "spa",
+          "title": "Aarón"
+        },
+        "swh": {
+          "content_id": 734311,
+          "language": "swh",
+          "title": "Aroni"
+        },
+        "zht": {
+          "content_id": 650827,
+          "language": "zht",
+          "title": "亞倫"
+        }
+      }
+    },
+    "654251": {
+      "content_id": 654251,
+      "reference_id": 203450,
+      "index_reference": "हिजकिय्याह",
+      "localizations": {
+        "eng": {
+          "content_id": 500507,
+          "language": "eng",
+          "title": "Hezekiah"
+        },
+        "arb": {
+          "content_id": 726079,
+          "language": "arb",
+          "title": "حزقيّا"
+        },
+        "fra": {
+          "content_id": 668908,
+          "language": "fra",
+          "title": "Ézéchias"
+        },
+        "por": {
+          "content_id": 658527,
+          "language": "por",
+          "title": "Ezequias"
+        },
+        "spa": {
+          "content_id": 658375,
+          "language": "spa",
+          "title": "Ezechîas"
+        },
+        "swh": {
+          "content_id": 734350,
+          "language": "swh",
+          "title": "Hezekia"
+        },
+        "zht": {
+          "content_id": 650866,
+          "language": "zht",
+          "title": "希西家"
+        }
+      }
+    },
+    "654202": {
+      "content_id": 654202,
+      "reference_id": 203401,
+      "index_reference": "हित्तियों",
+      "localizations": {
+        "eng": {
+          "content_id": 500458,
+          "language": "eng",
+          "title": "Hittites"
+        },
+        "arb": {
+          "content_id": 726030,
+          "language": "arb",
+          "title": "الحِثِّيِّين"
+        },
+        "fra": {
+          "content_id": 668859,
+          "language": "fra",
+          "title": "Hétiens"
+        },
+        "por": {
+          "content_id": 658478,
+          "language": "por",
+          "title": "Hititas"
+        },
+        "spa": {
+          "content_id": 658326,
+          "language": "spa",
+          "title": "Hititas"
+        },
+        "swh": {
+          "content_id": 734301,
+          "language": "swh",
+          "title": "Wahiti"
+        },
+        "zht": {
+          "content_id": 650817,
+          "language": "zht",
+          "title": "赫人"
+        }
+      }
+    },
+    "654285": {
+      "content_id": 654285,
+      "reference_id": 203484,
+      "index_reference": "हेरोदेस अंतिपास",
+      "localizations": {
+        "eng": {
+          "content_id": 500541,
+          "language": "eng",
+          "title": "Herod Antipas"
+        },
+        "arb": {
+          "content_id": 726113,
+          "language": "arb",
+          "title": "هيرودس أنتيباس"
+        },
+        "fra": {
+          "content_id": 668942,
+          "language": "fra",
+          "title": "Hérode Antipas"
+        },
+        "por": {
+          "content_id": 658561,
+          "language": "por",
+          "title": "Herodes Antipas"
+        },
+        "spa": {
+          "content_id": 658409,
+          "language": "spa",
+          "title": "Herodes Antipas"
+        },
+        "swh": {
+          "content_id": 734384,
+          "language": "swh",
+          "title": "Herode Antipa"
+        },
+        "zht": {
+          "content_id": 650900,
+          "language": "zht",
+          "title": "希律安提帕"
+        }
+      }
+    },
+    "654302": {
+      "content_id": 654302,
+      "reference_id": 203501,
+      "index_reference": "हेरोदेस अग्रिप्पा i",
+      "localizations": {
+        "eng": {
+          "content_id": 500558,
+          "language": "eng",
+          "title": "Herod Agrippa I"
+        },
+        "arb": {
+          "content_id": 726130,
+          "language": "arb",
+          "title": "هيرودس أغريباس الأول"
+        },
+        "fra": {
+          "content_id": 668959,
+          "language": "fra",
+          "title": "Hérode Agrippa I"
+        },
+        "por": {
+          "content_id": 658578,
+          "language": "por",
+          "title": "Herodes Agripa I"
+        },
+        "spa": {
+          "content_id": 658426,
+          "language": "spa",
+          "title": "Herodes Agripa I"
+        },
+        "swh": {
+          "content_id": 734401,
+          "language": "swh",
+          "title": "Herode Agripa I"
+        },
+        "zht": {
+          "content_id": 650917,
+          "language": "zht",
+          "title": "希律亞基帕一世"
+        }
+      }
+    },
+    "654308": {
+      "content_id": 654308,
+      "reference_id": 203507,
+      "index_reference": "हेरोदेस अग्रिप्पा ii",
+      "localizations": {
+        "eng": {
+          "content_id": 500564,
+          "language": "eng",
+          "title": "Herod Agrippa II"
+        },
+        "arb": {
+          "content_id": 726136,
+          "language": "arb",
+          "title": "هيرودس أغريباس الثاني"
+        },
+        "fra": {
+          "content_id": 668965,
+          "language": "fra",
+          "title": "Hérode Agrippa II"
+        },
+        "por": {
+          "content_id": 658584,
+          "language": "por",
+          "title": "Herodes Agripa II"
+        },
+        "spa": {
+          "content_id": 658432,
+          "language": "spa",
+          "title": "Herodes Agripa II"
+        },
+        "swh": {
+          "content_id": 734407,
+          "language": "swh",
+          "title": "Herode Agripa II"
+        },
+        "zht": {
+          "content_id": 650923,
+          "language": "zht",
+          "title": "希律亞基帕二世"
+        }
+      }
+    }
+  }
+}

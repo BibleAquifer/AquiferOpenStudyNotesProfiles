@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 500562,
+    "reference_id": 203505,
+    "title": "Priscilla and Aquila",
+    "media_type": "Text",
+    "index_reference": "priscilla and aquila",
+    "language": "eng",
+    "content": "<p>Priscilla and Aquila were a Christian couple. Paul lived and worked with them in his early days in Corinth. Later, they were active in Christian ministry and helped Apollos truly understand Jesus. They often welcomed other Christians into their home.</p><p>Paul first met Priscilla and Aquila in Corinth. They had recently arrived because the Roman emperor Claudius Caesar had deported all Jews from Rome in AD 49. Paul got to know them, and since they were tentmakers (or possibly leatherworkers) like him, he lived and worked with them during his first year and a half in Corinth, from AD 50 to 52 (<a href=\"https://ref.ly/Acts18:1-Acts18:3\">Acts 18:1–3</a>).</p><p>When Paul left Corinth, he took Priscilla and Aquila with him and left them in Ephesus (<a href=\"https://ref.ly/Acts18:18-Acts18:19\">Acts 18:18–19</a>). He returned to Jerusalem and Antioch. Later, when Apollos came to Ephesus, he preached enthusiastically about Jesus in the synagogues. Priscilla and Aquila took him aside and explained the truth of Jesus more fully. With their help, Apollos became a powerful teacher who shared the good news about Jesus and defended the Christian faith (<a href=\"https://ref.ly/Acts18:24-Acts18:28\">Acts 18:24–28</a>).</p><p>Later, Paul mentions their home as a meeting place for Christians in Ephesus. He includes their greeting with his own to the church in Corinth (<a href=\"https://ref.ly/1Cor16:19\">1 Corinthians 16:19</a>; see also <a href=\"https://ref.ly/2Tim4:19\">2 Timothy 4:19</a>). It seems they later returned to Rome, likely after Claudius&apos;s edict was relaxed. Paul sends his greetings to them first when he writes to the church in Rome (<a href=\"https://ref.ly/Rom16:3-Rom16:5\">Romans 16:3–5</a>). Their home there also became a meeting place. Paul clearly felt a strong friendship with them and valued their work for Jesus. He calls them “<span>my fellow workers in Christ Jesus</span>” and mentions they risked their lives for him.</p><p>Priscilla and Aquila were early Christians who boldly shared their faith in their daily work. They actively served others as a married couple dedicated to Jesus. Priscilla&apos;s name often appears first, which was unusual then. This might indicate her strong role in their ministry and witness.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts18:1-Acts18:3\">Acts 18:1–3</a>, <a href=\"https://ref.ly/Acts18:18-Acts18:19\">18–19</a>, <a href=\"https://ref.ly/Acts18:24-Acts18:28\">24–28</a>; <a href=\"https://ref.ly/Rom16:3-Rom16:5\">Romans 16:3–5</a>; <a href=\"https://ref.ly/1Cor16:19\">1 Corinthians 16:19</a>; <a href=\"https://ref.ly/2Tim4:19\">2 Timothy 4:19</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46016019",
+          "start_ref_usfm": "1CO 16:19",
+          "end_ref": "46016019",
+          "end_ref_usfm": "1CO 16:19"
+        },
+        {
+          "start_ref": "55004019",
+          "start_ref_usfm": "2TI 4:19",
+          "end_ref": "55004019",
+          "end_ref_usfm": "2TI 4:19"
+        },
+        {
+          "start_ref": "44018024",
+          "start_ref_usfm": "ACT 18:24",
+          "end_ref": "44018028",
+          "end_ref_usfm": "ACT 18:28"
+        },
+        {
+          "start_ref": "45016003",
+          "start_ref_usfm": "ROM 16:3",
+          "end_ref": "45016005",
+          "end_ref_usfm": "ROM 16:5"
+        },
+        {
+          "start_ref": "44018018",
+          "start_ref_usfm": "ACT 18:18",
+          "end_ref": "44018019",
+          "end_ref_usfm": "ACT 18:19"
+        },
+        {
+          "start_ref": "44018001",
+          "start_ref_usfm": "ACT 18:1",
+          "end_ref": "44018003",
+          "end_ref_usfm": "ACT 18:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

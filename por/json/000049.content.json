@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 658478,
+    "reference_id": 203401,
+    "title": "Hititas",
+    "media_type": "Text",
+    "index_reference": "hititas",
+    "language": "por",
+    "content": "<p>Por muitos anos, apenas a Bíblia mencionava o povo hitita. Alguns estudiosos questionaram se os relatos históricos da Bíblia sobre os hititas eram precisos, acreditando que os hititas não eram um povo real. No entanto, arqueólogos e historiadores descobriram informações sobre eles.</p><p>Os hititas tinham um império centrado na Ásia Menor, com sua capital em Hatusa (atual Baghazkoy). O império cresceu significativamente porque muitas cidades assinaram acordos para seguir seu domínio. Essas cidades não faziam parte oficialmente do território do império, mas tinham que obedecer ao que o império determinava. Os exércitos hititas eram fortes o suficiente para desafiar os exércitos egípcios sob o comando do orgulhoso Ramessés II, que governou de 1279 a 1213 a.C. Os hititas lutaram contra Ramessés II em Cades no Orontes por volta de 1274 a.C. Nenhum dos lados venceu a batalha. Durante o tempo de Abraão e dos outros primeiros patriarcas de Israel, o povo hitita controlava cidades em Canaã, como Hebrom.</p><p>Hete, o ancestral dos hititas, é o segundo filho de Canaã na &quot;tabela das nações&quot; (<a href=\"https://ref.ly/Gen10:15\">Gn 10.15</a>; veja também <a href=\"https://ref.ly/1Chr1:13\">1Cr 1.13</a> e a nota de rodapé lá). A maioria das menções aos filhos de Hete está na história de Abraão comprando a caverna de Macpela (<a href=\"https://ref.ly/Gen23:1-Gen23:20\">Gn 23</a>). Mais tarde, Deus disse aos israelitas para destruírem todos os hititas na terra prometida (<a href=\"https://ref.ly/Deut7:1-Deut7:2\">Dt 7.1–2</a>). Mas os israelitas não obedeceram completamente a Deus (<a href=\"https://ref.ly/1Kgs9:20-1Kgs9:21\">1Rs 9.20–21</a>). Alguns dos melhores guerreiros de Davi eram hititas (<a href=\"https://ref.ly/1Sam26:6\">1Sm 26.6</a>; <a href=\"https://ref.ly/2Sam11:1-2Sam12:31\">2Sm 11–12</a>). Salomão negociou com reis hititas (<a href=\"https://ref.ly/1Kgs10:29-1Kgs11:1\">1Rs 10.29–11.1</a>). A Bíblia mostra que os hititas eram um povo importante.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen23:3-Gen23:20\">Gênesis 23.3–20</a>; <a href=\"https://ref.ly/Gen26:34-Gen26:35\">26.34–35</a>; <a href=\"https://ref.ly/Gen27:46-Gen28:2\">27.46–28.2</a>; <a href=\"https://ref.ly/Deut7:1\">Deuteronômio 7.1</a>; <a href=\"https://ref.ly/1Sam26:6\">1 Samuel 26.6</a>; <a href=\"https://ref.ly/2Sam11:2-2Sam11:27\">2 Samuel 11.2–27</a>; <a href=\"https://ref.ly/1Kgs9:20\">1 Reis 9.20</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010015",
+          "start_ref_usfm": "GEN 10:15",
+          "end_ref": "01010015",
+          "end_ref_usfm": "GEN 10:15"
+        },
+        {
+          "start_ref": "05007001",
+          "start_ref_usfm": "DEU 7:1",
+          "end_ref": "05007001",
+          "end_ref_usfm": "DEU 7:1"
+        },
+        {
+          "start_ref": "09026006",
+          "start_ref_usfm": "1SA 26:6",
+          "end_ref": "09026006",
+          "end_ref_usfm": "1SA 26:6"
+        },
+        {
+          "start_ref": "11009020",
+          "start_ref_usfm": "1KI 9:20",
+          "end_ref": "11009020",
+          "end_ref_usfm": "1KI 9:20"
+        },
+        {
+          "start_ref": "13001013",
+          "start_ref_usfm": "1CH 1:13",
+          "end_ref": "13001013",
+          "end_ref_usfm": "1CH 1:13"
+        },
+        {
+          "start_ref": "01023001",
+          "start_ref_usfm": "GEN 23:1",
+          "end_ref": "01023020",
+          "end_ref_usfm": "GEN 23:20"
+        },
+        {
+          "start_ref": "05007001",
+          "start_ref_usfm": "DEU 7:1",
+          "end_ref": "05007002",
+          "end_ref_usfm": "DEU 7:2"
+        },
+        {
+          "start_ref": "01026034",
+          "start_ref_usfm": "GEN 26:34",
+          "end_ref": "01026035",
+          "end_ref_usfm": "GEN 26:35"
+        },
+        {
+          "start_ref": "10011001",
+          "start_ref_usfm": "2SA 11:1",
+          "end_ref": "10012031",
+          "end_ref_usfm": "2SA 12:31"
+        },
+        {
+          "start_ref": "11009020",
+          "start_ref_usfm": "1KI 9:20",
+          "end_ref": "11009021",
+          "end_ref_usfm": "1KI 9:21"
+        },
+        {
+          "start_ref": "01027046",
+          "start_ref_usfm": "GEN 27:46",
+          "end_ref": "01028002",
+          "end_ref_usfm": "GEN 28:2"
+        },
+        {
+          "start_ref": "10011002",
+          "start_ref_usfm": "2SA 11:2",
+          "end_ref": "10011027",
+          "end_ref_usfm": "2SA 11:27"
+        },
+        {
+          "start_ref": "11010029",
+          "start_ref_usfm": "1KI 10:29",
+          "end_ref": "11011001",
+          "end_ref_usfm": "1KI 11:1"
+        },
+        {
+          "start_ref": "01023003",
+          "start_ref_usfm": "GEN 23:3",
+          "end_ref": "01023020",
+          "end_ref_usfm": "GEN 23:20"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

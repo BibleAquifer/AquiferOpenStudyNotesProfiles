@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 500519,
+    "reference_id": 203462,
+    "title": "Esther",
+    "media_type": "Text",
+    "index_reference": "esther",
+    "language": "eng",
+    "content": "<p>Esther was queen of Persia during the reign of Xerxes I (also called Ahasuerus), who ruled from 486 to 465 BC. She was part of the <em>Diaspora</em> (&quot;scattering&quot;), descended from Jews who had been scattered among the nations during the exile in Babylon. Her family had not returned to Judah, unlike some Jews (see <a href=\"https://ref.ly/Ezra1:1-Ezra2:70\">Ezra 1–2</a>), but chose to stay in Persia, like many others. Her cousin Mordecai&apos;s important role in the Persian government suggests her family had become wealthy and comfortable.</p><p>Esther was an orphan raised by her cousin Mordecai, a minor official in the Persian government in Susa. She became queen after King Xerxes removed Queen Vashti for refusing to attend a banquet when he commanded her to do so (<a href=\"https://ref.ly/Esth1:11-Esth1:12\">Esther 1:11–12</a>).</p><p>After Esther&apos;s coronation, she quietly gained Xerxes&apos; trust by telling him about an assassination plot (<a href=\"https://ref.ly/Esth2:21-Esth2:23\">Esther 2:21–23</a>). This later allowed her to save her people from a massacre planned by Haman, a high official to the king. Through her wise advice and brave actions, Esther exposed Haman. He was executed, and the Jewish people were saved. The Jewish Festival of Purim was created to celebrate these events.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Esth2:7-Esth2:20\">Esther 2:7–20</a>; <a href=\"https://ref.ly/Esth4:4-Esth5:8\">4:4–5:8</a>; <a href=\"https://ref.ly/Esth7:1-Esth9:32\">7:1–9:32</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "17002021",
+          "start_ref_usfm": "EST 2:21",
+          "end_ref": "17002023",
+          "end_ref_usfm": "EST 2:23"
+        },
+        {
+          "start_ref": "17001011",
+          "start_ref_usfm": "EST 1:11",
+          "end_ref": "17001012",
+          "end_ref_usfm": "EST 1:12"
+        },
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15002070",
+          "end_ref_usfm": "EZR 2:70"
+        },
+        {
+          "start_ref": "17002007",
+          "start_ref_usfm": "EST 2:7",
+          "end_ref": "17002020",
+          "end_ref_usfm": "EST 2:20"
+        },
+        {
+          "start_ref": "17004004",
+          "start_ref_usfm": "EST 4:4",
+          "end_ref": "17005008",
+          "end_ref_usfm": "EST 5:8"
+        },
+        {
+          "start_ref": "17007001",
+          "start_ref_usfm": "EST 7:1",
+          "end_ref": "17009032",
+          "end_ref_usfm": "EST 9:32"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

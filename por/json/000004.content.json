@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 658511,
+    "reference_id": 203434,
+    "title": "Abner",
+    "media_type": "Text",
+    "index_reference": "abner",
+    "language": "por",
+    "content": "<p>Abner, filho de Ner, era primo do Rei Saul e seu general (<a href=\"https://ref.ly/1Sam14:49-1Sam14:52\">1Sm 14.49–52</a>). Sob o comando de Abner, os exércitos de Saul venceram batalhas importantes contra os filisteus (<a href=\"https://ref.ly/1Sam17:1-1Sam17:58\">1Sm 17.1–58</a>). Abner também jantou com Davi e Jônatas à mesa do rei (<a href=\"https://ref.ly/1Sam20:24-1Sam20:25\">1Sm 20.24–25</a>). No entanto, tanto Jônatas quanto Davi superaram Abner no exército de Saul.</p><p>Davi envergonhou Abner uma vez (<a href=\"https://ref.ly/1Sam26:1-1Sam26:25\">1Sm 26.1–25</a>). Saul estava perseguindo Davi para matá-lo. Saul e suas tropas acamparam em círculo, com Saul dormindo no centro e Abner ao seu lado. Abisai e Davi se esgueiraram para dentro do acampamento e poderiam ter matado Saul. Em vez disso, eles pegaram alguns itens ao lado da cabeça de Saul. Após recuar, Davi gritou para acordar Saul e Abner e criticou Abner por ser descuidado.</p><p>Após a morte de Saul e Jônatas, Abner apoiou Isbosete, filho de Saul (<a href=\"https://ref.ly/2Sam2:8-2Sam2:12\">2Sm 2.8–12</a>), enquanto a tribo de Judá fez Davi rei. Durante esse período, Abner detinha o verdadeiro poder no norte. Quando Isbosete acusou Abner de ter relações com uma das concubinas de Saul, Abner entregou o controle do reino do norte a Davi. Isbosete foi posteriormente assassinado (<a href=\"https://ref.ly/2Sam4:1-2Sam4:12\">2Sm 4.1–12</a>).</p><p>Durante a batalha entre Isbosete e Davi, Abner teve que matar Asael, irmão de Joabe, em legítima defesa. Ele não queria matar Asael e o havia avisado para voltar atrás (<a href=\"https://ref.ly/2Sam2:18-2Sam2:32\">2Sm 2.18–32</a>). Joabe mais tarde assassinou Abner em um ato planejado de vingança (<a href=\"https://ref.ly/2Sam3:22-2Sam3:30\">2Sm 3.22–30</a>), que Davi não pôde impedir (veja <a href=\"https://ref.ly/2Sam3:38-2Sam3:39\">2Sm 3.38–39</a>). Davi homenageou Abner com uma elegia (um discurso de louvor comemorando sua vida e conquistas), luto público e um funeral de estado (<a href=\"https://ref.ly/2Sam3:31-2Sam3:37\">2Sm 3.31–37</a>). Mais tarde, Davi lembrou-se desses eventos e garantiu que Joabe fosse punido pelo assassinato (<a href=\"https://ref.ly/1Kgs2:5-1Kgs2:6\">1Rs 2.5–6</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/1Sam14:49-1Sam14:52\">1 Samuel 14.49–52</a>; <a href=\"https://ref.ly/1Sam17:55-1Sam17:58\">17.55–58</a>; <a href=\"https://ref.ly/1Sam26:5-1Sam26:16\">26.5–16</a>; <a href=\"https://ref.ly/2Sam2:8-2Sam2:29\">2 Samuel 2.8–29</a>; <a href=\"https://ref.ly/2Sam3:6-2Sam3:39\">3.6–39</a>; <a href=\"https://ref.ly/1Kgs2:5\">1 Reis 2.5</a>,<a href=\"https://ref.ly/1Kgs2:32\">32</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11002005",
+          "start_ref_usfm": "1KI 2:5",
+          "end_ref": "11002005",
+          "end_ref_usfm": "1KI 2:5"
+        },
+        {
+          "start_ref": "11002032",
+          "start_ref_usfm": "1KI 2:32",
+          "end_ref": "11002032",
+          "end_ref_usfm": "1KI 2:32"
+        },
+        {
+          "start_ref": "09017001",
+          "start_ref_usfm": "1SA 17:1",
+          "end_ref": "09017058",
+          "end_ref_usfm": "1SA 17:58"
+        },
+        {
+          "start_ref": "11002005",
+          "start_ref_usfm": "1KI 2:5",
+          "end_ref": "11002006",
+          "end_ref_usfm": "1KI 2:6"
+        },
+        {
+          "start_ref": "09026001",
+          "start_ref_usfm": "1SA 26:1",
+          "end_ref": "09026025",
+          "end_ref_usfm": "1SA 26:25"
+        },
+        {
+          "start_ref": "10002018",
+          "start_ref_usfm": "2SA 2:18",
+          "end_ref": "10002032",
+          "end_ref_usfm": "2SA 2:32"
+        },
+        {
+          "start_ref": "10004001",
+          "start_ref_usfm": "2SA 4:1",
+          "end_ref": "10004012",
+          "end_ref_usfm": "2SA 4:12"
+        },
+        {
+          "start_ref": "09017055",
+          "start_ref_usfm": "1SA 17:55",
+          "end_ref": "09017058",
+          "end_ref_usfm": "1SA 17:58"
+        },
+        {
+          "start_ref": "09014049",
+          "start_ref_usfm": "1SA 14:49",
+          "end_ref": "09014052",
+          "end_ref_usfm": "1SA 14:52"
+        },
+        {
+          "start_ref": "09020024",
+          "start_ref_usfm": "1SA 20:24",
+          "end_ref": "09020025",
+          "end_ref_usfm": "1SA 20:25"
+        },
+        {
+          "start_ref": "10002008",
+          "start_ref_usfm": "2SA 2:8",
+          "end_ref": "10002012",
+          "end_ref_usfm": "2SA 2:12"
+        },
+        {
+          "start_ref": "10003022",
+          "start_ref_usfm": "2SA 3:22",
+          "end_ref": "10003030",
+          "end_ref_usfm": "2SA 3:30"
+        },
+        {
+          "start_ref": "10003038",
+          "start_ref_usfm": "2SA 3:38",
+          "end_ref": "10003039",
+          "end_ref_usfm": "2SA 3:39"
+        },
+        {
+          "start_ref": "10003031",
+          "start_ref_usfm": "2SA 3:31",
+          "end_ref": "10003037",
+          "end_ref_usfm": "2SA 3:37"
+        },
+        {
+          "start_ref": "09026005",
+          "start_ref_usfm": "1SA 26:5",
+          "end_ref": "09026016",
+          "end_ref_usfm": "1SA 26:16"
+        },
+        {
+          "start_ref": "10002008",
+          "start_ref_usfm": "2SA 2:8",
+          "end_ref": "10002029",
+          "end_ref_usfm": "2SA 2:29"
+        },
+        {
+          "start_ref": "10003006",
+          "start_ref_usfm": "2SA 3:6",
+          "end_ref": "10003039",
+          "end_ref_usfm": "2SA 3:39"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

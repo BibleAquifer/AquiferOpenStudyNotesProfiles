@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 668862,
+    "reference_id": 203404,
+    "title": "Rachel",
+    "media_type": "Text",
+    "index_reference": "rachel",
+    "language": "fra",
+    "content": "<p>Rachel était la fille cadette de Laban. Elle était belle, et Jacob l’aimait plus que ses autres épouses. Il l’a rencontrée pour la première fois à son arrivée à Paddan-Aram, à Haran. Il l’a aidée à rouler la pierre du dessus d’un puits et a abreuvé les moutons de son père (<a href=\"https://ref.ly/Gen29:10\">Gn&nbsp;29.10</a>). Jacob a accepté de travailler sept ans pour Laban afin d’épouser Rachel. Il lui a semblé qu’il ne s’était écoulé que quelques jours parce qu’il l’aimait énormément.</p><p>Laban a trompé Jacob en lui faisant épouser Léa, sa fille aînée qui était moins belle, avant de lui permettre d’épouser Rachel. Contrairement à Léa, Rachel ne pouvait pas avoir d’enfants au début (<a href=\"https://ref.ly/Gen29:31\">Gn&nbsp;29.31</a>&nbsp;; <a href=\"https://ref.ly/Gen30:1\">30.1</a>). Elle a donné sa servante Bilha à Jacob pour qu’elle aie des enfants pour elle, ce qui a abouti à la naissance de Dan et Nephtali (<a href=\"https://ref.ly/Gen30:3-Gen30:8\">Gn&nbsp;30.3–8</a>). Finalement, Rachel est tombée enceinte et a donné naissance à Joseph (<a href=\"https://ref.ly/Gen30:22-Gen30:24\">Gn&nbsp;30.22–24</a>). Peu de temps après, Jacob a quitté Haran avec ses femmes, ses enfants et ses biens.</p><p>Entre Béthel et Bethléem, Rachel est morte en donnant naissance à Benjamin (<a href=\"https://ref.ly/Gen35:16-Gen35:20\">Gn&nbsp;35.16–20</a>). Jacob a érigé une stèle sur sa tombe, qui est restée un repère même à l’époque de Saül (<a href=\"https://ref.ly/1Sam10:2\">1S&nbsp;10.2</a>). Rachel et Léa sont respectées pour avoir bâti la maison d’Israël (<a href=\"https://ref.ly/Ruth4:11\">Rt&nbsp;4.11</a>). Au verset <a href=\"https://ref.ly/Jer31:15\">Jr&nbsp;31.15</a>, Rachel pleure ses enfants emmenés en captivité. Matthieu cite les paroles de Jérémie pour expliquer l’événement lors duquel Hérode ordonne le massacre des enfants mâles autour de Bethléem peu après la naissance de Jésus (<a href=\"https://ref.ly/Matt2:16-Matt2:18\">Mt&nbsp;2.16–18</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Gen29:6-Gen30:24\">Gn 29.6–30.24</a>&nbsp;; <a href=\"https://ref.ly/Gen31:4-Gen31:19\">31.4–19</a>, <a href=\"https://ref.ly/Gen31:31-Gen31:35\">31–35</a>&nbsp;; <a href=\"https://ref.ly/Gen33:1-Gen33:7\">33.1–7</a>&nbsp;; <a href=\"https://ref.ly/Gen35:16-Gen35:20\">35.16–20</a>&nbsp;; <a href=\"https://ref.ly/Gen46:19-Gen46:22\">46.19–22</a>&nbsp;; <a href=\"https://ref.ly/Gen48:7\">48.7</a>&nbsp;; <a href=\"https://ref.ly/Ruth4:11\">Rt&nbsp;4.11</a>&nbsp;; <a href=\"https://ref.ly/1Sam10:2\">1S&nbsp;10.2</a>&nbsp;; <a href=\"https://ref.ly/Jer31:15\">Jr 31.15&nbsp;</a>; <a href=\"https://ref.ly/Matt2:18\">Mt&nbsp;2.18</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01029010",
+          "start_ref_usfm": "GEN 29:10",
+          "end_ref": "01029010",
+          "end_ref_usfm": "GEN 29:10"
+        },
+        {
+          "start_ref": "01029031",
+          "start_ref_usfm": "GEN 29:31",
+          "end_ref": "01029031",
+          "end_ref_usfm": "GEN 29:31"
+        },
+        {
+          "start_ref": "01030001",
+          "start_ref_usfm": "GEN 30:1",
+          "end_ref": "01030001",
+          "end_ref_usfm": "GEN 30:1"
+        },
+        {
+          "start_ref": "01048007",
+          "start_ref_usfm": "GEN 48:7",
+          "end_ref": "01048007",
+          "end_ref_usfm": "GEN 48:7"
+        },
+        {
+          "start_ref": "08004011",
+          "start_ref_usfm": "RUT 4:11",
+          "end_ref": "08004011",
+          "end_ref_usfm": "RUT 4:11"
+        },
+        {
+          "start_ref": "09010002",
+          "start_ref_usfm": "1SA 10:2",
+          "end_ref": "09010002",
+          "end_ref_usfm": "1SA 10:2"
+        },
+        {
+          "start_ref": "24031015",
+          "start_ref_usfm": "JER 31:15",
+          "end_ref": "24031015",
+          "end_ref_usfm": "JER 31:15"
+        },
+        {
+          "start_ref": "40002018",
+          "start_ref_usfm": "MAT 2:18",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        },
+        {
+          "start_ref": "01035016",
+          "start_ref_usfm": "GEN 35:16",
+          "end_ref": "01035020",
+          "end_ref_usfm": "GEN 35:20"
+        },
+        {
+          "start_ref": "01030003",
+          "start_ref_usfm": "GEN 30:3",
+          "end_ref": "01030008",
+          "end_ref_usfm": "GEN 30:8"
+        },
+        {
+          "start_ref": "40002016",
+          "start_ref_usfm": "MAT 2:16",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        },
+        {
+          "start_ref": "01030022",
+          "start_ref_usfm": "GEN 30:22",
+          "end_ref": "01030024",
+          "end_ref_usfm": "GEN 30:24"
+        },
+        {
+          "start_ref": "01029006",
+          "start_ref_usfm": "GEN 29:6",
+          "end_ref": "01030024",
+          "end_ref_usfm": "GEN 30:24"
+        },
+        {
+          "start_ref": "01031004",
+          "start_ref_usfm": "GEN 31:4",
+          "end_ref": "01031019",
+          "end_ref_usfm": "GEN 31:19"
+        },
+        {
+          "start_ref": "01031031",
+          "start_ref_usfm": "GEN 31:31",
+          "end_ref": "01031035",
+          "end_ref_usfm": "GEN 31:35"
+        },
+        {
+          "start_ref": "01033001",
+          "start_ref_usfm": "GEN 33:1",
+          "end_ref": "01033007",
+          "end_ref_usfm": "GEN 33:7"
+        },
+        {
+          "start_ref": "01046019",
+          "start_ref_usfm": "GEN 46:19",
+          "end_ref": "01046022",
+          "end_ref_usfm": "GEN 46:22"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

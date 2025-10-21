@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 668953,
+    "reference_id": 203495,
+    "title": "Anne et Caïphe",
+    "media_type": "Text",
+    "index_reference": "anne et caïphe",
+    "language": "fra",
+    "content": "<p>Anne et Caïphe furent tous deux souverains sacrificateurs à l&apos;époque de Jésus, et jouèrent des rôles déterminants dans sa condamnation à mort. Anne occupa la fonction de souverain sacrificateur juif vers l&apos;an 6 jusqu&apos;à environ 15 apr. J.‑C. &nbsp;Même après avoir été démis de ses fonctions par le procurateur romain de Judée, il demeura extrêmement influent au sein du sanhédrin (grand conseil juif). En effet, on continuait de l&apos;appeler « souverain sacrificateur » quinze à vingt ans plus tard&nbsp; (<a href=\"https://ref.ly/Luke3:2\">Lc 3.2</a> ; <a href=\"https://ref.ly/Acts4:6\">Ac 4.6</a>). Cela s&apos;explique peut-être par la croyance des Juifs que le souverain sacrificateur occupait sa charge à vie. Cinq de ses fils, ainsi que son gendre Caïphe, lui succédèrent dans cette fonction. D&apos;après l&apos;Évangile de Jean, lorsque Jésus fut arrêté, il fut d&apos;abord conduit chez Anne pour être interrogé avant d&apos;être remis à Caïphe pour le procès officiel (<a href=\"https://ref.ly/John18:13-John18:24\">Jn 18.13–24</a>).</p><p>Caïphe fut souverain sacrificateur approximativement de l&apos;an 18 à 36 apr. J.‑C. Il travaillait en étroite collaboration avec son influent beau-père, Anne. Au sein du sanhédrin, Caïphe soutint qu&apos;il valait mieux sacrifier Jésus que de risquer la destruction de la nation&nbsp;(<a href=\"https://ref.ly/John11:49-John11:50\">Jn 11.49–50</a>). Dieu lui confia ces paroles prophétiques en raison de son office (<a href=\"https://ref.ly/John11:51-John11:52\">Jn 11.51–52</a>). &nbsp;Lors du procès de Jésus, quand celui-ci affirma être le Fils de Dieu, Caïphe déchira ses vêtements et exhorta le sanhédrin à condamner Jésus pour blasphème (<a href=\"https://ref.ly/Matt26:57-Matt26:66\">Mt 26.57–66</a>).</p><p>Peu après l&apos;exécution de Jésus, les dirigeants juifs s&apos;inquiétèrent de la croissance rapide du nombre de ses disciples. Anne et Caïphe interrogèrent Pierre et Jean au sujet de la guérison d&apos;un mendiant infirme et de la prédication sur la résurrection des morts (<a href=\"https://ref.ly/Acts4:5-Acts4:7\">Ac 4.5–7</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Matt26:3-Matt26:5\">Matthieu 26.3–5</a>, <a href=\"https://ref.ly/Matt26:57-Matt26:67\">57–67</a> ; <a href=\"https://ref.ly/Mark14:53-Mark14:65\">Marc 14.53–65</a> ; <a href=\"https://ref.ly/Luke3:2\">Luc 3.2</a> ; <a href=\"https://ref.ly/John11:49-John11:53\">Jean 11.49–53</a> ; <a href=\"https://ref.ly/John18:13-John18:28\">Jean 18.13–28</a> ; <a href=\"https://ref.ly/Acts4:5-Acts4:7\">Actes 4.5–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42003002",
+          "start_ref_usfm": "LUK 3:2",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "44004006",
+          "start_ref_usfm": "ACT 4:6",
+          "end_ref": "44004006",
+          "end_ref_usfm": "ACT 4:6"
+        },
+        {
+          "start_ref": "41014053",
+          "start_ref_usfm": "MRK 14:53",
+          "end_ref": "41014065",
+          "end_ref_usfm": "MRK 14:65"
+        },
+        {
+          "start_ref": "43011051",
+          "start_ref_usfm": "JHN 11:51",
+          "end_ref": "43011052",
+          "end_ref_usfm": "JHN 11:52"
+        },
+        {
+          "start_ref": "40026003",
+          "start_ref_usfm": "MAT 26:3",
+          "end_ref": "40026005",
+          "end_ref_usfm": "MAT 26:5"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026066",
+          "end_ref_usfm": "MAT 26:66"
+        },
+        {
+          "start_ref": "44004005",
+          "start_ref_usfm": "ACT 4:5",
+          "end_ref": "44004007",
+          "end_ref_usfm": "ACT 4:7"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018024",
+          "end_ref_usfm": "JHN 18:24"
+        },
+        {
+          "start_ref": "43011049",
+          "start_ref_usfm": "JHN 11:49",
+          "end_ref": "43011050",
+          "end_ref_usfm": "JHN 11:50"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026067",
+          "end_ref_usfm": "MAT 26:67"
+        },
+        {
+          "start_ref": "43011049",
+          "start_ref_usfm": "JHN 11:49",
+          "end_ref": "43011053",
+          "end_ref_usfm": "JHN 11:53"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018028",
+          "end_ref_usfm": "JHN 18:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

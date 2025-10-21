@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 668906,
+    "reference_id": 203448,
+    "title": "Jéroboam II",
+    "media_type": "Text",
+    "index_reference": "jéroboam ii",
+    "language": "fra",
+    "content": "<p>Jéroboam&nbsp;II était le fils de Joas. Il a régné en tant que roi d’Israël pendant 41&nbsp;ans, de 793 à 753 av. J.‑C. Son règne a été plus long que celui de tout autre roi du nord. Il a suivi le mauvais exemple de Jéroboam I<sup>er</sup> (<a href=\"https://ref.ly/2Kgs14:23-2Kgs14:24\">2R&nbsp;14.23–24</a>). Jéroboam&nbsp;II n’était pas un parent de Jéroboam I<sup>er</sup>, mais ils portaient le même nom.</p><p>Durant son règne, le royaume du Nord atteignit sa plus grande taille et sa plus grande richesse depuis Salomon. Des preuves archéologiques de la capitale de Jéroboam, Samarie, montrent la richesse de la maison royale d’Israël pendant son règne. Une des raisons de la nouvelle prospérité d’Israël fut le déclin de la puissance de l’Assyrie, qui permit au royaume du Nord de croître. Le prophète Jonas avait prédit cette prospérité comme la promesse de Dieu (<a href=\"https://ref.ly/2Kgs14:25\">2R&nbsp;14.25</a>). Même après 150&nbsp;ans de détournement de Dieu dans le royaume du Nord, Dieu montra son amour fidèle en offrant à Israël sa miséricorde (<a href=\"https://ref.ly/2Kgs14:26-2Kgs14:27\">2R&nbsp;14.26–27</a>).</p><p>Pendant le règne de Jéroboam&nbsp;II, la richesse a augmenté, mais pas la justice. Les riches propriétaires terriens ont opprimé les plus pauvres, les forçant à quitter leurs fermes pour les villes. La corruption gouvernementale, la dépression économique et la faiblesse politique ont augmenté, tandis que l’état spirituel d’Israël s’est détérioré. Dieu a envoyé des prophètes pour défier les dirigeants et le peuple d’Israël. Amos et Osée ont dénoncé la corruption généralisée. Amos a fortement critiqué les riches pour avoir opprimé les pauvres. Il a averti de la mort imminente de Jéroboam et du châtiment d’Israël (<a href=\"https://ref.ly/Amos7:10-Amos7:17\">Am 7.10–17</a>).</p><p>Après la mort de Jéroboam&nbsp;II, le royaume du Nord a rapidement décliné. Entre 753 et 722 av. J.‑C., six rois ont régné successivement, et la plupart ont été assassinés. En 722 av. J.‑C., environ trente ans après la fin du règne de Jéroboam&nbsp;II, l’Assyrie détruit le royaume du Nord et déporte son peuple. Cette action a été vue comme un jugement sur les péchés de Jéroboam&nbsp;II et d’autres rois du Nord.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/2Kgs13:13\">2R&nbsp;13.13</a>&nbsp;; <a href=\"https://ref.ly/2Kgs14:16\">14.16</a>, <a href=\"https://ref.ly/2Kgs14:23-2Kgs14:29\">23–29</a>&nbsp;; <a href=\"https://ref.ly/Hos1:1\">Os&nbsp;1.1</a>&nbsp;; <a href=\"https://ref.ly/Amos1:1\">Am 1.1</a>&nbsp;; <a href=\"https://ref.ly/Amos7:10-Amos7:17\">7.10–17</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12013013",
+          "start_ref_usfm": "2KI 13:13",
+          "end_ref": "12013013",
+          "end_ref_usfm": "2KI 13:13"
+        },
+        {
+          "start_ref": "12014016",
+          "start_ref_usfm": "2KI 14:16",
+          "end_ref": "12014016",
+          "end_ref_usfm": "2KI 14:16"
+        },
+        {
+          "start_ref": "12014025",
+          "start_ref_usfm": "2KI 14:25",
+          "end_ref": "12014025",
+          "end_ref_usfm": "2KI 14:25"
+        },
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001001",
+          "end_ref_usfm": "HOS 1:1"
+        },
+        {
+          "start_ref": "30001001",
+          "start_ref_usfm": "AMO 1:1",
+          "end_ref": "30001001",
+          "end_ref_usfm": "AMO 1:1"
+        },
+        {
+          "start_ref": "30007010",
+          "start_ref_usfm": "AMO 7:10",
+          "end_ref": "30007017",
+          "end_ref_usfm": "AMO 7:17"
+        },
+        {
+          "start_ref": "12014023",
+          "start_ref_usfm": "2KI 14:23",
+          "end_ref": "12014024",
+          "end_ref_usfm": "2KI 14:24"
+        },
+        {
+          "start_ref": "12014026",
+          "start_ref_usfm": "2KI 14:26",
+          "end_ref": "12014027",
+          "end_ref_usfm": "2KI 14:27"
+        },
+        {
+          "start_ref": "12014023",
+          "start_ref_usfm": "2KI 14:23",
+          "end_ref": "12014029",
+          "end_ref_usfm": "2KI 14:29"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

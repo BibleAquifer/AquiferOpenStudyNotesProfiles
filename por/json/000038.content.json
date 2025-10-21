@@ -1,0 +1,154 @@
+[
+  {
+    "content_id": 658575,
+    "reference_id": 203498,
+    "title": "Estevão",
+    "media_type": "Text",
+    "index_reference": "estevão",
+    "language": "por",
+    "content": "<p>Estevão foi um cristão primitivo cuja vida serviu de exemplo para os outros. Por falar corajosamente sobre sua fé, as autoridades judaicas o prenderam e mataram. Ele é conhecido como o primeiro mártir cristão, o que significa que foi a primeira pessoa a morrer por sua fé em Jesus.</p><p>Estevão foi um dos sete homens escolhidos para ajudar a distribuir alimentos aos cristãos necessitados em Jerusalém (<a href=\"https://ref.ly/Acts6:1-Acts6:6\">At 6.1–6</a>). Dos sete homens escolhidos, Estevão era especial porque estava “cheio de fé e do Espírito Santo” (<a href=\"https://ref.ly/Acts6:5\">At 6.5</a>). Demonstrando a graça e o poder de Deus de uma maneira especial, ele realizou milagres (<a href=\"https://ref.ly/Acts6:8\">At 6.8</a>). Ele foi corajoso ao falar sobre Jesus e era hábil em explicar e defender as crenças cristãs (<a href=\"https://ref.ly/Acts6:9-Acts6:10\">At 6.9–10</a>). Por falar tão abertamente sobre Jesus, os líderes judeus o prenderam. Eles o levaram perante o conselho governante deles (chamado Sinédrio) para interrogá-lo (<a href=\"https://ref.ly/Acts6:9-Acts6:12\">At 6.9–12</a>).</p><p>Testemunhas acusaram Estevão de falar contra o santo templo e a lei de Moisés (<a href=\"https://ref.ly/Acts6:13-Acts6:14\">At 6.13–14</a>; compare <a href=\"https://ref.ly/Mark13:2\">Mc 13.2</a>; <a href=\"https://ref.ly/John2:19\">Jo 2.19</a>; <a href=\"https://ref.ly/John4:21\">4.21</a>). Estevão se defendeu perante o conselho governante judeu (<a href=\"https://ref.ly/Acts7:1-Acts7:53\">At 7.1–53</a>). Ele falou sobre a longa história de Israel em resistir a Deus e seus servos — primeiro Moisés e agora o Profeta que Moisés havia predito (<a href=\"https://ref.ly/Acts7:51-Acts7:53\">At 7.51–53</a>). As autoridades judaicas, irritadas com as ousadas afirmações de Estevão, o arrastaram para fora da cidade e o apedrejaram até a morte (<a href=\"https://ref.ly/Acts7:54-Acts7:60\">At 7.54–60</a>). Enquanto morria, Estevão orou pelo perdão deles (<a href=\"https://ref.ly/Acts7:60\">At 7.60</a>).</p><p>O corajoso testemunho de Estevão levou à primeira perseguição dos primeiros cristãos (<a href=\"https://ref.ly/Acts8:1-Acts8:3\">Atos 8.1–3</a>). Essa perseguição fez com que as boas-novas se espalhassem ainda mais, à medida que os crentes deixavam Jerusalém e compartilhavam a mensagem de Jesus onde quer que fossem (<a href=\"https://ref.ly/Acts8:4\">At 8.4</a>; <a href=\"https://ref.ly/Acts11:19-Acts11:21\">11.19–21</a>). Após a morte de Estevão por sua fé, os cristãos começaram a compartilhar as boas-novas sobre Jesus além de sua terra natal, a Judeia.</p><p>A vida de Estevão nos mostra que ser um cristão fiel pode levar a uma forte oposição. Falar com ousadia por Jesus pode ser custoso (veja <a href=\"https://ref.ly/Rev2:10\">Ap 2.10</a>,<a href=\"https://ref.ly/Rev2:13\">13</a>), mas nada pode impedir a igreja de crescer (veja <a href=\"https://ref.ly/Matt16:18\">Mt 16.18</a>; <a href=\"https://ref.ly/Acts8:1-Acts8:4\">At 8.1–4</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Acts6:5-Acts8:2\">Atos 6.5–8.2</a>; <a href=\"https://ref.ly/Acts11:19\">11.19</a>; <a href=\"https://ref.ly/Acts22:20\">22.20</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40016018",
+          "start_ref_usfm": "MAT 16:18",
+          "end_ref": "40016018",
+          "end_ref_usfm": "MAT 16:18"
+        },
+        {
+          "start_ref": "41013002",
+          "start_ref_usfm": "MRK 13:2",
+          "end_ref": "41013002",
+          "end_ref_usfm": "MRK 13:2"
+        },
+        {
+          "start_ref": "43002019",
+          "start_ref_usfm": "JHN 2:19",
+          "end_ref": "43002019",
+          "end_ref_usfm": "JHN 2:19"
+        },
+        {
+          "start_ref": "43004021",
+          "start_ref_usfm": "JHN 4:21",
+          "end_ref": "43004021",
+          "end_ref_usfm": "JHN 4:21"
+        },
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006005",
+          "end_ref_usfm": "ACT 6:5"
+        },
+        {
+          "start_ref": "44006008",
+          "start_ref_usfm": "ACT 6:8",
+          "end_ref": "44006008",
+          "end_ref_usfm": "ACT 6:8"
+        },
+        {
+          "start_ref": "44007060",
+          "start_ref_usfm": "ACT 7:60",
+          "end_ref": "44007060",
+          "end_ref_usfm": "ACT 7:60"
+        },
+        {
+          "start_ref": "44008004",
+          "start_ref_usfm": "ACT 8:4",
+          "end_ref": "44008004",
+          "end_ref_usfm": "ACT 8:4"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011019",
+          "end_ref_usfm": "ACT 11:19"
+        },
+        {
+          "start_ref": "44022020",
+          "start_ref_usfm": "ACT 22:20",
+          "end_ref": "44022020",
+          "end_ref_usfm": "ACT 22:20"
+        },
+        {
+          "start_ref": "66002010",
+          "start_ref_usfm": "REV 2:10",
+          "end_ref": "66002010",
+          "end_ref_usfm": "REV 2:10"
+        },
+        {
+          "start_ref": "66002013",
+          "start_ref_usfm": "REV 2:13",
+          "end_ref": "66002013",
+          "end_ref_usfm": "REV 2:13"
+        },
+        {
+          "start_ref": "44006001",
+          "start_ref_usfm": "ACT 6:1",
+          "end_ref": "44006006",
+          "end_ref_usfm": "ACT 6:6"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011021",
+          "end_ref_usfm": "ACT 11:21"
+        },
+        {
+          "start_ref": "44007001",
+          "start_ref_usfm": "ACT 7:1",
+          "end_ref": "44007053",
+          "end_ref_usfm": "ACT 7:53"
+        },
+        {
+          "start_ref": "44007054",
+          "start_ref_usfm": "ACT 7:54",
+          "end_ref": "44007060",
+          "end_ref_usfm": "ACT 7:60"
+        },
+        {
+          "start_ref": "44008001",
+          "start_ref_usfm": "ACT 8:1",
+          "end_ref": "44008003",
+          "end_ref_usfm": "ACT 8:3"
+        },
+        {
+          "start_ref": "44008001",
+          "start_ref_usfm": "ACT 8:1",
+          "end_ref": "44008004",
+          "end_ref_usfm": "ACT 8:4"
+        },
+        {
+          "start_ref": "44007051",
+          "start_ref_usfm": "ACT 7:51",
+          "end_ref": "44007053",
+          "end_ref_usfm": "ACT 7:53"
+        },
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006010",
+          "end_ref_usfm": "ACT 6:10"
+        },
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006012",
+          "end_ref_usfm": "ACT 6:12"
+        },
+        {
+          "start_ref": "44006013",
+          "start_ref_usfm": "ACT 6:13",
+          "end_ref": "44006014",
+          "end_ref_usfm": "ACT 6:14"
+        },
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44008002",
+          "end_ref_usfm": "ACT 8:2"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

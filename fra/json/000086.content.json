@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 668947,
+    "reference_id": 203489,
+    "title": "Marthe, Marie et Lazare",
+    "media_type": "Text",
+    "index_reference": "marthe, marie et lazare",
+    "language": "fra",
+    "content": "<p>Les sœurs Marthe et Marie vivaient avec leur frère Lazare à Béthanie, près de Jérusalem. Jésus aimait cette famille et passait du temps avec eux. Les Évangiles de Luc et de Jean mentionnent Marthe et Marie, tandis que Lazare n’apparaît que dans l’Évangile de Jean. Ce Lazare n’est pas le mendiant des versets <a href=\"https://ref.ly/Luke16:19-Luke16:31\">Lc&nbsp;16.19–31</a>.</p><p>Le récit de Luc sur ces deux sœurs (<a href=\"https://ref.ly/Luke10:38-Luke10:42\">Lc&nbsp;10.38–42</a>) met en évidence le contraste entre Marthe et Marie. Lorsque Jésus a visité leur maison, Marthe était occupée dans la cuisine et s’est fâchée contre sa sœur pour ne pas l’avoir aidée à préparer le repas. Jésus a défendu le choix de Marie de s’asseoir et d’apprendre de lui, disant que c’était la chose la plus importante.</p><p>L’Évangile de Jean raconte l’histoire de Jésus ressuscitant Lazare d’entre les morts (<a href=\"https://ref.ly/John11:1-John11:44\">Jn 11.1–44</a>). Jésus est arrivé à Béthanie quatre jours après la mort de Lazare. Les sœurs étaient bouleversées que Jésus ne soit pas venu plus tôt pour guérir leur frère. Jésus a été profondément ému par les larmes de la famille et des amis. Il est allé au tombeau et a dit à Lazare de sortir. À la surprise générale, Lazare est sorti, encore enveloppé dans des linges funéraires. Ce miracle montre Jésus comme le donateur de la vie éternelle (<a href=\"https://ref.ly/John11:25-John11:26\">Jn 11.25–26</a>). Ironiquement, cet acte a également poussé les chefs juifs à planifier la mort de Jésus parce que beaucoup de gens croyaient aux miracles de Jésus (<a href=\"https://ref.ly/John11:47-John11:53\">Jn&nbsp;11.47–53</a>&nbsp;; <a href=\"https://ref.ly/John12:10-John12:11\">12.10–11</a>).</p><p>Peu de temps après, la famille invita Jésus chez eux pour un repas de célébration. Marie versa un flacon de parfum très coûteux sur Jésus. Quand les gens la critiquèrent pour ce gaspillage, Jésus la défendit. Il dit que son geste anticipait sa mort prochaine (<a href=\"https://ref.ly/John12:1-John12:8\">Jn&nbsp;12.1–8</a>&nbsp;; voir aussi <a href=\"https://ref.ly/Matt26:6-Matt26:13\">Mt&nbsp;26.6–13</a>&nbsp;; <a href=\"https://ref.ly/Mark14:3-Mark14:9\">Mc&nbsp;14.3–9</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Matt26:6-Matt26:13\">Mt&nbsp;26.6–13</a>&nbsp;; <a href=\"https://ref.ly/Mark14:3-Mark14:9\">Mc&nbsp;14.3–9</a>&nbsp;; <a href=\"https://ref.ly/Luke10:38-Luke10:42\">Lc 10.38–42</a>&nbsp;; <a href=\"https://ref.ly/John11:1-John11:44\">Jn&nbsp;11.1–44</a>&nbsp;; <a href=\"https://ref.ly/John12:1-John12:11\">12.1–11</a>, <a href=\"https://ref.ly/John12:17\">17</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43012017",
+          "start_ref_usfm": "JHN 12:17",
+          "end_ref": "43012017",
+          "end_ref_usfm": "JHN 12:17"
+        },
+        {
+          "start_ref": "42016019",
+          "start_ref_usfm": "LUK 16:19",
+          "end_ref": "42016031",
+          "end_ref_usfm": "LUK 16:31"
+        },
+        {
+          "start_ref": "40026006",
+          "start_ref_usfm": "MAT 26:6",
+          "end_ref": "40026013",
+          "end_ref_usfm": "MAT 26:13"
+        },
+        {
+          "start_ref": "41014003",
+          "start_ref_usfm": "MRK 14:3",
+          "end_ref": "41014009",
+          "end_ref_usfm": "MRK 14:9"
+        },
+        {
+          "start_ref": "43011025",
+          "start_ref_usfm": "JHN 11:25",
+          "end_ref": "43011026",
+          "end_ref_usfm": "JHN 11:26"
+        },
+        {
+          "start_ref": "43011001",
+          "start_ref_usfm": "JHN 11:1",
+          "end_ref": "43011044",
+          "end_ref_usfm": "JHN 11:44"
+        },
+        {
+          "start_ref": "42010038",
+          "start_ref_usfm": "LUK 10:38",
+          "end_ref": "42010042",
+          "end_ref_usfm": "LUK 10:42"
+        },
+        {
+          "start_ref": "43012010",
+          "start_ref_usfm": "JHN 12:10",
+          "end_ref": "43012011",
+          "end_ref_usfm": "JHN 12:11"
+        },
+        {
+          "start_ref": "43012001",
+          "start_ref_usfm": "JHN 12:1",
+          "end_ref": "43012011",
+          "end_ref_usfm": "JHN 12:11"
+        },
+        {
+          "start_ref": "43012001",
+          "start_ref_usfm": "JHN 12:1",
+          "end_ref": "43012008",
+          "end_ref_usfm": "JHN 12:8"
+        },
+        {
+          "start_ref": "43011047",
+          "start_ref_usfm": "JHN 11:47",
+          "end_ref": "43011053",
+          "end_ref_usfm": "JHN 11:53"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

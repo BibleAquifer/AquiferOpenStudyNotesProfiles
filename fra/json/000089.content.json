@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 668887,
+    "reference_id": 203429,
+    "title": "Mical",
+    "media_type": "Text",
+    "index_reference": "mical",
+    "language": "fra",
+    "content": "<p>Mical était la fille cadette du roi Saül (<a href=\"https://ref.ly/1Sam14:49\">1S&nbsp;14.49</a>). Elle fut la première épouse du roi David (<a href=\"https://ref.ly/1Sam18:17-1Sam18:27\">18.17–27</a>). Elle a joué un rôle important dans la période de transition entre le règne de Saül et celui de David.</p><p>Dans le Proche-Orient ancien, les familles dirigeantes arrangeaient souvent des mariages pour des raisons politiques. Saül essaya de piéger David en lui promettant sa fille aînée, Mérab, s’il combattait les Philistins. David, un puissant guerrier, gagnait en influence dans le royaume de Saül. Le roi aurait dû se réjouir d’avoir un tel allié, mais il devint rapidement jaloux du succès de David et méfiant à son égard.</p><p>Saül espérait que David mourrait au combat, mais le plan échoua. Plus tard, Saül découvrit que sa fille cadette, Mical, aimait David (<a href=\"https://ref.ly/1Sam18:20\">1S&nbsp;18.20</a>), ce qui lui donna une autre chance d’inciter David à combattre les Philistins. Cette fois, David accepta. Lorsqu’il revint victorieux, Saül dut lui donner sa fille en mariage. Cette alliance matrimoniale renforça la position de David alors qu’il bâtissait sa réputation auprès des tribus du nord (<a href=\"https://ref.ly/2Sam3:13-2Sam3:16\">2S&nbsp;3.13–16</a>).</p><p>Au début de leur relation, Mical aimait David et alla même jusqu’à tromper son père pour l’aider à échapper à un complot visant à le tuer (<a href=\"https://ref.ly/1Sam19:11-1Sam19:17\">1S&nbsp;19.11–17</a>). Après le départ de David de la cour de Saül, ce dernier arrangea un autre mariage pour elle (<a href=\"https://ref.ly/1Sam25:44\">1S&nbsp;25.44</a>). Plus tard, David mit fin à ce mariage pour la ramener auprès de lui (<a href=\"https://ref.ly/2Sam3:13-2Sam3:16\">2S&nbsp;3.13–16</a>). Cependant, Mical manifesta du mépris envers David lorsqu’il dansa avec joie devant l’arche de l’alliance à son entrée à Jérusalem (<a href=\"https://ref.ly/2Sam6:16-2Sam6:23\">2S&nbsp;6.16–23</a>). À cause de son attitude irrespectueuse envers le roi David, Mical ne put pas avoir d’enfants.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/1Sam14:49\">1S&nbsp;14.49</a>&nbsp;; <a href=\"https://ref.ly/1Sam18:17-1Sam18:30\">18.17–30</a>&nbsp;; <a href=\"https://ref.ly/1Sam19:11-1Sam19:17\">19.11–17</a>&nbsp;; <a href=\"https://ref.ly/2Sam3:13-2Sam3:16\">2S&nbsp;3.13–16</a>&nbsp;; <a href=\"https://ref.ly/2Sam6:16-2Sam6:23\">6.16–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09014049",
+          "start_ref_usfm": "1SA 14:49",
+          "end_ref": "09014049",
+          "end_ref_usfm": "1SA 14:49"
+        },
+        {
+          "start_ref": "09018020",
+          "start_ref_usfm": "1SA 18:20",
+          "end_ref": "09018020",
+          "end_ref_usfm": "1SA 18:20"
+        },
+        {
+          "start_ref": "09025044",
+          "start_ref_usfm": "1SA 25:44",
+          "end_ref": "09025044",
+          "end_ref_usfm": "1SA 25:44"
+        },
+        {
+          "start_ref": "09019011",
+          "start_ref_usfm": "1SA 19:11",
+          "end_ref": "09019017",
+          "end_ref_usfm": "1SA 19:17"
+        },
+        {
+          "start_ref": "10006016",
+          "start_ref_usfm": "2SA 6:16",
+          "end_ref": "10006023",
+          "end_ref_usfm": "2SA 6:23"
+        },
+        {
+          "start_ref": "09018017",
+          "start_ref_usfm": "1SA 18:17",
+          "end_ref": "09018027",
+          "end_ref_usfm": "1SA 18:27"
+        },
+        {
+          "start_ref": "10003013",
+          "start_ref_usfm": "2SA 3:13",
+          "end_ref": "10003016",
+          "end_ref_usfm": "2SA 3:16"
+        },
+        {
+          "start_ref": "09018017",
+          "start_ref_usfm": "1SA 18:17",
+          "end_ref": "09018030",
+          "end_ref_usfm": "1SA 18:30"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

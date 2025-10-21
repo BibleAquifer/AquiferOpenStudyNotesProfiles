@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 658417,
+    "reference_id": 203492,
+    "title": "Samaritanos",
+    "media_type": "Text",
+    "index_reference": "samaritanos",
+    "language": "spa",
+    "content": "<p>Samaria era una región al norte de Judea, centrada alrededor de la antigua ciudad de Siquem, conocida como Sicar en el Nuevo Testamento. Después de la conquista de Israel en 722 a.C., las ciudades de Samaria y Siquem fueron destruidas. Personas de todo el imperio asirio repoblaron el área (<a href=\"https://ref.ly/2Kgs17:21-2Kgs17:41\">2 Re 17:21–41</a>). Estos nuevos residentes introdujeron muchas prácticas paganas, lo que hizo que la impureza religiosa de la región fuera bien conocida. Con el tiempo, la creencia judía en un solo Dios se convirtió en la principal, aunque algunos aspectos de cómo las personas practicaban la fe cambiaron. Los samaritanos solo aceptaban el Pentateuco (los primeros cinco libros del Antiguo Testamento) como Escritura y adoraban en un nuevo templo en el Monte Gerizim, sobre Siquem.</p><p>Los samaritanos y los judíos tenían una larga historia de conflicto, que comenzó después de que los judíos regresaron del exilio (ver <a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">Esd 4:1–5,</a> <a href=\"https://ref.ly/Neh4:1-Neh4:23\">Ne 4:1–23</a>). Alejandro Magno y más tarde los generales griegos hicieron de Siquem una base importante porque encontraron aliados anti-judíos allí. En 128 a.C., los judíos destruyeron Siquem y quemaron el templo samaritano en el Monte Gerizim. Entre el 6 y el 9 d.C., los samaritanos se vengaron deshonrando el Templo de Jerusalén al esparcir huesos humanos de un cementerio durante la Pascua. Para la época de Jesús, la tensión entre Judea y Samaria seguía siendo fuerte.</p><p>En la época de Jesús, los judíos evitaban viajar por Samaria porque consideraban a sus habitantes hostiles e impuros. Cuando Jesús viajó por Samaria y se encontró con una mujer samaritana, las tensiones de esta relación eran evidentes. Alguien que viviera en el primer siglo difícilmente esperaría que Jesús y la mujer se reconocieran, y mucho menos que conversaran. Sin embargo, Jesús trascendió su identidad étnica e invitó incluso a una mujer samaritana con mala reputación a creer.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/2Kgs17:21-2Kgs17:41\">2 Reyes 17:21–41,</a> <a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">Esdras 4:1–5,</a> <a href=\"https://ref.ly/Neh4:1-Neh4:23\">Nehemías 4:1–23,</a> <a href=\"https://ref.ly/John4:1-John4:42\">Juan 4:1–42</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15004001",
+          "start_ref_usfm": "EZR 4:1",
+          "end_ref": "15004005",
+          "end_ref_usfm": "EZR 4:5"
+        },
+        {
+          "start_ref": "43004001",
+          "start_ref_usfm": "JHN 4:1",
+          "end_ref": "43004042",
+          "end_ref_usfm": "JHN 4:42"
+        },
+        {
+          "start_ref": "16004001",
+          "start_ref_usfm": "NEH 4:1",
+          "end_ref": "16004023",
+          "end_ref_usfm": "NEH 4:23"
+        },
+        {
+          "start_ref": "12017021",
+          "start_ref_usfm": "2KI 17:21",
+          "end_ref": "12017041",
+          "end_ref_usfm": "2KI 17:41"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 658519,
+    "reference_id": 203442,
+    "title": "Roboão",
+    "media_type": "Text",
+    "index_reference": "roboão",
+    "language": "por",
+    "content": "<p>Roboão era filho de Salomão e de uma mulher amonita (<a href=\"https://ref.ly/1Kgs14:21\">1Rs 14.21</a>). Ele se tornou rei aos quarenta e um anos. Governou por dezessete anos, de 931 a 913 a.C. É conhecido por causar a divisão do reino de Salomão e por ser o primeiro rei de Judá, o reino do sul.</p><p>Quando Salomão morreu em 931 a.C., Judá rapidamente fez de Roboão rei. As dez tribos do norte hesitaram em apoiá-lo, pois desejavam alívio das políticas severas de Salomão (veja <a href=\"https://ref.ly/1Kgs12:4\">1Rs 12.4</a>; <a href=\"https://ref.ly/2Chr10:4\">2Cr 10.4</a>). Os conselheiros mais velhos do rei sugeriram que ele atendesse aos pedidos delas, mas ele os ignorou. Em vez disso, ele ouviu conselheiros mais jovens que lhe disseram para ser mais severo do que seu pai. As tribos do norte se rebelaram e fizeram de Jeroboão, antigo oficial de trabalho de Salomão, seu rei. Roboão foi à guerra para controlar o norte, mas Deus enviou o profeta Semaías para lhe dizer que era inútil. A divisão era o julgamento de Deus (<a href=\"https://ref.ly/2Chr11:1-2Chr11:4\">2Cr 11.1–4</a>). Assim, Roboão voltou para Judá e fortaleceu suas fronteiras (<a href=\"https://ref.ly/2Chr11:5-2Chr11:12\">2Cr 11.5–12</a>).</p><p>Quando Jeroboão iniciou uma nova religião falsa no reino do norte, sacerdotes e levitas se mudaram para o sul. Eles fortaleceram a vida espiritual da região e ajudaram a manter Judá estável (<a href=\"https://ref.ly/2Chr11:13-2Chr11:17\">2Cr 11.13–17</a>). No entanto, Roboão eventualmente também se voltou para a adoração de ídolos. O povo de Judá construiu altos e santuários pagãos por toda a terra, adotando práticas religiosas corruptas de nações vizinhas (<a href=\"https://ref.ly/1Kgs14:22-1Kgs14:24\">1Rs 14.22–24</a>). Deus deixou de apoiar Roboão, tornando-o vulnerável quando o Rei Sisaque do Egito atacou em 926 a 925 a.C. e levou muitos itens valiosos do templo (<a href=\"https://ref.ly/1Kgs14:25-1Kgs14:26\">1Rs 14.25–26</a>; <a href=\"https://ref.ly/2Chr12:1-2Chr12:5\">2Cr 12.1–5</a>). Roboão então substituiu os escudos de ouro de Salomão por escudos de bronze (<a href=\"https://ref.ly/1Kgs14:27\">1Rs 14.27</a>). Isso simbolizou a perda da glória de Judá devido à adoração falsa.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/1Kgs12:1-1Kgs12:24\">1 Reis 12.1–24</a>; <a href=\"https://ref.ly/1Kgs14:21-1Kgs14:31\">14.21–31</a>; <a href=\"https://ref.ly/2Chr9:31-2Chr12:16\">2 Crônicas 9.31–12.16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11012004",
+          "start_ref_usfm": "1KI 12:4",
+          "end_ref": "11012004",
+          "end_ref_usfm": "1KI 12:4"
+        },
+        {
+          "start_ref": "11014021",
+          "start_ref_usfm": "1KI 14:21",
+          "end_ref": "11014021",
+          "end_ref_usfm": "1KI 14:21"
+        },
+        {
+          "start_ref": "11014027",
+          "start_ref_usfm": "1KI 14:27",
+          "end_ref": "11014027",
+          "end_ref_usfm": "1KI 14:27"
+        },
+        {
+          "start_ref": "14010004",
+          "start_ref_usfm": "2CH 10:4",
+          "end_ref": "14010004",
+          "end_ref_usfm": "2CH 10:4"
+        },
+        {
+          "start_ref": "11014022",
+          "start_ref_usfm": "1KI 14:22",
+          "end_ref": "11014024",
+          "end_ref_usfm": "1KI 14:24"
+        },
+        {
+          "start_ref": "11014025",
+          "start_ref_usfm": "1KI 14:25",
+          "end_ref": "11014026",
+          "end_ref_usfm": "1KI 14:26"
+        },
+        {
+          "start_ref": "14011001",
+          "start_ref_usfm": "2CH 11:1",
+          "end_ref": "14011004",
+          "end_ref_usfm": "2CH 11:4"
+        },
+        {
+          "start_ref": "14011013",
+          "start_ref_usfm": "2CH 11:13",
+          "end_ref": "14011017",
+          "end_ref_usfm": "2CH 11:17"
+        },
+        {
+          "start_ref": "14011005",
+          "start_ref_usfm": "2CH 11:5",
+          "end_ref": "14011012",
+          "end_ref_usfm": "2CH 11:12"
+        },
+        {
+          "start_ref": "11014021",
+          "start_ref_usfm": "1KI 14:21",
+          "end_ref": "11014031",
+          "end_ref_usfm": "1KI 14:31"
+        },
+        {
+          "start_ref": "14012001",
+          "start_ref_usfm": "2CH 12:1",
+          "end_ref": "14012005",
+          "end_ref_usfm": "2CH 12:5"
+        },
+        {
+          "start_ref": "11012001",
+          "start_ref_usfm": "1KI 12:1",
+          "end_ref": "11012024",
+          "end_ref_usfm": "1KI 12:24"
+        },
+        {
+          "start_ref": "14009031",
+          "start_ref_usfm": "2CH 9:31",
+          "end_ref": "14012016",
+          "end_ref_usfm": "2CH 12:16"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

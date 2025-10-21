@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 500483,
+    "reference_id": 203426,
+    "title": "Eli",
+    "media_type": "Text",
+    "index_reference": "eli",
+    "language": "eng",
+    "content": "<p>Eli was Israel’s chief priest at the tabernacle in Shiloh, the central place of worship during the time of the judges. Eli likely descended from Ithamar, Aaron’s youngest son (see <a href=\"https://ref.ly/1Kgs2:27\">1 Kings 2:27</a>; <a href=\"https://ref.ly/1Chr18:16\">1 Chronicles 18:16</a>; <a href=\"https://ref.ly/1Chr24:3\">24:3</a>). Eli was sincere and devout, but he struggled to discipline his wicked sons, Hophni and Phinehas.</p><p>When Eli met Hannah at the tabernacle, he wrongly thought she was drunk because she prayed silently for a child. After realizing his mistake, Eli blessed Hannah. God answered her prayer by giving her a son named Samuel.</p><p>Samuel gained favor with the Lord and the people (<a href=\"https://ref.ly/1Sam2:26\">1 Samuel 2:26</a>). But Eli&apos;s sons were disrespectful and dishonest (<a href=\"https://ref.ly/1Sam2:12\">1 Samuel 2:12</a>). They stole from offerings and seduced women serving at the tabernacle. When Eli scolded them, they ignored him. God sent a prophet to criticize Eli&apos;s weakness and his sons&apos; wrongdoing, announcing that God would remove the priesthood from Eli&apos;s family (<a href=\"https://ref.ly/1Sam2:27-1Sam2:36\">1 Samuel 2:27–36</a>). This message was confirmed when God spoke to Samuel one night, telling him that he would soon punish Eli&apos;s family (<a href=\"https://ref.ly/1Sam3:1-1Sam3:14\">1 Samuel 3:1–14</a>). </p><p>Soon after, Israel&apos;s army lost a battle to the Philistines, the ark of the covenant was captured, and Eli&apos;s sons died (<a href=\"https://ref.ly/1Sam4:1-1Sam4:11\">1 Samuel 4:1–11</a>). When Eli, who was ninety-eight years old, heard the news, he fell backward, broke his neck, and died (<a href=\"https://ref.ly/1Sam4:12-1Sam4:18\">1 Samuel 4:12–18</a>). His daughter-in-law went into labor and died while giving birth to Eli&apos;s grandson, named Ichabod (meaning &quot;where is the glory?,&quot; because the glory had left Israel (<a href=\"https://ref.ly/1Sam4:19-1Sam4:22\">1 Samuel 4:19–22</a>).</p><p>Eli&apos;s family continued serving as priests until King David died. Abiathar was the last of Eli&apos;s descendants to serve as chief priest. Solomon removed Abiathar from being priest because Abiathar had supported Adonijah, who tried to become king instead of Solomon. Solomon then made Zadok the chief priest (<a href=\"https://ref.ly/1Kgs2:27\">1 Kings 2:27</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Sam1:9-1Sam1:18\">1 Samuel 1:9–18</a>, <a href=\"https://ref.ly/1Sam1:25-1Sam1:28\">25–28</a>; <a href=\"https://ref.ly/1Sam2:11-1Sam4:22\">1 Samuel 2:11–4:22</a>; <a href=\"https://ref.ly/1Kgs2:27\">1 Kings 2:27</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09002012",
+          "start_ref_usfm": "1SA 2:12",
+          "end_ref": "09002012",
+          "end_ref_usfm": "1SA 2:12"
+        },
+        {
+          "start_ref": "09002026",
+          "start_ref_usfm": "1SA 2:26",
+          "end_ref": "09002026",
+          "end_ref_usfm": "1SA 2:26"
+        },
+        {
+          "start_ref": "11002027",
+          "start_ref_usfm": "1KI 2:27",
+          "end_ref": "11002027",
+          "end_ref_usfm": "1KI 2:27"
+        },
+        {
+          "start_ref": "13018016",
+          "start_ref_usfm": "1CH 18:16",
+          "end_ref": "13018016",
+          "end_ref_usfm": "1CH 18:16"
+        },
+        {
+          "start_ref": "13024003",
+          "start_ref_usfm": "1CH 24:3",
+          "end_ref": "13024003",
+          "end_ref_usfm": "1CH 24:3"
+        },
+        {
+          "start_ref": "09004001",
+          "start_ref_usfm": "1SA 4:1",
+          "end_ref": "09004011",
+          "end_ref_usfm": "1SA 4:11"
+        },
+        {
+          "start_ref": "09004019",
+          "start_ref_usfm": "1SA 4:19",
+          "end_ref": "09004022",
+          "end_ref_usfm": "1SA 4:22"
+        },
+        {
+          "start_ref": "09002027",
+          "start_ref_usfm": "1SA 2:27",
+          "end_ref": "09002036",
+          "end_ref_usfm": "1SA 2:36"
+        },
+        {
+          "start_ref": "09003001",
+          "start_ref_usfm": "1SA 3:1",
+          "end_ref": "09003014",
+          "end_ref_usfm": "1SA 3:14"
+        },
+        {
+          "start_ref": "09004012",
+          "start_ref_usfm": "1SA 4:12",
+          "end_ref": "09004018",
+          "end_ref_usfm": "1SA 4:18"
+        },
+        {
+          "start_ref": "09001009",
+          "start_ref_usfm": "1SA 1:9",
+          "end_ref": "09001018",
+          "end_ref_usfm": "1SA 1:18"
+        },
+        {
+          "start_ref": "09001025",
+          "start_ref_usfm": "1SA 1:25",
+          "end_ref": "09001028",
+          "end_ref_usfm": "1SA 1:28"
+        },
+        {
+          "start_ref": "09002011",
+          "start_ref_usfm": "1SA 2:11",
+          "end_ref": "09004022",
+          "end_ref_usfm": "1SA 4:22"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

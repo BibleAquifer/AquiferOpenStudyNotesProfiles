@@ -1,0 +1,124 @@
+[
+  {
+    "content_id": 658476,
+    "reference_id": 203399,
+    "title": "Ló",
+    "media_type": "Text",
+    "index_reference": "ló",
+    "language": "por",
+    "content": "<p>Ló era sobrinho de Abraão e ancestral dos moabitas e amonitas. Assim como Abraão, Ló nasceu em Ur e viajou com Terá para Harã (<a href=\"https://ref.ly/Gen11:27-Gen11:32\">Gn 11.27–32</a>). Após a morte de Terá, Ló juntou-se a Abraão na jornada para Canaã e Egito.</p><p>Quando Ló e Abraão retornaram do Egito para Canaã, seus rebanhos e manadas tornaram-se grandes demais para que pudessem viver juntos. Então, Abraão permitiu que Ló escolhesse uma terra para si. Ló escolheu a fértil planície do Jordão, que era como &quot;o jardim do Senhor&quot; (<a href=\"https://ref.ly/Gen13:10\">Gn 13.10</a>). Eventualmente, ele se estabeleceu em Sodoma. O crescente envolvimento de Ló com as cidades corruptas da planície enfraqueceu seus valores morais.</p><p>Enquanto Ló vivia em Sodoma, quatro reis mesopotâmicos derrotaram os reis de cinco cidades vizinhas. Eles saquearam as cidades que haviam derrotado e levaram Ló, sua família e seus bens (<a href=\"https://ref.ly/Gen14:1-Gen14:12\">Gn 14.1–12</a>). Quando Abraão soube disso, ele liderou um ataque contra os invasores e resgatou os prisioneiros e os bens (<a href=\"https://ref.ly/Gen14:13-Gen14:16\">Gn 14.13–16</a>).</p><p>Devido à maldade de Sodoma e Gomorra, Deus decidiu destruir essas cidades. Ele enviou dois anjos a Ló em Sodoma para instá-lo a deixar a cidade que estava prestes a ser destruída (<a href=\"https://ref.ly/Gen19:1-Gen19:15\">Gn 19.1–15</a>). A maldade da cidade ficou clara quando houve uma tentativa de ataque aos visitantes. A oferta de Ló de sacrificar suas filhas e sua hesitação em partir mostraram seu declínio moral. Apenas sua família imediata saiu com ele, e sua esposa foi destruída quando desobedeceu ao olhar para trás.</p><p>Após a destruição de Sodoma, as filhas de Ló, preocupadas por não terem maridos, embriagaram Ló para terem filhos com ele. Seus filhos, Moabe e Ben-Ami, tornaram-se ancestrais dos moabitas e amonitas (<a href=\"https://ref.ly/Gen19:30-Gen19:38\">Gn 19.30–38</a>). Essas duas nações tornaram-se inimigas constantes de Israel (veja <a href=\"https://ref.ly/Deut23:3-Deut23:6\">Dt 23.3–6</a>). Apesar das ações de Ló, Pedro descreve Ló como um “homem justo, que vivia entre eles dia após dia, era atormentado em sua alma justa pelos atos iníquos que via e ouvia” (veja <a href=\"https://ref.ly/2Pet2:6-2Pet2:9\">2Pe 2.6–9</a>). Esta visão de Ló pode vir da tradição judaica, pois é difícil de ver na história de Gênesis.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen11:27\">Gênesis 11.27</a>,<a href=\"https://ref.ly/Gen11:31\">31</a>; <a href=\"https://ref.ly/Gen12:4-Gen12:5\">12.4–5</a>; <a href=\"https://ref.ly/Gen13:1-Gen13:14\">13.1–14</a>; <a href=\"https://ref.ly/Gen14:12-Gen14:16\">14.12–16</a>; <a href=\"https://ref.ly/Gen19:1-Gen19:38\">19.1–38</a>; <a href=\"https://ref.ly/Deut2:9\">Deuteronômio 2.9</a>,<a href=\"https://ref.ly/Deut2:17-Deut2:19\">17–19</a>; <a href=\"https://ref.ly/Ps83:4-Ps83:8\">Salmos 83.4–8</a>; <a href=\"https://ref.ly/Luke17:28-Luke17:33\">Lucas 17.28–33</a>; <a href=\"https://ref.ly/2Pet2:6-2Pet2:9\">2 Pedro 2.6–9</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011027",
+          "start_ref_usfm": "GEN 11:27",
+          "end_ref": "01011027",
+          "end_ref_usfm": "GEN 11:27"
+        },
+        {
+          "start_ref": "01011031",
+          "start_ref_usfm": "GEN 11:31",
+          "end_ref": "01011031",
+          "end_ref_usfm": "GEN 11:31"
+        },
+        {
+          "start_ref": "01013010",
+          "start_ref_usfm": "GEN 13:10",
+          "end_ref": "01013010",
+          "end_ref_usfm": "GEN 13:10"
+        },
+        {
+          "start_ref": "05002009",
+          "start_ref_usfm": "DEU 2:9",
+          "end_ref": "05002009",
+          "end_ref_usfm": "DEU 2:9"
+        },
+        {
+          "start_ref": "01011027",
+          "start_ref_usfm": "GEN 11:27",
+          "end_ref": "01011032",
+          "end_ref_usfm": "GEN 11:32"
+        },
+        {
+          "start_ref": "01019030",
+          "start_ref_usfm": "GEN 19:30",
+          "end_ref": "01019038",
+          "end_ref_usfm": "GEN 19:38"
+        },
+        {
+          "start_ref": "01019001",
+          "start_ref_usfm": "GEN 19:1",
+          "end_ref": "01019038",
+          "end_ref_usfm": "GEN 19:38"
+        },
+        {
+          "start_ref": "01014013",
+          "start_ref_usfm": "GEN 14:13",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        },
+        {
+          "start_ref": "01014012",
+          "start_ref_usfm": "GEN 14:12",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        },
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014012",
+          "end_ref_usfm": "GEN 14:12"
+        },
+        {
+          "start_ref": "05023003",
+          "start_ref_usfm": "DEU 23:3",
+          "end_ref": "05023006",
+          "end_ref_usfm": "DEU 23:6"
+        },
+        {
+          "start_ref": "01012004",
+          "start_ref_usfm": "GEN 12:4",
+          "end_ref": "01012005",
+          "end_ref_usfm": "GEN 12:5"
+        },
+        {
+          "start_ref": "01019001",
+          "start_ref_usfm": "GEN 19:1",
+          "end_ref": "01019015",
+          "end_ref_usfm": "GEN 19:15"
+        },
+        {
+          "start_ref": "61002006",
+          "start_ref_usfm": "2PE 2:6",
+          "end_ref": "61002009",
+          "end_ref_usfm": "2PE 2:9"
+        },
+        {
+          "start_ref": "01013001",
+          "start_ref_usfm": "GEN 13:1",
+          "end_ref": "01013014",
+          "end_ref_usfm": "GEN 13:14"
+        },
+        {
+          "start_ref": "05002017",
+          "start_ref_usfm": "DEU 2:17",
+          "end_ref": "05002019",
+          "end_ref_usfm": "DEU 2:19"
+        },
+        {
+          "start_ref": "19083004",
+          "start_ref_usfm": "PSA 83:4",
+          "end_ref": "19083008",
+          "end_ref_usfm": "PSA 83:8"
+        },
+        {
+          "start_ref": "42017028",
+          "start_ref_usfm": "LUK 17:28",
+          "end_ref": "42017033",
+          "end_ref_usfm": "LUK 17:33"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 658386,
+    "reference_id": 203461,
+    "title": "Nehemías",
+    "media_type": "Text",
+    "index_reference": "nehemías",
+    "language": "spa",
+    "content": "<p>Nehemías fue un líder destacado del pueblo de Dios en Judá después del exilio en Babilonia. Motivó y fortaleció al pueblo de Dios durante tiempos difíciles.</p><p>Antes de que Nehemías regresara a Judea, sirvió como copero del rey persa Artajerjes I, quien gobernó desde 465 hasta 424 a.C. El copero llevaba vino al rey, probándolo primero para asegurarse de que no estuviera envenenado. Era un consejero de confianza. Nehemías escuchó sobre la mala condición de Jerusalén y sintió compasión. Solicitó al rey permiso para regresar a Judá y ayudar a su pueblo. El rey accedió y lo nombró gobernador de Judá por doce años para asistir a sus compañeros judíos y reconstruir los muros de Jerusalén (<a href=\"https://ref.ly/Neh1:1-Neh2:8\">Nehemías 1:1–2:8</a>).</p><p>Nehemías contaba con el apoyo del rey persa, pero enfrentó la oposición de la población local. Estas personas, de ascendencia mixta, eran los antepasados de los samaritanos del Nuevo Testamento. Nehemías demostró gran valentía y habilidad al ayudar al pueblo de Judá a reconstruir los muros que protegían Jerusalén.</p><p>Nehemías tenía una fe sólida, demostrada por sus oraciones y su confianza en la guía y ayuda divina (<a href=\"https://ref.ly/Neh1:4-Neh1:11\">Nehemías 1:4–11,</a> <a href=\"https://ref.ly/Neh2:4\">2:4</a>, <a href=\"https://ref.ly/Neh2:8\">8</a>, <a href=\"https://ref.ly/Neh2:18\">18</a>, <a href=\"https://ref.ly/Neh2:20\">20</a>). También promovía la justicia económica. Criticó a algunos judíos ricos por aprovecharse de una escasez de alimentos al cobrar altos intereses a sus parientes más pobres. Él dio un ejemplo de mejor comportamiento (<a href=\"https://ref.ly/Neh5:1-Neh5:19\">Nehemías 5</a>).</p><p>Nehemías se preocupaba profundamente por la fidelidad del pueblo. Personalmente confrontó a los hombres que se habían casado con mujeres no judías (<a href=\"https://ref.ly/Neh13:23-Neh13:29\">Nehemías 13:23–29</a>). Estaba comprometido con mantener el culto en el templo. Lideró a la comunidad judía para prometer apoyo a los trabajadores del templo y para ofrecer ofrendas (<a href=\"https://ref.ly/Neh10:32-Neh10:39\">Nehemías 10:32–39</a>). También mejoró la manera en que observaban el sábado (<a href=\"https://ref.ly/Neh13:15-Neh13:22\">Nehemías 13:15–22</a>).</p><p>Aunque los problemas persistieron al final de su tiempo en Jerusalén (ver <a href=\"https://ref.ly/Neh13:1-Neh13:31\">Nehemías 13</a>), Nehemías fue un líder fuerte. Ayudó a los colonos judíos a recuperar su identidad nacional y religiosa durante un periodo de debilidad política y económica.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Neh1:1-Neh7:73\">Nehemías 1:1–7:73,</a> <a href=\"https://ref.ly/Neh8:9-Neh8:10\">8:9–10, </a><a href=\"https://ref.ly/Neh10:1-Neh13:31\">10:1–13:31</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16002004",
+          "start_ref_usfm": "NEH 2:4",
+          "end_ref": "16002004",
+          "end_ref_usfm": "NEH 2:4"
+        },
+        {
+          "start_ref": "16002008",
+          "start_ref_usfm": "NEH 2:8",
+          "end_ref": "16002008",
+          "end_ref_usfm": "NEH 2:8"
+        },
+        {
+          "start_ref": "16002018",
+          "start_ref_usfm": "NEH 2:18",
+          "end_ref": "16002018",
+          "end_ref_usfm": "NEH 2:18"
+        },
+        {
+          "start_ref": "16002020",
+          "start_ref_usfm": "NEH 2:20",
+          "end_ref": "16002020",
+          "end_ref_usfm": "NEH 2:20"
+        },
+        {
+          "start_ref": "16013001",
+          "start_ref_usfm": "NEH 13:1",
+          "end_ref": "16013031",
+          "end_ref_usfm": "NEH 13:31"
+        },
+        {
+          "start_ref": "16013023",
+          "start_ref_usfm": "NEH 13:23",
+          "end_ref": "16013029",
+          "end_ref_usfm": "NEH 13:29"
+        },
+        {
+          "start_ref": "16013015",
+          "start_ref_usfm": "NEH 13:15",
+          "end_ref": "16013022",
+          "end_ref_usfm": "NEH 13:22"
+        },
+        {
+          "start_ref": "16001001",
+          "start_ref_usfm": "NEH 1:1",
+          "end_ref": "16002008",
+          "end_ref_usfm": "NEH 2:8"
+        },
+        {
+          "start_ref": "16001004",
+          "start_ref_usfm": "NEH 1:4",
+          "end_ref": "16001011",
+          "end_ref_usfm": "NEH 1:11"
+        },
+        {
+          "start_ref": "16005001",
+          "start_ref_usfm": "NEH 5:1",
+          "end_ref": "16005019",
+          "end_ref_usfm": "NEH 5:19"
+        },
+        {
+          "start_ref": "16010032",
+          "start_ref_usfm": "NEH 10:32",
+          "end_ref": "16010039",
+          "end_ref_usfm": "NEH 10:39"
+        },
+        {
+          "start_ref": "16008009",
+          "start_ref_usfm": "NEH 8:9",
+          "end_ref": "16008010",
+          "end_ref_usfm": "NEH 8:10"
+        },
+        {
+          "start_ref": "16001001",
+          "start_ref_usfm": "NEH 1:1",
+          "end_ref": "16007073",
+          "end_ref_usfm": "NEH 7:73"
+        },
+        {
+          "start_ref": "16010001",
+          "start_ref_usfm": "NEH 10:1",
+          "end_ref": "16013031",
+          "end_ref_usfm": "NEH 13:31"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

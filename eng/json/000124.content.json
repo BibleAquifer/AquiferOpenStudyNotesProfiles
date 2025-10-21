@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 500531,
+    "reference_id": 203474,
+    "title": "Zerubbabel",
+    "media_type": "Text",
+    "index_reference": "zerubbabel",
+    "language": "eng",
+    "content": "<p>Zerubbabel was a Jew born in Babylon. He moved to Judea in 538 BC as the governor of Jerusalem under Persian rule. Cyrus, the king of Persia, allowed Jews who were captured and exiled from Judah to return home. Zerubbabel led one of the first groups of these returning exiles.</p><p>Zerubbabel arrived in Judea to rebuild the temple, starting with the altar. Sacrifices could resume once the Holy Place was ready. However, local opposition halted construction. The Judeans lost focus until Haggai and Zechariah&apos;s preaching motivated them to restart. Zerubbabel played a key role in leading and organizing the rebuilding, which took about six years, from 520 to 515 BC.</p><p>Many people expected great things from Zerubbabel because he was from King David&apos;s family (<a href=\"https://ref.ly/1Chr3:1-1Chr3:19\">1 Chronicles 3:1–19</a>). Zechariah and Haggai describe Zerubbabel in messianic terms as the one chosen by God to restore Israel (<a href=\"https://ref.ly/Hag2:21-Hag2:23\">Haggai 2:21–23</a>; <a href=\"https://ref.ly/Zech4:6-Zech4:7\">Zechariah 4:6–7</a>). However, Zerubbabel soon disappears from the biblical story without explanation. This early governor of Judea was not the Messiah. Instead, Jesus Christ, one of Zerubbabel’s descendants, would take on that glorious role (<a href=\"https://ref.ly/Matt1:12\">Matthew 1:12</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Ezra2:1-Ezra6:22\">Ezra 2:1–6:22</a>; <a href=\"https://ref.ly/Neh7:7\">Nehemiah 7:7</a>; <a href=\"https://ref.ly/Hag1:12-Hag2:23\">Haggai 1:12–2:23</a>; <a href=\"https://ref.ly/Zech4:1-Zech4:14\">Zechariah 4:1–14</a>; <a href=\"https://ref.ly/Matt1:12\">Matthew 1:12</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16007007",
+          "start_ref_usfm": "NEH 7:7",
+          "end_ref": "16007007",
+          "end_ref_usfm": "NEH 7:7"
+        },
+        {
+          "start_ref": "40001012",
+          "start_ref_usfm": "MAT 1:12",
+          "end_ref": "40001012",
+          "end_ref_usfm": "MAT 1:12"
+        },
+        {
+          "start_ref": "37002021",
+          "start_ref_usfm": "HAG 2:21",
+          "end_ref": "37002023",
+          "end_ref_usfm": "HAG 2:23"
+        },
+        {
+          "start_ref": "38004001",
+          "start_ref_usfm": "ZEC 4:1",
+          "end_ref": "38004014",
+          "end_ref_usfm": "ZEC 4:14"
+        },
+        {
+          "start_ref": "38004006",
+          "start_ref_usfm": "ZEC 4:6",
+          "end_ref": "38004007",
+          "end_ref_usfm": "ZEC 4:7"
+        },
+        {
+          "start_ref": "13003001",
+          "start_ref_usfm": "1CH 3:1",
+          "end_ref": "13003019",
+          "end_ref_usfm": "1CH 3:19"
+        },
+        {
+          "start_ref": "15002001",
+          "start_ref_usfm": "EZR 2:1",
+          "end_ref": "15006022",
+          "end_ref_usfm": "EZR 6:22"
+        },
+        {
+          "start_ref": "37001012",
+          "start_ref_usfm": "HAG 1:12",
+          "end_ref": "37002023",
+          "end_ref_usfm": "HAG 2:23"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

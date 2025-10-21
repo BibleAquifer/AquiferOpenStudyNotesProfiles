@@ -1,0 +1,124 @@
+[
+  {
+    "content_id": 658324,
+    "reference_id": 203399,
+    "title": "Lot",
+    "media_type": "Text",
+    "index_reference": "lot",
+    "language": "spa",
+    "content": "<p>Lot era el sobrino de Abram y el ancestro de los moabitas y ammonitas. Al igual que Abram, Lot nació en Ur y viajó con Thare a Harán (<a href=\"https://ref.ly/Gen11:27-Gen11:32\">Génesis 11.27–32</a>). Después de la muerte de Thare, Lot se unió a Abram en el viaje a Canaán y Egipto.</p><p>Cuando Lot y Abram regresaron de Egipto a Canaán, sus rebaños y manadas crecieron tanto que no podían vivir juntos. Entonces, Abram permitió que Lot eligiera una tierra para él. Lot escogió la fértil llanura del Jordán, que era como &quot;el jardín del Señor&quot; (<a href=\"https://ref.ly/Gen13:10\">Génesis 13.10</a>). Finalmente, se estableció en Sodoma. La creciente implicación de Lot con las corruptas ciudades de la llanura debilitó sus valores morales.</p><p>Mientras Lot vivía en Sodoma, cuatro reyes mesopotámicos vencieron a los reyes de cinco pueblos cercanos. Saquearon los pueblos que habían conquistado y se llevaron a Lot, su familia y sus pertenencias (<a href=\"https://ref.ly/Gen14:1-Gen14:12\">Génesis 14.1–12</a>). Cuando Abram se enteró de esto, lideró un ataque contra los invasores y rescató a los prisioneros y las propiedades (<a href=\"https://ref.ly/Gen14:13-Gen14:16\">Génesis 14.13–16</a>).</p><p>Debido a la maldad de Sodoma y Gomorra, Dios decidió destruir estas ciudades. Envió dos ángeles a Lot en Sodoma para instarlo a abandonar la ciudad que estaba a punto de ser destruida (<a href=\"https://ref.ly/Gen19:1-Gen19:15\">Génesis 19.1–15</a>). La maldad de la ciudad se evidenció cuando hubo un intento de ataque a los visitantes. La oferta de Lot de sacrificar a sus hijas y su vacilación para irse mostraron su declive moral. Solo su familia inmediata se fue con él, y su esposa fue destruida cuando desobedeció al mirar atrás.</p><p>Tras la destrucción de Sodoma, las hijas de Lot, preocupadas por no tener esposos, embriagaron a Lot para tener hijos con él. Sus hijos, Moab y <span>Ben-ammí</span>, se convirtieron en los ancestros de los moabitas y Ammonitas (<a href=\"https://ref.ly/Gen19:30-Gen19:38\">Génesis 19.30–38</a>). Estas dos naciones se convirtieron en enemigos constantes de Israel (ver <a href=\"https://ref.ly/Deut23:3-Deut23:6\">Deuteronomio 23.3–6</a>). A pesar de las acciones de Lot, Pedro describe a Lot como un “hombre justo, que vivía entre ellos día tras día, atormentado en su alma justa por las acciones sin ley que veía y oía” (ver <a href=\"https://ref.ly/2Pet2:6-2Pet2:9\">2 Pedro 2.6–9</a>). Esta visión de Lot puede derivar de la tradición judía, ya que es difícil de percibir en la historia de Génesis.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Gen11:27\">Génesis 11.27</a>, <a href=\"https://ref.ly/Gen11:31\">31</a>; <a href=\"https://ref.ly/Gen12:4-Gen12:5\">12.4–5;</a> <a href=\"https://ref.ly/Gen13:1-Gen13:14\">13.1–14;</a> <a href=\"https://ref.ly/Gen14:12-Gen14:16\">14.12–16;</a> <a href=\"https://ref.ly/Gen19:1-Gen19:38\">19.1–38</a>; <a href=\"https://ref.ly/Deut2:9\">Deuteronomio 2.9</a>, <a href=\"https://ref.ly/Deut2:17-Deut2:19\">17–19</a>; <a href=\"https://ref.ly/Ps83:4-Ps83:8\">Salmo 83.4–8;</a> <a href=\"https://ref.ly/Luke17:28-Luke17:33\">Lucas 17.28–33;</a> <a href=\"https://ref.ly/2Pet2:6-2Pet2:9\">2 Pedro 2.6–9</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011027",
+          "start_ref_usfm": "GEN 11:27",
+          "end_ref": "01011027",
+          "end_ref_usfm": "GEN 11:27"
+        },
+        {
+          "start_ref": "01011031",
+          "start_ref_usfm": "GEN 11:31",
+          "end_ref": "01011031",
+          "end_ref_usfm": "GEN 11:31"
+        },
+        {
+          "start_ref": "01013010",
+          "start_ref_usfm": "GEN 13:10",
+          "end_ref": "01013010",
+          "end_ref_usfm": "GEN 13:10"
+        },
+        {
+          "start_ref": "05002009",
+          "start_ref_usfm": "DEU 2:9",
+          "end_ref": "05002009",
+          "end_ref_usfm": "DEU 2:9"
+        },
+        {
+          "start_ref": "01011027",
+          "start_ref_usfm": "GEN 11:27",
+          "end_ref": "01011032",
+          "end_ref_usfm": "GEN 11:32"
+        },
+        {
+          "start_ref": "01019030",
+          "start_ref_usfm": "GEN 19:30",
+          "end_ref": "01019038",
+          "end_ref_usfm": "GEN 19:38"
+        },
+        {
+          "start_ref": "01019001",
+          "start_ref_usfm": "GEN 19:1",
+          "end_ref": "01019038",
+          "end_ref_usfm": "GEN 19:38"
+        },
+        {
+          "start_ref": "01014013",
+          "start_ref_usfm": "GEN 14:13",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        },
+        {
+          "start_ref": "01014012",
+          "start_ref_usfm": "GEN 14:12",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        },
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014012",
+          "end_ref_usfm": "GEN 14:12"
+        },
+        {
+          "start_ref": "05023003",
+          "start_ref_usfm": "DEU 23:3",
+          "end_ref": "05023006",
+          "end_ref_usfm": "DEU 23:6"
+        },
+        {
+          "start_ref": "01012004",
+          "start_ref_usfm": "GEN 12:4",
+          "end_ref": "01012005",
+          "end_ref_usfm": "GEN 12:5"
+        },
+        {
+          "start_ref": "01019001",
+          "start_ref_usfm": "GEN 19:1",
+          "end_ref": "01019015",
+          "end_ref_usfm": "GEN 19:15"
+        },
+        {
+          "start_ref": "61002006",
+          "start_ref_usfm": "2PE 2:6",
+          "end_ref": "61002009",
+          "end_ref_usfm": "2PE 2:9"
+        },
+        {
+          "start_ref": "01013001",
+          "start_ref_usfm": "GEN 13:1",
+          "end_ref": "01013014",
+          "end_ref_usfm": "GEN 13:14"
+        },
+        {
+          "start_ref": "05002017",
+          "start_ref_usfm": "DEU 2:17",
+          "end_ref": "05002019",
+          "end_ref_usfm": "DEU 2:19"
+        },
+        {
+          "start_ref": "19083004",
+          "start_ref_usfm": "PSA 83:4",
+          "end_ref": "19083008",
+          "end_ref_usfm": "PSA 83:8"
+        },
+        {
+          "start_ref": "42017028",
+          "start_ref_usfm": "LUK 17:28",
+          "end_ref": "42017033",
+          "end_ref_usfm": "LUK 17:33"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

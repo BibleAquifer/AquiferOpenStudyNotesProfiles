@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 500559,
+    "reference_id": 203502,
+    "title": "John Mark",
+    "media_type": "Text",
+    "index_reference": "john mark",
+    "language": "eng",
+    "content": "<p>John Mark, who wrote the first Gospel (the Gospel of Mark), helped three early missionaries: </p><ul><li><p>Barnabas</p></li><li><p>Paul</p></li><li><p>Peter</p></li></ul><p>Barnabas and Paul took Mark as an assistant on their first missionary journey. However, Mark left them and returned to Jerusalem before the trip ended (<a href=\"https://ref.ly/Acts12:25\">Acts 12:25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13:4–5</a>, <a href=\"https://ref.ly/Acts13:13\">13</a>). Because of this, when Barnabas wanted to bring Mark on the second trip, Paul refused. This disagreement split the team: Barnabas took Mark, his cousin, while Paul chose Silas. The two pairs then went their separate ways (<a href=\"https://ref.ly/Acts15:36-Acts15:41\">Acts 15:36–41</a>).</p><p>Later, Paul and Mark reconciled, and Mark became his assistant again. In Colossians, Paul calls Mark a coworker and suggests he might soon send him to visit the church in Colossae (<a href=\"https://ref.ly/Col4:10\">Colossians 4:10</a>; see also <a href=\"https://ref.ly/Phlm1:24\">Philemon 1:24</a>). Even later, when Paul awaited execution in a Roman prison, he asked Timothy to bring Mark because he believed Mark would be helpful in his ministry (<a href=\"https://ref.ly/2Tim4:11\">2 Timothy 4:11</a>).</p><p>Mark likely helped Peter with his missionary work in Italy near the end of Peter&apos;s life. In one of Peter&apos;s letters, he affectionately calls Mark his &quot;son&quot; who is with him (<a href=\"https://ref.ly/1Pet5:13\">1 Peter 5:13</a>). Early Christian tradition describes Mark as Peter&apos;s &quot;interpreter&quot; and suggests that Mark got his information about Jesus&apos; life and words directly from Peter (Eusebius, <em>Church History</em> 3.39.16). </p><p>Mark&apos;s Gospel is generally considered the earliest of all the Gospels. It was almost certainly a primary source for Matthew and Luke when they wrote their own Gospels. For this reason, Mark&apos;s Gospel is one of the most influential early Christian writings.</p><p>Mark&apos;s story shows that God can fix human mistakes and mend difficult relationships for Christ and the good news. Early failures do not stop someone from having a meaningful and impactful life of service.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts12:12\">Acts 12:12</a>, <a href=\"https://ref.ly/Acts12:25\">25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13:4–5</a>, <a href=\"https://ref.ly/Acts13:13\">13</a>; <a href=\"https://ref.ly/Acts15:36-Acts15:39\">15:36–39</a>; <a href=\"https://ref.ly/Col4:10\">Colossians 4:10</a>; <a href=\"https://ref.ly/2Tim4:11\">2 Timothy 4:11</a>; <a href=\"https://ref.ly/Phlm1:23-Phlm1:24\">Philemon 1:23–24</a>; <a href=\"https://ref.ly/1Pet5:13\">1 Peter 5:13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012012",
+          "start_ref_usfm": "ACT 12:12",
+          "end_ref": "44012012",
+          "end_ref_usfm": "ACT 12:12"
+        },
+        {
+          "start_ref": "44012025",
+          "start_ref_usfm": "ACT 12:25",
+          "end_ref": "44012025",
+          "end_ref_usfm": "ACT 12:25"
+        },
+        {
+          "start_ref": "44013013",
+          "start_ref_usfm": "ACT 13:13",
+          "end_ref": "44013013",
+          "end_ref_usfm": "ACT 13:13"
+        },
+        {
+          "start_ref": "51004010",
+          "start_ref_usfm": "COL 4:10",
+          "end_ref": "51004010",
+          "end_ref_usfm": "COL 4:10"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004011",
+          "end_ref_usfm": "2TI 4:11"
+        },
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "60005013",
+          "start_ref_usfm": "1PE 5:13",
+          "end_ref": "60005013",
+          "end_ref_usfm": "1PE 5:13"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "57001023",
+          "start_ref_usfm": "PHM 1:23",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "44013004",
+          "start_ref_usfm": "ACT 13:4",
+          "end_ref": "44013005",
+          "end_ref_usfm": "ACT 13:5"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015039",
+          "end_ref_usfm": "ACT 15:39"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

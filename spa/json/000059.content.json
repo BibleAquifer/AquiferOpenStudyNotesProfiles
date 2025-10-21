@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 658388,
+    "reference_id": 203463,
+    "title": "Jerjes I",
+    "media_type": "Text",
+    "index_reference": "jerjes i",
+    "language": "spa",
+    "content": "<p>Jerjes I gobernó el Imperio Persa desde 486 hasta 465 a.C. Era hijo y sucesor de Darío I (Histaspes). Jerjes heredó un vasto imperio de su padre y de su abuelo materno, Ciro II. Sin embargo, enfrentó dificultades para gobernar eficazmente a los persas debido a su crueldad e inestabilidad.</p><p>Al comienzo del reinado de Jerjes, Egipto y Babilonia se rebelaron contra el dominio persa. Jerjes sofocó las rebeliones y aseguró que los ingresos fiscales continuaran, pero su trato severo hacia la población empezó a forjar su reputación de tirano.</p><p>En el tercer año de su reinado, Jerjes reunió a sus líderes para planear una invasión de Grecia. (El libro de Ester comienza con un banquete que probablemente está relacionado con este evento). En el 480 a.C., comenzó el famoso pero fallido intento de conquistar Grecia. La severidad de Jerjes se evidencia en dos historias registradas por Heródoto sobre esta campaña. Cuando Jerjes y sus ejércitos llegaron al Helesponto (la vía fluvial que conecta el Mar Negro con el Mediterráneo), sus ingenieros construyeron un puente para cruzar, pero una tormenta lo destruyó. Jerjes reaccionó decapitando a los ingenieros y azotando el agua antes de construir un puente más fuerte.</p><p>Más tarde, después de quemar Atenas, su flota fue derrotada en Salamina. Jerjes ejecutó al almirante de la flota fenicia, lo que llevó a los fenicios y egipcios a abandonarlo. Solo quedó la flota persa, que fue vencida por los griegos en 479 a.C. Jerjes tuvo que retirarse. Posteriormente, se centró en asuntos internos, como grandes proyectos de construcción en Susa y Persépolis, y los eventos descritos en Ester.</p><p>Jerjes estaba preocupado por los asesinos que intentaban matarlo. Según <a href=\"https://ref.ly/Esth2:21-Esth2:23\">Ester 2:21–23</a>, Mardoqueo detuvo un complot de asesinato, lo que llevó a Jerjes a honrarlo públicamente. Después de que los griegos derrotaron a Jerjes nuevamente en la Batalla del Eurimedonte en 466 a.C., perdió territorio. Otro complot de asesinato por parte de sus funcionarios de la corte tuvo éxito, y su reinado terminó de manera vergonzosa en 465 a.C.</p><p><u>Pasajes para estudio complementario</u></p><p><a href=\"https://ref.ly/Ezra4:6\">Esdras 4:6,</a> <a href=\"https://ref.ly/Esth1:1-Esth1:22\">Ester 1:1–22</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15004006",
+          "start_ref_usfm": "EZR 4:6",
+          "end_ref": "15004006",
+          "end_ref_usfm": "EZR 4:6"
+        },
+        {
+          "start_ref": "17002021",
+          "start_ref_usfm": "EST 2:21",
+          "end_ref": "17002023",
+          "end_ref_usfm": "EST 2:23"
+        },
+        {
+          "start_ref": "17001001",
+          "start_ref_usfm": "EST 1:1",
+          "end_ref": "17001022",
+          "end_ref_usfm": "EST 1:22"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

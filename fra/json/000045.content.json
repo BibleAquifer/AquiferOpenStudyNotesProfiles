@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 668959,
+    "reference_id": 203501,
+    "title": "Hérode Agrippa I",
+    "media_type": "Text",
+    "index_reference": "hérode agrippa i",
+    "language": "fra",
+    "content": "<p>Hérode Agrippa Ier, petit-fils d&apos;Hérode le Grand, neveu d&apos;Hérode Antipas et frère d&apos;Hérodiass, régna sur toute la Palestine pendant une courte période après la mort de Jésus, aux débuts du mouvement chrétien, de 41 à 44 après J.-C.</p><p>Pendant ses études à Rome, Agrippa menait une vie imprudente et accumulait de nombreuses dettes. Un jour, il exprima le souhait que son ami Gaïus Caligula devienne empereur à la place de Tibère. Cette déclaration parvint aux oreilles de Tibère, qui fit alors emprisonner Agrippa. Il demeura en détention jusqu&apos;à la mort de Tibère, survenue six mois plus tard.</p><p>Lorsque Caligula accéda au pouvoir, il récompensa Agrippa en le libérant et en lui conférant les terres de Philippe le Tétrarque ainsi que la partie nord du territoire de Lysanias, en plus du titre de roi. Ce titre suscita la jalousie d&apos;Hérodias, et son mari, Hérode Antipas, se montra à la fois critique et envieux d&apos;Agrippa. Agrippa accusa Antipas de conspiration, ce qui conduisit à l&apos;exil de ce dernier. Par la suite, Agrippa prit possession de toutes les terres et propriétés d&apos;Antipas en 39 après J.-C.</p><p>À la mort de son ami Caligula en 41 après J.-C., Agrippa gagna la faveur du nouvel empereur, Claude, qui étendit alors son domaine en y ajoutant la Judée et la Samarie. Ces territoires avaient autrefois été gouvernés par son grand-père, Hérode le Grand.</p><p>Hérode Agrippa Ier persécuta activement les premiers chrétiens. Il est notamment connu pour avoir fait exécuter l&apos;apôtre Jacques et arrêté Pierre, des actions qui plurent aux Juifs (<a href=\"https://ref.ly/Acts12:1-Acts12:4\">Ac 12.1–4</a>). Les Juifs l&apos;aimaient plus que tout autre Hérode. Agrippa mourut soudainement en 44 après J.-C., peu après que ses sujets l&apos;ont loué comme s&apos;il était un dieu (<a href=\"https://ref.ly/Acts12:20-Acts12:23\">Ac 12.20–23</a> ; voir aussi Josèphe, <em>Antiquités juives</em> 19.8.2 ; 19.9.1 ; <em>Guerre des Juifs</em> 2.11.5).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Acts12:1-Acts12:4\">Ac 12.1–4</a>, <a href=\"https://ref.ly/Acts12:18-Acts12:23\">18–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012020",
+          "start_ref_usfm": "ACT 12:20",
+          "end_ref": "44012023",
+          "end_ref_usfm": "ACT 12:23"
+        },
+        {
+          "start_ref": "44012001",
+          "start_ref_usfm": "ACT 12:1",
+          "end_ref": "44012004",
+          "end_ref_usfm": "ACT 12:4"
+        },
+        {
+          "start_ref": "44012018",
+          "start_ref_usfm": "ACT 12:18",
+          "end_ref": "44012023",
+          "end_ref_usfm": "ACT 12:23"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "content_id": 500451,
+    "reference_id": 203394,
+    "title": "Noah",
+    "media_type": "Text",
+    "index_reference": "noah",
+    "language": "eng",
+    "content": "<p>Noah was the son of Lamech and a descendant of Seth (<a href=\"https://ref.ly/Gen5:3-Gen5:29\">Genesis 5:3–29</a>). Lamech might have hoped that Noah, whose name means &quot;rest&quot; or &quot;relief,&quot; would ease the curse of hard work on the land. Instead, God used Noah to help rid the world of evil.</p><p>God planned to destroy creation because of widespread human evil (<a href=\"https://ref.ly/Gen6:1-Gen6:7\">Genesis 6:1–7</a>; see <a href=\"https://ref.ly/Matt24:37-Matt24:39\">Matthew 24:37–39</a>; <a href=\"https://ref.ly/Luke17:26-Luke17:27\">Luke 17:26–27</a>), but he chose to save Noah (<a href=\"https://ref.ly/Gen6:8\">Genesis 6:8</a>). God gave Noah, who was righteous and blameless (<a href=\"https://ref.ly/Gen6:9\">Genesis 6:9</a>), detailed instructions to build the ark. Only Noah&apos;s family of eight and every kind of creature would be saved (<a href=\"https://ref.ly/Gen6:14-Gen8:19\">Genesis 6:14–8:19</a>). After the flood, Noah and his family left the ark. Noah pleased God by building an altar and offering sacrifices. God promised never to flood the entire earth again or disrupt the seasons, despite human sin (<a href=\"https://ref.ly/Gen8:20-Gen9:17\">Genesis 8:20–9:17</a>).</p><p>Noah&apos;s sons were Shem, Ham, and Japheth. All the nations of the earth came from them (<a href=\"https://ref.ly/Gen9:18-Gen9:19\">Genesis 9:18–19</a>). When Noah got drunk from wine he made, his sons and their descendants were either cursed or blessed based on their actions towards him (<a href=\"https://ref.ly/Gen9:20-Gen9:27\">Genesis 9:20–27</a>). Noah lived for 950 years, including 350 years after the flood (<a href=\"https://ref.ly/Gen9:28-Gen9:29\">Genesis 9:28–29</a>). He is as an example of righteousness, obedience, courage, and faith (see <a href=\"https://ref.ly/Ezek14:12-Ezek14:20\">Ezekiel 14:12–20</a>; <a href=\"https://ref.ly/Heb11:7\">Hebrews 11:7</a>; <a href=\"https://ref.ly/2Pet2:5\">2 Peter 2:5</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen5:28-Gen10:1\">Genesis 5:28–10:1</a>; <a href=\"https://ref.ly/1Chr1:4\">1 Chronicles 1:4</a>; <a href=\"https://ref.ly/Isa54:9\">Isaiah 54:9</a>; <a href=\"https://ref.ly/Ezek14:12-Ezek14:20\">Ezekiel 14:12–20</a>; <a href=\"https://ref.ly/Matt24:37-Matt24:38\">Matthew 24:37–38</a>; <a href=\"https://ref.ly/Luke3:36\">Luke 3:36</a>; <a href=\"https://ref.ly/Luke17:26-Luke17:27\">Luke 17:26–27</a>; <a href=\"https://ref.ly/Heb11:7\">Hebrews 11:7</a>; <a href=\"https://ref.ly/1Pet3:20-1Pet3:21\">1 Peter 3:20–21</a>; <a href=\"https://ref.ly/2Pet2:5\">2 Peter 2:5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01006008",
+          "start_ref_usfm": "GEN 6:8",
+          "end_ref": "01006008",
+          "end_ref_usfm": "GEN 6:8"
+        },
+        {
+          "start_ref": "01006009",
+          "start_ref_usfm": "GEN 6:9",
+          "end_ref": "01006009",
+          "end_ref_usfm": "GEN 6:9"
+        },
+        {
+          "start_ref": "13001004",
+          "start_ref_usfm": "1CH 1:4",
+          "end_ref": "13001004",
+          "end_ref_usfm": "1CH 1:4"
+        },
+        {
+          "start_ref": "23054009",
+          "start_ref_usfm": "ISA 54:9",
+          "end_ref": "23054009",
+          "end_ref_usfm": "ISA 54:9"
+        },
+        {
+          "start_ref": "42003036",
+          "start_ref_usfm": "LUK 3:36",
+          "end_ref": "42003036",
+          "end_ref_usfm": "LUK 3:36"
+        },
+        {
+          "start_ref": "58011007",
+          "start_ref_usfm": "HEB 11:7",
+          "end_ref": "58011007",
+          "end_ref_usfm": "HEB 11:7"
+        },
+        {
+          "start_ref": "61002005",
+          "start_ref_usfm": "2PE 2:5",
+          "end_ref": "61002005",
+          "end_ref_usfm": "2PE 2:5"
+        },
+        {
+          "start_ref": "01008020",
+          "start_ref_usfm": "GEN 8:20",
+          "end_ref": "01009017",
+          "end_ref_usfm": "GEN 9:17"
+        },
+        {
+          "start_ref": "40024037",
+          "start_ref_usfm": "MAT 24:37",
+          "end_ref": "40024039",
+          "end_ref_usfm": "MAT 24:39"
+        },
+        {
+          "start_ref": "42017026",
+          "start_ref_usfm": "LUK 17:26",
+          "end_ref": "42017027",
+          "end_ref_usfm": "LUK 17:27"
+        },
+        {
+          "start_ref": "01006014",
+          "start_ref_usfm": "GEN 6:14",
+          "end_ref": "01008019",
+          "end_ref_usfm": "GEN 8:19"
+        },
+        {
+          "start_ref": "01009020",
+          "start_ref_usfm": "GEN 9:20",
+          "end_ref": "01009027",
+          "end_ref_usfm": "GEN 9:27"
+        },
+        {
+          "start_ref": "40024037",
+          "start_ref_usfm": "MAT 24:37",
+          "end_ref": "40024038",
+          "end_ref_usfm": "MAT 24:38"
+        },
+        {
+          "start_ref": "26014012",
+          "start_ref_usfm": "EZK 14:12",
+          "end_ref": "26014020",
+          "end_ref_usfm": "EZK 14:20"
+        },
+        {
+          "start_ref": "01006001",
+          "start_ref_usfm": "GEN 6:1",
+          "end_ref": "01006007",
+          "end_ref_usfm": "GEN 6:7"
+        },
+        {
+          "start_ref": "01005003",
+          "start_ref_usfm": "GEN 5:3",
+          "end_ref": "01005029",
+          "end_ref_usfm": "GEN 5:29"
+        },
+        {
+          "start_ref": "01009018",
+          "start_ref_usfm": "GEN 9:18",
+          "end_ref": "01009019",
+          "end_ref_usfm": "GEN 9:19"
+        },
+        {
+          "start_ref": "01009028",
+          "start_ref_usfm": "GEN 9:28",
+          "end_ref": "01009029",
+          "end_ref_usfm": "GEN 9:29"
+        },
+        {
+          "start_ref": "01005028",
+          "start_ref_usfm": "GEN 5:28",
+          "end_ref": "01010001",
+          "end_ref_usfm": "GEN 10:1"
+        },
+        {
+          "start_ref": "60003020",
+          "start_ref_usfm": "1PE 3:20",
+          "end_ref": "60003021",
+          "end_ref_usfm": "1PE 3:21"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

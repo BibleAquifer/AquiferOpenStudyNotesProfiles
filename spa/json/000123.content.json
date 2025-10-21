@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 658381,
+    "reference_id": 203456,
+    "title": "Uzzías",
+    "media_type": "Text",
+    "index_reference": "uzzías",
+    "language": "spa",
+    "content": "<p>Uzzías fue hijo de Amasías y Jecolía. Reinó en Judá durante 52 años, desde 792 hasta 740 a.C. (ver <a href=\"https://ref.ly/2Kgs14:21-2Kgs14:22\">2 Reyes 14:21–22,</a> <a href=\"https://ref.ly/2Kgs15:1-2Kgs15:2\">15:1–2,</a> <a href=\"https://ref.ly/2Chr26:1-2Chr26:3\">2 Crónicas 26:1–3</a>). Comenzó como co-gobernante con su padre a los dieciséis años durante aproximadamente 25 años. Después de que su padre fue asesinado, Uzzías se convirtió en el único gobernante. Fue un rey capaz, enérgico y bien organizado que agradó al Señor durante la mayor parte de su reinado.</p><p>Durante la mayor parte del reinado de Uzzías, Jeroboam II gobernó el reino del norte de Israel desde 793 hasta 753 a.C. Ambos reyes fueron exitosos y trajeron un largo período de prosperidad a Israel y Judá. Uzzías luchó con éxito contra los filisteos y construyó muchas fortificaciones en Jerusalén y en todo Judá. El “buscó a Jehová” (<a href=\"https://ref.ly/2Chr26:5\">2 Crónicas 26:5</a>), y mientras lo hizo, el Señor lo bendijo en todos sus esfuerzos, y prosperó.</p><p>Varios profetas estuvieron activos durante el reinado de Uzzías. Amós y Oseas profetizaron durante su vida (<a href=\"https://ref.ly/Hos1:1\">Oseas 1:1,</a> <a href=\"https://ref.ly/Amos1:1\">Amós 1:1</a>), aunque la mayoría de sus mensajes estaban dirigidos al reino del norte. El profeta Isaías recibió su llamado el año en que Uzzías murió (<a href=\"https://ref.ly/Isa1:1\">Isaías 1:1,</a> <a href=\"https://ref.ly/Isa6:1\">6:1</a>).</p><p>Uzzías se enorgulleció de sus numerosos éxitos, lo que lo llevó a su caída (<a href=\"https://ref.ly/2Chr26:16\">2 Crónicas 26:16</a>). Actuó como sacerdote, ingresó en el área sagrada del templo y quemó incienso. Los sacerdotes intentaron detenerlo para que no pecara contra el Señor, pero él ignoró airadamente sus advertencias. Debido a su desobediencia, Dios le dio lepra a Uzzías, y tuvo que vivir el resto de su vida en aislamiento. Uzzías fue enterrado con sus antepasados, pero a cierta distancia debido a su lepra (<a href=\"https://ref.ly/2Chr26:23\">2 Crónicas 26:23</a>).</p><p><u>Pasajes para estudio complementario</u></p><p><a href=\"https://ref.ly/2Kgs14:21-2Kgs14:22\">2 Reyes 14:21–22,</a> <a href=\"https://ref.ly/2Kgs15:1-2Kgs15:7\">15:1–7,</a> <a href=\"https://ref.ly/2Chr26:1-2Chr26:23\">2 Crónicas 26:1–23,</a> <a href=\"https://ref.ly/Isa1:1\">Isaías 1:1,</a> <a href=\"https://ref.ly/Isa6:1\">6:1,</a> <a href=\"https://ref.ly/Hos1:1\">Oseas 1:1,</a> <a href=\"https://ref.ly/Amos1:1\">Amós 1:1,</a> <a href=\"https://ref.ly/Zech14:5\">Zacarías 14:5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14026005",
+          "start_ref_usfm": "2CH 26:5",
+          "end_ref": "14026005",
+          "end_ref_usfm": "2CH 26:5"
+        },
+        {
+          "start_ref": "14026016",
+          "start_ref_usfm": "2CH 26:16",
+          "end_ref": "14026016",
+          "end_ref_usfm": "2CH 26:16"
+        },
+        {
+          "start_ref": "14026023",
+          "start_ref_usfm": "2CH 26:23",
+          "end_ref": "14026023",
+          "end_ref_usfm": "2CH 26:23"
+        },
+        {
+          "start_ref": "23001001",
+          "start_ref_usfm": "ISA 1:1",
+          "end_ref": "23001001",
+          "end_ref_usfm": "ISA 1:1"
+        },
+        {
+          "start_ref": "23006001",
+          "start_ref_usfm": "ISA 6:1",
+          "end_ref": "23006001",
+          "end_ref_usfm": "ISA 6:1"
+        },
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001001",
+          "end_ref_usfm": "HOS 1:1"
+        },
+        {
+          "start_ref": "30001001",
+          "start_ref_usfm": "AMO 1:1",
+          "end_ref": "30001001",
+          "end_ref_usfm": "AMO 1:1"
+        },
+        {
+          "start_ref": "38014005",
+          "start_ref_usfm": "ZEC 14:5",
+          "end_ref": "38014005",
+          "end_ref_usfm": "ZEC 14:5"
+        },
+        {
+          "start_ref": "12015001",
+          "start_ref_usfm": "2KI 15:1",
+          "end_ref": "12015007",
+          "end_ref_usfm": "2KI 15:7"
+        },
+        {
+          "start_ref": "12014021",
+          "start_ref_usfm": "2KI 14:21",
+          "end_ref": "12014022",
+          "end_ref_usfm": "2KI 14:22"
+        },
+        {
+          "start_ref": "14026001",
+          "start_ref_usfm": "2CH 26:1",
+          "end_ref": "14026023",
+          "end_ref_usfm": "2CH 26:23"
+        },
+        {
+          "start_ref": "12015001",
+          "start_ref_usfm": "2KI 15:1",
+          "end_ref": "12015002",
+          "end_ref_usfm": "2KI 15:2"
+        },
+        {
+          "start_ref": "14026001",
+          "start_ref_usfm": "2CH 26:1",
+          "end_ref": "14026003",
+          "end_ref_usfm": "2CH 26:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 500568,
+    "reference_id": 203511,
+    "title": "Corinth",
+    "media_type": "Text",
+    "index_reference": "corinth",
+    "language": "eng",
+    "content": "<p>Corinth is one of Greece&apos;s oldest cities, with settlements dating back to at least 3000 BC. Its strategic location on key trade routes helped it become a major center for commerce. Corinth reached its peak power between 800 and 600 BC. In the mid-100s BC, as the Roman military expanded its empire, Corinth led the Hellenic League to resist Roman control in Greece. However, they could not defeat the Romans. In 146 BC, the Romans completely destroyed Corinth, executing the men and selling the women and children into slavery. Corinth remained in ruins for a century.</p><p>In 44 BC, Julius Caesar founded a Roman colony in Corinth. This colony attracted a diverse group of Italians, freedmen (freed former slaves) from Rome, and displaced Greeks. The new residents, with hard work and creativity, quickly rebuilt the city into a thriving hub for trade, commerce, and industry. By the time Paul arrived in Corinth, it was a lively, diverse city with nearly 700,000 people, including many wealthy individuals and others aspiring to wealth. </p><p>Corinth drew tradespeople from around the world, but it also became known for luxury, indulgence, and vice. The city had a reputation for promiscuity and prostitution, so much so that the verb “Corinthianize” meant engaging in immoral sexual behavior. The church in Corinth experienced challenges with sexual immorality (<a href=\"https://ref.ly/1Cor5:1-1Cor5:13\">1 Corinthians 5:1–13</a>; <a href=\"https://ref.ly/1Cor6:12-1Cor6:20\">6:12–20</a>).</p><p>Corinth was also important because of the Isthmian Games, which began in 523 BC and took place every two years. The events focused on three types: equestrian, gymnastic, and musical. By the New Testament period, the games included chariot racing and other Roman shows, along with traditional Greek competitions. Paul referred to these athletic contests, mentioning both running and boxing (<a href=\"https://ref.ly/1Cor9:24-1Cor9:26\">1 Corinthians 9:24–26</a>). The winners of the games became national heroes. They received a wreath made of myrtle, olive, or pine branches. They also got a stipend from the state, tax exemptions, and special benefits for their children.</p><p>In most Roman cities, marble temples dominated the landscape. Worshiping the gods and attending their feasts were important parts of life in Corinth. The Corinthian church struggled with these pagan feasts (<a href=\"https://ref.ly/1Cor8:1-1Cor10:33\">1 Corinthians 8:1–10:33</a>).</p><p>A large group of displaced Jews also settled in the city. Many may have arrived after Emperor Claudius expelled Jews from Rome (see <a href=\"https://ref.ly/Acts18:2\">Acts 18:2</a>). When Paul traveled to Corinth on his second missionary journey, he met Aquila and Priscilla. They became his close friends and co-workers (<a href=\"https://ref.ly/Acts18:1-Acts18:3\">Acts 18:1–3</a>). Paul stayed in Corinth for over a year and a half, teaching the word of God (<a href=\"https://ref.ly/Acts18:11\">Acts 18:11</a>).</p><p>The church of Corinth, emerging in a place full of paganism and promiscuity, experienced many challenges. Paul&apos;s letters to them offer valuable solutions to practical issues in Christian life and community.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts18:1-Acts18:18\">Acts 18:1–18</a>; <a href=\"https://ref.ly/1Cor1:1-1Cor1:2\">1 Corinthians 1:1–2</a>; <a href=\"https://ref.ly/1Cor16:5-1Cor16:20\">16:5–20</a>; <a href=\"https://ref.ly/2Cor1:1\">2 Corinthians 1:1</a>; <a href=\"https://ref.ly/2Cor13:1\">13:1</a>; <a href=\"https://ref.ly/2Tim4:20\">2 Timothy 4:20</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "44018011",
+          "start_ref_usfm": "ACT 18:11",
+          "end_ref": "44018011",
+          "end_ref_usfm": "ACT 18:11"
+        },
+        {
+          "start_ref": "47001001",
+          "start_ref_usfm": "2CO 1:1",
+          "end_ref": "47001001",
+          "end_ref_usfm": "2CO 1:1"
+        },
+        {
+          "start_ref": "47013001",
+          "start_ref_usfm": "2CO 13:1",
+          "end_ref": "47013001",
+          "end_ref_usfm": "2CO 13:1"
+        },
+        {
+          "start_ref": "55004020",
+          "start_ref_usfm": "2TI 4:20",
+          "end_ref": "55004020",
+          "end_ref_usfm": "2TI 4:20"
+        },
+        {
+          "start_ref": "46008001",
+          "start_ref_usfm": "1CO 8:1",
+          "end_ref": "46010033",
+          "end_ref_usfm": "1CO 10:33"
+        },
+        {
+          "start_ref": "46006012",
+          "start_ref_usfm": "1CO 6:12",
+          "end_ref": "46006020",
+          "end_ref_usfm": "1CO 6:20"
+        },
+        {
+          "start_ref": "46005001",
+          "start_ref_usfm": "1CO 5:1",
+          "end_ref": "46005013",
+          "end_ref_usfm": "1CO 5:13"
+        },
+        {
+          "start_ref": "44018001",
+          "start_ref_usfm": "ACT 18:1",
+          "end_ref": "44018003",
+          "end_ref_usfm": "ACT 18:3"
+        },
+        {
+          "start_ref": "44018001",
+          "start_ref_usfm": "ACT 18:1",
+          "end_ref": "44018018",
+          "end_ref_usfm": "ACT 18:18"
+        },
+        {
+          "start_ref": "46009024",
+          "start_ref_usfm": "1CO 9:24",
+          "end_ref": "46009026",
+          "end_ref_usfm": "1CO 9:26"
+        },
+        {
+          "start_ref": "46001001",
+          "start_ref_usfm": "1CO 1:1",
+          "end_ref": "46001002",
+          "end_ref_usfm": "1CO 1:2"
+        },
+        {
+          "start_ref": "46016005",
+          "start_ref_usfm": "1CO 16:5",
+          "end_ref": "46016020",
+          "end_ref_usfm": "1CO 16:20"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

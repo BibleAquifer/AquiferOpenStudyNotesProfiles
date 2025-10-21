@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 668919,
+    "reference_id": 203461,
+    "title": "Néhémie",
+    "media_type": "Text",
+    "index_reference": "néhémie",
+    "language": "fra",
+    "content": "<p>Néhémie était un puissant chef du peuple de Dieu en Judée après l’exil à Babylone. Il a encouragé et soutenu le peuple de Dieu dans des périodes difficiles.</p><p>Avant de revenir en Judée, Néhémie occupait la fonction d’échanson auprès du roi perse Artaxerxès Iᵉʳ, qui a régné de 465 à 424 av. J.-C. Son rôle en tant qu’échanson était de servir le vin au roi, en le goûtant d’abord pour s’assurer qu’il n’était pas empoisonné. Il était un conseiller de confiance. Lorsqu’il a appris la triste situation de Jérusalem, Néhémie a été profondément touché. Il a demandé au roi la permission de retourner en Judée pour venir en aide à son peuple. Le roi a accepté et l’a nommé gouverneur de Judée pour une durée de douze ans, afin qu’il puisse soutenir ses frères juifs et reconstruire les murailles de Jérusalem. (<a href=\"https://ref.ly/Neh1:1-Neh2:8\">Né 1.1–2.8</a>).</p><p>Néhémie bénéficiait du soutien du roi perse, mais il a dû affronter l’opposition des habitants locaux. Ces derniers, d’origine mixte, étaient les ancêtres des Samaritains mentionnés dans le Nouveau Testament. Néhémie a fait preuve d’un immense courage et de grandes compétences en aidant le peuple de Judée à reconstruire les murailles de Jérusalem, qui en assuraient la protection.</p><p>Néhémie était animé d’une grande foi, dont témoignent ses prières et sa confiance en la guidance et en l’aide divines (<a href=\"https://ref.ly/Neh1:4-Neh1:11\">Né 1.4–11</a>&nbsp;; <a href=\"https://ref.ly/Neh2:4\">2.4</a>, <a href=\"https://ref.ly/Neh2:8\">8</a>, <a href=\"https://ref.ly/Neh2:18\">18</a>, <a href=\"https://ref.ly/Neh2:20\">20</a>). Il soutenait également la justice économique. Il a critiqué certains riches Judéens qui profitaient d’une pénurie de nourriture pour imposer des taux d’intérêt élevés à leurs parents plus pauvres. Il a servi de modèle par son comportement vertueux. (<a href=\"https://ref.ly/Neh5:1-Neh5:19\">Né 5</a>).</p><p>Néhémie se préoccupait profondément de la fidélité du peuple. Il a personnellement confronté les hommes qui avaient épousé des femmes non-juives (<a href=\"https://ref.ly/Neh13:23-Neh13:29\">Né 13.23–29</a>). Il s’est engagé à maintenir le culte du temple. Il a conduit la communauté juive à promettre son soutien aux ouvriers du temple et à faire des offrandes (<a href=\"https://ref.ly/Neh10:32-Neh10:39\">Né 10.32–39</a>). Il a également amélioré la manière dont ils observaient le sabbat (<a href=\"https://ref.ly/Neh13:15-Neh13:22\">Né 13.15–22</a>).</p><p>Bien qu’il y eût encore des problèmes à la fin de son séjour à Jérusalem (voir <a href=\"https://ref.ly/Neh13:1-Neh13:31\">Né&nbsp;13</a>), Néhémie a été un chef puissant. Il a aidé les Juifs à retrouver leur identité nationale et religieuse pendant une période de faiblesse politique et économique.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Neh1:1-Neh7:73\">Né 1.1–7.73</a>&nbsp;; <a href=\"https://ref.ly/Neh8:9-Neh8:10\">8.9–10</a>&nbsp;; <a href=\"https://ref.ly/Neh10:1-Neh13:31\">10.1–13.31</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16002004",
+          "start_ref_usfm": "NEH 2:4",
+          "end_ref": "16002004",
+          "end_ref_usfm": "NEH 2:4"
+        },
+        {
+          "start_ref": "16002008",
+          "start_ref_usfm": "NEH 2:8",
+          "end_ref": "16002008",
+          "end_ref_usfm": "NEH 2:8"
+        },
+        {
+          "start_ref": "16002018",
+          "start_ref_usfm": "NEH 2:18",
+          "end_ref": "16002018",
+          "end_ref_usfm": "NEH 2:18"
+        },
+        {
+          "start_ref": "16002020",
+          "start_ref_usfm": "NEH 2:20",
+          "end_ref": "16002020",
+          "end_ref_usfm": "NEH 2:20"
+        },
+        {
+          "start_ref": "16013001",
+          "start_ref_usfm": "NEH 13:1",
+          "end_ref": "16013031",
+          "end_ref_usfm": "NEH 13:31"
+        },
+        {
+          "start_ref": "16013023",
+          "start_ref_usfm": "NEH 13:23",
+          "end_ref": "16013029",
+          "end_ref_usfm": "NEH 13:29"
+        },
+        {
+          "start_ref": "16013015",
+          "start_ref_usfm": "NEH 13:15",
+          "end_ref": "16013022",
+          "end_ref_usfm": "NEH 13:22"
+        },
+        {
+          "start_ref": "16001001",
+          "start_ref_usfm": "NEH 1:1",
+          "end_ref": "16002008",
+          "end_ref_usfm": "NEH 2:8"
+        },
+        {
+          "start_ref": "16001004",
+          "start_ref_usfm": "NEH 1:4",
+          "end_ref": "16001011",
+          "end_ref_usfm": "NEH 1:11"
+        },
+        {
+          "start_ref": "16005001",
+          "start_ref_usfm": "NEH 5:1",
+          "end_ref": "16005019",
+          "end_ref_usfm": "NEH 5:19"
+        },
+        {
+          "start_ref": "16010032",
+          "start_ref_usfm": "NEH 10:32",
+          "end_ref": "16010039",
+          "end_ref_usfm": "NEH 10:39"
+        },
+        {
+          "start_ref": "16008009",
+          "start_ref_usfm": "NEH 8:9",
+          "end_ref": "16008010",
+          "end_ref_usfm": "NEH 8:10"
+        },
+        {
+          "start_ref": "16001001",
+          "start_ref_usfm": "NEH 1:1",
+          "end_ref": "16007073",
+          "end_ref_usfm": "NEH 7:73"
+        },
+        {
+          "start_ref": "16010001",
+          "start_ref_usfm": "NEH 10:1",
+          "end_ref": "16013031",
+          "end_ref_usfm": "NEH 13:31"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

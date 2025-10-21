@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 668937,
+    "reference_id": 203479,
+    "title": "Matthieu (Lévi)",
+    "media_type": "Text",
+    "index_reference": "matthieu (lévi)",
+    "language": "fra",
+    "content": "<p>Matthieu a travaillé comme collecteur d’impôts pour les Romains et est ensuite devenu l’un des douze disciples les plus proches de Jésus (appelés apôtres). Selon la tradition ancienne, il a écrit l’Évangile selon Matthieu.</p><p>Il est appelé Matthieu dans toutes les listes des apôtres (<a href=\"https://ref.ly/Matt10:3\">Mt&nbsp;10.3</a>&nbsp;; <a href=\"https://ref.ly/Mark3:18\">Mc&nbsp;3.18</a>&nbsp;; <a href=\"https://ref.ly/Luke6:15\">Lc&nbsp;6.15</a>&nbsp;; <a href=\"https://ref.ly/Acts1:13\">Ac&nbsp;1.13</a>). Cependant, dans deux récits de son appel, il est appelé Lévi, son autre nom (<a href=\"https://ref.ly/Mark2:14-Mark2:15\">Mc&nbsp;2.14–15</a>&nbsp;; <a href=\"https://ref.ly/Luke5:27-Luke5:29\">Lc&nbsp;5.27–29</a>&nbsp;; voir <a href=\"https://ref.ly/Matt9:9-Matt9:10\">Mt 9.9–10</a>). Son père était Alphée (<a href=\"https://ref.ly/Mark2:14\">Mc&nbsp;2.14</a>). Nous ne savons pas s’il est le frère de Jacques, le fils d’Alphée, car il n’est pas précisé qu’ils sont frères dans les listes des apôtres (contrairement aux autres frères).</p><p>Les Juifs qui collectaient des impôts pour les Romains étaient souvent considérés comme des pécheurs par les autres Juifs. Ils gagnaient de l’argent en travaillant pour les forces d’occupation et pratiquaient l’extorsion légale. Le choix de Jésus de prendre un collecteur d&apos;impôts comme disciple est intéressant. Lorsque les Pharisiens ont critiqué Jésus pour avoir accepté l’invitation à dîner de Matthieu, et mangé avec des collecteurs d’impôts et d’autres pécheurs, Jésus a utilisé ce moment pour enseigner la compassion. Il a souligné qu’il était venu pour les pécheurs, non pour ceux qui se considéraient comme justes (<a href=\"https://ref.ly/Matt9:9-Matt9:13\">Mt 9.9–13</a>&nbsp;; <a href=\"https://ref.ly/Mark2:14-Mark2:17\">Mc&nbsp;2.14–17</a>&nbsp;; <a href=\"https://ref.ly/Luke5:27-Luke5:32\">Lc&nbsp;5.27–32</a>). Matthieu a immédiatement suivi l’appel de Jésus, laissant tout derrière lui (<a href=\"https://ref.ly/Luke5:28\">Lc&nbsp;5.28</a>). Il n’est donc probablement jamais retourné à la collecte d’impôts ou à sa vie antérieure.</p><p>L’Évangile de Matthieu a été écrit pour les Juifs et offre une perspective juive sur la vie et les enseignements de Jésus. Il inclut des sujets importants pour ceux ayant une ascendance juive. Cet Évangile était très populaire dans l’Église des premières heures, ce qui est probablement la raison pour laquelle il apparaît en premier dans le Nouveau Testament.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Matt9:9-Matt9:10\">Mt 9.9–10</a>&nbsp;; <a href=\"https://ref.ly/Matt10:3\">10.3</a>&nbsp;; <a href=\"https://ref.ly/Mark2:14-Mark2:15\">Mc&nbsp;2.14–15</a>&nbsp;; <a href=\"https://ref.ly/Mark3:18\">3.18</a>&nbsp;; <a href=\"https://ref.ly/Luke5:27-Luke5:29\">Lc&nbsp;5.27–29</a>&nbsp;; <a href=\"https://ref.ly/Luke6:15\">6.15</a>&nbsp;; <a href=\"https://ref.ly/Acts1:13\">Ac&nbsp;1.13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002014",
+          "end_ref_usfm": "MRK 2:14"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "42005028",
+          "start_ref_usfm": "LUK 5:28",
+          "end_ref": "42005028",
+          "end_ref_usfm": "LUK 5:28"
+        },
+        {
+          "start_ref": "42006015",
+          "start_ref_usfm": "LUK 6:15",
+          "end_ref": "42006015",
+          "end_ref_usfm": "LUK 6:15"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "40009009",
+          "start_ref_usfm": "MAT 9:9",
+          "end_ref": "40009013",
+          "end_ref_usfm": "MAT 9:13"
+        },
+        {
+          "start_ref": "42005027",
+          "start_ref_usfm": "LUK 5:27",
+          "end_ref": "42005032",
+          "end_ref_usfm": "LUK 5:32"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002015",
+          "end_ref_usfm": "MRK 2:15"
+        },
+        {
+          "start_ref": "40009009",
+          "start_ref_usfm": "MAT 9:9",
+          "end_ref": "40009010",
+          "end_ref_usfm": "MAT 9:10"
+        },
+        {
+          "start_ref": "42005027",
+          "start_ref_usfm": "LUK 5:27",
+          "end_ref": "42005029",
+          "end_ref_usfm": "LUK 5:29"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002017",
+          "end_ref_usfm": "MRK 2:17"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 500461,
+    "reference_id": 203404,
+    "title": "Rachel",
+    "media_type": "Text",
+    "index_reference": "rachel",
+    "language": "eng",
+    "content": "<p>Rachel was Laban&apos;s younger daughter. She was beautiful, and Jacob loved her more than his other wives. He first met her when he arrived at Paddan-aram in Haran. He helped her remove the stone from a well and watered her father’s sheep (<a href=\"https://ref.ly/Gen29:10\">Genesis 29:10</a>). Jacob agreed to work seven years for Laban to marry Rachel. The time felt like only a few days because he loved her so much.</p><p>Laban tricked Jacob into marrying Leah, his older and less attractive daughter, before allowing him to marry Rachel. Unlike Leah, Rachel could not have children at first (<a href=\"https://ref.ly/Gen29:31\">Genesis 29:31</a>; <a href=\"https://ref.ly/Gen30:1\">30:1</a>). She gave her servant Bilhah to Jacob to have children for her, resulting in the births of Dan and Naphtali (<a href=\"https://ref.ly/Gen30:3-Gen30:8\">Genesis 30:3–8</a>). Eventually, Rachel became pregnant and gave birth to Joseph (<a href=\"https://ref.ly/Gen30:22-Gen30:24\">Genesis 30:22–24</a>). Soon after, Jacob left Haran with his wives, children, and possessions.</p><p>Between Bethel and Bethlehem, Rachel died while giving birth to Benjamin (<a href=\"https://ref.ly/Gen35:16-Gen35:20\">Genesis 35:16–20</a>). Jacob set up a pillar over her tomb, which remained a landmark even during Saul’s time (<a href=\"https://ref.ly/1Sam10:2\">1 Samuel 10:2</a>). Rachel and Leah are respected for building up the house of Israel (<a href=\"https://ref.ly/Ruth4:11\">Ruth 4:11</a>). In <a href=\"https://ref.ly/Jer31:15\">Jeremiah 31:15</a>, Rachel is shown crying for her children taken into captivity. Matthew refers to Jeremiah’s words during Herod’s killing of male infants around Bethlehem shortly after Jesus’s birth (<a href=\"https://ref.ly/Matt2:16-Matt2:18\">Matthew 2:16–18</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen29:6-Gen30:24\">Genesis 29:6–30:24</a>; <a href=\"https://ref.ly/Gen31:4-Gen31:19\">31:4–19</a>, <a href=\"https://ref.ly/Gen31:31-Gen31:35\">31–35</a>; <a href=\"https://ref.ly/Gen33:1-Gen33:7\">33:1–7</a>; <a href=\"https://ref.ly/Gen35:16-Gen35:20\">35:16–20</a>; <a href=\"https://ref.ly/Gen46:19-Gen46:22\">46:19–22</a>; <a href=\"https://ref.ly/Gen48:7\">48:7</a>; <a href=\"https://ref.ly/Ruth4:11\">Ruth 4:11</a>; <a href=\"https://ref.ly/1Sam10:2\">1 Samuel 10:2</a>; <a href=\"https://ref.ly/Jer31:15\">Jeremiah 31:15</a>; <a href=\"https://ref.ly/Matt2:18\">Matthew 2:18</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01029010",
+          "start_ref_usfm": "GEN 29:10",
+          "end_ref": "01029010",
+          "end_ref_usfm": "GEN 29:10"
+        },
+        {
+          "start_ref": "01029031",
+          "start_ref_usfm": "GEN 29:31",
+          "end_ref": "01029031",
+          "end_ref_usfm": "GEN 29:31"
+        },
+        {
+          "start_ref": "01030001",
+          "start_ref_usfm": "GEN 30:1",
+          "end_ref": "01030001",
+          "end_ref_usfm": "GEN 30:1"
+        },
+        {
+          "start_ref": "01048007",
+          "start_ref_usfm": "GEN 48:7",
+          "end_ref": "01048007",
+          "end_ref_usfm": "GEN 48:7"
+        },
+        {
+          "start_ref": "08004011",
+          "start_ref_usfm": "RUT 4:11",
+          "end_ref": "08004011",
+          "end_ref_usfm": "RUT 4:11"
+        },
+        {
+          "start_ref": "09010002",
+          "start_ref_usfm": "1SA 10:2",
+          "end_ref": "09010002",
+          "end_ref_usfm": "1SA 10:2"
+        },
+        {
+          "start_ref": "24031015",
+          "start_ref_usfm": "JER 31:15",
+          "end_ref": "24031015",
+          "end_ref_usfm": "JER 31:15"
+        },
+        {
+          "start_ref": "40002018",
+          "start_ref_usfm": "MAT 2:18",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        },
+        {
+          "start_ref": "01035016",
+          "start_ref_usfm": "GEN 35:16",
+          "end_ref": "01035020",
+          "end_ref_usfm": "GEN 35:20"
+        },
+        {
+          "start_ref": "01030003",
+          "start_ref_usfm": "GEN 30:3",
+          "end_ref": "01030008",
+          "end_ref_usfm": "GEN 30:8"
+        },
+        {
+          "start_ref": "40002016",
+          "start_ref_usfm": "MAT 2:16",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        },
+        {
+          "start_ref": "01030022",
+          "start_ref_usfm": "GEN 30:22",
+          "end_ref": "01030024",
+          "end_ref_usfm": "GEN 30:24"
+        },
+        {
+          "start_ref": "01029006",
+          "start_ref_usfm": "GEN 29:6",
+          "end_ref": "01030024",
+          "end_ref_usfm": "GEN 30:24"
+        },
+        {
+          "start_ref": "01031004",
+          "start_ref_usfm": "GEN 31:4",
+          "end_ref": "01031019",
+          "end_ref_usfm": "GEN 31:19"
+        },
+        {
+          "start_ref": "01031031",
+          "start_ref_usfm": "GEN 31:31",
+          "end_ref": "01031035",
+          "end_ref_usfm": "GEN 31:35"
+        },
+        {
+          "start_ref": "01033001",
+          "start_ref_usfm": "GEN 33:1",
+          "end_ref": "01033007",
+          "end_ref_usfm": "GEN 33:7"
+        },
+        {
+          "start_ref": "01046019",
+          "start_ref_usfm": "GEN 46:19",
+          "end_ref": "01046022",
+          "end_ref_usfm": "GEN 46:22"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

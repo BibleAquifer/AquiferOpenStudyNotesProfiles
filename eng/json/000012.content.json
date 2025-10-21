@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 500563,
+    "reference_id": 203506,
+    "title": "Apollos",
+    "media_type": "Text",
+    "index_reference": "apollos",
+    "language": "eng",
+    "content": "<p>Apollos was a Greek-speaking Jew who knew the Scriptures well. He became a strong evangelist (someone who shared the good news about Jesus with many people) and a Christian apologist (someone who defended Christian beliefs). He was from Alexandria, Egypt, which had a large Jewish community. Apollos likely learned from John the Baptist&apos;s followers. He then preached boldly and enthusiastically about Jesus in Jewish synagogues, even though he did not know about Christian baptism.</p><p>When Priscilla and Aquila heard Apollos preach in Ephesus, they invited him to their home. They explained the way of Christ to him more fully. The believers in Ephesus encouraged him because they saw that God had gifted him for ministry. Then, Apollos traveled to the city of Corinth in Achaia. There, he greatly helped the believers. He was an effective defender of the good news about Jesus in public debates with the Jews. He boldly showed that Jesus is the Messiah (God&apos;s chosen one) as predicted in Scripture (<a href=\"https://ref.ly/Acts18:24-Acts18:28\">Acts 18:24–28</a>).</p><p>Apollos was a skilled speaker. He was popular with some Christians in Corinth because of his intellectual style. His strong ministry attracted some people more than Paul&apos;s did (<a href=\"https://ref.ly/1Cor1:11-1Cor1:12\">1 Corinthians 1:11–12</a>). Paul defended his own simple way of preaching the good news about Jesus, possibly due to comparisons with Apollos. </p><p>Importantly, Paul never criticized Apollos. He called Apollos a fellow servant and appreciated the work Apollos did. Apollos continued the work that Paul had started, and God blessed both their efforts (&quot;I planted the seed and Apollos watered it,&quot; <a href=\"https://ref.ly/1Cor3:5-1Cor3:9\">1 Corinthians 3:5–9</a>; <a href=\"https://ref.ly/1Cor4:1\">4:1</a>). Instead, Paul criticized the shallow views and divisions among those who followed Apollos for superficial reasons (see <a href=\"https://ref.ly/1Cor1:10-1Cor1:12\">1 Corinthians 1:10–12</a>; <a href=\"https://ref.ly/1Cor3:3-1Cor3:4\">3:3–4</a>; <a href=\"https://ref.ly/1Cor4:6-1Cor4:7\">4:6–7</a>).</p><p>Apollos may have hesitated to return to Corinth from Ephesus because of the divisions his ministry caused (<a href=\"https://ref.ly/1Cor16:12\">1 Corinthians 16:12</a>). However, Paul encouraged him to go back eventually. Several years later, while Apollos was working on the island of Crete, Paul urged Titus to ensure Apollos&apos;s needs were met as he departed for an unknown destination for more missionary work (<a href=\"https://ref.ly/Titus3:13\">Titus 3:13</a>). Apollos, with his strong intellect and powerful speaking skills, had a different approach and style from Paul, yet both were effective and useful in serving Christ.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts18:24-Acts19:1\">Acts 18:24–19:1</a>; <a href=\"https://ref.ly/1Cor1:10-1Cor1:12\">1 Corinthians 1:10–12</a>; <a href=\"https://ref.ly/1Cor3:3-1Cor3:9\">3:3–9</a>; <a href=\"https://ref.ly/1Cor4:1\">4:1</a>, <a href=\"https://ref.ly/1Cor4:6-1Cor4:7\">6–7</a>; <a href=\"https://ref.ly/1Cor16:12\">16:12</a>; <a href=\"https://ref.ly/2Cor10:10\">2 Corinthians 10:10</a>; <a href=\"https://ref.ly/Titus3:13\">Titus 3:13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46004001",
+          "start_ref_usfm": "1CO 4:1",
+          "end_ref": "46004001",
+          "end_ref_usfm": "1CO 4:1"
+        },
+        {
+          "start_ref": "46016012",
+          "start_ref_usfm": "1CO 16:12",
+          "end_ref": "46016012",
+          "end_ref_usfm": "1CO 16:12"
+        },
+        {
+          "start_ref": "47010010",
+          "start_ref_usfm": "2CO 10:10",
+          "end_ref": "47010010",
+          "end_ref_usfm": "2CO 10:10"
+        },
+        {
+          "start_ref": "56003013",
+          "start_ref_usfm": "TIT 3:13",
+          "end_ref": "56003013",
+          "end_ref_usfm": "TIT 3:13"
+        },
+        {
+          "start_ref": "44018024",
+          "start_ref_usfm": "ACT 18:24",
+          "end_ref": "44018028",
+          "end_ref_usfm": "ACT 18:28"
+        },
+        {
+          "start_ref": "44018024",
+          "start_ref_usfm": "ACT 18:24",
+          "end_ref": "44019001",
+          "end_ref_usfm": "ACT 19:1"
+        },
+        {
+          "start_ref": "46003003",
+          "start_ref_usfm": "1CO 3:3",
+          "end_ref": "46003009",
+          "end_ref_usfm": "1CO 3:9"
+        },
+        {
+          "start_ref": "46003005",
+          "start_ref_usfm": "1CO 3:5",
+          "end_ref": "46003009",
+          "end_ref_usfm": "1CO 3:9"
+        },
+        {
+          "start_ref": "46001011",
+          "start_ref_usfm": "1CO 1:11",
+          "end_ref": "46001012",
+          "end_ref_usfm": "1CO 1:12"
+        },
+        {
+          "start_ref": "46001010",
+          "start_ref_usfm": "1CO 1:10",
+          "end_ref": "46001012",
+          "end_ref_usfm": "1CO 1:12"
+        },
+        {
+          "start_ref": "46003003",
+          "start_ref_usfm": "1CO 3:3",
+          "end_ref": "46003004",
+          "end_ref_usfm": "1CO 3:4"
+        },
+        {
+          "start_ref": "46004006",
+          "start_ref_usfm": "1CO 4:6",
+          "end_ref": "46004007",
+          "end_ref_usfm": "1CO 4:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

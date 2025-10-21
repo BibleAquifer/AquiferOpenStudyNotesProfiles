@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 500453,
+    "reference_id": 203396,
+    "title": "Hagar",
+    "media_type": "Text",
+    "index_reference": "hagar",
+    "language": "eng",
+    "content": "<p>Hagar was the Egyptian servant of Sarai, Abram’s wife. When God told Abram to leave Mesopotamia, He promised Abram many descendants and a new land (<a href=\"https://ref.ly/Gen12:2\">Genesis 12:2</a>, <a href=\"https://ref.ly/Gen12:7\">7</a>). After ten years in Canaan without children, Sarai followed a Mesopotamian custom. She gave Hagar to Abram as a concubine (secondary wife). Any son from this union was considered the wife&apos;s child (see <a href=\"https://ref.ly/Gen30:1-Gen30:8\">Genesis 30:1–8</a>).</p><p>Hagar became pregnant and started disrespecting Sarai. Sarai reacted by treating her harshly, so Hagar ran away into the desert (<a href=\"https://ref.ly/Gen16:4-Gen16:6\">Genesis 16:4–6</a>). An angel of the Lord appeared to her at a desert well and told her to return to Abram&apos;s house and obey Sarai.</p><p>Hagar gave birth to a son named Ishmael when Abram was eighty-six years old (<a href=\"https://ref.ly/Gen16:1-Gen16:16\">Genesis 16:1–16</a>).</p><p>Fourteen years later, God gave Abraham and Sarah their promised son, Isaac. When Isaac was weaned, around age three, they held a traditional feast. During the event, Ishmael mocked Isaac (<a href=\"https://ref.ly/Gen21:9\">Genesis 21:9</a>), so Sarah insisted that Abraham send Hagar and Ishmael away. God supported this decision (<a href=\"https://ref.ly/Gen21:12\">Genesis 21:12</a>), so Hagar and Ishmael left to wander in the wilderness of Beersheba. When their water ran out, God miraculously saved them and promised Hagar that Ishmael would become the father of a great nation (<a href=\"https://ref.ly/Gen21:17-Gen21:19\">Genesis 21:17–19</a>).</p><p>Paul used an analogy in <a href=\"https://ref.ly/Gal4:22-Gal4:31\">Galatians 4:22–31</a> where Hagar symbolizes Mount Sinai, the place of the old covenant (God&apos;s special agreement with the Israelites). Sarah symbolizes the heavenly Jerusalem, the community of those who gain salvation through faith in Christ. Just as Isaac was Abraham’s son through faith in God&apos;s promise, Christians who are free from the law are spiritual children of Sarah.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen16:1-Gen16:16\">Genesis 16:1–16</a>; <a href=\"https://ref.ly/Gen21:9-Gen21:21\">21:9–21</a>; <a href=\"https://ref.ly/Gen25:12\">25:12</a>; <a href=\"https://ref.ly/Gal4:22-Gal4:31\">Galatians 4:22–31</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012002",
+          "start_ref_usfm": "GEN 12:2",
+          "end_ref": "01012002",
+          "end_ref_usfm": "GEN 12:2"
+        },
+        {
+          "start_ref": "01012007",
+          "start_ref_usfm": "GEN 12:7",
+          "end_ref": "01012007",
+          "end_ref_usfm": "GEN 12:7"
+        },
+        {
+          "start_ref": "01021009",
+          "start_ref_usfm": "GEN 21:9",
+          "end_ref": "01021009",
+          "end_ref_usfm": "GEN 21:9"
+        },
+        {
+          "start_ref": "01021012",
+          "start_ref_usfm": "GEN 21:12",
+          "end_ref": "01021012",
+          "end_ref_usfm": "GEN 21:12"
+        },
+        {
+          "start_ref": "01025012",
+          "start_ref_usfm": "GEN 25:12",
+          "end_ref": "01025012",
+          "end_ref_usfm": "GEN 25:12"
+        },
+        {
+          "start_ref": "01016001",
+          "start_ref_usfm": "GEN 16:1",
+          "end_ref": "01016016",
+          "end_ref_usfm": "GEN 16:16"
+        },
+        {
+          "start_ref": "01021009",
+          "start_ref_usfm": "GEN 21:9",
+          "end_ref": "01021021",
+          "end_ref_usfm": "GEN 21:21"
+        },
+        {
+          "start_ref": "01021017",
+          "start_ref_usfm": "GEN 21:17",
+          "end_ref": "01021019",
+          "end_ref_usfm": "GEN 21:19"
+        },
+        {
+          "start_ref": "48004022",
+          "start_ref_usfm": "GAL 4:22",
+          "end_ref": "48004031",
+          "end_ref_usfm": "GAL 4:31"
+        },
+        {
+          "start_ref": "01030001",
+          "start_ref_usfm": "GEN 30:1",
+          "end_ref": "01030008",
+          "end_ref_usfm": "GEN 30:8"
+        },
+        {
+          "start_ref": "01016004",
+          "start_ref_usfm": "GEN 16:4",
+          "end_ref": "01016006",
+          "end_ref_usfm": "GEN 16:6"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

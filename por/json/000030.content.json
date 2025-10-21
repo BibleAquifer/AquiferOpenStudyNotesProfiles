@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 658487,
+    "reference_id": 203410,
+    "title": "Egito",
+    "media_type": "Text",
+    "index_reference": "egito",
+    "language": "por",
+    "content": "<p>O Egito era uma grande e antiga civilização quando José subiu ao poder e a família de Jacó viajou para lá em busca de alimento (<a href=\"https://ref.ly/Gen39:1-Gen41:57\">Gn 39–41</a>; <a href=\"https://ref.ly/Gen42:1-Gen46:34\">42–46</a>; compare <a href=\"https://ref.ly/Gen12:10-Gen12:20\">12.10–20</a>). O Egito estava bem protegido de inimigos por causa de sua localização. O Mar Mediterrâneo ao norte não tinha portos. A acidentada Península do Sinai ficava a leste, e um enorme deserto se estendia a oeste. Essa proteção natural fazia do Egito um lugar seguro para pessoas de outras terras durante períodos de seca.</p><p>As pessoas chamam o Egito de &quot;o presente do Nilo&quot; porque nenhum outro rio foi tão essencial para a história de uma nação. Os egípcios referiam-se a ele como &quot;o Rio&quot;. O Nilo é mais do que o rio mais longo do mundo. Sem suas águas, a civilização no Egito não teria existido. O Nilo é a linha vital do Egito, e os egípcios o adoravam pela vida e fertilidade que proporcionava. As inundações anuais do rio traziam solo novo e fértil para as colheitas. O rio fornecia peixes e aves para alimentação, além de água limpa para beber e lavar. Também servia como a principal rota para viagens, comércio e comunicação. Durante as secas, quando nações vizinhas enfrentavam a fome, o Nilo dava ao Egito um fornecimento constante de água fresca. O Nilo moldou cada parte da vida no Egito e fez do Egito o que ele era.</p><p>O Egito desempenhou um papel importante em eventos bíblicos. Abraão viveu lá durante uma fome (<a href=\"https://ref.ly/Gen12:10-Gen12:20\">Gn 12.10–20</a>). José foi vendido como escravo no Egito e tornou-se um líder, semelhante a um primeiro-ministro (<a href=\"https://ref.ly/Gen37:1-Gen41:57\">Gn 37–41</a>). A família de José mais tarde mudou-se para a região do delta oriental de Gósen durante outra fome (<a href=\"https://ref.ly/Gen42:1-Gen50:26\">Gn 42–50</a>). Seus descendentes foram eventualmente escravizados (<a href=\"https://ref.ly/Exod1:1-Exod1:22\">Êx 1</a>). O resgate de seu povo por Deus durante o Êxodo do Egito tornou-se uma história chave para o povo judeu (<a href=\"https://ref.ly/Exod2:1-Exod15:27\">Êx 2–15</a>).</p><p>Mais tarde, quando Israel foi governado por reis, o Egito frequentemente se juntava à luta pelo poder internacional (e.g. <a href=\"https://ref.ly/1Kgs14:25-1Kgs14:28\">1Rs 14.25–28</a>). Após os babilônios destruírem Jerusalém em 586 a.C., alguns judeus se mudaram para o Egito para escapar do controle da Babilônia (<a href=\"https://ref.ly/Jer43:6-Jer43:7\">Jr 43.6–7</a>).</p><p>No início do Novo Testamento, o Egito tornou-se um lugar seguro para José, Maria e Jesus. Eles fugiram para lá para evitar as tentativas de Herodes, o Grande, de matar Jesus (<a href=\"https://ref.ly/Matt2:13-Matt2:23\">Mt 2.13–23</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen12:10-Gen12:20\">Gênesis 12.10–20</a>; <a href=\"https://ref.ly/Gen37:1-Gen50:26\">37.1–50.26</a>; <a href=\"https://ref.ly/Exod1:1-Exod15:21\">Êxodo 1.1–15.21</a>; <a href=\"https://ref.ly/1Kgs14:25-1Kgs14:28\">1 Reis 14.25–28</a>; <a href=\"https://ref.ly/Isa19:1-Isa19:25\">Isaías 19.1–25</a>; <a href=\"https://ref.ly/Jer43:1-Jer43:13\">Jeremias 43</a>; <a href=\"https://ref.ly/Jer46:7-Jer46:8\">46.7–8</a>; <a href=\"https://ref.ly/Ezek29:1-Ezek29:21\">Ezequiel 29.1–21</a>; <a href=\"https://ref.ly/Amos8:8\">Amós 8.8</a>; <a href=\"https://ref.ly/Amos9:5\">9.5</a>; <a href=\"https://ref.ly/Zech10:11\">Zacarias 10.11</a>; <a href=\"https://ref.ly/Matt2:13-Matt2:23\">Mateus 2.13–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "30008008",
+          "start_ref_usfm": "AMO 8:8",
+          "end_ref": "30008008",
+          "end_ref_usfm": "AMO 8:8"
+        },
+        {
+          "start_ref": "30009005",
+          "start_ref_usfm": "AMO 9:5",
+          "end_ref": "30009005",
+          "end_ref_usfm": "AMO 9:5"
+        },
+        {
+          "start_ref": "38010011",
+          "start_ref_usfm": "ZEC 10:11",
+          "end_ref": "38010011",
+          "end_ref_usfm": "ZEC 10:11"
+        },
+        {
+          "start_ref": "01012010",
+          "start_ref_usfm": "GEN 12:10",
+          "end_ref": "01012020",
+          "end_ref_usfm": "GEN 12:20"
+        },
+        {
+          "start_ref": "24043006",
+          "start_ref_usfm": "JER 43:6",
+          "end_ref": "24043007",
+          "end_ref_usfm": "JER 43:7"
+        },
+        {
+          "start_ref": "40002013",
+          "start_ref_usfm": "MAT 2:13",
+          "end_ref": "40002023",
+          "end_ref_usfm": "MAT 2:23"
+        },
+        {
+          "start_ref": "11014025",
+          "start_ref_usfm": "1KI 14:25",
+          "end_ref": "11014028",
+          "end_ref_usfm": "1KI 14:28"
+        },
+        {
+          "start_ref": "23019001",
+          "start_ref_usfm": "ISA 19:1",
+          "end_ref": "23019025",
+          "end_ref_usfm": "ISA 19:25"
+        },
+        {
+          "start_ref": "01037001",
+          "start_ref_usfm": "GEN 37:1",
+          "end_ref": "01050026",
+          "end_ref_usfm": "GEN 50:26"
+        },
+        {
+          "start_ref": "24046007",
+          "start_ref_usfm": "JER 46:7",
+          "end_ref": "24046008",
+          "end_ref_usfm": "JER 46:8"
+        },
+        {
+          "start_ref": "26029001",
+          "start_ref_usfm": "EZK 29:1",
+          "end_ref": "26029021",
+          "end_ref_usfm": "EZK 29:21"
+        },
+        {
+          "start_ref": "02001001",
+          "start_ref_usfm": "EXO 1:1",
+          "end_ref": "02001022",
+          "end_ref_usfm": "EXO 1:22"
+        },
+        {
+          "start_ref": "01039001",
+          "start_ref_usfm": "GEN 39:1",
+          "end_ref": "01041057",
+          "end_ref_usfm": "GEN 41:57"
+        },
+        {
+          "start_ref": "01042001",
+          "start_ref_usfm": "GEN 42:1",
+          "end_ref": "01046034",
+          "end_ref_usfm": "GEN 46:34"
+        },
+        {
+          "start_ref": "01037001",
+          "start_ref_usfm": "GEN 37:1",
+          "end_ref": "01041057",
+          "end_ref_usfm": "GEN 41:57"
+        },
+        {
+          "start_ref": "01042001",
+          "start_ref_usfm": "GEN 42:1",
+          "end_ref": "01050026",
+          "end_ref_usfm": "GEN 50:26"
+        },
+        {
+          "start_ref": "02002001",
+          "start_ref_usfm": "EXO 2:1",
+          "end_ref": "02015027",
+          "end_ref_usfm": "EXO 15:27"
+        },
+        {
+          "start_ref": "02001001",
+          "start_ref_usfm": "EXO 1:1",
+          "end_ref": "02015021",
+          "end_ref_usfm": "EXO 15:21"
+        },
+        {
+          "start_ref": "24043001",
+          "start_ref_usfm": "JER 43:1",
+          "end_ref": "24043013",
+          "end_ref_usfm": "JER 43:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

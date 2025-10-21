@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 500452,
+    "reference_id": 203395,
+    "title": "Melchizedek",
+    "media_type": "Text",
+    "index_reference": "melchizedek",
+    "language": "eng",
+    "content": "<p>Melchizedek is a mysterious figure in the Bible. His name means &quot;king of righteousness.&quot; He was a Canaanite priest and king. There is no record of his family, birth, or death.</p><p>Abraham met Melchizedek after defeating four Mesopotamian kings. The Mesopotamians had raided Sodom and Gomorrah and captured Abraham’s nephew Lot (<a href=\"https://ref.ly/Gen14:1-Gen14:16\">Genesis 14:1–16</a>). When Abraham returned from battle, Melchizedek, king of Salem (which is Jerusalem; see <a href=\"https://ref.ly/Ps76:2\">Psalm 76:2</a> and footnote there), was with the grateful kings of the Dead Sea confederacy. Melchizedek gave Abraham bread, wine, and his blessing, acting as a “<span>priest of God Most High</span>” (<a href=\"https://ref.ly/Gen14:18\">Genesis 14:18</a>), the true God who created heaven and earth (see <a href=\"https://ref.ly/Ps7:17\">Psalms 7:17</a>; <a href=\"https://ref.ly/Ps47:2\">47:2</a>; <a href=\"https://ref.ly/Ps57:2\">57:2</a>; <a href=\"https://ref.ly/Ps78:56\">78:56</a>). Melchizedek understood that Abraham worshiped the true God, and he praised God for giving victory to Abraham (<a href=\"https://ref.ly/Gen14:19-Gen14:20\">Genesis 14:19–20</a>). Abraham accepted Melchizedek’s gifts and gave him a tithe, showing Melchizedek&apos;s importance (see <a href=\"https://ref.ly/Heb7:4-Heb7:10\">Hebrews 7:4–10</a>).</p><p>Genesis includes family histories for many people, but Melchizedek appears suddenly without one. He disappears just as quickly. Much later in Israel&apos;s history, King David may have thought about this when he said the Messiah (God&apos;s chosen one) is &quot;<span>a priest forever in the order of Melchizedek</span>&quot; (<a href=\"https://ref.ly/Ps110:4\">Psalm 110:4</a>; compare <a href=\"https://ref.ly/Heb7:15-Heb7:25\">Hebrews 7:15–25</a>). The book of Hebrews uses the idea that Melchizedek had no record of his family history to compare the temporary Levitical priesthood with the eternal priesthood of Jesus Christ. Hebrews also explains that Melchizedek is remembered as &quot;<span>like the Son of God</span>&quot; but was not the Son of God (<a href=\"https://ref.ly/Heb7:3\">Hebrews 7:3</a>). His priesthood lasts forever as a model that comes before the Messiah&apos;s priesthood. Like Melchizedek, but unlike the kings of Israel, Jesus is a king who also performs priestly roles.</p><p>Melchizedek, a royal priest, was greater than Levi, the ancestor of Israel&apos;s priests. Similarly, the Messiah, Jesus Christ, is a superior priest compared to Aaron&apos;s descendants. Jesus offers lasting forgiveness for sins and direct access to God (<a href=\"https://ref.ly/Heb7:24-Heb7:28\">Hebrews 7:24–28</a>). He leads his people through the Holy Spirit instead of the law (<a href=\"https://ref.ly/Heb8:7-Heb8:13\">Hebrews 8:7–13</a>). He remains forever as priest and king for those who trust in him.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen14:17-Gen14:24\">Genesis 14:17–20</a>; <a href=\"https://ref.ly/Ps110:4\">Psalm 110:4</a>; <a href=\"https://ref.ly/Heb5:6-Heb5:10\">Hebrews 5:6–10</a>; <a href=\"https://ref.ly/Heb6:20-Heb7:28\">6:20–7:28</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014018",
+          "start_ref_usfm": "GEN 14:18",
+          "end_ref": "01014018",
+          "end_ref_usfm": "GEN 14:18"
+        },
+        {
+          "start_ref": "19007017",
+          "start_ref_usfm": "PSA 7:17",
+          "end_ref": "19007017",
+          "end_ref_usfm": "PSA 7:17"
+        },
+        {
+          "start_ref": "19047002",
+          "start_ref_usfm": "PSA 47:2",
+          "end_ref": "19047002",
+          "end_ref_usfm": "PSA 47:2"
+        },
+        {
+          "start_ref": "19057002",
+          "start_ref_usfm": "PSA 57:2",
+          "end_ref": "19057002",
+          "end_ref_usfm": "PSA 57:2"
+        },
+        {
+          "start_ref": "19076002",
+          "start_ref_usfm": "PSA 76:2",
+          "end_ref": "19076002",
+          "end_ref_usfm": "PSA 76:2"
+        },
+        {
+          "start_ref": "19078056",
+          "start_ref_usfm": "PSA 78:56",
+          "end_ref": "19078056",
+          "end_ref_usfm": "PSA 78:56"
+        },
+        {
+          "start_ref": "19110004",
+          "start_ref_usfm": "PSA 110:4",
+          "end_ref": "19110004",
+          "end_ref_usfm": "PSA 110:4"
+        },
+        {
+          "start_ref": "58007003",
+          "start_ref_usfm": "HEB 7:3",
+          "end_ref": "58007003",
+          "end_ref_usfm": "HEB 7:3"
+        },
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        },
+        {
+          "start_ref": "01014017",
+          "start_ref_usfm": "GEN 14:17",
+          "end_ref": "01014024",
+          "end_ref_usfm": "GEN 14:24"
+        },
+        {
+          "start_ref": "58008007",
+          "start_ref_usfm": "HEB 8:7",
+          "end_ref": "58008013",
+          "end_ref_usfm": "HEB 8:13"
+        },
+        {
+          "start_ref": "58007004",
+          "start_ref_usfm": "HEB 7:4",
+          "end_ref": "58007010",
+          "end_ref_usfm": "HEB 7:10"
+        },
+        {
+          "start_ref": "01014019",
+          "start_ref_usfm": "GEN 14:19",
+          "end_ref": "01014020",
+          "end_ref_usfm": "GEN 14:20"
+        },
+        {
+          "start_ref": "58007015",
+          "start_ref_usfm": "HEB 7:15",
+          "end_ref": "58007025",
+          "end_ref_usfm": "HEB 7:25"
+        },
+        {
+          "start_ref": "58007024",
+          "start_ref_usfm": "HEB 7:24",
+          "end_ref": "58007028",
+          "end_ref_usfm": "HEB 7:28"
+        },
+        {
+          "start_ref": "58005006",
+          "start_ref_usfm": "HEB 5:6",
+          "end_ref": "58005010",
+          "end_ref_usfm": "HEB 5:10"
+        },
+        {
+          "start_ref": "58006020",
+          "start_ref_usfm": "HEB 6:20",
+          "end_ref": "58007028",
+          "end_ref_usfm": "HEB 7:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

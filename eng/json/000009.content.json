@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 500506,
+    "reference_id": 203449,
+    "title": "Ahaz",
+    "media_type": "Text",
+    "index_reference": "ahaz",
+    "language": "eng",
+    "content": "<p>Ahaz ruled Judah during a difficult time, from 743 to 715 BC. His father, Jotham, and his son, Hezekiah, were praised for following the Lord (see <a href=\"https://ref.ly/2Kgs15:32-2Kgs15:38\">2 Kings 15:32–38</a>; <a href=\"https://ref.ly/2Chr27:1-2Chr27:9\">2 Chronicles 27:1–9</a>; and <a href=\"https://ref.ly/2Kgs18:1-2Kgs18:8\">2 Kings 18:1–8</a>). However, Ahaz was wicked and even sacrificed one of his sons to false gods.</p><p>There was a lot of conflict during Ahaz&apos;s reign. King Pekah of Israel and King Rezin of Aram (Syria) wanted him to join a group against Assyria, but he refused. So, Pekah and Rezin attacked Judah and won major victories, which greatly scared Ahaz. Isaiah the prophet encouraged Ahaz to trust in the Lord, but Ahaz refused (<a href=\"https://ref.ly/Isa7:1-Isa7:25\">Isaiah 7</a>).</p><p>Ahaz showed his lack of trust in the true God by asking Tiglath-pileser III for help (<a href=\"https://ref.ly/2Kgs16:7-2Kgs16:9\">2 Kings 16:7–9</a>). Ahaz made Judah dangerously dependent on Assyria, turning it into a vassal state. The Assyrian king then defeated the Arameans in a two-year campaign that lasted from 734 to 732 BC and killed Rezin. He subdued Israel and added large areas of Pekah’s land to the Assyrian Empire (<a href=\"https://ref.ly/2Kgs15:29\">2 Kings 15:29</a>).</p><p>Ahaz became a devoted follower of Assyria. He adopted many religious practices based on Assyrian examples. Ahaz visited Tiglath-pileser III in Damascus. There, he saw an Assyrian altar and sent a model of it to Jerusalem. A similar altar was built there, replacing the original bronze altar (<a href=\"https://ref.ly/2Kgs16:10-2Kgs16:18\">2 Kings 16:10–18</a>). Several other changes to the temple also show Ahaz&apos;s departure from faith in the Lord.</p><p>Ahaz shows why the people of Judah were eventually exiled. He did not act properly as a king (<a href=\"https://ref.ly/Deut17:14-Deut17:20\">Deuteronomy 17:14–20</a>). He also did not worship the Lord. When he died, his son Hezekiah became king (<a href=\"https://ref.ly/2Kgs16:20\">2 Kings 16:20</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/2Kgs15:38-2Kgs16:20\">2 Kings 15:38–16:20</a>; <a href=\"https://ref.ly/2Chr27:9-2Chr28:27\">2 Chronicles 27:9–28:27</a>; <a href=\"https://ref.ly/Isa7:1-Isa7:25\">Isaiah 7:1–25</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12015029",
+          "start_ref_usfm": "2KI 15:29",
+          "end_ref": "12015029",
+          "end_ref_usfm": "2KI 15:29"
+        },
+        {
+          "start_ref": "12016020",
+          "start_ref_usfm": "2KI 16:20",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "23007001",
+          "start_ref_usfm": "ISA 7:1",
+          "end_ref": "23007025",
+          "end_ref_usfm": "ISA 7:25"
+        },
+        {
+          "start_ref": "12016007",
+          "start_ref_usfm": "2KI 16:7",
+          "end_ref": "12016009",
+          "end_ref_usfm": "2KI 16:9"
+        },
+        {
+          "start_ref": "12016010",
+          "start_ref_usfm": "2KI 16:10",
+          "end_ref": "12016018",
+          "end_ref_usfm": "2KI 16:18"
+        },
+        {
+          "start_ref": "05017014",
+          "start_ref_usfm": "DEU 17:14",
+          "end_ref": "05017020",
+          "end_ref_usfm": "DEU 17:20"
+        },
+        {
+          "start_ref": "12015032",
+          "start_ref_usfm": "2KI 15:32",
+          "end_ref": "12015038",
+          "end_ref_usfm": "2KI 15:38"
+        },
+        {
+          "start_ref": "14027001",
+          "start_ref_usfm": "2CH 27:1",
+          "end_ref": "14027009",
+          "end_ref_usfm": "2CH 27:9"
+        },
+        {
+          "start_ref": "12018001",
+          "start_ref_usfm": "2KI 18:1",
+          "end_ref": "12018008",
+          "end_ref_usfm": "2KI 18:8"
+        },
+        {
+          "start_ref": "12015038",
+          "start_ref_usfm": "2KI 15:38",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "14027009",
+          "start_ref_usfm": "2CH 27:9",
+          "end_ref": "14028027",
+          "end_ref_usfm": "2CH 28:27"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

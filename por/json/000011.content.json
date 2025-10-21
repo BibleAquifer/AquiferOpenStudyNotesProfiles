@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 658572,
+    "reference_id": 203495,
+    "title": "Anás e Caifás",
+    "media_type": "Text",
+    "index_reference": "anás e caifás",
+    "language": "por",
+    "content": "<p>Anás e Caifás foram ambos sumos sacerdotes na época de Jesus. Eles desempenharam papéis fundamentais na condenação de Jesus à morte.</p><p>Anás foi o sumo sacerdote judeu por volta de 6 a 15 d.C. Mesmo depois que o procurador romano da Judeia o removeu, ele permaneceu muito poderoso e influente no conselho superior judeu. As pessoas ainda o chamavam de &quot;sumo sacerdote&quot; quinze a vinte anos depois (<a href=\"https://ref.ly/Luke3:2\">Lc 3.2</a>; <a href=\"https://ref.ly/Acts4:6\">At 4.6</a>). Isso pode ser porque os judeus acreditavam que os sumos sacerdotes mantinham sua posição por toda a vida. Cinco de seus filhos e seu genro, Caifás, tornaram-se sumos sacerdotes depois dele. De acordo com o Evangelho de João, quando Jesus foi preso, ele foi levado primeiro a Anás para interrogatório antes de ser entregue a Caifás para o julgamento oficial (<a href=\"https://ref.ly/John18:13-John18:24\">Jo 18.13–24</a>).</p><p>Caifás foi o sumo sacerdote judeu aproximadamente de 18 a 36 d.C. Ele trabalhou de perto com seu influente sogro, Anás. Caifás argumentou no conselho superior que sacrificar Jesus seria melhor do que arriscar a destruição da nação (<a href=\"https://ref.ly/John11:49-John11:50\">Jo 11.49–50</a>). Deus lhe deu essas palavras proféticas porque ele era o sumo sacerdote (<a href=\"https://ref.ly/John11:51-John11:52\">Jo 11.51–52</a>). Durante o julgamento de Jesus, Caifás rasgou suas vestes quando Jesus afirmou ser o Filho de Deus. Ele instou o conselho superior a condenar Jesus por blasfêmia (<a href=\"https://ref.ly/Matt26:57-Matt26:66\">Mt 26.57–66</a>).</p><p>Pouco depois da execução de Jesus, os líderes judeus ficaram preocupados com o crescente número de seguidores de Cristo. Anás e Caifás questionaram Pedro e João sobre a cura de um mendigo aleijado e a pregação sobre a ressurreição dos mortos (<a href=\"https://ref.ly/Acts4:5-Acts4:7\">At 4.5–7</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Matt26:3-Matt26:5\">Mateus 26.3–5</a>,<a href=\"https://ref.ly/Matt26:57-Matt26:67\">57–67</a>; <a href=\"https://ref.ly/Mark14:53-Mark14:65\">Marcos 14.53–65</a>; <a href=\"https://ref.ly/Luke3:2\">Lucas 3.2</a>; <a href=\"https://ref.ly/John11:49-John11:53\">João 11.49–53</a>; <a href=\"https://ref.ly/John18:13-John18:28\">João 18.13–28</a>; <a href=\"https://ref.ly/Acts4:5-Acts4:7\">Atos 4.5–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42003002",
+          "start_ref_usfm": "LUK 3:2",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "44004006",
+          "start_ref_usfm": "ACT 4:6",
+          "end_ref": "44004006",
+          "end_ref_usfm": "ACT 4:6"
+        },
+        {
+          "start_ref": "41014053",
+          "start_ref_usfm": "MRK 14:53",
+          "end_ref": "41014065",
+          "end_ref_usfm": "MRK 14:65"
+        },
+        {
+          "start_ref": "43011051",
+          "start_ref_usfm": "JHN 11:51",
+          "end_ref": "43011052",
+          "end_ref_usfm": "JHN 11:52"
+        },
+        {
+          "start_ref": "40026003",
+          "start_ref_usfm": "MAT 26:3",
+          "end_ref": "40026005",
+          "end_ref_usfm": "MAT 26:5"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026066",
+          "end_ref_usfm": "MAT 26:66"
+        },
+        {
+          "start_ref": "44004005",
+          "start_ref_usfm": "ACT 4:5",
+          "end_ref": "44004007",
+          "end_ref_usfm": "ACT 4:7"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018024",
+          "end_ref_usfm": "JHN 18:24"
+        },
+        {
+          "start_ref": "43011049",
+          "start_ref_usfm": "JHN 11:49",
+          "end_ref": "43011050",
+          "end_ref_usfm": "JHN 11:50"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026067",
+          "end_ref_usfm": "MAT 26:67"
+        },
+        {
+          "start_ref": "43011049",
+          "start_ref_usfm": "JHN 11:49",
+          "end_ref": "43011053",
+          "end_ref_usfm": "JHN 11:53"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018028",
+          "end_ref_usfm": "JHN 18:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

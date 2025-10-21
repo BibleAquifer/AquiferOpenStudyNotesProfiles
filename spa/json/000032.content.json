@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 658340,
+    "reference_id": 203415,
+    "title": "Eleazar",
+    "media_type": "Text",
+    "index_reference": "eleazar",
+    "language": "spa",
+    "content": "<p>Eleazar era el tercer hijo de Aarón, el primer sumo sacerdote (<a href=\"https://ref.ly/Exod6:23\">Éxodo 6.23</a>). Los dos hermanos mayores de Eleazar, Nadab y Abiú, provocaron la ira de Dios al ofrecer incienso de manera distinta a la ordenada por Dios (<a href=\"https://ref.ly/Lev10:1-Lev10:7\">Levítico 10.1–7</a>). Debido a su desobediencia, Dios los mató. Como el siguiente hijo mayor, Eleazar era el siguiente en la línea para convertirse en sumo sacerdote. Realizó funciones sacerdotales durante la vida de su padre y asistió a su padre y a Moisés cuando algunos levitas se rebelaron, buscando igualdad de estatus con la familia sacerdotal de Aarón (<a href=\"https://ref.ly/Num16:36-Num16:40\">Números 16.36–40</a>).</p><p>Aarón falleció en el desierto poco antes de que los israelitas entraran en la Tierra Prometida. No pudo entrar porque él y Moisés habían desobedecido a Dios al golpear la roca en Meribah (<a href=\"https://ref.ly/Num20:1-Num20:13\">Números 20.1–13</a>). Antes de que Aarón muriera, él, Moisés y Eleazar subieron al Monte de Hor. Allí, Moisés tomó las vestiduras sacerdotales de Aarón y se las entregó a su hijo (<a href=\"https://ref.ly/Num20:22-Num20:29\">Números 20.22–29</a>).</p><p>Después de esto, Eleazar sirvió como sumo sacerdote por el resto de su vida, incluso durante el tiempo en que los israelitas tomaron control de la tierra de Canaán. Cuando llegó el momento de dividir la tierra entre las tribus, Eleazar y Josué usaron suertes sagradas para decidir dónde se asentaría cada tribu (<a href=\"https://ref.ly/Josh14:1-Josh14:5\">Josué 14.1–5</a>). Cuando Eleazar murió, su hijo Phinees se convirtió en sumo sacerdote. Phinees había demostrado su fidelidad al pacto cuando Israel comenzó a adorar a los dioses de Moab (<a href=\"https://ref.ly/Num25:1-Num25:18\">Números 25</a>). Los descendientes de Eleazar incluían:</p><ul><li><p>Sadoc, el sacerdote fiel que sustituyó a Abiathar (<a href=\"https://ref.ly/1Kgs2:26-1Kgs2:27\">1 Reyes 2.26–27</a>, <a href=\"https://ref.ly/1Kgs2:35\">35</a>; ver <a href=\"https://ref.ly/1Chr6:3-1Chr6:8\">1 Crónicas 6.3–8</a>, <a href=\"https://ref.ly/1Chr6:50-1Chr6:53\">50–53</a>).</p></li><li><p>Esdras desempeñó un papel clave en la reconstrucción de Judea después del Exilio (ver <a href=\"https://ref.ly/Ezra7:1-Ezra7:5\">Esdras 7:1–5</a>).</p></li></ul><p>En el templo ideal de Ezequiel, solo los descendientes de Eleazar a través de Sadoc podían servir (<a href=\"https://ref.ly/Ezek44:15\">Ezequiel 44.15</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Exod6:23-Exod6:25\">Éxodo 6.23–25</a>; <a href=\"https://ref.ly/Lev10:6-Lev10:7\">Levítico 10.6–7</a>; <a href=\"https://ref.ly/Num3:1-Num3:4\">Números 3.1–4</a>; <a href=\"https://ref.ly/Num16:36-Num16:40\">Números 16.36–40</a>; <a href=\"https://ref.ly/Num20:22-Num20:26\">Números 20.22–26</a>; <a href=\"https://ref.ly/Num26:1-Num26:4\">Números 26.1–4</a>; <a href=\"https://ref.ly/Josh14:1\">Josué 14.1</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02006023",
+          "start_ref_usfm": "EXO 6:23",
+          "end_ref": "02006023",
+          "end_ref_usfm": "EXO 6:23"
+        },
+        {
+          "start_ref": "06014001",
+          "start_ref_usfm": "JOS 14:1",
+          "end_ref": "06014001",
+          "end_ref_usfm": "JOS 14:1"
+        },
+        {
+          "start_ref": "11002035",
+          "start_ref_usfm": "1KI 2:35",
+          "end_ref": "11002035",
+          "end_ref_usfm": "1KI 2:35"
+        },
+        {
+          "start_ref": "26044015",
+          "start_ref_usfm": "EZK 44:15",
+          "end_ref": "26044015",
+          "end_ref_usfm": "EZK 44:15"
+        },
+        {
+          "start_ref": "11002026",
+          "start_ref_usfm": "1KI 2:26",
+          "end_ref": "11002027",
+          "end_ref_usfm": "1KI 2:27"
+        },
+        {
+          "start_ref": "04025001",
+          "start_ref_usfm": "NUM 25:1",
+          "end_ref": "04025018",
+          "end_ref_usfm": "NUM 25:18"
+        },
+        {
+          "start_ref": "13006003",
+          "start_ref_usfm": "1CH 6:3",
+          "end_ref": "13006008",
+          "end_ref_usfm": "1CH 6:8"
+        },
+        {
+          "start_ref": "03010001",
+          "start_ref_usfm": "LEV 10:1",
+          "end_ref": "03010007",
+          "end_ref_usfm": "LEV 10:7"
+        },
+        {
+          "start_ref": "04003001",
+          "start_ref_usfm": "NUM 3:1",
+          "end_ref": "04003004",
+          "end_ref_usfm": "NUM 3:4"
+        },
+        {
+          "start_ref": "13006050",
+          "start_ref_usfm": "1CH 6:50",
+          "end_ref": "13006053",
+          "end_ref_usfm": "1CH 6:53"
+        },
+        {
+          "start_ref": "15007001",
+          "start_ref_usfm": "EZR 7:1",
+          "end_ref": "15007005",
+          "end_ref_usfm": "EZR 7:5"
+        },
+        {
+          "start_ref": "02006023",
+          "start_ref_usfm": "EXO 6:23",
+          "end_ref": "02006025",
+          "end_ref_usfm": "EXO 6:25"
+        },
+        {
+          "start_ref": "04016036",
+          "start_ref_usfm": "NUM 16:36",
+          "end_ref": "04016040",
+          "end_ref_usfm": "NUM 16:40"
+        },
+        {
+          "start_ref": "03010006",
+          "start_ref_usfm": "LEV 10:6",
+          "end_ref": "03010007",
+          "end_ref_usfm": "LEV 10:7"
+        },
+        {
+          "start_ref": "04020022",
+          "start_ref_usfm": "NUM 20:22",
+          "end_ref": "04020029",
+          "end_ref_usfm": "NUM 20:29"
+        },
+        {
+          "start_ref": "04020001",
+          "start_ref_usfm": "NUM 20:1",
+          "end_ref": "04020013",
+          "end_ref_usfm": "NUM 20:13"
+        },
+        {
+          "start_ref": "04026001",
+          "start_ref_usfm": "NUM 26:1",
+          "end_ref": "04026004",
+          "end_ref_usfm": "NUM 26:4"
+        },
+        {
+          "start_ref": "06014001",
+          "start_ref_usfm": "JOS 14:1",
+          "end_ref": "06014005",
+          "end_ref_usfm": "JOS 14:5"
+        },
+        {
+          "start_ref": "04020022",
+          "start_ref_usfm": "NUM 20:22",
+          "end_ref": "04020026",
+          "end_ref_usfm": "NUM 20:26"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

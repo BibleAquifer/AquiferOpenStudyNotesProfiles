@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 500520,
+    "reference_id": 203463,
+    "title": "Xerxes I",
+    "media_type": "Text",
+    "index_reference": "xerxes i",
+    "language": "eng",
+    "content": "<p>Xerxes I ruled the Persian Empire from 486 to 465 BC. He was the son and successor of Darius I (Hystaspes). Xerxes inherited a large empire from his father and his maternal grandfather, Cyrus II. However, he struggled to govern Persia well because of his cruelty and instability.</p><p>Early in Xerxes’ reign, Egypt and Babylon rebelled against Persian rule. Xerxes stopped the rebellions and ensured tax revenues continued, but his harsh treatment of people started building his reputation for tyranny.</p><p>In the third year of his reign, Xerxes gathered his leaders to plan an invasion of Greece. (The book of Esther starts with a banquet likely related to this event.) In 480 BC, the famous but doomed attempt to conquer Greece began. Xerxes&apos; harshness is shown in two stories recorded by Herodotus from this campaign. When Xerxes and his armies reached the Hellespont (the waterway connecting the Black Sea with the Mediterranean), his engineers built a bridge for crossing, but a storm destroyed it. Xerxes reacted by beheading the engineers and whipping the water before constructing a stronger bridge. </p><p>Later, after burning Athens, his fleet lost at Salamis. Xerxes executed the admiral of the Phoenician fleet, leading the Phoenicians and Egyptians to abandon him. Only the Persian fleet remained, and it was defeated by the Greeks in 479 BC. Xerxes had to retreat. Afterward, he focused on domestic matters, such as large building projects at Susa and Persepolis, and the events described in Esther.</p><p>Xerxes worried about assassins trying to kill him. According to <a href=\"https://ref.ly/Esth2:21-Esth2:23\">Esther 2:21–23</a>, Mordecai stopped an assassination plot, which led to Xerxes publicly honoring him. After the Greeks defeated Xerxes again at the Battle of the Eurymedon in 466 BC, he lost territory. Another assassination plot by his court officials succeeded, and his reign ended shamefully in 465 BC.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Ezra4:6\">Ezra 4:6</a>; <a href=\"https://ref.ly/Esth1:1-Esth1:22\">Esther 1:1–22</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15004006",
+          "start_ref_usfm": "EZR 4:6",
+          "end_ref": "15004006",
+          "end_ref_usfm": "EZR 4:6"
+        },
+        {
+          "start_ref": "17002021",
+          "start_ref_usfm": "EST 2:21",
+          "end_ref": "17002023",
+          "end_ref_usfm": "EST 2:23"
+        },
+        {
+          "start_ref": "17001001",
+          "start_ref_usfm": "EST 1:1",
+          "end_ref": "17001022",
+          "end_ref_usfm": "EST 1:22"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

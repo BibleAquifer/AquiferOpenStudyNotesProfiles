@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 500509,
+    "reference_id": 203452,
+    "title": "Assyria",
+    "media_type": "Text",
+    "index_reference": "assyria",
+    "language": "eng",
+    "content": "<p>Assyria was a symbol of fear and cruelty in the Near East for over three centuries. The Bible describes its power and harsh treatment of the people of Israel and Judah. However, Assyria&apos;s success depended on its leaders&apos; strength. Eventually, stronger forces defeated it.</p><h3>Ashurnasirpal II (885–860 BC)</h3><p>Ashurnasirpal II had the same qualities and flaws as the kings who came after him but to a greater degree. He was ambitious, energetic, brave, vain, and magnificent. He was determined to expand his kingdom.</p><h3>Shalmaneser III (858–824 BC)</h3><p>Shalmaneser III is famous for the Battle of Qarqar in 853 BC, one of the best-documented events from ancient times. A group of allied kingdoms, including King Ahab of Israel and several other states, stopped his invasion of Syria. It took years before Shalmaneser conquered Israel and Syria. The Black Obelisk of Shalmaneser III shows King Jehu of Israel bowing and giving tribute (payment to show submission).</p><h3>Repentance during the Time of Jonah</h3><p>During King Jeroboam II&apos;s reign in Israel from 793 to 753 BC, the prophet Jonah reluctantly traveled to Nineveh to announce judgment (<a href=\"https://ref.ly/Jonah3:1-Jonah4:11\">Jonah 3–4</a>). Assyria was declining at that time. As Jonah feared, the king and people of Nineveh listened and repented of their sins. As a result, God gave them a reprieve that lasted about 150 years.</p><h3>Tiglath-pileser III (744–727 BC)</h3><p>Tiglath-pileser III took over the Assyrian throne and worked to regain and strengthen control over all Assyrian territories. He also became the king of Babylon, making Assyria the leading military and economic power in the Near East. He showed political wisdom uncommon among the typically ruthless Assyrian kings. King Menahem of Israel, who ruled 752 from 742 BC, paid him tribute (<a href=\"https://ref.ly/2Kgs15:19-2Kgs15:20\">2 Kings 15:19–20</a>), as did Tyre, Byblos, and Damascus. When King Ahaz of Judah, who ruled from 735 to 715 BC, asked for help against Syria and Israel (<a href=\"https://ref.ly/2Kgs16:5-2Kgs16:20\">2 Kings 16:5–20</a>), Tiglath-pileser conquered Damascus in 732 BC. Shalmaneser V, who became king after Tiglath-pileser, would destroy Samaria in 722 BC. This would mark the end of the northern kingdom of Israel.</p><h3>Sennacherib (705–681 BC)</h3><p>Sennacherib spent his reign fighting many difficult wars. He is well-known in the Bible for attacking Judah and surrounding Jerusalem in 701 BC. This happened during King Hezekiah&apos;s rule and the prophet Isaiah&apos;s time (<a href=\"https://ref.ly/2Kgs18:13-2Kgs19:37\">2 Kings 18:13–19:37</a>; <a href=\"https://ref.ly/Isa36:1-Isa37:38\">Isaiah 36–37</a>).</p><h3>Ashurbanipal (668–627 BC)</h3><p>Ashurbanipal captured No-amon (Thebes) in Egypt, achieving the greatest victory in Assyrian history (see <a href=\"https://ref.ly/Nah3:3-Nah3:10\">Nahum 3:3–10</a>). He also established a large library in Nineveh, which was excavated in 1860. Many tablets were found, containing a wide range of Akkadian material. This library is now one of the main treasures of the British Museum in London. Very little is known about Ashurbanipal’s reign after 639 BC, as his records do not go beyond that year. However, hints in state correspondence, business documents, and prayers to the gods suggest that Assyria was becoming more unstable. When Ashurbanipal died in 627 BC, his empire declined quickly.</p><h3>Final Decline and Destruction</h3><p>In 626 BC, Nabopolassar became king of Babylon, ruled from 626 to 605 BC, and allied with the Medes. This alliance made Babylon&apos;s success against Assyria almost certain. In 612 BC, their combined forces launched a final attack on Nineveh. After a three-month siege, the mighty city fell (see <a href=\"https://ref.ly/Nah1:8\">Nahum 1:8</a>). Nebuchadnezzar, then a general in his father’s army, completely destroyed the last Assyrian forces at the Battle of Carchemish in 605 BC.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/2Kgs15:19-2Kgs19:37\">2 Kings 15:19–19:37</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "34001008",
+          "start_ref_usfm": "NAM 1:8",
+          "end_ref": "34001008",
+          "end_ref_usfm": "NAM 1:8"
+        },
+        {
+          "start_ref": "12015019",
+          "start_ref_usfm": "2KI 15:19",
+          "end_ref": "12015020",
+          "end_ref_usfm": "2KI 15:20"
+        },
+        {
+          "start_ref": "12018013",
+          "start_ref_usfm": "2KI 18:13",
+          "end_ref": "12019037",
+          "end_ref_usfm": "2KI 19:37"
+        },
+        {
+          "start_ref": "23036001",
+          "start_ref_usfm": "ISA 36:1",
+          "end_ref": "23037038",
+          "end_ref_usfm": "ISA 37:38"
+        },
+        {
+          "start_ref": "34003003",
+          "start_ref_usfm": "NAM 3:3",
+          "end_ref": "34003010",
+          "end_ref_usfm": "NAM 3:10"
+        },
+        {
+          "start_ref": "32003001",
+          "start_ref_usfm": "JON 3:1",
+          "end_ref": "32004011",
+          "end_ref_usfm": "JON 4:11"
+        },
+        {
+          "start_ref": "12016005",
+          "start_ref_usfm": "2KI 16:5",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "12015019",
+          "start_ref_usfm": "2KI 15:19",
+          "end_ref": "12019037",
+          "end_ref_usfm": "2KI 19:37"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
