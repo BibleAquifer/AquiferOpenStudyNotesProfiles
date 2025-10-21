@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 650841,
+    "reference_id": 203425,
+    "title": "路得",
+    "media_type": "Text",
+    "index_reference": "路得",
+    "language": "zht",
+    "content": "<p>路得是善良且忠誠的女子，她的故事展現神隱藏的帶領如何幫助愛祂的人（<a href=\"https://ref.ly/Rom8:28\">羅8:28</a>）。這個故事不僅是彌賽亞（神所揀選的）家譜歷史的一部分，也從悲傷的開端發展為充滿喜樂的結局。</p><p>路得生活在士師時代的混亂時期。她是來自摩押的外邦女子，當以色列人以利米勒一家因饑荒遷居摩押時，她嫁入這個伯利恆的以色列家庭。然而，家中所有男子都在摩押去世，留下三位寡婦——路得、她的婆婆拿俄米，與她的嫂子俄珥巴。當拿俄米決定返回伯利恆時，路得選擇與她同去。她對婆婆的愛、忠誠和對拿俄米所信之耶和華的信仰無可比擬（<a href=\"https://ref.ly/Ruth1:16-Ruth1:17\">得1:16–17</a>）。</p><p>正如拿俄米所預料的那樣，在伯利恆的生活對她和媳婦路得十分艱難。為了解決糧食問題，路得主動去田間拾取麥穗。這項工作既勞累又充滿風險（<a href=\"https://ref.ly/Ruth2:2\">得2:2</a>）。她行事謙遜、優雅且有禮，同時展現出堅定的意志、專注與毅力。</p><p>在拿俄米的鼓勵下，路得請求財主波阿斯擔任她們家的至親買贖者（<a href=\"https://ref.ly/Ruth3:1-Ruth3:9\">得3:1–9</a>），這也包括娶她為妻。透過這個請求，路得展現對家族的極大忠誠（<a href=\"https://ref.ly/Ruth3:10\">得3:10</a>）。她對拿俄米無私又勤勉的照顧，是這卷書的核心主題之一。波阿斯稱讚路得為賢德的女子（<a href=\"https://ref.ly/Ruth3:11\">得3:11</a>）。她展現了賢德女子的真正意義（見<a href=\"https://ref.ly/Prov31:10-Prov31:31\">箴31:10–31</a>，該經文使用了相同的希伯來片語，並在希伯來聖經的編排中，緊接路得記之前）。</p><p>波阿斯解決了相關的法律問題，並迎娶了路得。這卷書的結尾記載他們的兒子俄備得出生，突顯出路得記的一要目的——俄備得就是大衛王的祖父。新約聖經中，路得是耶穌基督家譜中僅有的五位女性之一（<a href=\"https://ref.ly/Matt1:5\">太1:5</a>）。路得素常忠心與順服，帶來了永恆的影響，神透過她成就了祂的計劃。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Ruth1:4-Ruth4:13\">得1:4–4:13</a>；<a href=\"https://ref.ly/Matt1:5\">太1:5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08002002",
+          "start_ref_usfm": "RUT 2:2",
+          "end_ref": "08002002",
+          "end_ref_usfm": "RUT 2:2"
+        },
+        {
+          "start_ref": "08003010",
+          "start_ref_usfm": "RUT 3:10",
+          "end_ref": "08003010",
+          "end_ref_usfm": "RUT 3:10"
+        },
+        {
+          "start_ref": "08003011",
+          "start_ref_usfm": "RUT 3:11",
+          "end_ref": "08003011",
+          "end_ref_usfm": "RUT 3:11"
+        },
+        {
+          "start_ref": "40001005",
+          "start_ref_usfm": "MAT 1:5",
+          "end_ref": "40001005",
+          "end_ref_usfm": "MAT 1:5"
+        },
+        {
+          "start_ref": "45008028",
+          "start_ref_usfm": "ROM 8:28",
+          "end_ref": "45008028",
+          "end_ref_usfm": "ROM 8:28"
+        },
+        {
+          "start_ref": "20031010",
+          "start_ref_usfm": "PRO 31:10",
+          "end_ref": "20031031",
+          "end_ref_usfm": "PRO 31:31"
+        },
+        {
+          "start_ref": "08001016",
+          "start_ref_usfm": "RUT 1:16",
+          "end_ref": "08001017",
+          "end_ref_usfm": "RUT 1:17"
+        },
+        {
+          "start_ref": "08003001",
+          "start_ref_usfm": "RUT 3:1",
+          "end_ref": "08003009",
+          "end_ref_usfm": "RUT 3:9"
+        },
+        {
+          "start_ref": "08001004",
+          "start_ref_usfm": "RUT 1:4",
+          "end_ref": "08004013",
+          "end_ref_usfm": "RUT 4:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

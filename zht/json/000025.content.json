@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 650925,
+    "reference_id": 203509,
+    "title": "尼祿",
+    "media_type": "Text",
+    "index_reference": "尼祿",
+    "language": "zht",
+    "content": "<p>公元54年，尼祿在他的母親毒死她的丈夫，即皇帝克勞第之後成為羅馬的皇帝，當時年僅17歲。尼祿喜歡被人關注。他以不道德的行為和揮霍無度而聞名。在他統治的早期，有兩位顧問很好地管理了帝國：</p><ul><li><p>布魯斯是禁衛軍的總督（皇帝的精銳士兵的指揮官）。</p></li><li><p>塞內卡是著名的哲學家，遵循斯多亞學派的哲學，一種強調理性、自制和美德的哲學。</p></li></ul><p>保羅在公元57年左右寫信給羅馬的教會，敦促他們「順服掌權者」，因為他們是「神<span>所命</span>的」（<a href=\"https://ref.ly/Rom13:1\">羅13:1</a>）。到那個時候，尼祿的不道德行為已廣為人知。</p><p>尼祿最糟糕的行為發生在公元59年（同年保羅向凱撒上訴，<a href=\"https://ref.ly/Acts25:11\">徒25:11</a>），在他安排謀殺他的母親之後。公元62年，他流放並處決他的妻子，與他的情人結婚，並迫使布魯斯和塞內卡退任。公元64年，一場大火摧毀了羅馬大部分地區。當時，尼祿不在城市，但許多人相信是他親自縱火的傳言。尼祿指責基督徒，控告他們犯下罪行。人們認為基督徒對社會懷有敵意，應受懲罰，即使很少有人相信他們引發大火。他們被「定罪，更多是因為仇恨人類的罪，而不是縱火的罪」（塔西佗，編年史15.44）。羅馬對基督徒的逼迫非常嚴重；彼得和保羅很可能在這段時間內在羅馬被處決。</p><p>公元66年，一場猶太人的起義在凱撒利亞爆發。尼祿派遣他的將軍維斯帕先去鎮壓叛亂。尼祿對治理國家的興趣不大，他花了兩年時間在希臘表演。他將治理工作交給一位羅馬總督。當他返回羅馬時，法國、西班牙和非洲的總督們都反對他。結果，尼祿在公元68年自殺，並說：「隨我而逝的，是多麼偉大的藝術家！」他是猶流凱撒家族中最後一位，也是最糟糕的皇帝。（另見啟示錄<span data-bnType=\"resourceReference\" data-resourceId=\"24415\" data-resourceType=\"TyndaleStudyNotes\">13:3</span>、<span data-bnType=\"resourceReference\" data-resourceId=\"24406\" data-resourceType=\"TyndaleStudyNotes\">11</span>、<span data-bnType=\"resourceReference\" data-resourceId=\"24412\" data-resourceType=\"TyndaleStudyNotes\">18</span>，<span data-bnType=\"resourceReference\" data-resourceId=\"24473\" data-resourceType=\"TyndaleStudyNotes\">17:8</span>、<span data-bnType=\"resourceReference\" data-resourceId=\"24461\" data-resourceType=\"TyndaleStudyNotes\">10–11</span>的研讀註釋。）</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Rom13:1-Rom13:7\">羅13:1–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44025011",
+          "start_ref_usfm": "ACT 25:11",
+          "end_ref": "44025011",
+          "end_ref_usfm": "ACT 25:11"
+        },
+        {
+          "start_ref": "45013001",
+          "start_ref_usfm": "ROM 13:1",
+          "end_ref": "45013001",
+          "end_ref_usfm": "ROM 13:1"
+        },
+        {
+          "start_ref": "45013001",
+          "start_ref_usfm": "ROM 13:1",
+          "end_ref": "45013007",
+          "end_ref_usfm": "ROM 13:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 24406,
+          "content_id": 647898,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "啟示錄 13:11",
+          "language": "zht"
+        },
+        {
+          "reference_id": 24412,
+          "content_id": 647904,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "啟示錄 13:18",
+          "language": "zht"
+        },
+        {
+          "reference_id": 24415,
+          "content_id": 647907,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "啟示錄 13:3",
+          "language": "zht"
+        },
+        {
+          "reference_id": 24461,
+          "content_id": 647953,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "啟示錄 17:10-11",
+          "language": "zht"
+        },
+        {
+          "reference_id": 24473,
+          "content_id": 647965,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "啟示錄 17:8",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]

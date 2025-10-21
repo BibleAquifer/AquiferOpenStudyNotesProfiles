@@ -1,0 +1,102 @@
+[
+  {
+    "content_id": 650928,
+    "reference_id": 203512,
+    "title": "以弗所",
+    "media_type": "Text",
+    "index_reference": "以弗所",
+    "language": "zht",
+    "content": "<p>以弗所位於主要貿易路線的交匯處，貫穿南北和東西。它以負責「看守」亞底米的神廟而聞名（<a href=\"https://ref.ly/Acts19:35\">徒19:35</a>）。作為守護者（guardian），以弗所被正式認定為神廟的管理者和保護者。這是重要的頭銜，為城市帶來榮譽和經濟利益。</p><p>大約在公元前1044年，愛奧尼亞希臘人（Ionian Greeks）在考斯特河（Cayster River）流入愛琴海的一處天然港口，創建了以弗所。如今，這座古城的遺址已經遠離海岸。該城市在公元前41年納入羅馬帝國統治。在使徒時期，以弗所繁榮富裕，是商業和宗教的中心，也是羅馬帝國亞細亞省中最重要的城市。</p><p>在以弗所，對亞底米的崇拜幾乎與這座城市一樣古老。亞底米神廟是古代世界的七大奇蹟之一，對以弗所的財富和貿易至關重要。眾多朝聖者前來參拜，為偶像製造商及其他商販創造了許多商機。</p><p>當保羅於公元53年第三次宣教旅程抵達時，以弗所已經是一座擁有逾千年歷史的城市（<a href=\"https://ref.ly/Acts19:1-Acts19:41\">徒19章</a>）。當地民眾對他們的守護女神及其神廟極為虔誠。然而，隨著越來越多人接受了保羅的信息，使得那些製作和銷售亞底米神像之人的生意大受打擊。這觸怒了他們，甚至引發一場幾乎置保羅於死地的暴動（<a href=\"https://ref.ly/Acts19:24\">徒19:24</a>、<a href=\"https://ref.ly/Acts19:28-Acts19:31\">28–31</a>）。</p><p>在保羅的教導和領導下，以弗所教會逐漸壯大。曾在以弗所受教於保羅的人，開始在周圍社群中建立教會，例如歌羅西（見<span data-bnType=\"resourceReference\" data-resourceId=\"26427\" data-resourceType=\"TyndaleStudyNotesBookIntros\">歌羅西書簡介</span>，「背景」）。然而，保羅也曾警告以弗所的教會領袖，要提防假教師的威脅（<a href=\"https://ref.ly/Acts20:29-Acts20:31\">徒20:29–31</a>）。</p><p>使徒約翰可能在公元70年左右定居於以弗所。後來從這城被流放至拔摩海島（<a href=\"https://ref.ly/Rev1:9\">啟1:9</a>）。約翰可能在公元90年代居住於拔摩海島時，寫下啟示錄。到了那時，基督教群體裡面，以弗所書中讚揚的愛心與善行，大多已逐漸消退（<a href=\"https://ref.ly/Rev2:4\">啟2:4</a>）。根據早期基督教作家愛任紐（Irenaeus）的記載，約翰在拔摩海島的流放結束後，返回了以弗所，並在那裡生活直到離世。這發生在圖拉真（Trajan）在位期間（公元98–117年）。傳統認為，耶穌的母親馬利亞受到約翰照料，在以弗所度過晚年（見<a href=\"https://ref.ly/John19:25-John19:27\">約19:25–27</a>）。</p><p>哥德人在公元262年焚燒了亞底米的神廟。哥德人是來自北歐的民族，曾與羅馬帝國交戰。到公元431年第三次大公會議（也稱為以弗所會議）在以弗所召開時，亞底米在以弗所人心中已不再具有影響力。這樣的轉變印證了保羅的信息，即「人手所做的」神像如亞底米「根本不是神」（<a href=\"https://ref.ly/Acts19:26\">徒19:26</a>）。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Acts18:19-Acts19:41\">徒18:19–19:41</a>，<a href=\"https://ref.ly/Acts20:16-Acts20:38\">20:16–38</a>；<a href=\"https://ref.ly/Eph1:1\">弗1:1</a>；<a href=\"https://ref.ly/Rev2:1-Rev2:7\">啟2:1–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44019024",
+          "start_ref_usfm": "ACT 19:24",
+          "end_ref": "44019024",
+          "end_ref_usfm": "ACT 19:24"
+        },
+        {
+          "start_ref": "44019026",
+          "start_ref_usfm": "ACT 19:26",
+          "end_ref": "44019026",
+          "end_ref_usfm": "ACT 19:26"
+        },
+        {
+          "start_ref": "44019035",
+          "start_ref_usfm": "ACT 19:35",
+          "end_ref": "44019035",
+          "end_ref_usfm": "ACT 19:35"
+        },
+        {
+          "start_ref": "49001001",
+          "start_ref_usfm": "EPH 1:1",
+          "end_ref": "49001001",
+          "end_ref_usfm": "EPH 1:1"
+        },
+        {
+          "start_ref": "66001009",
+          "start_ref_usfm": "REV 1:9",
+          "end_ref": "66001009",
+          "end_ref_usfm": "REV 1:9"
+        },
+        {
+          "start_ref": "66002004",
+          "start_ref_usfm": "REV 2:4",
+          "end_ref": "66002004",
+          "end_ref_usfm": "REV 2:4"
+        },
+        {
+          "start_ref": "44019001",
+          "start_ref_usfm": "ACT 19:1",
+          "end_ref": "44019041",
+          "end_ref_usfm": "ACT 19:41"
+        },
+        {
+          "start_ref": "43019025",
+          "start_ref_usfm": "JHN 19:25",
+          "end_ref": "43019027",
+          "end_ref_usfm": "JHN 19:27"
+        },
+        {
+          "start_ref": "66002001",
+          "start_ref_usfm": "REV 2:1",
+          "end_ref": "66002007",
+          "end_ref_usfm": "REV 2:7"
+        },
+        {
+          "start_ref": "44019028",
+          "start_ref_usfm": "ACT 19:28",
+          "end_ref": "44019031",
+          "end_ref_usfm": "ACT 19:31"
+        },
+        {
+          "start_ref": "44020029",
+          "start_ref_usfm": "ACT 20:29",
+          "end_ref": "44020031",
+          "end_ref_usfm": "ACT 20:31"
+        },
+        {
+          "start_ref": "44018019",
+          "start_ref_usfm": "ACT 18:19",
+          "end_ref": "44019041",
+          "end_ref_usfm": "ACT 19:41"
+        },
+        {
+          "start_ref": "44020016",
+          "start_ref_usfm": "ACT 20:16",
+          "end_ref": "44020038",
+          "end_ref_usfm": "ACT 20:38"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26427,
+          "content_id": 647819,
+          "resource_code": "TyndaleStudyNotesBookIntros",
+          "label": "歌羅西書",
+          "language": "zht"
+        }
+      ]
+    }
+  }
+]

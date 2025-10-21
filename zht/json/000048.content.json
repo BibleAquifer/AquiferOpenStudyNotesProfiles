@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 650922,
+    "reference_id": 203506,
+    "title": "亞波羅",
+    "media_type": "Text",
+    "index_reference": "亞波羅",
+    "language": "zht",
+    "content": "<p>亞波羅是講希臘語的猶太人，熟悉聖經。他成為積極熱心的傳福音的人（evangelist，向許多人分享關於耶穌的好消息的人）和基督教護教家（Christian apologist，捍衛基督教信仰的人）。他來自埃及的亞歷山大城，那裡有一個大型猶太社區。亞波羅可能是從施洗約翰的追隨者學習聖經知識。他隨後在猶太會堂裡勇敢又熱心地傳講耶穌，儘管他對基督教洗禮並不了解。</p><p>當百基拉和亞居拉在以弗所聽到亞波羅的講道時，他們邀請他到家中，並向他更精確講解基督之道。以弗所的信徒鼓勵他，因為他們看到神賜給他事工（ministry）的恩賜。隨後，亞波羅前往亞該亞的哥林多城。他在那裡大大幫助了信徒。在與猶太人的公開辯論中，他有效捍衛耶穌的福音。他大膽證明耶穌就是經上預言的彌賽亞，是神所揀選的那位（<a href=\"https://ref.ly/Acts18:24-Acts18:28\">徒18:24–28</a>）。</p><p>亞波羅口才出眾。因他充滿智慧的講道風格，而在哥林多的基督徒中深受歡迎。他強而有力的事工，吸引的人數甚至超過保羅（<a href=\"https://ref.ly/1Cor1:11-1Cor1:12\">林前1:11–12</a>）。保羅為自己傳講耶穌好消息的簡明方式辯護，可能因為大家把他的講道與亞波羅的講道比較。</p><p>重要的是，保羅從未批評過亞波羅。他稱亞波羅為同工，並感謝亞波羅所做的工作。亞波羅繼續保羅開始的事工，神也祝福了他們的努力（「我栽種了，亞波羅澆灌了」，<a href=\"https://ref.ly/1Cor3:5-1Cor3:9\">林前3:5–9</a>，<a href=\"https://ref.ly/1Cor4:1\">4:1</a>）。相反，保羅批評那些出於表面原因而追隨亞波羅的人，這些人的見解膚淺，並且造成了教會的分裂（見<a href=\"https://ref.ly/1Cor1:10-1Cor1:12\">林前1:10–12</a>，<a href=\"https://ref.ly/1Cor3:3-1Cor3:4\">3:3–4</a>，<a href=\"https://ref.ly/1Cor4:6-1Cor4:7\">4:6–7</a>）。</p><p>由於自己的事工造成教會的分裂，亞波羅可能猶豫是否從以弗所返回哥林多（<a href=\"https://ref.ly/1Cor16:12\">林前16:12</a>）。然而，保羅最終鼓勵他回去。幾年後，當亞波羅在克里特島事奉時，保羅敦促提多，在亞波羅前往未知目的地繼續傳教時，確保他的需求得到滿足（<a href=\"https://ref.ly/Titus3:13\">多3:13</a>）。亞波羅以其敏銳的智慧和有力的演講技巧，展現出與保羅不同的傳道方式和風格，兩人在事奉基督的工作中都發揮有效且重要的作用。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Acts18:24-Acts19:1\">徒18:24–19:1</a>；<a href=\"https://ref.ly/1Cor1:10-1Cor1:12\">林前1:10–12</a>，<a href=\"https://ref.ly/1Cor3:3-1Cor3:9\">3:3–9</a>，<a href=\"https://ref.ly/1Cor4:1\">4:1</a>，<a href=\"https://ref.ly/1Cor4:6-1Cor4:7\">6–7</a>，<a href=\"https://ref.ly/1Cor16:12\">16:12</a>；<a href=\"https://ref.ly/2Cor10:10\">林後10:10</a>；<a href=\"https://ref.ly/Titus3:13\">多3:13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46004001",
+          "start_ref_usfm": "1CO 4:1",
+          "end_ref": "46004001",
+          "end_ref_usfm": "1CO 4:1"
+        },
+        {
+          "start_ref": "46016012",
+          "start_ref_usfm": "1CO 16:12",
+          "end_ref": "46016012",
+          "end_ref_usfm": "1CO 16:12"
+        },
+        {
+          "start_ref": "47010010",
+          "start_ref_usfm": "2CO 10:10",
+          "end_ref": "47010010",
+          "end_ref_usfm": "2CO 10:10"
+        },
+        {
+          "start_ref": "56003013",
+          "start_ref_usfm": "TIT 3:13",
+          "end_ref": "56003013",
+          "end_ref_usfm": "TIT 3:13"
+        },
+        {
+          "start_ref": "44018024",
+          "start_ref_usfm": "ACT 18:24",
+          "end_ref": "44018028",
+          "end_ref_usfm": "ACT 18:28"
+        },
+        {
+          "start_ref": "44018024",
+          "start_ref_usfm": "ACT 18:24",
+          "end_ref": "44019001",
+          "end_ref_usfm": "ACT 19:1"
+        },
+        {
+          "start_ref": "46003003",
+          "start_ref_usfm": "1CO 3:3",
+          "end_ref": "46003009",
+          "end_ref_usfm": "1CO 3:9"
+        },
+        {
+          "start_ref": "46003005",
+          "start_ref_usfm": "1CO 3:5",
+          "end_ref": "46003009",
+          "end_ref_usfm": "1CO 3:9"
+        },
+        {
+          "start_ref": "46001011",
+          "start_ref_usfm": "1CO 1:11",
+          "end_ref": "46001012",
+          "end_ref_usfm": "1CO 1:12"
+        },
+        {
+          "start_ref": "46001010",
+          "start_ref_usfm": "1CO 1:10",
+          "end_ref": "46001012",
+          "end_ref_usfm": "1CO 1:12"
+        },
+        {
+          "start_ref": "46003003",
+          "start_ref_usfm": "1CO 3:3",
+          "end_ref": "46003004",
+          "end_ref_usfm": "1CO 3:4"
+        },
+        {
+          "start_ref": "46004006",
+          "start_ref_usfm": "1CO 4:6",
+          "end_ref": "46004007",
+          "end_ref_usfm": "1CO 4:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

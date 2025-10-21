@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 650918,
+    "reference_id": 203502,
+    "title": "約翰·馬可",
+    "media_type": "Text",
+    "index_reference": "約翰·馬可",
+    "language": "zht",
+    "content": "<p>約翰·馬可（John Mark）是第一本的福音書馬可福音的作者，曾幫助三位早期的宣教士：</p><ul><li><p>巴拿巴</p></li><li><p>保羅</p></li><li><p>彼得</p></li></ul><p>巴拿巴和保羅在他們的第一次宣教旅程中，帶著馬可作為助手。然而，馬可在旅程結束前即離開他們，並返回耶路撒冷（<a href=\"https://ref.ly/Acts12:25\">徒12:25</a>，<a href=\"https://ref.ly/Acts13:4-Acts13:5\">13:4–5</a>、<a href=\"https://ref.ly/Acts13:13\">13</a>）。因此，當巴拿巴想在第二次旅程中帶上馬可時，保羅便拒絕了。這個分歧使得團隊分裂：巴拿巴帶著他的表弟馬可，而保羅則選擇了西拉。兩對搭檔分道揚鑣（<a href=\"https://ref.ly/Acts15:36-Acts15:41\">徒15:36–41</a>）。</p><p>後來，保羅和馬可和解，馬可也再次成為他的助手。在歌羅西書中，保羅稱馬可為同工，並暗示他將會派馬可去拜訪歌羅西的教會（<a href=\"https://ref.ly/Col4:10\">西4:10</a>；另見<a href=\"https://ref.ly/Phlm1:24\">門1:24</a>）。之後，當保羅在羅馬的監獄中等待處決時，他甚至要求提摩太將馬可帶來，因為他相信馬可對他的事工有所幫助（<a href=\"https://ref.ly/2Tim4:11\">提後4:11</a>）。</p><p>馬可很可能在彼得晚年時，協助他在意大利的宣教工作。在彼得的一封書信中，他親切地稱馬可為與他同在的「兒子」（<a href=\"https://ref.ly/1Pet5:13\">彼前5:13</a>）。早期基督教傳統描述馬可是彼得的「翻譯者」，並且認為馬可所獲得關於耶穌的生平和話語的資訊，直接來自於彼得（優西比烏，教會史3.39.16）。</p><p>馬可福音通常被認為所有福音書中最早寫成的一本。幾乎可以確定，它是馬太和路加撰寫福音書時的主要來源。正因如此，馬可福音是最具影響力的早期基督教著作之一。</p><p>馬可的故事表明，為基督與福音的緣故，神能夠修正人的錯誤，並修補難以處理的人際關係。人在人生初期的失敗，並不會阻礙他活出有意義且有影響力的事奉人生。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Acts12:12\">徒12:12</a>、<a href=\"https://ref.ly/Acts12:25\">25</a>，<a href=\"https://ref.ly/Acts13:4-Acts13:5\">13:4–5</a>、<a href=\"https://ref.ly/Acts13:13\">13</a>，<a href=\"https://ref.ly/Acts15:36-Acts15:39\">15:36–39</a>；<a href=\"https://ref.ly/Col4:10\">西4:10</a>；<a href=\"https://ref.ly/2Tim4:11\">提後4:11</a>；<a href=\"https://ref.ly/Phlm1:23-Phlm1:24\">門1:23–24</a>；<a href=\"https://ref.ly/1Pet5:13\">彼前5:13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012012",
+          "start_ref_usfm": "ACT 12:12",
+          "end_ref": "44012012",
+          "end_ref_usfm": "ACT 12:12"
+        },
+        {
+          "start_ref": "44012025",
+          "start_ref_usfm": "ACT 12:25",
+          "end_ref": "44012025",
+          "end_ref_usfm": "ACT 12:25"
+        },
+        {
+          "start_ref": "44013013",
+          "start_ref_usfm": "ACT 13:13",
+          "end_ref": "44013013",
+          "end_ref_usfm": "ACT 13:13"
+        },
+        {
+          "start_ref": "51004010",
+          "start_ref_usfm": "COL 4:10",
+          "end_ref": "51004010",
+          "end_ref_usfm": "COL 4:10"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004011",
+          "end_ref_usfm": "2TI 4:11"
+        },
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "60005013",
+          "start_ref_usfm": "1PE 5:13",
+          "end_ref": "60005013",
+          "end_ref_usfm": "1PE 5:13"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "57001023",
+          "start_ref_usfm": "PHM 1:23",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "44013004",
+          "start_ref_usfm": "ACT 13:4",
+          "end_ref": "44013005",
+          "end_ref_usfm": "ACT 13:5"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015039",
+          "end_ref_usfm": "ACT 15:39"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

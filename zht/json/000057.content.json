@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 650838,
+    "reference_id": 203422,
+    "title": "底波拉",
+    "media_type": "Text",
+    "index_reference": "底波拉",
+    "language": "zht",
+    "content": "<p>先知底波拉是以色列早期的士師之一。她是正直且虔誠的女子。身為先知，她接收從神而來的信息；身為士師，她裁決法律糾紛。人們常稱她為「以色列的母」（見<a href=\"https://ref.ly/Judg5:7\">士5:7</a>）。</p><p>在底波拉的時代，人們行了更多不義之事。他們不再遵行神的道，以色列各支派也未能團結一致。以色列人又行「耶和華眼中看為惡的事」（<a href=\"https://ref.ly/Judg4:1\">士4:1</a>）。因此，神將以色列交在迦南的耶賓這位壓迫者手中，以色列也再次向主呼求幫助（<a href=\"https://ref.ly/Judg4:3\">士4:3</a>）。</p><p>神藉著底波拉呼召巴拉，去與耶賓軍隊的統帥西西拉作戰。然而，巴拉既不積極也不勇敢，他堅持要求底波拉陪同。底波拉同意，但也警告他勝利的榮耀將歸於一位女子，而非巴拉。果然，當巴拉擊敗西西拉及其軍隊後，殺死西西拉的女子雅億得著了榮耀。巴拉未有表現出勇氣與領導能力，與底波拉和雅億的勇氣與領導能力形成鮮明對比。底波拉的行動為以色列帶來了四十年的和平（<a href=\"https://ref.ly/Judg5:31\">士5:31）</a>。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Judg4:1-Judg5:31\">士4:1–5:31</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07004001",
+          "start_ref_usfm": "JDG 4:1",
+          "end_ref": "07004001",
+          "end_ref_usfm": "JDG 4:1"
+        },
+        {
+          "start_ref": "07004003",
+          "start_ref_usfm": "JDG 4:3",
+          "end_ref": "07004003",
+          "end_ref_usfm": "JDG 4:3"
+        },
+        {
+          "start_ref": "07005007",
+          "start_ref_usfm": "JDG 5:7",
+          "end_ref": "07005007",
+          "end_ref_usfm": "JDG 5:7"
+        },
+        {
+          "start_ref": "07005031",
+          "start_ref_usfm": "JDG 5:31",
+          "end_ref": "07005031",
+          "end_ref_usfm": "JDG 5:31"
+        },
+        {
+          "start_ref": "07004001",
+          "start_ref_usfm": "JDG 4:1",
+          "end_ref": "07005031",
+          "end_ref_usfm": "JDG 5:31"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

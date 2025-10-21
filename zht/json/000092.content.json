@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 650843,
+    "reference_id": 203427,
+    "title": "掃羅",
+    "media_type": "Text",
+    "index_reference": "掃羅",
+    "language": "zht",
+    "content": "<p>掃羅是以色列的第一任君王。神與百姓都揀選了他，但由於他對自己和神缺乏信心，最終大大失敗。掃羅是一個複雜的人，有時我們會因他的掙扎而同情他，但他往往自招禍患，給自己與身邊的人帶來悲傷與困難。</p><p>掃羅出身於富裕的地主家庭，他登基時並未預期或渴望成為君王。以色列百姓渴求一位能夠帶領他們征戰的君王，而掃羅身材高大，超過眾人，因此深得百姓喜愛（<a href=\"https://ref.ly/1Sam10:23\">撒上10:23</a>）。然而，以色列的軍事問題極為嚴峻，而掃羅作為軍隊領袖缺乏信心。若沒有先知撒母耳與掃羅兒子約拿單的幫助，掃羅的統治或許會徹底淪為災難。</p><p>掃羅在戰爭期間輕率起誓，未經深思，使神不悅（<a href=\"https://ref.ly/1Sam14:16-1Sam14:46\">撒上14:16–46</a>）。他沒有等待撒母耳來獻祭，擅自獻上燔祭，違背神的命令（<a href=\"https://ref.ly/1Sam13:7-1Sam13:14\">撒上13:7下–14</a>）。此外，他未能完全殲滅亞瑪力人及其財物，違反了神的命令（<a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">撒上15:1–35</a>）。因此，神決定廢除掃羅的王位，並派遣撒母耳膏立大衛為新王。不久後，掃羅對大衛心生猜忌，儘管大衛是他最忠誠的臣僕，也是約拿單的摯友。掃羅成為一位殘暴的統治者，無論如何都不願放棄權力。他耗費大量時間與精力，追捕並試圖殺害大衛。</p><p>最終，掃羅在與非利士人的戰爭中受傷，然後拔劍自盡。他的死是神對他審判的結果。儘管大衛曾多年逃避掃羅的追殺，他仍誠摯地哀悼掃羅和約拿單，並以詩歌表達對他們的尊敬（<a href=\"https://ref.ly/2Sam1:17-2Sam1:27\">撒下1:17–27</a>）。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/1Sam9:1-1Sam11:15\">撒上9:1–11:15</a>，<a href=\"https://ref.ly/1Sam13:1-1Sam31:13\">13:1–31:13；</a><a href=\"https://ref.ly/2Sam1:1-2Sam1:27\">撒下1:1–27；</a><a href=\"https://ref.ly/1Chr9:35-1Chr10:14\">代上9:35–10:14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09010023",
+          "start_ref_usfm": "1SA 10:23",
+          "end_ref": "09010023",
+          "end_ref_usfm": "1SA 10:23"
+        },
+        {
+          "start_ref": "09015001",
+          "start_ref_usfm": "1SA 15:1",
+          "end_ref": "09015035",
+          "end_ref_usfm": "1SA 15:35"
+        },
+        {
+          "start_ref": "10001001",
+          "start_ref_usfm": "2SA 1:1",
+          "end_ref": "10001027",
+          "end_ref_usfm": "2SA 1:27"
+        },
+        {
+          "start_ref": "10001017",
+          "start_ref_usfm": "2SA 1:17",
+          "end_ref": "10001027",
+          "end_ref_usfm": "2SA 1:27"
+        },
+        {
+          "start_ref": "09009001",
+          "start_ref_usfm": "1SA 9:1",
+          "end_ref": "09011015",
+          "end_ref_usfm": "1SA 11:15"
+        },
+        {
+          "start_ref": "09013007",
+          "start_ref_usfm": "1SA 13:7",
+          "end_ref": "09013014",
+          "end_ref_usfm": "1SA 13:14"
+        },
+        {
+          "start_ref": "09014016",
+          "start_ref_usfm": "1SA 14:16",
+          "end_ref": "09014046",
+          "end_ref_usfm": "1SA 14:46"
+        },
+        {
+          "start_ref": "09013001",
+          "start_ref_usfm": "1SA 13:1",
+          "end_ref": "09031013",
+          "end_ref_usfm": "1SA 31:13"
+        },
+        {
+          "start_ref": "13009035",
+          "start_ref_usfm": "1CH 9:35",
+          "end_ref": "13010014",
+          "end_ref_usfm": "1CH 10:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

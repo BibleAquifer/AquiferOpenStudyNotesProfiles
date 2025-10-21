@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 650858,
+    "reference_id": 203442,
+    "title": "羅波安",
+    "media_type": "Text",
+    "index_reference": "羅波安",
+    "language": "zht",
+    "content": "<p>羅波安是所羅門的兒子，母親是一位亞捫女子（<a href=\"https://ref.ly/1Kgs14:21\">王上14:21</a>）。他在四十一歲時登基，從公元前931年到913年，統治了猶大十七年。他以導致所羅門王國的分裂，以及成為南國猶大的第一位君王而聞名。</p><p>所羅門於公元前931年去世後，猶大迅速擁立羅波安為王。然而，北方十支派遲遲未決定是否擁立他為王，因為他們希望擺脫所羅門時期的沉重奴役與苛政（見<a href=\"https://ref.ly/1Kgs12:4\">王上12:4</a>；<a href=\"https://ref.ly/2Chr10:4\">代下10:4</a>）。年長的大臣建議羅波安順應民意，減輕百姓的負擔，但他不予理會，反而聽從年輕臣子的建議，決定比父親更加嚴厲。於是，北方十個支派發動叛亂，擁立所羅門的前工程監督耶羅波安為王。羅波安試圖以武力奪回北方，但神透過先知示瑪雅，告訴他這場戰爭是徒勞的，因為國家的分裂是神的審判（<a href=\"https://ref.ly/2Chr11:1-2Chr11:4\">代下11:1–4</a>）。於是，羅波安返回猶大，並加強邊界的防禦工事（<a href=\"https://ref.ly/2Chr11:5-2Chr11:12\">代下11:5–12</a>）。</p><p>當耶羅波安在北國設立偶像崇拜時，許多祭司和利未人離開北國，遷往南國猶大。他們加強了猶大的屬靈生活，並幫助國保持穩定（<a href=\"https://ref.ly/2Chr11:13-2Chr11:17\">代下11:13–17</a>）。然而，羅波安最終也轉向拜偶像。猶大百姓在全地建造邱壇和異教聖所，效法鄰近民族的邪惡宗教習俗（<a href=\"https://ref.ly/1Kgs14:22-1Kgs14:24\">王上14:22–24</a>）。神不再保護羅波安，使他在公元前926至925年間，遭遇埃及法老示撒（Shishak）的入侵，聖殿內許多貴重的器物被掠奪（<a href=\"https://ref.ly/1Kgs14:25-1Kgs14:26\">王上14:25–26</a>；<a href=\"https://ref.ly/2Chr12:1-2Chr12:5\">代下12:1–5</a>）。羅波安後來用銅盾牌代替所羅門時代的金盾牌（<a href=\"https://ref.ly/1Kgs14:27\">王上14:27</a>），象徵猶大因敬拜假神而失去了昔日的榮耀。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/1Kgs12:1-1Kgs12:24\">王上12:1–24，</a><a href=\"https://ref.ly/1Kgs14:21-1Kgs14:31\">14:21–31</a>；<a href=\"https://ref.ly/2Chr9:31-2Chr12:16\">代下9:31–12:16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11012004",
+          "start_ref_usfm": "1KI 12:4",
+          "end_ref": "11012004",
+          "end_ref_usfm": "1KI 12:4"
+        },
+        {
+          "start_ref": "11014021",
+          "start_ref_usfm": "1KI 14:21",
+          "end_ref": "11014021",
+          "end_ref_usfm": "1KI 14:21"
+        },
+        {
+          "start_ref": "11014027",
+          "start_ref_usfm": "1KI 14:27",
+          "end_ref": "11014027",
+          "end_ref_usfm": "1KI 14:27"
+        },
+        {
+          "start_ref": "14010004",
+          "start_ref_usfm": "2CH 10:4",
+          "end_ref": "14010004",
+          "end_ref_usfm": "2CH 10:4"
+        },
+        {
+          "start_ref": "11014022",
+          "start_ref_usfm": "1KI 14:22",
+          "end_ref": "11014024",
+          "end_ref_usfm": "1KI 14:24"
+        },
+        {
+          "start_ref": "11014025",
+          "start_ref_usfm": "1KI 14:25",
+          "end_ref": "11014026",
+          "end_ref_usfm": "1KI 14:26"
+        },
+        {
+          "start_ref": "14011001",
+          "start_ref_usfm": "2CH 11:1",
+          "end_ref": "14011004",
+          "end_ref_usfm": "2CH 11:4"
+        },
+        {
+          "start_ref": "14011013",
+          "start_ref_usfm": "2CH 11:13",
+          "end_ref": "14011017",
+          "end_ref_usfm": "2CH 11:17"
+        },
+        {
+          "start_ref": "14011005",
+          "start_ref_usfm": "2CH 11:5",
+          "end_ref": "14011012",
+          "end_ref_usfm": "2CH 11:12"
+        },
+        {
+          "start_ref": "11014021",
+          "start_ref_usfm": "1KI 14:21",
+          "end_ref": "11014031",
+          "end_ref_usfm": "1KI 14:31"
+        },
+        {
+          "start_ref": "14012001",
+          "start_ref_usfm": "2CH 12:1",
+          "end_ref": "14012005",
+          "end_ref_usfm": "2CH 12:5"
+        },
+        {
+          "start_ref": "11012001",
+          "start_ref_usfm": "1KI 12:1",
+          "end_ref": "11012024",
+          "end_ref_usfm": "1KI 12:24"
+        },
+        {
+          "start_ref": "14009031",
+          "start_ref_usfm": "2CH 9:31",
+          "end_ref": "14012016",
+          "end_ref_usfm": "2CH 12:16"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

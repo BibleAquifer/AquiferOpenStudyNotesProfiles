@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 650817,
+    "reference_id": 203401,
+    "title": "赫人",
+    "media_type": "Text",
+    "index_reference": "赫人",
+    "language": "zht",
+    "content": "<p>多年來，只有聖經提到赫人。有些學者質疑聖經中關於赫人的歷史記載是否準確，認為赫人並非真實存在的民族。然而，考古學家和歷史學家已經發掘出關於他們的資料。</p><p>赫人的帝國以小亞細亞為中心，其首都位於哈圖沙（Hattusha，現代的巴哈茲科伊〔Baghazkoy〕）。該帝國與眾多城市簽訂服從協議，藉此大幅擴張。這些城市雖然不正式屬於帝國的領土，但必須聽從帝國的命令。赫人的軍隊強大到足以挑戰由傲慢的蘭塞二世（Rameses II）領導的埃及軍隊，他於公元前1279年至公元前1213年在位。赫人在公元前1274年左右於奧龍特斯（Orontes）的加低斯（Kadesh）與蘭塞二世交戰，雙方未分勝負。在亞伯拉罕和其他以色列先祖的時代，赫人控制了迦南地區的城市，如希伯倫。</p><p>「列國表」中記載的赫，即是赫人始祖，亦為迦南的第二個兒子（<a href=\"https://ref.ly/Gen10:15\">創10:15</a>；另見<a href=\"https://ref.ly/1Chr1:13\">代上1:13</a>及其註腳）。赫的兒子多次出現在亞伯拉罕購買麥比拉洞的故事中（<a href=\"https://ref.ly/Gen23:1-Gen23:20\">創23章</a>）。後來，神命令以色列人消滅應許之地中的所有赫人（<a href=\"https://ref.ly/Deut7:1-Deut7:2\">申7:1–2</a>）。但以色列人並未完全遵從神的命令（<a href=\"https://ref.ly/1Kgs9:20-1Kgs9:21\">王上9:20–21</a>）。大衛最優秀的部分戰士是赫人（<a href=\"https://ref.ly/1Sam26:6\">撒上26:6</a>；<a href=\"https://ref.ly/2Sam11:1-2Sam12:31\">撒下11–12</a>）。所羅門也曾與赫人的王進行貿易（<a href=\"https://ref.ly/1Kgs10:29-1Kgs11:1\">王上10:29–11:1</a>）。聖經顯示赫人是當時重要的民族。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Gen23:3-Gen23:20\">創23:3–20</a>，<a href=\"https://ref.ly/Gen26:34-Gen26:35\">26:34–35</a>，<a href=\"https://ref.ly/Gen27:46-Gen28:2\">27:46–28:2</a>；<a href=\"https://ref.ly/Deut7:1\">申命記7:1</a>；<a href=\"https://ref.ly/1Sam26:6\">撒母耳記上26:6</a>；<a href=\"https://ref.ly/2Sam11:2-2Sam11:27\">撒母耳記下11:2–27</a>；<a href=\"https://ref.ly/1Kgs9:20\">列王紀上9:20</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010015",
+          "start_ref_usfm": "GEN 10:15",
+          "end_ref": "01010015",
+          "end_ref_usfm": "GEN 10:15"
+        },
+        {
+          "start_ref": "05007001",
+          "start_ref_usfm": "DEU 7:1",
+          "end_ref": "05007001",
+          "end_ref_usfm": "DEU 7:1"
+        },
+        {
+          "start_ref": "09026006",
+          "start_ref_usfm": "1SA 26:6",
+          "end_ref": "09026006",
+          "end_ref_usfm": "1SA 26:6"
+        },
+        {
+          "start_ref": "11009020",
+          "start_ref_usfm": "1KI 9:20",
+          "end_ref": "11009020",
+          "end_ref_usfm": "1KI 9:20"
+        },
+        {
+          "start_ref": "13001013",
+          "start_ref_usfm": "1CH 1:13",
+          "end_ref": "13001013",
+          "end_ref_usfm": "1CH 1:13"
+        },
+        {
+          "start_ref": "01023001",
+          "start_ref_usfm": "GEN 23:1",
+          "end_ref": "01023020",
+          "end_ref_usfm": "GEN 23:20"
+        },
+        {
+          "start_ref": "05007001",
+          "start_ref_usfm": "DEU 7:1",
+          "end_ref": "05007002",
+          "end_ref_usfm": "DEU 7:2"
+        },
+        {
+          "start_ref": "01026034",
+          "start_ref_usfm": "GEN 26:34",
+          "end_ref": "01026035",
+          "end_ref_usfm": "GEN 26:35"
+        },
+        {
+          "start_ref": "10011001",
+          "start_ref_usfm": "2SA 11:1",
+          "end_ref": "10012031",
+          "end_ref_usfm": "2SA 12:31"
+        },
+        {
+          "start_ref": "11009020",
+          "start_ref_usfm": "1KI 9:20",
+          "end_ref": "11009021",
+          "end_ref_usfm": "1KI 9:21"
+        },
+        {
+          "start_ref": "01027046",
+          "start_ref_usfm": "GEN 27:46",
+          "end_ref": "01028002",
+          "end_ref_usfm": "GEN 28:2"
+        },
+        {
+          "start_ref": "10011002",
+          "start_ref_usfm": "2SA 11:2",
+          "end_ref": "10011027",
+          "end_ref_usfm": "2SA 11:27"
+        },
+        {
+          "start_ref": "11010029",
+          "start_ref_usfm": "1KI 10:29",
+          "end_ref": "11011001",
+          "end_ref_usfm": "1KI 11:1"
+        },
+        {
+          "start_ref": "01023003",
+          "start_ref_usfm": "GEN 23:3",
+          "end_ref": "01023020",
+          "end_ref_usfm": "GEN 23:20"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

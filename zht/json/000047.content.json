@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 650911,
+    "reference_id": 203495,
+    "title": "亞那和該亞法",
+    "media_type": "Text",
+    "index_reference": "亞那和該亞法",
+    "language": "zht",
+    "content": "<p>亞那和該亞法都是耶穌時代的大祭司。他們在判處耶穌死刑的過程中，扮演關鍵的角色。</p><p>亞那在公元6至15年左右擔任猶太大祭司。即使在猶太行省的羅馬<span>巡撫</span>將他罷免後，他在猶太公會中仍有極大的權力和影響力。即使在十五到二十年後，人們仍稱他為「大祭司」（<a href=\"https://ref.ly/Luke3:2\">路3:2</a>；<a href=\"https://ref.ly/Acts4:6\">徒4:6</a>）。這可能是因為猶太人認為大祭司的職位是終身的。他的五個兒子和女婿該亞法，在他之後都成為了大祭司。根據約翰福音，當耶穌被捕時，他先被帶到亞那那裡接受審訊，然後才交給該亞法進行正式審判（<a href=\"https://ref.ly/John18:13-John18:24\">約18:13–24</a>）。</p><p>該亞法在公元18至36年左右擔任猶太大祭司。他與具有影響力的岳父亞那緊密合作。該亞法在公會中辯稱，犧牲耶穌比冒著國家滅亡的風險要好（<a href=\"https://ref.ly/John11:49-John11:50\">約11:49–50</a>）。因為他是大祭司，神藉著他說出這番預言的話語（<a href=\"https://ref.ly/John11:51-John11:52\">約11:51–52</a>）。在耶穌受審期間，當耶穌稱自己是神的兒子時，該亞法撕裂了他的衣服。他敦促公會以褻瀆罪判處耶穌死刑（<a href=\"https://ref.ly/Matt26:57-Matt26:66\">太26:57–66</a>）。</p><p>在耶穌被處死後不久，猶太領袖擔心基督追隨者不斷增加。亞那和該亞法曾審問彼得和約翰，因他們曾治癒瘸腿乞丐並宣講死人復活（<a href=\"https://ref.ly/Acts4:5-Acts4:7\">徒4:5–7</a>）。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Matt26:3-Matt26:5\">太26:3–5</a>、<a href=\"https://ref.ly/Matt26:57-Matt26:67\">57–67</a>；<a href=\"https://ref.ly/Mark14:53-Mark14:65\">可14:53–65</a>；<a href=\"https://ref.ly/Luke3:2\">路3:2</a>；<a href=\"https://ref.ly/John11:49-John11:53\">約11:49–53</a>；<a href=\"https://ref.ly/John18:13-John18:28\">約18:13–28</a>；<a href=\"https://ref.ly/Acts4:5-Acts4:7\">徒4:5–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42003002",
+          "start_ref_usfm": "LUK 3:2",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "44004006",
+          "start_ref_usfm": "ACT 4:6",
+          "end_ref": "44004006",
+          "end_ref_usfm": "ACT 4:6"
+        },
+        {
+          "start_ref": "41014053",
+          "start_ref_usfm": "MRK 14:53",
+          "end_ref": "41014065",
+          "end_ref_usfm": "MRK 14:65"
+        },
+        {
+          "start_ref": "43011051",
+          "start_ref_usfm": "JHN 11:51",
+          "end_ref": "43011052",
+          "end_ref_usfm": "JHN 11:52"
+        },
+        {
+          "start_ref": "40026003",
+          "start_ref_usfm": "MAT 26:3",
+          "end_ref": "40026005",
+          "end_ref_usfm": "MAT 26:5"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026066",
+          "end_ref_usfm": "MAT 26:66"
+        },
+        {
+          "start_ref": "44004005",
+          "start_ref_usfm": "ACT 4:5",
+          "end_ref": "44004007",
+          "end_ref_usfm": "ACT 4:7"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018024",
+          "end_ref_usfm": "JHN 18:24"
+        },
+        {
+          "start_ref": "43011049",
+          "start_ref_usfm": "JHN 11:49",
+          "end_ref": "43011050",
+          "end_ref_usfm": "JHN 11:50"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026067",
+          "end_ref_usfm": "MAT 26:67"
+        },
+        {
+          "start_ref": "43011049",
+          "start_ref_usfm": "JHN 11:49",
+          "end_ref": "43011053",
+          "end_ref_usfm": "JHN 11:53"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018028",
+          "end_ref_usfm": "JHN 18:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

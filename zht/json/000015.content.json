@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 650878,
+    "reference_id": 203462,
+    "title": "以斯帖",
+    "media_type": "Text",
+    "index_reference": "以斯帖",
+    "language": "zht",
+    "content": "<p>以斯帖是波斯的皇后，當時的統治者是薛西一世（也稱為亞哈隨魯），他從公元前486年統治到公元前465年。她是<em>散居者</em>（Diaspora，「分散」）的一員，即是那些在被擄於巴比倫時期，散居到各國的猶太人後裔。她的家族與部分猶太人不同（見<a href=\"https://ref.ly/Ezra1:1-Ezra2:70\">拉1–2章</a>），並未返回猶大，而是選擇跟其餘的人一樣留在波斯。她的堂兄末底改在波斯政府中擔任重要職位，顯示她的家族已經變得富有且安穩。</p><p>以斯帖是一位由堂兄末底改撫養長大的孤兒，末底改是波斯政府在書珊城的一位小官員。以斯帖成為王后，是在薛西（亞哈隨魯）王廢除原王后瓦實提後，因為她拒絕聽命出席宴會（<a href=\"https://ref.ly/Esth1:11-Esth1:12\">斯1:11–12</a>）。</p><p>在以斯帖加冕後，她默默地取得了薛西（亞哈隨魯）的信任，因她揭發了一個暗殺的陰謀（<a href=\"https://ref.ly/Esth2:21-Esth2:23\">斯2:21–23</a>）。這也讓她後來有機會能拯救她的族人，免於哈曼——一位王的高官——所策劃的大屠殺。因著她明智的建議和英勇的行動，以斯帖揭露了哈曼的計謀。最終，哈曼被處決，猶太人民得以倖免。猶太人的普珥節就是為了慶祝這些事件而創立的。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Esth2:7-Esth2:20\">斯2:7–20</a>，<a href=\"https://ref.ly/Esth4:4-Esth5:8\">4:4–5:8</a>，<a href=\"https://ref.ly/Esth7:1-Esth9:32\">7:1–9:32</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "17002021",
+          "start_ref_usfm": "EST 2:21",
+          "end_ref": "17002023",
+          "end_ref_usfm": "EST 2:23"
+        },
+        {
+          "start_ref": "17001011",
+          "start_ref_usfm": "EST 1:11",
+          "end_ref": "17001012",
+          "end_ref_usfm": "EST 1:12"
+        },
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15002070",
+          "end_ref_usfm": "EZR 2:70"
+        },
+        {
+          "start_ref": "17002007",
+          "start_ref_usfm": "EST 2:7",
+          "end_ref": "17002020",
+          "end_ref_usfm": "EST 2:20"
+        },
+        {
+          "start_ref": "17004004",
+          "start_ref_usfm": "EST 4:4",
+          "end_ref": "17005008",
+          "end_ref_usfm": "EST 5:8"
+        },
+        {
+          "start_ref": "17007001",
+          "start_ref_usfm": "EST 7:1",
+          "end_ref": "17009032",
+          "end_ref_usfm": "EST 9:32"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
