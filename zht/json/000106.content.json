@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 650828,
+    "reference_id": 203412,
+    "title": "葉忒羅（流珥）",
+    "media_type": "Text",
+    "index_reference": "葉忒羅（流珥）",
+    "language": "zht",
+    "content": "<p>葉忒羅，又名流珥（<a href=\"https://ref.ly/Exod2:16-Exod2:18\">出2:16–18</a>；<a href=\"https://ref.ly/Num10:29\">民10:29</a>），是米甸的祭司（<a href=\"https://ref.ly/Exod2:16\">出2:16</a>）。摩西曾經在井邊，從粗暴的牧人手中救了葉忒羅的七個女兒，並幫助她們給羊群飲水。回到家後，她們向父親述說了這位埃及人幫助她們的驚人事蹟。葉忒羅心存感恩，邀請摩西一起用餐。摩西決定在那裡定居。後來，葉忒羅將女兒西坡拉許配給摩西為妻。</p><p>當摩西與他的岳父住在米甸時，他在燃燒的荊棘中遇見了神（<a href=\"https://ref.ly/Exod3:1-Exod3:2\">出3:1–2</a>）。在前往埃及之前，摩西向葉忒羅請求許可離開。後來，在出埃及的期間，他將家人送回與葉忒羅同住。</p><p>當摩西和以色列人在曠野時，葉忒羅帶著摩西的家人回到他們身邊。葉忒羅聽聞雅巍（耶和華）拯救祂的百姓出埃及，便承認耶和華比萬神都大。他以燔祭和祭物敬拜雅巍，表明自己與以色列同行（<a href=\"https://ref.ly/Exod18:11\">出18:11</a>）。為此，以色列的領袖們與他一同在神的面前分享祭物（<a href=\"https://ref.ly/Exod18:12\">出18:12</a>）。</p><p>葉忒羅注意到摩西因管理眾多以色列人而感到不堪重負。他建議摩西更好地組織百姓，並處理他們的爭端（<a href=\"https://ref.ly/Exod18:13-Exod18:23\">出18:13–23</a>）。摩西聽從了這個建議，選出有才幹的人擔任領袖和審判官相助（<a href=\"https://ref.ly/Exod18:24-Exod18:27\">出18:24–27</a>）。葉忒羅後來回到米甸，並未再與以色列有進一步的接觸，但他的兒子（<a href=\"https://ref.ly/Num10:29-Num10:33\">民10:29–33</a>）及其他後裔後來與以色列人一同定居（<a href=\"https://ref.ly/Judg1:16\">士1:16</a>，<a href=\"https://ref.ly/Judg4:11\">4:11</a>）。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Exod2:16-Exod2:25\">出2:16–25</a>，<a href=\"https://ref.ly/Exod3:1\">3:1</a>，<a href=\"https://ref.ly/Exod18:1-Exod18:27\">18:1–27</a>；<a href=\"https://ref.ly/Num10:29\">民10:29</a>；<a href=\"https://ref.ly/Judg1:16\">士1:16</a>，<a href=\"https://ref.ly/Judg4:11\">4:11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02002016",
+          "start_ref_usfm": "EXO 2:16",
+          "end_ref": "02002016",
+          "end_ref_usfm": "EXO 2:16"
+        },
+        {
+          "start_ref": "02003001",
+          "start_ref_usfm": "EXO 3:1",
+          "end_ref": "02003001",
+          "end_ref_usfm": "EXO 3:1"
+        },
+        {
+          "start_ref": "02018011",
+          "start_ref_usfm": "EXO 18:11",
+          "end_ref": "02018011",
+          "end_ref_usfm": "EXO 18:11"
+        },
+        {
+          "start_ref": "02018012",
+          "start_ref_usfm": "EXO 18:12",
+          "end_ref": "02018012",
+          "end_ref_usfm": "EXO 18:12"
+        },
+        {
+          "start_ref": "04010029",
+          "start_ref_usfm": "NUM 10:29",
+          "end_ref": "04010029",
+          "end_ref_usfm": "NUM 10:29"
+        },
+        {
+          "start_ref": "07001016",
+          "start_ref_usfm": "JDG 1:16",
+          "end_ref": "07001016",
+          "end_ref_usfm": "JDG 1:16"
+        },
+        {
+          "start_ref": "07004011",
+          "start_ref_usfm": "JDG 4:11",
+          "end_ref": "07004011",
+          "end_ref_usfm": "JDG 4:11"
+        },
+        {
+          "start_ref": "02018013",
+          "start_ref_usfm": "EXO 18:13",
+          "end_ref": "02018023",
+          "end_ref_usfm": "EXO 18:23"
+        },
+        {
+          "start_ref": "02018001",
+          "start_ref_usfm": "EXO 18:1",
+          "end_ref": "02018027",
+          "end_ref_usfm": "EXO 18:27"
+        },
+        {
+          "start_ref": "04010029",
+          "start_ref_usfm": "NUM 10:29",
+          "end_ref": "04010033",
+          "end_ref_usfm": "NUM 10:33"
+        },
+        {
+          "start_ref": "02002016",
+          "start_ref_usfm": "EXO 2:16",
+          "end_ref": "02002018",
+          "end_ref_usfm": "EXO 2:18"
+        },
+        {
+          "start_ref": "02002016",
+          "start_ref_usfm": "EXO 2:16",
+          "end_ref": "02002025",
+          "end_ref_usfm": "EXO 2:25"
+        },
+        {
+          "start_ref": "02003001",
+          "start_ref_usfm": "EXO 3:1",
+          "end_ref": "02003002",
+          "end_ref_usfm": "EXO 3:2"
+        },
+        {
+          "start_ref": "02018024",
+          "start_ref_usfm": "EXO 18:24",
+          "end_ref": "02018027",
+          "end_ref_usfm": "EXO 18:27"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

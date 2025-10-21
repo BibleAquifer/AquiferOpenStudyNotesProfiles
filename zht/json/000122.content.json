@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 650932,
+    "reference_id": 203516,
+    "title": "羅馬皇帝",
+    "media_type": "Text",
+    "index_reference": "羅馬皇帝",
+    "language": "zht",
+    "content": "<ol><li><p><strong>奧古斯都</strong>（屋大維〔Octavian〕）在公元前27年至公元14年統治羅馬。他在公元前31年的亞克興戰役（Battle of Actium）中擊敗馬克·安東尼（Marc Antony）後，成為第一位羅馬皇帝。他的統治充滿智慧，並且成功管理帝國。他在公元前27年獲得「奧古斯都」的尊號，這也開啟了皇帝崇拜的傳統。</p><p><em>見</em><a href=\"https://ref.ly/Luke2:1\"><em>路2:1</em></a>。</p></li><li><p><strong>提庇留</strong>在公元14年到37年統治羅馬。他是奧古斯都的養子，並被奧古斯都選為繼任皇帝。提庇留是一位聰慧且謙遜的統治者，他任命本丟·彼拉多為猶太巡撫。</p><p><em>見</em><a href=\"https://ref.ly/Luke3:1\"><em>路3:1</em></a><em>；</em><a href=\"https://ref.ly/John19:12\"><em>約19:12</em></a>。</p></li><li><p>（該猶）<strong>卡理古拉</strong>（Caligula）在公元37年到41年統治羅馬。他是奧古斯都麾下的將軍日爾曼尼庫斯（Germanicus）之子。由於他年幼時穿著軍服，因此獲得了卡理古拉（Caligula，意為「小靴子」）的綽號。後來，他的心智變得混亂，揮霍國庫資金，殘暴統治百姓，最終遭到敵人刺殺。</p></li><li><p><strong>克勞第</strong>在公元41年至54年統治羅馬。他是提庇留的侄子。在卡利古拉去世後，皇家禁衛軍（Praetorian Guard）擁立他為皇帝。他是希律亞基帕一世的朋友。克勞第曾停止逼迫亞歷山大的猶太人，但後來在公元49年左右將猶太人逐出羅馬。他娶了尼祿（Nero）的母親亞基嬪娜（Agrippina），最終被她下毒害死。</p><p><em>見</em><a href=\"https://ref.ly/Acts18:2\"><em>徒18:2</em></a>。</p></li><li><p><strong>尼祿</strong>在公元54年至68年統治羅馬。他由克勞第收養，並在克勞第去世後繼位。他沉溺於個人享樂。保羅曾向尼祿上訴，並教導羅馬的基督徒順服他的統治。後來，尼祿殺害了自己的妻子和母親，並成為第一位逼迫基督徒的羅馬皇帝。</p><p><em>見</em><a href=\"https://ref.ly/Acts25:11\"><em>徒25:11</em></a><em>；</em><a href=\"https://ref.ly/Rom13:1-Rom13:7\"><em>羅13:1–7</em></a>。</p></li><li><p><strong>維斯帕先</strong>（Vespasian）在公元69年到79年統治罹馬。他是一位顯赫的將軍，出身於一個稅吏家庭。他在公元67年入侵加利利，發動猶太戰爭。他登基後，改善了羅馬的財政狀況，重組軍隊，以公正的治理風格聞名。他也開始修建羅馬競技場（Colosseum）。他最終因病去世。</p></li><li><p><span><strong>提圖斯</strong>（</span>Titus<span>）在</span>公元79年到81年統治羅馬。他是維斯帕先的兒子，在公元70年攻陷耶路撒冷，結束猶太戰爭。他建成了羅馬競技場，並在公元79年維蘇威火山（Mount Vesuvius）爆發與公元80年羅馬大火後提供災後救援。他最終因發燒去世。</p></li><li><p><strong>多米田</strong>（Domitian）在公元81年到96年統治羅馬。他是維斯帕先的次子，一直生活在哥哥提圖斯的陰影之下，渴望權力。他在位期間，是一位能幹的管理者，重建了羅馬受損的地區，並自稱為神。他加徵新稅，並在晚年殘酷逼迫基督徒。最終，他被政敵刺殺。</p></li></ol><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Rev17:9-Rev17:11\">啟17:9–11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42002001",
+          "start_ref_usfm": "LUK 2:1",
+          "end_ref": "42002001",
+          "end_ref_usfm": "LUK 2:1"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003001",
+          "end_ref_usfm": "LUK 3:1"
+        },
+        {
+          "start_ref": "43019012",
+          "start_ref_usfm": "JHN 19:12",
+          "end_ref": "43019012",
+          "end_ref_usfm": "JHN 19:12"
+        },
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "44025011",
+          "start_ref_usfm": "ACT 25:11",
+          "end_ref": "44025011",
+          "end_ref_usfm": "ACT 25:11"
+        },
+        {
+          "start_ref": "45013001",
+          "start_ref_usfm": "ROM 13:1",
+          "end_ref": "45013007",
+          "end_ref_usfm": "ROM 13:7"
+        },
+        {
+          "start_ref": "66017009",
+          "start_ref_usfm": "REV 17:9",
+          "end_ref": "66017011",
+          "end_ref_usfm": "REV 17:11"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

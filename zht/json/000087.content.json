@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 650905,
+    "reference_id": 203489,
+    "title": "馬大，馬利亞，和拉撒路",
+    "media_type": "Text",
+    "index_reference": "馬大，馬利亞，和拉撒路",
+    "language": "zht",
+    "content": "<p>馬大和馬利亞姐妹與她們的兄弟拉撒路住在伯大尼，靠近耶路撒冷。耶穌愛這個家庭，並和他們同住。路加福音和約翰福音都提到馬大和馬利亞，而拉撒路只出現在約翰福音中。這裡的拉撒路不是<a href=\"https://ref.ly/Luke16:19-Luke16:31\">路加福音十六章19至31節</a>中那討飯的。</p><p>路加對馬大和馬利亞的描述（<a href=\"https://ref.ly/Luke10:38-Luke10:42\">路10:38–42</a>）突顯了兩姐妹之間的對比。當耶穌拜訪她們家時，馬大為了膳食而忙碌，對妹妹不幫忙預備而不滿。馬利亞卻坐著聽耶穌講道，耶穌認可了馬利亞的選擇，說這是最重要的事。</p><p>約翰福音講述了耶穌使拉撒路從死裡復活的故事（<a href=\"https://ref.ly/John11:1-John11:44\">約11:1–44</a>）。耶穌在拉撒路去世四天後來到伯大尼。兩位姐妹對於耶穌沒有更早來醫治她們的兄弟而不滿。耶穌被家人和朋友的淚水深深打動。他來到墳墓前，吩咐拉撒路出來。令所有人驚訝的是，拉撒路走了出來，身上卻仍裹著裹屍布。這個神蹟表明耶穌是永生的賜予者（<a href=\"https://ref.ly/John11:25-John11:26\">約11:25–26</a>）。諷刺的是，這行為也促使猶太領袖計劃殺害耶穌，因為許多人相信了耶穌的神蹟（<a href=\"https://ref.ly/John11:47-John11:53\">約11:47–53</a>，<a href=\"https://ref.ly/John12:10-John12:11\">12:10–11</a>）。</p><p>不久之後，這家人邀請耶穌到他們家中，參加慶祝的筵席。馬利亞將非常昂貴的香膏倒在耶穌身上。當人們批評她浪費時，耶穌為她辯護。說她的行為是為耶穌自己即將到來的死亡而預備（<a href=\"https://ref.ly/John12:1-John12:8\">約12:1–8</a>；另見<a href=\"https://ref.ly/Matt26:6-Matt26:13\">太26:6–13</a>；<a href=\"https://ref.ly/Mark14:3-Mark14:9\">可14:3–9</a>）。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Matt26:6-Matt26:13\">太26:6–13</a>；<a href=\"https://ref.ly/Mark14:3-Mark14:9\">可14:3–9</a>；<a href=\"https://ref.ly/Luke10:38-Luke10:42\">路10:38–42</a>；<a href=\"https://ref.ly/John11:1-John11:44\">約11:1–44</a>，<a href=\"https://ref.ly/John12:1-John12:11\">12:1–11</a>、<a href=\"https://ref.ly/John12:17\">17</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43012017",
+          "start_ref_usfm": "JHN 12:17",
+          "end_ref": "43012017",
+          "end_ref_usfm": "JHN 12:17"
+        },
+        {
+          "start_ref": "42016019",
+          "start_ref_usfm": "LUK 16:19",
+          "end_ref": "42016031",
+          "end_ref_usfm": "LUK 16:31"
+        },
+        {
+          "start_ref": "40026006",
+          "start_ref_usfm": "MAT 26:6",
+          "end_ref": "40026013",
+          "end_ref_usfm": "MAT 26:13"
+        },
+        {
+          "start_ref": "41014003",
+          "start_ref_usfm": "MRK 14:3",
+          "end_ref": "41014009",
+          "end_ref_usfm": "MRK 14:9"
+        },
+        {
+          "start_ref": "43011025",
+          "start_ref_usfm": "JHN 11:25",
+          "end_ref": "43011026",
+          "end_ref_usfm": "JHN 11:26"
+        },
+        {
+          "start_ref": "43011001",
+          "start_ref_usfm": "JHN 11:1",
+          "end_ref": "43011044",
+          "end_ref_usfm": "JHN 11:44"
+        },
+        {
+          "start_ref": "42010038",
+          "start_ref_usfm": "LUK 10:38",
+          "end_ref": "42010042",
+          "end_ref_usfm": "LUK 10:42"
+        },
+        {
+          "start_ref": "43012010",
+          "start_ref_usfm": "JHN 12:10",
+          "end_ref": "43012011",
+          "end_ref_usfm": "JHN 12:11"
+        },
+        {
+          "start_ref": "43012001",
+          "start_ref_usfm": "JHN 12:1",
+          "end_ref": "43012011",
+          "end_ref_usfm": "JHN 12:11"
+        },
+        {
+          "start_ref": "43012001",
+          "start_ref_usfm": "JHN 12:1",
+          "end_ref": "43012008",
+          "end_ref_usfm": "JHN 12:8"
+        },
+        {
+          "start_ref": "43011047",
+          "start_ref_usfm": "JHN 11:47",
+          "end_ref": "43011053",
+          "end_ref_usfm": "JHN 11:53"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

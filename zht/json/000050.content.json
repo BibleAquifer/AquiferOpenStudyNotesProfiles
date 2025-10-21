@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 650865,
+    "reference_id": 203449,
+    "title": "亞哈斯",
+    "media_type": "Text",
+    "index_reference": "亞哈斯",
+    "language": "zht",
+    "content": "<p>從公元前743至715年，亞哈斯在一個艱難的時期統治猶大。他的父親約坦和他的兒子希西家因遵行耶和華的道而受到稱讚（見<a href=\"https://ref.ly/2Kgs15:32-2Kgs15:38\">王下15:32–38</a>；<a href=\"https://ref.ly/2Chr27:1-2Chr27:9\">代下27:1–9</a>；和<a href=\"https://ref.ly/2Kgs18:1-2Kgs18:8\">王下18:1–8</a>）。然而，亞哈斯卻行惡事，甚至將自己的一個兒子獻祭給假神。</p><p>在亞哈斯統治期間，戰亂不斷。以色列王比加和亞蘭（敘利亞）王利汛希望他加入一個對抗亞述的聯盟，但他拒絕了。於是，比加和利汛聯手攻打猶大並取得了重大的勝利，這讓亞哈斯非常恐懼。先知以賽亞鼓勵亞哈斯信靠耶和華，但亞哈斯拒絕如此行（<a href=\"https://ref.ly/Isa7:1-Isa7:25\">賽7</a>）。</p><p>亞哈斯向提革拉‧毗列色三世求助，顯明了他不信靠真神（<a href=\"https://ref.ly/2Kgs16:7-2Kgs16:9\">王下16:7–9</a>）。亞哈斯使猶大危險地依賴亞述，將其變成了亞述的附庸國。亞述王隨後在公元前734至732年的兩年戰役中擊敗亞蘭人，並殺死了利汛。他征服了以色列，將比加的大片領土併入亞述帝國（<a href=\"https://ref.ly/2Kgs15:29\">王下15:29</a>）。</p><p>亞哈斯成為亞述的忠實追隨者。他效仿了許多亞述的宗教習俗。亞哈斯上大馬士革去拜訪提革拉‧毗列色三世。在那裡，他看見一座亞述的壇，就將<span>壇的規模樣式</span>送到耶路撒冷。命人在耶路撒冷建<span>造</span>了一座類似的壇，取代了原來的銅壇（<a href=\"https://ref.ly/2Kgs16:10-2Kgs16:18\">王下16:10–18</a>）。對聖殿的其它幾處改變也顯示了亞哈斯背離了對耶和華的信仰。</p><p>亞哈斯的作為說明了猶大人最終被流放的原因。他沒有像一個合格的王那樣行事（<a href=\"https://ref.ly/Deut17:14-Deut17:20\">申17:14–20</a>）。他也沒有敬拜耶和華。當他死後，他的兒子希西家<span>接續他作王</span>（<a href=\"https://ref.ly/2Kgs16:20\">王下16:20</a>）。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/2Kgs15:38-2Kgs16:20\">王下15:38–16:20</a>；<a href=\"https://ref.ly/2Chr27:9-2Chr28:27\">代下27:9–28:27</a>；<a href=\"https://ref.ly/Isa7:1-Isa7:25\">賽7:1–25</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12015029",
+          "start_ref_usfm": "2KI 15:29",
+          "end_ref": "12015029",
+          "end_ref_usfm": "2KI 15:29"
+        },
+        {
+          "start_ref": "12016020",
+          "start_ref_usfm": "2KI 16:20",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "23007001",
+          "start_ref_usfm": "ISA 7:1",
+          "end_ref": "23007025",
+          "end_ref_usfm": "ISA 7:25"
+        },
+        {
+          "start_ref": "12016007",
+          "start_ref_usfm": "2KI 16:7",
+          "end_ref": "12016009",
+          "end_ref_usfm": "2KI 16:9"
+        },
+        {
+          "start_ref": "12016010",
+          "start_ref_usfm": "2KI 16:10",
+          "end_ref": "12016018",
+          "end_ref_usfm": "2KI 16:18"
+        },
+        {
+          "start_ref": "05017014",
+          "start_ref_usfm": "DEU 17:14",
+          "end_ref": "05017020",
+          "end_ref_usfm": "DEU 17:20"
+        },
+        {
+          "start_ref": "12015032",
+          "start_ref_usfm": "2KI 15:32",
+          "end_ref": "12015038",
+          "end_ref_usfm": "2KI 15:38"
+        },
+        {
+          "start_ref": "14027001",
+          "start_ref_usfm": "2CH 27:1",
+          "end_ref": "14027009",
+          "end_ref_usfm": "2CH 27:9"
+        },
+        {
+          "start_ref": "12018001",
+          "start_ref_usfm": "2KI 18:1",
+          "end_ref": "12018008",
+          "end_ref_usfm": "2KI 18:8"
+        },
+        {
+          "start_ref": "12015038",
+          "start_ref_usfm": "2KI 15:38",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "14027009",
+          "start_ref_usfm": "2CH 27:9",
+          "end_ref": "14028027",
+          "end_ref_usfm": "2CH 28:27"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

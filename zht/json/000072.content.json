@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 650844,
+    "reference_id": 203428,
+    "title": "約拿單",
+    "media_type": "Text",
+    "index_reference": "約拿單",
+    "language": "zht",
+    "content": "<p>約拿單是掃羅王的長子。他本應是掃羅之後的繼任王。然而，當神棄絕掃羅並揀選大衛時，約拿單也支持大衛掌權（<a href=\"https://ref.ly/1Sam18:1-1Sam18:4\">撒上18:1–4</a>；<a href=\"https://ref.ly/1Sam19:1-1Sam19:7\">19:1–7</a>）。</p><p>約拿單是傑出的軍事領袖。他帶領父親的軍隊在迦巴戰勝了非利士的軍隊（<a href=\"https://ref.ly/1Sam13:3-1Sam13:4\">撒上13:3–4</a>）。在另一個大膽的行動中，約拿單和為他拿兵器的，親自攻擊非利士隘口，在非利士軍隊中引起混亂和混淆，使以色列的主要軍隊有機會攻擊他們並獲勝（<a href=\"https://ref.ly/1Sam14:1-1Sam14:23\">撒上14:1–23</a>；另見大衛對約拿單的哀歌，<a href=\"https://ref.ly/2Sam1:22\">撒下1:22</a>）。</p><p>掃羅愚昧起誓，叫人們在得勝之前什麼也不可吃。約拿單不知道這個誓言，吃了一些蜜。他其後得知掃羅的誓言，強烈批評了這個誓言。若不是百姓介入，掃羅會在因約拿單才得勝的戰爭後處死他。</p><p>約拿單和大衛相遇時，很快成為朋友（<a href=\"https://ref.ly/1Sam18:1-1Sam18:4\">撒上18:1–4</a>）。約拿單給了大衛他的長袍、外衣、劍、弓和腰帶來表達他對大衛的深厚愛意。這可能意味著約拿單相信大衛應該成為下一任統治者。當掃羅試圖殺死大衛時，約拿單為大衛說話，並幫助他安全逃脫。</p><p>即使在耶和華明確表示祂已離開掃羅之後，約拿單仍然與他的父親在一起。結果，約拿單在與非利士人作戰時和掃羅一同陣亡（<a href=\"https://ref.ly/1Sam31:2\">撒上31:2</a>；<a href=\"https://ref.ly/1Chr10:2\">代上10:2</a>）。約拿單是有德行、勇敢且無私的人，總是以誠實的言行著稱。他的愛與勇氣幫助大衛在掃羅王瘋狂的攻擊中存活下來。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/1Sam13:1-1Sam14:46\">撒上13:1–14:46</a>，<a href=\"https://ref.ly/1Sam18:1-1Sam18:4\">18:1–4</a>，<a href=\"https://ref.ly/1Sam20:1-1Sam20:42\">20:1–42</a>，<a href=\"https://ref.ly/1Sam23:16-1Sam23:18\">23:16–18</a>，<a href=\"https://ref.ly/1Sam31:2\">31:2</a>，<a href=\"https://ref.ly/2Sam1:1-2Sam1:27\">撒下1:1–27</a>，<a href=\"https://ref.ly/2Sam4:4\">4:4</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09031002",
+          "start_ref_usfm": "1SA 31:2",
+          "end_ref": "09031002",
+          "end_ref_usfm": "1SA 31:2"
+        },
+        {
+          "start_ref": "10001022",
+          "start_ref_usfm": "2SA 1:22",
+          "end_ref": "10001022",
+          "end_ref_usfm": "2SA 1:22"
+        },
+        {
+          "start_ref": "10004004",
+          "start_ref_usfm": "2SA 4:4",
+          "end_ref": "10004004",
+          "end_ref_usfm": "2SA 4:4"
+        },
+        {
+          "start_ref": "13010002",
+          "start_ref_usfm": "1CH 10:2",
+          "end_ref": "13010002",
+          "end_ref_usfm": "1CH 10:2"
+        },
+        {
+          "start_ref": "10001001",
+          "start_ref_usfm": "2SA 1:1",
+          "end_ref": "10001027",
+          "end_ref_usfm": "2SA 1:27"
+        },
+        {
+          "start_ref": "09020001",
+          "start_ref_usfm": "1SA 20:1",
+          "end_ref": "09020042",
+          "end_ref_usfm": "1SA 20:42"
+        },
+        {
+          "start_ref": "09019001",
+          "start_ref_usfm": "1SA 19:1",
+          "end_ref": "09019007",
+          "end_ref_usfm": "1SA 19:7"
+        },
+        {
+          "start_ref": "09014001",
+          "start_ref_usfm": "1SA 14:1",
+          "end_ref": "09014023",
+          "end_ref_usfm": "1SA 14:23"
+        },
+        {
+          "start_ref": "09013003",
+          "start_ref_usfm": "1SA 13:3",
+          "end_ref": "09013004",
+          "end_ref_usfm": "1SA 13:4"
+        },
+        {
+          "start_ref": "09018001",
+          "start_ref_usfm": "1SA 18:1",
+          "end_ref": "09018004",
+          "end_ref_usfm": "1SA 18:4"
+        },
+        {
+          "start_ref": "09013001",
+          "start_ref_usfm": "1SA 13:1",
+          "end_ref": "09014046",
+          "end_ref_usfm": "1SA 14:46"
+        },
+        {
+          "start_ref": "09023016",
+          "start_ref_usfm": "1SA 23:16",
+          "end_ref": "09023018",
+          "end_ref_usfm": "1SA 23:18"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

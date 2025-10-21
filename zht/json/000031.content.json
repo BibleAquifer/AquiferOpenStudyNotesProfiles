@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 650845,
+    "reference_id": 203429,
+    "title": "米甲",
+    "media_type": "Text",
+    "index_reference": "米甲",
+    "language": "zht",
+    "content": "<p>米甲是掃羅王的次女（<a href=\"https://ref.ly/1Sam14:49\">撒上14:49</a>）。她是大衛王的第一位妻子（<a href=\"https://ref.ly/1Sam18:17-1Sam18:27\">18:17–27</a>）。她在掃羅過渡到大衛的統治過程中，扮演了重要角色。</p><p>在古代近東，領袖家族經常因政治原因安排婚姻。掃羅承諾將他的長女米拉嫁給大衛，試圖藉此陷害他，條件是大衛與非利士人作戰。大衛是一位英勇的戰士，正成為掃羅國中的領袖。王本該為這樣的夥伴而高興，但他很快就嫉妒大衛的成功，並懷疑他的目標。</p><p>掃羅希望大衛在戰鬥中死去，但計劃失敗了。後來，掃羅發現他的次女米甲愛上了大衛（<a href=\"https://ref.ly/1Sam18:20\">撒上18:20</a>）。這給了他另一個機會，引誘大衛去與非利士人作戰。這次，大衛同意了。當大衛凱旋而歸時，掃羅不得不將他的女兒嫁給大衛。當大衛於北方支派建立聲名時，這場聯姻幫助了他（<a href=\"https://ref.ly/2Sam3:13-2Sam3:16\">撒下3:13–16</a>）。</p><p>米甲在他們的關係初期愛著大衛，甚至欺騙她的父親來幫助大衛逃脫殺害他的計劃（<a href=\"https://ref.ly/1Sam19:11-1Sam19:17\">撒上19:11–17</a>）。大衛離開掃羅的宮廷後，掃羅為她安排另一段婚姻（<a href=\"https://ref.ly/1Sam25:44\">撒上25:44</a>）。但大衛後來結束與米甲的婚姻，接了她回去（<a href=\"https://ref.ly/2Sam3:13-2Sam3:16\">撒下3:13–16</a>）。當約櫃被帶入耶路撒冷時，大衛在約櫃前跳舞，米甲因此輕視大衛（<a href=\"https://ref.ly/2Sam6:16-2Sam6:23\">撒下6:16–23</a>）。由於米甲輕視大衛王，因此<span>沒有生養兒女</span>。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/1Sam14:49\">撒上14:49</a>，<a href=\"https://ref.ly/1Sam18:17-1Sam18:30\">18:17–30</a>，<a href=\"https://ref.ly/1Sam19:11-1Sam19:17\">19:11–17</a>；<a href=\"https://ref.ly/2Sam3:13-2Sam3:16\">撒下3:13–16</a>，<a href=\"https://ref.ly/2Sam6:16-2Sam6:23\">6:16–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09014049",
+          "start_ref_usfm": "1SA 14:49",
+          "end_ref": "09014049",
+          "end_ref_usfm": "1SA 14:49"
+        },
+        {
+          "start_ref": "09018020",
+          "start_ref_usfm": "1SA 18:20",
+          "end_ref": "09018020",
+          "end_ref_usfm": "1SA 18:20"
+        },
+        {
+          "start_ref": "09025044",
+          "start_ref_usfm": "1SA 25:44",
+          "end_ref": "09025044",
+          "end_ref_usfm": "1SA 25:44"
+        },
+        {
+          "start_ref": "09019011",
+          "start_ref_usfm": "1SA 19:11",
+          "end_ref": "09019017",
+          "end_ref_usfm": "1SA 19:17"
+        },
+        {
+          "start_ref": "10006016",
+          "start_ref_usfm": "2SA 6:16",
+          "end_ref": "10006023",
+          "end_ref_usfm": "2SA 6:23"
+        },
+        {
+          "start_ref": "09018017",
+          "start_ref_usfm": "1SA 18:17",
+          "end_ref": "09018027",
+          "end_ref_usfm": "1SA 18:27"
+        },
+        {
+          "start_ref": "10003013",
+          "start_ref_usfm": "2SA 3:13",
+          "end_ref": "10003016",
+          "end_ref_usfm": "2SA 3:16"
+        },
+        {
+          "start_ref": "09018017",
+          "start_ref_usfm": "1SA 18:17",
+          "end_ref": "09018030",
+          "end_ref_usfm": "1SA 18:30"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

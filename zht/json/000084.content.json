@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 650812,
+    "reference_id": 203396,
+    "title": "夏甲",
+    "media_type": "Text",
+    "index_reference": "夏甲",
+    "language": "zht",
+    "content": "<p>夏甲是撒萊的埃及使女，撒萊是亞伯蘭的妻子。當神吩咐亞伯蘭離開美索不達米亞時，祂應許亞伯蘭將有許多後裔，並得到一片新的土地（<a href=\"https://ref.ly/Gen12:2\">創12:2</a>、<a href=\"https://ref.ly/Gen12:7\">7</a>）。</p><p>然而，在迦南地住了十年仍無子嗣後，撒萊按照美索不達米亞的習俗，將夏甲給亞伯蘭為妾。任何由妾所生的兒子，都會被視為妻子的孩子（見<a href=\"https://ref.ly/Gen30:1-Gen30:8\">創30:1–8</a>）。</p><p>夏甲懷孕後輕視撒萊。撒萊嚴厲待她，於是夏甲逃到曠野（<a href=\"https://ref.ly/Gen16:4-Gen16:6\">創16:4–6</a>）。一位耶和華的使者在曠野的井旁向她顯現，吩咐她要回到亞伯蘭的家中，並順服撒萊。</p><p>夏甲生了一個名叫以實瑪利的兒子，那時亞伯蘭已經八十六歲（<a href=\"https://ref.ly/Gen16:1-Gen16:16\">創16:1–16</a>）。</p><p>十四年後，神賜給了亞伯拉罕和撒拉應許的兒子——以撒。當以撒大約三歲時斷奶，他們舉行了一場傳統的宴席。在這宴會中，以實瑪利嘲笑以撒（<a href=\"https://ref.ly/Gen21:9\">創21:9</a>），因此，撒拉堅決要求亞伯拉罕將夏甲和以實瑪利送走。神也認可這個決定（<a href=\"https://ref.ly/Gen21:12\">創21:12</a>），於是夏甲和以實瑪利離開，漂流在別是巴的曠野。當他們的水耗盡時，神以奇蹟拯救他們，並應許夏甲，以實瑪利將成為一個大國的先祖（<a href=\"https://ref.ly/Gen21:17-Gen21:19\">創21:17–19</a>）。</p><p>保羅在<a href=\"https://ref.ly/Gal4:22-Gal4:31\">加拉太書四章22至31節</a>中使用了一個類比，其中夏甲象徵西奈山，即舊約（神與以色列人的特殊協議）的地方。撒拉象徵天上的耶路撒冷，即那些因信基督而得救的群體。正如以撒是亞伯拉罕因信神的應許而得的兒子一樣，那些脫離律法轄制的基督徒，都是撒拉的屬靈兒女。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Gen16:1-Gen16:16\">創16:1–16</a>，<a href=\"https://ref.ly/Gen21:9-Gen21:21\">21:9–21</a>，<a href=\"https://ref.ly/Gen25:12\">25:12</a>；<a href=\"https://ref.ly/Gal4:22-Gal4:31\">加4:22–31</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012002",
+          "start_ref_usfm": "GEN 12:2",
+          "end_ref": "01012002",
+          "end_ref_usfm": "GEN 12:2"
+        },
+        {
+          "start_ref": "01012007",
+          "start_ref_usfm": "GEN 12:7",
+          "end_ref": "01012007",
+          "end_ref_usfm": "GEN 12:7"
+        },
+        {
+          "start_ref": "01021009",
+          "start_ref_usfm": "GEN 21:9",
+          "end_ref": "01021009",
+          "end_ref_usfm": "GEN 21:9"
+        },
+        {
+          "start_ref": "01021012",
+          "start_ref_usfm": "GEN 21:12",
+          "end_ref": "01021012",
+          "end_ref_usfm": "GEN 21:12"
+        },
+        {
+          "start_ref": "01025012",
+          "start_ref_usfm": "GEN 25:12",
+          "end_ref": "01025012",
+          "end_ref_usfm": "GEN 25:12"
+        },
+        {
+          "start_ref": "01016001",
+          "start_ref_usfm": "GEN 16:1",
+          "end_ref": "01016016",
+          "end_ref_usfm": "GEN 16:16"
+        },
+        {
+          "start_ref": "01021009",
+          "start_ref_usfm": "GEN 21:9",
+          "end_ref": "01021021",
+          "end_ref_usfm": "GEN 21:21"
+        },
+        {
+          "start_ref": "01021017",
+          "start_ref_usfm": "GEN 21:17",
+          "end_ref": "01021019",
+          "end_ref_usfm": "GEN 21:19"
+        },
+        {
+          "start_ref": "48004022",
+          "start_ref_usfm": "GAL 4:22",
+          "end_ref": "48004031",
+          "end_ref_usfm": "GAL 4:31"
+        },
+        {
+          "start_ref": "01030001",
+          "start_ref_usfm": "GEN 30:1",
+          "end_ref": "01030008",
+          "end_ref_usfm": "GEN 30:8"
+        },
+        {
+          "start_ref": "01016004",
+          "start_ref_usfm": "GEN 16:4",
+          "end_ref": "01016006",
+          "end_ref_usfm": "GEN 16:6"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

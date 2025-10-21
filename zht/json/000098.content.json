@@ -1,0 +1,112 @@
+[
+  {
+    "content_id": 650898,
+    "reference_id": 203482,
+    "title": "猶太最高議會",
+    "media_type": "Text",
+    "index_reference": "猶太最高議會",
+    "language": "zht",
+    "content": "<p>耶路撒冷的猶太領袖最高議會（The high council of Jewish leaders），在統治猶太百姓方面極有權力。這個議會通常被稱為公會（Sanhedrin），這一名稱翻譯自希臘文 <em>sunedrion</em>，意思是「議會」（council）。</p><p>根據猶太傳統，公會的起源可追溯至摩西選立的七十位長老（<a href=\"https://ref.ly/Num11:16\">民11:16</a>）。然而，歷史上最早的文獻記載出現在約瑟夫（Josephus）的猶太古史記 12.3.3，時間可追溯至公元前223年至前187年安提阿古大帝（Antiochus the Great）統治時期。公會可能是在波斯統治時期，開始形成的自治領袖團體（見<a href=\"https://ref.ly/Ezra5:5-Ezra5:10\">拉5:5–10</a>；<a href=\"https://ref.ly/Neh2:16\">尼2:16</a>）。當時，由大祭司領導的祭司階級控制公會，而羅馬統治者與法利賽人則在不同程度上，影響這些祭司的決策。大希律（Herod the Great）對公會的運作有極大影響力。</p><p>猶太公會負責猶太教的法律與宗教事務，包括裁決法律案件，尤其是那些無法在地方法庭（稱為「地方公會」）解決的訴訟，以管理刑事案件與逮捕行動（見<a href=\"https://ref.ly/Acts9:1-Acts9:2\">徒9:1–2</a>）。他們還對猶太事務做出官方決定，惟這些決定無法直接強制執行。公會無權自行執行死刑，須獲得羅馬政府的批准（<a href=\"https://ref.ly/John18:31\">約18:31</a>）。</p><p>公元70年耶路撒冷被毀，標誌著猶太公會作為猶太教最高領袖機構的結束。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Matt26:57-Matt26:68\">太26:57–68；</a><a href=\"https://ref.ly/Mark14:53-Mark14:65\">可14:53–65</a>，<a href=\"https://ref.ly/Mark15:1\">15:1</a>、<a href=\"https://ref.ly/Mark15:43\">43；</a><a href=\"https://ref.ly/Luke22:66-Luke22:71\">路22:66–71</a>，<a href=\"https://ref.ly/Luke23:50-Luke23:54\">23:50–54；</a><a href=\"https://ref.ly/John11:47-John11:53\">約11:47–53；</a><a href=\"https://ref.ly/Acts5:21-Acts5:41\">徒5:21–41</a>，<a href=\"https://ref.ly/Acts6:11-Acts8:1\">6:11–8:1</a>，<a href=\"https://ref.ly/Acts22:30-Acts23:10\">22:30–23:10</a>，<a href=\"https://ref.ly/Acts23:26-Acts23:30\">23:26–30</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04011016",
+          "start_ref_usfm": "NUM 11:16",
+          "end_ref": "04011016",
+          "end_ref_usfm": "NUM 11:16"
+        },
+        {
+          "start_ref": "16002016",
+          "start_ref_usfm": "NEH 2:16",
+          "end_ref": "16002016",
+          "end_ref_usfm": "NEH 2:16"
+        },
+        {
+          "start_ref": "41015001",
+          "start_ref_usfm": "MRK 15:1",
+          "end_ref": "41015001",
+          "end_ref_usfm": "MRK 15:1"
+        },
+        {
+          "start_ref": "41015043",
+          "start_ref_usfm": "MRK 15:43",
+          "end_ref": "41015043",
+          "end_ref_usfm": "MRK 15:43"
+        },
+        {
+          "start_ref": "43018031",
+          "start_ref_usfm": "JHN 18:31",
+          "end_ref": "43018031",
+          "end_ref_usfm": "JHN 18:31"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026068",
+          "end_ref_usfm": "MAT 26:68"
+        },
+        {
+          "start_ref": "41014053",
+          "start_ref_usfm": "MRK 14:53",
+          "end_ref": "41014065",
+          "end_ref_usfm": "MRK 14:65"
+        },
+        {
+          "start_ref": "44022030",
+          "start_ref_usfm": "ACT 22:30",
+          "end_ref": "44023010",
+          "end_ref_usfm": "ACT 23:10"
+        },
+        {
+          "start_ref": "44009001",
+          "start_ref_usfm": "ACT 9:1",
+          "end_ref": "44009002",
+          "end_ref_usfm": "ACT 9:2"
+        },
+        {
+          "start_ref": "44023026",
+          "start_ref_usfm": "ACT 23:26",
+          "end_ref": "44023030",
+          "end_ref_usfm": "ACT 23:30"
+        },
+        {
+          "start_ref": "42022066",
+          "start_ref_usfm": "LUK 22:66",
+          "end_ref": "42022071",
+          "end_ref_usfm": "LUK 22:71"
+        },
+        {
+          "start_ref": "15005005",
+          "start_ref_usfm": "EZR 5:5",
+          "end_ref": "15005010",
+          "end_ref_usfm": "EZR 5:10"
+        },
+        {
+          "start_ref": "42023050",
+          "start_ref_usfm": "LUK 23:50",
+          "end_ref": "42023054",
+          "end_ref_usfm": "LUK 23:54"
+        },
+        {
+          "start_ref": "43011047",
+          "start_ref_usfm": "JHN 11:47",
+          "end_ref": "43011053",
+          "end_ref_usfm": "JHN 11:53"
+        },
+        {
+          "start_ref": "44005021",
+          "start_ref_usfm": "ACT 5:21",
+          "end_ref": "44005041",
+          "end_ref_usfm": "ACT 5:41"
+        },
+        {
+          "start_ref": "44006011",
+          "start_ref_usfm": "ACT 6:11",
+          "end_ref": "44008001",
+          "end_ref_usfm": "ACT 8:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

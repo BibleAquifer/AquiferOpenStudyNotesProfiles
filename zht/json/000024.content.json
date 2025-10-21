@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 650907,
+    "reference_id": 203491,
+    "title": "尼哥德慕",
+    "media_type": "Text",
+    "index_reference": "尼哥德慕",
+    "language": "zht",
+    "content": "<p>尼哥德慕是受人尊敬的猶太法利賽人（<a href=\"https://ref.ly/John3:1\">約3:1</a>），也是公議會的重要成員。他似乎也成為耶穌的跟從者。約翰福音是唯一提到他的地方。</p><p>尼哥德慕對耶穌的權柄和神蹟感到希奇。因此，他在夜裡秘密拜訪耶穌，以了解更多關於耶穌的事。耶穌告訴尼哥德慕，他必須重生才能進入神的國（<a href=\"https://ref.ly/John3:1-John3:8\">約3:1–8</a>）。福音書並未說明尼哥德慕的回應。</p><p>後來，他強烈主張耶穌應該得到公正的審判（<a href=\"https://ref.ly/John7:50-John7:51\">約7:50–51</a>），與猶太公會的同僚不同。耶穌死在十字架上之後，他購買七十五磅昂貴的香膏用於安葬。他把香膏帶到墓地，並協助亞利馬太的約瑟安葬耶穌（<a href=\"https://ref.ly/John19:39-John19:42\">約19:39–42</a>）。因此，尼哥德慕似乎是一位相信耶穌的法利賽人，他願意在耶穌死後公開表達他的委身。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/John3:1-John3:9\">約3:1–9</a>，<a href=\"https://ref.ly/John7:50\">7:50</a>，<a href=\"https://ref.ly/John19:39-John19:42\">19:39–42</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43003001",
+          "start_ref_usfm": "JHN 3:1",
+          "end_ref": "43003001",
+          "end_ref_usfm": "JHN 3:1"
+        },
+        {
+          "start_ref": "43007050",
+          "start_ref_usfm": "JHN 7:50",
+          "end_ref": "43007050",
+          "end_ref_usfm": "JHN 7:50"
+        },
+        {
+          "start_ref": "43019039",
+          "start_ref_usfm": "JHN 19:39",
+          "end_ref": "43019042",
+          "end_ref_usfm": "JHN 19:42"
+        },
+        {
+          "start_ref": "43003001",
+          "start_ref_usfm": "JHN 3:1",
+          "end_ref": "43003008",
+          "end_ref_usfm": "JHN 3:8"
+        },
+        {
+          "start_ref": "43007050",
+          "start_ref_usfm": "JHN 7:50",
+          "end_ref": "43007051",
+          "end_ref_usfm": "JHN 7:51"
+        },
+        {
+          "start_ref": "43003001",
+          "start_ref_usfm": "JHN 3:1",
+          "end_ref": "43003009",
+          "end_ref_usfm": "JHN 3:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

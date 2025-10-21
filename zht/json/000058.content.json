@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 650890,
+    "reference_id": 203474,
+    "title": "所羅巴伯",
+    "media_type": "Text",
+    "index_reference": "所羅巴伯",
+    "language": "zht",
+    "content": "<p>所羅巴伯是在巴比倫出生的猶太人，後來於公元前538年歸回猶大地，並在波斯統治下擔任耶路撒冷的省長。當時，波斯王塞魯士允許被擄至巴比倫的猶太人歸回家園，所羅巴伯成為第一批被擄歸回的領袖之一。</p><p>所羅巴伯抵達猶大後，開始重建聖殿，首先立起祭壇，好讓百姓可以恢復獻祭。然而，由於當地人的反對，建殿工程被迫停工。猶大人逐漸失去熱情，直到哈該和撒迦利亞的宣講激勵他們重新動工。所羅巴伯在重建聖殿的過程中，發揮了重要的領導與組織作用，這項工程歷時約六年，從公元前520年至公元前515年完成。</p><p>許多人對所羅巴伯抱有極大期望，因為他是大衛王的後裔（<a href=\"https://ref.ly/1Chr3:1-1Chr3:19\">代上3:1–19</a>）。哈該和撒迦利亞在預言中，用彌賽亞的語言描述他，視他為神所揀選、將要復興以色列的那一位（<a href=\"https://ref.ly/Hag2:21-Hag2:23\">該2:21–23</a>；<a href=\"https://ref.ly/Zech4:6-Zech4:7\">亞4:6–7</a>）。然而，聖經記載至此，所羅巴伯便突然從歷史中消失，未有進一步的解釋。這位早期的猶大省長並不是彌賽亞，但他的後裔之一——耶穌基督，才是真正承擔這榮耀使命的那位（<a href=\"https://ref.ly/Matt1:12\">太1:12</a>）。</p><p><span><u>進深研究的經文段落</u></span></p><p><a href=\"https://ref.ly/Ezra2:1-Ezra6:22\">拉2:1–6:22</a>；<a href=\"https://ref.ly/Neh7:7\">尼7:7</a>；<a href=\"https://ref.ly/Hag1:12-Hag2:23\">該1:12–2:23</a>；<a href=\"https://ref.ly/Zech4:1-Zech4:14\">亞4:1–14</a>；<a href=\"https://ref.ly/Matt1:12\">太1:12</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16007007",
+          "start_ref_usfm": "NEH 7:7",
+          "end_ref": "16007007",
+          "end_ref_usfm": "NEH 7:7"
+        },
+        {
+          "start_ref": "40001012",
+          "start_ref_usfm": "MAT 1:12",
+          "end_ref": "40001012",
+          "end_ref_usfm": "MAT 1:12"
+        },
+        {
+          "start_ref": "37002021",
+          "start_ref_usfm": "HAG 2:21",
+          "end_ref": "37002023",
+          "end_ref_usfm": "HAG 2:23"
+        },
+        {
+          "start_ref": "38004001",
+          "start_ref_usfm": "ZEC 4:1",
+          "end_ref": "38004014",
+          "end_ref_usfm": "ZEC 4:14"
+        },
+        {
+          "start_ref": "38004006",
+          "start_ref_usfm": "ZEC 4:6",
+          "end_ref": "38004007",
+          "end_ref_usfm": "ZEC 4:7"
+        },
+        {
+          "start_ref": "13003001",
+          "start_ref_usfm": "1CH 3:1",
+          "end_ref": "13003019",
+          "end_ref_usfm": "1CH 3:19"
+        },
+        {
+          "start_ref": "15002001",
+          "start_ref_usfm": "EZR 2:1",
+          "end_ref": "15006022",
+          "end_ref_usfm": "EZR 6:22"
+        },
+        {
+          "start_ref": "37001012",
+          "start_ref_usfm": "HAG 1:12",
+          "end_ref": "37002023",
+          "end_ref_usfm": "HAG 2:23"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

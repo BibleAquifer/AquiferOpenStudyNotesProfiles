@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 650874,
+    "reference_id": 203458,
+    "title": "塞魯士二世",
+    "media_type": "Text",
+    "index_reference": "塞魯士二世",
+    "language": "zht",
+    "content": "<p>塞魯士二世（Cyrus II），於公元前559年至530年在位波斯國王，並創建了波斯帝國。他的父親曾是波斯的國王，當時波斯只是一個受米底亞（Media）控制的小國，而他的母親則是米底亞國王的女兒。公元前549年，塞魯士征服了米底亞人，並統一兩國；隨後，在公元前547年，他又在小亞細亞征服了呂底亞（Lydia）。向東邁進，他又將帕提亞（Parthia）以及部分印度納入波斯帝國的版圖。最終，在公元前539年10月29日，塞魯士征服了巴比倫，將其土地納入了他的帝國（見<a href=\"https://ref.ly/Dan5:30-Dan5:31\">但5:30–31</a>）。</p><p>在征服巴比倫後，塞魯士頒布了一道法令，允許猶太人重返家園並重建耶路撒冷的聖殿。這項關於猶太人的法令記錄在<a href=\"https://ref.ly/2Chr36:22-2Chr36:23\">歷代志下三十六章22至23節</a>和<a href=\"https://ref.ly/Ezra1:1-Ezra1:4\">以斯拉記一章1至4節</a>中。塞魯士圓柱（The Cyrus Cylinder），這個於1879年至1882年間在巴比倫發現的圓筒，也證實了這項法令。它記錄了塞魯士對待被征服民族的政策。</p><p>以賽亞指出塞魯士將會是猶大的解放者（<a href=\"https://ref.ly/Isa44:28-Isa45:13\">賽44:28–45:13</a>）。以賽亞稱塞魯士為主的受膏者（<a href=\"https://ref.ly/Isa45:1\">賽45:1</a>，希伯來文<em>mashiakh</em>，意為「彌賽亞」）。以色列人視塞魯士為神所揀選、且得著能力來解放他們的人。雖然塞魯士不是<strong>那位</strong>彌賽亞，但他的行動預表了真正的彌賽亞，就是耶穌基督自己，以及祂將會如何解放神的子民脫離奴役。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/2Chr36:22-2Chr36:23\">代下36:22–23</a>；<a href=\"https://ref.ly/Ezra1:1-Ezra1:11\">拉1:1–11</a>，<a href=\"https://ref.ly/Ezra3:7\">3:7</a>，<a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">4:1–5</a>，<a href=\"https://ref.ly/Ezra5:6-Ezra5:17\">5:6–17</a>，<a href=\"https://ref.ly/Ezra6:14-Ezra6:15\">6:14–15</a>；<a href=\"https://ref.ly/Isa44:28-Isa45:13\">賽44:28–45:13</a>，<a href=\"https://ref.ly/Isa48:14-Isa48:16\">48:14–16</a>；<a href=\"https://ref.ly/Dan6:28\">但6:28</a>，<a href=\"https://ref.ly/Dan10:1\">10:1</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15003007",
+          "start_ref_usfm": "EZR 3:7",
+          "end_ref": "15003007",
+          "end_ref_usfm": "EZR 3:7"
+        },
+        {
+          "start_ref": "23045001",
+          "start_ref_usfm": "ISA 45:1",
+          "end_ref": "23045001",
+          "end_ref_usfm": "ISA 45:1"
+        },
+        {
+          "start_ref": "27006028",
+          "start_ref_usfm": "DAN 6:28",
+          "end_ref": "27006028",
+          "end_ref_usfm": "DAN 6:28"
+        },
+        {
+          "start_ref": "27010001",
+          "start_ref_usfm": "DAN 10:1",
+          "end_ref": "27010001",
+          "end_ref_usfm": "DAN 10:1"
+        },
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001004",
+          "end_ref_usfm": "EZR 1:4"
+        },
+        {
+          "start_ref": "27005030",
+          "start_ref_usfm": "DAN 5:30",
+          "end_ref": "27005031",
+          "end_ref_usfm": "DAN 5:31"
+        },
+        {
+          "start_ref": "14036022",
+          "start_ref_usfm": "2CH 36:22",
+          "end_ref": "14036023",
+          "end_ref_usfm": "2CH 36:23"
+        },
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001011",
+          "end_ref_usfm": "EZR 1:11"
+        },
+        {
+          "start_ref": "15004001",
+          "start_ref_usfm": "EZR 4:1",
+          "end_ref": "15004005",
+          "end_ref_usfm": "EZR 4:5"
+        },
+        {
+          "start_ref": "15005006",
+          "start_ref_usfm": "EZR 5:6",
+          "end_ref": "15005017",
+          "end_ref_usfm": "EZR 5:17"
+        },
+        {
+          "start_ref": "23044028",
+          "start_ref_usfm": "ISA 44:28",
+          "end_ref": "23045013",
+          "end_ref_usfm": "ISA 45:13"
+        },
+        {
+          "start_ref": "15006014",
+          "start_ref_usfm": "EZR 6:14",
+          "end_ref": "15006015",
+          "end_ref_usfm": "EZR 6:15"
+        },
+        {
+          "start_ref": "23048014",
+          "start_ref_usfm": "ISA 48:14",
+          "end_ref": "23048016",
+          "end_ref_usfm": "ISA 48:16"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 650920,
+    "reference_id": 203504,
+    "title": "路加",
+    "media_type": "Text",
+    "index_reference": "路加",
+    "language": "zht",
+    "content": "<p>路加是外邦人（非猶太人）醫生，成為基督徒後，在保羅的宣教旅程中成為他信賴的助手。他寫了路加福音和使徒行傳，這兩部作品約佔新約聖經的四分之一。</p><p>我們對路加的背景知之甚少，但他可能是在小亞細亞西部首次遇見保羅，在那裡成為基督徒。他離開家鄉事奉耶穌，並作為保羅忠實的助手，傳播關於耶穌的好消息。保羅親切地稱他為「親愛的醫生」和忠心的「同工」（<a href=\"https://ref.ly/Col4:14\">西4:14</a>；<a href=\"https://ref.ly/Phlm1:24\">門1:24</a>）。當保羅在羅馬等待處決時，路加是唯一陪伴他的基督徒（<a href=\"https://ref.ly/2Tim4:11\">提後4:11</a>）。他也是唯一一位有作品被收錄在新約聖經的非猶太人。</p><p>在保羅最後一次前往耶路撒冷的旅程中，路加可能收集了路加福音和使徒行傳前半部分的信息。在保羅被囚兩年間，路加拜訪那些聽過和見過耶穌的人，並研究其他人寫下關於耶穌的資料。然後，他寫了關於耶穌生命和教導的詳細記述（見<a href=\"https://ref.ly/Luke1:1-Luke1:4\">路1:1–4</a>）。</p><p>當保羅乘船前往羅馬接受審判時，路加與他同行。保羅在囚禁中等待審判時，路加可能利用這段時間寫下使徒行傳。使徒行傳前十五章，按照事件發生的順序，記載最早的宣教工作，這些是耶穌的早期追隨者告訴他的。保羅本人可能也曾分享其中部分內容。從<a href=\"https://ref.ly/Acts16:10\">使徒行傳十六章10節</a>開始，路加寫下自己加入保羅團隊後的所見所聞。在使徒行傳中，路加強調聖靈如何使早期的宣教士得著能力，並指引他們的工作（見<a href=\"https://ref.ly/Acts1:4-Acts1:5\">徒1:4–5</a>、<a href=\"https://ref.ly/Acts1:8\">8</a>）。這卷書以保羅仍在羅馬被囚作結（<a href=\"https://ref.ly/Acts28:30-Acts28:31\">徒28:30–31</a>）。</p><p>路加的著作中有許多獨特的記載，包括對耶穌降生的記述、對耶穌服事女性的描述，以及耶穌關懷窮人的大量內容。他更提供唯一全面記錄，是基督教宣教活動首三十年的記述，全部都仔細記錄下來。透過路加的著作，我們更加深入理解聖靈在耶穌事工和早期宣教士身上的重要工作。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Luke1:3\">路1:3</a>；<a href=\"https://ref.ly/Acts1:1\">徒1:1</a>，<a href=\"https://ref.ly/Acts16:10\">16:10</a>；<a href=\"https://ref.ly/Col4:14\">西4:14</a>；<a href=\"https://ref.ly/2Tim4:11\">提後4:11</a>；<a href=\"https://ref.ly/Phlm1:24\">門1:24</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001003",
+          "start_ref_usfm": "LUK 1:3",
+          "end_ref": "42001003",
+          "end_ref_usfm": "LUK 1:3"
+        },
+        {
+          "start_ref": "44001001",
+          "start_ref_usfm": "ACT 1:1",
+          "end_ref": "44001001",
+          "end_ref_usfm": "ACT 1:1"
+        },
+        {
+          "start_ref": "44001008",
+          "start_ref_usfm": "ACT 1:8",
+          "end_ref": "44001008",
+          "end_ref_usfm": "ACT 1:8"
+        },
+        {
+          "start_ref": "44016010",
+          "start_ref_usfm": "ACT 16:10",
+          "end_ref": "44016010",
+          "end_ref_usfm": "ACT 16:10"
+        },
+        {
+          "start_ref": "51004014",
+          "start_ref_usfm": "COL 4:14",
+          "end_ref": "51004014",
+          "end_ref_usfm": "COL 4:14"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004011",
+          "end_ref_usfm": "2TI 4:11"
+        },
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "42001001",
+          "start_ref_usfm": "LUK 1:1",
+          "end_ref": "42001004",
+          "end_ref_usfm": "LUK 1:4"
+        },
+        {
+          "start_ref": "44028030",
+          "start_ref_usfm": "ACT 28:30",
+          "end_ref": "44028031",
+          "end_ref_usfm": "ACT 28:31"
+        },
+        {
+          "start_ref": "44001004",
+          "start_ref_usfm": "ACT 1:4",
+          "end_ref": "44001005",
+          "end_ref_usfm": "ACT 1:5"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 650895,
+    "reference_id": 203479,
+    "title": "馬太（利未）",
+    "media_type": "Text",
+    "index_reference": "馬太（利未）",
+    "language": "zht",
+    "content": "<p>馬太曾是羅馬的稅吏，後來成為耶穌十二位最親近的跟隨者之一（稱為使徒）。早期傳統認為他寫了馬太福音。</p><p>他在所有的使徒名單中，都被稱為馬太（<a href=\"https://ref.ly/Matt10:3\">太10:3</a>；<a href=\"https://ref.ly/Mark3:18\">可3:18</a>；<a href=\"https://ref.ly/Luke6:15\">路6:15</a>；<a href=\"https://ref.ly/Acts1:13\">徒1:13</a>）。但是，在兩段關於他被呼召的記載中，都被稱為利未，這是他的另一個名字（<a href=\"https://ref.ly/Mark2:14-Mark2:15\">可2:14–15</a>；<a href=\"https://ref.ly/Luke5:27-Luke5:29\">路5:27–29</a>；參<a href=\"https://ref.ly/Matt9:9-Matt9:10\">太9:9–10</a>）。他的父親是亞勒腓（<a href=\"https://ref.ly/Mark2:14\">可2:14</a>）。我們不知道他是否是亞勒腓的兒子雅各的兄弟，因為在使徒名單中並未提及他們是兄弟（不同於其他的幾對兄弟）。</p><p>為羅馬收稅的猶太人，常被其他猶太人視為罪人。他們服務佔領猶大的勢力，由此獲利，進行合法的敲詐。值得注意的是，耶穌揀選了稅吏成為祂的跟從者。當法利賽人批評耶穌接受馬太的邀請，並與稅吏和其他罪人一起吃飯時，耶穌用這個時刻來教導憐憫。他強調祂來是召罪人，而不是為那些自以為義的人（<a href=\"https://ref.ly/Matt9:9-Matt9:13\">太9:9–13</a>；<a href=\"https://ref.ly/Mark2:14-Mark2:17\">可2:14–17</a>；<a href=\"https://ref.ly/Luke5:27-Luke5:32\">路5:27–32</a>）。馬太立刻跟隨耶穌的呼召，撇下所有（<a href=\"https://ref.ly/Luke5:28\">路5:28</a>），表明他再沒有回到稅吏崗位或舊有的生活。</p><p>馬太福音是為猶太人而寫，提供了猶太人的觀點，來看待耶穌的生命和教導。馬太福音包含對具有猶太背景的人來說重要的主題。這部福音書在早期教會中非常受歡迎，這可能是它列為新約聖經第一卷書的原因。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Matt9:9-Matt9:10\">太9:9–10</a>，<a href=\"https://ref.ly/Matt10:3\">10:3</a>；<a href=\"https://ref.ly/Mark2:14-Mark2:15\">可2:14–15</a>，<a href=\"https://ref.ly/Mark3:18\">3:18</a>；<a href=\"https://ref.ly/Luke5:27-Luke5:29\">路5:27–29</a>，<a href=\"https://ref.ly/Luke6:15\">6:15</a>；<a href=\"https://ref.ly/Acts1:13\">徒1:13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002014",
+          "end_ref_usfm": "MRK 2:14"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "42005028",
+          "start_ref_usfm": "LUK 5:28",
+          "end_ref": "42005028",
+          "end_ref_usfm": "LUK 5:28"
+        },
+        {
+          "start_ref": "42006015",
+          "start_ref_usfm": "LUK 6:15",
+          "end_ref": "42006015",
+          "end_ref_usfm": "LUK 6:15"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "40009009",
+          "start_ref_usfm": "MAT 9:9",
+          "end_ref": "40009013",
+          "end_ref_usfm": "MAT 9:13"
+        },
+        {
+          "start_ref": "42005027",
+          "start_ref_usfm": "LUK 5:27",
+          "end_ref": "42005032",
+          "end_ref_usfm": "LUK 5:32"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002015",
+          "end_ref_usfm": "MRK 2:15"
+        },
+        {
+          "start_ref": "40009009",
+          "start_ref_usfm": "MAT 9:9",
+          "end_ref": "40009010",
+          "end_ref_usfm": "MAT 9:10"
+        },
+        {
+          "start_ref": "42005027",
+          "start_ref_usfm": "LUK 5:27",
+          "end_ref": "42005029",
+          "end_ref_usfm": "LUK 5:29"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002017",
+          "end_ref_usfm": "MRK 2:17"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
