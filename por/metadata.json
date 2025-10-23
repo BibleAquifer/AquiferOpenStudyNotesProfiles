@@ -28,7 +28,7 @@
     },
     "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by BiblioNexus and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesProfiles",
-    "date_created": "2025-10-21",
+    "date_created": "2025-10-22",
     "language": "por",
     "localizations": [
       "eng",
@@ -48,7 +48,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-21T11:04:23.280378"
+      "dateCreated": "2025-10-22T15:03:40.787758"
     },
     "idAuthorities": {
       "aquifer": {
@@ -62,7 +62,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesProfiles": {
-            "timestamp": "2025-10-21T11:04:23.280378"
+            "timestamp": "2025-10-22T15:03:40.787758"
           }
         }
       },

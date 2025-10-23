@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 734324,
+    "reference_id": 203424,
+    "title": "Samsoni",
+    "media_type": "Text",
+    "index_reference": "samsoni",
+    "language": "swh",
+    "content": "<p>Samsoni ni mfano mzuri wa jinsi Mungu anavyoweza kumtumia mtu kwa wema hata wanapokosea na kutokuwa na wasiwasi. Samsoni aliwaokoa Waisraeli bila kujitahidi au kujali. Hakuonekana kujali watu wake, familia yake, au Mungu. Alijali tu kuhusu maslahi yake binafsi. Hata hivyo, Mungu alimuweka katika mazingira ambayo yaliwaathiri Wafilisti, ambao Mungu aliwaruhusu kuwatesa Waisraeli wenye dhambi.</p><p>Mfano wa kwanza wa jinsi Mungu alivyotumia Samsoni ulitokea alipowaambia wazazi wake kwamba alitaka kuoa msichana wa Kifilisti. Hii iliwashangaza wazazi wake kwa sababu Waisraeli waliamriwa wasioe watu wa nchi hiyo (<a href=\"https://ref.ly/Deut7:1-Deut7:4\">Kumbukumbu la Torati 7:1–4</a>; <a href=\"https://ref.ly/Josh23:12-Josh23:13\">Yoshua 23:12–13</a>; tazama pia <a href=\"https://ref.ly/2Cor6:14-2Cor6:18\">2 Wakorintho 6:14–18</a>). Hata hivyo, Samsoni alisisitiza ingawa wazazi wake hawakutaka aoe msichana wa Kifilisti.</p><p>Njiani kuelekea kwenye sherehe ya harusi, alichukua asali kutoka kwa simba aliyekuwa amemuua awali. Samsoni alizaliwa akiwa Mnadhiri, na Wanadhiri walikatazwa kabisa kugusa maiti (<a href=\"https://ref.ly/Num6:1-Num6:21\">Hesabu 6:1–21</a>). Hata hivyo, Samsoni hakujali. Kisha alitunga kitendawili kuhusu simba (<a href=\"https://ref.ly/Judg14:14\">Waamuzi 14:14</a>). Alibeti na vijana thelathini Wafilisti kwamba hawangeweza kutatua kitendawili hicho. Wafilisti walimshinikiza mke wake kufichua jibu. Matokeo yake, Samsoni alikasirika sana na kuua Wafilisti thelathini na kuchukua mavazi yao ili kulipa dau. Mungu alimtumia shujaa huyu mwenye kujitakia mwenyewe kuanzisha “ukombozi wa Israeli kutoka mikononi mwa Wafilisti” (<a href=\"https://ref.ly/Judg13:5\">Waamuzi 13:5</a>).</p><p>Hadithi muhimu ya mwisho katika maisha ya Samsoni inamhusu mwanamke aitwaye Delila (<a href=\"https://ref.ly/Judg16:4-Judg16:31\">Waamuzi 16:4–31</a>). Aliendelea kumsumbua Samsoni hadi alipomwambia siri ya nguvu zake nyingi. Kwa kufichua siri hii, Samsoni alivunja ahadi yake maalum kwa Mungu, inayoitwa nadhiri ya Mnadhiri. Alikata nywele zake, na kuwapa Wafilisti uwezo wa kumshinda. Walimpofusha, wakamfunga, na kumlazimisha kufanya kazi ngumu.</p><p>Wakati akiwa mateka, nywele za Samsoni zilianza kukua tena. Wakati wa sherehe ya Wafilisti ambapo walimdhihaki, aliomba kuongozwa hadi kwenye nguzo mbili kuu za hekalu lao. Aliomba kwa Mungu ampe nguvu ili kuwashinda Wafilisti na kumaliza maisha yake mwenyewe. Kisha alivuta hekalu chini, akiwaua Wafilisti wapatao 3,000 pamoja na yeye mwenyewe. Kitendo hiki hakikuwa kwa ajili ya watu wake au Mungu, bali &quot;kulipiza kisasi kwa Wafilisti kwa macho yangu mawili&quot; (<a href=\"https://ref.ly/Judg16:28\">Waamuzi 16:28</a>). Ingawa ilikuwa sehemu ya mpango wa Mungu, hadithi ya Samsoni inamwacha msomaji akitamani mkombozi bora.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Judg13:1-Judg16:31\">Waamuzi 13:1–16:31</a>; <a href=\"https://ref.ly/Heb11:32\">Waebrania 11:32</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07013005",
+          "start_ref_usfm": "JDG 13:5",
+          "end_ref": "07013005",
+          "end_ref_usfm": "JDG 13:5"
+        },
+        {
+          "start_ref": "07014014",
+          "start_ref_usfm": "JDG 14:14",
+          "end_ref": "07014014",
+          "end_ref_usfm": "JDG 14:14"
+        },
+        {
+          "start_ref": "07016028",
+          "start_ref_usfm": "JDG 16:28",
+          "end_ref": "07016028",
+          "end_ref_usfm": "JDG 16:28"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011032",
+          "end_ref_usfm": "HEB 11:32"
+        },
+        {
+          "start_ref": "05007001",
+          "start_ref_usfm": "DEU 7:1",
+          "end_ref": "05007004",
+          "end_ref_usfm": "DEU 7:4"
+        },
+        {
+          "start_ref": "07013001",
+          "start_ref_usfm": "JDG 13:1",
+          "end_ref": "07016031",
+          "end_ref_usfm": "JDG 16:31"
+        },
+        {
+          "start_ref": "04006001",
+          "start_ref_usfm": "NUM 6:1",
+          "end_ref": "04006021",
+          "end_ref_usfm": "NUM 6:21"
+        },
+        {
+          "start_ref": "06023012",
+          "start_ref_usfm": "JOS 23:12",
+          "end_ref": "06023013",
+          "end_ref_usfm": "JOS 23:13"
+        },
+        {
+          "start_ref": "47006014",
+          "start_ref_usfm": "2CO 6:14",
+          "end_ref": "47006018",
+          "end_ref_usfm": "2CO 6:18"
+        },
+        {
+          "start_ref": "07016004",
+          "start_ref_usfm": "JDG 16:4",
+          "end_ref": "07016031",
+          "end_ref_usfm": "JDG 16:31"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

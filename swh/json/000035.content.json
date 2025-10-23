@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 734313,
+    "reference_id": 203413,
+    "title": "Farao",
+    "media_type": "Text",
+    "index_reference": "farao",
+    "language": "swh",
+    "content": "<p>&quot;Farao&quot; ni neno la Kimisri linalomaanisha &quot;nyumba kuu.&quot; Linarejelea jumba la kifalme na pia ni cheo cha mfalme wa Misri. Wakati wa Yosefu, Farao aliwaona Waisraeli kwa upendeleo. Yosefu alitafsiri ndoto za Farao, jambo ambalo lilimfanya apandishwe cheo kuwa wa pili kwa amri katika Misri (<a href=\"https://ref.ly/Gen41:1-Gen41:44\">Mwanzo 41:1–44</a>). Farao alipea familia ya Yosefu ardhi bora zaidi katika Misri (<a href=\"https://ref.ly/Gen45:16-Gen45:20\">Mwanzo 45:16–20</a>). Waisraeli waliongezeka kwa idadi na kufanikiwa huko.</p><p>Farao wawili wanatajwa katika kitabu cha Kutoka, na hakuna aliyewathamini watu wa Kiebrania (tazama <a href=\"https://ref.ly/Exod1:8-Exod1:10\">Kutoka 1:8–10</a>). Farao wa kwanza alitawala wakati Mose alizaliwa. Aliwaogopa Waebrania na akaamuru wavulana wote wa Kiebrania wauawe. Mose aliepuka kifo na alilelewa na binti ya Farao katika ikulu. Farao huyu alikufa baada ya Mose kukimbia kutoka Misri (<a href=\"https://ref.ly/Exod2:23\">Kutoka 2:23</a>).</p><p>Farao mpya alikuja madarakani, na Mose na Aroni wakamkabili baadaye. Farao huyu alikuwa amedhamiria kuwazuia Waisraeli kuondoka Misri. Alibaki mkaidi hata baada ya kuona nguvu za Mungu. Biblia inaelezea kutokubali kwake kubadilika (tazama <a href=\"https://ref.ly/Exod8:32\">Kutoka 8:32</a>; <a href=\"https://ref.ly/Exod9:12\">9:12</a>, <a href=\"https://ref.ly/Exod9:34-Exod9:35\">34–35</a>; linganisha <a href=\"https://ref.ly/Rom1:18-Rom1:32\">Warumi 1:18–32</a>).</p><p>Kama mfalme, Farao alionyesha utawala wa miungu juu ya Misri, akipewa mamlaka kamili. Mapigo yalikuwa mashambulizi ya Mungu dhidi ya miungu ya uongo ya Misri (angalia <a href=\"https://ref.ly/Exod12:12\">Kutoka 12:12</a>). Pigo la mwisho, kifo cha wazaliwa wa kwanza, lililenga nyumba ya Farao. Pigo hili la mwisho lilimshawishi Farao kuwaruhusu Waisraeli waende. Hata hivyo, baada ya Waisraeli kuondoka, Farao alibadilisha mawazo yake na kuwafuatilia hadi Bahari ya Shamu. Uokoaji wa Mungu wa Waisraeli wasio na ulinzi na uharibifu wa Wamisri wenye nguvu katika Bahari ya Shamu ni mojawapo ya uokoaji wa kusisimua zaidi katika Agano la Kale. Bwana alijidhihirisha katika Bahari ya Shamu kama shujaa aliyepigania watu wake (<a href=\"https://ref.ly/Exod15:3\">Kutoka 15:3</a>).</p><p>Mafarao katika kitabu cha Kutoka hawajatajwa majina, labda kufuata desturi ya Wamisri. Ikiwa Waisraeli waliondoka Misri katika miaka ya 1400 KK, Farao anaweza kuwa alikuwa Thutmose III, ambaye alitawala kuanzia takriban 1504 hadi 1450 KK. Ikiwa ilitokea katika miaka ya 1200 KK, kulingana na ratiba nyingine, Farao anaweza kuwa alikuwa Rameses II, ambaye alitawala kuanzia takriban 1279 hadi 1213 KK.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Exod1:8-Exod1:22\">Kutoka 1:8–22</a>; <a href=\"https://ref.ly/Exod2:14-Exod2:15\">2:14–15</a>, <a href=\"https://ref.ly/Exod2:23\">23</a>; <a href=\"https://ref.ly/Exod5:1-Exod15:21\">5:1–15:21</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02002023",
+          "start_ref_usfm": "EXO 2:23",
+          "end_ref": "02002023",
+          "end_ref_usfm": "EXO 2:23"
+        },
+        {
+          "start_ref": "02008032",
+          "start_ref_usfm": "EXO 8:32",
+          "end_ref": "02008032",
+          "end_ref_usfm": "EXO 8:32"
+        },
+        {
+          "start_ref": "02009012",
+          "start_ref_usfm": "EXO 9:12",
+          "end_ref": "02009012",
+          "end_ref_usfm": "EXO 9:12"
+        },
+        {
+          "start_ref": "02012012",
+          "start_ref_usfm": "EXO 12:12",
+          "end_ref": "02012012",
+          "end_ref_usfm": "EXO 12:12"
+        },
+        {
+          "start_ref": "02015003",
+          "start_ref_usfm": "EXO 15:3",
+          "end_ref": "02015003",
+          "end_ref_usfm": "EXO 15:3"
+        },
+        {
+          "start_ref": "45001018",
+          "start_ref_usfm": "ROM 1:18",
+          "end_ref": "45001032",
+          "end_ref_usfm": "ROM 1:32"
+        },
+        {
+          "start_ref": "02001008",
+          "start_ref_usfm": "EXO 1:8",
+          "end_ref": "02001010",
+          "end_ref_usfm": "EXO 1:10"
+        },
+        {
+          "start_ref": "02001008",
+          "start_ref_usfm": "EXO 1:8",
+          "end_ref": "02001022",
+          "end_ref_usfm": "EXO 1:22"
+        },
+        {
+          "start_ref": "01041001",
+          "start_ref_usfm": "GEN 41:1",
+          "end_ref": "01041044",
+          "end_ref_usfm": "GEN 41:44"
+        },
+        {
+          "start_ref": "01045016",
+          "start_ref_usfm": "GEN 45:16",
+          "end_ref": "01045020",
+          "end_ref_usfm": "GEN 45:20"
+        },
+        {
+          "start_ref": "02009034",
+          "start_ref_usfm": "EXO 9:34",
+          "end_ref": "02009035",
+          "end_ref_usfm": "EXO 9:35"
+        },
+        {
+          "start_ref": "02002014",
+          "start_ref_usfm": "EXO 2:14",
+          "end_ref": "02002015",
+          "end_ref_usfm": "EXO 2:15"
+        },
+        {
+          "start_ref": "02005001",
+          "start_ref_usfm": "EXO 5:1",
+          "end_ref": "02015021",
+          "end_ref_usfm": "EXO 15:21"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

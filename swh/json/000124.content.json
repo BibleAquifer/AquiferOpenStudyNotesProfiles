@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 734374,
+    "reference_id": 203474,
+    "title": "Zerubabeli",
+    "media_type": "Text",
+    "index_reference": "zerubabeli",
+    "language": "swh",
+    "content": "<p>Zerubabeli alikuwa Myahudi aliyezaliwa Babeli. Alihamia Yudea mwaka wa 538 Kabla ya Kristo (KK) akiwa gavana wa Yerusalemu chini ya utawala wa Kiajemi. Koreshi, mfalme wa Uajemi, aliwaruhusu Wayahudi waliotekwa na kuhamishwa kutoka Yuda kurudi nyumbani. Zerubabeli aliongoza moja ya makundi ya kwanza ya waliorejea kutoka uhamishoni.</p><p>Zerubabeli alifika Yudea kwa ajili ya kujenga upya hekalu, akianza na madhabahu. Sadaka zingeweza kuendelea mara tu Mahali Patakatifu palipokuwa tayari. Hata hivyo, upinzani kutoka kwa wenyeji ulisitisha ujenzi. Wayahudi walipoteza mwelekeo hadi mahubiri ya Hagai na Zekaria yalipowahamasisha kuanza tena. Zerubabeli alicheza jukumu muhimu katika kuongoza na kupanga ujenzi upya, ambao ulichukua takriban miaka sita, kutoka 520 hadi 515 KK.</p><p>Watu wengi walitarajia mambo makubwa kutoka kwa Zerubabeli kwa sababu alitoka katika familia ya Mfalme Daudi (<a href=\"https://ref.ly/1Chr3:1-1Chr3:19\">1 Mambo ya Nyakati 3:1–19</a>). Zakaria na Hagai wanamzungumzia Zerubabeli kwa maneno ya kimasihi kama yule aliyechaguliwa na Mungu kurejesha Israeli (<a href=\"https://ref.ly/Hag2:21-Hag2:23\">Hagai 2:21–23</a>; <a href=\"https://ref.ly/Zech4:6-Zech4:7\">Zakaria 4:6–7</a>). Hata hivyo, Zerubabeli anapotea haraka kutoka kwenye hadithi ya kibiblia bila maelezo. Gavana huyu wa awali wa Yudea hakuwa Masihi. Badala yake, Yesu Kristo, mmoja wa wazao wa Zerubabeli, alichukua jukumu hilo tukufu (<a href=\"https://ref.ly/Matt1:12\">Mathayo 1:12</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Ezra2:1-Ezra6:22\">Ezra 2:1–6:22</a>; <a href=\"https://ref.ly/Neh7:7\">Nehemia 7:7</a>; <a href=\"https://ref.ly/Hag1:12-Hag2:23\">Hagai 1:12–2:23</a>; <a href=\"https://ref.ly/Zech4:1-Zech4:14\">Zekaria 4:1–14</a>; <a href=\"https://ref.ly/Matt1:12\">Mathayo 1:12</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16007007",
+          "start_ref_usfm": "NEH 7:7",
+          "end_ref": "16007007",
+          "end_ref_usfm": "NEH 7:7"
+        },
+        {
+          "start_ref": "40001012",
+          "start_ref_usfm": "MAT 1:12",
+          "end_ref": "40001012",
+          "end_ref_usfm": "MAT 1:12"
+        },
+        {
+          "start_ref": "37002021",
+          "start_ref_usfm": "HAG 2:21",
+          "end_ref": "37002023",
+          "end_ref_usfm": "HAG 2:23"
+        },
+        {
+          "start_ref": "38004001",
+          "start_ref_usfm": "ZEC 4:1",
+          "end_ref": "38004014",
+          "end_ref_usfm": "ZEC 4:14"
+        },
+        {
+          "start_ref": "38004006",
+          "start_ref_usfm": "ZEC 4:6",
+          "end_ref": "38004007",
+          "end_ref_usfm": "ZEC 4:7"
+        },
+        {
+          "start_ref": "13003001",
+          "start_ref_usfm": "1CH 3:1",
+          "end_ref": "13003019",
+          "end_ref_usfm": "1CH 3:19"
+        },
+        {
+          "start_ref": "15002001",
+          "start_ref_usfm": "EZR 2:1",
+          "end_ref": "15006022",
+          "end_ref_usfm": "EZR 6:22"
+        },
+        {
+          "start_ref": "37001012",
+          "start_ref_usfm": "HAG 1:12",
+          "end_ref": "37002023",
+          "end_ref_usfm": "HAG 2:23"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

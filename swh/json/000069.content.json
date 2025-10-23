@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 734361,
+    "reference_id": 203461,
+    "title": "Nehemia",
+    "media_type": "Text",
+    "index_reference": "nehemia",
+    "language": "swh",
+    "content": "<p>Nehemia alikuwa kiongozi thabiti wa watu wa Mungu huko Yudea baada ya uhamisho kwenda Babeli. Aliwahamasisha na kuwapa nguvu watu wa Mungu wakati wa nyakati ngumu.</p><p>Kabla ya Nehemia kurudi Yudea, alihudumu kama mnyweshaji wa mfalme wa Uajemi Artashasta I, ambaye alitawala kuanzia 465 hadi 424 KK. Mnyweshaji alimletea mfalme divai, akiionja kwanza kuhakikisha haijatiwa sumu. Alikuwa mshauri anayeaminika. Nehemia aliposikia kuhusu hali mbaya ya Yerusalemu, alihisi huruma. Aliomba ruhusa kwa mfalme ili arudi Yudea kusaidia watu wake. Mfalme alikubali na akamteua kuwa gavana wa Yudea kwa miaka kumi na miwili ili kusaidia Wayahudi wenzake na kujenga upya kuta za Yerusalemu (<a href=\"https://ref.ly/Neh1:1-Neh2:8\">Nehemia 1:1–2:8</a>).</p><p>Nehemia alipata msaada kutoka kwa mfalme wa Uajemi, lakini alikumbana na upinzani kutoka kwa watu wa eneo hilo. Watu hawa, wenye urithi mchanganyiko, walikuwa mababu wa Wasamaria wa Agano Jipya. Nehemia alionyesha ujasiri na ustadi mkubwa aliposadia watu wa Yudea kujenga upya kuta zilizolinda Yerusalemu.</p><p>Nehemia alikuwa na imani kubwa, iliyoonyeshwa na maombi yake na imani yake katika mwongozo na msaada wa kimungu (<a href=\"https://ref.ly/Neh1:4-Neh1:11\">Nehemia 1:4–11</a>; <a href=\"https://ref.ly/Neh2:4\">2:4</a>, <a href=\"https://ref.ly/Neh2:8\">8</a>, <a href=\"https://ref.ly/Neh2:18\">18</a>, <a href=\"https://ref.ly/Neh2:20\">20</a>). Pia alitetea haki ya kiuchumi. Aliwakosoa baadhi ya Wayahudi matajiri kwa kutumia uhaba wa chakula kutoza riba kubwa kwa jamaa zao maskini. Aliweka mfano wa tabia bora (<a href=\"https://ref.ly/Neh5:1-Neh5:19\">Nehemia 5</a>).</p><p>Nehemia alijali sana kuhusu uaminifu wa watu. Alikabiliana moja kwa moja na wanaume ambao walikuwa wameoa wanawake wasio Wayahudi (<a href=\"https://ref.ly/Neh13:23-Neh13:29\">Nehemia 13:23–29</a>). Alijitolea kudumisha ibada ya hekalu. Aliwaongoza jamii ya Kiyahudi kuahidi kuunga mkono wafanyakazi wa hekalu na kutoa sadaka (<a href=\"https://ref.ly/Neh10:32-Neh10:39\">Nehemia 10:32–39</a>). Pia aliboresha jinsi walivyoshika sabato (<a href=\"https://ref.ly/Neh13:15-Neh13:22\">Nehemia 13:15–22</a>).</p><p>Ingawa matatizo yalibaki mwishoni mwa kipindi chake Yerusalemu (angalia <a href=\"https://ref.ly/Neh13:1-Neh13:31\">Nehemia 13</a>), Nehemia alikuwa kiongozi thabiti. Aliwasaidia walowezi wa Kiyahudi kurejesha utambulisho wao wa kitaifa na kidini wakati wa udhaifu wa kisiasa na kiuchumi.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Neh1:1-Neh7:73\">Nehemia 1:1–7:73</a>; <a href=\"https://ref.ly/Neh8:9-Neh8:10\">8:9–10</a>; <a href=\"https://ref.ly/Neh10:1-Neh13:31\">10:1–13:31</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16002004",
+          "start_ref_usfm": "NEH 2:4",
+          "end_ref": "16002004",
+          "end_ref_usfm": "NEH 2:4"
+        },
+        {
+          "start_ref": "16002008",
+          "start_ref_usfm": "NEH 2:8",
+          "end_ref": "16002008",
+          "end_ref_usfm": "NEH 2:8"
+        },
+        {
+          "start_ref": "16002018",
+          "start_ref_usfm": "NEH 2:18",
+          "end_ref": "16002018",
+          "end_ref_usfm": "NEH 2:18"
+        },
+        {
+          "start_ref": "16002020",
+          "start_ref_usfm": "NEH 2:20",
+          "end_ref": "16002020",
+          "end_ref_usfm": "NEH 2:20"
+        },
+        {
+          "start_ref": "16013001",
+          "start_ref_usfm": "NEH 13:1",
+          "end_ref": "16013031",
+          "end_ref_usfm": "NEH 13:31"
+        },
+        {
+          "start_ref": "16013023",
+          "start_ref_usfm": "NEH 13:23",
+          "end_ref": "16013029",
+          "end_ref_usfm": "NEH 13:29"
+        },
+        {
+          "start_ref": "16013015",
+          "start_ref_usfm": "NEH 13:15",
+          "end_ref": "16013022",
+          "end_ref_usfm": "NEH 13:22"
+        },
+        {
+          "start_ref": "16001001",
+          "start_ref_usfm": "NEH 1:1",
+          "end_ref": "16002008",
+          "end_ref_usfm": "NEH 2:8"
+        },
+        {
+          "start_ref": "16001004",
+          "start_ref_usfm": "NEH 1:4",
+          "end_ref": "16001011",
+          "end_ref_usfm": "NEH 1:11"
+        },
+        {
+          "start_ref": "16005001",
+          "start_ref_usfm": "NEH 5:1",
+          "end_ref": "16005019",
+          "end_ref_usfm": "NEH 5:19"
+        },
+        {
+          "start_ref": "16010032",
+          "start_ref_usfm": "NEH 10:32",
+          "end_ref": "16010039",
+          "end_ref_usfm": "NEH 10:39"
+        },
+        {
+          "start_ref": "16008009",
+          "start_ref_usfm": "NEH 8:9",
+          "end_ref": "16008010",
+          "end_ref_usfm": "NEH 8:10"
+        },
+        {
+          "start_ref": "16001001",
+          "start_ref_usfm": "NEH 1:1",
+          "end_ref": "16007073",
+          "end_ref_usfm": "NEH 7:73"
+        },
+        {
+          "start_ref": "16010001",
+          "start_ref_usfm": "NEH 10:1",
+          "end_ref": "16013031",
+          "end_ref_usfm": "NEH 13:31"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

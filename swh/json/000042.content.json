@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 734384,
+    "reference_id": 203484,
+    "title": "Herode Antipa",
+    "media_type": "Text",
+    "index_reference": "herode antipa",
+    "language": "swh",
+    "content": "<p>Herode Antipa alikuwa mwana wa sita wa Herode Mkuu. Alitawala Galilaya na Perea kutoka mwaka wa 4 Kabla ya Kristo (KK) hadi 39 Baada ya Kristo (BK). Huu ulikuwa wakati wa maisha ya Yesu. Alitawala maeneo ambapo Yesu na Yohana Mbatizaji walifanya kazi zao. </p><p>Herode Antipa, kama baba yake, alianzisha miji. Sepphoris, mradi wake wa kwanza, ukawa mji mkubwa zaidi katika Galilaya. Ulitumika kama mji mkuu wa Antipa hadi alipojenga Tiberia, mji uliyopewa jina la Mfalme Tiberio, ambaye alitawala kutoka 14 hadi 37 BK. Tiberia ilikuwa kwenye pwani ya magharibi ya Bahari ya Galilaya. Antipa aliukamilisha mwaka wa 23 BK na kuufanya kuwa mji wake mkuu.</p><p>Herode Antipa aliwakera Wayahudi wengi kwa kumtaliki mke wake na kumuoa Herodia, ambaye alikuwa mke wa nusu kaka yake, Herode Filipo. Ndoa hii ilivunja sheria ya Mose kwa sababu kaka yake Herode, Filipo, alikuwa bado hai (<a href=\"https://ref.ly/Lev18:16\">Mambo ya Walawi 18:16</a>; <a href=\"https://ref.ly/Lev20:21\">20:21</a>). Yohana Mbatizaji alipokosoa vikali ndoa hii isiyo halali, Antipa alimfunga gerezani (<a href=\"https://ref.ly/Mark6:17-Mark6:18\">Marko 6:17–18</a>). Herode aliogopa kwamba ukosoaji wa Yohana ungesababisha uasi dhidi yake (Antiquities 18.5.2). Baadaye, kwenye karamu, binti ya Herodia alimvutia Herode kwa kucheza kwake. Hii ilimfanya kutoa ahadi ya kijinga kumpa chochote alichotaka. Herodia alitumia nafasi hii kumfanya Yohana auawe kwa kukatwa kichwa (<a href=\"https://ref.ly/Matt14:1-Matt14:12\">Mathayo 14:1–12</a>).</p><p>Wakati Yesu alipokamatwa hatimaye, Pilato hakuweza kupata kosa lolote kwa Yesu, hivyo akamtuma kwa Herode Antipa, ambaye alikuwa Yerusalemu kwa ajili ya Pasaka. Inawezekana Pilato pia alikuwa akijaribu kuboresha uhusiano wake na Antipa. Uhusiano wao ulikuwa na matatizo tangu mauaji huko Galilaya (<a href=\"https://ref.ly/Luke13:1\">Luka 13:1</a>). Pilato pia alikuwa ameleta ngao zenye picha ya Tiberio Yerusalemu. Hizi zilionekana kama kukufuru kwa Wayahudi (Philo, On the Embassy to Gayo 299–304). Vitendo hivi vilimdharau Mungu na sheria zake, jambo ambalo liliwakera sana watu wa Kiyahudi. Yesu alipofikishwa mbele ya Antipa, Herode alimdhihaki tu na kumrudisha kwa Pilato (<a href=\"https://ref.ly/Luke23:6-Luke23:11\">Luka 23:6–11</a>). Athari kuu ya kisiasa ya tukio hili ilikuwa kwamba uhusiano wa Herode na Pilato uliboreka (<a href=\"https://ref.ly/Luke23:12\">Luka 23:12</a>).</p><p>Herode Antipa baadaye alishindwa vitani na Mfalme Areta, ambaye binti yake alikuwa amemwacha. Wayahudi waliona kushindwa huku kama hukumu ya kimungu. Kisha, katika mwaka wa 39 BK, Mfalme Gayo alimwondoa Antipa madarakani. Alimfukuza Antipa baada ya Herode Agripa I kumshtaki kwa kupanga njama dhidi ya Rumi.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt14:1-Matt14:12\">Mathayo 14:1–12</a>; <a href=\"https://ref.ly/Mark1:14\">Marko 1:14</a>; <a href=\"https://ref.ly/Mark6:14-Mark6:29\">6:14–29</a>; <a href=\"https://ref.ly/Luke3:1\">Luka 3:1</a>, <a href=\"https://ref.ly/Luke3:19-Luke3:20\">19–20</a>; <a href=\"https://ref.ly/Luke9:7-Luke9:9\">9:7–9</a>; <a href=\"https://ref.ly/Luke13:31-Luke13:33\">13:31–33</a>; <a href=\"https://ref.ly/Luke23:7-Luke23:12\">23:7–12</a>, <a href=\"https://ref.ly/Luke23:15\">15</a>; <a href=\"https://ref.ly/Acts4:27\">Matendo 4:27</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03018016",
+          "start_ref_usfm": "LEV 18:16",
+          "end_ref": "03018016",
+          "end_ref_usfm": "LEV 18:16"
+        },
+        {
+          "start_ref": "03020021",
+          "start_ref_usfm": "LEV 20:21",
+          "end_ref": "03020021",
+          "end_ref_usfm": "LEV 20:21"
+        },
+        {
+          "start_ref": "41001014",
+          "start_ref_usfm": "MRK 1:14",
+          "end_ref": "41001014",
+          "end_ref_usfm": "MRK 1:14"
+        },
+        {
+          "start_ref": "41008015",
+          "start_ref_usfm": "MRK 8:15",
+          "end_ref": "41008015",
+          "end_ref_usfm": "MRK 8:15"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003001",
+          "end_ref_usfm": "LUK 3:1"
+        },
+        {
+          "start_ref": "42013001",
+          "start_ref_usfm": "LUK 13:1",
+          "end_ref": "42013001",
+          "end_ref_usfm": "LUK 13:1"
+        },
+        {
+          "start_ref": "42023012",
+          "start_ref_usfm": "LUK 23:12",
+          "end_ref": "42023012",
+          "end_ref_usfm": "LUK 23:12"
+        },
+        {
+          "start_ref": "42023015",
+          "start_ref_usfm": "LUK 23:15",
+          "end_ref": "42023015",
+          "end_ref_usfm": "LUK 23:15"
+        },
+        {
+          "start_ref": "44004027",
+          "start_ref_usfm": "ACT 4:27",
+          "end_ref": "44004027",
+          "end_ref_usfm": "ACT 4:27"
+        },
+        {
+          "start_ref": "40014001",
+          "start_ref_usfm": "MAT 14:1",
+          "end_ref": "40014012",
+          "end_ref_usfm": "MAT 14:12"
+        },
+        {
+          "start_ref": "41006014",
+          "start_ref_usfm": "MRK 6:14",
+          "end_ref": "41006029",
+          "end_ref_usfm": "MRK 6:29"
+        },
+        {
+          "start_ref": "42003019",
+          "start_ref_usfm": "LUK 3:19",
+          "end_ref": "42003020",
+          "end_ref_usfm": "LUK 3:20"
+        },
+        {
+          "start_ref": "40014001",
+          "start_ref_usfm": "MAT 14:1",
+          "end_ref": "40014002",
+          "end_ref_usfm": "MAT 14:2"
+        },
+        {
+          "start_ref": "41006014",
+          "start_ref_usfm": "MRK 6:14",
+          "end_ref": "41006016",
+          "end_ref_usfm": "MRK 6:16"
+        },
+        {
+          "start_ref": "42009007",
+          "start_ref_usfm": "LUK 9:7",
+          "end_ref": "42009009",
+          "end_ref_usfm": "LUK 9:9"
+        },
+        {
+          "start_ref": "42013031",
+          "start_ref_usfm": "LUK 13:31",
+          "end_ref": "42013033",
+          "end_ref_usfm": "LUK 13:33"
+        },
+        {
+          "start_ref": "42023007",
+          "start_ref_usfm": "LUK 23:7",
+          "end_ref": "42023012",
+          "end_ref_usfm": "LUK 23:12"
+        },
+        {
+          "start_ref": "41006017",
+          "start_ref_usfm": "MRK 6:17",
+          "end_ref": "41006018",
+          "end_ref_usfm": "MRK 6:18"
+        },
+        {
+          "start_ref": "42023006",
+          "start_ref_usfm": "LUK 23:6",
+          "end_ref": "42023011",
+          "end_ref_usfm": "LUK 23:11"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

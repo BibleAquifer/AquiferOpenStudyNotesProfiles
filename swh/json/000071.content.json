@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 734391,
+    "reference_id": 203491,
+    "title": "Nikodemo",
+    "media_type": "Text",
+    "index_reference": "nikodemo",
+    "language": "swh",
+    "content": "<p>Nikodemo alikuwa Farisayo Myahudi anayeheshimika (<a href=\"https://ref.ly/John3:1\">Yohana 3:1</a>) na mwanachama mashuhuri wa baraza kuu. Anaonekana kuwa mfuasi wa Yesu. Injili ya Yohana ndiyo sehemu pekee ambapo anatajwa.</p><p>Nikodemo alitamani kuelewa zaidi kuhusu mamlaka na miujiza ya Yesu. Hivyo, alimtembelea Yesu kwa siri usiku ili kupata ufahamu zaidi kumhusu. Yesu alimweleza Nikodemo kwamba ni lazima azaliwe mara ya pili ili kuingia katika ufalme wa Mungu (<a href=\"https://ref.ly/John3:1-John3:8\">Yohana 3:1–8</a>). Injili haionyeshi jibu la Nikodemo.</p><p>Baadaye, tofauti na wenzake kwenye baraza kuu la Kiyahudi, alisisitiza kwa nguvu kwamba Yesu alistahili kesi ya haki (<a href=\"https://ref.ly/John7:50-John7:51\">Yohana 7:50–51</a>). Baada ya Yesu kufa msalabani, alinunua pauni sabini na tano za marashi ya gharama kubwa kwa ajili ya mazishi. Alipeleka kwenye kaburi na kumsaidia Yosefu wa Arimathaya kumzika Yesu (<a href=\"https://ref.ly/John19:39-John19:42\">Yohana 19:39–42</a>). Hivyo, Nikodemo anaonekana kuwa Farisayo ambaye alikuja kumwamini Yesu na alikuwa tayari kuonyesha kujitolea kwake hadharani baada ya kifo cha Yesu.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/John3:1-John3:9\">Yohana 3:1–9</a>; <a href=\"https://ref.ly/John7:50\">7:50</a>; <a href=\"https://ref.ly/John19:39-John19:42\">19:39–42</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43003001",
+          "start_ref_usfm": "JHN 3:1",
+          "end_ref": "43003001",
+          "end_ref_usfm": "JHN 3:1"
+        },
+        {
+          "start_ref": "43007050",
+          "start_ref_usfm": "JHN 7:50",
+          "end_ref": "43007050",
+          "end_ref_usfm": "JHN 7:50"
+        },
+        {
+          "start_ref": "43019039",
+          "start_ref_usfm": "JHN 19:39",
+          "end_ref": "43019042",
+          "end_ref_usfm": "JHN 19:42"
+        },
+        {
+          "start_ref": "43003001",
+          "start_ref_usfm": "JHN 3:1",
+          "end_ref": "43003008",
+          "end_ref_usfm": "JHN 3:8"
+        },
+        {
+          "start_ref": "43007050",
+          "start_ref_usfm": "JHN 7:50",
+          "end_ref": "43007051",
+          "end_ref_usfm": "JHN 7:51"
+        },
+        {
+          "start_ref": "43003001",
+          "start_ref_usfm": "JHN 3:1",
+          "end_ref": "43003009",
+          "end_ref_usfm": "JHN 3:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

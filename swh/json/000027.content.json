@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 734326,
+    "reference_id": 203426,
+    "title": "Eli",
+    "media_type": "Text",
+    "index_reference": "eli",
+    "language": "swh",
+    "content": "<p>Eli alikuwa jemadari kuhani wa Israeli katika hema huko Shilo, mahali pa kati pa ibada wakati wa Waamuzi. Inawezekana Eli alitokana na Ithamari, mwana mdogo wa Aroni (tazama <a href=\"https://ref.ly/1Kgs2:27\">1 Wafalme 2:27</a>; <a href=\"https://ref.ly/1Chr18:16\">1 Mambo ya Nyakati 18:16</a>; <a href=\"https://ref.ly/1Chr24:3\">24:3</a>). Eli alikuwa mkweli na mcha Mungu, lakini alishindwa kuwaadhibu wanawe waovu, Hofni na Finehasi.</p><p>Wakati Eli alipokutana na Hana kwenye hema, alidhani kimakosa kwamba alikuwa amelewa kwa sababu alikuwa akiomba kimya kimya kwa ajili ya mtoto. Baada ya kugundua kosa lake, Eli alimbariki Hana. Mungu alijibu maombi yake kwa kumpa mtoto wa kiume aliyeitwa Samweli.</p><p>Samweli alipata kibali kwa Bwana na watu (<a href=\"https://ref.ly/1Sam2:26\">1 Samweli 2:26</a>). Lakini wana wa Eli hawakuwa na heshima na walikuwa walaghai (<a href=\"https://ref.ly/1Sam2:12\">1 Samweli 2:12</a>). Walikuwa wakiiba kutoka kwa sadaka na kuwashawishi wanawake wanaohudumu kwenye hema. Eli alipowakaripia, walimpuuza. Mungu alimtuma nabii kumkosoa Eli kwa udhaifu wake na makosa ya wanawe, akitangaza kwamba Mungu angeondoa ukuhani kutoka kwa familia ya Eli (<a href=\"https://ref.ly/1Sam2:27-1Sam2:36\">1 Samweli 2:27–36</a>). Ujumbe huu ulithibitishwa wakati Mungu alizungumza na Samweli usiku mmoja, akimwambia kwamba angeadhibu familia ya Eli hivi karibuni (<a href=\"https://ref.ly/1Sam3:1-1Sam3:14\">1 Samweli 3:1–14</a>).</p><p>Muda mfupi baadaye, jeshi la Israeli lilishindwa na Wafilisti, Sanduku la Agano likatekwa, na wana wa Eli wakafa (<a href=\"https://ref.ly/1Sam4:1-1Sam4:11\">1 Samweli 4:1–11</a>). Eli, akiwa na umri wa miaka tisini na minane, aliposikia habari hizo, alianguka nyuma, akavunja shingo yake, na akafa (<a href=\"https://ref.ly/1Sam4:12-1Sam4:18\">1 Samweli 4:12–18</a>). Binti-mkwe wake alipata utungu na akafa alipokuwa akimzaa mjukuu wa Eli, aliyeitwa Ikabodi (maana yake “utukufu uko wapi?,” kwa sababu utukufu ulikuwa umewaacha Israeli. (<a href=\"https://ref.ly/1Sam4:19-1Sam4:22\">1 Samweli 4:19–22</a>).</p><p>Familia ya Eli iliendelea kuhudumu kama makuhani hadi Mfalme Daudi alipofariki. Abiathari alikuwa wa mwisho kati ya wazao wa Eli kuhudumu kama jemadari kuhani. Solomoni alimwondoa Abiathari kutoka nafasi ya kuhani kwa sababu Abiathari alikuwa amemuunga mkono Adonia, ambaye alijaribu kuwa mfalme badala ya Solomoni. Solomoni kisha akamteua Sadoki kuwa jemadari kuhani (<a href=\"https://ref.ly/1Kgs2:27\">1 Wafalme 2:27</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/1Sam1:9-1Sam1:18\">1 Samweli 1:9–18</a>, <a href=\"https://ref.ly/1Sam1:25-1Sam1:28\">25–28</a>; <a href=\"https://ref.ly/1Sam2:11-1Sam4:22\">1 Samweli 2:11–4:22</a>; <a href=\"https://ref.ly/1Kgs2:27\">1 Wafalme 2:27</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09002012",
+          "start_ref_usfm": "1SA 2:12",
+          "end_ref": "09002012",
+          "end_ref_usfm": "1SA 2:12"
+        },
+        {
+          "start_ref": "09002026",
+          "start_ref_usfm": "1SA 2:26",
+          "end_ref": "09002026",
+          "end_ref_usfm": "1SA 2:26"
+        },
+        {
+          "start_ref": "11002027",
+          "start_ref_usfm": "1KI 2:27",
+          "end_ref": "11002027",
+          "end_ref_usfm": "1KI 2:27"
+        },
+        {
+          "start_ref": "13018016",
+          "start_ref_usfm": "1CH 18:16",
+          "end_ref": "13018016",
+          "end_ref_usfm": "1CH 18:16"
+        },
+        {
+          "start_ref": "13024003",
+          "start_ref_usfm": "1CH 24:3",
+          "end_ref": "13024003",
+          "end_ref_usfm": "1CH 24:3"
+        },
+        {
+          "start_ref": "09004001",
+          "start_ref_usfm": "1SA 4:1",
+          "end_ref": "09004011",
+          "end_ref_usfm": "1SA 4:11"
+        },
+        {
+          "start_ref": "09004019",
+          "start_ref_usfm": "1SA 4:19",
+          "end_ref": "09004022",
+          "end_ref_usfm": "1SA 4:22"
+        },
+        {
+          "start_ref": "09002027",
+          "start_ref_usfm": "1SA 2:27",
+          "end_ref": "09002036",
+          "end_ref_usfm": "1SA 2:36"
+        },
+        {
+          "start_ref": "09003001",
+          "start_ref_usfm": "1SA 3:1",
+          "end_ref": "09003014",
+          "end_ref_usfm": "1SA 3:14"
+        },
+        {
+          "start_ref": "09004012",
+          "start_ref_usfm": "1SA 4:12",
+          "end_ref": "09004018",
+          "end_ref_usfm": "1SA 4:18"
+        },
+        {
+          "start_ref": "09001009",
+          "start_ref_usfm": "1SA 1:9",
+          "end_ref": "09001018",
+          "end_ref_usfm": "1SA 1:18"
+        },
+        {
+          "start_ref": "09001025",
+          "start_ref_usfm": "1SA 1:25",
+          "end_ref": "09001028",
+          "end_ref_usfm": "1SA 1:28"
+        },
+        {
+          "start_ref": "09002011",
+          "start_ref_usfm": "1SA 2:11",
+          "end_ref": "09004022",
+          "end_ref_usfm": "1SA 4:22"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

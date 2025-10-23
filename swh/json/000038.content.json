@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 734323,
+    "reference_id": 203423,
+    "title": "Gideoni",
+    "media_type": "Text",
+    "index_reference": "gideoni",
+    "language": "swh",
+    "content": "<p>Gideoni alikuwa mwamuzi wa Waisraeli na mwana wa Yoashi kutoka kabila la Manase. Alisema kwamba ukoo wake ulikuwa dhaifu zaidi katika Manase, na yeye alikuwa wa mwisho katika ukoo huo. Hadithi yake inaonyesha jinsi Mungu anavyoweza kumtumia mtu dhaifu kwa madhumuni makubwa.</p><p>Katika kipindi hiki, Wamidiani waliwatesa Waisraeli, na watu wakamlilia Mungu kwa msaada (<a href=\"https://ref.ly/Judg6:6\">Waamuzi 6:6</a>). Kwa kujibu, Mungu alituma nabii kuwaonya kwa sababu ya kumpuuza na kuabudu miungu mingine. Pia alituma malaika wake kumwita Gideoni ili aokoe Israeli.</p><p>Kuonekana kwa kwanza kwa Gideoni hakuvutia. Alikuwa akipura ngano chini ya shinikizo la divai ili kujificha kutoka kwa Wamidiani. Wakati malaika wa Bwana alipotokea kwa Gideoni pale, Gideoni aliuliza kwa nini Mungu hakuwaokoa watu wake kama wakati wa Kutoka. Mungu alimwambia Gideoni kwamba amechaguliwa kuwa mkombozi wa Israeli na kwamba Mungu angekuwa pamoja naye. Gideoni alikuwa na shaka kuamini na akaomba ishara. Alileta sadaka, na wakati malaika alipogusa, moto ulitoka kwenye mwamba chini yake.</p><p>Hii ishara ilimpa Gideoni imani ya kutosha kuchukua hatua katika jamii yake. Mungu alimwagiza avunje madhabahu ya baba yake kwa Baali, akate nguzo ya Ashera, na kujenga madhabahu kwa Bwana badala yake. Gideoni alitii amri ya Mungu na akawa shujaa wa Mungu dhidi ya miungu ya uongo.</p><p>Roho wa Mungu alimjia Gideoni, naye akakusanya jeshi kupigana na Wamidiani na washirika wao. Gideoni alibaki makini na akaomba Mungu ishara nyingine ili kuthibitisha misheni yake. Aliweka ngozi ya kondoo nje kwa usiku mbili tofauti, akiomba Mungu aonyeshe nguvu zake kwa kufanya umande ukae juu ya ngozi na ardhini kwa njia za kimiujiza. Mungu alifanya hivyo, na Gideoni alikuwa tayari kufuata mpango wa Mungu.</p><p>Gideoni aliweza kuajiri wanaume 32,000 kwa ajili ya jeshi. Hata hivyo, Mungu alimwagiza apunguze idadi hiyo hadi wanaume 300. Gideoni aliwaongoza wanaume hawa 300 dhidi ya jeshi kubwa zaidi na akashinda.</p><p>Gideoni kwa busara alikataa ombi la watu kuwa mtawala wao. Hata hivyo, alitengeneza efodi kutoka kwa pete za masikio za askari walioshindwa, na ikawa sanamu (<a href=\"https://ref.ly/Judg8:22-Judg8:27\">Waamuzi 8:22–27</a>). Gideoni, ambaye alikuwa dhaifu katika imani na alitegemea ishara zinazoonekana, hatimaye aligeuka kutoka kumwabudu Mungu asiyeonekana na akaabudu sanamu. Israeli walipata amani wakati wa maisha yake, lakini ukosefu wake wa imani ulisababisha matatizo baada ya kifo chake (<a href=\"https://ref.ly/Judg8:33-Judg9:57\">Waamuzi 8:33–9:57</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Judg6:1-Judg8:35\">Waamuzi 6:1–8:35</a>; <a href=\"https://ref.ly/1Sam12:11\">1 Samweli 12:11</a>; <a href=\"https://ref.ly/Isa10:26\">Isaya 10:26</a>; <a href=\"https://ref.ly/Heb11:32\">Waebrania 11:32</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07006006",
+          "start_ref_usfm": "JDG 6:6",
+          "end_ref": "07006006",
+          "end_ref_usfm": "JDG 6:6"
+        },
+        {
+          "start_ref": "09012011",
+          "start_ref_usfm": "1SA 12:11",
+          "end_ref": "09012011",
+          "end_ref_usfm": "1SA 12:11"
+        },
+        {
+          "start_ref": "23010026",
+          "start_ref_usfm": "ISA 10:26",
+          "end_ref": "23010026",
+          "end_ref_usfm": "ISA 10:26"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011032",
+          "end_ref_usfm": "HEB 11:32"
+        },
+        {
+          "start_ref": "07006001",
+          "start_ref_usfm": "JDG 6:1",
+          "end_ref": "07008035",
+          "end_ref_usfm": "JDG 8:35"
+        },
+        {
+          "start_ref": "07008022",
+          "start_ref_usfm": "JDG 8:22",
+          "end_ref": "07008027",
+          "end_ref_usfm": "JDG 8:27"
+        },
+        {
+          "start_ref": "07008033",
+          "start_ref_usfm": "JDG 8:33",
+          "end_ref": "07009057",
+          "end_ref_usfm": "JDG 9:57"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

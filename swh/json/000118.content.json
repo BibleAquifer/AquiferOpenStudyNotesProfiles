@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 734328,
+    "reference_id": 203428,
+    "title": "Yonathani",
+    "media_type": "Text",
+    "index_reference": "yonathani",
+    "language": "swh",
+    "content": "<p>Yonathani alikuwa mwana wa kwanza wa Mfalme Sauli. Alitarajiwa kuwa mfalme anayefuata baada ya Sauli. Hata hivyo, Mungu alipomkataa Sauli na kumchagua Daudi, Yonathani alimuunga mkono Daudi kupanda madarakani (<a href=\"https://ref.ly/1Sam18:1-1Sam18:4\">1 Samweli 18:1–4</a>; <a href=\"https://ref.ly/1Sam19:1-1Sam19:7\">19:1–7</a>).</p><p>Yonathani alikuwa kiongozi bora wa jeshi. Aliiongoza jeshi la baba yake kushinda kambi ya Wafilisti huko Geba (<a href=\"https://ref.ly/1Sam13:3-1Sam13:4\">1 Samweli 13:3–4</a>). Katika hatua nyingine ya ujasiri, Yonathani na mbeba silaha wake walishambulia kituo cha Wafilisti peke yao. Hii ilisababisha mkanganyiko na machafuko katika jeshi la Wafilisti, na hivyo kuruhusu jeshi kuu la Israeli kushambulia na kushinda (<a href=\"https://ref.ly/1Sam14:1-1Sam14:23\">1 Samweli 14:1–23</a>; tazama pia heshima ya Daudi kwa Yonathani, <a href=\"https://ref.ly/2Sam1:22\">2 Samweli 1:22</a>).</p><p>Sauli alikuwa ameapa kwa pupa kwamba hakuna mtu anayepaswa kula hadi washinde. Yonathani hakujua kuhusu kiapo hicho na akala asali. Alipogundua kuhusu kiapo cha Sauli, Yonathani alikikosoa vikali. Sauli angeweza kumuua Yonathani baada ya vita alivyosaidia kushinda kama watu wasingekuwa wameingilia kati.</p><p>Wakati Yonathani na Daudi walipokutana, walifanyika marafiki haraka (<a href=\"https://ref.ly/1Sam18:1-1Sam18:4\">1 Samweli 18:1–4</a>). Yonathani alionyesha upendo wake wa dhati kwa Daudi kwa kumpa vazi lake, kanzu, upanga, upinde, na mshipi. Hii inaweza kumaanisha kwamba Yonathani aliamini Daudi anapaswa kuwa mtawala anayefuata. Wakati Sauli alijaribu kumuua Daudi, Yonathani alimtetea Daudi na kumsaidia kutoroka salama.</p><p>Yonathani alikaa na Baba yake hata baada ya Bwana kuweka wazi kwamba alikuwa amemwacha Sauli. Kama matokeo, Yonathani alikufa pamoja na Sauli walipokuwa wakipigana na Wafilisti (<a href=\"https://ref.ly/1Sam31:2\">1 Samweli 31:2</a>; <a href=\"https://ref.ly/1Chr10:2\">1 Mambo ya Nyakati 10:2</a>). Yonathani alikuwa mtu mwenye maadili, jasiri, na asiye na ubinafsi ambaye kila mara aliongea na kutenda kwa uaminifu. Upendo na ujasiri wake vilimsaidia Daudi kuishi mashambulizi ya kichaa ya Mfalme Sauli.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/1Sam13:1-1Sam14:46\">1 Samweli 13:1–14:46</a>; <a href=\"https://ref.ly/1Sam18:1-1Sam18:4\">18:1–4</a>; <a href=\"https://ref.ly/1Sam20:1-1Sam20:42\">20:1–42</a>; <a href=\"https://ref.ly/1Sam23:16-1Sam23:18\">23:16–18</a>; <a href=\"https://ref.ly/1Sam31:2\">31:2</a>; <a href=\"https://ref.ly/2Sam1:1-2Sam1:27\">2 Samweli 1:1–27</a>; <a href=\"https://ref.ly/2Sam4:4\">4:4</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09031002",
+          "start_ref_usfm": "1SA 31:2",
+          "end_ref": "09031002",
+          "end_ref_usfm": "1SA 31:2"
+        },
+        {
+          "start_ref": "10001022",
+          "start_ref_usfm": "2SA 1:22",
+          "end_ref": "10001022",
+          "end_ref_usfm": "2SA 1:22"
+        },
+        {
+          "start_ref": "10004004",
+          "start_ref_usfm": "2SA 4:4",
+          "end_ref": "10004004",
+          "end_ref_usfm": "2SA 4:4"
+        },
+        {
+          "start_ref": "13010002",
+          "start_ref_usfm": "1CH 10:2",
+          "end_ref": "13010002",
+          "end_ref_usfm": "1CH 10:2"
+        },
+        {
+          "start_ref": "10001001",
+          "start_ref_usfm": "2SA 1:1",
+          "end_ref": "10001027",
+          "end_ref_usfm": "2SA 1:27"
+        },
+        {
+          "start_ref": "09020001",
+          "start_ref_usfm": "1SA 20:1",
+          "end_ref": "09020042",
+          "end_ref_usfm": "1SA 20:42"
+        },
+        {
+          "start_ref": "09019001",
+          "start_ref_usfm": "1SA 19:1",
+          "end_ref": "09019007",
+          "end_ref_usfm": "1SA 19:7"
+        },
+        {
+          "start_ref": "09014001",
+          "start_ref_usfm": "1SA 14:1",
+          "end_ref": "09014023",
+          "end_ref_usfm": "1SA 14:23"
+        },
+        {
+          "start_ref": "09013003",
+          "start_ref_usfm": "1SA 13:3",
+          "end_ref": "09013004",
+          "end_ref_usfm": "1SA 13:4"
+        },
+        {
+          "start_ref": "09018001",
+          "start_ref_usfm": "1SA 18:1",
+          "end_ref": "09018004",
+          "end_ref_usfm": "1SA 18:4"
+        },
+        {
+          "start_ref": "09013001",
+          "start_ref_usfm": "1SA 13:1",
+          "end_ref": "09014046",
+          "end_ref_usfm": "1SA 14:46"
+        },
+        {
+          "start_ref": "09023016",
+          "start_ref_usfm": "1SA 23:16",
+          "end_ref": "09023018",
+          "end_ref_usfm": "1SA 23:18"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "content_id": 734398,
+    "reference_id": 203498,
+    "title": "Stefano",
+    "media_type": "Text",
+    "index_reference": "stefano",
+    "language": "swh",
+    "content": "<p>Stefano alikuwa Mkristo wa kwanza ambaye maisha yake yalikuwa mfano wa kuigwa na wengine. Kwa sababu alizungumza kwa ujasiri kuhusu imani yake, viongozi wa Kiyahudi walimkamata na kumuua. Anajulikana kama shahidi wa kwanza wa Kikristo, ikimaanisha alikuwa mtu wa kwanza kufa kwa ajili ya imani yake katika Yesu.</p><p>Stefano alikuwa mmoja wa wanaume saba waliochaguliwa kusaidia kugawa chakula kwa Wakristo wenye uhitaji huko Yerusalemu (<a href=\"https://ref.ly/Acts6:1-Acts6:6\">Matendo 6:1–6</a>). Kati ya wanaume hao saba, Stefano alijulikana kwa upekee kwa sababu alikuwa “amejaa IMANI na Roho Mtakatifu” (<a href=\"https://ref.ly/Acts6:5\">Matendo 6:5</a>). Akiwa na neema na nguvu za Mungu kwa namna ya kipekee, alifanya miujiza (<a href=\"https://ref.ly/Acts6:8\">Matendo 6:8</a>). Alikuwa jasiri katika kumhubiri Yesu na alikuwa hodari katika kuelezea na kutetea imani za Kikristo (<a href=\"https://ref.ly/Acts6:9-Acts6:10\">Matendo 6:9–10</a>). Kwa sababu ya kuzungumza waziwazi kuhusu Yesu, viongozi wa Kiyahudi walimkamata na kumleta mbele ya baraza lao la utawala (linaloitwa Baraza) kwa ajili ya kumhoji (<a href=\"https://ref.ly/Acts6:9-Acts6:12\">Matendo 6:9–12</a>).</p><p>Mashahidi walimshtaki Stefano kwa kuzungumza dhidi ya hekalu takatifu na sheria ya Mose (<a href=\"https://ref.ly/Acts6:13-Acts6:14\">Matendo 6:13–14</a>; linganisha <a href=\"https://ref.ly/Mark13:2\">Marko 13:2</a>; <a href=\"https://ref.ly/John2:19\">Yohana 2:19</a>; <a href=\"https://ref.ly/John4:21\">4:21</a>). Stefano alijitetea mbele ya baraza la utawala la Kiyahudi (<a href=\"https://ref.ly/Acts7:1-Acts7:53\">Matendo 7:1–53</a>). Alizungumza kuhusu historia ndefu ya Israeli ya kumpinga Mungu na watumishi wake—kwanza Mose na sasa nabii ambaye Mose alikuwa ametabiri (<a href=\"https://ref.ly/Acts7:51-Acts7:53\">Matendo 7:51–53</a>). Mamlaka ya Kiyahudi, wakiwa na hasira na madai ya ujasiri ya Stefano, walimtoa nje ya mji na kumpiga mawe hadi kufa (<a href=\"https://ref.ly/Acts7:54-Acts7:60\">Matendo 7:54–60</a>). Alipokuwa akifa, Stefano aliwaombea msamaha (<a href=\"https://ref.ly/Acts7:60\">Matendo 7:60</a>).</p><p>Ushuhuda wa ujasiri wa Stefano ulisababisha mateso ya kwanza kwa Wakristo wa mwanzo (<a href=\"https://ref.ly/Acts8:1-Acts8:3\">Matendo 8:1–3</a>). Mateso haya yalisababisha Habari Njema kuenea zaidi wakati waumini walipoondoka Yerusalemu na kushiriki ujumbe wa Yesu kila walikokwenda (<a href=\"https://ref.ly/Acts8:4\">Matendo 8:4</a>; <a href=\"https://ref.ly/Acts11:19-Acts11:21\">11:19–21</a>). Baada ya Stefano kuuawa kwa ajili ya imani yake, Wakristo walianza kushiriki Habari Njema kuhusu Yesu nje ya nchi yao ya Yudea.</p><p>Maisha ya Stefano yanaonyesha kwamba kuwa Mkristo mwaminifu kunaweza kusababisha upinzani mkali. Kusema kwa ujasiri kwa ajili ya Yesu kunaweza kuwa na gharama (tazama <a href=\"https://ref.ly/Rev2:10\">Ufunuo 2:10</a>, <a href=\"https://ref.ly/Rev2:13\">13</a>), lakini hakuna kitu kinachoweza kuzuia kanisa kukua (tazama <a href=\"https://ref.ly/Matt16:18\">Mathayo 16:18</a>; <a href=\"https://ref.ly/Acts8:1-Acts8:4\">Matendo 8:1–4</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Acts6:5-Acts8:2\">Matendo 6:5–8:2</a>; <a href=\"https://ref.ly/Acts11:19\">11:19</a>; <a href=\"https://ref.ly/Acts22:20\">22:20</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40016018",
+          "start_ref_usfm": "MAT 16:18",
+          "end_ref": "40016018",
+          "end_ref_usfm": "MAT 16:18"
+        },
+        {
+          "start_ref": "41013002",
+          "start_ref_usfm": "MRK 13:2",
+          "end_ref": "41013002",
+          "end_ref_usfm": "MRK 13:2"
+        },
+        {
+          "start_ref": "43002019",
+          "start_ref_usfm": "JHN 2:19",
+          "end_ref": "43002019",
+          "end_ref_usfm": "JHN 2:19"
+        },
+        {
+          "start_ref": "43004021",
+          "start_ref_usfm": "JHN 4:21",
+          "end_ref": "43004021",
+          "end_ref_usfm": "JHN 4:21"
+        },
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006005",
+          "end_ref_usfm": "ACT 6:5"
+        },
+        {
+          "start_ref": "44006008",
+          "start_ref_usfm": "ACT 6:8",
+          "end_ref": "44006008",
+          "end_ref_usfm": "ACT 6:8"
+        },
+        {
+          "start_ref": "44007060",
+          "start_ref_usfm": "ACT 7:60",
+          "end_ref": "44007060",
+          "end_ref_usfm": "ACT 7:60"
+        },
+        {
+          "start_ref": "44008004",
+          "start_ref_usfm": "ACT 8:4",
+          "end_ref": "44008004",
+          "end_ref_usfm": "ACT 8:4"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011019",
+          "end_ref_usfm": "ACT 11:19"
+        },
+        {
+          "start_ref": "44022020",
+          "start_ref_usfm": "ACT 22:20",
+          "end_ref": "44022020",
+          "end_ref_usfm": "ACT 22:20"
+        },
+        {
+          "start_ref": "66002010",
+          "start_ref_usfm": "REV 2:10",
+          "end_ref": "66002010",
+          "end_ref_usfm": "REV 2:10"
+        },
+        {
+          "start_ref": "66002013",
+          "start_ref_usfm": "REV 2:13",
+          "end_ref": "66002013",
+          "end_ref_usfm": "REV 2:13"
+        },
+        {
+          "start_ref": "44006001",
+          "start_ref_usfm": "ACT 6:1",
+          "end_ref": "44006006",
+          "end_ref_usfm": "ACT 6:6"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011021",
+          "end_ref_usfm": "ACT 11:21"
+        },
+        {
+          "start_ref": "44007001",
+          "start_ref_usfm": "ACT 7:1",
+          "end_ref": "44007053",
+          "end_ref_usfm": "ACT 7:53"
+        },
+        {
+          "start_ref": "44007054",
+          "start_ref_usfm": "ACT 7:54",
+          "end_ref": "44007060",
+          "end_ref_usfm": "ACT 7:60"
+        },
+        {
+          "start_ref": "44008001",
+          "start_ref_usfm": "ACT 8:1",
+          "end_ref": "44008003",
+          "end_ref_usfm": "ACT 8:3"
+        },
+        {
+          "start_ref": "44008001",
+          "start_ref_usfm": "ACT 8:1",
+          "end_ref": "44008004",
+          "end_ref_usfm": "ACT 8:4"
+        },
+        {
+          "start_ref": "44007051",
+          "start_ref_usfm": "ACT 7:51",
+          "end_ref": "44007053",
+          "end_ref_usfm": "ACT 7:53"
+        },
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006010",
+          "end_ref_usfm": "ACT 6:10"
+        },
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006012",
+          "end_ref_usfm": "ACT 6:12"
+        },
+        {
+          "start_ref": "44006013",
+          "start_ref_usfm": "ACT 6:13",
+          "end_ref": "44006014",
+          "end_ref_usfm": "ACT 6:14"
+        },
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44008002",
+          "end_ref_usfm": "ACT 8:2"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

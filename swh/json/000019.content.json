@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 734397,
+    "reference_id": 203497,
+    "title": "Barnaba",
+    "media_type": "Text",
+    "index_reference": "barnaba",
+    "language": "swh",
+    "content": "<p>Barnaba anaonyeshwa katika Matendo kama mfano mzuri wa kiongozi Mkristo. Alitoka Kipro na alikuwa hai katika kanisa la Yerusalemu. Barnaba alionyesha ukarimu mkubwa kwa kusaidia wanachama maskini (<a href=\"https://ref.ly/Acts4:32-Acts4:37\">Matendo 4:32–37</a>). Jina lake halisi lilikuwa Yosefu, lakini aliitwa Barnaba. Barnaba linamaanisha &quot;Mwana wa Faraja&quot; na linaonyesha tabia yake (<a href=\"https://ref.ly/Acts4:36\">Matendo 4:36</a>).</p><p>Barnaba alifaa vizuri kutathmini kazi mpya huko Antiokia (<a href=\"https://ref.ly/Acts11:19-Acts11:22\">Matendo 11:19–22</a>). Barnaba aliona baraka za Mungu pale na akawahimiza waumini kubaki waaminifu kwa Bwana (<a href=\"https://ref.ly/Acts11:23\">Matendo 11:23</a>). Tabia yake nzuri ilionekana katika wema wake, imani yake thabiti, na maisha na kazi yake yaliyojaa Roho (<a href=\"https://ref.ly/Acts11:24\">Matendo 11:24</a>). Roho Mtakatifu alimchagua Barnaba na Sauli kwa ajili ya misheni maalum (inayojulikana kama safari ya kwanza ya kimishonari). Kanisa la Antiokia liliwatuma kwenye safari hii (<a href=\"https://ref.ly/Acts13:1-Acts13:3\">Matendo 13:1–3</a>).</p><p>Barnaba alionyesha hekima alipoenda Tarso kumtafuta Sauli (<a href=\"https://ref.ly/Acts11:25\">Matendo 11:25</a>). Barnaba alivutiwa na ujasiri wa Sauli katika kuhubiri kama Mkristo mpya huko Dameski. Alimtambulisha Sauli kwa mitume, jambo ambalo lilikuwa muhimu kwa sababu Sauli hapo awali alikuwa amewashambulia waumini. Shukrani kwa Barnaba, Sauli alikutana na mitume wa awali, akapata kukubalika kwao, na kuhubiri kwa ujasiri huko Yerusalemu hadi alipoondoka (<a href=\"https://ref.ly/Acts9:26-Acts9:30\">Matendo 9:26–30</a>). Safari ya Barnaba ilifanikiwa, na kwa mwaka mmoja, walifanya kazi pamoja katika kanisa la Antiokia, wakivutia umati mkubwa (<a href=\"https://ref.ly/Acts11:26\">Matendo 11:26</a>).</p><p>Barnaba alikuwa mtu muhimu. Katika Listra, watu walidhani alikuwa Zeu (tazama <a href=\"https://ref.ly/Acts14:8-Acts14:18\">Matendo 14:8–18</a>). Alikuwa binamu na mlezi wa Yohana Marko. Barnaba alimsaidia Yohana Marko kupata nafasi ya pili kufanikiwa kama kiongozi Mkristo baada ya kuacha misheni ya awali (tazama <a href=\"https://ref.ly/Acts15:36-Acts15:40\">Matendo 15:36–40</a>).</p><p>Barnaba alielewa jinsi wengine wangeweza kushawishi watu kufanya mambo mabaya. Wakati mmoja, alikubali shinikizo hili na kufanya kitu alichojua kuwa kibaya (<a href=\"https://ref.ly/Gal2:11-Gal2:13\">Wagalatia 2:11–13</a>). Barnaba hakuwa mkamilifu, lakini alikuwa &quot;Mwana wa Faraja&quot; kwa wengi. Alikuwa mkarimu na asiye na ubinafsi, akiwasaidia wengine na kanisa kukua.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Acts4:36-Acts4:37\">Matendo 4:36–37</a>; <a href=\"https://ref.ly/Acts9:26-Acts9:28\">9:26–28</a>; <a href=\"https://ref.ly/Acts11:19-Acts11:30\">11:19–30</a>; <a href=\"https://ref.ly/Acts13:1-Acts15:40\">13:1–15:40</a>; <a href=\"https://ref.ly/Gal2:1-Gal2:14\">Wagalatia 2:1–14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44004036",
+          "start_ref_usfm": "ACT 4:36",
+          "end_ref": "44004036",
+          "end_ref_usfm": "ACT 4:36"
+        },
+        {
+          "start_ref": "44011023",
+          "start_ref_usfm": "ACT 11:23",
+          "end_ref": "44011023",
+          "end_ref_usfm": "ACT 11:23"
+        },
+        {
+          "start_ref": "44011024",
+          "start_ref_usfm": "ACT 11:24",
+          "end_ref": "44011024",
+          "end_ref_usfm": "ACT 11:24"
+        },
+        {
+          "start_ref": "44011025",
+          "start_ref_usfm": "ACT 11:25",
+          "end_ref": "44011025",
+          "end_ref_usfm": "ACT 11:25"
+        },
+        {
+          "start_ref": "44011026",
+          "start_ref_usfm": "ACT 11:26",
+          "end_ref": "44011026",
+          "end_ref_usfm": "ACT 11:26"
+        },
+        {
+          "start_ref": "44013001",
+          "start_ref_usfm": "ACT 13:1",
+          "end_ref": "44013003",
+          "end_ref_usfm": "ACT 13:3"
+        },
+        {
+          "start_ref": "44004032",
+          "start_ref_usfm": "ACT 4:32",
+          "end_ref": "44004037",
+          "end_ref_usfm": "ACT 4:37"
+        },
+        {
+          "start_ref": "44004036",
+          "start_ref_usfm": "ACT 4:36",
+          "end_ref": "44004037",
+          "end_ref_usfm": "ACT 4:37"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011022",
+          "end_ref_usfm": "ACT 11:22"
+        },
+        {
+          "start_ref": "44009026",
+          "start_ref_usfm": "ACT 9:26",
+          "end_ref": "44009030",
+          "end_ref_usfm": "ACT 9:30"
+        },
+        {
+          "start_ref": "44014008",
+          "start_ref_usfm": "ACT 14:8",
+          "end_ref": "44014018",
+          "end_ref_usfm": "ACT 14:18"
+        },
+        {
+          "start_ref": "44009026",
+          "start_ref_usfm": "ACT 9:26",
+          "end_ref": "44009028",
+          "end_ref_usfm": "ACT 9:28"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011030",
+          "end_ref_usfm": "ACT 11:30"
+        },
+        {
+          "start_ref": "48002011",
+          "start_ref_usfm": "GAL 2:11",
+          "end_ref": "48002013",
+          "end_ref_usfm": "GAL 2:13"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015040",
+          "end_ref_usfm": "ACT 15:40"
+        },
+        {
+          "start_ref": "44013001",
+          "start_ref_usfm": "ACT 13:1",
+          "end_ref": "44015040",
+          "end_ref_usfm": "ACT 15:40"
+        },
+        {
+          "start_ref": "48002001",
+          "start_ref_usfm": "GAL 2:1",
+          "end_ref": "48002014",
+          "end_ref_usfm": "GAL 2:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

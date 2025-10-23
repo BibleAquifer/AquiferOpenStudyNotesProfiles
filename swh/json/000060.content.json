@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 734381,
+    "reference_id": 203481,
+    "title": "Masadukayo",
+    "media_type": "Text",
+    "index_reference": "masadukayo",
+    "language": "swh",
+    "content": "<p>Masadukayo walikuwa kundi muhimu la Kiyahudi lililojumuisha makuhani na familia zao. Walitofautiana na Mafarisayo, kundi jingine la Kiyahudi, kwa sababu Mafarisayo walikuwa watu wa kawaida ambao hawakuwa makuhani. Inawezekana waliishi karibu na Yerusalemu na walidhibiti mfumo wa hekalu (<a href=\"https://ref.ly/Acts4:1-Acts4:2\">Matendo 4:1–2</a>; <a href=\"https://ref.ly/Acts5:17\">5:17</a>). Viongozi hawa wenye nguvu na matajiri (masharifu) walifanya kazi kama wapatanishi kati ya Rumi na Israeli (tazama Josephus, <em>Antiquities</em> 13.10.6; <em>War</em> 2.10.5). Hawakuwa na upendeleo au ushawishi mkubwa kwa watu (Josephus, <em>Antiquities</em> 18.1.4).</p><p>Neno <em>Sadducee</em> huenda linatokana na <em>Sadoki,</em> kuhani mkuu wakati wa utawala wa Mfalme Daudi na Mfalme Solomoni (<a href=\"https://ref.ly/2Sam8:17\">2 Samweli 8:17</a>; <a href=\"https://ref.ly/2Sam15:24\">15:24</a>; <a href=\"https://ref.ly/1Kgs1:8\">1 Wafalme 1:8</a>;<a href=\"https://ref.ly/1Kgs1:32-1Kgs1:48\"> 32–48</a>). Maneno haya mawili yanashiriki mzizi sawa wa Kiebrania. Kutajwa kwa kwanza kihistoria kwa Masadukayo ni wakati wa utawala wa Yohana Hyrcanus, kutoka 135 hadi 104 KK, mzao wa Wamakabayo (Josephus, <em>Antiquities</em> 13.10.6), lakini walikuwepo wazi mapema zaidi.</p><p>Maoni yao kuhusu Mungu mara nyingi yalitofautiana na yale ya Mafarisayo (<a href=\"https://ref.ly/Acts23:8\">Matendo 23:8</a>; tazama pia <a href=\"https://ref.ly/Acts4:1-Acts4:2\">Matendo 4:1–2</a>). Masadukayo walitoa mamlaka ya msingi kwa Torati. Walikataa mapokeo ya mdomo yaliyothaminiwa na Mafarisayo. Tofauti na Mafarisayo, Masadukayo hawakuamini katika:</p><ul><li><p>ufufuo wa wafu (tazama <a href=\"https://ref.ly/Matt22:23-Matt22:33\">Mathayo 22:23–33</a>),</p></li><li><p>viumbe wa mbinguni (tazama <a href=\"https://ref.ly/Acts23:8\">Matendo 23:8</a>), au</p></li><li><p>wazo la siku ya hukumu.</p></li></ul><p>Hata hivyo, Mafarisayo waliamini kwa dhati katika ufufuo (kurudi hai baada ya kifo). Walimsaidia Paulo dhidi ya Masadukayo alipokuwa akihukumiwa kwa kusumbua hekalu (<a href=\"https://ref.ly/Acts23:6-Acts23:10\">Matendo 23:6–10</a>).</p><p>Licha ya tofauti zao, Mafarisayo na Masadukayo waliungana kumpinga Yesu. Mafarisayo walimpinga Yesu kwa sababu hakufuata mapokeo yao ya mdomo, wakati Masadukayo walimpinga kwa sababu aliamini uwepo wa malaika, pepo, hukumu ya mwisho, na ufufuo.</p><p>Hekalu lilipoharibiwa mwaka wa 70 BK, Masadukayo walitoweka. Hawakuacha kumbukumbu zozote zilizoandikwa. Maarifa yetu yote kuhusu Masadukayo yanatoka kwa wapinzani wao, hivyo tuna uelewa mdogo kuhusu wao.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt3:7\">Mathayo 3:7</a>; <a href=\"https://ref.ly/Matt16:1-Matt16:12\">16:1–12</a>; <a href=\"https://ref.ly/Matt22:23-Matt22:33\">22:23–33</a>; <a href=\"https://ref.ly/Mark12:18-Mark12:27\">Marko 12:18–27</a>; <a href=\"https://ref.ly/Luke20:27-Luke20:40\">Luka 20:27–40</a>; <a href=\"https://ref.ly/Acts4:1-Acts4:2\">Matendo 4:1–2</a>; <a href=\"https://ref.ly/Acts5:17-Acts5:18\">5:17–18</a>; <a href=\"https://ref.ly/Acts23:6-Acts23:10\">23:6–10</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10008017",
+          "start_ref_usfm": "2SA 8:17",
+          "end_ref": "10008017",
+          "end_ref_usfm": "2SA 8:17"
+        },
+        {
+          "start_ref": "10015024",
+          "start_ref_usfm": "2SA 15:24",
+          "end_ref": "10015024",
+          "end_ref_usfm": "2SA 15:24"
+        },
+        {
+          "start_ref": "11001008",
+          "start_ref_usfm": "1KI 1:8",
+          "end_ref": "11001008",
+          "end_ref_usfm": "1KI 1:8"
+        },
+        {
+          "start_ref": "40003007",
+          "start_ref_usfm": "MAT 3:7",
+          "end_ref": "40003007",
+          "end_ref_usfm": "MAT 3:7"
+        },
+        {
+          "start_ref": "44005017",
+          "start_ref_usfm": "ACT 5:17",
+          "end_ref": "44005017",
+          "end_ref_usfm": "ACT 5:17"
+        },
+        {
+          "start_ref": "44023008",
+          "start_ref_usfm": "ACT 23:8",
+          "end_ref": "44023008",
+          "end_ref_usfm": "ACT 23:8"
+        },
+        {
+          "start_ref": "40016001",
+          "start_ref_usfm": "MAT 16:1",
+          "end_ref": "40016012",
+          "end_ref_usfm": "MAT 16:12"
+        },
+        {
+          "start_ref": "41012018",
+          "start_ref_usfm": "MRK 12:18",
+          "end_ref": "41012027",
+          "end_ref_usfm": "MRK 12:27"
+        },
+        {
+          "start_ref": "40022023",
+          "start_ref_usfm": "MAT 22:23",
+          "end_ref": "40022033",
+          "end_ref_usfm": "MAT 22:33"
+        },
+        {
+          "start_ref": "42020027",
+          "start_ref_usfm": "LUK 20:27",
+          "end_ref": "42020040",
+          "end_ref_usfm": "LUK 20:40"
+        },
+        {
+          "start_ref": "44005017",
+          "start_ref_usfm": "ACT 5:17",
+          "end_ref": "44005018",
+          "end_ref_usfm": "ACT 5:18"
+        },
+        {
+          "start_ref": "44004001",
+          "start_ref_usfm": "ACT 4:1",
+          "end_ref": "44004002",
+          "end_ref_usfm": "ACT 4:2"
+        },
+        {
+          "start_ref": "44023006",
+          "start_ref_usfm": "ACT 23:6",
+          "end_ref": "44023010",
+          "end_ref_usfm": "ACT 23:10"
+        },
+        {
+          "start_ref": "11001032",
+          "start_ref_usfm": "1KI 1:32",
+          "end_ref": "11001048",
+          "end_ref_usfm": "1KI 1:48"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

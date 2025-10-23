@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 734363,
+    "reference_id": 203463,
+    "title": "Ahasuwero I",
+    "media_type": "Text",
+    "index_reference": "ahasuwero i",
+    "language": "swh",
+    "content": "<p>Xerxes I alitawala Milki ya Uajemi kuanzia 486 hadi 465 Kabla ya Krsito (KK). Alikuwa mwana na mrithi wa Dario I (Hystaspes). Ahasuwero alirithi milki kubwa kutoka kwa baba yake na babu yake wa upande wa mama, Koreshi II. Hata hivyo, alikabili changamoto katika kutawala Uajemi vizuri kutokana na ukatili na kutokuwa na utulivu.</p><p>Mapema katika utawala wa Ahasuwero, Misri na Babuloni waliasi utawala wa Kiajemi. Ahasuwero alikomesha maasi hayo na kuhakikisha mapato ya kodi yanaendelea, lakini ukali wa matibabu yake kwa watu ulianza kujenga sifa yake ya udhalimu.</p><p>Katika mwaka wa tatu wa utawala wake, Ahasuwero aliwakusanya viongozi wake kupanga uvamizi wa Ugiriki. (Kitabu cha Esta kinaanza na karamu inayoweza kuhusishwa na tukio hili.) Mnamo mwaka wa 480 KK, jaribio maarufu lakini lililoshindwa la kuiteka Ugiriki lilianza. Ukali wa Ahasuwero unaonyeshwa katika hadithi mbili zilizorekodiwa na Herodotus kutoka kwa kampeni hii. Wakati Ahasuwero na majeshi yake walipofika Hellespont (njia ya maji inayounganisha Bahari Nyeusi na Bahari ya Mediterania), wahandisi wake walijenga daraja la kuvuka, lakini dhoruba ililibomoa. Ahasuwero alijibu kwa kuwaadhibu wahandisi kwa kuwakatia vichwa na kupiga maji kabla ya kujenga daraja lenye nguvu zaidi.</p><p>Baada ya kuchoma Athene, meli ya Ahasuwero ilipotea huko Salami. Ahasuwero alimuua mkuu wa meli ya Wafinisia, jambo lililosababisha Wafinisia na Wamisri kumwacha. Ni meli ya Waajemi pekee iliyobaki, na ilishindwa na Wagiriki mwaka wa 479 KK. Ahasuwero alilazimika kurudi nyuma. Baadaye, alijikita katika masuala ya ndani, kama vile miradi mikubwa ya ujenzi huko Shushani na Persepolis, na matukio yaliyoelezwa katika kitabu cha Esta.</p><p>Ahasuwero aliogopa kwamba wauaji wangejaribu kumuua. Kulingana na <a href=\"https://ref.ly/Esth2:21-Esth2:23\">Esta 2:21–23</a>, Mordekai alizuia njama ya mauaji, jambo ambalo lilimfanya Ahasuwero kumheshimu hadharani. Baada ya Wagiriki kumshinda tena Ahasuwero katika Vita vya Eurymedon mnamo mwaka wa 466 KK, alipoteza eneo. Njama nyingine ya mauaji iliyoanzishwa na maafisa wake wa mahakama ilifanikiwa, na utawala wake ukamalizika kwa aibu mnamo mwaka wa 465 KK.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Ezra4:6\">Ezra 4:6</a>; <a href=\"https://ref.ly/Esth1:1-Esth1:22\">Esta 1:1–22</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15004006",
+          "start_ref_usfm": "EZR 4:6",
+          "end_ref": "15004006",
+          "end_ref_usfm": "EZR 4:6"
+        },
+        {
+          "start_ref": "17002021",
+          "start_ref_usfm": "EST 2:21",
+          "end_ref": "17002023",
+          "end_ref_usfm": "EST 2:23"
+        },
+        {
+          "start_ref": "17001001",
+          "start_ref_usfm": "EST 1:1",
+          "end_ref": "17001022",
+          "end_ref_usfm": "EST 1:22"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

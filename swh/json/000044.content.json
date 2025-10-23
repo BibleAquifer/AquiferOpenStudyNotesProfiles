@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 734350,
+    "reference_id": 203450,
+    "title": "Hezekia",
+    "media_type": "Text",
+    "index_reference": "hezekia",
+    "language": "swh",
+    "content": "<p>Hezekia alikuwa mmoja wa wafalme bora wa Yuda. Alitawala kuanzia 728 hadi 686 Kabla ya Krsito (KK). Baba yake, Ahazi, aliacha kumwabudu Mungu. Hata hivyo, Hezekia alihimiza ibada ya kweli ya Mungu. Alirekebisha milango ya hekalu, aliwaandaa Walawi kwa ajili ya huduma takatifu, na akaanzisha tena sherehe za kidini. Alitoa dhabihu, alirejesha huduma ya kikuhani ya hekalu, na alialika watu kutoka Yuda na Israeli kusherehekea Pasaka huko Yerusalemu (<a href=\"https://ref.ly/2Chr29:1-2Chr30:27\">2 Mambo ya Nyakati 29–30</a>). Baada ya sherehe, aliharibu maeneo ya ibada ya kipagani.</p><p>Baada ya Hezekia kuanza utawala wake, Waashuri, wakiongozwa na Shalmanesa V na baadaye Sargoni II, walishinda ufalme wa kaskazini. Walihamisha watu wake na kuleta wageni mwaka 722 KK. Sargoni II alipokufa mwaka 705 KK, mwanawe Senakeribu alichukua madaraka, na kusababisha uasi mkubwa. Hezekia alikoma kulipa kodi ambayo baba yake Ahazi alikuwa akilipa (<a href=\"https://ref.ly/2Kgs18:7\">2 Wafalme 18:7</a>; tazama <a href=\"https://ref.ly/2Kgs16:7\">16:7</a>). Matokeo yake, mwaka 701 KK, Senakeribu alivamia Yuda. Hezekia alijaribu kumridhisha mtawala wa Ashuri kwa kodi kubwa, lakini hii haikufaulu. Vikosi vya Ashuri vilitishia Yerusalemu na kumdhihaki Hezekia kwa kumtumaini Bwana (<a href=\"https://ref.ly/2Kgs18:17-2Kgs18:35\">2 Wafalme 18:17–35</a>). Hezekia alijibu kwa maombolezo na maombi. Bwana, kupitia nabii Isaya, alimhakikishia Hezekia kwamba maombi yake yamesikika na kwamba Senakeribu hatashinda Yerusalemu (<a href=\"https://ref.ly/2Kgs19:1-2Kgs19:34\">2 Wafalme 19:1–34</a>).</p><p>Wakati huo, Hezekia alikuwa mgonjwa sana (<a href=\"https://ref.ly/2Kgs20:1-2Kgs20:11\">2 Wafalme 20:1–11</a>). Isaya alimwambia ajiandae kwa kifo, lakini Hezekia alisali kwa Bwana kwa ajili ya uponyaji. Bwana alimuahidi miaka kumi na tano zaidi ya maisha na ukombozi kutoka kwa Waashuri. Baada ya kupona, Hezekia kwa busara mbaya alimkaribisha mfalme wa Babeli, Merodaki Baladani, katika ikulu yake. Alimwonyesha hazina za hekalu na kutafuta msaada kutoka Babeli badala ya Bwana. Isaya alitabiri kwamba hazina hizo zingechukuliwa hadi Babeli (<a href=\"https://ref.ly/2Kgs20:12-2Kgs20:19\">2 Wafalme 20:12–19</a>).</p><p>Baada ya tishio la Waashuru mwaka wa 701 Kabla ya Kristo (KK), Hezekia alifurahia miaka ya amani na mafanikio. Alifariki mwaka wa 686 KK, na mwanawe Manase alimrithi.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/2Kgs18:1-2Kgs20:21\">2 Wafalme 18:1–20:21</a>; <a href=\"https://ref.ly/2Chr28:27-2Chr32:33\">2 Mambo ya Nyakati 28:27–32:33</a>; <a href=\"https://ref.ly/Isa36:1-Isa39:8\">Isaya 36:1–39:8</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12016007",
+          "start_ref_usfm": "2KI 16:7",
+          "end_ref": "12016007",
+          "end_ref_usfm": "2KI 16:7"
+        },
+        {
+          "start_ref": "12018007",
+          "start_ref_usfm": "2KI 18:7",
+          "end_ref": "12018007",
+          "end_ref_usfm": "2KI 18:7"
+        },
+        {
+          "start_ref": "12020012",
+          "start_ref_usfm": "2KI 20:12",
+          "end_ref": "12020019",
+          "end_ref_usfm": "2KI 20:19"
+        },
+        {
+          "start_ref": "12020001",
+          "start_ref_usfm": "2KI 20:1",
+          "end_ref": "12020011",
+          "end_ref_usfm": "2KI 20:11"
+        },
+        {
+          "start_ref": "12018001",
+          "start_ref_usfm": "2KI 18:1",
+          "end_ref": "12020021",
+          "end_ref_usfm": "2KI 20:21"
+        },
+        {
+          "start_ref": "23036001",
+          "start_ref_usfm": "ISA 36:1",
+          "end_ref": "23039008",
+          "end_ref_usfm": "ISA 39:8"
+        },
+        {
+          "start_ref": "14029001",
+          "start_ref_usfm": "2CH 29:1",
+          "end_ref": "14030027",
+          "end_ref_usfm": "2CH 30:27"
+        },
+        {
+          "start_ref": "12018017",
+          "start_ref_usfm": "2KI 18:17",
+          "end_ref": "12018035",
+          "end_ref_usfm": "2KI 18:35"
+        },
+        {
+          "start_ref": "12019001",
+          "start_ref_usfm": "2KI 19:1",
+          "end_ref": "12019034",
+          "end_ref_usfm": "2KI 19:34"
+        },
+        {
+          "start_ref": "14028027",
+          "start_ref_usfm": "2CH 28:27",
+          "end_ref": "14032033",
+          "end_ref_usfm": "2CH 32:33"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

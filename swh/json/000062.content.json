@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 734295,
+    "reference_id": 203395,
+    "title": "Melkizedeki",
+    "media_type": "Text",
+    "index_reference": "melkizedeki",
+    "language": "swh",
+    "content": "<p>Melkizedeki ni mtu wa kipekee katika Biblia. Jina lake linamaanisha &quot;mfalme wa Haki.&quot; Alikuwa kuhani na mfalme wa Kanaani. Hakuna rekodi ya familia yake, kuzaliwa kwake, au kifo chake.</p><p>Abrahamu alikutana na Melkizedeki baada ya kuwashinda wafalme wanne wa Mesopotamia. Wamesopotamia walikuwa wamevamia Sodoma na Gomora na kumteka mpwa wa Abrahamu, Lutu (<a href=\"https://ref.ly/Gen14:1-Gen14:16\">Mwanzo 14:1–16</a>). Abrahamu aliporudi kutoka vitani, Melkizedeki, mfalme wa Salemu (ambayo ni Yerusalemu; angalia <a href=\"https://ref.ly/Ps76:2\">Zaburi 76:2</a> na maelezo ya chini hapo), alikutana na wafalme wenye shukrani wa muungano wa Araba. Melkizedeki alimpa Abrahamu mkate, divai, na baraka yake, akifanya kama “kuhani wa Mungu Aliye Juu” (<a href=\"https://ref.ly/Gen14:18\">Mwanzo 14:18</a>), Mungu wa kweli aliyeumba mbingu na dunia (angalia <a href=\"https://ref.ly/Ps7:17\">Zaburi 7:17</a>; <a href=\"https://ref.ly/Ps47:2\">47:2</a>; <a href=\"https://ref.ly/Ps57:2\">57:2</a>; <a href=\"https://ref.ly/Ps78:56\">78:56</a>). Melkizedeki alitambua kuwa Abrahamu alimwabudu Mungu wa kweli, na alimsifu Mungu kwa kumpa Abrahamu ushindi (<a href=\"https://ref.ly/Gen14:19-Gen14:20\">Mwanzo 14:19–20</a>). Abrahamu alikubali zawadi za Melkizedeki na kumpa fungu la kumi, akionyesha umuhimu wa Melkizedeki (angalia <a href=\"https://ref.ly/Heb7:4-Heb7:10\">Waebrania 7:4–10</a>).</p><p>Mwanzo inajumuisha historia za familia za watu wengi, lakini Melkizedeki anaonekana ghafla bila historia ya familia. Anatoweka haraka vilevile. Baadaye sana katika historia ya Israeli, Mfalme Daudi huenda alifikiria kuhusu hili aliposema Masihi (mteule wa Mungu) ni &quot;kuhani milele kwa utaratibu wa Melkizedeki&quot; (<a href=\"https://ref.ly/Ps110:4\">Zaburi 110:4</a>; linganisha <a href=\"https://ref.ly/Heb7:15-Heb7:25\">Waebrania 7:15–25</a>). Kitabu cha Waebrania kinatumia wazo kwamba Melkizedeki hakuwa na rekodi ya historia ya familia yake kulinganisha ukuhani wa muda wa Walawi na ukuhani wa milele wa Yesu Kristo. Waebrania pia inaeleza kwamba Melkizedeki anakumbukwa kama &quot;kama Mwana wa Mungu&quot; lakini hakuwa Mwana wa Mungu (<a href=\"https://ref.ly/Heb7:3\">Waebrania 7:3</a>). Ukuhani wake hudumu milele kama mfano unaokuja kabla ya ukuhani wa Masihi. Kama Melkizedeki, lakini tofauti na wafalme wa Israeli, Yesu ni mfalme ambaye pia anafanya majukumu ya kikuhani.</p><p>Melkizedeki, kuhani wa kifalme, alikuwa mkuu kuliko Walawi, mababu wa makuhani wa Israeli. Vivyo hivyo, Masihi, Yesu Kristo, ni kuhani mkuu zaidi ikilinganishwa na wazao wa Aroni. Yesu anatoa msamaha wa kudumu kwa dhambi na ufikivu wa moja kwa moja kwa Mungu (<a href=\"https://ref.ly/Heb7:24-Heb7:28\">Waebrania 7:24–28</a>). Anaongoza watu wake kupitia Roho Mtakatifu badala ya sheria (<a href=\"https://ref.ly/Heb8:7-Heb8:13\">Waebrania 8:7–13</a>). Anabaki milele kama kuhani na mfalme kwa wale wanaomtumaini.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen14:17-Gen14:24\">Mwanzo 14:17–20</a>; <a href=\"https://ref.ly/Ps110:4\">Zaburi 110:4</a>; <a href=\"https://ref.ly/Heb5:6-Heb5:10\">Waebrania 5:6–10</a>; <a href=\"https://ref.ly/Heb6:20-Heb7:28\">6:20–7:28</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014018",
+          "start_ref_usfm": "GEN 14:18",
+          "end_ref": "01014018",
+          "end_ref_usfm": "GEN 14:18"
+        },
+        {
+          "start_ref": "19007017",
+          "start_ref_usfm": "PSA 7:17",
+          "end_ref": "19007017",
+          "end_ref_usfm": "PSA 7:17"
+        },
+        {
+          "start_ref": "19047002",
+          "start_ref_usfm": "PSA 47:2",
+          "end_ref": "19047002",
+          "end_ref_usfm": "PSA 47:2"
+        },
+        {
+          "start_ref": "19057002",
+          "start_ref_usfm": "PSA 57:2",
+          "end_ref": "19057002",
+          "end_ref_usfm": "PSA 57:2"
+        },
+        {
+          "start_ref": "19076002",
+          "start_ref_usfm": "PSA 76:2",
+          "end_ref": "19076002",
+          "end_ref_usfm": "PSA 76:2"
+        },
+        {
+          "start_ref": "19078056",
+          "start_ref_usfm": "PSA 78:56",
+          "end_ref": "19078056",
+          "end_ref_usfm": "PSA 78:56"
+        },
+        {
+          "start_ref": "19110004",
+          "start_ref_usfm": "PSA 110:4",
+          "end_ref": "19110004",
+          "end_ref_usfm": "PSA 110:4"
+        },
+        {
+          "start_ref": "58007003",
+          "start_ref_usfm": "HEB 7:3",
+          "end_ref": "58007003",
+          "end_ref_usfm": "HEB 7:3"
+        },
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        },
+        {
+          "start_ref": "01014017",
+          "start_ref_usfm": "GEN 14:17",
+          "end_ref": "01014024",
+          "end_ref_usfm": "GEN 14:24"
+        },
+        {
+          "start_ref": "58008007",
+          "start_ref_usfm": "HEB 8:7",
+          "end_ref": "58008013",
+          "end_ref_usfm": "HEB 8:13"
+        },
+        {
+          "start_ref": "58007004",
+          "start_ref_usfm": "HEB 7:4",
+          "end_ref": "58007010",
+          "end_ref_usfm": "HEB 7:10"
+        },
+        {
+          "start_ref": "01014019",
+          "start_ref_usfm": "GEN 14:19",
+          "end_ref": "01014020",
+          "end_ref_usfm": "GEN 14:20"
+        },
+        {
+          "start_ref": "58007015",
+          "start_ref_usfm": "HEB 7:15",
+          "end_ref": "58007025",
+          "end_ref_usfm": "HEB 7:25"
+        },
+        {
+          "start_ref": "58007024",
+          "start_ref_usfm": "HEB 7:24",
+          "end_ref": "58007028",
+          "end_ref_usfm": "HEB 7:28"
+        },
+        {
+          "start_ref": "58005006",
+          "start_ref_usfm": "HEB 5:6",
+          "end_ref": "58005010",
+          "end_ref_usfm": "HEB 5:10"
+        },
+        {
+          "start_ref": "58006020",
+          "start_ref_usfm": "HEB 6:20",
+          "end_ref": "58007028",
+          "end_ref_usfm": "HEB 7:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

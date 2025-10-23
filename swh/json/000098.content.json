@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 734416,
+    "reference_id": 203516,
+    "title": "Wafalme wa Kirumi",
+    "media_type": "Text",
+    "index_reference": "wafalme wa kirumi",
+    "language": "swh",
+    "content": "<ol><li><p><em>Augusto </em>(Octavian) alitawala kutoka mwaka wa 27 Kabla ya Kristo (KK) hadi 14 Baada ya Kristo (BK). Alikuwa mfalme wa kwanza wa Kirumi baada ya kumshinda Marko Antony katika Vita vya Actium mbamo mwaka 31 KK. Alitawala kwa busara na alisimamia ufalme vizuri. Alipokea jina la &quot;Augusto&quot; mwaka 27 KK, akianzisha desturi ya kumwabudu mfalme.</p><p><em>Tazama </em><a href=\"https://ref.ly/Luke2:1\"><em>Luka 2:1</em></a>.</p></li><li><p><em>Tiberio </em>alitawala kuanzia mwaka wa 14 BK hadi 37. Alikuwa mwana wa kambo wa Augusto. Augusto alimchagua Tiberio kuwa mfalme baada yake. Tiberio alikuwa mtawala mwenye busara na mnyenyekevu, na alimteua Pontio Pilato kuwa gavana wa Yudea.</p><p><em>Tazama </em><a href=\"https://ref.ly/Luke3:1\"><em>Luka 3:1</em></a><em>; </em><a href=\"https://ref.ly/John19:12\"><em>Yohana 19:12</em></a>.</p></li><li><p>(Gayo) <em>Caligula</em> alitawala kuanzia mwaka wa 37 BK hadi 41. Alikuwa mwana wa jenerali wa Augusto, Germanicus. Alipata jina la utani Caligula, linalomaanisha &quot;Kiatu Kidogo,&quot; kutokana na mavazi yake ya kijeshi. Alipoteza uwezo wake wa kufikiri kwa uwazi, alitumia pesa zote za ufalme kwa upotevu, alitawala kwa ukatili juu ya watu wake, na hatimaye aliuawa na maadui zake.</p></li><li><p><em>Klaudio</em> alitawala kuanzia mwaka wa 41 BK hadi 54. Alikuwa mpwa wa Tiberio. Aliteuliwa kuwa mfalme baada ya walinzi wa kifalme (Praetorian Guard) kumchagua kufuatia kifo cha Caligula. Alikuwa rafiki wa Herode Agripa I. Klaudio alisitisha mateso ya Wayahudi huko Aleksandria, lakini baadaye aliwafukuza Wayahudi kutoka Rumi karibu mwaka wa 49 BK. Alimuoa mama yake Nero, Agrippina, ambaye alimuua kwa sumu.</p><p><em>Tazama </em><a href=\"https://ref.ly/Acts18:2\"><em>Matendo 18:2</em></a>. </p></li><li><p><em>Nero</em> alitawala kuanzia mwaka wa 54 BK hadi 68. Alimrithi Klaudio na kuwa mfalme baada ya kifo chake. Alitumia muda mwingi kwa ajili ya starehe zake binafsi. Paulo alimwomba, akiwafundisha Wakristo wa Kirumi kumtii Nero. Baadaye, Nero alimuua mke wake na mama yake. Alikuwa wa kwanza kuwatesa Wakristo.</p><p><em>Tazama </em><a href=\"https://ref.ly/Acts25:11\"><em>Matendo 25:11</em></a><em>; </em><a href=\"https://ref.ly/Rom13:1-Rom13:7\"><em>Warumi 13:1–7</em></a>.</p></li><li><p><em>Vespasian</em> alitawala kuanzia mwaka wa 69 BK hadi 79. Alikuwa jenerali aliyefanikiwa na mwana wa mtoza ushuru. Alianzisha Vita vya Kiyahudi kwa kuvamia Galilaya mwaka wa 67 BK. Kama mfalme, aliboresha fedha za Rumi, alipanga upya majeshi, na alijulikana kwa haki yake. Pia alianza ujenzi wa Colosseum. Alifariki kutokana na ugonjwa.</p></li><li><p><em>Tito</em> alitawala kuanzia mwaka wa 79 BK hadi 81. Alikuwa mwana wa Vespasian. Alihitimisha Vita vya Kiyahudi kwa kuharibu Yerusalemu mbamo mwaka wa 70 BK. Kama mfalme, alikamilisha Colosseum na kutoa msaada wa maafa baada ya Mlima Vesuvius kulipuka mbamo mwaka wa 79BK na moto kutokea Roma mbamo mwaka wa 80 BK. Alifariki kutokana na homa.</p></li><li><p><em>Domitian</em> alitawala kuanzia mwaka wa 81 BK hadi 96. Alikuwa mwana mdogo wa Vespasian. Alikuwa akifunikwa na kaka yake Tito na alitamani mamlaka. Kama mfalme, alikuwa msimamizi mwenye uwezo. Alijenga upya maeneo yaliyoharibiwa ya Rumi na kujitangaza kuwa Mungu. Aliweka kodi mpya na, katika miaka yake ya baadaye, aliwatesa Wakristo kwa ukali. Hatimaye aliuawa na maadui zake.</p></li></ol><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Rev17:9-Rev17:11\">Ufunuo 17:9–11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42002001",
+          "start_ref_usfm": "LUK 2:1",
+          "end_ref": "42002001",
+          "end_ref_usfm": "LUK 2:1"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003001",
+          "end_ref_usfm": "LUK 3:1"
+        },
+        {
+          "start_ref": "43019012",
+          "start_ref_usfm": "JHN 19:12",
+          "end_ref": "43019012",
+          "end_ref_usfm": "JHN 19:12"
+        },
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "44025011",
+          "start_ref_usfm": "ACT 25:11",
+          "end_ref": "44025011",
+          "end_ref_usfm": "ACT 25:11"
+        },
+        {
+          "start_ref": "45013001",
+          "start_ref_usfm": "ROM 13:1",
+          "end_ref": "45013007",
+          "end_ref_usfm": "ROM 13:7"
+        },
+        {
+          "start_ref": "66017009",
+          "start_ref_usfm": "REV 17:9",
+          "end_ref": "66017011",
+          "end_ref_usfm": "REV 17:11"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

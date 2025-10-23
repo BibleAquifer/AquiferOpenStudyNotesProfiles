@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 734354,
+    "reference_id": 203454,
+    "title": "Asa",
+    "media_type": "Text",
+    "index_reference": "asa",
+    "language": "swh",
+    "content": "<p>Asa alikuwa mfalme wa tatu wa Yuda baada ya ufalme wa Solomoni kugawanyika kuwa falme tofauti. Asa alikua mfalme baada ya baba yake, Abiya, ambaye alitawala kwa muda mfupi kutoka 913 hadi 910 Kabla ya Kristo (KK). Asa alitawala kwa miaka 41, kuanzia 910 hadi 869 KK.</p><p>Hapo mwanzo wa utawala wake, Asa alikuwa mfalme mwema. Alipinga ibada ya miungu ya uongo, akaangamiza nguzo ya Ashera ambayo bibi yake Maaka alikuwa ameisimamisha, na akaondoa ushawishi wake wa kisiasa (<a href=\"https://ref.ly/1Kgs15:13\">1 Wafalme 15:13</a>; <a href=\"https://ref.ly/2Chr15:16\">2 Mambo ya Nyakati 15:16</a>).</p><p>Katika siku za mwanzo za utawala wa Asa, Mungu alimpa ushindi wa kijeshi na amani. Asa alifukuza au kushinda yeyote aliyekuwa akijaribu kushinda, kugawanya, au kuharibu Yuda (<a href=\"https://ref.ly/2Chr14:1-2Chr14:8\">2 Mambo ya Nyakati 14:1–8</a>). Ushindi wa kushangaza zaidi wa Asa ulikuwa dhidi ya kiongozi wa Ethiopia aitwaye Zera, ambaye alishambulia Yuda na zaidi ya wanajeshi milioni moja. Kwa sababu ya utii na uaminifu wa Asa, Mungu alimpa ushindi mkubwa (<a href=\"https://ref.ly/2Chr14:9-2Chr14:15\">2 Mambo ya Nyakati 14:9–15</a>).</p><p>Kwa huzuni, mtazamo wa Asa ulibadilika karibu na mwisho wa maisha yake. Aliacha kumtumaini Mungu. Baasha, mfalme wa ufalme wa kaskazini, alishambulia Yuda kwa msaada kutoka kwa Ben-Hadadi, mfalme wa Aramu, na kuimarisha mji wa Rama. Asa alimlipa mfalme wa Aramu abadilishe upande na kumuunga mkono badala ya Baasha. Hii ilionyesha kuwa Asa alimwamini mfalme wa kigeni zaidi kuliko Bwana. Mbaya zaidi, Asa alimlipa Ben-Hadadi kwa dhahabu na fedha alizokuwa ametoa awali kwa hekalu! Mkakati wa Asa ulifanikiwa, na ufalme wa kaskazini wa Israeli ulilazimika kuondoka Yuda ili kukabiliana na tishio la Ben-Hadadi kutoka kaskazini. Hata hivyo, nabii Hanani alimkosoa Asa kwa ukosefu wake wa imani kwa Mungu. Akiwa ameghadhibika, Asa alimfunga Hanani (<a href=\"https://ref.ly/2Chr16:7-2Chr16:10\">2 Mambo ya Nyakati 16:7–10</a>).</p><p>Katika miaka ya mwisho ya utawala wake, Asa alipata ugonjwa mbaya wa miguu. Licha ya ukali wa ugonjwa huo, hakutafuta msaada wa Bwana. Badala yake, alitegemea tu madaktari wake (<a href=\"https://ref.ly/2Chr16:12\">2 Mambo ya Nyakati 16:12</a>). Hata hivyo, Asa alipokufa, walimzika kwa heshima katika makaburi ya kifalme (<a href=\"https://ref.ly/2Chr16:14\">2 Mambo ya Nyakati 16:14</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/1Kgs15:8-1Kgs15:24\">1 Wafalme 15:8–24</a>; <a href=\"https://ref.ly/2Chr14:1-2Chr16:14\">2 Mambo ya Nyakati 14:1–16:14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11015013",
+          "start_ref_usfm": "1KI 15:13",
+          "end_ref": "11015013",
+          "end_ref_usfm": "1KI 15:13"
+        },
+        {
+          "start_ref": "14015016",
+          "start_ref_usfm": "2CH 15:16",
+          "end_ref": "14015016",
+          "end_ref_usfm": "2CH 15:16"
+        },
+        {
+          "start_ref": "14016012",
+          "start_ref_usfm": "2CH 16:12",
+          "end_ref": "14016012",
+          "end_ref_usfm": "2CH 16:12"
+        },
+        {
+          "start_ref": "14016014",
+          "start_ref_usfm": "2CH 16:14",
+          "end_ref": "14016014",
+          "end_ref_usfm": "2CH 16:14"
+        },
+        {
+          "start_ref": "14014001",
+          "start_ref_usfm": "2CH 14:1",
+          "end_ref": "14014008",
+          "end_ref_usfm": "2CH 14:8"
+        },
+        {
+          "start_ref": "14016007",
+          "start_ref_usfm": "2CH 16:7",
+          "end_ref": "14016010",
+          "end_ref_usfm": "2CH 16:10"
+        },
+        {
+          "start_ref": "14014009",
+          "start_ref_usfm": "2CH 14:9",
+          "end_ref": "14014015",
+          "end_ref_usfm": "2CH 14:15"
+        },
+        {
+          "start_ref": "11015008",
+          "start_ref_usfm": "1KI 15:8",
+          "end_ref": "11015024",
+          "end_ref_usfm": "1KI 15:24"
+        },
+        {
+          "start_ref": "14014001",
+          "start_ref_usfm": "2CH 14:1",
+          "end_ref": "14016014",
+          "end_ref_usfm": "2CH 16:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

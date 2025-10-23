@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 734377,
+    "reference_id": 203477,
+    "title": "Herode Mkuu",
+    "media_type": "Text",
+    "index_reference": "herode mkuu",
+    "language": "swh",
+    "content": "<p>Herode Mkuu alikuwa mfalme wa Yudea aliyeteuliwa na Warumi kuanzia mwaka 37 hadi 4 Kabla ya Krsito (KK). Herode Mkuu alikuwa mfalme wakati Yesu alizaliwa (<a href=\"https://ref.ly/Matt2:1\">Mathayo 2:1</a>; <a href=\"https://ref.ly/Luke1:5\">Luka 1:5</a>). Alikuwa kiongozi wa kijeshi mwenye nguvu, mwanasiasa stadi, na mtawala mkali. Alizaliwa katika familia ya Waedomu (Idumea) yenye uhusiano na Warumi. Alipata mamlaka kwa kujipendekeza kwa Warumi, na alihifadhi mamlaka hii kwa kuwa mkatili kwa yeyote aliyempinga.</p><p>Herode alijulikana kwa miradi yake mikubwa ya ujenzi. Mafanikio yake makubwa yalikuwa kujenga upya na kupamba hekalu la Yerusalemu, ambalo lilianza karibu mwaka wa 20 KK (Josephus, <em>Antiquities</em> 15.8.1). Hii ililifanya kuwa moja ya majengo ya kuvutia zaidi katika ulimwengu wa kale. Pia alijenga Kaisaria na kuifanya makao makuu ya Kirumi huko Palestina. Herode alipata jina &quot;the Great&quot; kutokana na sifa yake kama mjenzi bora.</p><p>Herode alijulikana kwa matatizo yake ya kifamilia na matibabu makali kwa wapinzani au vitisho vilivyodhaniwa. Aliwaua wake zake wawili na wanawe watatu alipowashuku kupanga njama dhidi yake. Kaisari Augusto aliwahi kusema angependa kuwa <em>nguruwe</em> wa Herode kuliko <em>mwana</em> wake (mchezo wa maneno kwa Kigiriki kwani maneno hayo mawili yanafanana—<em>hus</em>, <em>huios</em>). Yesu alipozaliwa karibu na mwisho wa utawala wa Herode na Herode aliposikia akitajwa kama &quot;mfalme&quot; wa baadaye, alijaribu kumuua. Akiwa hawezi kumpata mvulana huyo, Herode aliamuru kuuawa kwa wavulana wote walio chini ya miaka miwili katika eneo la Bethlehemu (tazama <a href=\"https://ref.ly/Matt2:1-Matt2:20\">Mathayo 2:1–20</a>). Kitendo hiki kilikuwa cha kawaida kwa ukatili na hofu yake.</p><p>Herode aliitwa &quot;mfalme wa Wayahudi,&quot; lakini watu wa Kiyahudi hawakumkubali kama mfalme wao halisi. Hakuwa kutoka ukoo wa Mfalme Daudi na alikuwa Medomu, mzao wa Esau, si Myahudi.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt2:1-Matt2:20\">Mathayo 2:1–20</a>; <a href=\"https://ref.ly/Luke1:5\">Luka 1:5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002001",
+          "end_ref_usfm": "MAT 2:1"
+        },
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001005",
+          "end_ref_usfm": "LUK 1:5"
+        },
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002020",
+          "end_ref_usfm": "MAT 2:20"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

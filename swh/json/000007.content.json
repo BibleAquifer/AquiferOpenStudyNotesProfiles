@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 734343,
+    "reference_id": 203443,
+    "title": "Ahabu",
+    "media_type": "Text",
+    "index_reference": "ahabu",
+    "language": "swh",
+    "content": "<p>Ahabu, mfalme wa nane wa Israeli, alirithi ufalme wa kaskazini kutoka kwa baba yake mwenye nguvu, Omri (<a href=\"https://ref.ly/1Kgs16:27-1Kgs16:28\">1 Wafalme 16:27–28</a>). Alitawala Israeli kuanzia 874 hadi 853 Kabla ya Kristo (KK). Ahabu alimuoa Yezebeli, binti wa Mfalme Ethbaali wa Sidoni. Akiwa ameathiriwa naye, Ahabu alianza kumwabudu Baali badala ya Bwana (<a href=\"https://ref.ly/1Kgs16:29-1Kgs16:33\">1 Wafalme 16:29–33</a>).</p><p>Ahabu alishinda vita kadhaa. Aliwashinda Waaramu (<a href=\"https://ref.ly/1Kgs20:1-1Kgs20:34\">1 Wafalme 20:1–34</a>). Mnamo 853 KK, aliongoza kundi la wafalme dhidi ya mfalme wa Ashuru Shalmanesa III, akishinda Vita vya Qarqar. Hata hivyo, Agano la Kale linatoa habari chache njema kuhusu Ahabu, ambaye alimsaliti Mungu. Mungu alimtuma nabii Eliya kumkabili Ahabu, Yezebeli, na manabii wao na kuthibitisha tena ukuu wa Mungu wa kweli (<a href=\"https://ref.ly/1Kgs17:1\">1 Wafalme 17:1</a>; <a href=\"https://ref.ly/1Kgs18:1-1Kgs18:46\">18:1–46</a>).</p><p>Ahabu hakumsaliti tu Bwana, bali pia aliwatendea watu wake vibaya, kama inavyoonyeshwa katika hadithi ya Nabothi na shamba lake la mizabibu (<a href=\"https://ref.ly/1Kgs21:1-1Kgs21:29\">1 Wafalme 21:1–29</a>). Katika Israeli, watu walimiliki ardhi yao kama zawadi kutoka kwa Mungu. Wakati Ahabu alipotaka kuchukua shamba la mizabibu la Nabothi na Nabothi alikataa, Ahabu alikasirika. Yezebeli, ambaye alifahamu aina tofauti ya ufalme ambapo wafalme walichukua walichotaka, alimsaidia Ahabu kwa kusema uongo kuhusu Nabothi ili kumuua. Nabothi aliuawa kwa mashtaka ya uongo, na Ahabu akachukua ardhi hiyo. Hata hivyo, Bwana hakumruhusu Ahabu kuepuka adhabu. Alimtuma Eliya kutangaza hukumu ya kifo kwa Ahabu na familia yake.</p><p>Vita vilianza tena na Aramu, na Ahabu akamwomba Yehoshafati, mfalme wa kusini, kuwa mshirika wake (<a href=\"https://ref.ly/1Kgs22:2-1Kgs22:4\">1 Wafalme 22:2–4</a>; <a href=\"https://ref.ly/2Chr18:1-2Chr18:3\">2 Mambo ya Nyakati 18:1–3</a>). Yehoshafati aliendelea kumwamini Bwana, hivyo alimshawishi Ahabu kushauriana na nabii wa Mungu, Micaiah. Micaiah alitabiri kwamba vita hii ingemaliza maisha ya Ahabu (<a href=\"https://ref.ly/1Kgs22:5-1Kgs22:28\">1 Wafalme 22:5–28</a>; <a href=\"https://ref.ly/2Chr18:4-2Chr18:27\">2 Mambo ya Nyakati 18:4–27</a>). Ahabu alijaribu kuepuka hili kwa kuvaa silaha za kawaida na kumfanya Yehoshafati avae mavazi ya kifalme ya vita kama mtego, lakini hakuweza kumdanganya Mungu. Mshale wa mpiga mishale ulipiga kiunganishi cha silaha za Ahabu, na akafa, &quot;kulingana na neno ambalo Bwana alikuwa amesema&quot; (<a href=\"https://ref.ly/1Kgs22:38\">1 Wafalme 22:38</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/1Kgs16:29-1Kgs22:53\">1 Wafalme 16:29–22:53</a>; <a href=\"https://ref.ly/2Chr18:1-2Chr18:34\">2 Mambo ya Nyakati 18:1–34</a>; <a href=\"https://ref.ly/Mic6:16\">Mika 6:16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11017001",
+          "start_ref_usfm": "1KI 17:1",
+          "end_ref": "11017001",
+          "end_ref_usfm": "1KI 17:1"
+        },
+        {
+          "start_ref": "11022038",
+          "start_ref_usfm": "1KI 22:38",
+          "end_ref": "11022038",
+          "end_ref_usfm": "1KI 22:38"
+        },
+        {
+          "start_ref": "33006016",
+          "start_ref_usfm": "MIC 6:16",
+          "end_ref": "33006016",
+          "end_ref_usfm": "MIC 6:16"
+        },
+        {
+          "start_ref": "11022002",
+          "start_ref_usfm": "1KI 22:2",
+          "end_ref": "11022004",
+          "end_ref_usfm": "1KI 22:4"
+        },
+        {
+          "start_ref": "14018001",
+          "start_ref_usfm": "2CH 18:1",
+          "end_ref": "14018003",
+          "end_ref_usfm": "2CH 18:3"
+        },
+        {
+          "start_ref": "11022005",
+          "start_ref_usfm": "1KI 22:5",
+          "end_ref": "11022028",
+          "end_ref_usfm": "1KI 22:28"
+        },
+        {
+          "start_ref": "14018004",
+          "start_ref_usfm": "2CH 18:4",
+          "end_ref": "14018027",
+          "end_ref_usfm": "2CH 18:27"
+        },
+        {
+          "start_ref": "11021001",
+          "start_ref_usfm": "1KI 21:1",
+          "end_ref": "11021029",
+          "end_ref_usfm": "1KI 21:29"
+        },
+        {
+          "start_ref": "11016029",
+          "start_ref_usfm": "1KI 16:29",
+          "end_ref": "11016033",
+          "end_ref_usfm": "1KI 16:33"
+        },
+        {
+          "start_ref": "11018001",
+          "start_ref_usfm": "1KI 18:1",
+          "end_ref": "11018046",
+          "end_ref_usfm": "1KI 18:46"
+        },
+        {
+          "start_ref": "14018001",
+          "start_ref_usfm": "2CH 18:1",
+          "end_ref": "14018034",
+          "end_ref_usfm": "2CH 18:34"
+        },
+        {
+          "start_ref": "11020001",
+          "start_ref_usfm": "1KI 20:1",
+          "end_ref": "11020034",
+          "end_ref_usfm": "1KI 20:34"
+        },
+        {
+          "start_ref": "11016027",
+          "start_ref_usfm": "1KI 16:27",
+          "end_ref": "11016028",
+          "end_ref_usfm": "1KI 16:28"
+        },
+        {
+          "start_ref": "11016029",
+          "start_ref_usfm": "1KI 16:29",
+          "end_ref": "11022053",
+          "end_ref_usfm": "1KI 22:53"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

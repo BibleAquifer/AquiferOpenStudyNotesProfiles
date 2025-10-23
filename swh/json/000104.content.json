@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 734392,
+    "reference_id": 203492,
+    "title": "Wasamaria",
+    "media_type": "Text",
+    "index_reference": "wasamaria",
+    "language": "swh",
+    "content": "<p>Samaria ilikuwa eneo kaskazini mwa Yudea, likiwa katikati ya mji wa kale wa Shekemu, ambao unaitwa Sikari katika Agano Jipya. Baada ya ushindi wa Israeli mbamo mwaka wa 722 Kabla ya Kristo (KK), miji ya Samaria na Shekemu iliharibiwa. Watu kutoka sehemu mbalimbali za ufalme wa Ashuru walijaza tena eneo hilo (<a href=\"https://ref.ly/2Kgs17:21-2Kgs17:41\">2 Wafalme 17:21–41</a>). Wakazi hawa wapya walileta desturi nyingi za kipagani, na kufanya uchafu wa kidini wa ardhi hiyo kujulikana sana. Kwa muda, imani ya Kiyahudi katika Mungu mmoja ikawa imani kuu, lakini baadhi ya mambo kuhusu jinsi watu walivyotekeleza imani yao yalibadilika. Wasamaria walikubali tu Pentateuki (vitabu vitano vya kwanza vya Agano la Kale) kama Maandiko. Pia waliabudu katika hekalu jipya kwenye Mlima Gerizimu juu ya Shekemu.</p><p>Wasamaria na Wayahudi walikuwa na historia ndefu ya migogoro, iliyoanza baada ya Wayahudi kurudi kutoka uhamishoni (tazama <a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">Ezra 4:1–5</a>; <a href=\"https://ref.ly/Neh4:1-Neh4:23\">Nehemia 4:1–23</a>). Alexander Mkuu na baadaye majenerali wa Kigiriki walifanya Shekemu kuwa kituo muhimu kwa sababu walipata washirika wa kupinga Wayahudi huko. Mbamo 128 KK, Wayahudi waliharibu Shekemu na kuchoma hekalu la Wasamaria kwenye Mlima Gerizimu. Mbamo mwaka wa 6 Baada ya Kristo (BK) hadi 9, Wasamaria walijaribu kurudisha heshima kwa kudhalilisha hekalu la Yerusalemu kwa kutawanya mifupa ya binadamu kutoka kwenye makaburi wakati wa Pasaka. Kufikia wakati wa Yesu, mvutano kati ya Yudea na Samaria ulikuwa bado mkali.</p><p>Wakati wa Yesu, Wayahudi waliepuka kusafiri kupitia Samaria kwa sababu waliwaona watu wake kama wenye uhasama na wasio safi. Yesu alipokuwa akisafiri kupitia Samaria na kukutana na mwanamke Msamaria, mvutano wa uhusiano huu ulikuwa dhahiri. Mtu anayeishi katika karne ya kwanza hangetarajia Yesu na mwanamke huyo kutambuana, achilia mbali kuzungumza. Hata hivyo, Yesu alivuka mipaka ya utambulisho wake wa kikabila na kumwalika hata mwanamke Msamaria mwenye sifa mbaya kuamini.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/2Kgs17:21-2Kgs17:41\">2 Wafalme 17:21–41</a>; <a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">Ezra 4:1–5</a>; <a href=\"https://ref.ly/Neh4:1-Neh4:23\">Nehemia 4:1–23</a>; <a href=\"https://ref.ly/John4:1-John4:42\">Yohana 4:1–42</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15004001",
+          "start_ref_usfm": "EZR 4:1",
+          "end_ref": "15004005",
+          "end_ref_usfm": "EZR 4:5"
+        },
+        {
+          "start_ref": "43004001",
+          "start_ref_usfm": "JHN 4:1",
+          "end_ref": "43004042",
+          "end_ref_usfm": "JHN 4:42"
+        },
+        {
+          "start_ref": "16004001",
+          "start_ref_usfm": "NEH 4:1",
+          "end_ref": "16004023",
+          "end_ref_usfm": "NEH 4:23"
+        },
+        {
+          "start_ref": "12017021",
+          "start_ref_usfm": "2KI 17:21",
+          "end_ref": "12017041",
+          "end_ref_usfm": "2KI 17:41"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

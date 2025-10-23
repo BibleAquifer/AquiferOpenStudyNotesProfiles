@@ -1,0 +1,102 @@
+[
+  {
+    "content_id": 734412,
+    "reference_id": 203512,
+    "title": "Efeso",
+    "media_type": "Text",
+    "index_reference": "efeso",
+    "language": "swh",
+    "content": "<p> Efeso ilikuwa kwenye njia panda za njia kuu za biashara, zote kaskazini-kusini na mashariki-magharibi. Ilikuwa maarufu kama &quot;mlezi&quot; wa hekalu la Artemi (<a href=\"https://ref.ly/Acts19:35\">Matendo 19:35</a>). Kama mlezi, Efeso ilitambuliwa rasmi kama mlinzi na mtunzaji wa hekalu. Hii ilikuwa ni cheo muhimu kilicholeta heshima na faida za kiuchumi kwa mji huo.</p><p>Wagiriki wa Ionia walianzisha Efeso karibu mwaka wa 1044  Kbala ya Krsito (KK) kwenye bandari ya asili ambapo Mto Cayster uliingia kwenye ghuba ya Bahari ya Aegean. Leo, eneo la jiji la kale liko mbali na pwani. Jiji lilikuja chini ya utawala wa Kirumi mnamo 41 KK. Wakati wa mitume, Efeso ilikuwa tajiri, ikihudumu kama kituo cha kibiashara na kidini. Ilikuwa jiji muhimu zaidi katika jimbo la Kirumi la Asia.</p><p>Ibada ya Artemi huko Efeso ilihusiana sana na historia ya mji huo. Hekalu la Artemi, mojawapo ya maajabu saba ya ulimwengu wa kale, lilikuwa muhimu kwa utajiri na biashara ya Efeso. Mahujaji waliokuja kwa ajili ya ibada ya Artemi walileta fursa nyingi za biashara kwa watengenezaji wa sanamu na wauzaji wengine.</p><p>Wakati Paulo alipofika katika safari yake ya tatu ya umisionari mnamo mwaka wa 53 Baada ya Kristo (BK), Efeso ulikuwa mji wenye historia ya zaidi ya miaka elfu moja (<a href=\"https://ref.ly/Acts19:1-Acts19:41\">Matendo 19</a>). Watu walikuwa wamejitolea sana kwa mungu wao mlinzi na hekalu lake. Kadiri watu zaidi walivyokubali ujumbe wa Paulo, biashara ya wale waliotengeneza na kuuza sanamu za Artemi ilipungua. Hii iliwakasirisha, na wakaanzisha ghasia ambazo karibu ziliua Paulo (<a href=\"https://ref.ly/Acts19:24\">Matendo 19:24</a>, <a href=\"https://ref.ly/Acts19:28-Acts19:31\">28–31</a>).</p><p>Kanisa la Efeso lilikuwa imara chini ya mafundisho na uongozi wa Paulo. Watu waliokuwa wamejifunza kutoka kwa Paulo huko Efeso walianzisha makanisa katika jamii za karibu, kama Kolosai (tazama <span data-bnType=\"resourceReference\" data-resourceId=\"26427\" data-resourceType=\"TyndaleStudyNotesBookIntros\">Utangulizi wa Kitabu cha Wakolosai</span>, “Mazingira”). Hata hivyo, Paulo aliwaonya viongozi wa kanisa la Efeso kuhusu tishio la walimu wa uongo (<a href=\"https://ref.ly/Acts20:29-Acts20:31\">Matendo 20:29–31</a>).</p><p>Mtume Yohana alihamia Efeso karibu mwaka wa 70 BK. Kutoka hapo, alifukuzwa kwenda kisiwa cha Patmo (<a href=\"https://ref.ly/Rev1:9\">Ufunuo 1:9</a>). Yohana aliandika Ufunuo alipokuwa akiishi Patmo, labda katika miaka ya 90 BK. Kufikia wakati huo, upendo na kazi nzuri za Jamii ya Wakrsito, zilizopongezwa katika barua kwa Waefeso, zilikuwa zimepungua (<a href=\"https://ref.ly/Rev2:4\">Ufunuo 2:4</a>). Kulingana na mwandishi wa Kikristo wa mapema Irenaeus, Yohana alirudi Efeso baada ya muda wake Patmo. Aliishi huko hadi kifo chake, ambacho kilitokea wakati Trajan alikuwa mfalme kutoka mwaka 98 hadi 117 BK. Mapokeo yanasema kwamba Maria, mama wa Yesu, pia alitumia siku zake za mwisho Efeso chini ya uangalizi wa Yohana (tazama <a href=\"https://ref.ly/John19:25-John19:27\">Yohana 19:25–27</a>).</p><p>Wagothi walichoma hekalu la Artemi mnamo AD 262. Wagothi walikuwa watu kutoka kaskazini mwa Ulaya ambao walipigana dhidi ya Dola la Kirumi. Kufikia wakati wa baraza la tatu la kiekumeni (pia linaitwa Baraza la Efeso) huko Efeso mnamo AD 431, Artemi hakuwa na ushawishi tena miongoni mwa Waefeso. Mabadiliko haya yanaunga mkono ujumbe wa Paulo kwamba &quot;Mungu waliofanywa na Adamu&quot; kama Artemi &quot;si miungu hata kidogo&quot; (<a href=\"https://ref.ly/Acts19:26\">Matendo 19:26</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Acts18:19-Acts19:41\">Matendo 18:19–19:41</a>; <a href=\"https://ref.ly/Acts20:16-Acts20:38\">20:16–38</a>; <a href=\"https://ref.ly/Eph1:1\">Waefeso 1:1</a>; <a href=\"https://ref.ly/Rev2:1-Rev2:7\">Ufunuo 2:1–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44019024",
+          "start_ref_usfm": "ACT 19:24",
+          "end_ref": "44019024",
+          "end_ref_usfm": "ACT 19:24"
+        },
+        {
+          "start_ref": "44019026",
+          "start_ref_usfm": "ACT 19:26",
+          "end_ref": "44019026",
+          "end_ref_usfm": "ACT 19:26"
+        },
+        {
+          "start_ref": "44019035",
+          "start_ref_usfm": "ACT 19:35",
+          "end_ref": "44019035",
+          "end_ref_usfm": "ACT 19:35"
+        },
+        {
+          "start_ref": "49001001",
+          "start_ref_usfm": "EPH 1:1",
+          "end_ref": "49001001",
+          "end_ref_usfm": "EPH 1:1"
+        },
+        {
+          "start_ref": "66001009",
+          "start_ref_usfm": "REV 1:9",
+          "end_ref": "66001009",
+          "end_ref_usfm": "REV 1:9"
+        },
+        {
+          "start_ref": "66002004",
+          "start_ref_usfm": "REV 2:4",
+          "end_ref": "66002004",
+          "end_ref_usfm": "REV 2:4"
+        },
+        {
+          "start_ref": "44019001",
+          "start_ref_usfm": "ACT 19:1",
+          "end_ref": "44019041",
+          "end_ref_usfm": "ACT 19:41"
+        },
+        {
+          "start_ref": "43019025",
+          "start_ref_usfm": "JHN 19:25",
+          "end_ref": "43019027",
+          "end_ref_usfm": "JHN 19:27"
+        },
+        {
+          "start_ref": "66002001",
+          "start_ref_usfm": "REV 2:1",
+          "end_ref": "66002007",
+          "end_ref_usfm": "REV 2:7"
+        },
+        {
+          "start_ref": "44019028",
+          "start_ref_usfm": "ACT 19:28",
+          "end_ref": "44019031",
+          "end_ref_usfm": "ACT 19:31"
+        },
+        {
+          "start_ref": "44020029",
+          "start_ref_usfm": "ACT 20:29",
+          "end_ref": "44020031",
+          "end_ref_usfm": "ACT 20:31"
+        },
+        {
+          "start_ref": "44018019",
+          "start_ref_usfm": "ACT 18:19",
+          "end_ref": "44019041",
+          "end_ref_usfm": "ACT 19:41"
+        },
+        {
+          "start_ref": "44020016",
+          "start_ref_usfm": "ACT 20:16",
+          "end_ref": "44020038",
+          "end_ref_usfm": "ACT 20:38"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26427,
+          "content_id": 649892,
+          "resource_code": "TyndaleStudyNotesBookIntros",
+          "label": "Wakolosai",
+          "language": "swh"
+        }
+      ]
+    }
+  }
+]

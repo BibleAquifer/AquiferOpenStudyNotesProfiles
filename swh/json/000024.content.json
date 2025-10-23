@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 734322,
+    "reference_id": 203422,
+    "title": "Debora",
+    "media_type": "Text",
+    "index_reference": "debora",
+    "language": "swh",
+    "content": "<p>Nabii Debora alikuwa mmoja wa Waamuzi wa kwanza wa Israeli. Alikuwa mwanamke mwenye uadilifu na aliyejitolea kwa Bwana. Kama nabii, alipokea ujumbe wa kimungu. Kama hakimu, alitatua migogoro ya kisheria. Watu mara nyingi walimwita &quot;mama katika Israeli&quot; (tazama <a href=\"https://ref.ly/Judg5:7\">Waamuzi 5:7</a>).</p><p>Katika kipindi cha Debora, watu walikuwa wakifanya mambo mabaya zaidi. Waliacha kufuata njia za Mungu, na makabila ya Israeli hayakuwa na umoja. Israeli ilikuwa ikifanya &quot;uovu machoni pa BWANA&quot; (<a href=\"https://ref.ly/Judg4:1\">Waamuzi 4:1</a>). Kwa hiyo, Mungu aliwapeleka Israeli mikononi mwa mtesi wao, Yabini wa Kanaani. Kisha, Israeli walimlilia Bwana kwa msaada (<a href=\"https://ref.ly/Judg4:3\">Waamuzi 4:3</a>).</p><p>Mungu alimwita Baraka kupigana na Sisera, jemadari wa jeshi la Yabini, kupitia Debora. Hata hivyo, Baraka hakuwa na shauku wala ujasiri. Alisisitiza kwamba Debora amsindikize. Debora alikubali lakini alionya kwamba mwanamke angepokea utukufu wa ushindi, si Baraka. Hii ilitimia wakati Baraka alishinda Sisera na jeshi lake, lakini Yaeli, mwanamke aliyemuua Sisera, alipokea utukufu. Baraka alionyesha ujasiri mdogo na uongozi dhaifu. Hii ilikuwa tofauti sana na ujasiri na uongozi wa Debora na Yaeli. Matendo ya Debora yalisababisha miaka arobaini ya amani kwa Israeli (<a href=\"https://ref.ly/Judg5:31\">Waamuzi 5:31</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Judg4:1-Judg5:31\">Waamuzi 4:1–5:31</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07004001",
+          "start_ref_usfm": "JDG 4:1",
+          "end_ref": "07004001",
+          "end_ref_usfm": "JDG 4:1"
+        },
+        {
+          "start_ref": "07004003",
+          "start_ref_usfm": "JDG 4:3",
+          "end_ref": "07004003",
+          "end_ref_usfm": "JDG 4:3"
+        },
+        {
+          "start_ref": "07005007",
+          "start_ref_usfm": "JDG 5:7",
+          "end_ref": "07005007",
+          "end_ref_usfm": "JDG 5:7"
+        },
+        {
+          "start_ref": "07005031",
+          "start_ref_usfm": "JDG 5:31",
+          "end_ref": "07005031",
+          "end_ref_usfm": "JDG 5:31"
+        },
+        {
+          "start_ref": "07004001",
+          "start_ref_usfm": "JDG 4:1",
+          "end_ref": "07005031",
+          "end_ref_usfm": "JDG 5:31"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
