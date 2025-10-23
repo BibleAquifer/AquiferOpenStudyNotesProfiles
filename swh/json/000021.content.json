@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 734335,
+    "reference_id": 203435,
+    "title": "Bathsheba",
+    "media_type": "Text",
+    "index_reference": "bathsheba",
+    "language": "swh",
+    "content": "<p>Batsheba, mke wa Uria, alikuwa binti wa Eliamu (<a href=\"https://ref.ly/2Sam11:3\">2 Samweli 11:3</a>; tazama pia <a href=\"https://ref.ly/1Chr3:5\">1 Mambo ya Nyakati 3:5</a>). Alikuwa mjukuu wa Ahithofeli, mshauri wa mfalme (<a href=\"https://ref.ly/2Sam15:12\">2 Samweli 15:12</a>; <a href=\"https://ref.ly/2Sam23:34\">23:34</a>). Mume wake, Uria, alikuwa askari Mhiti. Alikuwa katika jeshi la Mfalme Daudi na alikuwa mmoja wa mashujaa hodari wa Daudi (<a href=\"https://ref.ly/2Sam23:39\">2 Samweli 23:39</a>).</p><p>Katika msimu mmoja wa masika, Daudi alibaki nyumbani Yerusalemu wakati jeshi lilipoenda vitani (<a href=\"https://ref.ly/2Sam11:1\">2 Samweli 11:1</a>). Akiwa anapumzika mchana, Daudi alitembea juu ya paa lake akitazama mji na akamwona Bathsheba mrembo akioga. Alipanga aletwe kwenye vyumba vyake vya faragha. Kisha akafanya mapenzi naye, na akapata mimba (<a href=\"https://ref.ly/2Sam11:2-2Sam11:4\">2 Samweli 11:2–4</a>).</p><p>Daudi hakutaka watu wajue alichokosea, hivyo alijaribu kuficha. Alimwambia Yoabu, jemadari, amlete Uria arudi na ripoti kutoka kwenye vita. Daudi alitumaini Uria angerudi nyumbani na kuwa na uhusiano wa kimapenzi na Bathsheba. Hii ingefanya ionekane kama Bathsheba alipata mimba na Uria. Hata hivyo, Uria alihisi bado alikuwa kazini, hivyo alilala kwenye lango la ikulu badala yake (<a href=\"https://ref.ly/2Sam11:5-2Sam11:13\">2 Samweli 11:5–13</a>).</p><p>Wakati Daudi alipomuuliza Uria kuhusu hili, Uria alisema hangeweza kulala na mke wake wakati Sanduku la Agano na majeshi ya Israeli yalikuwa vitani. Jibu hili lilimfanya Daudi aonekane vibaya. Ingawa Uria hakuwa Mwisraeli, alikuwa tayari kurudi vitani na kuepuka kuwa na mke wake (tazama <a href=\"https://ref.ly/Lev15:16-Lev15:18\">Mambo ya Walawi 15:16–18</a>). Hata hivyo, Daudi alibaki nyumbani na alijaribu kuficha uzinzi wake. Kisha Daudi alimtuma Uria arudi na akaamuru Yoabu kuhakikisha Uria anafariki vitani (<a href=\"https://ref.ly/2Sam11:14-2Sam11:25\">2 Samweli 11:14–25</a>). Kifo cha Uria hakikuficha dhambi ya Daudi. Bwana alimtuma nabii Nathani kumkabili Daudi, na Daudi alikiri dhambi yake na kutubu (<a href=\"https://ref.ly/2Sam12:1-2Sam12:14\">2 Samweli 12:1–14</a>; tazama <a href=\"https://ref.ly/Ps51:1-Ps51:19\">Zaburi 51</a>).</p><p>Mtoto wa Bathsheba aliumwa na kufariki, kama Nathani alivyotabiri. Baada ya kipindi cha maombolezo cha Bathsheba, Daudi alimleta ikulu kama mke wake. Daudi na Bathsheba walipata watoto wengine, wakiwemo:</p><ul><li><p>Shimeya</p></li><li><p>Shughuli</p></li><li><p>Nathani</p></li><li><p>Solomoni (<a href=\"https://ref.ly/2Sam12:15-2Sam12:25\">2 Samweli 12:15–25</a>; <a href=\"https://ref.ly/1Chr3:5\">1 Mambo ya Nyakati 3:5</a>)</p></li></ul><p>Katika maisha yote ya Daudi, wake zake na watoto wake waligombana kwa ajili ya madaraka. Ugomvi mbaya zaidi katika familia hii ulitokea Daudi alipokuwa mzee. Wakati huo, Bathsheba alijitahidi kuhakikisha mwanawe Solomoni anakuwa mfalme anayefuata (<a href=\"https://ref.ly/1Kgs1:1-1Kgs1:53\">1 Wafalme 1:1–53</a>).</p><p>Mathayo anapoorodhesha historia ya familia ya Yesu Masihi, anamtaja Solomoni na Bathsheba (<a href=\"https://ref.ly/Matt1:6\">Mathayo 1:6</a>). Bathsheba anaelezewa kama “mke wa Uria.” Hii inatukumbusha dhambi iliyomleta katika familia ya Daudi na neema ya Mungu kwa vizazi vyake.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/2Sam11:1-2Sam12:25\">2 Samweli 11:1–12:25</a>; <a href=\"https://ref.ly/1Kgs1:5-1Kgs2:25\">1 Wafalme 1:5–2:25</a>; <a href=\"https://ref.ly/Ps51:1-Ps51:19\">Zaburi 51:1–19</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10011001",
+          "start_ref_usfm": "2SA 11:1",
+          "end_ref": "10011001",
+          "end_ref_usfm": "2SA 11:1"
+        },
+        {
+          "start_ref": "10011003",
+          "start_ref_usfm": "2SA 11:3",
+          "end_ref": "10011003",
+          "end_ref_usfm": "2SA 11:3"
+        },
+        {
+          "start_ref": "10015012",
+          "start_ref_usfm": "2SA 15:12",
+          "end_ref": "10015012",
+          "end_ref_usfm": "2SA 15:12"
+        },
+        {
+          "start_ref": "10023034",
+          "start_ref_usfm": "2SA 23:34",
+          "end_ref": "10023034",
+          "end_ref_usfm": "2SA 23:34"
+        },
+        {
+          "start_ref": "10023039",
+          "start_ref_usfm": "2SA 23:39",
+          "end_ref": "10023039",
+          "end_ref_usfm": "2SA 23:39"
+        },
+        {
+          "start_ref": "13003005",
+          "start_ref_usfm": "1CH 3:5",
+          "end_ref": "13003005",
+          "end_ref_usfm": "1CH 3:5"
+        },
+        {
+          "start_ref": "40001006",
+          "start_ref_usfm": "MAT 1:6",
+          "end_ref": "40001006",
+          "end_ref_usfm": "MAT 1:6"
+        },
+        {
+          "start_ref": "10011005",
+          "start_ref_usfm": "2SA 11:5",
+          "end_ref": "10011013",
+          "end_ref_usfm": "2SA 11:13"
+        },
+        {
+          "start_ref": "10011014",
+          "start_ref_usfm": "2SA 11:14",
+          "end_ref": "10011025",
+          "end_ref_usfm": "2SA 11:25"
+        },
+        {
+          "start_ref": "19051001",
+          "start_ref_usfm": "PSA 51:1",
+          "end_ref": "19051019",
+          "end_ref_usfm": "PSA 51:19"
+        },
+        {
+          "start_ref": "10012015",
+          "start_ref_usfm": "2SA 12:15",
+          "end_ref": "10012025",
+          "end_ref_usfm": "2SA 12:25"
+        },
+        {
+          "start_ref": "11001001",
+          "start_ref_usfm": "1KI 1:1",
+          "end_ref": "11001053",
+          "end_ref_usfm": "1KI 1:53"
+        },
+        {
+          "start_ref": "03015016",
+          "start_ref_usfm": "LEV 15:16",
+          "end_ref": "03015018",
+          "end_ref_usfm": "LEV 15:18"
+        },
+        {
+          "start_ref": "10012001",
+          "start_ref_usfm": "2SA 12:1",
+          "end_ref": "10012014",
+          "end_ref_usfm": "2SA 12:14"
+        },
+        {
+          "start_ref": "10011002",
+          "start_ref_usfm": "2SA 11:2",
+          "end_ref": "10011004",
+          "end_ref_usfm": "2SA 11:4"
+        },
+        {
+          "start_ref": "10011001",
+          "start_ref_usfm": "2SA 11:1",
+          "end_ref": "10012025",
+          "end_ref_usfm": "2SA 12:25"
+        },
+        {
+          "start_ref": "11001005",
+          "start_ref_usfm": "1KI 1:5",
+          "end_ref": "11002025",
+          "end_ref_usfm": "1KI 2:25"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

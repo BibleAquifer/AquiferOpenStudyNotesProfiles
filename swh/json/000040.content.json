@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 734401,
+    "reference_id": 203501,
+    "title": "Herode Agripa I",
+    "media_type": "Text",
+    "index_reference": "herode agripa i",
+    "language": "swh",
+    "content": "<p>Herode Agripa I alikuwa mjukuu wa Herode Mkuu, mpwa wa Herode Antipa, na kaka wa Herodia. Agripa I alitawala Palestina yote kwa muda mfupi baada ya kifo cha Yesu, katika siku za mwanzo za harakati ya Ukristo, kuanzia 41 hadi 44 Baada ya Krsito (BK).</p><p>Alipokuwa akisoma katika shule ya Rumi, Agripa aliishi kwa uzembe na akajikusanyia madeni mengi. Aliwahi kutamani rafiki yake Gayo Caligula awe mfalme badala ya Tiberio. Mtu fulani aliripoti hili kwa Tiberio, ambaye kisha alimfunga Agripa. Alikaa gerezani hadi Tiberio alipofariki miezi sita baadaye.</p><p>Wakati Caligula alipokuwa mfalme, alimzawadia Agripa kwa kumwachilia huru na kumpa ardhi za Philip Mtetraji na sehemu ya kaskazini ya eneo la Lysanias, pamoja na cheo cha mfalme. Cheo hiki kilimfanya Herodia awe na wivu, na mume wake, Herode Antipa, alikuwa na ukosoaji na wivu kwa Agripa. Agripa alimshtaki Antipa kwa njama, na kusababisha Antipa kuhamishwa. Agripa kisha akachukua ardhi na mali zote za Antipa mnamo 39 BK.</p><p>Rafiki yake Caligula alipokufa mwaka wa 41 BK, Agripa alipata kibali kutoka kwa mfalme mpya, Klaudio. Klaudio kisha akaongeza Yudea na Samaria kwenye eneo la Agripa. Eneo hili lilikuwa limetawaliwa na babu yake, Herode Mkuu.</p><p>Agripa aliwatesa Wakristo wa mwanzo kwa bidii. Anajulikana kwa kumuua mtume Yakobo na kumkamata Petro, vitendo ambavyo vilifurahisha Wayahudi (<a href=\"https://ref.ly/Acts12:1-Acts12:4\">Matendo 12:1–4</a>). Wayahudi walimpenda zaidi kuliko Herode mwingine yeyote. Agripa alikufa ghafla mwaka 44 Baada ya Kristo, muda mfupi baada ya watu wake kumsifu kama Mungu (<a href=\"https://ref.ly/Acts12:20-Acts12:23\">Matendo 12:20–23</a>; tazama pia Josephus, <em>Antiquities</em> 19.8.2; 19.9.1; <em>War</em> 2.11.5).</p><p><u>Sehemu za Kujifunzia Zaidi</u></p><p><a href=\"https://ref.ly/Acts12:1-Acts12:4\">Matendo 12:1–4</a>, <a href=\"https://ref.ly/Acts12:18-Acts12:23\">18–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012020",
+          "start_ref_usfm": "ACT 12:20",
+          "end_ref": "44012023",
+          "end_ref_usfm": "ACT 12:23"
+        },
+        {
+          "start_ref": "44012001",
+          "start_ref_usfm": "ACT 12:1",
+          "end_ref": "44012004",
+          "end_ref_usfm": "ACT 12:4"
+        },
+        {
+          "start_ref": "44012018",
+          "start_ref_usfm": "ACT 12:18",
+          "end_ref": "44012023",
+          "end_ref_usfm": "ACT 12:23"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

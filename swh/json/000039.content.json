@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 734296,
+    "reference_id": 203396,
+    "title": "Hajiri",
+    "media_type": "Text",
+    "index_reference": "hajiri",
+    "language": "swh",
+    "content": "<p>Hajiri alikuwa mtumishi Mmisri wa Sarai, mke wa Abramu. Wakati Mungu alipomwambia Abramu aondoke Mesopotamia, alimwahidi Abramu uzao mwingi na nchi mpya (<a href=\"https://ref.ly/Gen12:2\">Mwanzo 12:2</a>, <a href=\"https://ref.ly/Gen12:7\">7</a>). Baada ya miaka kumi huko Kanaani bila watoto, Sarai alifuata desturi ya Wamesopotamia. Alimpa Hajiri kwa Abramu kama suria (mke wa pili). Mtoto yeyote kutoka muungano huu alihesabiwa kuwa mtoto wa mke (tazama <a href=\"https://ref.ly/Gen30:1-Gen30:8\">Mwanzo 30:1–8</a>).</p><p>Hajiri alipata mimba na akaanza kumdharau Sarai. Sarai alijibu kwa kumtendea kwa ukali, hivyo Hajiri alikimbia kwenda jangwani (<a href=\"https://ref.ly/Gen16:4-Gen16:6\">Mwanzo 16:4–6</a>). Malaika wa Bwana alimtokea kwenye kisima cha jangwani na kumwambia arudi nyumbani kwa Abramu na kumtii Sarai.</p><p>Hajiri alizaa mtoto wa kiume aliyeitwa Ishmaeli wakati Abramu alipokuwa na umri wa miaka themanini na sita (<a href=\"https://ref.ly/Gen16:1-Gen16:16\">Mwanzo 16:1–16</a>).</p><p>Miaka kumi na nne baadaye,  Mungu alimpa Abrahamu na Sara mwana wao wa ahadi, Isaka. Wakati Isaka alipoachishwa kunyonya, akiwa na umri wa miaka mitatu hivi, walifanya karamu ya kitamaduni. Katika tukio hilo, Ishmaeli alimdhihaki Isaka (<a href=\"https://ref.ly/Gen21:9\">Mwanzo 21:9</a>), hivyo Sara alisisitiza kwamba Abrahamu ampeleke Hajiri na Ishmaeli mbali. Mungu aliunga mkono uamuzi huu (<a href=\"https://ref.ly/Gen21:12\">Mwanzo 21:12</a>), hivyo Hajiri na Ishmaeli wakaondoka kutangatanga katika nyika ya Beer-Sheba. Wakati maji yao yalipoisha, Mungu aliwaokoa kwa miujiza na kumwahidi Hajiri kwamba Ishmaeli angekuwa baba wa taifa kubwa (<a href=\"https://ref.ly/Gen21:17-Gen21:19\">Mwanzo 21:17–19</a>).</p><p>Paulo alitumia mfano katika <a href=\"https://ref.ly/Gal4:22-Gal4:31\">Wagalatia 4:22–31</a> ambapo Hajiri anawakilisha Mlima Sinai, mahali pa agano la kale (makubaliano maalum ya Mungu na Waisraeli). Sara anawakilisha Yerusalemu ya mbinguni, jumuiya ya wale wanaopata wokovu kupitia imani kwa Kristo. Kama vile Isaka alivyokuwa mwana wa Abrahamu kupitia imani katika ahadi ya Mungu, Wakristo ambao wako huru kutoka kwa sheria ni watoto wa kiroho wa Sara.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen16:1-Gen16:16\">Mwanzo 16:1–16</a>; <a href=\"https://ref.ly/Gen21:9-Gen21:21\">21:9–21</a>; <a href=\"https://ref.ly/Gen25:12\">25:12</a>; <a href=\"https://ref.ly/Gal4:22-Gal4:31\">Wagalatia 4:22–31</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012002",
+          "start_ref_usfm": "GEN 12:2",
+          "end_ref": "01012002",
+          "end_ref_usfm": "GEN 12:2"
+        },
+        {
+          "start_ref": "01012007",
+          "start_ref_usfm": "GEN 12:7",
+          "end_ref": "01012007",
+          "end_ref_usfm": "GEN 12:7"
+        },
+        {
+          "start_ref": "01021009",
+          "start_ref_usfm": "GEN 21:9",
+          "end_ref": "01021009",
+          "end_ref_usfm": "GEN 21:9"
+        },
+        {
+          "start_ref": "01021012",
+          "start_ref_usfm": "GEN 21:12",
+          "end_ref": "01021012",
+          "end_ref_usfm": "GEN 21:12"
+        },
+        {
+          "start_ref": "01025012",
+          "start_ref_usfm": "GEN 25:12",
+          "end_ref": "01025012",
+          "end_ref_usfm": "GEN 25:12"
+        },
+        {
+          "start_ref": "01016001",
+          "start_ref_usfm": "GEN 16:1",
+          "end_ref": "01016016",
+          "end_ref_usfm": "GEN 16:16"
+        },
+        {
+          "start_ref": "01021009",
+          "start_ref_usfm": "GEN 21:9",
+          "end_ref": "01021021",
+          "end_ref_usfm": "GEN 21:21"
+        },
+        {
+          "start_ref": "01021017",
+          "start_ref_usfm": "GEN 21:17",
+          "end_ref": "01021019",
+          "end_ref_usfm": "GEN 21:19"
+        },
+        {
+          "start_ref": "48004022",
+          "start_ref_usfm": "GAL 4:22",
+          "end_ref": "48004031",
+          "end_ref_usfm": "GAL 4:31"
+        },
+        {
+          "start_ref": "01030001",
+          "start_ref_usfm": "GEN 30:1",
+          "end_ref": "01030008",
+          "end_ref_usfm": "GEN 30:8"
+        },
+        {
+          "start_ref": "01016004",
+          "start_ref_usfm": "GEN 16:4",
+          "end_ref": "01016006",
+          "end_ref_usfm": "GEN 16:6"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

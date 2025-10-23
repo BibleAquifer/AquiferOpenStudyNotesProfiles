@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 734368,
+    "reference_id": 203468,
+    "title": "Ezekieli",
+    "media_type": "Text",
+    "index_reference": "ezekieli",
+    "language": "swh",
+    "content": "<p>Ezekieli alikuwa kuhani na nabii. Alizaliwa karibu mwaka wa 623 Kabla ya Kristo (KK). Inawezekana alikulia Yerusalemu na alikuwa ameoa (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ezekieli 24:16–18</a>). Mnamo 597 KK, alipelekwa uhamishoni Babeli pamoja na Yekonia na aliishi kando ya Mto Kebari. Alipokea wito wake kama nabii huko Babeli mnamo Julai 31, 593 KK (<a href=\"https://ref.ly/Ezek1:1\">Ezekieli 1:1</a>). Tunajifunza kuhusu maisha yake binafsi kutoka kwenye kitabu kilichopewa jina lake.</p><p>Ezekieli mara nyingi alitumia vitendo visivyo vya kawaida kusisitiza ujumbe wake wa kinabii kutoka kwa Mungu. Kwa mfano, alionyesha uhaba mkubwa wa chakula wakati wa kuzingirwa kwa mwisho wa Yerusalemu kwa kula chakula kilichopikwa juu ya mavi (<a href=\"https://ref.ly/Ezek4:12\">Ezekieli 4:12</a>). Wakati mwingine, alilala bila kusonga kwa siku 430, kila siku ikiwakilisha mwaka wa dhambi za Israeli na Yuda (<a href=\"https://ref.ly/Ezek4:4-Ezek4:7\">Ezekieli 4:4–7</a>). Mke wa Ezekieli alipokufa ghafla, hakuruhusiwa kumlilia hadharani (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ezekieli 24:16–18</a>); kifo chake kilikuwa onyo kali la kile ambacho kingetokea Yuda (<a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">Ezekieli 24:15–27</a>). Vitendo visivyo vya kawaida vya Ezekieli vililenga kuvutia umakini wa watu.</p><p>Hapo awali, watu walikataa ujumbe wa Ezekieli. Hata hivyo, unabii wake ulithibitishwa kuwa wa kweli, na taifa likaacha kuabudu miungu ya uongo. Alifundisha kuhusu utakatifu, usafi, ufufuo, na sheria za ibada (kanuni na desturi za kidini). Ujumbe wake wa matumaini uliwahimiza watu waliohamishwa kubaki waaminifu wakati wa utumwa wao. Baada ya kurudi kwao, uliwahamasisha kutazamia utimilifu mkubwa zaidi.</p><p>Hatufahamu jinsi Ezekieli alivyokufa, na hatatajwi mahali pengine katika Agano la Kale. Agano Jipya linarejelea unabii wa Ezekieli zaidi ya mara sitini, hasa katika kitabu cha Ufunuo. Maono ya kinabii ya Ezekieli yalielekea zaidi ya wakati wake wa karibu hadi kwenye hukumu ya mwisho (uamuzi wa mwisho wa Mungu kuhusu watu wote) na tumaini kuu la mbinguni.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Ezek2:1-Ezek2:10\">Ezekieli 2:1–10</a>; <a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">24:15–27</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "26001001",
+          "start_ref_usfm": "EZK 1:1",
+          "end_ref": "26001001",
+          "end_ref_usfm": "EZK 1:1"
+        },
+        {
+          "start_ref": "26004012",
+          "start_ref_usfm": "EZK 4:12",
+          "end_ref": "26004012",
+          "end_ref_usfm": "EZK 4:12"
+        },
+        {
+          "start_ref": "26024016",
+          "start_ref_usfm": "EZK 24:16",
+          "end_ref": "26024018",
+          "end_ref_usfm": "EZK 24:18"
+        },
+        {
+          "start_ref": "26024015",
+          "start_ref_usfm": "EZK 24:15",
+          "end_ref": "26024027",
+          "end_ref_usfm": "EZK 24:27"
+        },
+        {
+          "start_ref": "26002001",
+          "start_ref_usfm": "EZK 2:1",
+          "end_ref": "26002010",
+          "end_ref_usfm": "EZK 2:10"
+        },
+        {
+          "start_ref": "26004004",
+          "start_ref_usfm": "EZK 4:4",
+          "end_ref": "26004007",
+          "end_ref_usfm": "EZK 4:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

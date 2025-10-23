@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 734330,
+    "reference_id": 203430,
+    "title": "Abiathari",
+    "media_type": "Text",
+    "index_reference": "abiathari",
+    "language": "swh",
+    "content": "<p>Abiathari alihudumu kama kuhani mkuu wakati wa utawala wa Daudi na Solomoni. Alikutana na Daudi kwa mara ya kwanza kabla Daudi hajawa mfalme. Wakati Daudi alipokimbia kutoka kwa Sauli, alisimama katika mji wa Nobu. Akijifanya kufuata maagizo ya Sauli, Daudi alipata chakula na vifaa kutoka kwa makuhani pale. Sauli aligundua na akakasirika sana kiasi kwamba aliua makuhani wote isipokuwa mmoja; ni Abiathari pekee aliyenusurika.</p><p>Abiathari alikuwa mmoja wa wa kwanza kutoka utawala wa Sauli kumuunga mkono Daudi. Msaada wake ulikuwa thabiti. Aliwakilisha ukoo wa kikuhani wa Eli na alileta Efodi takatifu pamoja na Urimu na Thumimu (<a href=\"https://ref.ly/Exod28:29-Exod28:30\">Kutoka 28:29–30</a>). (Efodi ilikuwa vazi takatifu lililovaliwa na kuhani mkuu, na Urimu na Thumimu vilitumika kwa kutafuta mwongozo wa Mungu.) Hii ilimruhusu kutafuta mwongozo wa Mungu kwa ajili ya Daudi wakati wa migogoro (<a href=\"https://ref.ly/1Sam23:1-1Sam23:12\">1 Samweli 23:1–12</a>; <a href=\"https://ref.ly/1Sam30:7-1Sam30:8\">30:7–8</a>).</p><p>Baada ya Daudi kuwa mfalme, Abiathari alihudumu kama kuhani pamoja na Sadoki, ambaye hakuwa kutoka ukoo wa Eli (<a href=\"https://ref.ly/1Chr6:8\">1 Mambo ya Nyakati 6:8</a>; <a href=\"https://ref.ly/1Chr18:16\">18:16</a>; <a href=\"https://ref.ly/1Chr24:3\">24:3</a>). Wote wawili walimhudumia Daudi kwa uaminifu. Wakati wa uasi wa Absalomu, walimjulisha Daudi kuhusu matukio katika mji mkuu (<a href=\"https://ref.ly/2Sam15:27-2Sam15:37\">2 Samweli 15:27–37</a>; <a href=\"https://ref.ly/2Sam17:15-2Sam17:16\">17:15–16</a>).</p><p>Katika uzee wa Daudi, Abiathari alimuunga mkono kimakosa Adonia katika jaribio lake la kuwa mfalme badala ya baba yake. Sadoki alibaki mwaminifu kwa Daudi na kumuunga mkono Solomoni (<a href=\"https://ref.ly/1Kgs1:5-1Kgs1:8\">1 Wafalme 1:5–8</a>). Kama matokeo, mara tu Solomoni alipokuwa mfalme, alimwondolea Abiathari mamlaka ya ukuhani na kumtuma kwenye mali yake huko Anathothi, kijiji kilicho takriban maili nne kaskazini mashariki mwa Yerusalemu (<a href=\"https://ref.ly/1Kgs2:26-1Kgs2:27\">1 Wafalme 2:26–27</a>). Sadoki akawa kuhani mkuu, na kizazi chake kilirithi jukumu hilo badala ya Abiathari. Hii ilitimiza unabii ambao Bwana alitoa huko Shilo kuhusu kizazi cha Eli (<a href=\"https://ref.ly/1Kgs2:27\">1 Wafalme 2:27</a>; tazama <a href=\"https://ref.ly/1Sam2:27-1Sam2:36\">1 Samweli 2:27–36</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/1Sam22:20-1Sam22:23\">1 Samweli 22:20–23</a>; <a href=\"https://ref.ly/1Sam23:6\">23:6</a>, <a href=\"https://ref.ly/1Sam23:9\">9</a>; <a href=\"https://ref.ly/1Sam30:7\">30:7</a>; <a href=\"https://ref.ly/2Sam15:27-2Sam15:37\">2 Samweli 15:27–37</a>; <a href=\"https://ref.ly/2Sam17:15\">17:15</a>; <a href=\"https://ref.ly/1Kgs1:1-1Kgs2:35\">1 Wafalme 1:1–2:35</a>; <a href=\"https://ref.ly/1Chr15:11\">1 Mambo ya Nyakati 15:11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09023006",
+          "start_ref_usfm": "1SA 23:6",
+          "end_ref": "09023006",
+          "end_ref_usfm": "1SA 23:6"
+        },
+        {
+          "start_ref": "09023009",
+          "start_ref_usfm": "1SA 23:9",
+          "end_ref": "09023009",
+          "end_ref_usfm": "1SA 23:9"
+        },
+        {
+          "start_ref": "09030007",
+          "start_ref_usfm": "1SA 30:7",
+          "end_ref": "09030007",
+          "end_ref_usfm": "1SA 30:7"
+        },
+        {
+          "start_ref": "10017015",
+          "start_ref_usfm": "2SA 17:15",
+          "end_ref": "10017015",
+          "end_ref_usfm": "2SA 17:15"
+        },
+        {
+          "start_ref": "11002027",
+          "start_ref_usfm": "1KI 2:27",
+          "end_ref": "11002027",
+          "end_ref_usfm": "1KI 2:27"
+        },
+        {
+          "start_ref": "13006008",
+          "start_ref_usfm": "1CH 6:8",
+          "end_ref": "13006008",
+          "end_ref_usfm": "1CH 6:8"
+        },
+        {
+          "start_ref": "13015011",
+          "start_ref_usfm": "1CH 15:11",
+          "end_ref": "13015011",
+          "end_ref_usfm": "1CH 15:11"
+        },
+        {
+          "start_ref": "13018016",
+          "start_ref_usfm": "1CH 18:16",
+          "end_ref": "13018016",
+          "end_ref_usfm": "1CH 18:16"
+        },
+        {
+          "start_ref": "13024003",
+          "start_ref_usfm": "1CH 24:3",
+          "end_ref": "13024003",
+          "end_ref_usfm": "1CH 24:3"
+        },
+        {
+          "start_ref": "09030007",
+          "start_ref_usfm": "1SA 30:7",
+          "end_ref": "09030008",
+          "end_ref_usfm": "1SA 30:8"
+        },
+        {
+          "start_ref": "11002026",
+          "start_ref_usfm": "1KI 2:26",
+          "end_ref": "11002027",
+          "end_ref_usfm": "1KI 2:27"
+        },
+        {
+          "start_ref": "09022020",
+          "start_ref_usfm": "1SA 22:20",
+          "end_ref": "09022023",
+          "end_ref_usfm": "1SA 22:23"
+        },
+        {
+          "start_ref": "09002027",
+          "start_ref_usfm": "1SA 2:27",
+          "end_ref": "09002036",
+          "end_ref_usfm": "1SA 2:36"
+        },
+        {
+          "start_ref": "02028029",
+          "start_ref_usfm": "EXO 28:29",
+          "end_ref": "02028030",
+          "end_ref_usfm": "EXO 28:30"
+        },
+        {
+          "start_ref": "09023001",
+          "start_ref_usfm": "1SA 23:1",
+          "end_ref": "09023012",
+          "end_ref_usfm": "1SA 23:12"
+        },
+        {
+          "start_ref": "10015027",
+          "start_ref_usfm": "2SA 15:27",
+          "end_ref": "10015037",
+          "end_ref_usfm": "2SA 15:37"
+        },
+        {
+          "start_ref": "10017015",
+          "start_ref_usfm": "2SA 17:15",
+          "end_ref": "10017016",
+          "end_ref_usfm": "2SA 17:16"
+        },
+        {
+          "start_ref": "11001005",
+          "start_ref_usfm": "1KI 1:5",
+          "end_ref": "11001008",
+          "end_ref_usfm": "1KI 1:8"
+        },
+        {
+          "start_ref": "11001001",
+          "start_ref_usfm": "1KI 1:1",
+          "end_ref": "11002035",
+          "end_ref_usfm": "1KI 2:35"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

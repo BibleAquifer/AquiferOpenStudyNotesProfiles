@@ -1,0 +1,118 @@
+[
+  {
+    "content_id": 734304,
+    "reference_id": 203404,
+    "title": "Raheli",
+    "media_type": "Text",
+    "index_reference": "raheli",
+    "language": "swh",
+    "content": "<p>Raheli alikuwa dada mdogo wa Labani. Alikuwa mrembo, na Yakobo alimpenda zaidi kuliko wake zake wengine. Alikutana naye kwa mara ya kwanza alipofika Padan-aramu huko Harani. Alimsaidia kuondoa jiwe kutoka kwenye kisima na kumwagilia kondoo wa baba yake (<a href=\"https://ref.ly/Gen29:10\">Mwanzo 29:10</a>). Yakobo alikubali kufanya kazi kwa Labani kwa miaka saba ili kumuoa Raheli. Muda huo ulionekana kama siku chache tu kwa sababu alimpenda sana.</p><p>Labani alimdanganya Yakobo kuoa Lea, binti yake mkubwa ambaye hakuwa mrembo sana, kabla ya kumruhusu kuoa Raheli. Tofauti na Lea, mwanzoni Raheli hakuweza kupata watoto (<a href=\"https://ref.ly/Gen29:31\">Mwanzo 29:31</a>; <a href=\"https://ref.ly/Gen30:1\">30:1</a>). Alimpa mtumishi wake Bilha kwa Yakobo ili apate watoto kwa niaba yake, na hivyo kuzaliwa Dani na Naftali (<a href=\"https://ref.ly/Gen30:3-Gen30:8\">Mwanzo 30:3–8</a>). Hatimaye, Raheli alipata mimba na kumzaa Yosefu (<a href=\"https://ref.ly/Gen30:22-Gen30:24\">Mwanzo 30:22–24</a>). Mara baada ya hapo, Yakobo aliondoka Harani na wake zake, watoto, na mali zake.</p><p>Kati ya Betheli na Bethlehemu, Raheli alifariki wakati wa kujifungua Benyamini (<a href=\"https://ref.ly/Gen35:16-Gen35:20\">Mwanzo 35:16–20</a>). Yakobo aliweka nguzo juu ya kaburi lake, ambayo ilibaki kuwa alama hata wakati wa Sauli (<a href=\"https://ref.ly/1Sam10:2\">1 Samweli 10:2</a>). Raheli na Lea wanaheshimiwa kwa kujenga nyumba ya Israeli (<a href=\"https://ref.ly/Ruth4:11\">Ruthu 4:11</a>). Katika <a href=\"https://ref.ly/Jer31:15\">Yeremia 31:15</a>, Raheli anaonyeshwa akilia kwa ajili ya watoto wake waliochukuliwa mateka. Mathayo anarejelea maneno ya Yeremia wakati wa mauaji ya watoto wa kiume na Herode karibu na Bethlehemu muda mfupi baada ya kuzaliwa kwa Yesu (<a href=\"https://ref.ly/Matt2:16-Matt2:18\">Mathayo 2:16–18</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen29:6-Gen30:24\">Mwanzo 29:6–30:24</a>; <a href=\"https://ref.ly/Gen31:4-Gen31:19\">31:4–19</a>, <a href=\"https://ref.ly/Gen31:31-Gen31:35\">31–35</a>; <a href=\"https://ref.ly/Gen33:1-Gen33:7\">33:1–7</a>; <a href=\"https://ref.ly/Gen35:16-Gen35:20\">35:16–20</a>; <a href=\"https://ref.ly/Gen46:19-Gen46:22\">46:19–22</a>; <a href=\"https://ref.ly/Gen48:7\">48:7</a>; <a href=\"https://ref.ly/Ruth4:11\">Ruthu 4:11</a>; <a href=\"https://ref.ly/1Sam10:2\">1 Samweli 10:2</a>; <a href=\"https://ref.ly/Jer31:15\">Yeremia 31:15</a>; <a href=\"https://ref.ly/Matt2:18\">Mathayo 2:18</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01029010",
+          "start_ref_usfm": "GEN 29:10",
+          "end_ref": "01029010",
+          "end_ref_usfm": "GEN 29:10"
+        },
+        {
+          "start_ref": "01029031",
+          "start_ref_usfm": "GEN 29:31",
+          "end_ref": "01029031",
+          "end_ref_usfm": "GEN 29:31"
+        },
+        {
+          "start_ref": "01030001",
+          "start_ref_usfm": "GEN 30:1",
+          "end_ref": "01030001",
+          "end_ref_usfm": "GEN 30:1"
+        },
+        {
+          "start_ref": "01048007",
+          "start_ref_usfm": "GEN 48:7",
+          "end_ref": "01048007",
+          "end_ref_usfm": "GEN 48:7"
+        },
+        {
+          "start_ref": "08004011",
+          "start_ref_usfm": "RUT 4:11",
+          "end_ref": "08004011",
+          "end_ref_usfm": "RUT 4:11"
+        },
+        {
+          "start_ref": "09010002",
+          "start_ref_usfm": "1SA 10:2",
+          "end_ref": "09010002",
+          "end_ref_usfm": "1SA 10:2"
+        },
+        {
+          "start_ref": "24031015",
+          "start_ref_usfm": "JER 31:15",
+          "end_ref": "24031015",
+          "end_ref_usfm": "JER 31:15"
+        },
+        {
+          "start_ref": "40002018",
+          "start_ref_usfm": "MAT 2:18",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        },
+        {
+          "start_ref": "01035016",
+          "start_ref_usfm": "GEN 35:16",
+          "end_ref": "01035020",
+          "end_ref_usfm": "GEN 35:20"
+        },
+        {
+          "start_ref": "01030003",
+          "start_ref_usfm": "GEN 30:3",
+          "end_ref": "01030008",
+          "end_ref_usfm": "GEN 30:8"
+        },
+        {
+          "start_ref": "40002016",
+          "start_ref_usfm": "MAT 2:16",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        },
+        {
+          "start_ref": "01030022",
+          "start_ref_usfm": "GEN 30:22",
+          "end_ref": "01030024",
+          "end_ref_usfm": "GEN 30:24"
+        },
+        {
+          "start_ref": "01029006",
+          "start_ref_usfm": "GEN 29:6",
+          "end_ref": "01030024",
+          "end_ref_usfm": "GEN 30:24"
+        },
+        {
+          "start_ref": "01031004",
+          "start_ref_usfm": "GEN 31:4",
+          "end_ref": "01031019",
+          "end_ref_usfm": "GEN 31:19"
+        },
+        {
+          "start_ref": "01031031",
+          "start_ref_usfm": "GEN 31:31",
+          "end_ref": "01031035",
+          "end_ref_usfm": "GEN 31:35"
+        },
+        {
+          "start_ref": "01033001",
+          "start_ref_usfm": "GEN 33:1",
+          "end_ref": "01033007",
+          "end_ref_usfm": "GEN 33:7"
+        },
+        {
+          "start_ref": "01046019",
+          "start_ref_usfm": "GEN 46:19",
+          "end_ref": "01046022",
+          "end_ref_usfm": "GEN 46:22"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

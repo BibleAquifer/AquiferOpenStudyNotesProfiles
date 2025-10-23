@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 734327,
+    "reference_id": 203427,
+    "title": "Sauli",
+    "media_type": "Text",
+    "index_reference": "sauli",
+    "language": "swh",
+    "content": "<p>Sauli alikuwa mfalme wa kwanza wa Israeli. Mungu na watu walimchagua, lakini alishindwa sana kwa sababu ya ukosefu wa kujiamini kwake na kwa Mungu. Sauli alikuwa mtu mwenye ugumu. Wakati mwingine, tunamhurumia kwa sababu ya mapambano yake. Hata hivyo, mara nyingi alijisababishia matatizo mwenyewe, akileta huzuni na shida kwa wale walio karibu naye.</p><p>Sauli alikuwa mwana wa mmiliki wa ardhi tajiri. Alikuwa mfalme bila kutarajia au kutamani kuwa mmoja. Watu walihitaji mfalme wa kuwaongoza vitani, hivyo walimfurahia Sauli, ambaye alikuwa mrefu kuliko mtu mwingine yeyote (<a href=\"https://ref.ly/1Sam10:23\">1 Samweli 10:23</a>). Hata hivyo, matatizo yao ya kijeshi yalikuwa makubwa, na Sauli alikosa kujiamini kama kiongozi wa kijeshi. Bila nabii Samweli na mwana wa Sauli, Yonathani, utawala wa Sauli ungeweza kuishia katika maafa makubwa.</p><p>Sauli alimkasirisha Mungu kwa kutoa ahadi za haraka bila kufikiria wakati wa vita (<a href=\"https://ref.ly/1Sam14:16-1Sam14:46\">1 Samweli 14:16–46</a>). Pia alitoa dhabihu kabla ya vita badala ya kumsubiri Samweli (<a href=\"https://ref.ly/1Sam13:7-1Sam13:14\">1 Samweli 13:7b–14</a>). Alikaidi amri ya Mungu ya kuangamiza watu wote na mali za Waamaleki (<a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">1 Samweli 15:1–35</a>). Kwa sababu hii, Mungu aliamua kumwondoa Sauli kutoka kwenye nafasi ya mfalme. Mungu alimtuma Samweli kumchagua Daudi kama mfalme mpya kwa kumimina mafuta matakatifu kichwani mwake. Hivi karibuni, Sauli alianza kumshuku sana Daudi, ambaye alikuwa rafiki bora wa mwanawe na mtumishi wake mwaminifu zaidi. Sauli akawa mtawala katili ambaye alikataa kuachia madaraka bila kujali chochote. Alitumia muda mwingi na juhudi akijaribu kumkamata na kumuua Daudi.</p><p>Sauli alijeruhiwa katika vita dhidi ya Wafilisti na kisha akajiua kwa upanga wake. Kifo chake kilikuwa matokeo ya hukumu ya Mungu. Ingawa Daudi alitumia muda mwingi akimkimbia Sauli, alimuenzi mfalme wa kwanza na mwanawe Yonathani kwa hotuba ya dhati (<a href=\"https://ref.ly/2Sam1:17-2Sam1:27\">2 Samweli 1:17–27</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/1Sam9:1-1Sam11:15\">1 Samweli 9:1–11:15</a>; <a href=\"https://ref.ly/1Sam13:1-1Sam31:13\">13:1–31:13</a>; <a href=\"https://ref.ly/2Sam1:1-2Sam1:27\">2 Samweli 1:1–27</a>; <a href=\"https://ref.ly/1Chr9:35-1Chr10:14\">1 Mambo ya Nyakati 9:35–10:14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09010023",
+          "start_ref_usfm": "1SA 10:23",
+          "end_ref": "09010023",
+          "end_ref_usfm": "1SA 10:23"
+        },
+        {
+          "start_ref": "09015001",
+          "start_ref_usfm": "1SA 15:1",
+          "end_ref": "09015035",
+          "end_ref_usfm": "1SA 15:35"
+        },
+        {
+          "start_ref": "10001001",
+          "start_ref_usfm": "2SA 1:1",
+          "end_ref": "10001027",
+          "end_ref_usfm": "2SA 1:27"
+        },
+        {
+          "start_ref": "10001017",
+          "start_ref_usfm": "2SA 1:17",
+          "end_ref": "10001027",
+          "end_ref_usfm": "2SA 1:27"
+        },
+        {
+          "start_ref": "09009001",
+          "start_ref_usfm": "1SA 9:1",
+          "end_ref": "09011015",
+          "end_ref_usfm": "1SA 11:15"
+        },
+        {
+          "start_ref": "09013007",
+          "start_ref_usfm": "1SA 13:7",
+          "end_ref": "09013014",
+          "end_ref_usfm": "1SA 13:14"
+        },
+        {
+          "start_ref": "09014016",
+          "start_ref_usfm": "1SA 14:16",
+          "end_ref": "09014046",
+          "end_ref_usfm": "1SA 14:46"
+        },
+        {
+          "start_ref": "09013001",
+          "start_ref_usfm": "1SA 13:1",
+          "end_ref": "09031013",
+          "end_ref_usfm": "1SA 31:13"
+        },
+        {
+          "start_ref": "13009035",
+          "start_ref_usfm": "1CH 9:35",
+          "end_ref": "13010014",
+          "end_ref_usfm": "1CH 10:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

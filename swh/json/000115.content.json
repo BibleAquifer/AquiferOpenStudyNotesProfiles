@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 734402,
+    "reference_id": 203502,
+    "title": "Yohana Marko",
+    "media_type": "Text",
+    "index_reference": "yohana marko",
+    "language": "swh",
+    "content": "<p>Yohana Marko, mwandishi wa injili ya kwanza (Injili ya Marko), aliwasaidia wamisionari watatu wa kwanza:</p><ul><li><p>Barnaba</p></li><li><p>Paulo</p></li><li><p>Petro</p></li></ul><p>Barnaba na Paulo walimchukua Marko kama msaidizi katika safari yao ya kwanza ya umisionari. Hata hivyo, Marko aliwaacha na kurudi Yerusalemu kabla ya safari kumalizika (<a href=\"https://ref.ly/Acts12:25\">Matendo 12:25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13:4–5</a>, <a href=\"https://ref.ly/Acts13:13\">13</a>). Kwa sababu hii, Barnaba alipotaka kumchukua Marko katika safari ya pili, Paulo alikataa. Mgogoro huu ulitenganisha timu: Barnaba alimchukua Marko, binamu yake, wakati Paulo alichagua Sila. Wawili hao kisha wakaenda njia zao tofauti (<a href=\"https://ref.ly/Acts15:36-Acts15:41\">Matendo 15:36–41</a>).</p><p>Baadaye, Paulo na Marko walipatana, na Marko akawa msaidizi wake tena. Katika Wakolosai, Paulo anamwita Marko mfanyakazi mwenzake na anapendekeza kwamba huenda akamtuma hivi karibuni kutembelea kanisa huko Kolosai (<a href=\"https://ref.ly/Col4:10\">Wakolosai 4:10</a>; tazama pia <a href=\"https://ref.ly/Phlm1:24\">Filemoni 1:24</a>). Hata baadaye, Paulo alipokuwa akisubiri kunyongwa katika gereza la Kirumi, alimwomba Timotheo amlete Marko kwa sababu aliamini Marko angekuwa msaada katika huduma yake (<a href=\"https://ref.ly/2Tim4:11\">2 Timotheo 4:11</a>).</p><p>Marko huenda alisaidia Petro kwa kazi yake ya umisionari huko Italia karibu na mwisho wa maisha ya Petro. Katika mojawapo ya barua za Petro, anamwita Marko kwa upendo &quot;mwana&quot; wake ambaye yuko pamoja naye (<a href=\"https://ref.ly/1Pet5:13\">1 Petro 5:13</a>). Mapokeo ya awali ya Kikristo yanaelezea Marko kama &quot;mkalimani&quot; wa Petro na yanapendekeza kwamba Marko alipata habari zake kuhusu maisha na maneno ya Yesu moja kwa moja kutoka kwa Petro (Eusebius, <em>Historia ya Kanisa</em> 3.39.16).</p><p>Injili ya Marko inachukuliwa kwa ujumla kuwa ya kwanza kati ya Injili zote. Ilikuwa chanzo kikuu kwa Mathayo na Luka walipoandika Injili zao. Kwa sababu hii, Injili ya Marko ni mojawapo ya maandiko yenye ushawishi mkubwa katika Ukristo wa awali.</p><p>Hadithi ya Marko inaonyesha kwamba Mungu anaweza kurekebisha makosa ya kibinadamu na kuboresha mahusiano magumu kupitia Kristo na Habari Njema. Kushindwa mapema hakumzuii mtu kuwa na maisha yenye maana na yenye athari katika huduma.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Acts12:12\">Matendo 12:12</a>, <a href=\"https://ref.ly/Acts12:25\">25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13:4–5</a>, <a href=\"https://ref.ly/Acts13:13\">13</a>; <a href=\"https://ref.ly/Acts15:36-Acts15:39\">15:36–39</a>; <a href=\"https://ref.ly/Col4:10\">Wakolosai 4:10</a>; <a href=\"https://ref.ly/2Tim4:11\">2 Timotheo 4:11</a>; <a href=\"https://ref.ly/Phlm1:23-Phlm1:24\">Filemoni 1:23–24</a>; <a href=\"https://ref.ly/1Pet5:13\">1 Petro 5:13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012012",
+          "start_ref_usfm": "ACT 12:12",
+          "end_ref": "44012012",
+          "end_ref_usfm": "ACT 12:12"
+        },
+        {
+          "start_ref": "44012025",
+          "start_ref_usfm": "ACT 12:25",
+          "end_ref": "44012025",
+          "end_ref_usfm": "ACT 12:25"
+        },
+        {
+          "start_ref": "44013013",
+          "start_ref_usfm": "ACT 13:13",
+          "end_ref": "44013013",
+          "end_ref_usfm": "ACT 13:13"
+        },
+        {
+          "start_ref": "51004010",
+          "start_ref_usfm": "COL 4:10",
+          "end_ref": "51004010",
+          "end_ref_usfm": "COL 4:10"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004011",
+          "end_ref_usfm": "2TI 4:11"
+        },
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "60005013",
+          "start_ref_usfm": "1PE 5:13",
+          "end_ref": "60005013",
+          "end_ref_usfm": "1PE 5:13"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "57001023",
+          "start_ref_usfm": "PHM 1:23",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "44013004",
+          "start_ref_usfm": "ACT 13:4",
+          "end_ref": "44013005",
+          "end_ref_usfm": "ACT 13:5"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015039",
+          "end_ref_usfm": "ACT 15:39"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 734379,
+    "reference_id": 203479,
+    "title": "Mathayo (Lawi)",
+    "media_type": "Text",
+    "index_reference": "mathayo (lawi)",
+    "language": "swh",
+    "content": "<p>Mathayo alikuwa mtoza ushuru kwa Warumi na baadaye akawa mmoja wa wafuasi kumi na wawili wa karibu wa Yesu (wanaoitwa mitume). Mapokeo ya awali yanasema aliandika Injili ya Mathayo.</p><p>Anaitwa Mathayo katika orodha zote za mitume (<a href=\"https://ref.ly/Matt10:3\">Matt 10:3</a>; <a href=\"https://ref.ly/Mark3:18\">Marko 3:18</a>; <a href=\"https://ref.ly/Luke6:15\">Luka 6:15</a>; <a href=\"https://ref.ly/Acts1:13\">Matendo 1:13</a>). Hata hivyo, katika simulizi mbili za wito wake, anaitwa Lawi, ambalo ni jina lake lingine (<a href=\"https://ref.ly/Mark2:14-Mark2:15\">Marko 2:14–15</a>; <a href=\"https://ref.ly/Luke5:27-Luke5:29\">Luka 5:27–29</a>; linganisha <a href=\"https://ref.ly/Matt9:9-Matt9:10\">Mathayo 9:9–10</a>). Baba yake alikuwa Alfayo (<a href=\"https://ref.ly/Mark2:14\">Marko 2:14</a>). Hatufahamu kama yeye ni kaka wa Yakobo, mwana wa Alfayo, kwa kuwa hawajatajwa kuwa ndugu katika orodha za mitume (kama jozi zingine za ndugu zinavyotajwa).</p><p>Wayahudi waliokusanya kodi kwa Warumi mara nyingi walionekana kama wenye dhambi na Wayahudi wengine. Walipata pesa kwa kufanya kazi na vikosi vya uvamizi na walijihusisha na unyang&apos;anyi wa kisheria. Ni muhimu kwamba Yesu alichagua mtoza kodi kuwa mmoja wa wafuasi wake. Wakati Mafarisayo walimkosoa Yesu kwa kukubali mwaliko wa Mathayo wa chakula cha jioni na kula na watoza kodi na wenye dhambi wengine, Yesu alitumia fursa hiyo kufundisha kuhusu huruma. Alisisitiza kwamba alikuja kwa ajili ya wenye dhambi, si kwa wale wanaojiona kuwa wenye haki (<a href=\"https://ref.ly/Matt9:9-Matt9:13\">Mathayo 9:9–13</a>; <a href=\"https://ref.ly/Mark2:14-Mark2:17\">Marko 2:14–17</a>; <a href=\"https://ref.ly/Luke5:27-Luke5:32\">Luka 5:27–32</a>). Mathayo alifuata wito wa Yesu mara moja, akiacha kila kitu nyuma (<a href=\"https://ref.ly/Luke5:28\">Luka 5:28</a>). Hii inapendekeza kwamba hakurudi tena kwenye ukusanyaji wa kodi au maisha yake ya zamani.</p><p>Injili ya Mathayo iliandikwa kwa ajili ya Wayahudi na inatoa mtazamo wa Kiyahudi kuhusu maisha na mafundisho ya Yesu. Inajumuisha mada muhimu kwa wale wenye asili ya Kiyahudi. Injili hii ilikuwa maarufu sana katika kanisa la awali, na hii inawezekana ndiyo sababu inaonekana kwanza katika Agano Jipya.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt9:9-Matt9:10\">Mathayo 9:9–10</a>; <a href=\"https://ref.ly/Matt10:3\">10:3</a>; <a href=\"https://ref.ly/Mark2:14-Mark2:15\">Marko 2:14–15</a>; <a href=\"https://ref.ly/Mark3:18\">3:18</a>; <a href=\"https://ref.ly/Luke5:27-Luke5:29\">Luka 5:27–29</a>; <a href=\"https://ref.ly/Luke6:15\">6:15</a>; <a href=\"https://ref.ly/Acts1:13\">Matendo 1:13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002014",
+          "end_ref_usfm": "MRK 2:14"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "42005028",
+          "start_ref_usfm": "LUK 5:28",
+          "end_ref": "42005028",
+          "end_ref_usfm": "LUK 5:28"
+        },
+        {
+          "start_ref": "42006015",
+          "start_ref_usfm": "LUK 6:15",
+          "end_ref": "42006015",
+          "end_ref_usfm": "LUK 6:15"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "40009009",
+          "start_ref_usfm": "MAT 9:9",
+          "end_ref": "40009013",
+          "end_ref_usfm": "MAT 9:13"
+        },
+        {
+          "start_ref": "42005027",
+          "start_ref_usfm": "LUK 5:27",
+          "end_ref": "42005032",
+          "end_ref_usfm": "LUK 5:32"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002015",
+          "end_ref_usfm": "MRK 2:15"
+        },
+        {
+          "start_ref": "40009009",
+          "start_ref_usfm": "MAT 9:9",
+          "end_ref": "40009010",
+          "end_ref_usfm": "MAT 9:10"
+        },
+        {
+          "start_ref": "42005027",
+          "start_ref_usfm": "LUK 5:27",
+          "end_ref": "42005029",
+          "end_ref_usfm": "LUK 5:29"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002017",
+          "end_ref_usfm": "MRK 2:17"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

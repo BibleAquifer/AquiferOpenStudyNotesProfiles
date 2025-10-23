@@ -1,0 +1,172 @@
+[
+  {
+    "content_id": 734297,
+    "reference_id": 203397,
+    "title": "Ishmaeli",
+    "media_type": "Text",
+    "index_reference": "ishmaeli",
+    "language": "swh",
+    "content": "<p>Ishmaeli alikuwa mwana wa kwanza wa Abrahamu, alizaliwa na Hajiri, mtumishi wa Misri wa Sara. Mvulana alizaliwa karibu na Hebroni wakati Abrahamu alikuwa na umri wa miaka themanini na sita (<a href=\"https://ref.ly/Gen13:18\">Mwanzo 13:18</a>; <a href=\"https://ref.ly/Gen16:16\">16:16</a>). Mungu aliahidi kumfanya Abrahamu asiye na watoto kuwa taifa kubwa (<a href=\"https://ref.ly/Gen12:2\">Mwanzo 12:2</a>). Mungu alimhakikishia kwamba angekuwa na mwana kama mrithi wake (<a href=\"https://ref.ly/Gen15:4\">15:4</a>). Ishmaeli alizaliwa wakati Abrahamu alijaribu kutimiza ahadi ya Mungu kwa njia za kibinadamu (tazama <a href=\"https://ref.ly/Gen16:1-Gen16:16\">Mwanzo 16:1–16</a>; <a href=\"https://ref.ly/Gal4:23\">Wagalatia 4:23</a>). Hata hivyo, Mungu bado alitimiza malengo yake kupitia Sara (tazama <a href=\"https://ref.ly/Gen17:15-Gen17:18\">Mwanzo 17:15–18:15</a>; <a href=\"https://ref.ly/Gen21:1-Gen21:7\">21:1–7</a>).</p><p>Mungu alisema Sara angepata mwana ili kutimiza ahadi (<a href=\"https://ref.ly/Gen17:15-Gen17:16\">Mwanzo 17:15–16</a>). Abrahamu alimwomba Mungu amkubali Ishmaeli (<a href=\"https://ref.ly/Gen17:17-Gen17:18\">17:17–18</a>). Ishmaeli hakuwa mwana wa ahadi kwa sababu makubaliano maalum ya Mungu (agano) yalikuwa na Isaka (<a href=\"https://ref.ly/Gen17:19\">Mwanzo 17:19</a>). Hata hivyo, Mungu alimbariki Ishmaeli na kumfanya baba wa taifa kubwa (<a href=\"https://ref.ly/Gen17:20-Gen17:21\">Mwanzo 17:20–21</a>).</p><p>Wakati Ishmaeli alipokuwa na miaka kumi na mitatu, alitahiriwa kama sehemu ya agano la Mungu na Abrahamu (<a href=\"https://ref.ly/Gen17:9-Gen17:14\">Mwanzo 17:9–14</a>, <a href=\"https://ref.ly/Gen17:23-Gen17:27\">23–27</a>). Katika sherehe ya kumwachisha Isaka kunyonya, wakati Ishmaeli alipokuwa na umri wa miaka kumi na saba, alimdhihaki Isaka (<a href=\"https://ref.ly/Gen21:9\">Mwanzo 21:9</a>). Kwa sababu hiyo, Abrahamu alimpeleka Ishmaeli na Hajiri mbali na akawapa mahitaji. Malaika wa Mungu alimsaidia Hajiri kuishi katika nyika, na Ishmaeli akawa mwindaji. Alikaa katika nyika ya Parani na akaoa mwanamke wa Misri (<a href=\"https://ref.ly/Gen21:20-Gen21:21\">Mwanzo 21:20–21</a>). Ishmaeli alisaidia kumzika Abrahamu (<a href=\"https://ref.ly/Gen25:9-Gen25:10\">Mwanzo 25:9–10</a>). Alimpa binti yake Mahalathi kuolewa na Esau (<a href=\"https://ref.ly/Gen28:9\">28:9</a>). Ishmaeli alikufa akiwa na umri wa miaka 137 (<a href=\"https://ref.ly/Gen25:17\">25:17</a>). Wanawe kumi na wawili wametajwa katika <a href=\"https://ref.ly/Gen25:13-Gen25:15\">Mwanzo 25:13–15</a>.</p><p>Paulo alimtaja Ishmaeli ili kuwatia moyo Wagalatia kumtumaini Mungu badala ya sheria (tazama <a href=\"https://ref.ly/Gal4:21-Gal4:31\">Wagalatia 4:21–31</a>). Wale wanaotegemea sheria hawatarithi ufalme, kama vile mwana wa mwanamke mtumwa hakurithi pamoja na mwana wa mwanamke huru (<a href=\"https://ref.ly/Gal4:30\">Wagalatia 4:30</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen16:11-Gen16:16\">Mwanzo 16:11–16</a>; <a href=\"https://ref.ly/Gen17:18-Gen17:26\">Mwanzo 17:18–26</a>; <a href=\"https://ref.ly/Gen21:8-Gen21:21\">21:8–21</a>; <a href=\"https://ref.ly/Gen25:9-Gen25:18\">25:9–18</a>; <a href=\"https://ref.ly/Gen28:9\">28:9</a>; <a href=\"https://ref.ly/Gal4:21-Gal4:31\">Wagalatia 4:21–31</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012002",
+          "start_ref_usfm": "GEN 12:2",
+          "end_ref": "01012002",
+          "end_ref_usfm": "GEN 12:2"
+        },
+        {
+          "start_ref": "01013018",
+          "start_ref_usfm": "GEN 13:18",
+          "end_ref": "01013018",
+          "end_ref_usfm": "GEN 13:18"
+        },
+        {
+          "start_ref": "01015004",
+          "start_ref_usfm": "GEN 15:4",
+          "end_ref": "01015004",
+          "end_ref_usfm": "GEN 15:4"
+        },
+        {
+          "start_ref": "01016016",
+          "start_ref_usfm": "GEN 16:16",
+          "end_ref": "01016016",
+          "end_ref_usfm": "GEN 16:16"
+        },
+        {
+          "start_ref": "01017019",
+          "start_ref_usfm": "GEN 17:19",
+          "end_ref": "01017019",
+          "end_ref_usfm": "GEN 17:19"
+        },
+        {
+          "start_ref": "01021009",
+          "start_ref_usfm": "GEN 21:9",
+          "end_ref": "01021009",
+          "end_ref_usfm": "GEN 21:9"
+        },
+        {
+          "start_ref": "01025017",
+          "start_ref_usfm": "GEN 25:17",
+          "end_ref": "01025017",
+          "end_ref_usfm": "GEN 25:17"
+        },
+        {
+          "start_ref": "01028009",
+          "start_ref_usfm": "GEN 28:9",
+          "end_ref": "01028009",
+          "end_ref_usfm": "GEN 28:9"
+        },
+        {
+          "start_ref": "48004023",
+          "start_ref_usfm": "GAL 4:23",
+          "end_ref": "48004023",
+          "end_ref_usfm": "GAL 4:23"
+        },
+        {
+          "start_ref": "48004030",
+          "start_ref_usfm": "GAL 4:30",
+          "end_ref": "48004030",
+          "end_ref_usfm": "GAL 4:30"
+        },
+        {
+          "start_ref": "01016001",
+          "start_ref_usfm": "GEN 16:1",
+          "end_ref": "01016016",
+          "end_ref_usfm": "GEN 16:16"
+        },
+        {
+          "start_ref": "01017009",
+          "start_ref_usfm": "GEN 17:9",
+          "end_ref": "01017014",
+          "end_ref_usfm": "GEN 17:14"
+        },
+        {
+          "start_ref": "01017015",
+          "start_ref_usfm": "GEN 17:15",
+          "end_ref": "01017016",
+          "end_ref_usfm": "GEN 17:16"
+        },
+        {
+          "start_ref": "48004021",
+          "start_ref_usfm": "GAL 4:21",
+          "end_ref": "48004031",
+          "end_ref_usfm": "GAL 4:31"
+        },
+        {
+          "start_ref": "01025009",
+          "start_ref_usfm": "GEN 25:9",
+          "end_ref": "01025010",
+          "end_ref_usfm": "GEN 25:10"
+        },
+        {
+          "start_ref": "01017020",
+          "start_ref_usfm": "GEN 17:20",
+          "end_ref": "01017021",
+          "end_ref_usfm": "GEN 17:21"
+        },
+        {
+          "start_ref": "01021020",
+          "start_ref_usfm": "GEN 21:20",
+          "end_ref": "01021021",
+          "end_ref_usfm": "GEN 21:21"
+        },
+        {
+          "start_ref": "01025013",
+          "start_ref_usfm": "GEN 25:13",
+          "end_ref": "01025015",
+          "end_ref_usfm": "GEN 25:15"
+        },
+        {
+          "start_ref": "01017017",
+          "start_ref_usfm": "GEN 17:17",
+          "end_ref": "01017018",
+          "end_ref_usfm": "GEN 17:18"
+        },
+        {
+          "start_ref": "01017023",
+          "start_ref_usfm": "GEN 17:23",
+          "end_ref": "01017027",
+          "end_ref_usfm": "GEN 17:27"
+        },
+        {
+          "start_ref": "01021008",
+          "start_ref_usfm": "GEN 21:8",
+          "end_ref": "01021021",
+          "end_ref_usfm": "GEN 21:21"
+        },
+        {
+          "start_ref": "01017015",
+          "start_ref_usfm": "GEN 17:15",
+          "end_ref": "01017018",
+          "end_ref_usfm": "GEN 17:18"
+        },
+        {
+          "start_ref": "01021001",
+          "start_ref_usfm": "GEN 21:1",
+          "end_ref": "01021007",
+          "end_ref_usfm": "GEN 21:7"
+        },
+        {
+          "start_ref": "01016011",
+          "start_ref_usfm": "GEN 16:11",
+          "end_ref": "01016016",
+          "end_ref_usfm": "GEN 16:16"
+        },
+        {
+          "start_ref": "01017018",
+          "start_ref_usfm": "GEN 17:18",
+          "end_ref": "01017026",
+          "end_ref_usfm": "GEN 17:26"
+        },
+        {
+          "start_ref": "01025009",
+          "start_ref_usfm": "GEN 25:9",
+          "end_ref": "01025018",
+          "end_ref_usfm": "GEN 25:18"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

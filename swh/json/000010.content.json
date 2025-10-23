@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 734395,
+    "reference_id": 203495,
+    "title": "Anasi na Kayafa",
+    "media_type": "Text",
+    "index_reference": "anasi na kayafa",
+    "language": "swh",
+    "content": "<p>Anasi na Kayafa walikuwa makuhani wakuu wakati wa Yesu. Walihusika sana katika kumhukumu Yesu hadi kifo.</p><p>Anasi alikuwa kuhani mkuu wa Kiyahudi karibu mwaka wa 6 hadi 15 Baada ya Kristo (BK). Hata baada ya prokurata wa Kirumi wa Yudea kumuondoa, alibaki na nguvu na ushawishi mkubwa katika baraza kuu la Kiyahudi. Watu bado walimwita &quot;kuhani mkuu&quot; miaka kumi na tano hadi ishirini baadaye (<a href=\"https://ref.ly/Luke3:2\">Luka 3:2</a>; <a href=\"https://ref.ly/Acts4:6\">Matendo 4:6</a>). Hii inaweza kuwa kwa sababu Wayahudi waliamini makuhani wakuu walishikilia nafasi yao maisha yao yote. Watano wa wanawe na mkwe wake, Kayafa, walikuwa makuhani wakuu baada yake. Kulingana na injili ya Yohana, wakati Yesu alikamatwa, alipelekwa kwanza kwa Anasi kwa mahojiano kabla ya kukabidhiwa kwa Kayafa kwa kesi rasmi (<a href=\"https://ref.ly/John18:13-John18:24\">Yohana 18:13–24</a>).</p><p>Kayafa alikuwa kuhani mkuu wa Kiyahudi kutoka takriban mwaka18 hadi 36 BK. Alifanya kazi kwa karibu na baba mkwe wake mwenye ushawishi, Anasi. Kayafa alitoa hoja katika baraza kuu kwamba kumtoa Yesu sadaka kungekuwa bora kuliko kuhatarisha uharibifu wa taifa (<a href=\"https://ref.ly/John11:49-John11:50\">Yohana 11:49–50</a>). Mungu alimpa maneno haya ya kinabii kwa sababu alikuwa kuhani mkuu (<a href=\"https://ref.ly/John11:51-John11:52\">Yohana 11:51–52</a>). Wakati wa kesi ya Yesu, Kayafa alirarua mavazi yake Yesu alipodai kuwa Mwana wa Mungu. Alishawishi baraza kuu kumhukumu Yesu kwa kukufuru (<a href=\"https://ref.ly/Matt26:57-Matt26:66\">Mathayo 26:57–66</a>).</p><p>Muda mfupi baada ya kuuawa kwa Yesu, viongozi wa Kiyahudi walihofia kuhusu ongezeko la idadi ya wafuasi wa Kristo. Anasi na Kayafa waliwauliza Petro na Yohana kuhusu kumponya ombaomba aliyekuwa kilema na kuhubiri juu ya ufufuo wa wafu (<a href=\"https://ref.ly/Acts4:5-Acts4:7\">Matendo 4:5–7</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt26:3-Matt26:5\">Mathayo 26:3–5</a>, <a href=\"https://ref.ly/Matt26:57-Matt26:67\">57–67</a>; <a href=\"https://ref.ly/Mark14:53-Mark14:65\">Marko 14:53–65</a>; <a href=\"https://ref.ly/Luke3:2\">Luka 3:2</a>; <a href=\"https://ref.ly/John11:49-John11:53\">Yohana 11:49–53</a>; <a href=\"https://ref.ly/John18:13-John18:28\">Yohana 18:13–28</a>; <a href=\"https://ref.ly/Acts4:5-Acts4:7\">Matendo 4:5–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42003002",
+          "start_ref_usfm": "LUK 3:2",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "44004006",
+          "start_ref_usfm": "ACT 4:6",
+          "end_ref": "44004006",
+          "end_ref_usfm": "ACT 4:6"
+        },
+        {
+          "start_ref": "41014053",
+          "start_ref_usfm": "MRK 14:53",
+          "end_ref": "41014065",
+          "end_ref_usfm": "MRK 14:65"
+        },
+        {
+          "start_ref": "43011051",
+          "start_ref_usfm": "JHN 11:51",
+          "end_ref": "43011052",
+          "end_ref_usfm": "JHN 11:52"
+        },
+        {
+          "start_ref": "40026003",
+          "start_ref_usfm": "MAT 26:3",
+          "end_ref": "40026005",
+          "end_ref_usfm": "MAT 26:5"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026066",
+          "end_ref_usfm": "MAT 26:66"
+        },
+        {
+          "start_ref": "44004005",
+          "start_ref_usfm": "ACT 4:5",
+          "end_ref": "44004007",
+          "end_ref_usfm": "ACT 4:7"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018024",
+          "end_ref_usfm": "JHN 18:24"
+        },
+        {
+          "start_ref": "43011049",
+          "start_ref_usfm": "JHN 11:49",
+          "end_ref": "43011050",
+          "end_ref_usfm": "JHN 11:50"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026067",
+          "end_ref_usfm": "MAT 26:67"
+        },
+        {
+          "start_ref": "43011049",
+          "start_ref_usfm": "JHN 11:49",
+          "end_ref": "43011053",
+          "end_ref_usfm": "JHN 11:53"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018028",
+          "end_ref_usfm": "JHN 18:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

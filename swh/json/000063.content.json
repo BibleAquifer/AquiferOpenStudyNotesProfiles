@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 734329,
+    "reference_id": 203429,
+    "title": "Mikali",
+    "media_type": "Text",
+    "index_reference": "mikali",
+    "language": "swh",
+    "content": "<p>Mikali alikuwa binti mdogo wa Mfalme Sauli (<a href=\"https://ref.ly/1Sam14:49\">1 Samweli 14:49</a>). Alikuwa mke wa kwanza wa Mfalme Daudi (<a href=\"https://ref.ly/1Sam18:17-1Sam18:27\">18:17–27</a>). Alikuwa na umuhimu katika mabadiliko kutoka utawala wa Sauli hadi wa Daudi.</p><p>Kwenye Mashariki ya Kale, familia zinazoongoza mara nyingi zilipanga ndoa kwa sababu za kisiasa. Sauli alijaribu kumtega Daudi kwa kumwahidi binti yake mkubwa, Merabu, ikiwa angepigana na Wafilisti. Daudi, shujaa mwenye nguvu, alikuwa akigeuka kuwa kiongozi katika ufalme wa Sauli. Mfalme alipaswa kufurahia kuwa na mshirika kama huyo, lakini hivi karibuni alikua na wivu wa mafanikio ya Daudi na akaanza kuwa na shaka na malengo yake.</p><p>Sauli alitarajia Daudi angekufa vitani, lakini mpango huo haukufaulu. Baadaye, Sauli aligundua kwamba binti yake mdogo, Mikali, alimpenda Daudi (<a href=\"https://ref.ly/1Sam18:20\">1 Samweli 18:20</a>). Hii ilimpa nafasi nyingine ya kumshawishi Daudi kupigana na Wafilisti. Wakati huu, Daudi alikubali. Daudi aliporudi akiwa mshindi, Sauli alilazimika kumpa Daudi binti yake kwa ndoa. Muungano huu wa ndoa ulimsaidia Daudi alipokuwa akijenga sifa zake na makabila ya kaskazini (<a href=\"https://ref.ly/2Sam3:13-2Sam3:16\">2 Samweli 3:13–16</a>).</p><p>Mikali alimpenda Daudi mapema katika uhusiano wao na hata akamdanganya baba yake ili kumsaidia Daudi kutoroka mpango wa kumuua (<a href=\"https://ref.ly/1Sam19:11-1Sam19:17\">1 Samweli 19:11–17</a>). Baada ya Daudi kuondoka katika mahakama ya Sauli, Sauli alipanga ndoa nyingine kwa ajili yake (<a href=\"https://ref.ly/1Sam25:44\">1 Samweli 25:44</a>). Hata hivyo, baadaye Daudi alimaliza ndoa hiyo ili kumrudisha Mikali (<a href=\"https://ref.ly/2Sam3:13-2Sam3:16\">2 Samweli 3:13–16</a>). Mikali alionyesha kutomheshimu Daudi alipocheza kwa furaha mbele ya Sanduku la Agano lilipokuwa likiletwa Yerusalemu (<a href=\"https://ref.ly/2Sam6:16-2Sam6:23\">2 Samweli 6:16–23</a>). Kwa sababu ya kutomheshimu Mfalme Daudi, Mikali hakuweza kupata watoto.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/1Sam14:49\">1 Samweli 14:49</a>; <a href=\"https://ref.ly/1Sam18:17-1Sam18:30\">18:17–30</a>; <a href=\"https://ref.ly/1Sam19:11-1Sam19:17\">19:11–17</a>; <a href=\"https://ref.ly/2Sam3:13-2Sam3:16\">2 Samweli 3:13–16</a>; <a href=\"https://ref.ly/2Sam6:16-2Sam6:23\">6:16–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09014049",
+          "start_ref_usfm": "1SA 14:49",
+          "end_ref": "09014049",
+          "end_ref_usfm": "1SA 14:49"
+        },
+        {
+          "start_ref": "09018020",
+          "start_ref_usfm": "1SA 18:20",
+          "end_ref": "09018020",
+          "end_ref_usfm": "1SA 18:20"
+        },
+        {
+          "start_ref": "09025044",
+          "start_ref_usfm": "1SA 25:44",
+          "end_ref": "09025044",
+          "end_ref_usfm": "1SA 25:44"
+        },
+        {
+          "start_ref": "09019011",
+          "start_ref_usfm": "1SA 19:11",
+          "end_ref": "09019017",
+          "end_ref_usfm": "1SA 19:17"
+        },
+        {
+          "start_ref": "10006016",
+          "start_ref_usfm": "2SA 6:16",
+          "end_ref": "10006023",
+          "end_ref_usfm": "2SA 6:23"
+        },
+        {
+          "start_ref": "09018017",
+          "start_ref_usfm": "1SA 18:17",
+          "end_ref": "09018027",
+          "end_ref_usfm": "1SA 18:27"
+        },
+        {
+          "start_ref": "10003013",
+          "start_ref_usfm": "2SA 3:13",
+          "end_ref": "10003016",
+          "end_ref_usfm": "2SA 3:16"
+        },
+        {
+          "start_ref": "09018017",
+          "start_ref_usfm": "1SA 18:17",
+          "end_ref": "09018030",
+          "end_ref_usfm": "1SA 18:30"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

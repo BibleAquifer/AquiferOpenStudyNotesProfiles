@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 734409,
+    "reference_id": 203509,
+    "title": "Nero",
+    "media_type": "Text",
+    "index_reference": "nero",
+    "language": "swh",
+    "content": "<p>Nero alikuwa mfalme wa Rumi mnamo AD 54 akiwa na umri wa miaka 17 baada ya mama yake kumtia sumu kwenye kinywaji cha mfalme Klaudio. Nero alipenda kupata umakini. Alijulikana kwa tabia zake zisizo za maadili na matumizi ya kupita kiasi. Katika miaka ya mwanzo ya utawala wake, alikuwa na washauri wawili ambao waliendesha ufalme kwa ufanisi:</p><ul><li><p>Burrus alikuwa Mkuu wa Walinzi wa Praetoriani (kamanda wa wanajeshi maalum wa mfalme).</p></li><li><p>Seneka alikuwa mwanafalsafa maarufu aliyefuata Ustoiki, falsafa inayosisitiza mantiki, kujidhibiti, na wema.</p></li></ul><p>Paulo alipowaandikia Warumi karibu AD 57, aliwahimiza &quot;kutii mamlaka za serikali&quot; kama &quot;zilizowekwa na Mungu&quot; (<a href=\"https://ref.ly/Rom13:1\">Warumi 13:1</a>), wakati ambapo tabia mbaya ya Nero ilikuwa inajulikana sana.</p><p>Vitendo vibaya zaidi vya Nero vilitokea baada ya kupanga mauaji ya mama yake mnamo AD 59 (mwaka huo huo Paulo alikata rufaa kwa Kaisari, <a href=\"https://ref.ly/Acts25:11\">Matendo 25:11</a>). Mnamo AD 62, alimfukuza na kisha kumuua mke wake, akaoa mpenzi wake, na kulazimisha Burrus na Seneca kustaafu. Mnamo AD 64, moto uliharibu sehemu kubwa ya Rumi. Wakati huo, Nero alikuwa mbali na jiji, lakini wengi waliamini uvumi kwamba yeye mwenyewe alikuwa ameanzisha moto huo. Nero aliwalaumu Wakristo, akiwatuhumu kwa uhalifu huo. Watu waliona Wakristo kama maadui wa jamii na wanaostahili adhabu, ingawa wachache waliamini kwamba wao walianzisha moto huo. Walikuwa &quot;walihukumiwa si kwa sababu ya uchomaji moto bali kwa chuki dhidi ya jamii ya wanadamu&quot; (Tacitus, <em>Annals</em> 15.44). Mateso ya Wakristo huko Rumi yalikuwa makali; inawezekana kwamba Petro na Paulo waliuawa huko Rumi wakati huu.</p><p>Mnamo AD 66, uasi wa Kiyahudi ulianza Kaisaria. Nero alimtuma jenerali wake, Vespasian, kukomesha uasi huo. Nero alionyesha hamu ndogo katika utawala na alitumia miaka miwili akifanya maonyesho Ugiriki. Aliwaachia utawala wakuu wa Kirumi. Aliporudi Rumi, magavana huko Ufaransa, Spania, na Afrika walimpinga. Kama matokeo, Nero alijiua mnamo AD 68, akisema, “Msanii gani anakufa nami!” Alikuwa mfalme wa mwisho na mbaya zaidi kutoka ukoo wa Yulio Kaisari. (Tazama pia maelezo ya masomo kwenye <span data-bnType=\"resourceReference\" data-resourceId=\"24415\" data-resourceType=\"TyndaleStudyNotes\">Ufunuo 13:3</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"24406\" data-resourceType=\"TyndaleStudyNotes\">11</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"24412\" data-resourceType=\"TyndaleStudyNotes\">18</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"24473\" data-resourceType=\"TyndaleStudyNotes\">17:8</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"24461\" data-resourceType=\"TyndaleStudyNotes\">10–11</span>.)</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Rom13:1-Rom13:7\">Warumi 13:1–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44025011",
+          "start_ref_usfm": "ACT 25:11",
+          "end_ref": "44025011",
+          "end_ref_usfm": "ACT 25:11"
+        },
+        {
+          "start_ref": "45013001",
+          "start_ref_usfm": "ROM 13:1",
+          "end_ref": "45013001",
+          "end_ref_usfm": "ROM 13:1"
+        },
+        {
+          "start_ref": "45013001",
+          "start_ref_usfm": "ROM 13:1",
+          "end_ref": "45013007",
+          "end_ref_usfm": "ROM 13:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

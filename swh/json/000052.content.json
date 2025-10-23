@@ -1,0 +1,142 @@
+[
+  {
+    "content_id": 734305,
+    "reference_id": 203405,
+    "title": "Lea",
+    "media_type": "Text",
+    "index_reference": "lea",
+    "language": "swh",
+    "content": "<p>Lea alikuwa binti wa kwanza wa Labani, mke wa kwanza wa Yakobo ambaye hakumpenda, na dada mkubwa wa Raheli.</p><p>Yakobo alimdanganya baba yake Isaka ili apate baraka zilizokusudiwa kwa Esau (<a href=\"https://ref.ly/Gen27:1-Gen27:40\">Mwanzo 27:1–40</a>). Kisha akaenda kwa mjomba wake Labani huko Mesopotamia ili kuepuka hasira ya Esau na kutafuta mke (<a href=\"https://ref.ly/Gen27:41-Gen28:5\">Mwanzo 27:41–28:5</a>). Yakobo alimpenda sana binamu yake Raheli na alikubaliana na baba yake kwamba atamuoa baada ya kufanya kazi kwa miaka saba (<a href=\"https://ref.ly/Gen29:17-Gen29:20\">Mwanzo 29:17–20</a>). Wakati wa karamu ya harusi, Labani alimdanganya Yakobo kwa kumpa Lea badala ya Raheli (<a href=\"https://ref.ly/Gen29:21-Gen29:25\">Mwanzo 29:21–25</a>). Labani alisema kuwa desturi ilihitaji binti mkubwa kuolewa kwanza (<a href=\"https://ref.ly/Gen29:26\">Mwanzo 29:26</a>). Lea hakuwa na mvuto kama dada yake (<a href=\"https://ref.ly/Gen29:17\">Mwanzo 29:17</a>). Yakobo hakumpenda (<a href=\"https://ref.ly/Gen29:30-Gen29:35\">Mwanzo 29:30–35</a>).</p><p>Yakobo alimpenda Raheli sana kiasi kwamba alifanya kazi miaka saba zaidi ili kumuoa. Kwa sababu Yakobo alimpenda Raheli zaidi, Bwana alimbariki Lea kwa kumpa wana sita na binti mmoja kabla Raheli hajapata watoto (<a href=\"https://ref.ly/Gen29:31-Gen30:22\">Mwanzo 29:31–30:22</a>):</p><ol><li><p>Rubeni</p></li><li><p>Simeoni</p></li><li><p>Lawi</p></li><li><p>Yuda</p></li><li><p>Isakari</p></li><li><p>Zebuluni</p></li><li><p>Dina</p></li></ol><p>Wakati fulani, Raheli alibadilishana na Lea mandraki kwa muda na Yakobo. Watu walidhani mandraki zilisaidia wanawake kupata mimba. Baada ya usiku na Yakobo, Lea alipata mimba na akajifungua mwanawe wa tano (<a href=\"https://ref.ly/Gen30:14-Gen30:17\">Mwanzo 30:14–17</a>). Hii iliongeza faida yake katika ushindani wake na Raheli.</p><p>Lea alikuwa mama wa makabila mawili muhimu katika historia ya Waisraeli. Kabila la Walawi lilikuwa kabila la makuhani. Kabila la Yuda likawa kabila la kifalme, likiongoza kwa Yesu Kristo, mzao wa ahadi (<a href=\"https://ref.ly/Gen3:15\">Mwanzo 3:15</a>; <a href=\"https://ref.ly/Gen12:2-Gen12:3\">12:2–3</a>; <a href=\"https://ref.ly/2Sam7:16\">2 Samweli 7:16</a>; <a href=\"https://ref.ly/Matt1:1\">Mathayo 1:1</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen29:14-Gen29:35\">Mwanzo 29:14–35</a>; <a href=\"https://ref.ly/Gen30:9-Gen30:21\">30:9–21</a>; <a href=\"https://ref.ly/Gen31:4-Gen31:16\">31:4–16</a>; <a href=\"https://ref.ly/Gen33:1-Gen33:7\">33:1–7</a>; <a href=\"https://ref.ly/Gen34:1\">34:1</a>; <a href=\"https://ref.ly/Gen46:8-Gen46:15\">46:8–15</a>; <a href=\"https://ref.ly/Gen49:31\">49:31</a>; <a href=\"https://ref.ly/Ruth4:11\">Ruthu 4:11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01003015",
+          "start_ref_usfm": "GEN 3:15",
+          "end_ref": "01003015",
+          "end_ref_usfm": "GEN 3:15"
+        },
+        {
+          "start_ref": "01029017",
+          "start_ref_usfm": "GEN 29:17",
+          "end_ref": "01029017",
+          "end_ref_usfm": "GEN 29:17"
+        },
+        {
+          "start_ref": "01029026",
+          "start_ref_usfm": "GEN 29:26",
+          "end_ref": "01029026",
+          "end_ref_usfm": "GEN 29:26"
+        },
+        {
+          "start_ref": "01034001",
+          "start_ref_usfm": "GEN 34:1",
+          "end_ref": "01034001",
+          "end_ref_usfm": "GEN 34:1"
+        },
+        {
+          "start_ref": "01049031",
+          "start_ref_usfm": "GEN 49:31",
+          "end_ref": "01049031",
+          "end_ref_usfm": "GEN 49:31"
+        },
+        {
+          "start_ref": "08004011",
+          "start_ref_usfm": "RUT 4:11",
+          "end_ref": "08004011",
+          "end_ref_usfm": "RUT 4:11"
+        },
+        {
+          "start_ref": "10007016",
+          "start_ref_usfm": "2SA 7:16",
+          "end_ref": "10007016",
+          "end_ref_usfm": "2SA 7:16"
+        },
+        {
+          "start_ref": "40001001",
+          "start_ref_usfm": "MAT 1:1",
+          "end_ref": "40001001",
+          "end_ref_usfm": "MAT 1:1"
+        },
+        {
+          "start_ref": "01012002",
+          "start_ref_usfm": "GEN 12:2",
+          "end_ref": "01012003",
+          "end_ref_usfm": "GEN 12:3"
+        },
+        {
+          "start_ref": "01029021",
+          "start_ref_usfm": "GEN 29:21",
+          "end_ref": "01029025",
+          "end_ref_usfm": "GEN 29:25"
+        },
+        {
+          "start_ref": "01029031",
+          "start_ref_usfm": "GEN 29:31",
+          "end_ref": "01030022",
+          "end_ref_usfm": "GEN 30:22"
+        },
+        {
+          "start_ref": "01030014",
+          "start_ref_usfm": "GEN 30:14",
+          "end_ref": "01030017",
+          "end_ref_usfm": "GEN 30:17"
+        },
+        {
+          "start_ref": "01027001",
+          "start_ref_usfm": "GEN 27:1",
+          "end_ref": "01027040",
+          "end_ref_usfm": "GEN 27:40"
+        },
+        {
+          "start_ref": "01027041",
+          "start_ref_usfm": "GEN 27:41",
+          "end_ref": "01028005",
+          "end_ref_usfm": "GEN 28:5"
+        },
+        {
+          "start_ref": "01033001",
+          "start_ref_usfm": "GEN 33:1",
+          "end_ref": "01033007",
+          "end_ref_usfm": "GEN 33:7"
+        },
+        {
+          "start_ref": "01029017",
+          "start_ref_usfm": "GEN 29:17",
+          "end_ref": "01029020",
+          "end_ref_usfm": "GEN 29:20"
+        },
+        {
+          "start_ref": "01029030",
+          "start_ref_usfm": "GEN 29:30",
+          "end_ref": "01029035",
+          "end_ref_usfm": "GEN 29:35"
+        },
+        {
+          "start_ref": "01029014",
+          "start_ref_usfm": "GEN 29:14",
+          "end_ref": "01029035",
+          "end_ref_usfm": "GEN 29:35"
+        },
+        {
+          "start_ref": "01030009",
+          "start_ref_usfm": "GEN 30:9",
+          "end_ref": "01030021",
+          "end_ref_usfm": "GEN 30:21"
+        },
+        {
+          "start_ref": "01031004",
+          "start_ref_usfm": "GEN 31:4",
+          "end_ref": "01031016",
+          "end_ref_usfm": "GEN 31:16"
+        },
+        {
+          "start_ref": "01046008",
+          "start_ref_usfm": "GEN 46:8",
+          "end_ref": "01046015",
+          "end_ref_usfm": "GEN 46:15"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

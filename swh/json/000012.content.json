@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 734406,
+    "reference_id": 203506,
+    "title": "Apolo",
+    "media_type": "Text",
+    "index_reference": "apolo",
+    "language": "swh",
+    "content": "<p>Apolo alikuwa Myahudi anayezungumza Kigiriki ambaye alielewa Maandiko vizuri. Alikuwa mwinjilisti mahiri (mtu aliyeshiriki Habari Njema kuhusu Yesu na watu wengi) na mtetezi wa imani ya Kikristo (mtu aliyelinda imani za Kikristo). Alitoka Aleksandria, Misri, ambayo ilikuwa na jamii kubwa ya Kiyahudi. Apolo huenda alijifunza kutoka kwa wafuasi wa Yohana Mbatizaji. Kisha alihubiri kwa ujasiri na shauku kuhusu Yesu katika masinagogi ya Kiyahudi, ingawa hakujua kuhusu ubatizo wa Kikristo.</p><p>Priskila na Akila waliposikia Apolo akihubiri huko Efeso, walimkaribisha nyumbani kwao na kumweleza njia ya Kristo kwa kina zaidi. Waumini wa Efeso walimtia moyo kwa sababu walitambua kwamba Mungu alikuwa amempa kipawa kwa ajili ya huduma. Baadaye, Apolo alisafiri kwenda mji wa Korintho huko Akaya, ambako aliwasaidia sana waumini. Alikuwa mtetezi mwenye ufanisi wa Habari Njema kuhusu Yesu katika mijadala ya hadhara na Wayahudi, akionyesha kwa ujasiri kwamba Yesu ni Masihi (mteule wa Mungu) kama ilivyotabiriwa katika Maandiko (<a href=\"https://ref.ly/Acts18:24-Acts18:28\">Matendo 18:24–28</a>).</p><p>Apolo alikuwa msemaji mahiri. Alijulikana sana miongoni mwa baadhi ya Wakristo huko Korintho kwa mtindo wake wa kiakili. Huduma yake yenye nguvu iliwavutia watu zaidi kuliko ya Paulo (<a href=\"https://ref.ly/1Cor1:11-1Cor1:12\">1 Wakorintho 1:11–12</a>). Paulo alitetea njia yake rahisi ya kuhubiri Habari Njema kuhusu Yesu, pengine kutokana na kulinganishwa na Apolo.</p><p>Muhimu, Paulo hakumkosoa Apolo kamwe. Alimwita Apolo mtumishi mwenzake na alithamini kazi ambayo Apolo alifanya. Apolo aliendeleza kazi ambayo Paulo alikuwa ameianza, na Mungu alibariki juhudi zao zote mbili (&quot;Nilipanda mbegu na Apolo akamwagilia,&quot; <a href=\"https://ref.ly/1Cor3:5-1Cor3:9\">1 Wakorintho 3:5–9</a>; <a href=\"https://ref.ly/1Cor4:1\">4:1</a>). Badala yake, Paulo alikosoa mitazamo ya juujuu na mgawanyiko miongoni mwa wale waliomfuata Apolo kwa sababu zisizo za msingi (tazama <a href=\"https://ref.ly/1Cor1:10-1Cor1:12\">1 Wakorintho 1:10–12</a>; <a href=\"https://ref.ly/1Cor3:3-1Cor3:4\">3:3–4</a>; <a href=\"https://ref.ly/1Cor4:6-1Cor4:7\">4:6–7</a>).</p><p>Apolo huenda alisita kurudi Korintho kutoka Efeso kwa sababu ya migawanyiko ambayo huduma yake ilisababisha (<a href=\"https://ref.ly/1Cor16:12\">1 Wakorintho 16:12</a>). Hata hivyo, Paulo alimhimiza kurudi hatimaye. Miaka kadhaa baadaye, wakati Apolo alipokuwa akifanya kazi kwenye kisiwa cha Krete, Paulo alimhimiza Tito kuhakikisha mahitaji ya Apolo yanatimizwa alipokuwa akiondoka kwenda sehemu isiyojulikana kwa kazi zaidi ya umishonari (<a href=\"https://ref.ly/Titus3:13\">Tito 3:13</a>). Apolo, akiwa na akili kali na ujuzi wa kuzungumza kwa nguvu, alikuwa na mbinu na mtindo tofauti na Paulo, lakini wote wawili walikuwa na ufanisi na muhimu katika kumtumikia Kristo.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Acts18:24-Acts19:1\">Matendo 18:24–19:1</a>; <a href=\"https://ref.ly/1Cor1:10-1Cor1:12\">1 Wakorintho 1:10–12</a>; <a href=\"https://ref.ly/1Cor3:3-1Cor3:9\">3:3–9</a>; <a href=\"https://ref.ly/1Cor4:1\">4:1</a>, <a href=\"https://ref.ly/1Cor4:6-1Cor4:7\">6–7</a>; <a href=\"https://ref.ly/1Cor16:12\">16:12</a>; <a href=\"https://ref.ly/2Cor10:10\">2 Wakorintho 10:10</a>; <a href=\"https://ref.ly/Titus3:13\">Tito 3:13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46004001",
+          "start_ref_usfm": "1CO 4:1",
+          "end_ref": "46004001",
+          "end_ref_usfm": "1CO 4:1"
+        },
+        {
+          "start_ref": "46016012",
+          "start_ref_usfm": "1CO 16:12",
+          "end_ref": "46016012",
+          "end_ref_usfm": "1CO 16:12"
+        },
+        {
+          "start_ref": "47010010",
+          "start_ref_usfm": "2CO 10:10",
+          "end_ref": "47010010",
+          "end_ref_usfm": "2CO 10:10"
+        },
+        {
+          "start_ref": "56003013",
+          "start_ref_usfm": "TIT 3:13",
+          "end_ref": "56003013",
+          "end_ref_usfm": "TIT 3:13"
+        },
+        {
+          "start_ref": "44018024",
+          "start_ref_usfm": "ACT 18:24",
+          "end_ref": "44018028",
+          "end_ref_usfm": "ACT 18:28"
+        },
+        {
+          "start_ref": "44018024",
+          "start_ref_usfm": "ACT 18:24",
+          "end_ref": "44019001",
+          "end_ref_usfm": "ACT 19:1"
+        },
+        {
+          "start_ref": "46003003",
+          "start_ref_usfm": "1CO 3:3",
+          "end_ref": "46003009",
+          "end_ref_usfm": "1CO 3:9"
+        },
+        {
+          "start_ref": "46003005",
+          "start_ref_usfm": "1CO 3:5",
+          "end_ref": "46003009",
+          "end_ref_usfm": "1CO 3:9"
+        },
+        {
+          "start_ref": "46001011",
+          "start_ref_usfm": "1CO 1:11",
+          "end_ref": "46001012",
+          "end_ref_usfm": "1CO 1:12"
+        },
+        {
+          "start_ref": "46001010",
+          "start_ref_usfm": "1CO 1:10",
+          "end_ref": "46001012",
+          "end_ref_usfm": "1CO 1:12"
+        },
+        {
+          "start_ref": "46003003",
+          "start_ref_usfm": "1CO 3:3",
+          "end_ref": "46003004",
+          "end_ref_usfm": "1CO 3:4"
+        },
+        {
+          "start_ref": "46004006",
+          "start_ref_usfm": "1CO 4:6",
+          "end_ref": "46004007",
+          "end_ref_usfm": "1CO 4:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

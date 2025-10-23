@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 734349,
+    "reference_id": 203449,
+    "title": "Ahazi",
+    "media_type": "Text",
+    "index_reference": "ahazi",
+    "language": "swh",
+    "content": "<p>Ahazi alitawala Yuda wakati mgumu, kutoka 743 hadi 715 Kabla ya Kristo (KK). Baba yake, Yothamu, na mwanawe, Hezekia, walipongezwa kwa kumfuata Bwana (tazama <a href=\"https://ref.ly/2Kgs15:32-2Kgs15:38\">2 Wafalme 15:32–38</a>; <a href=\"https://ref.ly/2Chr27:1-2Chr27:9\">2 Mambo ya Nyakati 27:1–9</a>; na <a href=\"https://ref.ly/2Kgs18:1-2Kgs18:8\">2 Wafalme 18:1–8</a>). Hata hivyo, Ahazi alikuwa mwovu na hata alitoa kafara ya mmoja wa wanawe kwa miungu ya uongo.</p><p>Kulikuwa na migogoro mingi wakati wa utawala wa Ahazi. Mfalme Peka wa Israeli na Mfalme Resini wa Aramu (Syria) walitaka ajiunge na muungano dhidi ya Ashuru, lakini alikataa. Kwa hivyo, Peka na Resini walishambulia Yuda na kupata ushindi mkubwa, jambo ambalo lilimtisha sana Ahazi. Nabii Isaya alimhimiza Ahazi kumtumaini Bwana, lakini Ahazi alikataa (<a href=\"https://ref.ly/Isa7:1-Isa7:25\">Isaya 7</a>).</p><p>Ahazi alionyesha ukosefu wa imani kwa Mungu kwa kumwomba Tiglath-pileseri III msaada (<a href=\"https://ref.ly/2Kgs16:7-2Kgs16:9\">2 Wafalme 16:7–9</a>). Ahazi alifanya Yuda kutegemea Ashuru kwa hatari, na kuigeuza kuwa nchi tegemezi. Mfalme wa Ashuru kisha akawashinda Waaramu katika kampeni iliyodumu kwa miaka miwili kutoka 734 hadi 732 KK na kumuua Resini. Aliidhibiti Israeli na kuongeza maeneo makubwa ya ardhi ya Peka kwenye Milki ya Ashuru (<a href=\"https://ref.ly/2Kgs15:29\">2 Wafalme 15:29</a>).</p><p>Ahazi alikuwa mfuasi mwaminifu wa Ashuru. Alikubali desturi nyingi za kidini kulingana na mifano ya Ashuru. Ahazi alitembelea Tiglath-pileseri III huko Dameski. Huko, aliona madhabahu ya Ashuru na akatuma mfano wake Yerusalemu. Madhabahu sawa ilijengwa huko, ikichukua nafasi ya madhabahu ya awali ya shaba (<a href=\"https://ref.ly/2Kgs16:10-2Kgs16:18\">2 Wafalme 16:10–18</a>). Mabadiliko mengine kadhaa kwenye hekalu pia yanaonyesha kuondoka kwa Ahazi kutoka kwa imani katika Bwana.</p><p>Ahazi anaonyesha sababu ya watu wa Yuda kuhamishwa hatimaye. Hakutenda inavyostahili kama mfalme (<a href=\"https://ref.ly/Deut17:14-Deut17:20\">Kumbukumbu la Torati 17:14–20</a>). Pia hakuabudu Bwana. Alipokufa, mwanawe Hezekia akawa mfalme (<a href=\"https://ref.ly/2Kgs16:20\">2 Wafalme 16:20</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/2Kgs15:38-2Kgs16:20\">2 Wafalme 15:38–16:20</a>; <a href=\"https://ref.ly/2Chr27:9-2Chr28:27\">2 Mambo ya Nyakati 27:9–28:27</a>; <a href=\"https://ref.ly/Isa7:1-Isa7:25\">Isaya 7:1–25</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12015029",
+          "start_ref_usfm": "2KI 15:29",
+          "end_ref": "12015029",
+          "end_ref_usfm": "2KI 15:29"
+        },
+        {
+          "start_ref": "12016020",
+          "start_ref_usfm": "2KI 16:20",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "23007001",
+          "start_ref_usfm": "ISA 7:1",
+          "end_ref": "23007025",
+          "end_ref_usfm": "ISA 7:25"
+        },
+        {
+          "start_ref": "12016007",
+          "start_ref_usfm": "2KI 16:7",
+          "end_ref": "12016009",
+          "end_ref_usfm": "2KI 16:9"
+        },
+        {
+          "start_ref": "12016010",
+          "start_ref_usfm": "2KI 16:10",
+          "end_ref": "12016018",
+          "end_ref_usfm": "2KI 16:18"
+        },
+        {
+          "start_ref": "05017014",
+          "start_ref_usfm": "DEU 17:14",
+          "end_ref": "05017020",
+          "end_ref_usfm": "DEU 17:20"
+        },
+        {
+          "start_ref": "12015032",
+          "start_ref_usfm": "2KI 15:32",
+          "end_ref": "12015038",
+          "end_ref_usfm": "2KI 15:38"
+        },
+        {
+          "start_ref": "14027001",
+          "start_ref_usfm": "2CH 27:1",
+          "end_ref": "14027009",
+          "end_ref_usfm": "2CH 27:9"
+        },
+        {
+          "start_ref": "12018001",
+          "start_ref_usfm": "2KI 18:1",
+          "end_ref": "12018008",
+          "end_ref_usfm": "2KI 18:8"
+        },
+        {
+          "start_ref": "12015038",
+          "start_ref_usfm": "2KI 15:38",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "14027009",
+          "start_ref_usfm": "2CH 27:9",
+          "end_ref": "14028027",
+          "end_ref_usfm": "2CH 28:27"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

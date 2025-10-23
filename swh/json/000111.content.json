@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 734348,
+    "reference_id": 203448,
+    "title": "Yeroboamu wa Pili",
+    "media_type": "Text",
+    "index_reference": "yeroboamu wa pili",
+    "language": "swh",
+    "content": "<p>Yeroboamu II alikuwa mwana wa Yehoashi. Alitawala kama mfalme wa Israeli kwa miaka 41, kuanzia 793 hadi 753 Kabla ya Kristo (KK). Utawala wake ulikuwa mrefu zaidi kuliko mfalme mwingine yeyote wa kaskazini. Alifuata mfano mbaya wa Yeroboamu I (<a href=\"https://ref.ly/2Kgs14:23-2Kgs14:24\">2 Wafalme 14:23–24</a>). Ingawa Yeroboamu II hakuwa jamaa wa Yeroboamu I, walikuwa na jina sawa.</p><p>Katika kipindi chake, ufalme wa kaskazini ulifikia ukubwa na utajiri mkubwa zaidi tangu enzi za Solomoni. Ushahidi wa kiakiolojia kutoka mji mkuu wa Yeroboamu, Samaria, unaonyesha utajiri wa nyumba ya kifalme ya Israeli wakati wa utawala wake. Mojawapo ya sababu za ustawi mpya wa Israeli ilikuwa kushuka kwa nguvu kwa Ashuru, jambo lililowezesha ufalme wa kaskazini kukua. Nabii Yona alitabiri ustawi huu kama ahadi ya Mungu (<a href=\"https://ref.ly/2Kgs14:25\">2 Wafalme 14:25</a>). Hata baada ya miaka 150 ya kugeuka mbali na Mungu katika ufalme wa kaskazini, Mungu alionyesha upendo wake wa mwaminifu kwa kutoa rehema yake kwa Israeli (<a href=\"https://ref.ly/2Kgs14:26-2Kgs14:27\">2 Wafalme 14:26–27</a>).</p><p>Wakati wa utawala wa Yeroboamu II, utajiri uliongezeka, lakini haki haikuimarika. Wamiliki wa ardhi matajiri waliwakandamiza maskini, wakiwalazimisha kuacha mashamba yao na kwenda mijini. Ufisadi wa serikali, mdororo wa kiuchumi, na udhaifu wa kisiasa viliongezeka, huku hali ya kiroho ya Israeli ikizorota. Mungu alituma manabii kuwakemea viongozi na watu wa Israeli. Amosi na Hosea walizungumza dhidi ya ufisadi uliokithiri. Amosi alimkosoa vikali matajiri kwa kuwanyanyasa maskini. Alionya juu ya kifo kijacho cha Yeroboamu na adhabu ya Israeli (<a href=\"https://ref.ly/Amos7:10-Amos7:17\">Amosi 7:10–17</a>).</p><p>Baada ya Yeroboamu II kufariki, ufalme wa kaskazini ulidhoofika haraka. Kati ya 753 na 722 KK, wafalme sita walitawala mmoja baada ya mwingine, na wengi wao waliuawa. Mnamo 722 KK, takriban miaka 30 baada ya utawala wa Yeroboamu II kumalizika, Ashuru iliharibu ufalme wa kaskazini na kuwahamisha watu wake. Kitendo hiki kilionekana kama hukumu juu ya dhambi za Yeroboamu II na wafalme wengine wa kaskazini.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/2Kgs13:13\">2 Wafalme 13:13</a>; <a href=\"https://ref.ly/2Kgs14:16\">14:16</a>, <a href=\"https://ref.ly/2Kgs14:23-2Kgs14:29\">23–29</a>; <a href=\"https://ref.ly/Hos1:1\">Hosea 1:1</a>; <a href=\"https://ref.ly/Amos1:1\">Amosi 1:1</a>; <a href=\"https://ref.ly/Amos7:10-Amos7:17\">7:10–17</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12013013",
+          "start_ref_usfm": "2KI 13:13",
+          "end_ref": "12013013",
+          "end_ref_usfm": "2KI 13:13"
+        },
+        {
+          "start_ref": "12014016",
+          "start_ref_usfm": "2KI 14:16",
+          "end_ref": "12014016",
+          "end_ref_usfm": "2KI 14:16"
+        },
+        {
+          "start_ref": "12014025",
+          "start_ref_usfm": "2KI 14:25",
+          "end_ref": "12014025",
+          "end_ref_usfm": "2KI 14:25"
+        },
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001001",
+          "end_ref_usfm": "HOS 1:1"
+        },
+        {
+          "start_ref": "30001001",
+          "start_ref_usfm": "AMO 1:1",
+          "end_ref": "30001001",
+          "end_ref_usfm": "AMO 1:1"
+        },
+        {
+          "start_ref": "30007010",
+          "start_ref_usfm": "AMO 7:10",
+          "end_ref": "30007017",
+          "end_ref_usfm": "AMO 7:17"
+        },
+        {
+          "start_ref": "12014023",
+          "start_ref_usfm": "2KI 14:23",
+          "end_ref": "12014024",
+          "end_ref_usfm": "2KI 14:24"
+        },
+        {
+          "start_ref": "12014026",
+          "start_ref_usfm": "2KI 14:26",
+          "end_ref": "12014027",
+          "end_ref_usfm": "2KI 14:27"
+        },
+        {
+          "start_ref": "12014023",
+          "start_ref_usfm": "2KI 14:23",
+          "end_ref": "12014029",
+          "end_ref_usfm": "2KI 14:29"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

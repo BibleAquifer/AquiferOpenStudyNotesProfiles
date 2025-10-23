@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 734413,
+    "reference_id": 203513,
+    "title": "Filipi",
+    "media_type": "Text",
+    "index_reference": "filipi",
+    "language": "swh",
+    "content": "<p>Filipi ilikuwa kijiji kidogo katika Thrace hadi karibu mwaka wa 357 Kabla ya Kristo (KK). Filipo II wa Masedonia, baba wa Aleksanda Mkuu, alikiteka na kukijenga upya. Aliita kijiji hicho kwa jina lake mwenyewe, akakifanya kuwa ngome ya kijeshi, na kutumia migodi ya dhahabu iliyo karibu. Filipi ilijulikana duniani kote mwaka wa 42 KK. Hapo ndipo majeshi ya kifalme ya Octavian na Marko Antony yalipowashinda Brutus na Cassius, wauaji wa Yulio Kaisari. Ushindi huu ulifungua njia kwa Dola la Kirumi chini ya Octavian Augusto.</p><p>Wanajeshi wengi wa vita kutoka mwaka wa 42 KK na mapigano mengine walikaa Filipi. Wakati Paulo alipotembelea mji huo, bado ulionyesha urithi wake wa kijeshi wa Kirumi. Ulikuwa kwenye Njia ya Egnatia, na ulikuwa kituo muhimu kwenye barabara kuu ya kijeshi inayounganisha bahari na Bahari ya Aegean. Mji huo ulikuwa na fahari kubwa ya kiraia kama koloni la Kirumi, ukifurahia marupurupu mengi kama msamaha wa kodi, na Kilatini ilikuwa lugha yake rasmi. Serikali yake ilitegemea katiba ya manispaa ya Rumi, na watu walijiona kama Warumi (tazama <a href=\"https://ref.ly/Acts16:21\">Matendo 16:21</a>).</p><p>Paulo alitembelea mji huo katika safari yake ya pili ya umishonari, na kitabu cha Matendo kinaeleza ziara hii kwa undani (<a href=\"https://ref.ly/Acts16:12-Acts16:40\">Matendo 16:12–40</a>). Hadithi mara nyingi inaonyesha asili ya Kirumi ya mji huo. Paulo anatumia uraia wake wa Kirumi kujitetea kwa mafanikio (<a href=\"https://ref.ly/Acts16:37-Acts16:39\">Matendo 16:37–39</a>). Viongozi wa mji wanashikilia cheo cha Kilatini <em>praetor</em>, kinachotafsiriwa kama <em>stratēgos</em> kwa Kigiriki (<a href=\"https://ref.ly/Acts16:20-Acts16:22\">Matendo 16:20–22</a>, <a href=\"https://ref.ly/Acts16:38\">38</a>). Inaonekana kulikuwa na jamii ndogo ya Kiyahudi huko.</p><p>Kanisa lilianzishwa na wanawake wa Kiyahudi waliokuwa waumini na walikutana nje ya mji kwa sababu hakukuwa na sinagogi. Baadaye, walikusanyika katika nyumba ya mwanamke maarufu aliyebadilisha imani yake aitwaye Lidia (<a href=\"https://ref.ly/Acts16:14-Acts16:15\">Matendo 16:14–15</a>, <a href=\"https://ref.ly/Acts16:40\">40</a>). Inawezekana Luka alikaa Filipi wakati Paulo alipoondoka kwenda Thesalonike (<a href=\"https://ref.ly/Acts16:12\">Matendo 16:12</a>, <a href=\"https://ref.ly/Acts16:40\">40</a>) na alijiunga tena na Paulo huko Filipi wakati wa safari ya tatu ya umisionari ya Paulo miaka kadhaa baadaye (<a href=\"https://ref.ly/Acts20:6\">Matendo 20:6</a>). Paulo aliandika barua ya kirafiki kwa kanisa la Filipi wakati wa moja ya kifungo chake.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Acts16:12-Acts16:40\">Matendo 16:12–40</a>; <a href=\"https://ref.ly/Acts20:6\">20:6</a>; <a href=\"https://ref.ly/Phil1:1\">Wafilipi 1:1</a>; <a href=\"https://ref.ly/Phil2:19-Phil2:30\">2:19–30</a>; <a href=\"https://ref.ly/Phil4:2-Phil4:3\">4:2–3</a>, <a href=\"https://ref.ly/Phil4:10-Phil4:22\">10–22</a>; <a href=\"https://ref.ly/1Thess2:2\">1 Wathesalonike 2:2</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44016012",
+          "start_ref_usfm": "ACT 16:12",
+          "end_ref": "44016012",
+          "end_ref_usfm": "ACT 16:12"
+        },
+        {
+          "start_ref": "44016021",
+          "start_ref_usfm": "ACT 16:21",
+          "end_ref": "44016021",
+          "end_ref_usfm": "ACT 16:21"
+        },
+        {
+          "start_ref": "44016038",
+          "start_ref_usfm": "ACT 16:38",
+          "end_ref": "44016038",
+          "end_ref_usfm": "ACT 16:38"
+        },
+        {
+          "start_ref": "44016040",
+          "start_ref_usfm": "ACT 16:40",
+          "end_ref": "44016040",
+          "end_ref_usfm": "ACT 16:40"
+        },
+        {
+          "start_ref": "44020006",
+          "start_ref_usfm": "ACT 20:6",
+          "end_ref": "44020006",
+          "end_ref_usfm": "ACT 20:6"
+        },
+        {
+          "start_ref": "50001001",
+          "start_ref_usfm": "PHP 1:1",
+          "end_ref": "50001001",
+          "end_ref_usfm": "PHP 1:1"
+        },
+        {
+          "start_ref": "52002002",
+          "start_ref_usfm": "1TH 2:2",
+          "end_ref": "52002002",
+          "end_ref_usfm": "1TH 2:2"
+        },
+        {
+          "start_ref": "44016037",
+          "start_ref_usfm": "ACT 16:37",
+          "end_ref": "44016039",
+          "end_ref_usfm": "ACT 16:39"
+        },
+        {
+          "start_ref": "50002019",
+          "start_ref_usfm": "PHP 2:19",
+          "end_ref": "50002030",
+          "end_ref_usfm": "PHP 2:30"
+        },
+        {
+          "start_ref": "44016020",
+          "start_ref_usfm": "ACT 16:20",
+          "end_ref": "44016022",
+          "end_ref_usfm": "ACT 16:22"
+        },
+        {
+          "start_ref": "44016014",
+          "start_ref_usfm": "ACT 16:14",
+          "end_ref": "44016015",
+          "end_ref_usfm": "ACT 16:15"
+        },
+        {
+          "start_ref": "44016012",
+          "start_ref_usfm": "ACT 16:12",
+          "end_ref": "44016040",
+          "end_ref_usfm": "ACT 16:40"
+        },
+        {
+          "start_ref": "50004002",
+          "start_ref_usfm": "PHP 4:2",
+          "end_ref": "50004003",
+          "end_ref_usfm": "PHP 4:3"
+        },
+        {
+          "start_ref": "50004010",
+          "start_ref_usfm": "PHP 4:10",
+          "end_ref": "50004022",
+          "end_ref_usfm": "PHP 4:22"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

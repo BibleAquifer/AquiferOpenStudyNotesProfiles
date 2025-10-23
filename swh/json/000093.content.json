@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 734396,
+    "reference_id": 203496,
+    "title": "Tomaso",
+    "media_type": "Text",
+    "index_reference": "tomaso",
+    "language": "swh",
+    "content": "<p>Tomaso alikuwa mmoja wa mitume kumi na wawili (<a href=\"https://ref.ly/Matt10:3\">Mathayo 10:3</a>; <a href=\"https://ref.ly/Mark3:18\">Marko 3:18</a>; <a href=\"https://ref.ly/Luke6:15\">Luka 6:15</a>; <a href=\"https://ref.ly/Acts1:13\">Matendo 1:13</a>). Anajulikana pia kama &quot;Pacha.&quot; Watu wanamkumbuka zaidi kwa kutilia shaka ufufuo wa Yesu kutoka kwa wafu.</p><p>Hatujui jinsi Yesu alivyokutana na kumwita Tomaso kuwa mwanafunzi wake kwa mara ya kwanza. Injili ya Yohana ndiyo chanzo pekee chenye akaunti za kibinafsi za Tomaso. Tomaso alionyesha utayari wake wa kumfuata Yesu, hata kama ingemaanisha kifo (<a href=\"https://ref.ly/John11:16\">Yohana 11:16</a>). Alimwambia Yesu waziwazi kwamba hakuielewa alichokuwa akisema (<a href=\"https://ref.ly/John14:5\">Yohana 14:5</a>). Tomaso pia alikuwa mmoja wa wanafunzi saba waliorejea kuvua samaki baada ya ufufuo, wakati Yesu alipowatokea (<a href=\"https://ref.ly/John21:2\">Yohana 21:2</a>).</p><p>Yesu alipojitokeza kwa wanafunzi wake mara ya kwanza baada ya kifo chake, Tomaso hakuwepo. Tomaso aliposikia ripoti ya wengine, hakuamini. Alisisitiza kwamba alihitaji kuona alama za misumari kwenye mwili wa Yesu na kuzishika mwenyewe (<a href=\"https://ref.ly/John20:19-John20:25\">Yohana 20:19–25</a>). Wiki moja baadaye, Yesu alijitokeza tena kwa wanafunzi na kuzungumza moja kwa moja na Tomaso. Alimwambia Tomaso kuchunguza alama za misumari na mkuki kwenye mwili wake na kumtaka aamini bila kusita (<a href=\"https://ref.ly/John20:26-John20:27\">Yohana 20:26–27</a>).</p><p>Wakati Tomaso alipoona Yesu akiwa hai tena, alitoa moja ya kauli muhimu zaidi katika Agano Jipya. Alimtambua Yesu kama Mungu kwa kusema, “Bwana wangu na Mungu wangu!” (<a href=\"https://ref.ly/John20:28\">Yohana 20:28</a>). Tukio hili linaonyesha wazi zaidi katika injili ya Yohana kwamba Yesu ni wa kiungu (Mungu katika umbo la kibinadamu).</p><p>Mapokeo ya baadaye yanasema kwamba Tomaso alifanya kazi kama mmishonari mashariki, ikiwa ni pamoja na Parthia (kulingana na Eusebius), Uajemi (kulingana na Jerome), na India (kulingana na <em>Matendo ya Tomaso</em>). Kanisa la Mar Thoma kwenye pwani ya magharibi ya India linafuatilia asili yake kutokana na kazi ya awali ya umishonari ya Tomaso. Usahihi wa kihistoria wa masimulizi haya hauna uhakika.</p><p>Baadhi ya vitabu vya kale vinadai kuandikwa na Tomaso au kuwa kuhusu yeye, lakini vilitengenezwa muda mrefu baada ya kifo chake na havichukuliwi kuwa vya kuaminika. Hivi ni pamoja na:</p><ul><li><p><em>Matendo ya Tomasi</em></p></li><li><p><em>Utoto wa Injili ya Tomaso</em></p></li><li><p><em>B</em>arua kwa <em>Mitume</em></p></li><li><p><em>M</em>pinga <em>Ufunuo wa Tomaso</em></p></li><li><p><em>Kitabu cha Tomaso Mwanariadha</em></p></li><li><p><em>I</em>njili ya <em>Tomaso</em> (mkusanyiko wa maneno ya Yesu ya Gnostic)</p></li></ul><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt10:3\">Mathayo 10:3</a>; <a href=\"https://ref.ly/Mark3:18\">Marko 3:18</a>; <a href=\"https://ref.ly/Luke6:15\">Luka 6:15</a>; <a href=\"https://ref.ly/John11:16\">Yohana 11:16</a>; <a href=\"https://ref.ly/John14:5\">Yohana 14:5</a>; <a href=\"https://ref.ly/John20:24-John20:29\">Yohana 20:24–29</a>; <a href=\"https://ref.ly/John21:2\">Yohana 21:2; </a><a href=\"https://ref.ly/Acts1:13\">Matendo 1:13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "42006015",
+          "start_ref_usfm": "LUK 6:15",
+          "end_ref": "42006015",
+          "end_ref_usfm": "LUK 6:15"
+        },
+        {
+          "start_ref": "43011016",
+          "start_ref_usfm": "JHN 11:16",
+          "end_ref": "43011016",
+          "end_ref_usfm": "JHN 11:16"
+        },
+        {
+          "start_ref": "43014005",
+          "start_ref_usfm": "JHN 14:5",
+          "end_ref": "43014005",
+          "end_ref_usfm": "JHN 14:5"
+        },
+        {
+          "start_ref": "43020028",
+          "start_ref_usfm": "JHN 20:28",
+          "end_ref": "43020028",
+          "end_ref_usfm": "JHN 20:28"
+        },
+        {
+          "start_ref": "43021002",
+          "start_ref_usfm": "JHN 21:2",
+          "end_ref": "43021002",
+          "end_ref_usfm": "JHN 21:2"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "43020024",
+          "start_ref_usfm": "JHN 20:24",
+          "end_ref": "43020029",
+          "end_ref_usfm": "JHN 20:29"
+        },
+        {
+          "start_ref": "43020026",
+          "start_ref_usfm": "JHN 20:26",
+          "end_ref": "43020027",
+          "end_ref_usfm": "JHN 20:27"
+        },
+        {
+          "start_ref": "43020019",
+          "start_ref_usfm": "JHN 20:19",
+          "end_ref": "43020025",
+          "end_ref_usfm": "JHN 20:25"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

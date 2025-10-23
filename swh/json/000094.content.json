@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 734356,
+    "reference_id": 203456,
+    "title": "Uzia",
+    "media_type": "Text",
+    "index_reference": "uzia",
+    "language": "swh",
+    "content": "<p>Uzia alikuwa mwana wa Amazia na Yekolia. Alitawala Yuda kwa miaka 52, kuanzia 792 hadi 740 Kabla ya Krsito (KK) tazama <a href=\"https://ref.ly/2Kgs14:21-2Kgs14:22\">2 Wafalme 14:21–22</a>; <a href=\"https://ref.ly/2Kgs15:1-2Kgs15:2\">15:1–2</a>; <a href=\"https://ref.ly/2Chr26:1-2Chr26:3\">2 Mambo ya Nyakati 26:1–3</a>). Alianza kutawala kama mfalme mwenza na baba yake akiwa na umri wa miaka kumi na sita kwa takriban miaka 25. Baada ya baba yake kuuawa, Uzia akawa mtawala pekee. Alikuwa mfalme mwenye uwezo, nguvu, na aliyejipanga vizuri, ambaye alimfurahisha Bwana kwa sehemu kubwa ya utawala wake.</p><p>Wakati wa utawala wa Uzia, Yeroboamu II alitawala ufalme wa kaskazini wa Israeli kutoka 793 hadi 753 KK. Wafalme hawa wawili walifanikiwa na kuleta kipindi kirefu cha ustawi kwa Israeli na Yuda. Uzia alipigana na Wafilisti kwa mafanikio na alijenga ngome nyingi Yerusalemu na kote Yuda. Alimtafuta &quot;BWANA&quot; (<a href=\"https://ref.ly/2Chr26:5\">2 Mambo ya Nyakati 26:5</a>), na alimradi alifanya hivyo, Bwana alimbariki katika juhudi zake zote, na alifanikiwa.</p><p>Manabii kadhaa walikuwa hai wakati wa utawala wa Uzia. Amosi na Hosea walitoa unabii wakati wa maisha yake (<a href=\"https://ref.ly/Hos1:1\">Hosea 1:1</a>; <a href=\"https://ref.ly/Amos1:1\">Amosi 1:1</a>), ingawa ujumbe wao mwingi ulielekezwa kwa ufalme wa kaskazini. Nabii Isaya alipokea wito wake mwaka ambao Uzia alikufa (<a href=\"https://ref.ly/Isa1:1\">Isaya 1:1</a>; <a href=\"https://ref.ly/Isa6:1\">6:1</a>).</p><p>Uzia alijivunia mafanikio yake mengi, ambayo yalisababisha anguko lake (<a href=\"https://ref.ly/2Chr26:16\">2 Mambo ya Nyakati 26:16</a>). Alijifanya kuwa kuhani, akaingia katika eneo takatifu la hekalu, na akafukiza uvumba. Makuhani walijaribu kumzuia asitende dhambi dhidi ya Bwana, lakini kwa hasira alipuuzia maonyo yao. Kwa sababu ya kutotii kwake, Mungu alimpa Uzia ukoma, na alilazimika kuishi maisha yake yote katika upweke. Uzia alizikwa pamoja na mababu zake, lakini kwa umbali kwa sababu ya ukoma wake (<a href=\"https://ref.ly/2Chr26:23\">2 Mambo ya Nyakati 26:23</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/2Kgs14:21-2Kgs14:22\">2 Wafalme 14:21–22</a>; <a href=\"https://ref.ly/2Kgs15:1-2Kgs15:7\">15:1–7</a>; <a href=\"https://ref.ly/2Chr26:1-2Chr26:23\">2 Mambo ya Nyakati 26:1–23</a>; <a href=\"https://ref.ly/Isa1:1\">Isaya 1:1</a>; <a href=\"https://ref.ly/Isa6:1\">6:1</a>; <a href=\"https://ref.ly/Hos1:1\">Hosea 1:1</a>; <a href=\"https://ref.ly/Amos1:1\">Amosi 1:1</a>; <a href=\"https://ref.ly/Zech14:5\">Zekaria 14:5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14026005",
+          "start_ref_usfm": "2CH 26:5",
+          "end_ref": "14026005",
+          "end_ref_usfm": "2CH 26:5"
+        },
+        {
+          "start_ref": "14026016",
+          "start_ref_usfm": "2CH 26:16",
+          "end_ref": "14026016",
+          "end_ref_usfm": "2CH 26:16"
+        },
+        {
+          "start_ref": "14026023",
+          "start_ref_usfm": "2CH 26:23",
+          "end_ref": "14026023",
+          "end_ref_usfm": "2CH 26:23"
+        },
+        {
+          "start_ref": "23001001",
+          "start_ref_usfm": "ISA 1:1",
+          "end_ref": "23001001",
+          "end_ref_usfm": "ISA 1:1"
+        },
+        {
+          "start_ref": "23006001",
+          "start_ref_usfm": "ISA 6:1",
+          "end_ref": "23006001",
+          "end_ref_usfm": "ISA 6:1"
+        },
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001001",
+          "end_ref_usfm": "HOS 1:1"
+        },
+        {
+          "start_ref": "30001001",
+          "start_ref_usfm": "AMO 1:1",
+          "end_ref": "30001001",
+          "end_ref_usfm": "AMO 1:1"
+        },
+        {
+          "start_ref": "38014005",
+          "start_ref_usfm": "ZEC 14:5",
+          "end_ref": "38014005",
+          "end_ref_usfm": "ZEC 14:5"
+        },
+        {
+          "start_ref": "12015001",
+          "start_ref_usfm": "2KI 15:1",
+          "end_ref": "12015007",
+          "end_ref_usfm": "2KI 15:7"
+        },
+        {
+          "start_ref": "12014021",
+          "start_ref_usfm": "2KI 14:21",
+          "end_ref": "12014022",
+          "end_ref_usfm": "2KI 14:22"
+        },
+        {
+          "start_ref": "14026001",
+          "start_ref_usfm": "2CH 26:1",
+          "end_ref": "14026023",
+          "end_ref_usfm": "2CH 26:23"
+        },
+        {
+          "start_ref": "12015001",
+          "start_ref_usfm": "2KI 15:1",
+          "end_ref": "12015002",
+          "end_ref_usfm": "2KI 15:2"
+        },
+        {
+          "start_ref": "14026001",
+          "start_ref_usfm": "2CH 26:1",
+          "end_ref": "14026003",
+          "end_ref_usfm": "2CH 26:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

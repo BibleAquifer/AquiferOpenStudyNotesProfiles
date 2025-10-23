@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 734319,
+    "reference_id": 203419,
+    "title": "Rahabu",
+    "media_type": "Text",
+    "index_reference": "rahabu",
+    "language": "swh",
+    "content": "<p>Rahabu alikuwa kahaba na mwanamke wa imani. Anabaki kuwa wa kushangaza hata mamia ya miaka baada ya jukumu lake fupi katika historia ya Israeli. Alimwamini Mungu wa Israeli na alisaidia wapelelezi wawili wa Israeli waliotembelea nyumba yake. Kwa sababu hii, maisha yake yaliokolewa wakati Waisraeli walipouteka Yeriko.</p><p>Nyumba ya Rahabu ilikuwa kwenye ukuta wa mji, hivyo Maskauti wa Yoshua walikwenda huko walipoingia Yeriko. Rahabu huenda alikuwa mwenye nyumba ya wageni na malaya. Nyaraka nyingine kutoka enzi za Agano la Kale zinataja wanawake ambao walikuwa wenye nyumba za wageni na makahaba. Ikiwa nyumba ya Rahabu ilikuwa nyumba ya wageni, ingekuwa mahali pa busara kwenda. Wapelelezi wa Yoshua wangeweza kutumaini kuepuka umakini usiotakikana huko.</p><p>Makubaliano ya Rahabu na wapelelezi ulikuwa tamko thabiti la imani kwa Bwana, Mungu wa Israeli (<a href=\"https://ref.ly/Josh2:8-Josh2:21\">Yoshua 2:8–21</a>). Kama mwanamke, Rahabu huenda alifuata ibada ya uzazi ya Baali, mungu wa dhoruba na mvua, pamoja na mwenzi wake Ashera, mungu wa dunia. Hata hivyo, baada ya kusikia kuhusu maendeleo ya Israeli kuelekea nchi yake, Rahabu alitambua kwamba Bwana, Mungu wa Israeli, ni &quot;Mungu mbinguni juu na duniani chini&quot; (<a href=\"https://ref.ly/Josh2:11\">Yoshua 2:11</a>).</p><p>Baada ya Yoshua kushinda Yeriko, Rahabu aliolewa na Salmoni kutoka kabila la Yuda. Alikuwa na mwana aitwaye Boazi (<a href=\"https://ref.ly/Ruth4:21\">Ruthu 4:21</a>; <a href=\"https://ref.ly/Matt1:5\">Mathayo 1:5</a>). Rahabu alikuwa mama mkwe wa Ruthu, mwanamke mwingine mgeni aliyejiunga na Israeli. Rahabu pia alikuwa bibi-mkubwa wa Mfalme Daudi. Anatajwa pamoja na Mose, Daudi, Samsoni, na Samweli kama mfano wa imani iliyoonyeshwa kupitia matendo mema (<a href=\"https://ref.ly/Heb11:31\">Waebrania 11:31</a>; <a href=\"https://ref.ly/Jas2:25\">Yakobo 2:25</a>). Rahabu ni mmoja wa wanawake watano, akiwemo Maria, waliotajwa katika ukoo wa Yesu katika Mathayo, mti wa familia wa kibinadamu wa Mwana wa Mungu (<a href=\"https://ref.ly/Matt1:5\">Mathayo 1:5</a>). Rahabu anaonyesha upana wa neema ya Mungu.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Josh2:1-Josh2:21\">Yoshua 2:1–21</a>; <a href=\"https://ref.ly/Josh6:17\">6:17</a>, <a href=\"https://ref.ly/Josh6:22-Josh6:25\">22–25</a>; <a href=\"https://ref.ly/Matt1:5\">Mathayo 1:5</a>; <a href=\"https://ref.ly/Heb11:31\">Waebrania 11:31</a>; <a href=\"https://ref.ly/Jas2:25\">Yakobo 2:25</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06002011",
+          "start_ref_usfm": "JOS 2:11",
+          "end_ref": "06002011",
+          "end_ref_usfm": "JOS 2:11"
+        },
+        {
+          "start_ref": "06006017",
+          "start_ref_usfm": "JOS 6:17",
+          "end_ref": "06006017",
+          "end_ref_usfm": "JOS 6:17"
+        },
+        {
+          "start_ref": "08004021",
+          "start_ref_usfm": "RUT 4:21",
+          "end_ref": "08004021",
+          "end_ref_usfm": "RUT 4:21"
+        },
+        {
+          "start_ref": "40001005",
+          "start_ref_usfm": "MAT 1:5",
+          "end_ref": "40001005",
+          "end_ref_usfm": "MAT 1:5"
+        },
+        {
+          "start_ref": "58011031",
+          "start_ref_usfm": "HEB 11:31",
+          "end_ref": "58011031",
+          "end_ref_usfm": "HEB 11:31"
+        },
+        {
+          "start_ref": "59002025",
+          "start_ref_usfm": "JAS 2:25",
+          "end_ref": "59002025",
+          "end_ref_usfm": "JAS 2:25"
+        },
+        {
+          "start_ref": "06002008",
+          "start_ref_usfm": "JOS 2:8",
+          "end_ref": "06002021",
+          "end_ref_usfm": "JOS 2:21"
+        },
+        {
+          "start_ref": "06002001",
+          "start_ref_usfm": "JOS 2:1",
+          "end_ref": "06002021",
+          "end_ref_usfm": "JOS 2:21"
+        },
+        {
+          "start_ref": "06006022",
+          "start_ref_usfm": "JOS 6:22",
+          "end_ref": "06006025",
+          "end_ref_usfm": "JOS 6:25"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

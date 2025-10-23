@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 734405,
+    "reference_id": 203505,
+    "title": "Prisila na Akila",
+    "media_type": "Text",
+    "index_reference": "prisila na akila",
+    "language": "swh",
+    "content": "<p>Prisila na Akila walikuwa wanandoa Wakristo. Paulo aliishi na kufanya kazi nao katika siku zake za mwanzo huko Korintho. Baadaye, walijihusisha sana katika huduma ya Kikristo na walimsaidia Apolo kuelewa Yesu kwa usahihi. Mara nyingi waliwakaribisha Wakristo wengine nyumbani kwao.</p><p>Paulo alikutana na Prisila na Akila kwa mara ya kwanza huko Korintho. Walikuwa wamewasili hivi karibuni kwa sababu mfalme wa Kirumi Klaudio Kaisari alikuwa amewafukuza Wayahudi wote kutoka Rumi mbamo mwaka wa 49 Baada ya Kristo (BK). Paulo aliwafahamu, na kwa kuwa walikuwa watengenezaji wa mahema (au labda wafanyakazi wa ngozi) kama yeye, aliishi na kufanya kazi nao wakati wa mwaka wake wa kwanza na nusu huko Korintho, kuanzia mwaka wa 50 BK hadi 52 (<a href=\"https://ref.ly/Acts18:1-Acts18:3\">Matendo 18:1–3</a>).</p><p>Paulo alipoondoka Korintho, aliwachukua Prisila na Akila pamoja naye na kuwaacha Efeso (<a href=\"https://ref.ly/Acts18:18-Acts18:19\">Matendo 18:18–19</a>). Alirudi Yerusalemu na Antiokia. Baadaye, Apolo alipoingia Efeso, alihubiri kwa shauku kuhusu Yesu katika masinagogi. Prisila na Akila walimchukua kando na kumweleza ukweli wa Yesu kwa undani zaidi. Kwa msaada wao, Apolo alikua mwalimu mwenye nguvu ambaye alishiriki Habari Njema kuhusu Yesu na kutetea imani ya Kikristo (<a href=\"https://ref.ly/Acts18:24-Acts18:28\">Matendo 18:24–28</a>).</p><p>Baadaye, Paulo anataja nyumba yao kama mahali pa mkutano kwa Wakristo huko Efeso. Anajumuisha salamu zao pamoja na zake kwa kanisa huko Korintho (<a href=\"https://ref.ly/1Cor16:19\">1 Wakorintho 16:19</a>; angalia pia <a href=\"https://ref.ly/2Tim4:19\">2 Timotheo 4:19</a>). Inaonekana walirudi Rumi baadaye, labda baada ya amri ya Klaudio kulegezwa. Paulo anawatuma salamu zake kwanza anapoandika kwa kanisa huko Rumi (<a href=\"https://ref.ly/Rom16:3-Rom16:5\">Warumi 16:3–5</a>). Nyumba yao huko pia ikawa mahali pa mkutano. Paulo alihisi urafiki wa karibu nao na alithamini kazi yao kwa Yesu. Anawaita “wafanyakazi wenzangu katika Kristo Yesu” na anataja kwamba walihatarisha maisha yao kwa ajili yake.</p><p>Prisila na Akila walikuwa Wakristo wa mwanzo ambao walishiriki kwa ujasiri imani yao katika kazi zao za kila siku. Walihudumia wengine kwa bidii kama wanandoa waliojitolea kwa Yesu. Jina la Prisila mara nyingi linaonekana kwanza, jambo ambalo halikuwa la kawaida wakati huo. Hii inaweza kuashiria jukumu lake kubwa katika huduma na ushuhuda wao.</p><p><u>Sehemu za Kujifunzia Zaidi</u></p><p><a href=\"https://ref.ly/Acts18:1-Acts18:3\">Matendo 18:1–3</a>, <a href=\"https://ref.ly/Acts18:18-Acts18:19\">18–19</a>, <a href=\"https://ref.ly/Acts18:24-Acts18:28\">24–28</a>; <a href=\"https://ref.ly/Rom16:3-Rom16:5\">Warumi 16:3–5</a>; <a href=\"https://ref.ly/1Cor16:19\">1 Wakorintho 16:19</a>; <a href=\"https://ref.ly/2Tim4:19\">2 Timotheo 4:19</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46016019",
+          "start_ref_usfm": "1CO 16:19",
+          "end_ref": "46016019",
+          "end_ref_usfm": "1CO 16:19"
+        },
+        {
+          "start_ref": "55004019",
+          "start_ref_usfm": "2TI 4:19",
+          "end_ref": "55004019",
+          "end_ref_usfm": "2TI 4:19"
+        },
+        {
+          "start_ref": "44018024",
+          "start_ref_usfm": "ACT 18:24",
+          "end_ref": "44018028",
+          "end_ref_usfm": "ACT 18:28"
+        },
+        {
+          "start_ref": "45016003",
+          "start_ref_usfm": "ROM 16:3",
+          "end_ref": "45016005",
+          "end_ref_usfm": "ROM 16:5"
+        },
+        {
+          "start_ref": "44018018",
+          "start_ref_usfm": "ACT 18:18",
+          "end_ref": "44018019",
+          "end_ref_usfm": "ACT 18:19"
+        },
+        {
+          "start_ref": "44018001",
+          "start_ref_usfm": "ACT 18:1",
+          "end_ref": "44018003",
+          "end_ref_usfm": "ACT 18:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
