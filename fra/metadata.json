@@ -27,9 +27,9 @@
       "showAdaptationNoticeForEnglish": false,
       "showAdaptationNoticeForNonEnglish": false
     },
-    "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by BiblioNexus and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
+    "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesProfiles",
-    "date_created": "2025-10-27",
+    "date_created": "2025-11-06",
     "language": "fra",
     "localizations": [
       "eng",
@@ -49,7 +49,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-27T17:23:29.310693"
+      "dateCreated": "2025-11-06T13:14:26.530282"
     },
     "idAuthorities": {
       "aquifer": {
@@ -63,7 +63,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesProfiles": {
-            "timestamp": "2025-10-27T17:23:29.310693"
+            "timestamp": "2025-11-06T13:14:26.530282"
           }
         }
       },
@@ -588,6 +588,502 @@
       "json/000124.content.json": {
         "mimeType": "text/json",
         "size": 3666
+      },
+      "md/000001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4714
+      },
+      "md/000002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3816
+      },
+      "md/000003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4338
+      },
+      "md/000004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4235
+      },
+      "md/000005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10128
+      },
+      "md/000006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4938
+      },
+      "md/000007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3856
+      },
+      "md/000008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3490
+      },
+      "md/000009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6118
+      },
+      "md/000010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3473
+      },
+      "md/000011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3419
+      },
+      "md/000012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4591
+      },
+      "md/000013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4499
+      },
+      "md/000014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6447
+      },
+      "md/000015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3373
+      },
+      "md/000016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5458
+      },
+      "md/000017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6847
+      },
+      "md/000018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4842
+      },
+      "md/000019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4034
+      },
+      "md/000020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5420
+      },
+      "md/000021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4707
+      },
+      "md/000022.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4446
+      },
+      "md/000023.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5064
+      },
+      "md/000024.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3200
+      },
+      "md/000025.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5108
+      },
+      "md/000026.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9748
+      },
+      "md/000027.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2485
+      },
+      "md/000028.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3884
+      },
+      "md/000029.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4872
+      },
+      "md/000030.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4010
+      },
+      "md/000031.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3678
+      },
+      "md/000032.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6298
+      },
+      "md/000033.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5052
+      },
+      "md/000034.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4499
+      },
+      "md/000035.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4817
+      },
+      "md/000036.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4380
+      },
+      "md/000037.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5038
+      },
+      "md/000038.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4575
+      },
+      "md/000039.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2484
+      },
+      "md/000040.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4159
+      },
+      "md/000041.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3829
+      },
+      "md/000042.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3236
+      },
+      "md/000043.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5134
+      },
+      "md/000044.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3822
+      },
+      "md/000045.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2939
+      },
+      "md/000046.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2929
+      },
+      "md/000047.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4328
+      },
+      "md/000048.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3079
+      },
+      "md/000049.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3415
+      },
+      "md/000050.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5981
+      },
+      "md/000051.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4279
+      },
+      "md/000052.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11062
+      },
+      "md/000053.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5351
+      },
+      "md/000054.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4376
+      },
+      "md/000055.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8000
+      },
+      "md/000056.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3717
+      },
+      "md/000057.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6527
+      },
+      "md/000058.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4667
+      },
+      "md/000059.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4336
+      },
+      "md/000060.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3413
+      },
+      "md/000061.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3380
+      },
+      "md/000062.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3466
+      },
+      "md/000063.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6082
+      },
+      "md/000064.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3578
+      },
+      "md/000065.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3851
+      },
+      "md/000066.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5318
+      },
+      "md/000067.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4743
+      },
+      "md/000068.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6567
+      },
+      "md/000069.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3673
+      },
+      "md/000070.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5026
+      },
+      "md/000071.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5855
+      },
+      "md/000072.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3790
+      },
+      "md/000073.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3355
+      },
+      "md/000074.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3681
+      },
+      "md/000075.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3985
+      },
+      "md/000076.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3062
+      },
+      "md/000077.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5334
+      },
+      "md/000078.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7059
+      },
+      "md/000079.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5276
+      },
+      "md/000080.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4152
+      },
+      "md/000081.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4227
+      },
+      "md/000082.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4169
+      },
+      "md/000083.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4799
+      },
+      "md/000084.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4934
+      },
+      "md/000085.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4945
+      },
+      "md/000086.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3510
+      },
+      "md/000087.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3632
+      },
+      "md/000088.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4226
+      },
+      "md/000089.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3207
+      },
+      "md/000090.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4110
+      },
+      "md/000091.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10277
+      },
+      "md/000092.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4918
+      },
+      "md/000093.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3983
+      },
+      "md/000094.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3809
+      },
+      "md/000095.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2239
+      },
+      "md/000096.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3547
+      },
+      "md/000097.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3479
+      },
+      "md/000098.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9808
+      },
+      "md/000099.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4073
+      },
+      "md/000100.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4419
+      },
+      "md/000101.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4034
+      },
+      "md/000102.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6438
+      },
+      "md/000103.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3774
+      },
+      "md/000104.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3464
+      },
+      "md/000105.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3419
+      },
+      "md/000106.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4243
+      },
+      "md/000107.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3610
+      },
+      "md/000108.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7176
+      },
+      "md/000109.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6654
+      },
+      "md/000110.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3716
+      },
+      "md/000111.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4624
+      },
+      "md/000112.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3265
+      },
+      "md/000113.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4117
+      },
+      "md/000114.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5495
+      },
+      "md/000115.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4747
+      },
+      "md/000116.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6177
+      },
+      "md/000117.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3444
+      },
+      "md/000118.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13228
+      },
+      "md/000119.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3946
+      },
+      "md/000120.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5540
+      },
+      "md/000121.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4723
+      },
+      "md/000122.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4651
+      },
+      "md/000123.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3389
+      },
+      "md/000124.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2689
       }
     },
     "copyright": {
