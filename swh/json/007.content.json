@@ -1,0 +1,380 @@
+[
+  {
+    "content_id": 734296,
+    "reference_id": 203396,
+    "version": "1.0.1",
+    "title": "Hajiri",
+    "media_type": "Text",
+    "index_reference": "hajiri",
+    "language": "swh",
+    "review_level": "None",
+    "content": "<p>Hajiri alikuwa mtumishi Mmisri wa Sarai, mke wa Abramu. Wakati Mungu alipomwambia Abramu aondoke Mesopotamia, alimwahidi Abramu uzao mwingi na nchi mpya (<a href=\"https://ref.ly/Gen12:2\">Mwanzo 12:2</a>, <a href=\"https://ref.ly/Gen12:7\">7</a>). Baada ya miaka kumi huko Kanaani bila watoto, Sarai alifuata desturi ya Wamesopotamia. Alimpa Hajiri kwa Abramu kama suria (mke wa pili). Mtoto yeyote kutoka muungano huu alihesabiwa kuwa mtoto wa mke (tazama <a href=\"https://ref.ly/Gen30:1-Gen30:8\">Mwanzo 30:1–8</a>).</p><p>Hajiri alipata mimba na akaanza kumdharau Sarai. Sarai alijibu kwa kumtendea kwa ukali, hivyo Hajiri alikimbia kwenda jangwani (<a href=\"https://ref.ly/Gen16:4-Gen16:6\">Mwanzo 16:4–6</a>). Malaika wa Bwana alimtokea kwenye kisima cha jangwani na kumwambia arudi nyumbani kwa Abramu na kumtii Sarai.</p><p>Hajiri alizaa mtoto wa kiume aliyeitwa Ishmaeli wakati Abramu alipokuwa na umri wa miaka themanini na sita (<a href=\"https://ref.ly/Gen16:1-Gen16:16\">Mwanzo 16:1–16</a>).</p><p>Miaka kumi na nne baadaye,  Mungu alimpa Abrahamu na Sara mwana wao wa ahadi, Isaka. Wakati Isaka alipoachishwa kunyonya, akiwa na umri wa miaka mitatu hivi, walifanya karamu ya kitamaduni. Katika tukio hilo, Ishmaeli alimdhihaki Isaka (<a href=\"https://ref.ly/Gen21:9\">Mwanzo 21:9</a>), hivyo Sara alisisitiza kwamba Abrahamu ampeleke Hajiri na Ishmaeli mbali. Mungu aliunga mkono uamuzi huu (<a href=\"https://ref.ly/Gen21:12\">Mwanzo 21:12</a>), hivyo Hajiri na Ishmaeli wakaondoka kutangatanga katika nyika ya Beer-Sheba. Wakati maji yao yalipoisha, Mungu aliwaokoa kwa miujiza na kumwahidi Hajiri kwamba Ishmaeli angekuwa baba wa taifa kubwa (<a href=\"https://ref.ly/Gen21:17-Gen21:19\">Mwanzo 21:17–19</a>).</p><p>Paulo alitumia mfano katika <a href=\"https://ref.ly/Gal4:22-Gal4:31\">Wagalatia 4:22–31</a> ambapo Hajiri anawakilisha Mlima Sinai, mahali pa agano la kale (makubaliano maalum ya Mungu na Waisraeli). Sara anawakilisha Yerusalemu ya mbinguni, jumuiya ya wale wanaopata wokovu kupitia imani kwa Kristo. Kama vile Isaka alivyokuwa mwana wa Abrahamu kupitia imani katika ahadi ya Mungu, Wakristo ambao wako huru kutoka kwa sheria ni watoto wa kiroho wa Sara.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen16:1-Gen16:16\">Mwanzo 16:1–16</a>; <a href=\"https://ref.ly/Gen21:9-Gen21:21\">21:9–21</a>; <a href=\"https://ref.ly/Gen25:12\">25:12</a>; <a href=\"https://ref.ly/Gal4:22-Gal4:31\">Wagalatia 4:22–31</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012002",
+          "start_ref_usfm": "GEN 12:2",
+          "end_ref": "01012002",
+          "end_ref_usfm": "GEN 12:2"
+        },
+        {
+          "start_ref": "01012007",
+          "start_ref_usfm": "GEN 12:7",
+          "end_ref": "01012007",
+          "end_ref_usfm": "GEN 12:7"
+        },
+        {
+          "start_ref": "01021009",
+          "start_ref_usfm": "GEN 21:9",
+          "end_ref": "01021009",
+          "end_ref_usfm": "GEN 21:9"
+        },
+        {
+          "start_ref": "01021012",
+          "start_ref_usfm": "GEN 21:12",
+          "end_ref": "01021012",
+          "end_ref_usfm": "GEN 21:12"
+        },
+        {
+          "start_ref": "01025012",
+          "start_ref_usfm": "GEN 25:12",
+          "end_ref": "01025012",
+          "end_ref_usfm": "GEN 25:12"
+        },
+        {
+          "start_ref": "01016001",
+          "start_ref_usfm": "GEN 16:1",
+          "end_ref": "01016016",
+          "end_ref_usfm": "GEN 16:16"
+        },
+        {
+          "start_ref": "01021009",
+          "start_ref_usfm": "GEN 21:9",
+          "end_ref": "01021021",
+          "end_ref_usfm": "GEN 21:21"
+        },
+        {
+          "start_ref": "01021017",
+          "start_ref_usfm": "GEN 21:17",
+          "end_ref": "01021019",
+          "end_ref_usfm": "GEN 21:19"
+        },
+        {
+          "start_ref": "48004022",
+          "start_ref_usfm": "GAL 4:22",
+          "end_ref": "48004031",
+          "end_ref_usfm": "GAL 4:31"
+        },
+        {
+          "start_ref": "01030001",
+          "start_ref_usfm": "GEN 30:1",
+          "end_ref": "01030008",
+          "end_ref_usfm": "GEN 30:8"
+        },
+        {
+          "start_ref": "01016004",
+          "start_ref_usfm": "GEN 16:4",
+          "end_ref": "01016006",
+          "end_ref_usfm": "GEN 16:6"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 734401,
+    "reference_id": 203501,
+    "version": "1.0.1",
+    "title": "Herode Agripa I",
+    "media_type": "Text",
+    "index_reference": "herode agripa i",
+    "language": "swh",
+    "review_level": "None",
+    "content": "<p>Herode Agripa I alikuwa mjukuu wa Herode Mkuu, mpwa wa Herode Antipa, na kaka wa Herodia. Agripa I alitawala Palestina yote kwa muda mfupi baada ya kifo cha Yesu, katika siku za mwanzo za harakati ya Ukristo, kuanzia 41 hadi 44 Baada ya Krsito (BK).</p><p>Alipokuwa akisoma katika shule ya Rumi, Agripa aliishi kwa uzembe na akajikusanyia madeni mengi. Aliwahi kutamani rafiki yake Gayo Caligula awe mfalme badala ya Tiberio. Mtu fulani aliripoti hili kwa Tiberio, ambaye kisha alimfunga Agripa. Alikaa gerezani hadi Tiberio alipofariki miezi sita baadaye.</p><p>Wakati Caligula alipokuwa mfalme, alimzawadia Agripa kwa kumwachilia huru na kumpa ardhi za Philip Mtetraji na sehemu ya kaskazini ya eneo la Lysanias, pamoja na cheo cha mfalme. Cheo hiki kilimfanya Herodia awe na wivu, na mume wake, Herode Antipa, alikuwa na ukosoaji na wivu kwa Agripa. Agripa alimshtaki Antipa kwa njama, na kusababisha Antipa kuhamishwa. Agripa kisha akachukua ardhi na mali zote za Antipa mnamo 39 BK.</p><p>Rafiki yake Caligula alipokufa mwaka wa 41 BK, Agripa alipata kibali kutoka kwa mfalme mpya, Klaudio. Klaudio kisha akaongeza Yudea na Samaria kwenye eneo la Agripa. Eneo hili lilikuwa limetawaliwa na babu yake, Herode Mkuu.</p><p>Agripa aliwatesa Wakristo wa mwanzo kwa bidii. Anajulikana kwa kumuua mtume Yakobo na kumkamata Petro, vitendo ambavyo vilifurahisha Wayahudi (<a href=\"https://ref.ly/Acts12:1-Acts12:4\">Matendo 12:1–4</a>). Wayahudi walimpenda zaidi kuliko Herode mwingine yeyote. Agripa alikufa ghafla mwaka 44 Baada ya Kristo, muda mfupi baada ya watu wake kumsifu kama Mungu (<a href=\"https://ref.ly/Acts12:20-Acts12:23\">Matendo 12:20–23</a>; tazama pia Josephus, <em>Antiquities</em> 19.8.2; 19.9.1; <em>War</em> 2.11.5).</p><p><u>Sehemu za Kujifunzia Zaidi</u></p><p><a href=\"https://ref.ly/Acts12:1-Acts12:4\">Matendo 12:1–4</a>, <a href=\"https://ref.ly/Acts12:18-Acts12:23\">18–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012020",
+          "start_ref_usfm": "ACT 12:20",
+          "end_ref": "44012023",
+          "end_ref_usfm": "ACT 12:23"
+        },
+        {
+          "start_ref": "44012001",
+          "start_ref_usfm": "ACT 12:1",
+          "end_ref": "44012004",
+          "end_ref_usfm": "ACT 12:4"
+        },
+        {
+          "start_ref": "44012018",
+          "start_ref_usfm": "ACT 12:18",
+          "end_ref": "44012023",
+          "end_ref_usfm": "ACT 12:23"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 734407,
+    "reference_id": 203507,
+    "version": "1.0.1",
+    "title": "Herode Agripa II",
+    "media_type": "Text",
+    "index_reference": "herode agripa ii",
+    "language": "swh",
+    "review_level": "None",
+    "content": "<p>Herode Agripa II alikuwa mwana wa Herode Agripa I. Alikuwa mfalme baada ya baba yake na alitawala Palestina kutoka 50 Baada ya Kristo (BK) hadi 100. Hatimaye alidhibiti eneo sawa na babu yake mkubwa, Herode Mkuu. Agripa II alisimamia Korbani na alikuwa na uwezo wa kuteua kuhani mkuu. Alikuwa hapendwi miongoni mwa Wayahudi kwa sababu ya uhusiano wake wa kingono usiofaa na dada yake Bernike. Warumi walimuomba ushauri juu ya masuala ya kidini. Inawezekana hii ndiyo sababu Festo alimwalika kumsikiliza mtume Paulo akijitetea huko Kaisaria mnamo 59 BK(<a href=\"https://ref.ly/Acts25:13-Acts26:32\">Matendo 25:13–26:32</a>).</p><p>Mwezi Mei 66 BK, vita vya Wayahudi dhidi ya Warumi vilianza (Josephus, <em>Vita</em> 2.14.4). Jaribio la Agripa la kusitisha uasi liliposhindwa, alikua mshirika mkubwa wa Warumi wakati wote wa vita kutoka 66 hadi 70 BK. Katika kipindi hiki, Nero alijiua, mfalme mpya Galba aliuawa, na Vespasian akawa mfalme. Baada ya kuahidi uaminifu kwa Vespasian, Agripa alijiunga na Tito, mwana wa Vespasian, ambaye aliongoza juhudi za vita (Tacitus, <em>Historia</em> 5.81). Baada ya Yerusalemu kuanguka Agosti 6, 70 BD, inawezekana Agripa alihudhuria sherehe ya kushindwa kwa watu wake.</p><p>Mnamo 79 BK, Vespasian alikufa, na Tito akawa mfalme. Kidogo kinajulikana kuhusu utawala wa Agripa baada ya hapo. Hata hivyo, aliandika kwa mwanahistoria Josephus, akimsifu kwa <em>Vita vya Wayahudi</em>, na alinunua nakala yake (Josephus, <em>Maisha</em> 65; <em>Dhidi ya Apion</em> 1.9.47–52).</p><p>Talmudi inapendekeza kwamba Agripa II alikuwa na wake wawili (Talmudi ya Babiloni, <em>Sukkah</em> 27a). Hata hivyo, Josephus haitaji wake au watoto wowote. Agripa II alikufa karibu 100 BK, akimaliza ukoo wa kifalme wa Herode.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Acts25:13-Acts26:32\">Matendo 25:13–26:32</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44025013",
+          "start_ref_usfm": "ACT 25:13",
+          "end_ref": "44026032",
+          "end_ref_usfm": "ACT 26:32"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 734384,
+    "reference_id": 203484,
+    "version": "1.0.1",
+    "title": "Herode Antipa",
+    "media_type": "Text",
+    "index_reference": "herode antipa",
+    "language": "swh",
+    "review_level": "None",
+    "content": "<p>Herode Antipa alikuwa mwana wa sita wa Herode Mkuu. Alitawala Galilaya na Perea kutoka mwaka wa 4 Kabla ya Kristo (KK) hadi 39 Baada ya Kristo (BK). Huu ulikuwa wakati wa maisha ya Yesu. Alitawala maeneo ambapo Yesu na Yohana Mbatizaji walifanya kazi zao. </p><p>Herode Antipa, kama baba yake, alianzisha miji. Sepphoris, mradi wake wa kwanza, ukawa mji mkubwa zaidi katika Galilaya. Ulitumika kama mji mkuu wa Antipa hadi alipojenga Tiberia, mji uliyopewa jina la Mfalme Tiberio, ambaye alitawala kutoka 14 hadi 37 BK. Tiberia ilikuwa kwenye pwani ya magharibi ya Bahari ya Galilaya. Antipa aliukamilisha mwaka wa 23 BK na kuufanya kuwa mji wake mkuu.</p><p>Herode Antipa aliwakera Wayahudi wengi kwa kumtaliki mke wake na kumuoa Herodia, ambaye alikuwa mke wa nusu kaka yake, Herode Filipo. Ndoa hii ilivunja sheria ya Mose kwa sababu kaka yake Herode, Filipo, alikuwa bado hai (<a href=\"https://ref.ly/Lev18:16\">Mambo ya Walawi 18:16</a>; <a href=\"https://ref.ly/Lev20:21\">20:21</a>). Yohana Mbatizaji alipokosoa vikali ndoa hii isiyo halali, Antipa alimfunga gerezani (<a href=\"https://ref.ly/Mark6:17-Mark6:18\">Marko 6:17–18</a>). Herode aliogopa kwamba ukosoaji wa Yohana ungesababisha uasi dhidi yake (Antiquities 18.5.2). Baadaye, kwenye karamu, binti ya Herodia alimvutia Herode kwa kucheza kwake. Hii ilimfanya kutoa ahadi ya kijinga kumpa chochote alichotaka. Herodia alitumia nafasi hii kumfanya Yohana auawe kwa kukatwa kichwa (<a href=\"https://ref.ly/Matt14:1-Matt14:12\">Mathayo 14:1–12</a>).</p><p>Wakati Yesu alipokamatwa hatimaye, Pilato hakuweza kupata kosa lolote kwa Yesu, hivyo akamtuma kwa Herode Antipa, ambaye alikuwa Yerusalemu kwa ajili ya Pasaka. Inawezekana Pilato pia alikuwa akijaribu kuboresha uhusiano wake na Antipa. Uhusiano wao ulikuwa na matatizo tangu mauaji huko Galilaya (<a href=\"https://ref.ly/Luke13:1\">Luka 13:1</a>). Pilato pia alikuwa ameleta ngao zenye picha ya Tiberio Yerusalemu. Hizi zilionekana kama kukufuru kwa Wayahudi (Philo, On the Embassy to Gayo 299–304). Vitendo hivi vilimdharau Mungu na sheria zake, jambo ambalo liliwakera sana watu wa Kiyahudi. Yesu alipofikishwa mbele ya Antipa, Herode alimdhihaki tu na kumrudisha kwa Pilato (<a href=\"https://ref.ly/Luke23:6-Luke23:11\">Luka 23:6–11</a>). Athari kuu ya kisiasa ya tukio hili ilikuwa kwamba uhusiano wa Herode na Pilato uliboreka (<a href=\"https://ref.ly/Luke23:12\">Luka 23:12</a>).</p><p>Herode Antipa baadaye alishindwa vitani na Mfalme Areta, ambaye binti yake alikuwa amemwacha. Wayahudi waliona kushindwa huku kama hukumu ya kimungu. Kisha, katika mwaka wa 39 BK, Mfalme Gayo alimwondoa Antipa madarakani. Alimfukuza Antipa baada ya Herode Agripa I kumshtaki kwa kupanga njama dhidi ya Rumi.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt14:1-Matt14:12\">Mathayo 14:1–12</a>; <a href=\"https://ref.ly/Mark1:14\">Marko 1:14</a>; <a href=\"https://ref.ly/Mark6:14-Mark6:29\">6:14–29</a>; <a href=\"https://ref.ly/Luke3:1\">Luka 3:1</a>, <a href=\"https://ref.ly/Luke3:19-Luke3:20\">19–20</a>; <a href=\"https://ref.ly/Luke9:7-Luke9:9\">9:7–9</a>; <a href=\"https://ref.ly/Luke13:31-Luke13:33\">13:31–33</a>; <a href=\"https://ref.ly/Luke23:7-Luke23:12\">23:7–12</a>, <a href=\"https://ref.ly/Luke23:15\">15</a>; <a href=\"https://ref.ly/Acts4:27\">Matendo 4:27</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03018016",
+          "start_ref_usfm": "LEV 18:16",
+          "end_ref": "03018016",
+          "end_ref_usfm": "LEV 18:16"
+        },
+        {
+          "start_ref": "03020021",
+          "start_ref_usfm": "LEV 20:21",
+          "end_ref": "03020021",
+          "end_ref_usfm": "LEV 20:21"
+        },
+        {
+          "start_ref": "41001014",
+          "start_ref_usfm": "MRK 1:14",
+          "end_ref": "41001014",
+          "end_ref_usfm": "MRK 1:14"
+        },
+        {
+          "start_ref": "41008015",
+          "start_ref_usfm": "MRK 8:15",
+          "end_ref": "41008015",
+          "end_ref_usfm": "MRK 8:15"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003001",
+          "end_ref_usfm": "LUK 3:1"
+        },
+        {
+          "start_ref": "42013001",
+          "start_ref_usfm": "LUK 13:1",
+          "end_ref": "42013001",
+          "end_ref_usfm": "LUK 13:1"
+        },
+        {
+          "start_ref": "42023012",
+          "start_ref_usfm": "LUK 23:12",
+          "end_ref": "42023012",
+          "end_ref_usfm": "LUK 23:12"
+        },
+        {
+          "start_ref": "42023015",
+          "start_ref_usfm": "LUK 23:15",
+          "end_ref": "42023015",
+          "end_ref_usfm": "LUK 23:15"
+        },
+        {
+          "start_ref": "44004027",
+          "start_ref_usfm": "ACT 4:27",
+          "end_ref": "44004027",
+          "end_ref_usfm": "ACT 4:27"
+        },
+        {
+          "start_ref": "40014001",
+          "start_ref_usfm": "MAT 14:1",
+          "end_ref": "40014012",
+          "end_ref_usfm": "MAT 14:12"
+        },
+        {
+          "start_ref": "41006014",
+          "start_ref_usfm": "MRK 6:14",
+          "end_ref": "41006029",
+          "end_ref_usfm": "MRK 6:29"
+        },
+        {
+          "start_ref": "42003019",
+          "start_ref_usfm": "LUK 3:19",
+          "end_ref": "42003020",
+          "end_ref_usfm": "LUK 3:20"
+        },
+        {
+          "start_ref": "40014001",
+          "start_ref_usfm": "MAT 14:1",
+          "end_ref": "40014002",
+          "end_ref_usfm": "MAT 14:2"
+        },
+        {
+          "start_ref": "41006014",
+          "start_ref_usfm": "MRK 6:14",
+          "end_ref": "41006016",
+          "end_ref_usfm": "MRK 6:16"
+        },
+        {
+          "start_ref": "42009007",
+          "start_ref_usfm": "LUK 9:7",
+          "end_ref": "42009009",
+          "end_ref_usfm": "LUK 9:9"
+        },
+        {
+          "start_ref": "42013031",
+          "start_ref_usfm": "LUK 13:31",
+          "end_ref": "42013033",
+          "end_ref_usfm": "LUK 13:33"
+        },
+        {
+          "start_ref": "42023007",
+          "start_ref_usfm": "LUK 23:7",
+          "end_ref": "42023012",
+          "end_ref_usfm": "LUK 23:12"
+        },
+        {
+          "start_ref": "41006017",
+          "start_ref_usfm": "MRK 6:17",
+          "end_ref": "41006018",
+          "end_ref_usfm": "MRK 6:18"
+        },
+        {
+          "start_ref": "42023006",
+          "start_ref_usfm": "LUK 23:6",
+          "end_ref": "42023011",
+          "end_ref_usfm": "LUK 23:11"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 734377,
+    "reference_id": 203477,
+    "version": "1.0.1",
+    "title": "Herode Mkuu",
+    "media_type": "Text",
+    "index_reference": "herode mkuu",
+    "language": "swh",
+    "review_level": "None",
+    "content": "<p>Herode Mkuu alikuwa mfalme wa Yudea aliyeteuliwa na Warumi kuanzia mwaka 37 hadi 4 Kabla ya Krsito (KK). Herode Mkuu alikuwa mfalme wakati Yesu alizaliwa (<a href=\"https://ref.ly/Matt2:1\">Mathayo 2:1</a>; <a href=\"https://ref.ly/Luke1:5\">Luka 1:5</a>). Alikuwa kiongozi wa kijeshi mwenye nguvu, mwanasiasa stadi, na mtawala mkali. Alizaliwa katika familia ya Waedomu (Idumea) yenye uhusiano na Warumi. Alipata mamlaka kwa kujipendekeza kwa Warumi, na alihifadhi mamlaka hii kwa kuwa mkatili kwa yeyote aliyempinga.</p><p>Herode alijulikana kwa miradi yake mikubwa ya ujenzi. Mafanikio yake makubwa yalikuwa kujenga upya na kupamba hekalu la Yerusalemu, ambalo lilianza karibu mwaka wa 20 KK (Josephus, <em>Antiquities</em> 15.8.1). Hii ililifanya kuwa moja ya majengo ya kuvutia zaidi katika ulimwengu wa kale. Pia alijenga Kaisaria na kuifanya makao makuu ya Kirumi huko Palestina. Herode alipata jina &quot;the Great&quot; kutokana na sifa yake kama mjenzi bora.</p><p>Herode alijulikana kwa matatizo yake ya kifamilia na matibabu makali kwa wapinzani au vitisho vilivyodhaniwa. Aliwaua wake zake wawili na wanawe watatu alipowashuku kupanga njama dhidi yake. Kaisari Augusto aliwahi kusema angependa kuwa <em>nguruwe</em> wa Herode kuliko <em>mwana</em> wake (mchezo wa maneno kwa Kigiriki kwani maneno hayo mawili yanafanana—<em>hus</em>, <em>huios</em>). Yesu alipozaliwa karibu na mwisho wa utawala wa Herode na Herode aliposikia akitajwa kama &quot;mfalme&quot; wa baadaye, alijaribu kumuua. Akiwa hawezi kumpata mvulana huyo, Herode aliamuru kuuawa kwa wavulana wote walio chini ya miaka miwili katika eneo la Bethlehemu (tazama <a href=\"https://ref.ly/Matt2:1-Matt2:20\">Mathayo 2:1–20</a>). Kitendo hiki kilikuwa cha kawaida kwa ukatili na hofu yake.</p><p>Herode aliitwa &quot;mfalme wa Wayahudi,&quot; lakini watu wa Kiyahudi hawakumkubali kama mfalme wao halisi. Hakuwa kutoka ukoo wa Mfalme Daudi na alikuwa Medomu, mzao wa Esau, si Myahudi.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt2:1-Matt2:20\">Mathayo 2:1–20</a>; <a href=\"https://ref.ly/Luke1:5\">Luka 1:5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002001",
+          "end_ref_usfm": "MAT 2:1"
+        },
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001005",
+          "end_ref_usfm": "LUK 1:5"
+        },
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002020",
+          "end_ref_usfm": "MAT 2:20"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 734350,
+    "reference_id": 203450,
+    "version": "1.0.1",
+    "title": "Hezekia",
+    "media_type": "Text",
+    "index_reference": "hezekia",
+    "language": "swh",
+    "review_level": "None",
+    "content": "<p>Hezekia alikuwa mmoja wa wafalme bora wa Yuda. Alitawala kuanzia 728 hadi 686 Kabla ya Krsito (KK). Baba yake, Ahazi, aliacha kumwabudu Mungu. Hata hivyo, Hezekia alihimiza ibada ya kweli ya Mungu. Alirekebisha milango ya hekalu, aliwaandaa Walawi kwa ajili ya huduma takatifu, na akaanzisha tena sherehe za kidini. Alitoa dhabihu, alirejesha huduma ya kikuhani ya hekalu, na alialika watu kutoka Yuda na Israeli kusherehekea Pasaka huko Yerusalemu (<a href=\"https://ref.ly/2Chr29:1-2Chr30:27\">2 Mambo ya Nyakati 29–30</a>). Baada ya sherehe, aliharibu maeneo ya ibada ya kipagani.</p><p>Baada ya Hezekia kuanza utawala wake, Waashuri, wakiongozwa na Shalmanesa V na baadaye Sargoni II, walishinda ufalme wa kaskazini. Walihamisha watu wake na kuleta wageni mwaka 722 KK. Sargoni II alipokufa mwaka 705 KK, mwanawe Senakeribu alichukua madaraka, na kusababisha uasi mkubwa. Hezekia alikoma kulipa kodi ambayo baba yake Ahazi alikuwa akilipa (<a href=\"https://ref.ly/2Kgs18:7\">2 Wafalme 18:7</a>; tazama <a href=\"https://ref.ly/2Kgs16:7\">16:7</a>). Matokeo yake, mwaka 701 KK, Senakeribu alivamia Yuda. Hezekia alijaribu kumridhisha mtawala wa Ashuri kwa kodi kubwa, lakini hii haikufaulu. Vikosi vya Ashuri vilitishia Yerusalemu na kumdhihaki Hezekia kwa kumtumaini Bwana (<a href=\"https://ref.ly/2Kgs18:17-2Kgs18:35\">2 Wafalme 18:17–35</a>). Hezekia alijibu kwa maombolezo na maombi. Bwana, kupitia nabii Isaya, alimhakikishia Hezekia kwamba maombi yake yamesikika na kwamba Senakeribu hatashinda Yerusalemu (<a href=\"https://ref.ly/2Kgs19:1-2Kgs19:34\">2 Wafalme 19:1–34</a>).</p><p>Wakati huo, Hezekia alikuwa mgonjwa sana (<a href=\"https://ref.ly/2Kgs20:1-2Kgs20:11\">2 Wafalme 20:1–11</a>). Isaya alimwambia ajiandae kwa kifo, lakini Hezekia alisali kwa Bwana kwa ajili ya uponyaji. Bwana alimuahidi miaka kumi na tano zaidi ya maisha na ukombozi kutoka kwa Waashuri. Baada ya kupona, Hezekia kwa busara mbaya alimkaribisha mfalme wa Babeli, Merodaki Baladani, katika ikulu yake. Alimwonyesha hazina za hekalu na kutafuta msaada kutoka Babeli badala ya Bwana. Isaya alitabiri kwamba hazina hizo zingechukuliwa hadi Babeli (<a href=\"https://ref.ly/2Kgs20:12-2Kgs20:19\">2 Wafalme 20:12–19</a>).</p><p>Baada ya tishio la Waashuru mwaka wa 701 Kabla ya Kristo (KK), Hezekia alifurahia miaka ya amani na mafanikio. Alifariki mwaka wa 686 KK, na mwanawe Manase alimrithi.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/2Kgs18:1-2Kgs20:21\">2 Wafalme 18:1–20:21</a>; <a href=\"https://ref.ly/2Chr28:27-2Chr32:33\">2 Mambo ya Nyakati 28:27–32:33</a>; <a href=\"https://ref.ly/Isa36:1-Isa39:8\">Isaya 36:1–39:8</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12016007",
+          "start_ref_usfm": "2KI 16:7",
+          "end_ref": "12016007",
+          "end_ref_usfm": "2KI 16:7"
+        },
+        {
+          "start_ref": "12018007",
+          "start_ref_usfm": "2KI 18:7",
+          "end_ref": "12018007",
+          "end_ref_usfm": "2KI 18:7"
+        },
+        {
+          "start_ref": "12020012",
+          "start_ref_usfm": "2KI 20:12",
+          "end_ref": "12020019",
+          "end_ref_usfm": "2KI 20:19"
+        },
+        {
+          "start_ref": "12020001",
+          "start_ref_usfm": "2KI 20:1",
+          "end_ref": "12020011",
+          "end_ref_usfm": "2KI 20:11"
+        },
+        {
+          "start_ref": "12018001",
+          "start_ref_usfm": "2KI 18:1",
+          "end_ref": "12020021",
+          "end_ref_usfm": "2KI 20:21"
+        },
+        {
+          "start_ref": "23036001",
+          "start_ref_usfm": "ISA 36:1",
+          "end_ref": "23039008",
+          "end_ref_usfm": "ISA 39:8"
+        },
+        {
+          "start_ref": "14029001",
+          "start_ref_usfm": "2CH 29:1",
+          "end_ref": "14030027",
+          "end_ref_usfm": "2CH 30:27"
+        },
+        {
+          "start_ref": "12018017",
+          "start_ref_usfm": "2KI 18:17",
+          "end_ref": "12018035",
+          "end_ref_usfm": "2KI 18:35"
+        },
+        {
+          "start_ref": "12019001",
+          "start_ref_usfm": "2KI 19:1",
+          "end_ref": "12019034",
+          "end_ref_usfm": "2KI 19:34"
+        },
+        {
+          "start_ref": "14028027",
+          "start_ref_usfm": "2CH 28:27",
+          "end_ref": "14032033",
+          "end_ref_usfm": "2CH 32:33"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

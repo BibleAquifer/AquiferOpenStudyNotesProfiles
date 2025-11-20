@@ -1,0 +1,344 @@
+[
+  {
+    "content_id": 500462,
+    "reference_id": 203405,
+    "version": "1.0.1",
+    "title": "Leah",
+    "media_type": "Text",
+    "index_reference": "leah",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>Leah was Laban&apos;s first daughter, Jacob&apos;s first wife whom he did not love, and Rachel&apos;s older sister.</p><p>Jacob tricked his father Isaac into giving him the blessing meant for Esau (<a href=\"https://ref.ly/Gen27:1-Gen27:40\">Genesis 27:1–40</a>). Then he went to his uncle Laban in Mesopotamia. He wanted to escape Esau&apos;s anger and find a wife (<a href=\"https://ref.ly/Gen27:41-Gen28:5\">Genesis 27:41–28:5</a>). Jacob fell in love with his cousin Rachel and agreed with her father to marry her after working for seven years (<a href=\"https://ref.ly/Gen29:17-Gen29:20\">Genesis 29:17–20</a>). During the wedding feast, Laban tricked Jacob by giving him Leah instead of Rachel (<a href=\"https://ref.ly/Gen29:21-Gen29:25\">Genesis 29:21–25</a>). Laban said the custom required the older daughter to marry first (<a href=\"https://ref.ly/Gen29:26\">Genesis 29:26</a>). Leah was less attractive than her sister (<a href=\"https://ref.ly/Gen29:17\">Genesis 29:17</a>). Jacob did not love her (<a href=\"https://ref.ly/Gen29:30-Gen29:35\">Genesis 29:30–35</a>).</p><p>Jacob loved Rachel so much that he worked another seven years to marry her. Because Jacob favored Rachel, the Lord blessed Leah with six sons and a daughter before Rachel could have children (<a href=\"https://ref.ly/Gen29:31-Gen30:22\">Genesis 29:31–30:22</a>): </p><ol><li><p>Reuben</p></li><li><p>Simeon</p></li><li><p>Levi</p></li><li><p>Judah</p></li><li><p>Issachar</p></li><li><p>Zebulun</p></li><li><p>Dinah </p></li></ol><p>At one point, Rachel traded with Leah for some mandrakes in exchange for time with Jacob. People thought mandrakes helped women become pregnant. After a night with Jacob, Leah became pregnant and gave birth to her fifth son (<a href=\"https://ref.ly/Gen30:14-Gen30:17\">Genesis 30:14–17</a>). This increased her advantage in her rivalry with Rachel.</p><p>Leah was the mother of two important tribes in Israelite history. The tribe of Levi was the tribe of priests. The tribe of Judah became the royal tribe, leading to Jesus Christ, the promised descendant (<a href=\"https://ref.ly/Gen3:15\">Genesis 3:15</a>; <a href=\"https://ref.ly/Gen12:2-Gen12:3\">12:2–3</a>; <a href=\"https://ref.ly/2Sam7:16\">2 Samuel 7:16</a>; <a href=\"https://ref.ly/Matt1:1\">Matthew 1:1</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen29:14-Gen29:35\">Genesis 29:14–35</a>; <a href=\"https://ref.ly/Gen30:9-Gen30:21\">30:9–21</a>; <a href=\"https://ref.ly/Gen31:4-Gen31:16\">31:4–16</a>; <a href=\"https://ref.ly/Gen33:1-Gen33:7\">33:1–7</a>; <a href=\"https://ref.ly/Gen34:1\">34:1</a>; <a href=\"https://ref.ly/Gen46:8-Gen46:15\">46:8–15</a>; <a href=\"https://ref.ly/Gen49:31\">49:31</a>; <a href=\"https://ref.ly/Ruth4:11\">Ruth 4:11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01003015",
+          "start_ref_usfm": "GEN 3:15",
+          "end_ref": "01003015",
+          "end_ref_usfm": "GEN 3:15"
+        },
+        {
+          "start_ref": "01029017",
+          "start_ref_usfm": "GEN 29:17",
+          "end_ref": "01029017",
+          "end_ref_usfm": "GEN 29:17"
+        },
+        {
+          "start_ref": "01029026",
+          "start_ref_usfm": "GEN 29:26",
+          "end_ref": "01029026",
+          "end_ref_usfm": "GEN 29:26"
+        },
+        {
+          "start_ref": "01034001",
+          "start_ref_usfm": "GEN 34:1",
+          "end_ref": "01034001",
+          "end_ref_usfm": "GEN 34:1"
+        },
+        {
+          "start_ref": "01049031",
+          "start_ref_usfm": "GEN 49:31",
+          "end_ref": "01049031",
+          "end_ref_usfm": "GEN 49:31"
+        },
+        {
+          "start_ref": "08004011",
+          "start_ref_usfm": "RUT 4:11",
+          "end_ref": "08004011",
+          "end_ref_usfm": "RUT 4:11"
+        },
+        {
+          "start_ref": "10007016",
+          "start_ref_usfm": "2SA 7:16",
+          "end_ref": "10007016",
+          "end_ref_usfm": "2SA 7:16"
+        },
+        {
+          "start_ref": "40001001",
+          "start_ref_usfm": "MAT 1:1",
+          "end_ref": "40001001",
+          "end_ref_usfm": "MAT 1:1"
+        },
+        {
+          "start_ref": "01012002",
+          "start_ref_usfm": "GEN 12:2",
+          "end_ref": "01012003",
+          "end_ref_usfm": "GEN 12:3"
+        },
+        {
+          "start_ref": "01029021",
+          "start_ref_usfm": "GEN 29:21",
+          "end_ref": "01029025",
+          "end_ref_usfm": "GEN 29:25"
+        },
+        {
+          "start_ref": "01029031",
+          "start_ref_usfm": "GEN 29:31",
+          "end_ref": "01030022",
+          "end_ref_usfm": "GEN 30:22"
+        },
+        {
+          "start_ref": "01030014",
+          "start_ref_usfm": "GEN 30:14",
+          "end_ref": "01030017",
+          "end_ref_usfm": "GEN 30:17"
+        },
+        {
+          "start_ref": "01027001",
+          "start_ref_usfm": "GEN 27:1",
+          "end_ref": "01027040",
+          "end_ref_usfm": "GEN 27:40"
+        },
+        {
+          "start_ref": "01027041",
+          "start_ref_usfm": "GEN 27:41",
+          "end_ref": "01028005",
+          "end_ref_usfm": "GEN 28:5"
+        },
+        {
+          "start_ref": "01033001",
+          "start_ref_usfm": "GEN 33:1",
+          "end_ref": "01033007",
+          "end_ref_usfm": "GEN 33:7"
+        },
+        {
+          "start_ref": "01029017",
+          "start_ref_usfm": "GEN 29:17",
+          "end_ref": "01029020",
+          "end_ref_usfm": "GEN 29:20"
+        },
+        {
+          "start_ref": "01029030",
+          "start_ref_usfm": "GEN 29:30",
+          "end_ref": "01029035",
+          "end_ref_usfm": "GEN 29:35"
+        },
+        {
+          "start_ref": "01029014",
+          "start_ref_usfm": "GEN 29:14",
+          "end_ref": "01029035",
+          "end_ref_usfm": "GEN 29:35"
+        },
+        {
+          "start_ref": "01030009",
+          "start_ref_usfm": "GEN 30:9",
+          "end_ref": "01030021",
+          "end_ref_usfm": "GEN 30:21"
+        },
+        {
+          "start_ref": "01031004",
+          "start_ref_usfm": "GEN 31:4",
+          "end_ref": "01031016",
+          "end_ref_usfm": "GEN 31:16"
+        },
+        {
+          "start_ref": "01046008",
+          "start_ref_usfm": "GEN 46:8",
+          "end_ref": "01046015",
+          "end_ref_usfm": "GEN 46:15"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 500456,
+    "reference_id": 203399,
+    "version": "1.0.1",
+    "title": "Lot",
+    "media_type": "Text",
+    "index_reference": "lot",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>Lot was Abraham’s nephew and the ancestor of the Moabites and Ammonites. Like Abraham, Lot was born in Ur and traveled with Terah to Haran (<a href=\"https://ref.ly/Gen11:27-Gen11:32\">Genesis 11:27–32</a>). After Terah died, Lot joined Abraham on the journey to Canaan and Egypt.</p><p>When Lot and Abraham returned from Egypt to Canaan, their flocks and herds became too large for them to live together. So, Abraham allowed Lot to choose land for himself. Lot chose the fertile plain of the Jordan, which was like &quot;the garden of the LORD&quot; (<a href=\"https://ref.ly/Gen13:10\">Genesis 13:10</a>). Eventually, he settled in Sodom. Lot&apos;s growing involvement with the corrupt cities of the plain weakened his moral values.</p><p>While Lot lived in Sodom, four Mesopotamian kings defeated the kings of five nearby towns. They stole things from the towns they had defeated and took Lot, his family, and his possessions (<a href=\"https://ref.ly/Gen14:1-Gen14:12\">Genesis 14:1–12</a>). When Abraham heard about this, he led a an attack against the invaders and rescued the prisoners and property (<a href=\"https://ref.ly/Gen14:13-Gen14:16\">Genesis 14:13–16</a>).</p><p>Due to the wickedness of Sodom and Gomorrah, God decided to destroy these cities. He sent two angels to Lot in Sodom to urge him to leave the city that was about to be destroyed (<a href=\"https://ref.ly/Gen19:1-Gen19:15\">Genesis 19:1–15</a>). The city&apos;s evil was clear when there was an attempted attack on the visitors. Lot&apos;s offer to sacrifice his daughters and his hesitation to leave showed his moral decline. Only his immediate family left with him, and his wife was destroyed when she disobeyed by looking back. </p><p>After Sodom&apos;s destruction, Lot&apos;s daughters, worried about not having husbands, made Lot drunk to have children with him. Their sons, Moab and Ben-ammi, became ancestors of the Moabites and Ammonites (<a href=\"https://ref.ly/Gen19:30-Gen19:38\">Genesis 19:30–38</a>). These two nations that became constant enemies of Israel (see <a href=\"https://ref.ly/Deut23:3-Deut23:6\">Deuteronomy 23:3–6</a>). Despite Lot&apos;s actions, Peter describes Lot as a “<span>righteous man, living among them day after day, was tormented in his righteous soul by the lawless deeds he saw and heard</span>” (see <a href=\"https://ref.ly/2Pet2:6-2Pet2:9\">2 Peter 2:6–9</a>). This view of Lot may come from Jewish tradition, as it is hard to see in the Genesis story.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen11:27\">Genesis 11:27</a>, <a href=\"https://ref.ly/Gen11:31\">31</a>; <a href=\"https://ref.ly/Gen12:4-Gen12:5\">12:4–5</a>; <a href=\"https://ref.ly/Gen13:1-Gen13:14\">13:1–14</a>; <a href=\"https://ref.ly/Gen14:12-Gen14:16\">14:12–16</a>; <a href=\"https://ref.ly/Gen19:1-Gen19:38\">19:1–38</a>; <a href=\"https://ref.ly/Deut2:9\">Deuteronomy 2:9</a>, <a href=\"https://ref.ly/Deut2:17-Deut2:19\">17–19</a>; <a href=\"https://ref.ly/Ps83:4-Ps83:8\">Psalm 83:4–8</a>; <a href=\"https://ref.ly/Luke17:28-Luke17:33\">Luke 17:28–33</a>; <a href=\"https://ref.ly/2Pet2:6-2Pet2:9\">2 Peter 2:6–9</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011027",
+          "start_ref_usfm": "GEN 11:27",
+          "end_ref": "01011027",
+          "end_ref_usfm": "GEN 11:27"
+        },
+        {
+          "start_ref": "01011031",
+          "start_ref_usfm": "GEN 11:31",
+          "end_ref": "01011031",
+          "end_ref_usfm": "GEN 11:31"
+        },
+        {
+          "start_ref": "01013010",
+          "start_ref_usfm": "GEN 13:10",
+          "end_ref": "01013010",
+          "end_ref_usfm": "GEN 13:10"
+        },
+        {
+          "start_ref": "05002009",
+          "start_ref_usfm": "DEU 2:9",
+          "end_ref": "05002009",
+          "end_ref_usfm": "DEU 2:9"
+        },
+        {
+          "start_ref": "01011027",
+          "start_ref_usfm": "GEN 11:27",
+          "end_ref": "01011032",
+          "end_ref_usfm": "GEN 11:32"
+        },
+        {
+          "start_ref": "01019030",
+          "start_ref_usfm": "GEN 19:30",
+          "end_ref": "01019038",
+          "end_ref_usfm": "GEN 19:38"
+        },
+        {
+          "start_ref": "01019001",
+          "start_ref_usfm": "GEN 19:1",
+          "end_ref": "01019038",
+          "end_ref_usfm": "GEN 19:38"
+        },
+        {
+          "start_ref": "01014013",
+          "start_ref_usfm": "GEN 14:13",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        },
+        {
+          "start_ref": "01014012",
+          "start_ref_usfm": "GEN 14:12",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        },
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014012",
+          "end_ref_usfm": "GEN 14:12"
+        },
+        {
+          "start_ref": "05023003",
+          "start_ref_usfm": "DEU 23:3",
+          "end_ref": "05023006",
+          "end_ref_usfm": "DEU 23:6"
+        },
+        {
+          "start_ref": "01012004",
+          "start_ref_usfm": "GEN 12:4",
+          "end_ref": "01012005",
+          "end_ref_usfm": "GEN 12:5"
+        },
+        {
+          "start_ref": "01019001",
+          "start_ref_usfm": "GEN 19:1",
+          "end_ref": "01019015",
+          "end_ref_usfm": "GEN 19:15"
+        },
+        {
+          "start_ref": "61002006",
+          "start_ref_usfm": "2PE 2:6",
+          "end_ref": "61002009",
+          "end_ref_usfm": "2PE 2:9"
+        },
+        {
+          "start_ref": "01013001",
+          "start_ref_usfm": "GEN 13:1",
+          "end_ref": "01013014",
+          "end_ref_usfm": "GEN 13:14"
+        },
+        {
+          "start_ref": "05002017",
+          "start_ref_usfm": "DEU 2:17",
+          "end_ref": "05002019",
+          "end_ref_usfm": "DEU 2:19"
+        },
+        {
+          "start_ref": "19083004",
+          "start_ref_usfm": "PSA 83:4",
+          "end_ref": "19083008",
+          "end_ref_usfm": "PSA 83:8"
+        },
+        {
+          "start_ref": "42017028",
+          "start_ref_usfm": "LUK 17:28",
+          "end_ref": "42017033",
+          "end_ref_usfm": "LUK 17:33"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 500561,
+    "reference_id": 203504,
+    "version": "1.0.1",
+    "title": "Luke",
+    "media_type": "Text",
+    "index_reference": "luke",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>Luke was a gentile (non-Jewish) doctor who became a Christian and a trusted helper of Paul in his missions. He wrote both the Gospel of Luke and the Acts of the Apostles, which make up about one-quarter of the New Testament.</p><p>We know little about Luke&apos;s background, but he likely first met Paul in western Asia Minor. There, he became a Christian. He left his home to serve Jesus and spread the good news about him as Paul&apos;s dedicated assistant. Paul warmly calls him &quot;the beloved physician&quot; and a faithful &quot;fellow worker&quot; (<a href=\"https://ref.ly/Col4:14\">Colossians 4:14</a>; <a href=\"https://ref.ly/Phlm1:24\">Philemon 1:24</a>). Luke was the only Christian who stayed with Paul when he awaited execution in Rome (<a href=\"https://ref.ly/2Tim4:11\">2 Timothy 4:11</a>). He is also the only non-Jewish person whose writings are in the New Testament.</p><p>During Paul&apos;s last trip to Jerusalem, Luke likely gathered information for his Gospel and the early part of the book of Acts. He interviewed people in Judea while Paul was imprisoned there for two years. Luke spoke with those who heard and saw Jesus and studied what others had written about him. He then wrote his own detailed account of Jesus&apos;s life and teachings (see <a href=\"https://ref.ly/Luke1:1-Luke1:4\">Luke 1:1–4</a>).</p><p>When Paul traveled by ship to Rome for his trial, Luke went with him. While Paul was under house arrest, waiting for his trial, Luke might have used this time to write the book of Acts. The first fifteen chapters give an account of the earliest missionary work in the order that it happened and as told to him by the early followers of Jesus. Paul himself probably told him some of these things. Starting at <a href=\"https://ref.ly/Acts16:10\">Acts 16:10</a>, Luke writes about what he saw and experienced himself when he joined Paul&apos;s team. In Acts, Luke emphasizes how the Holy Spirit empowered and guided the early missionaries in their work (see <a href=\"https://ref.ly/Acts1:4-Acts1:5\">Acts 1:4–5</a>, <a href=\"https://ref.ly/Acts1:8\">8</a>). The book ends with Paul still under house arrest in Rome (<a href=\"https://ref.ly/Acts28:30-Acts28:31\">Acts 28:30–31</a>).</p><p>We owe Luke for many unique passages. These include his account of Jesus’s birth, descriptions of Jesus’s ministry to women, and many words about Jesus caring for the poor. He also provides the only comprehensive account of the first thirty years of Christian missionary activity, all carefully documented. Through Luke’s writings, we gain a deeper appreciation of the crucial work of the Holy Spirit in the ministry of Jesus and the early missionaries.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Luke1:3\">Luke 1:3</a>; <a href=\"https://ref.ly/Acts1:1\">Acts 1:1</a>; <a href=\"https://ref.ly/Acts16:10\">16:10</a>; <a href=\"https://ref.ly/Col4:14\">Colossians 4:14</a>; <a href=\"https://ref.ly/2Tim4:11\">2 Timothy 4:11</a>; <a href=\"https://ref.ly/Phlm1:24\">Philemon 1:24</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001003",
+          "start_ref_usfm": "LUK 1:3",
+          "end_ref": "42001003",
+          "end_ref_usfm": "LUK 1:3"
+        },
+        {
+          "start_ref": "44001001",
+          "start_ref_usfm": "ACT 1:1",
+          "end_ref": "44001001",
+          "end_ref_usfm": "ACT 1:1"
+        },
+        {
+          "start_ref": "44001008",
+          "start_ref_usfm": "ACT 1:8",
+          "end_ref": "44001008",
+          "end_ref_usfm": "ACT 1:8"
+        },
+        {
+          "start_ref": "44016010",
+          "start_ref_usfm": "ACT 16:10",
+          "end_ref": "44016010",
+          "end_ref_usfm": "ACT 16:10"
+        },
+        {
+          "start_ref": "51004014",
+          "start_ref_usfm": "COL 4:14",
+          "end_ref": "51004014",
+          "end_ref_usfm": "COL 4:14"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004011",
+          "end_ref_usfm": "2TI 4:11"
+        },
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "42001001",
+          "start_ref_usfm": "LUK 1:1",
+          "end_ref": "42001004",
+          "end_ref_usfm": "LUK 1:4"
+        },
+        {
+          "start_ref": "44028030",
+          "start_ref_usfm": "ACT 28:30",
+          "end_ref": "44028031",
+          "end_ref_usfm": "ACT 28:31"
+        },
+        {
+          "start_ref": "44001004",
+          "start_ref_usfm": "ACT 1:4",
+          "end_ref": "44001005",
+          "end_ref_usfm": "ACT 1:5"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

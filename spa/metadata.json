@@ -4,7 +4,7 @@
     "resource_type": "Study Notes",
     "title": "Aquifer Open Study Notes (Profiles)",
     "aquifer_name": "Study Notes - Profiles (Tyndale)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "collection_title": "Study Notes - Profiles (Tyndale)",
     "short_name": "TSNP",
     "license_info": {
@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesProfiles",
-    "date_created": "2025-11-06",
+    "date_created": "2025-11-17",
     "language": "spa",
     "localizations": [
       "eng",
@@ -49,7 +49,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-06T13:14:28.501732"
+      "dateCreated": "2025-11-17T09:32:09.597707"
     },
     "idAuthorities": {
       "aquifer": {
@@ -63,7 +63,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesProfiles": {
-            "timestamp": "2025-11-06T13:14:28.501732"
+            "timestamp": "2025-11-17T09:32:09.597707"
           }
         }
       },
@@ -93,1001 +93,557 @@
       }
     },
     "ingredients": {
-      "json/000001.content.json": {
-        "mimeType": "text/json",
-        "size": 7690
-      },
-      "json/000002.content.json": {
-        "mimeType": "text/json",
-        "size": 6546
-      },
-      "json/000003.content.json": {
-        "mimeType": "text/json",
-        "size": 7611
-      },
-      "json/000004.content.json": {
-        "mimeType": "text/json",
-        "size": 6172
-      },
-      "json/000005.content.json": {
-        "mimeType": "text/json",
-        "size": 19483
-      },
-      "json/000006.content.json": {
-        "mimeType": "text/json",
-        "size": 7624
-      },
-      "json/000007.content.json": {
-        "mimeType": "text/json",
-        "size": 5845
-      },
-      "json/000008.content.json": {
-        "mimeType": "text/json",
-        "size": 4779
-      },
-      "json/000009.content.json": {
-        "mimeType": "text/json",
-        "size": 13766
-      },
-      "json/000010.content.json": {
-        "mimeType": "text/json",
-        "size": 4773
-      },
-      "json/000011.content.json": {
-        "mimeType": "text/json",
-        "size": 4929
-      },
-      "json/000012.content.json": {
-        "mimeType": "text/json",
-        "size": 3984
-      },
-      "json/000013.content.json": {
-        "mimeType": "text/json",
-        "size": 5851
-      },
-      "json/000014.content.json": {
-        "mimeType": "text/json",
-        "size": 12031
-      },
-      "json/000015.content.json": {
-        "mimeType": "text/json",
-        "size": 4397
-      },
-      "json/000016.content.json": {
-        "mimeType": "text/json",
-        "size": 6231
-      },
-      "json/000017.content.json": {
-        "mimeType": "text/json",
-        "size": 8481
-      },
-      "json/000018.content.json": {
-        "mimeType": "text/json",
-        "size": 7474
-      },
-      "json/000019.content.json": {
-        "mimeType": "text/json",
-        "size": 7386
-      },
-      "json/000020.content.json": {
-        "mimeType": "text/json",
-        "size": 7292
-      },
-      "json/000021.content.json": {
-        "mimeType": "text/json",
-        "size": 6385
-      },
-      "json/000022.content.json": {
-        "mimeType": "text/json",
-        "size": 7732
-      },
-      "json/000023.content.json": {
-        "mimeType": "text/json",
-        "size": 4828
-      },
-      "json/000024.content.json": {
-        "mimeType": "text/json",
-        "size": 6624
-      },
-      "json/000025.content.json": {
-        "mimeType": "text/json",
-        "size": 7857
-      },
-      "json/000026.content.json": {
-        "mimeType": "text/json",
-        "size": 18018
-      },
-      "json/000027.content.json": {
-        "mimeType": "text/json",
-        "size": 2691
-      },
-      "json/000028.content.json": {
-        "mimeType": "text/json",
-        "size": 6898
-      },
-      "json/000029.content.json": {
-        "mimeType": "text/json",
-        "size": 7609
-      },
-      "json/000030.content.json": {
-        "mimeType": "text/json",
-        "size": 5654
-      },
-      "json/000031.content.json": {
-        "mimeType": "text/json",
-        "size": 7731
-      },
-      "json/000032.content.json": {
-        "mimeType": "text/json",
-        "size": 6663
-      },
-      "json/000033.content.json": {
-        "mimeType": "text/json",
-        "size": 5444
-      },
-      "json/000034.content.json": {
-        "mimeType": "text/json",
-        "size": 12021
-      },
-      "json/000035.content.json": {
-        "mimeType": "text/json",
-        "size": 7803
-      },
-      "json/000036.content.json": {
-        "mimeType": "text/json",
-        "size": 4916
-      },
-      "json/000037.content.json": {
-        "mimeType": "text/json",
-        "size": 9475
-      },
-      "json/000038.content.json": {
-        "mimeType": "text/json",
-        "size": 8204
-      },
-      "json/000039.content.json": {
-        "mimeType": "text/json",
-        "size": 7662
-      },
-      "json/000040.content.json": {
-        "mimeType": "text/json",
-        "size": 3083
-      },
-      "json/000041.content.json": {
-        "mimeType": "text/json",
-        "size": 4825
-      },
-      "json/000042.content.json": {
-        "mimeType": "text/json",
-        "size": 3794
-      },
-      "json/000043.content.json": {
-        "mimeType": "text/json",
-        "size": 5693
-      },
-      "json/000044.content.json": {
-        "mimeType": "text/json",
-        "size": 8142
-      },
-      "json/000045.content.json": {
-        "mimeType": "text/json",
-        "size": 5785
-      },
-      "json/000046.content.json": {
-        "mimeType": "text/json",
-        "size": 4534
-      },
-      "json/000047.content.json": {
-        "mimeType": "text/json",
-        "size": 2998
-      },
-      "json/000048.content.json": {
-        "mimeType": "text/json",
-        "size": 2608
-      },
-      "json/000049.content.json": {
-        "mimeType": "text/json",
-        "size": 7100
-      },
-      "json/000050.content.json": {
-        "mimeType": "text/json",
-        "size": 3042
-      },
-      "json/000051.content.json": {
-        "mimeType": "text/json",
-        "size": 5399
-      },
-      "json/000052.content.json": {
-        "mimeType": "text/json",
-        "size": 12945
-      },
-      "json/000053.content.json": {
-        "mimeType": "text/json",
-        "size": 9488
-      },
-      "json/000054.content.json": {
-        "mimeType": "text/json",
-        "size": 8147
-      },
-      "json/000055.content.json": {
-        "mimeType": "text/json",
-        "size": 22654
-      },
-      "json/000056.content.json": {
-        "mimeType": "text/json",
-        "size": 7471
-      },
-      "json/000057.content.json": {
-        "mimeType": "text/json",
-        "size": 12267
-      },
-      "json/000058.content.json": {
-        "mimeType": "text/json",
-        "size": 8165
-      },
-      "json/000059.content.json": {
-        "mimeType": "text/json",
-        "size": 3170
-      },
-      "json/000060.content.json": {
-        "mimeType": "text/json",
-        "size": 6748
-      },
-      "json/000061.content.json": {
-        "mimeType": "text/json",
-        "size": 4411
-      },
-      "json/000062.content.json": {
-        "mimeType": "text/json",
-        "size": 5349
-      },
-      "json/000063.content.json": {
-        "mimeType": "text/json",
-        "size": 5579
-      },
-      "json/000064.content.json": {
-        "mimeType": "text/json",
-        "size": 13879
-      },
-      "json/000065.content.json": {
-        "mimeType": "text/json",
-        "size": 5103
-      },
-      "json/000066.content.json": {
-        "mimeType": "text/json",
-        "size": 6553
-      },
-      "json/000067.content.json": {
-        "mimeType": "text/json",
-        "size": 8252
-      },
-      "json/000068.content.json": {
-        "mimeType": "text/json",
-        "size": 8019
-      },
-      "json/000069.content.json": {
-        "mimeType": "text/json",
-        "size": 12138
-      },
-      "json/000070.content.json": {
-        "mimeType": "text/json",
-        "size": 18245
-      },
-      "json/000071.content.json": {
-        "mimeType": "text/json",
-        "size": 5270
-      },
-      "json/000072.content.json": {
-        "mimeType": "text/json",
-        "size": 14780
-      },
-      "json/000073.content.json": {
-        "mimeType": "text/json",
-        "size": 7619
-      },
-      "json/000074.content.json": {
-        "mimeType": "text/json",
-        "size": 10135
-      },
-      "json/000075.content.json": {
-        "mimeType": "text/json",
-        "size": 5483
-      },
-      "json/000076.content.json": {
-        "mimeType": "text/json",
-        "size": 6987
-      },
-      "json/000077.content.json": {
-        "mimeType": "text/json",
-        "size": 8681
-      },
-      "json/000078.content.json": {
-        "mimeType": "text/json",
-        "size": 5312
-      },
-      "json/000079.content.json": {
-        "mimeType": "text/json",
-        "size": 15763
-      },
-      "json/000080.content.json": {
-        "mimeType": "text/json",
-        "size": 10273
-      },
-      "json/000081.content.json": {
-        "mimeType": "text/json",
-        "size": 5939
-      },
-      "json/000082.content.json": {
-        "mimeType": "text/json",
-        "size": 5441
-      },
-      "json/000083.content.json": {
-        "mimeType": "text/json",
-        "size": 6063
-      },
-      "json/000084.content.json": {
-        "mimeType": "text/json",
-        "size": 6751
-      },
-      "json/000085.content.json": {
-        "mimeType": "text/json",
-        "size": 5429
-      },
-      "json/000086.content.json": {
-        "mimeType": "text/json",
-        "size": 4262
-      },
-      "json/000087.content.json": {
-        "mimeType": "text/json",
-        "size": 8273
-      },
-      "json/000088.content.json": {
-        "mimeType": "text/json",
-        "size": 9058
-      },
-      "json/000089.content.json": {
-        "mimeType": "text/json",
-        "size": 4882
-      },
-      "json/000090.content.json": {
-        "mimeType": "text/json",
-        "size": 5189
-      },
-      "json/000091.content.json": {
-        "mimeType": "text/json",
-        "size": 6647
-      },
-      "json/000092.content.json": {
-        "mimeType": "text/json",
-        "size": 4171
-      },
-      "json/000093.content.json": {
-        "mimeType": "text/json",
-        "size": 7424
-      },
-      "json/000094.content.json": {
-        "mimeType": "text/json",
-        "size": 19471
-      },
-      "json/000095.content.json": {
-        "mimeType": "text/json",
-        "size": 10370
-      },
-      "json/000096.content.json": {
-        "mimeType": "text/json",
-        "size": 9624
-      },
-      "json/000097.content.json": {
-        "mimeType": "text/json",
-        "size": 5610
-      },
-      "json/000098.content.json": {
-        "mimeType": "text/json",
-        "size": 5121
-      },
-      "json/000099.content.json": {
-        "mimeType": "text/json",
-        "size": 2792
-      },
-      "json/000100.content.json": {
-        "mimeType": "text/json",
-        "size": 6492
-      },
-      "json/000101.content.json": {
-        "mimeType": "text/json",
-        "size": 16010
-      },
-      "json/000102.content.json": {
-        "mimeType": "text/json",
-        "size": 11162
-      },
-      "json/000103.content.json": {
-        "mimeType": "text/json",
-        "size": 4299
-      },
-      "json/000104.content.json": {
-        "mimeType": "text/json",
-        "size": 4448
-      },
-      "json/000105.content.json": {
-        "mimeType": "text/json",
-        "size": 5811
-      },
-      "json/000106.content.json": {
-        "mimeType": "text/json",
-        "size": 7528
-      },
-      "json/000107.content.json": {
-        "mimeType": "text/json",
-        "size": 7166
-      },
-      "json/000108.content.json": {
-        "mimeType": "text/json",
-        "size": 5235
-      },
-      "json/000109.content.json": {
-        "mimeType": "text/json",
-        "size": 9061
-      },
-      "json/000110.content.json": {
-        "mimeType": "text/json",
-        "size": 4553
-      },
-      "json/000111.content.json": {
-        "mimeType": "text/json",
-        "size": 8219
-      },
-      "json/000112.content.json": {
-        "mimeType": "text/json",
-        "size": 7423
-      },
-      "json/000113.content.json": {
-        "mimeType": "text/json",
-        "size": 3396
-      },
-      "json/000114.content.json": {
-        "mimeType": "text/json",
-        "size": 10216
-      },
-      "json/000115.content.json": {
-        "mimeType": "text/json",
-        "size": 5146
-      },
-      "json/000116.content.json": {
-        "mimeType": "text/json",
-        "size": 8935
-      },
-      "json/000117.content.json": {
-        "mimeType": "text/json",
-        "size": 14989
-      },
-      "json/000118.content.json": {
-        "mimeType": "text/json",
-        "size": 4333
-      },
-      "json/000119.content.json": {
-        "mimeType": "text/json",
-        "size": 32441
-      },
-      "json/000120.content.json": {
-        "mimeType": "text/json",
-        "size": 11406
-      },
-      "json/000121.content.json": {
-        "mimeType": "text/json",
-        "size": 8045
-      },
-      "json/000122.content.json": {
-        "mimeType": "text/json",
-        "size": 5604
-      },
-      "json/000123.content.json": {
-        "mimeType": "text/json",
-        "size": 5208
-      },
-      "json/000124.content.json": {
-        "mimeType": "text/json",
-        "size": 3545
-      },
-      "md/000001.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4449
-      },
-      "md/000002.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3755
-      },
-      "md/000003.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4203
-      },
-      "md/000004.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3793
-      },
-      "md/000005.content.md": {
-        "mimeType": "text/markdown",
-        "size": 9518
-      },
-      "md/000006.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4680
-      },
-      "md/000007.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3784
-      },
-      "md/000008.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3331
-      },
-      "md/000009.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6103
-      },
-      "md/000010.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3305
-      },
-      "md/000011.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3329
-      },
-      "md/000012.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4208
-      },
-      "md/000013.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4197
-      },
-      "md/000014.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6445
-      },
-      "md/000015.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3293
-      },
-      "md/000016.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5246
-      },
-      "md/000017.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5989
-      },
-      "md/000018.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4599
-      },
-      "md/000019.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5015
-      },
-      "md/000020.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4702
-      },
-      "md/000021.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3951
-      },
-      "md/000022.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4396
-      },
-      "md/000023.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3052
-      },
-      "md/000024.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4862
-      },
-      "md/000025.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4851
-      },
-      "md/000026.content.md": {
-        "mimeType": "text/markdown",
-        "size": 9467
-      },
-      "md/000027.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2248
-      },
-      "md/000028.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4822
-      },
-      "md/000029.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4797
-      },
-      "md/000030.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3344
-      },
-      "md/000031.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3830
-      },
-      "md/000032.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3893
-      },
-      "md/000033.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3628
-      },
-      "md/000034.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6045
-      },
-      "md/000035.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4688
-      },
-      "md/000036.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4002
-      },
-      "md/000037.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4899
-      },
-      "md/000038.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4376
-      },
-      "md/000039.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4174
-      },
-      "md/000040.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2473
-      },
-      "md/000041.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3541
-      },
-      "md/000042.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3176
-      },
-      "md/000043.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3888
-      },
-      "md/000044.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4197
-      },
-      "md/000045.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3770
-      },
-      "md/000046.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3747
-      },
-      "md/000047.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2896
-      },
-      "md/000048.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2817
-      },
-      "md/000049.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4335
-      },
-      "md/000050.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2840
-      },
-      "md/000051.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3449
-      },
-      "md/000052.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5886
-      },
-      "md/000053.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4306
-      },
-      "md/000054.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4191
-      },
-      "md/000055.content.md": {
-        "mimeType": "text/markdown",
-        "size": 10826
-      },
-      "md/000056.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4479
-      },
-      "md/000057.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5296
-      },
-      "md/000058.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4687
-      },
-      "md/000059.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3083
-      },
-      "md/000060.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4317
-      },
-      "md/000061.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3290
-      },
-      "md/000062.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3323
-      },
-      "md/000063.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3511
-      },
-      "md/000064.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6160
-      },
-      "md/000065.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3483
-      },
-      "md/000066.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3887
-      },
-      "md/000067.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5221
-      },
-      "md/000068.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4846
-      },
-      "md/000069.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6537
-      },
-      "md/000070.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7942
-      },
-      "md/000071.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3664
-      },
-      "md/000072.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6460
-      },
-      "md/000073.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3674
-      },
-      "md/000074.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5114
-      },
-      "md/000075.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4002
-      },
-      "md/000076.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3672
-      },
-      "md/000077.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3854
-      },
-      "md/000078.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3046
-      },
-      "md/000079.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6793
-      },
-      "md/000080.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5125
-      },
-      "md/000081.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6063
-      },
-      "md/000082.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5152
-      },
-      "md/000083.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3961
-      },
-      "md/000084.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4155
-      },
-      "md/000085.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4073
-      },
-      "md/000086.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4589
-      },
-      "md/000087.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4856
-      },
-      "md/000088.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4908
-      },
-      "md/000089.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3430
-      },
-      "md/000090.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3496
-      },
-      "md/000091.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4134
-      },
-      "md/000092.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3179
-      },
-      "md/000093.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4096
-      },
-      "md/000094.content.md": {
-        "mimeType": "text/markdown",
-        "size": 9870
-      },
-      "md/000095.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5192
-      },
-      "md/000096.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4695
-      },
-      "md/000097.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3683
-      },
-      "md/000098.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3631
-      },
-      "md/000099.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2195
-      },
-      "md/000100.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3490
-      },
-      "md/000101.content.md": {
-        "mimeType": "text/markdown",
-        "size": 9559
-      },
-      "md/000102.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6156
-      },
-      "md/000103.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3620
-      },
-      "md/000104.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3265
-      },
-      "md/000105.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3304
-      },
-      "md/000106.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4056
-      },
-      "md/000107.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6151
-      },
-      "md/000108.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3480
-      },
-      "md/000109.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6834
-      },
-      "md/000110.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3431
-      },
-      "md/000111.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4591
-      },
-      "md/000112.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4565
-      },
-      "md/000113.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3120
-      },
-      "md/000114.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5303
-      },
-      "md/000115.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3852
-      },
-      "md/000116.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4556
-      },
-      "md/000117.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6013
-      },
-      "md/000118.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3266
-      },
-      "md/000119.content.md": {
-        "mimeType": "text/markdown",
-        "size": 13164
-      },
-      "md/000120.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5621
-      },
-      "md/000121.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4755
-      },
-      "md/000122.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3902
-      },
-      "md/000123.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3345
-      },
-      "md/000124.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2619
-      },
-      "pdf/000001.content.pdf": {
+      "json/001.content.json": {
+        "mimeType": "text/json",
+        "size": 122132,
+        "scope": {
+          "a": [
+            "Aarón",
+            "Abiathar",
+            "Abisai",
+            "Abner",
+            "Abraham",
+            "Absalom",
+            "Achâb",
+            "Achâz",
+            "Adam y Varona",
+            "Agar",
+            "Anás y Caifás",
+            "Antíoco IV",
+            "Apolos",
+            "Arameos",
+            "Asa",
+            "Asiria"
+          ]
+        }
+      },
+      "json/002.content.json": {
+        "mimeType": "text/json",
+        "size": 37151,
+        "scope": {
+          "b": [
+            "Babilonia",
+            "Balaam",
+            "Baruch",
+            "Bath-sheba",
+            "Bernabé"
+          ]
+        }
+      },
+      "json/003.content.json": {
+        "mimeType": "text/json",
+        "size": 19265,
+        "scope": {
+          "c": [
+            "Caleb",
+            "Ciro II",
+            "Corinto"
+          ]
+        }
+      },
+      "json/004.content.json": {
+        "mimeType": "text/json",
+        "size": 28647,
+        "scope": {
+          "d": [
+            "Daniel",
+            "David",
+            "Débora"
+          ]
+        }
+      },
+      "json/005.content.json": {
+        "mimeType": "text/json",
+        "size": 102175,
+        "scope": {
+          "e": [
+            "Efeso",
+            "Egipto",
+            "El Alto Consejo Judío",
+            "El hijo de hombre",
+            "Eleazar",
+            "Eli",
+            "Elías",
+            "Eliseo",
+            "Emperadores Romanos",
+            "Esaú",
+            "Esdras",
+            "Esteban",
+            "Esther",
+            "Ezechîas",
+            "Ezequiel"
+          ]
+        }
+      },
+      "json/006.content.json": {
+        "mimeType": "text/json",
+        "size": 19701,
+        "scope": {
+          "f": [
+            "Faraón",
+            "Felipe",
+            "Filipo"
+          ]
+        }
+      },
+      "json/007.content.json": {
+        "mimeType": "text/json",
+        "size": 4563,
+        "scope": {
+          "g": [
+            "Gedeón"
+          ]
+        }
+      },
+      "json/008.content.json": {
+        "mimeType": "text/json",
+        "size": 21280,
+        "scope": {
+          "h": [
+            "Herodes Agripa I",
+            "Herodes Agripa II",
+            "Herodes Antipas",
+            "Herodes el Grande",
+            "Hititas"
+          ]
+        }
+      },
+      "json/009.content.json": {
+        "mimeType": "text/json",
+        "size": 30661,
+        "scope": {
+          "i": [
+            "Isaac",
+            "Isaías",
+            "Ismael"
+          ]
+        }
+      },
+      "json/010.content.json": {
+        "mimeType": "text/json",
+        "size": 186330,
+        "scope": {
+          "j": [
+            "Jacob",
+            "Jacobo, hermano de Jesús",
+            "Jacobo, hijo de Zebedeo",
+            "Jeremías",
+            "Jerjes I",
+            "Jeroboam I",
+            "Jeroboam II",
+            "Jethro (Ragüel)",
+            "Jezabel",
+            "Joab",
+            "Jonathán",
+            "Josaphat",
+            "José",
+            "Josías",
+            "Josué",
+            "Juan el Bautista",
+            "Juan Marcos",
+            "Juan, hijo de Zebedeo",
+            "Judá",
+            "Judas Iscariote"
+          ]
+        }
+      },
+      "json/011.content.json": {
+        "mimeType": "text/json",
+        "size": 82411,
+        "scope": {
+          "l": [
+            "La Iglesia romana",
+            "Lea",
+            "Líderes judíos",
+            "Los amalecitas",
+            "Los fariseos",
+            "Los filisteos",
+            "Los griegos",
+            "Los medos y persas",
+            "Los saduceos",
+            "Lot",
+            "Lucas"
+          ]
+        }
+      },
+      "json/012.content.json": {
+        "mimeType": "text/json",
+        "size": 80010,
+        "scope": {
+          "m": [
+            "Macabeos",
+            "Manasés",
+            "María, Madre de Jesús",
+            "Marta, María y Lázaro",
+            "Mateo (Leví)",
+            "Melquisedec",
+            "Mical",
+            "Moab y Ammón",
+            "Moisés",
+            "Mujeres llamadas María"
+          ]
+        }
+      },
+      "json/013.content.json": {
+        "mimeType": "text/json",
+        "size": 29772,
+        "scope": {
+          "n": [
+            "Nabucodonosor II",
+            "Nehemías",
+            "Nerón",
+            "Nicodemo",
+            "Noé"
+          ]
+        }
+      },
+      "json/014.content.json": {
+        "mimeType": "text/json",
+        "size": 31552,
+        "scope": {
+          "p": [
+            "Pablo (Saúl)",
+            "Poncio Pilato",
+            "Priscila y Aquila"
+          ]
+        }
+      },
+      "json/015.content.json": {
+        "mimeType": "text/json",
+        "size": 43987,
+        "scope": {
+          "r": [
+            "Rahab",
+            "Raquel",
+            "Rebeca",
+            "Reinos Helenísticos",
+            "Roboam",
+            "Roma",
+            "Rut"
+          ]
+        }
+      },
+      "json/016.content.json": {
+        "mimeType": "text/json",
+        "size": 95335,
+        "scope": {
+          "s": [
+            "Sadoc",
+            "Salomón",
+            "Samaritanos",
+            "Samuel",
+            "Sansón",
+            "Sara",
+            "Satanás",
+            "Saúl",
+            "Simón Pedro"
+          ]
+        }
+      },
+      "json/017.content.json": {
+        "mimeType": "text/json",
+        "size": 25136,
+        "scope": {
+          "t": [
+            "Timoteo",
+            "Tito",
+            "Tomás"
+          ]
+        }
+      },
+      "json/018.content.json": {
+        "mimeType": "text/json",
+        "size": 5237,
+        "scope": {
+          "u": [
+            "Uzzías"
+          ]
+        }
+      },
+      "json/019.content.json": {
+        "mimeType": "text/json",
+        "size": 3574,
+        "scope": {
+          "z": [
+            "Zorobabel"
+          ]
+        }
+      },
+      "pdf/001.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 2050603
+        "size": 490649,
+        "scope": {
+          "a": [
+            "Aarón",
+            "Abiathar",
+            "Abisai",
+            "Abner",
+            "Abraham",
+            "Absalom",
+            "Achâb",
+            "Achâz",
+            "Adam y Varona",
+            "Agar",
+            "Anás y Caifás",
+            "Antíoco IV",
+            "Apolos",
+            "Arameos",
+            "Asa",
+            "Asiria"
+          ]
+        }
+      },
+      "pdf/002.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 316396,
+        "scope": {
+          "b": [
+            "Babilonia",
+            "Balaam",
+            "Baruch",
+            "Bath-sheba",
+            "Bernabé"
+          ]
+        }
+      },
+      "pdf/003.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 212574,
+        "scope": {
+          "c": [
+            "Caleb",
+            "Ciro II",
+            "Corinto"
+          ]
+        }
+      },
+      "pdf/004.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 232330,
+        "scope": {
+          "d": [
+            "Daniel",
+            "David",
+            "Débora"
+          ]
+        }
+      },
+      "pdf/005.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 452745,
+        "scope": {
+          "e": [
+            "Efeso",
+            "Egipto",
+            "El Alto Consejo Judío",
+            "El hijo de hombre",
+            "Eleazar",
+            "Eli",
+            "Elías",
+            "Eliseo",
+            "Emperadores Romanos",
+            "Esaú",
+            "Esdras",
+            "Esteban",
+            "Esther",
+            "Ezechîas",
+            "Ezequiel"
+          ]
+        }
+      },
+      "pdf/006.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 216199,
+        "scope": {
+          "f": [
+            "Faraón",
+            "Felipe",
+            "Filipo"
+          ]
+        }
+      },
+      "pdf/007.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 177362,
+        "scope": {
+          "g": [
+            "Gedeón"
+          ]
+        }
+      },
+      "pdf/008.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 228591,
+        "scope": {
+          "h": [
+            "Herodes Agripa I",
+            "Herodes Agripa II",
+            "Herodes Antipas",
+            "Herodes el Grande",
+            "Hititas"
+          ]
+        }
+      },
+      "pdf/009.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 229797,
+        "scope": {
+          "i": [
+            "Isaac",
+            "Isaías",
+            "Ismael"
+          ]
+        }
+      },
+      "pdf/010.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 634225,
+        "scope": {
+          "j": [
+            "Jacob",
+            "Jacobo, hermano de Jesús",
+            "Jacobo, hijo de Zebedeo",
+            "Jeremías",
+            "Jerjes I",
+            "Jeroboam I",
+            "Jeroboam II",
+            "Jethro (Ragüel)",
+            "Jezabel",
+            "Joab",
+            "Jonathán",
+            "Josaphat",
+            "José",
+            "Josías",
+            "Josué",
+            "Juan el Bautista",
+            "Juan Marcos",
+            "Juan, hijo de Zebedeo",
+            "Judá",
+            "Judas Iscariote"
+          ]
+        }
+      },
+      "pdf/011.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 412990,
+        "scope": {
+          "l": [
+            "La Iglesia romana",
+            "Lea",
+            "Líderes judíos",
+            "Los amalecitas",
+            "Los fariseos",
+            "Los filisteos",
+            "Los griegos",
+            "Los medos y persas",
+            "Los saduceos",
+            "Lot",
+            "Lucas"
+          ]
+        }
+      },
+      "pdf/012.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 386774,
+        "scope": {
+          "m": [
+            "Macabeos",
+            "Manasés",
+            "María, Madre de Jesús",
+            "Marta, María y Lázaro",
+            "Mateo (Leví)",
+            "Melquisedec",
+            "Mical",
+            "Moab y Ammón",
+            "Moisés",
+            "Mujeres llamadas María"
+          ]
+        }
+      },
+      "pdf/013.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 262449,
+        "scope": {
+          "n": [
+            "Nabucodonosor II",
+            "Nehemías",
+            "Nerón",
+            "Nicodemo",
+            "Noé"
+          ]
+        }
+      },
+      "pdf/014.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 269903,
+        "scope": {
+          "p": [
+            "Pablo (Saúl)",
+            "Poncio Pilato",
+            "Priscila y Aquila"
+          ]
+        }
+      },
+      "pdf/015.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 304509,
+        "scope": {
+          "r": [
+            "Rahab",
+            "Raquel",
+            "Rebeca",
+            "Reinos Helenísticos",
+            "Roboam",
+            "Roma",
+            "Rut"
+          ]
+        }
+      },
+      "pdf/016.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 425041,
+        "scope": {
+          "s": [
+            "Sadoc",
+            "Salomón",
+            "Samaritanos",
+            "Samuel",
+            "Sansón",
+            "Sara",
+            "Satanás",
+            "Saúl",
+            "Simón Pedro"
+          ]
+        }
+      },
+      "pdf/017.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 268945,
+        "scope": {
+          "t": [
+            "Timoteo",
+            "Tito",
+            "Tomás"
+          ]
+        }
+      },
+      "pdf/018.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 180505,
+        "scope": {
+          "u": [
+            "Uzzías"
+          ]
+        }
+      },
+      "pdf/019.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 175786,
+        "scope": {
+          "z": [
+            "Zorobabel"
+          ]
+        }
       }
     },
     "copyright": {
@@ -1403,7 +959,7 @@
     "658374": {
       "content_id": 658374,
       "reference_id": 203449,
-      "index_reference": "achâz",
+      "index_reference": "achâz ",
       "localizations": {
         "eng": {
           "content_id": 500506,

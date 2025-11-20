@@ -1,0 +1,672 @@
+[
+  {
+    "content_id": 668862,
+    "reference_id": 203404,
+    "version": "1.0.1",
+    "title": "Rachel",
+    "media_type": "Text",
+    "index_reference": "rachel",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>Rachel était la fille cadette de Laban. Elle était belle, et Jacob l’aimait plus que ses autres épouses. Il l’a rencontrée pour la première fois à son arrivée à Paddan-Aram, à Haran. Il l’a aidée à rouler la pierre du dessus d’un puits et a abreuvé les moutons de son père (<a href=\"https://ref.ly/Gen29:10\">Gn&nbsp;29.10</a>). Jacob a accepté de travailler sept ans pour Laban afin d’épouser Rachel. Il lui a semblé qu’il ne s’était écoulé que quelques jours parce qu’il l’aimait énormément.</p><p>Laban a trompé Jacob en lui faisant épouser Léa, sa fille aînée qui était moins belle, avant de lui permettre d’épouser Rachel. Contrairement à Léa, Rachel ne pouvait pas avoir d’enfants au début (<a href=\"https://ref.ly/Gen29:31\">Gn&nbsp;29.31</a>&nbsp;; <a href=\"https://ref.ly/Gen30:1\">30.1</a>). Elle a donné sa servante Bilha à Jacob pour qu’elle aie des enfants pour elle, ce qui a abouti à la naissance de Dan et Nephtali (<a href=\"https://ref.ly/Gen30:3-Gen30:8\">Gn&nbsp;30.3–8</a>). Finalement, Rachel est tombée enceinte et a donné naissance à Joseph (<a href=\"https://ref.ly/Gen30:22-Gen30:24\">Gn&nbsp;30.22–24</a>). Peu de temps après, Jacob a quitté Haran avec ses femmes, ses enfants et ses biens.</p><p>Entre Béthel et Bethléem, Rachel est morte en donnant naissance à Benjamin (<a href=\"https://ref.ly/Gen35:16-Gen35:20\">Gn&nbsp;35.16–20</a>). Jacob a érigé une stèle sur sa tombe, qui est restée un repère même à l’époque de Saül (<a href=\"https://ref.ly/1Sam10:2\">1S&nbsp;10.2</a>). Rachel et Léa sont respectées pour avoir bâti la maison d’Israël (<a href=\"https://ref.ly/Ruth4:11\">Rt&nbsp;4.11</a>). Au verset <a href=\"https://ref.ly/Jer31:15\">Jr&nbsp;31.15</a>, Rachel pleure ses enfants emmenés en captivité. Matthieu cite les paroles de Jérémie pour expliquer l’événement lors duquel Hérode ordonne le massacre des enfants mâles autour de Bethléem peu après la naissance de Jésus (<a href=\"https://ref.ly/Matt2:16-Matt2:18\">Mt&nbsp;2.16–18</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Gen29:6-Gen30:24\">Gn 29.6–30.24</a>&nbsp;; <a href=\"https://ref.ly/Gen31:4-Gen31:19\">31.4–19</a>, <a href=\"https://ref.ly/Gen31:31-Gen31:35\">31–35</a>&nbsp;; <a href=\"https://ref.ly/Gen33:1-Gen33:7\">33.1–7</a>&nbsp;; <a href=\"https://ref.ly/Gen35:16-Gen35:20\">35.16–20</a>&nbsp;; <a href=\"https://ref.ly/Gen46:19-Gen46:22\">46.19–22</a>&nbsp;; <a href=\"https://ref.ly/Gen48:7\">48.7</a>&nbsp;; <a href=\"https://ref.ly/Ruth4:11\">Rt&nbsp;4.11</a>&nbsp;; <a href=\"https://ref.ly/1Sam10:2\">1S&nbsp;10.2</a>&nbsp;; <a href=\"https://ref.ly/Jer31:15\">Jr 31.15&nbsp;</a>; <a href=\"https://ref.ly/Matt2:18\">Mt&nbsp;2.18</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01029010",
+          "start_ref_usfm": "GEN 29:10",
+          "end_ref": "01029010",
+          "end_ref_usfm": "GEN 29:10"
+        },
+        {
+          "start_ref": "01029031",
+          "start_ref_usfm": "GEN 29:31",
+          "end_ref": "01029031",
+          "end_ref_usfm": "GEN 29:31"
+        },
+        {
+          "start_ref": "01030001",
+          "start_ref_usfm": "GEN 30:1",
+          "end_ref": "01030001",
+          "end_ref_usfm": "GEN 30:1"
+        },
+        {
+          "start_ref": "01048007",
+          "start_ref_usfm": "GEN 48:7",
+          "end_ref": "01048007",
+          "end_ref_usfm": "GEN 48:7"
+        },
+        {
+          "start_ref": "08004011",
+          "start_ref_usfm": "RUT 4:11",
+          "end_ref": "08004011",
+          "end_ref_usfm": "RUT 4:11"
+        },
+        {
+          "start_ref": "09010002",
+          "start_ref_usfm": "1SA 10:2",
+          "end_ref": "09010002",
+          "end_ref_usfm": "1SA 10:2"
+        },
+        {
+          "start_ref": "24031015",
+          "start_ref_usfm": "JER 31:15",
+          "end_ref": "24031015",
+          "end_ref_usfm": "JER 31:15"
+        },
+        {
+          "start_ref": "40002018",
+          "start_ref_usfm": "MAT 2:18",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        },
+        {
+          "start_ref": "01035016",
+          "start_ref_usfm": "GEN 35:16",
+          "end_ref": "01035020",
+          "end_ref_usfm": "GEN 35:20"
+        },
+        {
+          "start_ref": "01030003",
+          "start_ref_usfm": "GEN 30:3",
+          "end_ref": "01030008",
+          "end_ref_usfm": "GEN 30:8"
+        },
+        {
+          "start_ref": "40002016",
+          "start_ref_usfm": "MAT 2:16",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        },
+        {
+          "start_ref": "01030022",
+          "start_ref_usfm": "GEN 30:22",
+          "end_ref": "01030024",
+          "end_ref_usfm": "GEN 30:24"
+        },
+        {
+          "start_ref": "01029006",
+          "start_ref_usfm": "GEN 29:6",
+          "end_ref": "01030024",
+          "end_ref_usfm": "GEN 30:24"
+        },
+        {
+          "start_ref": "01031004",
+          "start_ref_usfm": "GEN 31:4",
+          "end_ref": "01031019",
+          "end_ref_usfm": "GEN 31:19"
+        },
+        {
+          "start_ref": "01031031",
+          "start_ref_usfm": "GEN 31:31",
+          "end_ref": "01031035",
+          "end_ref_usfm": "GEN 31:35"
+        },
+        {
+          "start_ref": "01033001",
+          "start_ref_usfm": "GEN 33:1",
+          "end_ref": "01033007",
+          "end_ref_usfm": "GEN 33:7"
+        },
+        {
+          "start_ref": "01046019",
+          "start_ref_usfm": "GEN 46:19",
+          "end_ref": "01046022",
+          "end_ref_usfm": "GEN 46:22"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 668877,
+    "reference_id": 203419,
+    "version": "1.0.1",
+    "title": "Rahab",
+    "media_type": "Text",
+    "index_reference": "rahab",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>Rahab était une prostituée, mais aussi une femme de foi. Son rôle dans l’histoire d’Israël, bien que bref, demeure énigmatique plusieurs siècles après les événements. Elle plaçait sa foi dans le Dieu d’Israël et offrait son aide à deux espions israélites qui se sont rendus chez elle. En raison de cet acte, sa vie a été épargnée lors de la conquête de Jéricho par Israël.</p><p>La maison de Rahab se trouvait sur le mur de la ville, ce qui explique pourquoi les éclaireurs de Josué s’y sont rendus lorsqu’ils sont entrés à Jéricho. Rahab était probablement à la fois aubergiste et prostituée, car d’autres textes anciens mentionnent des femmes exerçant ces deux activités. Si sa maison faisait fonction d’auberge, c’était un choix stratégique pour les éclaireurs de Josué qui pouvaient ainsi éviter de susciter une attention indésirable.</p><p>L’accord de Rahab avec les éclaireurs représente une déclaration de foi puissante en l’Éternel, le Dieu d’Israël (<a href=\"https://ref.ly/Josh2:8-Josh2:21\">Jos&nbsp;2.8–21</a>). En tant que Cananéenne, Rahab pratiquait probablement le culte de Baal, le dieu des tempêtes et de la pluie, ainsi que sa compagne Asherah, la déesse de la terre. Toutefois, après avoir entendu parler des avancées d’Israël vers la terre promise, Rahab a compris que l’Éternel, le Dieu d’Israël, était «&nbsp;<span>Dieu en haut dans les cieux et en bas sur la terre</span>&nbsp;» (<a href=\"https://ref.ly/Josh2:11\">Jos&nbsp;2.11</a>).</p><p>Lorsque Josué a conquis Jéricho, Rahab a épousé Salmon de la tribu de Juda, eu un fils nommé Boaz (<a href=\"https://ref.ly/Ruth4:21\">Rt&nbsp;4.21</a>&nbsp;; <a href=\"https://ref.ly/Matt1:5\">Mt&nbsp;1.5</a>), et est devenue la belle-mère de Ruth, une autre femme étrangère qui a rejoint Israël. Rahab était aussi l’arrière-arrière-grand-mère du roi David. Elle est mentionnée aux côtés de Moïse, David, Samson et Samuel comme un exemple de foi manifestée par de bonnes actions (<a href=\"https://ref.ly/Heb11:31\">Hé 11.31</a>&nbsp;; <a href=\"https://ref.ly/Jas2:25\">Jc&nbsp;2.25</a>). Rahab est l’une des cinq femmes, y compris Marie, citées dans la généalogie de Matthieu de Jésus, l’arbre généalogique humain du Fils de Dieu (<a href=\"https://ref.ly/Matt1:5\">Mt&nbsp;1.5</a>). Rahab témoigne de l’étendue de la grâce de Dieu.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Josh2:1-Josh2:21\">Jos&nbsp;2.1–21</a>&nbsp;; <a href=\"https://ref.ly/Josh6:17\">6.17</a>, <a href=\"https://ref.ly/Josh6:22-Josh6:25\">22–25</a>&nbsp;; <a href=\"https://ref.ly/Matt1:5\">Mt&nbsp;1.5</a>&nbsp;; <a href=\"https://ref.ly/Heb11:31\">Hé 11.31</a>&nbsp;; <a href=\"https://ref.ly/Jas2:25\">Jc&nbsp;2.25</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06002011",
+          "start_ref_usfm": "JOS 2:11",
+          "end_ref": "06002011",
+          "end_ref_usfm": "JOS 2:11"
+        },
+        {
+          "start_ref": "06006017",
+          "start_ref_usfm": "JOS 6:17",
+          "end_ref": "06006017",
+          "end_ref_usfm": "JOS 6:17"
+        },
+        {
+          "start_ref": "08004021",
+          "start_ref_usfm": "RUT 4:21",
+          "end_ref": "08004021",
+          "end_ref_usfm": "RUT 4:21"
+        },
+        {
+          "start_ref": "40001005",
+          "start_ref_usfm": "MAT 1:5",
+          "end_ref": "40001005",
+          "end_ref_usfm": "MAT 1:5"
+        },
+        {
+          "start_ref": "58011031",
+          "start_ref_usfm": "HEB 11:31",
+          "end_ref": "58011031",
+          "end_ref_usfm": "HEB 11:31"
+        },
+        {
+          "start_ref": "59002025",
+          "start_ref_usfm": "JAS 2:25",
+          "end_ref": "59002025",
+          "end_ref_usfm": "JAS 2:25"
+        },
+        {
+          "start_ref": "06002008",
+          "start_ref_usfm": "JOS 2:8",
+          "end_ref": "06002021",
+          "end_ref_usfm": "JOS 2:21"
+        },
+        {
+          "start_ref": "06002001",
+          "start_ref_usfm": "JOS 2:1",
+          "end_ref": "06002021",
+          "end_ref_usfm": "JOS 2:21"
+        },
+        {
+          "start_ref": "06006022",
+          "start_ref_usfm": "JOS 6:22",
+          "end_ref": "06006025",
+          "end_ref_usfm": "JOS 6:25"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 668860,
+    "reference_id": 203402,
+    "version": "1.0.1",
+    "title": "Rebecca",
+    "media_type": "Text",
+    "index_reference": "rebecca",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>Rebecca était la femme d’Isaac. Le chapitre <a href=\"https://ref.ly/Gen24:1-Gen24:67\">Gn&nbsp;24</a> raconte l’histoire du serviteur d’Abraham qui cherche une épouse pour Isaac. Obéissant aux instructions d’Abraham, il se rend à Haran en Aram-Naharaïm (nord-ouest de la Mésopotamie) pour trouver des parents d’Abraham, car celui-ci ne veut pas qu’Isaac épouse une Cananéenne locale. Le serviteur prie pour que la femme que Dieu a choisi pour Isaac lui offre à boire et abreuve aussi ses chameaux (<a href=\"https://ref.ly/Gen24:12-Gen24:14\">Gn&nbsp;24.12–14</a>). Ce serait la confirmation du choix de Dieu et cela témoignerait de sa personnalité, de son hospitalité et de son éthique de travail.</p><p>Dieu répond directement à sa prière en lui envoyant Rebecca, la fille de Bethuel (<a href=\"https://ref.ly/Gen22:23\">Gn&nbsp;22.23</a>&nbsp;; <a href=\"https://ref.ly/Gen25:20\">25.20</a>). Bethuel était le fils du frère d’Abraham, Nachor (<a href=\"https://ref.ly/Gen24:24\">24.24</a>).</p><p>Le serviteur d’Abraham explique comment Dieu l’a guidé (<a href=\"https://ref.ly/Gen24:34-Gen24:49\">Gn&nbsp;24.34–49</a>). La famille de Rebecca y voit l’œuvre de Dieu, mais hésite à la laisser partir immédiatement (<a href=\"https://ref.ly/Gen24:50-Gen24:56\">24.50–56</a>). Cependant, Rebecca montre sa foi dans le plan de Dieu et est prête à quitter sa famille immédiatement pour épouser Isaac (<a href=\"https://ref.ly/Gen24:57-Gen24:58\">Gn&nbsp;24.57–58</a>). La foi de Rebecca est largement récompensée. La bénédiction que sa famille lui adresse au moment de son départ se concrétise lorsqu’elle donne naissance à la prochaine génération de la lignée choisie de Dieu avec Isaac (<a href=\"https://ref.ly/Gen24:59-Gen24:60\">Gn&nbsp;24.59–60</a>).</p><p>Rebecca a donné naissance à des jumeaux, Ésaü et Jacob (<a href=\"https://ref.ly/Gen25:20-Gen25:26\">Gn&nbsp;25.20–26</a>). Elle préférait Jacob, le fils cadet, car Dieu lui avait dit qu’il serait plus fort et commanderait (<a href=\"https://ref.ly/Gen25:23\">Gn&nbsp;25.23</a>). Rebecca a aidé Jacob à obtenir la bénédiction de l’aîné en trompant Isaac (<a href=\"https://ref.ly/Gen27:1-Gen27:40\">Gn&nbsp;27.1–40</a>). Elle a ensuite arrangé le départ de Jacob pour Haran afin qu’il échappe à la colère d’Ésaü (<a href=\"https://ref.ly/Gen27:41-Gen28:5\">Gn 27.41–28.5</a>). La tromperie de Rebecca a causé une division durable dans la famille. Elle n’a probablement jamais revu Jacob. Cependant, elle a été enterrée avec Isaac dans le sépulcre familial (<a href=\"https://ref.ly/Gen49:31\">Gn&nbsp;49.31</a>). Elle a accompli le plan de Dieu en tant que mère de Jacob, le père fondateur d’Israël.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Gen22:23\">Gn&nbsp;22.23</a>&nbsp;; <a href=\"https://ref.ly/Gen24:12-Gen24:67\">Gn 24.12–67</a>&nbsp;; <a href=\"https://ref.ly/Gen25:20-Gen25:28\">Gn&nbsp;25.20–28</a>&nbsp;; <a href=\"https://ref.ly/Gen26:7-Gen26:8\">Gn 26.7–8</a>, <a href=\"https://ref.ly/Gen26:35\">35</a>&nbsp;; <a href=\"https://ref.ly/Gen27:5-Gen27:17\">Gn&nbsp;27.5–17</a>, <a href=\"https://ref.ly/Gen27:42-Gen27:46\">42–46</a>&nbsp;; <a href=\"https://ref.ly/Gen29:12\">Gn&nbsp;29.12</a>&nbsp;; <a href=\"https://ref.ly/Gen35:8\">Gn&nbsp;35.8</a>&nbsp;; <a href=\"https://ref.ly/Gen49:31\">Gn&nbsp;49.31</a>&nbsp;; <a href=\"https://ref.ly/Rom9:10-Rom9:13\">Rm&nbsp;9.10–13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01022023",
+          "start_ref_usfm": "GEN 22:23",
+          "end_ref": "01022023",
+          "end_ref_usfm": "GEN 22:23"
+        },
+        {
+          "start_ref": "01024024",
+          "start_ref_usfm": "GEN 24:24",
+          "end_ref": "01024024",
+          "end_ref_usfm": "GEN 24:24"
+        },
+        {
+          "start_ref": "01025020",
+          "start_ref_usfm": "GEN 25:20",
+          "end_ref": "01025020",
+          "end_ref_usfm": "GEN 25:20"
+        },
+        {
+          "start_ref": "01025023",
+          "start_ref_usfm": "GEN 25:23",
+          "end_ref": "01025023",
+          "end_ref_usfm": "GEN 25:23"
+        },
+        {
+          "start_ref": "01026035",
+          "start_ref_usfm": "GEN 26:35",
+          "end_ref": "01026035",
+          "end_ref_usfm": "GEN 26:35"
+        },
+        {
+          "start_ref": "01029012",
+          "start_ref_usfm": "GEN 29:12",
+          "end_ref": "01029012",
+          "end_ref_usfm": "GEN 29:12"
+        },
+        {
+          "start_ref": "01035008",
+          "start_ref_usfm": "GEN 35:8",
+          "end_ref": "01035008",
+          "end_ref_usfm": "GEN 35:8"
+        },
+        {
+          "start_ref": "01049031",
+          "start_ref_usfm": "GEN 49:31",
+          "end_ref": "01049031",
+          "end_ref_usfm": "GEN 49:31"
+        },
+        {
+          "start_ref": "01024001",
+          "start_ref_usfm": "GEN 24:1",
+          "end_ref": "01024067",
+          "end_ref_usfm": "GEN 24:67"
+        },
+        {
+          "start_ref": "45009010",
+          "start_ref_usfm": "ROM 9:10",
+          "end_ref": "45009013",
+          "end_ref_usfm": "ROM 9:13"
+        },
+        {
+          "start_ref": "01024057",
+          "start_ref_usfm": "GEN 24:57",
+          "end_ref": "01024058",
+          "end_ref_usfm": "GEN 24:58"
+        },
+        {
+          "start_ref": "01027005",
+          "start_ref_usfm": "GEN 27:5",
+          "end_ref": "01027017",
+          "end_ref_usfm": "GEN 27:17"
+        },
+        {
+          "start_ref": "01027001",
+          "start_ref_usfm": "GEN 27:1",
+          "end_ref": "01027040",
+          "end_ref_usfm": "GEN 27:40"
+        },
+        {
+          "start_ref": "01024012",
+          "start_ref_usfm": "GEN 24:12",
+          "end_ref": "01024014",
+          "end_ref_usfm": "GEN 24:14"
+        },
+        {
+          "start_ref": "01024059",
+          "start_ref_usfm": "GEN 24:59",
+          "end_ref": "01024060",
+          "end_ref_usfm": "GEN 24:60"
+        },
+        {
+          "start_ref": "01024034",
+          "start_ref_usfm": "GEN 24:34",
+          "end_ref": "01024049",
+          "end_ref_usfm": "GEN 24:49"
+        },
+        {
+          "start_ref": "01024050",
+          "start_ref_usfm": "GEN 24:50",
+          "end_ref": "01024056",
+          "end_ref_usfm": "GEN 24:56"
+        },
+        {
+          "start_ref": "01025020",
+          "start_ref_usfm": "GEN 25:20",
+          "end_ref": "01025026",
+          "end_ref_usfm": "GEN 25:26"
+        },
+        {
+          "start_ref": "01027041",
+          "start_ref_usfm": "GEN 27:41",
+          "end_ref": "01028005",
+          "end_ref_usfm": "GEN 28:5"
+        },
+        {
+          "start_ref": "01024012",
+          "start_ref_usfm": "GEN 24:12",
+          "end_ref": "01024067",
+          "end_ref_usfm": "GEN 24:67"
+        },
+        {
+          "start_ref": "01025020",
+          "start_ref_usfm": "GEN 25:20",
+          "end_ref": "01025028",
+          "end_ref_usfm": "GEN 25:28"
+        },
+        {
+          "start_ref": "01026007",
+          "start_ref_usfm": "GEN 26:7",
+          "end_ref": "01026008",
+          "end_ref_usfm": "GEN 26:8"
+        },
+        {
+          "start_ref": "01027042",
+          "start_ref_usfm": "GEN 27:42",
+          "end_ref": "01027046",
+          "end_ref_usfm": "GEN 27:46"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 668900,
+    "reference_id": 203442,
+    "version": "1.0.1",
+    "title": "Roboam",
+    "media_type": "Text",
+    "index_reference": "roboam",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>Roboam était le fils de Salomon et d’une femme ammonite (<a href=\"https://ref.ly/1Kgs14:21\">1R&nbsp;14.21</a>). Il est devenu roi à l’âge de 41&nbsp;ans et a régné pendant 17&nbsp;ans, de 931 à 913 av. J.‑C. Il est connu pour avoir causé la division du royaume de Salomon et pour avoir été le premier roi de Juda, le royaume du sud.</p><p>À la mort de Salomon en 931 av. J.‑C., Juda a rapidement fait de Roboam son roi. Les dix tribus du nord ont hésité à le soutenir&nbsp;; elles souhaitaient un allègement des politiques sévères de Salomon (voir <a href=\"https://ref.ly/1Kgs12:4\">1R&nbsp;12.4</a>&nbsp;; <a href=\"https://ref.ly/2Chr10:4\">2&nbsp;Ch&nbsp;10.4</a>). Les conseillers plus âgés du roi lui ont suggéré d’accepter leurs demandes, mais il les a ignorées. Au lieu de cela, il a écouté les conseillers plus jeunes qui lui ont conseillé d’être plus dur que son père. Les tribus du nord se sont rebellées et ont fait de Jéroboam, l’ancien responsable des travaux de Salomon, leur roi. Roboam est parti en guerre pour contrôler le nord, mais Dieu a envoyé le prophète Schemaeja pour lui dire que c’était inutile. La scission a été le jugement de Dieu (<a href=\"https://ref.ly/2Chr11:1-2Chr11:4\">2&nbsp;Ch 11.1–4</a>). Ainsi, Roboam est retourné à Juda et a consolidé ses frontières (<a href=\"https://ref.ly/2Chr11:5-2Chr11:12\">2&nbsp;Ch 11.5–12</a>).</p><p>Lorsque Jéroboam a instauré une nouvelle fausse religion dans le royaume du nord, les prêtres et les Lévites ont déménagé vers le sud. Ils ont renforcé la vie spirituelle de la région et ont aidé à maintenir la stabilité de Juda (<a href=\"https://ref.ly/2Chr11:13-2Chr11:17\">2&nbsp;Ch 11.13–17</a>). Cependant, Roboam s’est finalement tourné vers l’idolâtrie également. Le peuple de Juda a construit des hauts lieux et des sanctuaires païens à travers le pays, adoptant des pratiques religieuses corrompues des nations voisines (<a href=\"https://ref.ly/1Kgs14:22-1Kgs14:24\">1R&nbsp;14.22–24</a>). Dieu a cessé de soutenir Roboam, le laissant vulnérable lorsque le roi Schischak d’Égypte l’a attaqué en 926 à 925 av. J.‑C. et s’est emparé de nombreux objets précieux du temple (<a href=\"https://ref.ly/1Kgs14:25-1Kgs14:26\">1R&nbsp;14.25–26</a>&nbsp;; <a href=\"https://ref.ly/2Chr12:1-2Chr12:5\">2&nbsp;Ch&nbsp;12.1–5</a>). Roboam a ensuite remplacé les boucliers d’or de Salomon par des boucliers de bronze (<a href=\"https://ref.ly/1Kgs14:27\">1R&nbsp;14.27</a>). Cela symbolisait la perte de la gloire de Juda en raison du faux culte.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/1Kgs12:1-1Kgs12:24\">1 Rois 12.1–24</a>&nbsp;; <a href=\"https://ref.ly/1Kgs14:21-1Kgs14:31\">14.21–31</a>&nbsp;; <a href=\"https://ref.ly/2Chr9:31-2Chr12:16\">2&nbsp;Ch 9.31–12.16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11012004",
+          "start_ref_usfm": "1KI 12:4",
+          "end_ref": "11012004",
+          "end_ref_usfm": "1KI 12:4"
+        },
+        {
+          "start_ref": "11014021",
+          "start_ref_usfm": "1KI 14:21",
+          "end_ref": "11014021",
+          "end_ref_usfm": "1KI 14:21"
+        },
+        {
+          "start_ref": "11014027",
+          "start_ref_usfm": "1KI 14:27",
+          "end_ref": "11014027",
+          "end_ref_usfm": "1KI 14:27"
+        },
+        {
+          "start_ref": "14010004",
+          "start_ref_usfm": "2CH 10:4",
+          "end_ref": "14010004",
+          "end_ref_usfm": "2CH 10:4"
+        },
+        {
+          "start_ref": "11014022",
+          "start_ref_usfm": "1KI 14:22",
+          "end_ref": "11014024",
+          "end_ref_usfm": "1KI 14:24"
+        },
+        {
+          "start_ref": "11014025",
+          "start_ref_usfm": "1KI 14:25",
+          "end_ref": "11014026",
+          "end_ref_usfm": "1KI 14:26"
+        },
+        {
+          "start_ref": "14011001",
+          "start_ref_usfm": "2CH 11:1",
+          "end_ref": "14011004",
+          "end_ref_usfm": "2CH 11:4"
+        },
+        {
+          "start_ref": "14011013",
+          "start_ref_usfm": "2CH 11:13",
+          "end_ref": "14011017",
+          "end_ref_usfm": "2CH 11:17"
+        },
+        {
+          "start_ref": "14011005",
+          "start_ref_usfm": "2CH 11:5",
+          "end_ref": "14011012",
+          "end_ref_usfm": "2CH 11:12"
+        },
+        {
+          "start_ref": "11014021",
+          "start_ref_usfm": "1KI 14:21",
+          "end_ref": "11014031",
+          "end_ref_usfm": "1KI 14:31"
+        },
+        {
+          "start_ref": "14012001",
+          "start_ref_usfm": "2CH 12:1",
+          "end_ref": "14012005",
+          "end_ref_usfm": "2CH 12:5"
+        },
+        {
+          "start_ref": "11012001",
+          "start_ref_usfm": "1KI 12:1",
+          "end_ref": "11012024",
+          "end_ref_usfm": "1KI 12:24"
+        },
+        {
+          "start_ref": "14009031",
+          "start_ref_usfm": "2CH 9:31",
+          "end_ref": "14012016",
+          "end_ref_usfm": "2CH 12:16"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 668966,
+    "reference_id": 203508,
+    "version": "1.0.1",
+    "title": "Rome",
+    "media_type": "Text",
+    "index_reference": "rome",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>Au premier siècle apr. J.‑C., Rome était une ville cosmopolite et un empire puissant. Elle apportait paix et stabilité à la région méditerranéenne.</p><h3>La fondation et les débuts de Rome</h3><p>Selon la tradition, Rome a été fondée en 753 av. J.‑C. sur le fleuve Tibre en Italie par une tribu d’agriculteurs qui parlaient le latin. Le tout premier Sénat était composé d’un groupe de chefs.</p><p>Vers 600 av. J.-C., les Étrusques, venus de l’Italie centrale, ont envahi Rome et en sont devenus les souverains. Ils ont construit de nombreuses structures, dont le forum. Le forum est devenu le centre social, commercial et politique de la ville. Ils ont également construit un temple dédié aux dieux romains Jupiter, Junon et Minerve. Des routes reliaient désormais Rome aux Étrusques au nord, aux cités commerçantes grecques au sud, à la mer à l’ouest et aux montagnes intérieures à l’est.</p><h3>La République romaine</h3><p>Lorsque les rois de Rome sont devenus trop autoritaires, le peuple latin s’est rebellé. En 509 av. J.‑C., Rome a formé une «&nbsp;république&nbsp;». La république de Rome était une oligarchie (une forme de gouvernement dans laquelle un petit nombre de personnes détiennent le pouvoir). Des familles puissantes contrôlaient le Sénat (le conseil de gouvernement de Rome). La petite cité-État a lentement étendu son pouvoir, dominant progressivement la région et étendant son influence à travers la Méditerranée. En 273 av. J.-C., Rome a signé un traité avec les Ptolémées d’Égypte. Elle s’est ensuite implantée en Afrique du Nord et a triomphé de la cité-État rivale, Carthage, lors des trois guerres puniques de 264 à 146 av. J.-C., avant de s’étendre en Espagne. Les nombreuses conquêtes de Rome ont apporté une immense richesse à l’Empire.</p><p>À mesure que l’Italie s’étendait géographiquement, des changements sociaux se produisaient. Entre 200 et 100 av. J.‑C., de riches propriétaires terriens ont acheté des terres à de petits agriculteurs indépendants. Ces agriculteurs se sont ensuite installés à Rome, sans terre et sans emploi. Aux côtés de quartiers prospères et de magnifiques bâtiments, de nombreuses personnes pauvres vivaient dans des conditions précaires et surpeuplées. L’insatisfaction grandissante face à la gestion de Rome affaiblissait progressivement le gouvernement.</p><h3>Le début de l’Empire&nbsp;: Jules et Octavien</h3><p>Pendant une période de changements sociaux et politiques, Jules César a cherché à centraliser le pouvoir. Les sénateurs qui soutenaient l’ancienne république l’ont assassiné en 44 av. J.‑C. Cependant, leur plan a échoué. Le petit-neveu et héritier de Jules, Octavien, est devenu sénateur, consul et commandant en chef en 43 av. J.‑C. avec le soutien du Sénat. Le Sénat a proclamé que Jules était un dieu en 42 av. J.‑C. Après qu’Octavien a vaincu Marc Antoine et Cléopâtre en 31 av. J.‑C. et a pris le contrôle de l’Égypte, le Sénat lui a accordé les titres d’Auguste (signifiant «&nbsp;illustre&nbsp;») et de Princeps (signifiant «&nbsp;premier citoyen&nbsp;») en 27 av. J.‑C. Octavien a commencé à se nommer «&nbsp;fils d’un dieu&nbsp;» parce que les gens avaient fait de Jules César un dieu après sa mort. Bien que Rome ait conservé ses anciennes formes de gouvernement, un nouveau système avait en réalité commencé. Les empereurs étaient traités comme divins (comme des dieux).</p><h3>Jésus et la naissance de l’Église</h3><p>«&nbsp;Lorsque les temps ont été accomplis, Dieu a envoyé son Fils&nbsp;» (<a href=\"https://ref.ly/Gal4:4\">Ga&nbsp;4.4</a>). La transformation en empire a apporté paix et stabilité, une période connue sous le nom de <em>pax Romana</em> («&nbsp;paix romaine&nbsp;»). Cette paix a duré jusqu’aux années&nbsp;100 apr. J.‑C. Beaucoup ont noté que la domination romaine au premier siècle apr. J.‑C. était idéale pour la diffusion du christianisme. Les frontières étaient sécurisées et les routes étaient bonnes, ce qui facilitait les déplacements. Les lois et coutumes romaines protégeaient les droits des citoyens (voir, par exemple, <a href=\"https://ref.ly/Acts16:35-Acts16:40\">Ac 16.35–40</a>&nbsp;; <a href=\"https://ref.ly/Acts22:24-Acts22:29\">22.24–29</a>). Le judaïsme était protégé, et les Romains considéraient le christianisme comme une secte juive (voir, par exemple, <a href=\"https://ref.ly/Acts25:13-Acts25:19\">Ac&nbsp;25.13–19</a>). Ainsi, les Romains rejetaient souvent les plaintes contre les chrétiens basées sur la religion (voir, par exemple, <a href=\"https://ref.ly/Acts19:23-Acts19:41\">Ac&nbsp;19.23–41</a>). Les chrétiens pouvaient librement partager la bonne nouvelle à propos de Jésus, et de nombreuses personnes de divers horizons devenaient disciples du Christ.</p><h3>L’évolution du statut du christianisme</h3><p>Cette situation favorable a commencé à changer sous le règne de Néron. Néron a accusé les chrétiens de l’incendie qui a détruit une grande partie de Rome en 64 après J.‑C., conduisant à la première grande persécution des chrétiens. La persécution s’est arrêtée en 66 apr. J.‑C., mais le christianisme n’était plus considéré comme une partie du judaïsme et a perdu son statut protégé. Plus tard, l’empire a exigé que les gens brûlent de l’encens pour l’empereur. Ceux qui refusaient étaient généralement des Juifs (qui étaient protégés) ou des chrétiens (qui ne l’étaient pas). En conséquence, de l’époque de Domitien, autour de 81 à 96 après J.‑C., à celle de Galère, de 305 à 311 après J.‑C., le christianisme était officiellement illégal, passible de mort, et a connu différents niveaux de persécution selon le zèle des dirigeants. Pendant plus de deux cents ans, Rome a versé «&nbsp;<span>sang des saints et du sang des témoins de Jésus</span>&nbsp;» (<a href=\"https://ref.ly/Rev17:6\">Ap&nbsp;17.6</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Acts2:10\">Ac&nbsp;2.10</a>&nbsp;; <a href=\"https://ref.ly/Acts18:2\">18.2</a>&nbsp;; <a href=\"https://ref.ly/Acts19:21\">19.21</a>&nbsp;; <a href=\"https://ref.ly/Acts23:11\">23.11</a>&nbsp;; <a href=\"https://ref.ly/Acts28:14\">28.14</a>, <a href=\"https://ref.ly/Acts28:16\">16</a>&nbsp;; <a href=\"https://ref.ly/Rom1:1-Rom1:7\">Rm&nbsp;1.1–7</a>, <a href=\"https://ref.ly/Rom1:15\">15</a>&nbsp;; <a href=\"https://ref.ly/2Tim1:17\">2&nbsp;Tm&nbsp;1.17</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002010",
+          "start_ref_usfm": "ACT 2:10",
+          "end_ref": "44002010",
+          "end_ref_usfm": "ACT 2:10"
+        },
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "44019021",
+          "start_ref_usfm": "ACT 19:21",
+          "end_ref": "44019021",
+          "end_ref_usfm": "ACT 19:21"
+        },
+        {
+          "start_ref": "44023011",
+          "start_ref_usfm": "ACT 23:11",
+          "end_ref": "44023011",
+          "end_ref_usfm": "ACT 23:11"
+        },
+        {
+          "start_ref": "44028014",
+          "start_ref_usfm": "ACT 28:14",
+          "end_ref": "44028014",
+          "end_ref_usfm": "ACT 28:14"
+        },
+        {
+          "start_ref": "44028016",
+          "start_ref_usfm": "ACT 28:16",
+          "end_ref": "44028016",
+          "end_ref_usfm": "ACT 28:16"
+        },
+        {
+          "start_ref": "45001015",
+          "start_ref_usfm": "ROM 1:15",
+          "end_ref": "45001015",
+          "end_ref_usfm": "ROM 1:15"
+        },
+        {
+          "start_ref": "48004004",
+          "start_ref_usfm": "GAL 4:4",
+          "end_ref": "48004004",
+          "end_ref_usfm": "GAL 4:4"
+        },
+        {
+          "start_ref": "55001017",
+          "start_ref_usfm": "2TI 1:17",
+          "end_ref": "55001017",
+          "end_ref_usfm": "2TI 1:17"
+        },
+        {
+          "start_ref": "66017006",
+          "start_ref_usfm": "REV 17:6",
+          "end_ref": "66017006",
+          "end_ref_usfm": "REV 17:6"
+        },
+        {
+          "start_ref": "44019023",
+          "start_ref_usfm": "ACT 19:23",
+          "end_ref": "44019041",
+          "end_ref_usfm": "ACT 19:41"
+        },
+        {
+          "start_ref": "44022024",
+          "start_ref_usfm": "ACT 22:24",
+          "end_ref": "44022029",
+          "end_ref_usfm": "ACT 22:29"
+        },
+        {
+          "start_ref": "44016035",
+          "start_ref_usfm": "ACT 16:35",
+          "end_ref": "44016040",
+          "end_ref_usfm": "ACT 16:40"
+        },
+        {
+          "start_ref": "44025013",
+          "start_ref_usfm": "ACT 25:13",
+          "end_ref": "44025019",
+          "end_ref_usfm": "ACT 25:19"
+        },
+        {
+          "start_ref": "45001001",
+          "start_ref_usfm": "ROM 1:1",
+          "end_ref": "45001007",
+          "end_ref_usfm": "ROM 1:7"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 668931,
+    "reference_id": 203473,
+    "version": "1.0.1",
+    "title": "Royaumes hellénistiques",
+    "media_type": "Text",
+    "index_reference": "royaumes hellénistiques",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>Pendant trois cents ans après la mort d&apos;Alexandre en 323 av. J.-C., divers rois grecs régnèrent sur les territoires conquis par ce grand conquérant. Durant cette période, les modes de vie, les croyances et les coutumes grecques se répandirent largement, un phénomène que l&apos;on désigne sous le terme d&apos;hellénisation. Cette diffusion permit à la fois à la pensée juive et à la culture grecque de prospérer.</p><p>Cependant, cette fusion culturelle engendra aussi de sérieux problèmes pour le peuple juif, puisque les usages grecs allaient souvent à l&apos;encontre des croyances juives. Ces tensions devinrent particulièrement aiguës aux alentours de 160 av. J.-C., lorsque les dirigeants grecs essayèrent de contraindre le peuple juif à abandonner sa foi. La culture grecque finit par se mêler à la domination romaine, préparant ainsi la voie à l&apos;avènement du Messie (c&apos;est-à-dire l&apos;élu de Dieu), tel que l&apos;avait prédit le prophète Daniel. L&apos;histoire de cette époque est décrite précisément dans plusieurs prophéties du livre de Daniel (voir <a href=\"https://ref.ly/Dan7:6\">Dn 7.6 </a>; <a href=\"https://ref.ly/Dan8:8-Dan8:14\">8.8–14</a>, <a href=\"https://ref.ly/Dan8:21-Dan8:26\">21–26 </a>; <a href=\"https://ref.ly/Dan11:4-Dan11:45\">11.4–45</a>).</p><h3>Les successeurs (<em>Diadochoi</em>), 323 à 301 av. J.‑C.</h3><p>Après la mort soudaine d&apos;Alexandre en 323 av. J.-C., ses principaux généraux se disputèrent le pouvoir et le contrôle de son vaste empire. Ces généraux, appelés <em>diadochoi</em> (un terme signifiant « successeurs »), se partagèrent les territoires.</p><ol><li><p><em>Ptolémée Ier</em>, l’un des généraux macédoniens les plus compétents d&apos;Alexandre, devint gouverneur de l’Égypte en 323 av. J.-C. et y régna avec succès jusqu&apos;à sa mort en 285 av. J.-C.</p></li><li><p><em>Antigone</em>, général de haut rang dans l&apos;armée d&apos;Alexandre, joua pendant longtemps le rôle de régent pour une grande partie de l&apos;empire. En 315 av. J.-C., il envahit la Syrie et la Palestine, mais sa tentative de réunifier l&apos;empire échoua et il périt au combat en 301 av. J.-C.</p></li><li><p><em>Séleucos Ier</em>, un général de haut rang d&apos;Alexandre, fut nommé gouverneur de Babylone en 321 av. J.-C. Lorsqu&apos;en 316 av. J.-C., il apprit les desseins d&apos;Antigone pour réunifier l&apos;empire, il chercha refuge auprès de Ptolémée en Égypte. Après avoir repris le contrôle de Babylone en 315 av. J.-C. et de la Syrie en 312 av. J.-C., Séleucos Ier régna jusqu&apos;à sa mort en 281 av. J.-C.</p></li><li><p><em>Lysimaque</em> devint gouverneur de la Thrace et de la Bithynie, en Asie Mineure (l&apos;actuelle Turquie), peu après la mort d&apos;Alexandre.</p></li><li><p><em>Cassandre</em> servit comme gouverneur de Macédoine jusqu&apos;en 294 av. J.-C., avant que Démétrios Ier, fils d&apos;Antigone, prit le contrôle de la Macédoine et de l&apos;Achaïe. Il fonda la dynastie antigonide, qui régna jusqu&apos;à ce que les Romains prennent le contrôle de la Grèce après la bataille de Pydna en 168 av. J.-C.</p></li></ol><p>L&apos;empire d&apos;Alexandre fut ainsi divisé en quatre royaumes dirigés par des Grecs macédoniens :</p><ol><li><p>L&apos;Égypte</p></li><li><p>La Babylone et la Syrie</p></li><li><p>La Macédoine et l&apos;Achaïe</p></li><li><p>Des parties de l&apos;Asie Mineure</p></li></ol><p>Au cours des années 200 av. J.-C., les Ptolémées et les Séleucides menèrent de nombreuses guerres pour conquérir la Palestine, un conflit décrit en détail dans&nbsp;<a href=\"https://ref.ly/Dan11:1-Dan11:45\">Dn 11</a>.</p><h3>Ptolémées, 323 à 30 av. J.‑C.</h3><p>Ptolémée I<sup>er</sup> et ses descendants (connus sous le nom de « roi du midi » dans <a href=\"https://ref.ly/Dan11:1-Dan11:45\">Dn 11</a>) régnèrent sur l&apos;Égypte pendant près de trois cents ans.  Ptolémée I<sup>er</sup> a pris le contrôle de la Judée en 319 av. J.‑C., et il a ensuite déplacé certains Juifs à Alexandrie. Cette ville abrita alors une importante communauté juive et devint un centre d&apos;apprentissage tant des cultures juives que grecques. C&apos;est dans ce contexte, à Alexandrie que fut rédigée la Septante, la traduction grecque de l&apos;Ancien Testament. Bien que les Ptolémées aient été vénérés comme des dieux et aient diffusé la culture grecque en Égypte, ils se montraient généralement tolérants envers les Juifs et leur croyance en un Dieu unique. La dynastie ptolémaïque prit fin avec la mort de Cléopâtre VII, lorsque Rome prit le contrôle de l&apos;Égypte en 30 av. J.-C.</p><h3>L&apos;empire séleucide, 321 à 64 av. J.‑C.</h3><p>Séleucos Ier et ses descendants (connus sous le nom de « roi du septentrion » dans <a href=\"https://ref.ly/Dan11:1-Dan11:45\">Dn 11</a>) régnèrent sur la Syrie et, pendant un temps, sur Babylone, jusqu&apos;à ce que le général romain Pompée prenne le contrôle de la Syrie en 64 av. J.-C.&nbsp;Comme les Ptolémées, ils diffusèrent la culture grecque et le culte des dirigeants dans leurs territoires, mais ils se montrèrent moins tolérants concernant le refus des Juifs de participer à leurs pratiques religieuses.</p><p>Après que le roi séleucide Antiochos III prit le contrôle de la Judée vers 200 av. J.-C., il accorda des postes importants et de l&apos;autorité aux Juifs qui adoptèrent les modes de vie grecs. Son fils, Antiochos IV, persécuta sévèrement les Juifs en exécutant ceux qui observaient le sabbat, conservaient des copies de la Torah ou refusaient de se prosterner devant l&apos;autel de Zeus (le principal dieu grec), qu&apos;ils avaient installé dans le temple de Jérusalem.</p><p>Cet événement est décrit dans Daniel comme « l&apos;abomination de la désolation » (<a href=\"https://ref.ly/Dan11:31\">Dn 11.31</a>). La persécution qui s&apos;ensuivit mena à la révolte du prêtre juif Mattathias et de ses fils, donnant lieu à un état juif qui connut une certaine autonomie pendant près de cent ans sous la dynastie des Hasmonéens.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Dan11:4-Dan11:39\">Dn 11.4–39</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27007006",
+          "start_ref_usfm": "DAN 7:6",
+          "end_ref": "27007006",
+          "end_ref_usfm": "DAN 7:6"
+        },
+        {
+          "start_ref": "27011031",
+          "start_ref_usfm": "DAN 11:31",
+          "end_ref": "27011031",
+          "end_ref_usfm": "DAN 11:31"
+        },
+        {
+          "start_ref": "27008008",
+          "start_ref_usfm": "DAN 8:8",
+          "end_ref": "27008014",
+          "end_ref_usfm": "DAN 8:14"
+        },
+        {
+          "start_ref": "27008021",
+          "start_ref_usfm": "DAN 8:21",
+          "end_ref": "27008026",
+          "end_ref_usfm": "DAN 8:26"
+        },
+        {
+          "start_ref": "27011004",
+          "start_ref_usfm": "DAN 11:4",
+          "end_ref": "27011045",
+          "end_ref_usfm": "DAN 11:45"
+        },
+        {
+          "start_ref": "27011001",
+          "start_ref_usfm": "DAN 11:1",
+          "end_ref": "27011045",
+          "end_ref_usfm": "DAN 11:45"
+        },
+        {
+          "start_ref": "27011004",
+          "start_ref_usfm": "DAN 11:4",
+          "end_ref": "27011039",
+          "end_ref_usfm": "DAN 11:39"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 668883,
+    "reference_id": 203425,
+    "version": "1.0.1",
+    "title": "Ruth",
+    "media_type": "Text",
+    "index_reference": "ruth",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>L’histoire de Ruth raconte le parcours d’une femme bienveillante et fidèle. Elle illustre comment la guidance discrète de Dieu soutient ceux qui l’aiment (<a href=\"https://ref.ly/Rom8:28\">Rm&nbsp;8.28</a>). Intégrée à la lignée menant au Messie (l’élu de Dieu), cette narration débute dans la tristesse, mais trouve une issue heureuse.</p><p>Ruth a vécu pendant la période chaotique des juges. C’était une étrangère de Moab qui s’est mariée dans une famille israélite de Bethléem alors qu’ils étaient à Moab. Tous les hommes de cette famille sont morts à Moab, laissant trois veuves&nbsp;: Ruth, sa belle-mère Naomi, et sa belle-sœur Orpa. Lorsque Naomi a décidé de retourner à Bethléem, Ruth a choisi de l’accompagner. L’expression d’amour, de loyauté et de foi de Ruth envers le Seigneur, qui était le Dieu de Naomi, est sans égale. (<a href=\"https://ref.ly/Ruth1:16-Ruth1:17\">Rt 1.16–17</a>).</p><p>Comme Naomi s’y attendait, la vie à Bethléem était difficile pour elle et sa belle-fille. Ruth a pris l’initiative de subvenir à leurs besoins en allant glaner dans les champs de céréales. Cette tâche était ardue et risquée (<a href=\"https://ref.ly/Ruth2:2\">Rt 2.2</a>). Elle a fait preuve de modestie, de grâce et de courtoisie, mais aussi de détermination, de concentration et d’endurance.</p><p>Avec le soutien de Naomi, Ruth a demandé à Boaz, un riche propriétaire terrien qui lui a apporté sa protection pour qu’elle puisse glaner dans ses champs, d’être le rédempteur de leur famille (<a href=\"https://ref.ly/Ruth3:1-Ruth3:9\">Rt 3.1–9</a>). Cela incluait aussi le mariage. En agissant ainsi, Ruth a fait preuve d’une grande loyauté familiale (<a href=\"https://ref.ly/Ruth3:10\">Rt&nbsp;3.10</a>). Son attention généreuse et dévouée envers Naomi constitue un thème central du livre. En réponse à sa demande, Boaz l’a reconnue comme une femme vertueuse (<a href=\"https://ref.ly/Ruth3:11\">Rt&nbsp;3.11</a>). À travers son comportement, Ruth a illustré l’idéal d’une épouse vertueuse et capable (voir <a href=\"https://ref.ly/Prov31:10-Prov31:31\">Pr&nbsp;31.10–31</a>, où l’on retrouve la même expression hébraïque, juste avant le livre de Ruth dans la Bible hébraïque).</p><p>Boaz a réglé les questions juridiques avant d’épouser Ruth. L’histoire se conclut avec la naissance d’un fils, Obed, révélant ainsi l’un des objectifs majeurs du livre&nbsp;: Obed est devenu le grand-père du roi David. Le Nouveau Testament mentionne Ruth parmi les cinq femmes citées dans la généalogie de Jésus-Christ (<a href=\"https://ref.ly/Matt1:5\">Mt&nbsp;1.5</a>). Sa fidélité quotidienne, empreinte de simplicité, a pourtant eu une portée éternelle, alors que Dieu accomplissait ses desseins à travers elle.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Ruth1:4-Ruth4:13\">Rt 1.4–4.13</a>&nbsp;; <a href=\"https://ref.ly/Matt1:5\">Mt&nbsp;1.5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08002002",
+          "start_ref_usfm": "RUT 2:2",
+          "end_ref": "08002002",
+          "end_ref_usfm": "RUT 2:2"
+        },
+        {
+          "start_ref": "08003010",
+          "start_ref_usfm": "RUT 3:10",
+          "end_ref": "08003010",
+          "end_ref_usfm": "RUT 3:10"
+        },
+        {
+          "start_ref": "08003011",
+          "start_ref_usfm": "RUT 3:11",
+          "end_ref": "08003011",
+          "end_ref_usfm": "RUT 3:11"
+        },
+        {
+          "start_ref": "40001005",
+          "start_ref_usfm": "MAT 1:5",
+          "end_ref": "40001005",
+          "end_ref_usfm": "MAT 1:5"
+        },
+        {
+          "start_ref": "45008028",
+          "start_ref_usfm": "ROM 8:28",
+          "end_ref": "45008028",
+          "end_ref_usfm": "ROM 8:28"
+        },
+        {
+          "start_ref": "20031010",
+          "start_ref_usfm": "PRO 31:10",
+          "end_ref": "20031031",
+          "end_ref_usfm": "PRO 31:31"
+        },
+        {
+          "start_ref": "08001016",
+          "start_ref_usfm": "RUT 1:16",
+          "end_ref": "08001017",
+          "end_ref_usfm": "RUT 1:17"
+        },
+        {
+          "start_ref": "08003001",
+          "start_ref_usfm": "RUT 3:1",
+          "end_ref": "08003009",
+          "end_ref_usfm": "RUT 3:9"
+        },
+        {
+          "start_ref": "08001004",
+          "start_ref_usfm": "RUT 1:4",
+          "end_ref": "08004013",
+          "end_ref_usfm": "RUT 4:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

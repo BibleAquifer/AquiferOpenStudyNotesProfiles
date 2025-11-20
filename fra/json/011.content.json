@@ -1,0 +1,1532 @@
+[
+  {
+    "content_id": 668968,
+    "reference_id": 203510,
+    "version": "1.0.1",
+    "title": "L'Église de Rome",
+    "media_type": "Text",
+    "index_reference": "l'église de rome",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>Les détails exacts de la fondation de l&apos;église à Rome restent obscurs. La ville comptait une importante population juive, et certains de ces Juifs, présents à Jérusalem lors de la Pentecôte (<a href=\"https://ref.ly/Acts2:10\">Ac 2.10</a>), auraient été convertis au christianisme et auraient ramené le message de Jésus à Rome. Cela aurait ainsi donné naissance à une communauté chrétienne au sein des synagogues romaines.</p><p>Il est peu probable que Pierre ait lui-même fondé l&apos;église de Rome, ou qu&apos;il y ait été au moment où Paul écrivit sa lettre aux chrétiens romains vers 57 après J.-C. Si c&apos;était le cas, Paul l&apos;aurait sûrement mentionné dans ses lettres. Ainsi, Paul rédigea cette lettre afin d&apos;offrir des conseils apostoliques à l&apos;église de Rome, qui, en l&apos;absence d&apos;une direction directe d&apos;un apôtre, devait être guidée comme celles qu&apos;il avait fondées (par exemple à Corinthe et en Galatie) ou comme celles qui ne bénéficiaient pas d&apos;une direction apostolique directe, telles que Colosses et Rome.</p><p>Comme en d&apos;autres endroits, il est probable que les Juifs non-chrétiens de Rome expulsèrent les Juifs chrétiens des synagogues, de sorte que lorsque Paul écrivit aux Romains, les croyants se réunissaient au sein de maisons privées (<a href=\"https://ref.ly/Rom16:5\">Rm 16.5</a>, <a href=\"https://ref.ly/Rom16:10-Rom16:11\">10–11</a>, <a href=\"https://ref.ly/Rom16:15\">15</a>). Il n&apos;y avait pas de bâtiment central et on ne sait donc pas si tous les croyants de Rome parvenaient à se réunir en un même lieu.</p><p>Lorsque Claude expulsa les Juifs de Rome vers 49 après J.-C., des chrétiens d&apos;origine juive tels que Priscille et Aquilas durent également partir (<a href=\"https://ref.ly/Acts18:2\">Ac 18.2</a>). Ce départ contribua à ce que l&apos;église de Rome se dirige peu à peu vers les païens. Lorsque les Juifs revinrent peu après la mort de Claude en 54 après J.-C., des questions (voire des conflits) émergèrent entre les chrétiens d&apos;origine juive et d&apos;origine païenne. Paul pourrait avoir écrit sa lettre aux Romains pour discuter de ces problèmes pouvant émerger dans un tel groupe mixte.</p><p>Comme le montre <a href=\"https://ref.ly/Rom16:1-Rom16:27\">Rm 16</a>, Paul avait déjà tissé de nombreuses amitiés dans l&apos;église de Rome. Au printemps de l&apos;an 60 après J.-C., environ deux ans après la rédaction de sa lettre, il eut enfin l&apos;occasion de se rendre à Rome, un désir qu&apos;il exprimait fréquemment&nbsp; (<a href=\"https://ref.ly/Acts19:21\">Ac 19.21</a> ; <a href=\"https://ref.ly/Rom1:13-Rom1:15\">Rm 1.13–15</a>). Il y demeura pendant deux ans, vivant dans une maison surveillée par des soldats romains en attendant son premier procès devant Néron, tout en « <span>prêchant le royaume de Dieu et enseignant ce qui concerne le Seigneur Jésus-Christ, en toute liberté et sans obstacle » </span>(<a href=\"https://ref.ly/Acts28:30-Acts28:31\">Ac 28.30–31</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Acts28:15-Acts28:31\">Ac 28.15–31</a> ; <a href=\"https://ref.ly/Rom1:13-Rom1:15\">Rm 1.13–15</a> ; <a href=\"https://ref.ly/Rom16:1-Rom16:16\">16.1–16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002010",
+          "start_ref_usfm": "ACT 2:10",
+          "end_ref": "44002010",
+          "end_ref_usfm": "ACT 2:10"
+        },
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "44019021",
+          "start_ref_usfm": "ACT 19:21",
+          "end_ref": "44019021",
+          "end_ref_usfm": "ACT 19:21"
+        },
+        {
+          "start_ref": "45016005",
+          "start_ref_usfm": "ROM 16:5",
+          "end_ref": "45016005",
+          "end_ref_usfm": "ROM 16:5"
+        },
+        {
+          "start_ref": "45016015",
+          "start_ref_usfm": "ROM 16:15",
+          "end_ref": "45016015",
+          "end_ref_usfm": "ROM 16:15"
+        },
+        {
+          "start_ref": "44028030",
+          "start_ref_usfm": "ACT 28:30",
+          "end_ref": "44028031",
+          "end_ref_usfm": "ACT 28:31"
+        },
+        {
+          "start_ref": "45016001",
+          "start_ref_usfm": "ROM 16:1",
+          "end_ref": "45016027",
+          "end_ref_usfm": "ROM 16:27"
+        },
+        {
+          "start_ref": "45016010",
+          "start_ref_usfm": "ROM 16:10",
+          "end_ref": "45016011",
+          "end_ref_usfm": "ROM 16:11"
+        },
+        {
+          "start_ref": "45016001",
+          "start_ref_usfm": "ROM 16:1",
+          "end_ref": "45016016",
+          "end_ref_usfm": "ROM 16:16"
+        },
+        {
+          "start_ref": "45001013",
+          "start_ref_usfm": "ROM 1:13",
+          "end_ref": "45001015",
+          "end_ref_usfm": "ROM 1:15"
+        },
+        {
+          "start_ref": "44028015",
+          "start_ref_usfm": "ACT 28:15",
+          "end_ref": "44028031",
+          "end_ref_usfm": "ACT 28:31"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 668930,
+    "reference_id": 203472,
+    "version": "1.0.1",
+    "title": "La civilisation grecque",
+    "media_type": "Text",
+    "index_reference": "la civilisation grecque",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>La civilisation grecque joua un rôle majeur dans le monde antique et sa culture influença profondément le monde à l&apos;époque de la naissance de Jésus et de la rédaction du Nouveau Testament.</p><h3>La civilisation mycénienne (1 450 à 1 200 av. J.‑C.)</h3><p>Les Mycéniens vécurent durant l’« âge héroïque », entre 1 450 et 1 200 av. J.‑C. Cette période vit naître de nombreuses légendes sur des héros et de grandes batailles, contées plus tard par Homère dans ses épopées. Basée à Mycènes, à environ cinquante kilomètres au sud de Corinthe, cette civilisation très forte en commerce et redoutable sur le plan militaire. </p><p>C’est durant cette époque que naquirent les premiers dieux et mythes grecs, les documents mycéniens étant rédigés en linéaire B, un système d&apos;écriture syllabique.</p><p>Cette civilisation prit fin de manière violente vers 1200 av. J.-C., victime des envahisseurs grecs doriens, marquant le début des « <span>siècles obscurs </span>». Ce fut une période durant laquelle l&apos;écriture Linéaire B disparut, laissant place à une époque sans documents écrits.</p><h3>L&apos;époque archaïque, les cités-États (850–546 av. J.‑C.)</h3><p>Peu à peu, les villages et cités grecques s&apos;organisèrent en cités-États qui étendaient leur influence sur de vastes régions. Durant cette période, les Grecs développèrent une identité commune et commencèrent à coopérer, organisant par exemple les premiers Jeux olympiques en 776 av. J.-C.&nbsp;</p><p>Le commerce avec les régions voisines leur permit de rencontrer les Phéniciens et d&apos;adopter leur système d&apos;écriture. Homère composa alors l&apos;Iliade et l&apos;Odyssée, relatant les exploits et les mythes de la civilisation mycénienne et de ses dieux.</p><p>Les cités-États dépendaient de dirigeants puissants, appelés tyrans (du grec <em>tyrannos)</em>, qui, par leur autorité, maintenaient l&apos;ordre et la paix. Plusieurs régions élaborèrent des constitutions, définissant ainsi des règles claires pour la gouvernance. À Athènes, le Conseil de l&apos;Aréopage exerçait le pouvoir dans une forme d&apos;oligarchie, avant que des réformes apportées par Solon ne fassent émerger une démocratie où les citoyens pouvaient participer activement aux décisions.</p><h3>Les guerres médiques, la période classique (546 à 336 av. J.‑C.)</h3><p>En 546 av. J.-C., Cyrus le Grand de Perse s&apos;empara des colonies grecques d&apos;Asie Mineure. Vers 500 av. J.-C., l&apos;Ionie tenta une révolte, qui échoua, poussant Darius&nbsp;<span>I</span><sup>er</sup> à envahir le continent grec en 492 av. J.-C.</p><p>Durant les guerres qui suivirent, bien que souvent en infériorité numérique, les Grecs firent preuve de stratégie pour déjouer les Perses. La bataille de Marathon, en 490 av. J.-C., vit les Grecs infliger une défaite décisive aux Perses. Dix ans plus tard, l&apos;armée perse de Xerxès traversa l&apos;Hellespont, et leur grande flotte entra dans les eaux grecques.  Les Perses brûlèrent Athènes, mais les Grecs l&apos;emportèrent finalement et Xerxès se retira.</p><p>Après la fin des guerres médiques, Athènes fut reconstruite et entra dans une période de grandeur. Sous la direction de Périclès, elle établit une démocratie complète, construisit de majestueuses structures sur l&apos;Acropole, et accrut sa puissance maritime et sa richesse, marquant ainsi un âge d&apos;or dans les arts, la pensée, la littérature et l&apos;architecture.</p><h3>L&apos;empire macédonien, l&apos;époque hellénistique (336–146 av. J.‑C.)</h3><p>Philippe II de Macédoine, animé par le désir de bâtir un empire, vainquit Athènes et Thèbes en 338 av. J.-C. et unifia la Grèce sous l&apos;Empire macédonien. À l&apos;assassinat de Philippe en 336 av. J.-C., son fils Alexandre prit le pouvoir. En 335 av. J.-C., Alexandre écrasa Thèbes, puis conquit rapidement Babylone et la Perse&nbsp;(voir <a href=\"https://ref.ly/Dan8:5-Dan8:8\">Dn 8.5–8</a>). À sa mort subite en 323 av. J.-C., ses vastes territoires furent partagés entre quatre généraux. Après divers conflits, trois grandes régions émergèrent :</p><ol><li><p>L&apos;Égypte</p></li><li><p>L&apos;Asie Mineure, la Syrie et Babylone</p></li><li><p>La Macédoine et l&apos;Achaïe</p></li></ol><p>Les conquêtes d&apos;Alexandre propagèrent la culture grecque et son influence à travers le monde antique. Ce choc culturel entre la civilisation grecque et le judaïsme aboutit, dans les années 160 av. J.-C., à la révolte des Maccabées en Judée.</p><h3>La règle romaine (168 av. J.‑C. à 330 apr. J.‑C.)</h3><p>À partir de 198 av. J.-C., Rome commença à étendre son pouvoir en Grèce. En 168 av. J.-C., Rome vainquit les Macédoniens lors de la bataille de Pydna, puis annexa la Macédoine en 148 av. J.-C. En 146 av. J.-C., Rome détruisit Corinthe, assurant ainsi un contrôle ferme sur la Grèce, qui dura jusqu&apos;à ce que l&apos;empereur Constantin établisse Byzance comme capitale de l&apos;empire romain en 330 apr. J.-C. La rencontre entre la culture grecque et la domination romaine prépara le terrain pour la vie de Jésus et le début du christianisme.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Dan8:5-Dan8:8\">Dn 8.5–8</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27008005",
+          "start_ref_usfm": "DAN 8:5",
+          "end_ref": "27008008",
+          "end_ref_usfm": "DAN 8:8"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 668929,
+    "reference_id": 203471,
+    "version": "1.0.1",
+    "title": "Le fils de l'homme",
+    "media_type": "Text",
+    "index_reference": "le fils de l'homme",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>L&apos;expression hébraïque et araméenne « fils de l&apos;homme » désigne premièrement un simple être humain. Cependant, dans&nbsp;<a href=\"https://ref.ly/Dan7:13-Dan7:14\">Dn 7.13–14</a>, la figure décrite « <span>un fils de l’homm</span>e » semble être plus que cela. Son identité exacte est mystérieuse, mais son rôle est clair : le Très-Haut l&apos;a choisi pour régner sur un royaume éternel et universel, étendu sur toutes les nations. Il représente également le peuple saint, qui partagera avec « le fils de l&apos;homme» le règne sur l&apos;ensemble des peuples et des nations (voir <a href=\"https://ref.ly/Dan7:22\">Dn 7.22</a>).</p><p>La scène qui entoure ce fils de l&apos;homme met en exergue ses caractéristiques divines. La description des « <span>nuées des cieux</span> » dans <a href=\"https://ref.ly/Dan7:13\">Dn 7.13</a> indique clairement qu&apos;il émane du ciel (comparer <a href=\"https://ref.ly/Ps68:4\">Ps 68.4</a> ; <a href=\"https://ref.ly/Ps97:2\">97.2</a> ; <a href=\"https://ref.ly/Nah1:3\">Na 1.3</a>). Dans le livre de l&apos;Exode, le Seigneur lui-même se couvre d&apos;une nuée (<a href=\"https://ref.ly/Exod19:9\">Ex 19.9</a>), et le peuple de Dieu sera transporté dans les nuées lors du retour de Jésus (<a href=\"https://ref.ly/1Thess4:17\">1Th 4.17</a>), tout comme Jésus fut enlevé dans les nuées lors de son ascension (<a href=\"https://ref.ly/Acts1:9\">Ac 1.9</a>). Ce fils de l&apos;homme reçoit son royaume avec humilité et sainteté, à l&apos;opposé de la « petite corne » (<a href=\"https://ref.ly/Dan7:8\">Dn 7.8</a>), qui symbolise l&apos;arrogance.</p><p>Jésus se désigne lui-même comme le fils de l&apos;homme (<a href=\"https://ref.ly/Matt24:30\">Mt 24.30 </a>; <a href=\"https://ref.ly/Matt26:24\">26.24 </a>; <a href=\"https://ref.ly/Mark13:26\">Mc 13.26 </a>; <a href=\"https://ref.ly/Luke21:27\">Lc 21.27 </a>; <a href=\"https://ref.ly/John12:34\">Jn 12.34 </a>; voir aussi <a href=\"https://ref.ly/Acts7:56\">Ac 7.56 </a>; <a href=\"https://ref.ly/Heb2:6\">Hé 2.6 </a>; <a href=\"https://ref.ly/Rev1:13\">Ap 1.13 </a>; <a href=\"https://ref.ly/Rev14:14\">14.14</a>), et <a href=\"https://ref.ly/Rev1:7\">Ap 1.7</a> relie également cette figure à Jésus-Christ, qui a été percé pour nos péchés. Dieu le Père a confié à Jésus toute autorité et tout pouvoir pour gouverner et atteindre les nations (<a href=\"https://ref.ly/Dan7:14\">Dn 7.14 </a>; <a href=\"https://ref.ly/Matt28:18\">Mt 28.18 </a>; <a href=\"https://ref.ly/Matt28:19-Matt28:20\">19–20</a>). En effet, Dieu avait appelé Abraham à former une grande nation par laquelle toutes les nations seraient bénies (<a href=\"https://ref.ly/Gen12:1-Gen12:3\">Gn 12.1–3</a>), promesse que Jésus a accomplie.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Dan7:13-Dan7:14\">Dn 7.13–14</a> ; <a href=\"https://ref.ly/Matt24:30\">Mt 24.30</a> ; <a href=\"https://ref.ly/Matt26:24\">26.24</a> ; <a href=\"https://ref.ly/Mark13:26\">Mc 13.26</a> ; <a href=\"https://ref.ly/Luke21:27\">Lc 21.27</a> ; <a href=\"https://ref.ly/John12:34\">Jn 12.34</a> ; <a href=\"https://ref.ly/Rev1:13\">Ap 1.13</a> ; <a href=\"https://ref.ly/Rev14:14\">14.14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02019009",
+          "start_ref_usfm": "EXO 19:9",
+          "end_ref": "02019009",
+          "end_ref_usfm": "EXO 19:9"
+        },
+        {
+          "start_ref": "19068004",
+          "start_ref_usfm": "PSA 68:4",
+          "end_ref": "19068004",
+          "end_ref_usfm": "PSA 68:4"
+        },
+        {
+          "start_ref": "19097002",
+          "start_ref_usfm": "PSA 97:2",
+          "end_ref": "19097002",
+          "end_ref_usfm": "PSA 97:2"
+        },
+        {
+          "start_ref": "27007008",
+          "start_ref_usfm": "DAN 7:8",
+          "end_ref": "27007008",
+          "end_ref_usfm": "DAN 7:8"
+        },
+        {
+          "start_ref": "27007013",
+          "start_ref_usfm": "DAN 7:13",
+          "end_ref": "27007013",
+          "end_ref_usfm": "DAN 7:13"
+        },
+        {
+          "start_ref": "27007014",
+          "start_ref_usfm": "DAN 7:14",
+          "end_ref": "27007014",
+          "end_ref_usfm": "DAN 7:14"
+        },
+        {
+          "start_ref": "27007022",
+          "start_ref_usfm": "DAN 7:22",
+          "end_ref": "27007022",
+          "end_ref_usfm": "DAN 7:22"
+        },
+        {
+          "start_ref": "34001003",
+          "start_ref_usfm": "NAM 1:3",
+          "end_ref": "34001003",
+          "end_ref_usfm": "NAM 1:3"
+        },
+        {
+          "start_ref": "40024030",
+          "start_ref_usfm": "MAT 24:30",
+          "end_ref": "40024030",
+          "end_ref_usfm": "MAT 24:30"
+        },
+        {
+          "start_ref": "40026024",
+          "start_ref_usfm": "MAT 26:24",
+          "end_ref": "40026024",
+          "end_ref_usfm": "MAT 26:24"
+        },
+        {
+          "start_ref": "40028018",
+          "start_ref_usfm": "MAT 28:18",
+          "end_ref": "40028018",
+          "end_ref_usfm": "MAT 28:18"
+        },
+        {
+          "start_ref": "41013026",
+          "start_ref_usfm": "MRK 13:26",
+          "end_ref": "41013026",
+          "end_ref_usfm": "MRK 13:26"
+        },
+        {
+          "start_ref": "42021027",
+          "start_ref_usfm": "LUK 21:27",
+          "end_ref": "42021027",
+          "end_ref_usfm": "LUK 21:27"
+        },
+        {
+          "start_ref": "43012034",
+          "start_ref_usfm": "JHN 12:34",
+          "end_ref": "43012034",
+          "end_ref_usfm": "JHN 12:34"
+        },
+        {
+          "start_ref": "44001009",
+          "start_ref_usfm": "ACT 1:9",
+          "end_ref": "44001009",
+          "end_ref_usfm": "ACT 1:9"
+        },
+        {
+          "start_ref": "44007056",
+          "start_ref_usfm": "ACT 7:56",
+          "end_ref": "44007056",
+          "end_ref_usfm": "ACT 7:56"
+        },
+        {
+          "start_ref": "52004017",
+          "start_ref_usfm": "1TH 4:17",
+          "end_ref": "52004017",
+          "end_ref_usfm": "1TH 4:17"
+        },
+        {
+          "start_ref": "58002006",
+          "start_ref_usfm": "HEB 2:6",
+          "end_ref": "58002006",
+          "end_ref_usfm": "HEB 2:6"
+        },
+        {
+          "start_ref": "66001007",
+          "start_ref_usfm": "REV 1:7",
+          "end_ref": "66001007",
+          "end_ref_usfm": "REV 1:7"
+        },
+        {
+          "start_ref": "66001013",
+          "start_ref_usfm": "REV 1:13",
+          "end_ref": "66001013",
+          "end_ref_usfm": "REV 1:13"
+        },
+        {
+          "start_ref": "66014014",
+          "start_ref_usfm": "REV 14:14",
+          "end_ref": "66014014",
+          "end_ref_usfm": "REV 14:14"
+        },
+        {
+          "start_ref": "01012001",
+          "start_ref_usfm": "GEN 12:1",
+          "end_ref": "01012003",
+          "end_ref_usfm": "GEN 12:3"
+        },
+        {
+          "start_ref": "27007013",
+          "start_ref_usfm": "DAN 7:13",
+          "end_ref": "27007014",
+          "end_ref_usfm": "DAN 7:14"
+        },
+        {
+          "start_ref": "40028019",
+          "start_ref_usfm": "MAT 28:19",
+          "end_ref": "40028020",
+          "end_ref_usfm": "MAT 28:20"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 668940,
+    "reference_id": 203482,
+    "version": "1.0.1",
+    "title": "Le Sanhédrin",
+    "media_type": "Text",
+    "index_reference": "le sanhédrin",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>Le haut conseil des dirigeants juifs à Jérusalem, traditionnellement appelé le Sanhédrin (du grec <em>sunedrion</em>, signifiant « conseil »), exerçait un pouvoir considérable dans le gouvernement du peuple juif.</p><p>Selon la tradition juive, le Sanhédrin aurait été institué lorsque Moïse choisit soixante-dix anciens (<a href=\"https://ref.ly/Num11:16\">Nb 11.16</a>). Néanmoins, la première référence écrite à ce conseil apparaît dans les <em>Antiquités</em> de Josèphe (12.3.3), à l&apos;époque d&apos;Antiochos le Grand, entre 223 et 187 av. J.-C.</p><p> Le Sanhédrin a probablement débuté comme un groupe autonome de dirigeants sous la domination perse (voir <a href=\"https://ref.ly/Ezra5:5-Ezra5:10\">Esd 5.5–10</a>; <a href=\"https://ref.ly/Neh2:16\">Né 2.16</a>), placé sous le contrôle de la classe sacerdotale, dirigée par le souverain sacrificateur. Au fil du temps, l&apos;influence des autorités romaines et des pharisiens se fit sentir sur les sacrificateurs, tandis qu&apos;Hérode le Grand exerçait une forte emprise sur leurs activités.</p><p>Le Sanhédrin se chargeait des affaires légales et religieuses du judaïsme, tranchant les différends non résolus par les tribunaux plus modestes, appelés « sanhédrins locaux », et administrant la justice pénale ainsi que les arrestations&nbsp;(voir <a href=\"https://ref.ly/Acts9:1-Acts9:2\">Ac 9.1–2</a>). Bien qu&apos;il prenne des décisions officielles concernant les questions juives, celles-ci ne s&apos;exécutaient pas de sa propre initiative : le Sanhédrin ne pouvait pas exécuter un criminel sans l&apos;approbation romaine (<a href=\"https://ref.ly/John18:31\">Jn 18.31</a>).</p><p>La destruction de Jérusalem en 70 après J.-C. mit un terme définitif au rôle du haut conseil en tant que dirigeant du judaïsme.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Matt26:57-Matt26:68\">Mt 26.57–68</a> ; <a href=\"https://ref.ly/Mark14:53-Mark14:65\">Mc 14.53–65</a> ; <a href=\"https://ref.ly/Mark15:1\">15.1</a>, <a href=\"https://ref.ly/Mark15:43\">43</a> ; <a href=\"https://ref.ly/Luke22:66-Luke22:71\">Lc 22.66–71</a> ; <a href=\"https://ref.ly/Luke23:50-Luke23:54\">23.50–54</a> ; <a href=\"https://ref.ly/John11:47-John11:53\">Jn 11.47–53</a> ; <a href=\"https://ref.ly/Acts5:21-Acts5:41\">Ac 5.21–41</a> ; <a href=\"https://ref.ly/Acts6:11-Acts8:1\">6.11–8.1</a> ; <a href=\"https://ref.ly/Acts22:30-Acts23:10\">22.30–23.10</a> ; <a href=\"https://ref.ly/Acts23:26-Acts23:30\">23.26–30</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04011016",
+          "start_ref_usfm": "NUM 11:16",
+          "end_ref": "04011016",
+          "end_ref_usfm": "NUM 11:16"
+        },
+        {
+          "start_ref": "16002016",
+          "start_ref_usfm": "NEH 2:16",
+          "end_ref": "16002016",
+          "end_ref_usfm": "NEH 2:16"
+        },
+        {
+          "start_ref": "41015001",
+          "start_ref_usfm": "MRK 15:1",
+          "end_ref": "41015001",
+          "end_ref_usfm": "MRK 15:1"
+        },
+        {
+          "start_ref": "41015043",
+          "start_ref_usfm": "MRK 15:43",
+          "end_ref": "41015043",
+          "end_ref_usfm": "MRK 15:43"
+        },
+        {
+          "start_ref": "43018031",
+          "start_ref_usfm": "JHN 18:31",
+          "end_ref": "43018031",
+          "end_ref_usfm": "JHN 18:31"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026068",
+          "end_ref_usfm": "MAT 26:68"
+        },
+        {
+          "start_ref": "41014053",
+          "start_ref_usfm": "MRK 14:53",
+          "end_ref": "41014065",
+          "end_ref_usfm": "MRK 14:65"
+        },
+        {
+          "start_ref": "44022030",
+          "start_ref_usfm": "ACT 22:30",
+          "end_ref": "44023010",
+          "end_ref_usfm": "ACT 23:10"
+        },
+        {
+          "start_ref": "44009001",
+          "start_ref_usfm": "ACT 9:1",
+          "end_ref": "44009002",
+          "end_ref_usfm": "ACT 9:2"
+        },
+        {
+          "start_ref": "44023026",
+          "start_ref_usfm": "ACT 23:26",
+          "end_ref": "44023030",
+          "end_ref_usfm": "ACT 23:30"
+        },
+        {
+          "start_ref": "42022066",
+          "start_ref_usfm": "LUK 22:66",
+          "end_ref": "42022071",
+          "end_ref_usfm": "LUK 22:71"
+        },
+        {
+          "start_ref": "15005005",
+          "start_ref_usfm": "EZR 5:5",
+          "end_ref": "15005010",
+          "end_ref_usfm": "EZR 5:10"
+        },
+        {
+          "start_ref": "42023050",
+          "start_ref_usfm": "LUK 23:50",
+          "end_ref": "42023054",
+          "end_ref_usfm": "LUK 23:54"
+        },
+        {
+          "start_ref": "43011047",
+          "start_ref_usfm": "JHN 11:47",
+          "end_ref": "43011053",
+          "end_ref_usfm": "JHN 11:53"
+        },
+        {
+          "start_ref": "44005021",
+          "start_ref_usfm": "ACT 5:21",
+          "end_ref": "44005041",
+          "end_ref_usfm": "ACT 5:41"
+        },
+        {
+          "start_ref": "44006011",
+          "start_ref_usfm": "ACT 6:11",
+          "end_ref": "44008001",
+          "end_ref_usfm": "ACT 8:1"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 668863,
+    "reference_id": 203405,
+    "version": "1.0.1",
+    "title": "Léa",
+    "media_type": "Text",
+    "index_reference": "léa",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>Léa était la fille aînée de Laban, la première épouse de Jacob qu’il n’aimait pas, et la sœur aînée de Rachel.</p><p>Jacob a trompé son père Isaac pour obtenir la bénédiction destinée à Ésaü (<a href=\"https://ref.ly/Gen27:1-Gen27:40\">Gn&nbsp;27.1–40</a>). Puis, il est allé chez son oncle Laban en Mésopotamie pour échapper à la colère d’Ésaü et trouver une épouse (<a href=\"https://ref.ly/Gen27:41-Gen28:5\">Gn 27.41–28.5</a>). Jacob est tombé amoureux de sa cousine Rachel et a convenu avec son père de l’épouser après avoir travaillé pendant sept ans (<a href=\"https://ref.ly/Gen29:17-Gen29:20\">Gn&nbsp;29.17–20</a>). Pendant le festin de mariage, Laban a trompé Jacob en lui donnant Léa au lieu de Rachel (<a href=\"https://ref.ly/Gen29:21-Gen29:25\">Gn&nbsp;29.21–25</a>). Laban a expliqué que la coutume exigeait que la fille aînée se marie en premier (<a href=\"https://ref.ly/Gen29:26\">Gn&nbsp;29.26</a>). Léa était moins attirante que sa sœur (<a href=\"https://ref.ly/Gen29:17\">Gn&nbsp;29.17</a>). Jacob ne l’aimait pas (<a href=\"https://ref.ly/Gen29:30-Gen29:35\">Gn&nbsp;29.30–35</a>).</p><p>Jacob aimait tellement Rachel qu’il travailla sept années supplémentaires pour l’épouser. Comme Jacob préférait Rachel, le Seigneur bénit Léa avec six fils et une fille avant que Rachel ne puisse avoir des enfants (<a href=\"https://ref.ly/Gen29:31-Gen30:22\">Gn&nbsp;29.31–30.22</a>)&nbsp;:</p><ol><li><p>Ruben</p></li><li><p>Siméon</p></li><li><p>Lévi</p></li><li><p>Juda</p></li><li><p>Issacar</p></li><li><p>Zabulon</p></li><li><p>Dina</p></li></ol><p>À un moment donné, Rachel a échangé avec Léa des mandragores contre du temps avec Jacob. Les gens pensaient que les mandragores aidaient les femmes à devenir enceintes. Après une nuit avec Jacob, Léa est tombée enceinte et a donné naissance à son cinquième fils (<a href=\"https://ref.ly/Gen30:14-Gen30:17\">Gn&nbsp;30.14–17</a>). Cela a accru son avantage dans sa rivalité avec Rachel.</p><p>Léa était la mère de deux tribus importantes dans l’histoire israélite. La tribu de Lévi était celle des prêtres. La tribu de Juda est devenue la tribu royale, menant à Jésus-Christ, le descendant promis (<a href=\"https://ref.ly/Gen3:15\">Gn&nbsp;3.15</a>&nbsp;; <a href=\"https://ref.ly/Gen12:2-Gen12:3\">12.2–3</a>&nbsp;; <a href=\"https://ref.ly/2Sam7:16\">2S&nbsp;7.16</a>&nbsp;; <a href=\"https://ref.ly/Matt1:1\">Mt&nbsp;1.1</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Gen29:14-Gen29:35\">Gn 29.14–35</a>&nbsp;; <a href=\"https://ref.ly/Gen30:9-Gen30:21\">30.9–21</a>&nbsp;; <a href=\"https://ref.ly/Gen31:4-Gen31:16\">31.4–16</a>&nbsp;; <a href=\"https://ref.ly/Gen33:1-Gen33:7\">33.1–7</a>&nbsp;; <a href=\"https://ref.ly/Gen34:1\">34.1</a>&nbsp;; <a href=\"https://ref.ly/Gen46:8-Gen46:15\">46.8–15</a>&nbsp;; <a href=\"https://ref.ly/Gen49:31\">49.31</a>&nbsp;; <a href=\"https://ref.ly/Ruth4:11\">Rt&nbsp;4.11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01003015",
+          "start_ref_usfm": "GEN 3:15",
+          "end_ref": "01003015",
+          "end_ref_usfm": "GEN 3:15"
+        },
+        {
+          "start_ref": "01029017",
+          "start_ref_usfm": "GEN 29:17",
+          "end_ref": "01029017",
+          "end_ref_usfm": "GEN 29:17"
+        },
+        {
+          "start_ref": "01029026",
+          "start_ref_usfm": "GEN 29:26",
+          "end_ref": "01029026",
+          "end_ref_usfm": "GEN 29:26"
+        },
+        {
+          "start_ref": "01034001",
+          "start_ref_usfm": "GEN 34:1",
+          "end_ref": "01034001",
+          "end_ref_usfm": "GEN 34:1"
+        },
+        {
+          "start_ref": "01049031",
+          "start_ref_usfm": "GEN 49:31",
+          "end_ref": "01049031",
+          "end_ref_usfm": "GEN 49:31"
+        },
+        {
+          "start_ref": "08004011",
+          "start_ref_usfm": "RUT 4:11",
+          "end_ref": "08004011",
+          "end_ref_usfm": "RUT 4:11"
+        },
+        {
+          "start_ref": "10007016",
+          "start_ref_usfm": "2SA 7:16",
+          "end_ref": "10007016",
+          "end_ref_usfm": "2SA 7:16"
+        },
+        {
+          "start_ref": "40001001",
+          "start_ref_usfm": "MAT 1:1",
+          "end_ref": "40001001",
+          "end_ref_usfm": "MAT 1:1"
+        },
+        {
+          "start_ref": "01012002",
+          "start_ref_usfm": "GEN 12:2",
+          "end_ref": "01012003",
+          "end_ref_usfm": "GEN 12:3"
+        },
+        {
+          "start_ref": "01029021",
+          "start_ref_usfm": "GEN 29:21",
+          "end_ref": "01029025",
+          "end_ref_usfm": "GEN 29:25"
+        },
+        {
+          "start_ref": "01029031",
+          "start_ref_usfm": "GEN 29:31",
+          "end_ref": "01030022",
+          "end_ref_usfm": "GEN 30:22"
+        },
+        {
+          "start_ref": "01030014",
+          "start_ref_usfm": "GEN 30:14",
+          "end_ref": "01030017",
+          "end_ref_usfm": "GEN 30:17"
+        },
+        {
+          "start_ref": "01027001",
+          "start_ref_usfm": "GEN 27:1",
+          "end_ref": "01027040",
+          "end_ref_usfm": "GEN 27:40"
+        },
+        {
+          "start_ref": "01027041",
+          "start_ref_usfm": "GEN 27:41",
+          "end_ref": "01028005",
+          "end_ref_usfm": "GEN 28:5"
+        },
+        {
+          "start_ref": "01033001",
+          "start_ref_usfm": "GEN 33:1",
+          "end_ref": "01033007",
+          "end_ref_usfm": "GEN 33:7"
+        },
+        {
+          "start_ref": "01029017",
+          "start_ref_usfm": "GEN 29:17",
+          "end_ref": "01029020",
+          "end_ref_usfm": "GEN 29:20"
+        },
+        {
+          "start_ref": "01029030",
+          "start_ref_usfm": "GEN 29:30",
+          "end_ref": "01029035",
+          "end_ref_usfm": "GEN 29:35"
+        },
+        {
+          "start_ref": "01029014",
+          "start_ref_usfm": "GEN 29:14",
+          "end_ref": "01029035",
+          "end_ref_usfm": "GEN 29:35"
+        },
+        {
+          "start_ref": "01030009",
+          "start_ref_usfm": "GEN 30:9",
+          "end_ref": "01030021",
+          "end_ref_usfm": "GEN 30:21"
+        },
+        {
+          "start_ref": "01031004",
+          "start_ref_usfm": "GEN 31:4",
+          "end_ref": "01031016",
+          "end_ref_usfm": "GEN 31:16"
+        },
+        {
+          "start_ref": "01046008",
+          "start_ref_usfm": "GEN 46:8",
+          "end_ref": "01046015",
+          "end_ref_usfm": "GEN 46:15"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 668889,
+    "reference_id": 203431,
+    "version": "1.0.1",
+    "title": "Les Amalécites",
+    "media_type": "Text",
+    "index_reference": "les amalécites",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>Les Amalécites, descendants d&apos;Amalek, un petit-fils d&apos;Ésaü&nbsp; (<a href=\"https://ref.ly/Gen36:12\">Gn 36.12</a> ; <a href=\"https://ref.ly/1Chr1:36\">1Ch 1.36</a>), étaient des bergers nomades dont le territoire dans le Néguev s&apos;étendait du sud de Beer-Schéba jusqu&apos;au sud-est, atteignant Élath et Étsjon-Guéber. Ils faisaient probablement des incursions vers l&apos;ouest dans la plaine côtière, vers l&apos;est dans les étendues désertiques et peut-être même en Arabie.</p><p>Fermement opposés à Israël, les Amalécites furent rencontrés pour la première fois par les guerriers israélites à Rephidim, près du Sinaï, lorsqu&apos;ils attaquèrent le peuple de Dieu (<a href=\"https://ref.ly/Exod17:8-Exod17:16\">Ex 17.8–16</a>). Josué, à la tête de l&apos;armée, les vainquit lors de cette bataille. Plus tard, ils mirent fin à la tentative désobéissante d&apos;Israël d&apos;entrer dans la terre promise (<a href=\"https://ref.ly/Num14:39-Num14:45\">Nb 14.39–45</a>).</p><p>En raison de leur hostilité, Moïse ordonna à Israël de les détruire&nbsp;(<a href=\"https://ref.ly/Deut25:17-Deut25:19\">Dt 25.17–19</a>). Pourtant, les Amalécites continuèrent de vivre dans le Néguev (voir <a href=\"https://ref.ly/Judg3:12-Judg3:14\">Jg 3.12–14</a>; <a href=\"https://ref.ly/Judg6:33\">6.33 </a>; <a href=\"https://ref.ly/1Sam14:47-1Sam14:48\">1S 14.47–48 </a>; <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">15.1–35</a>), et ceux qui survécurent restèrent de farouches ennemis d&apos;Israël (<a href=\"https://ref.ly/1Sam27:8\">1S 27.8 </a>; <a href=\"https://ref.ly/1Sam30:1-1Sam30:20\">30.1–20 </a>; <a href=\"https://ref.ly/2Sam8:11-2Sam8:12\">2S 8.11–12 </a>; <a href=\"https://ref.ly/Ps83:1-Ps83:8\">Ps 83.1–8</a>). Ce groupe restant fut finalement anéanti sous le règne du roi Ézéchias (<a href=\"https://ref.ly/1Chr4:42-1Chr4:43\">1Ch 4.42–43</a>). Dans le livre d&apos;Esther, Haman, descendant du roi Agag, est un témoin de leur hostilité jusqu&apos;à leur fin (<a href=\"https://ref.ly/Esth3:1-Esth3:15\">Est 3</a>; voir <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">1S 15</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/1Sam30:1-1Sam30:31\">1S 30.1–31</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01036012",
+          "start_ref_usfm": "GEN 36:12",
+          "end_ref": "01036012",
+          "end_ref_usfm": "GEN 36:12"
+        },
+        {
+          "start_ref": "07006033",
+          "start_ref_usfm": "JDG 6:33",
+          "end_ref": "07006033",
+          "end_ref_usfm": "JDG 6:33"
+        },
+        {
+          "start_ref": "09027008",
+          "start_ref_usfm": "1SA 27:8",
+          "end_ref": "09027008",
+          "end_ref_usfm": "1SA 27:8"
+        },
+        {
+          "start_ref": "13001036",
+          "start_ref_usfm": "1CH 1:36",
+          "end_ref": "13001036",
+          "end_ref_usfm": "1CH 1:36"
+        },
+        {
+          "start_ref": "02017008",
+          "start_ref_usfm": "EXO 17:8",
+          "end_ref": "02017016",
+          "end_ref_usfm": "EXO 17:16"
+        },
+        {
+          "start_ref": "09015001",
+          "start_ref_usfm": "1SA 15:1",
+          "end_ref": "09015035",
+          "end_ref_usfm": "1SA 15:35"
+        },
+        {
+          "start_ref": "04014039",
+          "start_ref_usfm": "NUM 14:39",
+          "end_ref": "04014045",
+          "end_ref_usfm": "NUM 14:45"
+        },
+        {
+          "start_ref": "05025017",
+          "start_ref_usfm": "DEU 25:17",
+          "end_ref": "05025019",
+          "end_ref_usfm": "DEU 25:19"
+        },
+        {
+          "start_ref": "07003012",
+          "start_ref_usfm": "JDG 3:12",
+          "end_ref": "07003014",
+          "end_ref_usfm": "JDG 3:14"
+        },
+        {
+          "start_ref": "09014047",
+          "start_ref_usfm": "1SA 14:47",
+          "end_ref": "09014048",
+          "end_ref_usfm": "1SA 14:48"
+        },
+        {
+          "start_ref": "09030001",
+          "start_ref_usfm": "1SA 30:1",
+          "end_ref": "09030020",
+          "end_ref_usfm": "1SA 30:20"
+        },
+        {
+          "start_ref": "10008011",
+          "start_ref_usfm": "2SA 8:11",
+          "end_ref": "10008012",
+          "end_ref_usfm": "2SA 8:12"
+        },
+        {
+          "start_ref": "17003001",
+          "start_ref_usfm": "EST 3:1",
+          "end_ref": "17003015",
+          "end_ref_usfm": "EST 3:15"
+        },
+        {
+          "start_ref": "09030001",
+          "start_ref_usfm": "1SA 30:1",
+          "end_ref": "09030031",
+          "end_ref_usfm": "1SA 30:31"
+        },
+        {
+          "start_ref": "13004042",
+          "start_ref_usfm": "1CH 4:42",
+          "end_ref": "13004043",
+          "end_ref_usfm": "1CH 4:43"
+        },
+        {
+          "start_ref": "19083001",
+          "start_ref_usfm": "PSA 83:1",
+          "end_ref": "19083008",
+          "end_ref_usfm": "PSA 83:8"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 668918,
+    "reference_id": 203460,
+    "version": "1.0.1",
+    "title": "Les Mèdes et les Perses",
+    "media_type": "Text",
+    "index_reference": "les mèdes et les perses",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<h3>Les Mèdes (vers 850–549 av. J.‑C.)</h3><p>Les premiers Mèdes n&apos;ont laissé aucun document écrit. Une inscription de Salmanazar III d&apos;Assyrie (858–824 av. J.-C.) indique que les Mèdes s&apos;étaient installés autour d&apos;Ecbatane (ou <span>Achmetha dans la Bible), </span>leur capitale, vers le milieu des années 800 av. J.-C. Aujourd&apos;hui, cette ville porte le nom de Hamadan en Iran. Réputés pour leur excellence dans l&apos;élevage de chevaux, les Mèdes attirèrent l&apos;attention de Salmanazar, qui pillait leur terre pour s&apos;emparer de nombreux chevaux de grande qualité. Ils restèrent sous le contrôle assyrien jusqu&apos;à la fin des années 600 av. J.-C., lorsque, profitant de l&apos;affaiblissement de l&apos;Assyrie, ils prirent leur indépendance.</p><h3>Les Perses (vers 700–549 av. J.‑C.)</h3><p>Vers 700 av. J.-C., Achéménès fonda un modeste royaume perse, régnant d&apos;environ 700 à 675 av. J.-C. Son fils, Teispès, lui succéda de 675 à 640 av. J.-C., sous le contrôle des Mèdes. Les Mèdes rassemblaient des forces pour renverser l&apos;Assyrie. Cependant, des difficultés survinrent pour les Mèdes, qui ont ensuite libéré Teispès de leur emprise. Cambyse, fils de Cyrus I et petit-fils de Teispès, vécut de 600 à 559 av. J.-C. et épousa la fille du roi mède Astyage. Leur fils, Cyrus II, régna sur la Perse de 559 à 530 av. J.-C.</p><h3>L&apos;Empire mède et perse (549–331 av. J.‑C.)</h3><p>Cyrus II a vaincu son grand-père, Astyage de Médie, en 549 av. J.‑C. Il établit Achmetha en Médie comme sa capitale et y installa ses archives (voir <a href=\"https://ref.ly/Ezra6:1-Ezra6:5\">Esd 6.1–5</a>). Né d&apos;un père perse et d&apos;une mère mède, Cyrus II symbolisait l&apos;union de ces deux nations.</p><p>Il fit preuve d&apos;une grande bonté envers ses ennemis vaincus. Chef militaire habile, il envahit l&apos;Asie Mineure, vainquit Crésus, le roi de Lydie, et prit le contrôle des cités grecques de la région. En 539 av. J.-C., il captura Babylone avec presque aucune résistance et permit aux exilés de retourner dans leur patrie pour reconstruire leur temple (voir <a href=\"https://ref.ly/Ezra1:1-Ezra1:4\">Esd 1.1–4</a>).</p><p>Le fils de Cyrus, Cambyse II, conquit l&apos;Égypte et régna de 529 à 522 av. J.-C. Cependant, l&apos;empire faillit s&apos;effondrer lorsqu&apos;il se suicida. Darius Ier, fils d&apos;Hystaspes, alors gouverneur de la Parthie, succéda à Cambyse et régna de 521 à 486 av. J.-C. Énergique et efficace, Darius réprima les révoltes internes et organisa l&apos;empire en vingt provinces.</p><p>Chacune était ainsi placée sous l&apos;autorité d&apos;un gouverneur, ou satrape, appelé « protecteur du royaume ».&nbsp;Des inspecteurs, surnommés « les oreilles du roi », surveillaient leurs actions. Darius déplaça fit de Persépolis la capitale principale de la Perse, où fut édifié un immense complexe de palais. Fidèle aux enseignements de Zoroastre, Darius vénérait Ahura Mazda, le dieu suprême du zoroastrisme, une foi qui était également celle de Xerxès et Artaxerxès, qui vinrent après lui.</p><p>Au cours des dernières années du règne de Darius, les Grecs vainquirent les Perses à Marathon en 491 av. J.-C.&nbsp;</p><p>Le fils de Darius, Khshayarsha, connu sous le nom de Xerxès en grec et Assuérus en hébreu, lui succéda. Durant le règne de Xerxès, de 486 à 465 av. J.-C., les Grecs remportèrent une victoire décisive sur la flotte perse à Salamine en 480 av. J.-C.</p><p>La chute de l&apos;empire est attribuée à la lâcheté de Darius III, qui régna de 336 à 330 av. J.-C. Alexandre le Grand vainquit ses armées à Issos en 333 av. J.-C. et, finalement, à Gaugamèles, près de l&apos;actuelle Erbil (Arbèles), en 331 av. J.-C.</p><h3>La Perse et la Bible</h3><p>La première mention de la Perse dans l&apos;histoire d&apos;Israël apparaît dans <a href=\"https://ref.ly/Isa44:28-Isa45:13\">Es 44.28–45.13</a>, une prophétie donnée plus de 150 ans avant que Cyrus ne prenne Babylone et n&apos;autorise les Juifs exilés à retourner à Jérusalem. D&apos;autres références à la Perse jalonnent l&apos;Ancien Testament, notamment dans Esdras, Néhémie, Esther, ainsi que dans les écrits prophétiques de Daniel, Sophonie et Aggée. Les Écritures décrivent la Perse comme un empire strict mais généralement bienveillant, permettant aux Juifs de se gouverner eux-mêmes et de pratiquer leur culte librement, même si la communauté judéenne gardait en mémoire sa subordination à des puissances étrangères.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Ezra4:5-Ezra4:7\">Esd 4.5–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001004",
+          "end_ref_usfm": "EZR 1:4"
+        },
+        {
+          "start_ref": "15006001",
+          "start_ref_usfm": "EZR 6:1",
+          "end_ref": "15006005",
+          "end_ref_usfm": "EZR 6:5"
+        },
+        {
+          "start_ref": "23044028",
+          "start_ref_usfm": "ISA 44:28",
+          "end_ref": "23045013",
+          "end_ref_usfm": "ISA 45:13"
+        },
+        {
+          "start_ref": "15004005",
+          "start_ref_usfm": "EZR 4:5",
+          "end_ref": "15004007",
+          "end_ref_usfm": "EZR 4:7"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 668936,
+    "reference_id": 203478,
+    "version": "1.0.1",
+    "title": "Les Pharisiens",
+    "media_type": "Text",
+    "index_reference": "les pharisiens",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>Les Pharisiens figuraient parmi les trois principaux groupes juifs, aux côtés des Sadducéens et des Esséniens. Contrairement à d&apos;autres, ils ne cherchaient pas à obtenir le pouvoir politique. Ils prirent naissance au sein d&apos;un groupe appelé les <em>hasidim</em>, « les pieux », qui s&apos;opposait au mélange de la culture et de la religion grecques avec le judaïsme, dès le IIe siècle av. J.-C.</p><p>Les Pharisiens s&apos;efforçaient de rendre la loi de l&apos;Ancien Testament pratique et applicable pour les Juifs désireux de l&apos;observer. Ils se concentraient tant sur la <em>torah</em>, la loi écrite de Moïse, que sur les traditions orales qu&apos;ils affirmaient avoir été transmises par Moïse lui-même afin de protéger la loi de toute violation. Ils sont restés célèbres pour leur dévotion et leur respect scrupuleux de la loi.</p><p>Transmettant oralement leurs interprétations de la loi d&apos;une génération à l&apos;autre, ils établirent une tradition juridique qui rendit la loi pertinente en fixant des directives précises pour de nombreuses situations. Ils croyaient fermement que, si chacun respectait la loi, la nation serait exempte de péché et le règne de Dieu s&apos;étendrait sur toutes les nations. Cet idéal futur les a conduits à insister sur l&apos;obéissance, et leurs traditions furent plus tard consignées dans les écrits rabbiniques connus sous le nom de <em>Mishnah</em> et de <em>Talmud.</em></p><p>Bien qu&apos;étant un petit groupe, les Pharisiens exerçaient une influence considérable en Israël (voir <a href=\"https://ref.ly/Matt15:12-Matt15:14\">Mt 15.12–14</a> ; voir aussi Josèphe, <em>Guerre des Juifs</em><strong><em> </em></strong>2.8.14 ; <em>Antiquités juives</em> 13.10.5). Ils agissaient principalement au niveau des communautés locales dans les synagogues, tandis que les Sadducéens, eux, détenaient une influence plus forte dans le culte du temple à Jérusalem et au sein du Sanhédrin, le haut conseil juif.</p><p>Contrairement aux Sadducéens, les Pharisiens croyaient fermement à la résurrection des morts (voir <a href=\"https://ref.ly/Acts23:6-Acts23:8\">Ac 23.6–8</a>). Après la destruction de Jérusalem en 70 après J.-C., c&apos;est aux Pharisiens que revint la responsabilité de diriger et de guider le peuple d&apos;Israël.</p><p>Les Pharisiens se heurtèrent fréquemment à Jésus. Ce dernier les accusait d&apos;hypocrisie (c&apos;est-à-dire de dire une chose tout en faisant une autre) et de privilégier les règles humaines au détriment des normes justes de Dieu. Il s&apos;opposait à eux parce qu&apos;ils éloignaient les gens du plan de rédemption divin. Bien qu&apos;ils fussent les chefs religieux d&apos;Israël, Jésus les critiquait sévèrement pour avoir déformé les enseignements de Dieu et ces pratiques (voir <a href=\"https://ref.ly/Matt23:1-Matt23:39\">Mt 23</a>). Ainsi, les Pharisiens s&apos;opposèrent à Jésus et à son œuvre, principalement parce qu&apos;il ignorait leurs traditions (voir, par exemple, <a href=\"https://ref.ly/Matt15:1-Matt15:20\">Mt 15.1–20</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Matt3:7\">Mt 3.7</a> ; <a href=\"https://ref.ly/Matt5:20\">5.20</a> ; <a href=\"https://ref.ly/Matt9:10-Matt9:14\">9.10–14</a>, <a href=\"https://ref.ly/Matt9:34\">34</a> ; <a href=\"https://ref.ly/Matt12:1-Matt12:14\">12.1–14</a>, <a href=\"https://ref.ly/Matt12:22-Matt12:24\">22–24</a>, <a href=\"https://ref.ly/Matt12:38-Matt12:40\">38–40</a> ; <a href=\"https://ref.ly/Matt15:1-Matt15:14\">15.1–14</a> ; <a href=\"https://ref.ly/Matt16:1-Matt16:12\">16.1–12</a> ; <a href=\"https://ref.ly/Matt19:3\">19.3</a> ; <a href=\"https://ref.ly/Matt21:45\">21.45</a> ; <a href=\"https://ref.ly/Matt22:15\">22.15</a>, <a href=\"https://ref.ly/Matt22:34\">34</a> ; <a href=\"https://ref.ly/Matt23:1-Matt23:7\">23.1–7</a>, <a href=\"https://ref.ly/Matt23:13-Matt23:31\">13–31</a> ; <a href=\"https://ref.ly/Matt27:62-Matt27:64\">27.62–64</a> ; <a href=\"https://ref.ly/Mark2:23-Mark2:25\">Mc 2.23–25</a> ; <a href=\"https://ref.ly/Mark3:1-Mark3:6\">3.1–6</a> ; <a href=\"https://ref.ly/Mark7:1-Mark7:13\">7.1–13</a> ; <a href=\"https://ref.ly/Mark8:11-Mark8:12\">8.11–12</a> ; <a href=\"https://ref.ly/Mark12:13-Mark12:17\">12.13–17</a> ; <a href=\"https://ref.ly/Luke5:17-Luke5:21\">Lc 5.17–21</a>, <a href=\"https://ref.ly/Luke5:29-Luke5:32\">29–32</a> ; <a href=\"https://ref.ly/Luke6:6-Luke6:11\">6.6–11</a> ; <a href=\"https://ref.ly/Luke7:28-Luke7:30\">7.28–30</a>, <a href=\"https://ref.ly/Luke7:36-Luke7:49\">36–49</a> ; <a href=\"https://ref.ly/Luke11:37-Luke11:54\">11.37–54</a> ; <a href=\"https://ref.ly/Luke12:1-Luke12:3\">12.1–3</a> ; <a href=\"https://ref.ly/Luke13:31\">13.31</a> ; <a href=\"https://ref.ly/Luke14:1-Luke14:6\">14.1–6</a> ; <a href=\"https://ref.ly/Luke15:1-Luke15:2\">15.1–2</a> ; <a href=\"https://ref.ly/Luke16:13-Luke16:15\">16.13–15</a> ; <a href=\"https://ref.ly/Luke17:20-Luke17:21\">17.20–21</a> ; <a href=\"https://ref.ly/Luke18:9-Luke18:14\">18.9–14</a> ; <a href=\"https://ref.ly/Luke19:38-Luke19:40\">19.38–40</a> ; <a href=\"https://ref.ly/John1:24-John1:25\">Jn 1.24–25</a> ; <a href=\"https://ref.ly/John3:1\">3.1</a> ; <a href=\"https://ref.ly/John7:31-John7:32\">7.31–32</a>, <a href=\"https://ref.ly/John7:45-John7:52\">45–52</a> ; <a href=\"https://ref.ly/John8:3-John8:10\">8.3–10</a>, <a href=\"https://ref.ly/John8:13\">13</a> ; <a href=\"https://ref.ly/John9:13-John9:34\">9.13–34</a>, <a href=\"https://ref.ly/John9:40\">40</a> ; <a href=\"https://ref.ly/John11:46-John11:57\">11.46–57</a> ; <a href=\"https://ref.ly/John12:17-John12:19\">12.17–19</a>, <a href=\"https://ref.ly/John12:42\">42</a> ; <a href=\"https://ref.ly/John18:3\">18.3</a> ; <a href=\"https://ref.ly/Acts5:27-Acts5:40\">Ac 5.27–40</a> ; <a href=\"https://ref.ly/Acts15:5\">15.5</a> ; <a href=\"https://ref.ly/Acts23:6-Acts23:10\">23.6–10</a> ; <a href=\"https://ref.ly/Acts26:4-Acts26:5\">26.4–5</a> ; <a href=\"https://ref.ly/Phil3:5-Phil3:7\">Ph 3.5–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40003007",
+          "start_ref_usfm": "MAT 3:7",
+          "end_ref": "40003007",
+          "end_ref_usfm": "MAT 3:7"
+        },
+        {
+          "start_ref": "40005020",
+          "start_ref_usfm": "MAT 5:20",
+          "end_ref": "40005020",
+          "end_ref_usfm": "MAT 5:20"
+        },
+        {
+          "start_ref": "40009034",
+          "start_ref_usfm": "MAT 9:34",
+          "end_ref": "40009034",
+          "end_ref_usfm": "MAT 9:34"
+        },
+        {
+          "start_ref": "40019003",
+          "start_ref_usfm": "MAT 19:3",
+          "end_ref": "40019003",
+          "end_ref_usfm": "MAT 19:3"
+        },
+        {
+          "start_ref": "40021045",
+          "start_ref_usfm": "MAT 21:45",
+          "end_ref": "40021045",
+          "end_ref_usfm": "MAT 21:45"
+        },
+        {
+          "start_ref": "40022015",
+          "start_ref_usfm": "MAT 22:15",
+          "end_ref": "40022015",
+          "end_ref_usfm": "MAT 22:15"
+        },
+        {
+          "start_ref": "40022034",
+          "start_ref_usfm": "MAT 22:34",
+          "end_ref": "40022034",
+          "end_ref_usfm": "MAT 22:34"
+        },
+        {
+          "start_ref": "42013031",
+          "start_ref_usfm": "LUK 13:31",
+          "end_ref": "42013031",
+          "end_ref_usfm": "LUK 13:31"
+        },
+        {
+          "start_ref": "43003001",
+          "start_ref_usfm": "JHN 3:1",
+          "end_ref": "43003001",
+          "end_ref_usfm": "JHN 3:1"
+        },
+        {
+          "start_ref": "43008013",
+          "start_ref_usfm": "JHN 8:13",
+          "end_ref": "43008013",
+          "end_ref_usfm": "JHN 8:13"
+        },
+        {
+          "start_ref": "43009040",
+          "start_ref_usfm": "JHN 9:40",
+          "end_ref": "43009040",
+          "end_ref_usfm": "JHN 9:40"
+        },
+        {
+          "start_ref": "43012042",
+          "start_ref_usfm": "JHN 12:42",
+          "end_ref": "43012042",
+          "end_ref_usfm": "JHN 12:42"
+        },
+        {
+          "start_ref": "43018003",
+          "start_ref_usfm": "JHN 18:3",
+          "end_ref": "43018003",
+          "end_ref_usfm": "JHN 18:3"
+        },
+        {
+          "start_ref": "44015005",
+          "start_ref_usfm": "ACT 15:5",
+          "end_ref": "44015005",
+          "end_ref_usfm": "ACT 15:5"
+        },
+        {
+          "start_ref": "40016001",
+          "start_ref_usfm": "MAT 16:1",
+          "end_ref": "40016012",
+          "end_ref_usfm": "MAT 16:12"
+        },
+        {
+          "start_ref": "41012013",
+          "start_ref_usfm": "MRK 12:13",
+          "end_ref": "41012017",
+          "end_ref_usfm": "MRK 12:17"
+        },
+        {
+          "start_ref": "44026004",
+          "start_ref_usfm": "ACT 26:4",
+          "end_ref": "44026005",
+          "end_ref_usfm": "ACT 26:5"
+        },
+        {
+          "start_ref": "44005027",
+          "start_ref_usfm": "ACT 5:27",
+          "end_ref": "44005040",
+          "end_ref_usfm": "ACT 5:40"
+        },
+        {
+          "start_ref": "40015001",
+          "start_ref_usfm": "MAT 15:1",
+          "end_ref": "40015020",
+          "end_ref_usfm": "MAT 15:20"
+        },
+        {
+          "start_ref": "41003001",
+          "start_ref_usfm": "MRK 3:1",
+          "end_ref": "41003006",
+          "end_ref_usfm": "MRK 3:6"
+        },
+        {
+          "start_ref": "41007001",
+          "start_ref_usfm": "MRK 7:1",
+          "end_ref": "41007013",
+          "end_ref_usfm": "MRK 7:13"
+        },
+        {
+          "start_ref": "42017020",
+          "start_ref_usfm": "LUK 17:20",
+          "end_ref": "42017021",
+          "end_ref_usfm": "LUK 17:21"
+        },
+        {
+          "start_ref": "40023001",
+          "start_ref_usfm": "MAT 23:1",
+          "end_ref": "40023039",
+          "end_ref_usfm": "MAT 23:39"
+        },
+        {
+          "start_ref": "40012001",
+          "start_ref_usfm": "MAT 12:1",
+          "end_ref": "40012014",
+          "end_ref_usfm": "MAT 12:14"
+        },
+        {
+          "start_ref": "41008011",
+          "start_ref_usfm": "MRK 8:11",
+          "end_ref": "41008012",
+          "end_ref_usfm": "MRK 8:12"
+        },
+        {
+          "start_ref": "40012022",
+          "start_ref_usfm": "MAT 12:22",
+          "end_ref": "40012024",
+          "end_ref_usfm": "MAT 12:24"
+        },
+        {
+          "start_ref": "40012038",
+          "start_ref_usfm": "MAT 12:38",
+          "end_ref": "40012040",
+          "end_ref_usfm": "MAT 12:40"
+        },
+        {
+          "start_ref": "42018009",
+          "start_ref_usfm": "LUK 18:9",
+          "end_ref": "42018014",
+          "end_ref_usfm": "LUK 18:14"
+        },
+        {
+          "start_ref": "44023006",
+          "start_ref_usfm": "ACT 23:6",
+          "end_ref": "44023008",
+          "end_ref_usfm": "ACT 23:8"
+        },
+        {
+          "start_ref": "42006006",
+          "start_ref_usfm": "LUK 6:6",
+          "end_ref": "42006011",
+          "end_ref_usfm": "LUK 6:11"
+        },
+        {
+          "start_ref": "42015001",
+          "start_ref_usfm": "LUK 15:1",
+          "end_ref": "42015002",
+          "end_ref_usfm": "LUK 15:2"
+        },
+        {
+          "start_ref": "43012017",
+          "start_ref_usfm": "JHN 12:17",
+          "end_ref": "43012019",
+          "end_ref_usfm": "JHN 12:19"
+        },
+        {
+          "start_ref": "43007045",
+          "start_ref_usfm": "JHN 7:45",
+          "end_ref": "43007052",
+          "end_ref_usfm": "JHN 7:52"
+        },
+        {
+          "start_ref": "42005029",
+          "start_ref_usfm": "LUK 5:29",
+          "end_ref": "42005032",
+          "end_ref_usfm": "LUK 5:32"
+        },
+        {
+          "start_ref": "43001024",
+          "start_ref_usfm": "JHN 1:24",
+          "end_ref": "43001025",
+          "end_ref_usfm": "JHN 1:25"
+        },
+        {
+          "start_ref": "42011037",
+          "start_ref_usfm": "LUK 11:37",
+          "end_ref": "42011054",
+          "end_ref_usfm": "LUK 11:54"
+        },
+        {
+          "start_ref": "43009013",
+          "start_ref_usfm": "JHN 9:13",
+          "end_ref": "43009034",
+          "end_ref_usfm": "JHN 9:34"
+        },
+        {
+          "start_ref": "43011046",
+          "start_ref_usfm": "JHN 11:46",
+          "end_ref": "43011057",
+          "end_ref_usfm": "JHN 11:57"
+        },
+        {
+          "start_ref": "40027062",
+          "start_ref_usfm": "MAT 27:62",
+          "end_ref": "40027064",
+          "end_ref_usfm": "MAT 27:64"
+        },
+        {
+          "start_ref": "44023006",
+          "start_ref_usfm": "ACT 23:6",
+          "end_ref": "44023010",
+          "end_ref_usfm": "ACT 23:10"
+        },
+        {
+          "start_ref": "42014001",
+          "start_ref_usfm": "LUK 14:1",
+          "end_ref": "42014006",
+          "end_ref_usfm": "LUK 14:6"
+        },
+        {
+          "start_ref": "40015012",
+          "start_ref_usfm": "MAT 15:12",
+          "end_ref": "40015014",
+          "end_ref_usfm": "MAT 15:14"
+        },
+        {
+          "start_ref": "40009010",
+          "start_ref_usfm": "MAT 9:10",
+          "end_ref": "40009014",
+          "end_ref_usfm": "MAT 9:14"
+        },
+        {
+          "start_ref": "40015001",
+          "start_ref_usfm": "MAT 15:1",
+          "end_ref": "40015014",
+          "end_ref_usfm": "MAT 15:14"
+        },
+        {
+          "start_ref": "40023001",
+          "start_ref_usfm": "MAT 23:1",
+          "end_ref": "40023007",
+          "end_ref_usfm": "MAT 23:7"
+        },
+        {
+          "start_ref": "40023013",
+          "start_ref_usfm": "MAT 23:13",
+          "end_ref": "40023031",
+          "end_ref_usfm": "MAT 23:31"
+        },
+        {
+          "start_ref": "41002023",
+          "start_ref_usfm": "MRK 2:23",
+          "end_ref": "41002025",
+          "end_ref_usfm": "MRK 2:25"
+        },
+        {
+          "start_ref": "42005017",
+          "start_ref_usfm": "LUK 5:17",
+          "end_ref": "42005021",
+          "end_ref_usfm": "LUK 5:21"
+        },
+        {
+          "start_ref": "42007028",
+          "start_ref_usfm": "LUK 7:28",
+          "end_ref": "42007030",
+          "end_ref_usfm": "LUK 7:30"
+        },
+        {
+          "start_ref": "42007036",
+          "start_ref_usfm": "LUK 7:36",
+          "end_ref": "42007049",
+          "end_ref_usfm": "LUK 7:49"
+        },
+        {
+          "start_ref": "42012001",
+          "start_ref_usfm": "LUK 12:1",
+          "end_ref": "42012003",
+          "end_ref_usfm": "LUK 12:3"
+        },
+        {
+          "start_ref": "42016013",
+          "start_ref_usfm": "LUK 16:13",
+          "end_ref": "42016015",
+          "end_ref_usfm": "LUK 16:15"
+        },
+        {
+          "start_ref": "42019038",
+          "start_ref_usfm": "LUK 19:38",
+          "end_ref": "42019040",
+          "end_ref_usfm": "LUK 19:40"
+        },
+        {
+          "start_ref": "43007031",
+          "start_ref_usfm": "JHN 7:31",
+          "end_ref": "43007032",
+          "end_ref_usfm": "JHN 7:32"
+        },
+        {
+          "start_ref": "43008003",
+          "start_ref_usfm": "JHN 8:3",
+          "end_ref": "43008010",
+          "end_ref_usfm": "JHN 8:10"
+        },
+        {
+          "start_ref": "50003005",
+          "start_ref_usfm": "PHP 3:5",
+          "end_ref": "50003007",
+          "end_ref_usfm": "PHP 3:7"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 668879,
+    "reference_id": 203421,
+    "version": "1.0.1",
+    "title": "Les Philistins",
+    "media_type": "Text",
+    "index_reference": "les philistins",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>Les Philistins habitaient la plaine côtière au sud-est de la Méditerranée. Ils faisaient partie d&apos;un vaste groupe de voyageurs maritimes de la région égéenne et étaient désignés par les Égyptiens comme les « Peuples de la mer ». Vers 1200 av. J.-C., ils s&apos;installèrent sur la plaine côtière inférieure de la Palestine, fondant ainsi les cinq cités suivantes :</p><ol><li><p>Asdod</p></li><li><p>Askalon</p></li><li><p><span>Ékron</span></p></li><li><p>Gaza</p></li><li><p>Gath</p></li></ol><p>Les Philistins n&apos;étaient pas de simples barbares ; ils se distinguaient par leur habileté en politique et en ce qui concerne la technique, et c&apos;étaient de redoutables guerriers. Leur maîtrise du fer en faisait des adversaires presque invincibles (voir <a href=\"https://ref.ly/1Sam13:19-1Sam13:22\">1S 13.19–22</a>). Ils affrontèrent fréquemment les Israélites à l&apos;époque des Juges, entre environ 1350 et 1050 av. J.-C., ainsi qu&apos;au début de la monarchie unie, d&apos;environ 1050 à 970 av. J.-C. Saül périt en combattant les Philistins (<a href=\"https://ref.ly/1Sam31:1-1Sam31:13\">1S 31.1–13</a>). Toutefois, David les vainquit avant de devenir roi (<a href=\"https://ref.ly/1Sam18:20-1Sam18:30\">1S 18.20–30</a> ; <a href=\"https://ref.ly/1Sam19:8\">19.8</a> ; <a href=\"https://ref.ly/1Sam23:1-1Sam23:5\">23.1–5</a>) et continua de gagner les batailles contre eux durant son règne (<a href=\"https://ref.ly/2Sam5:17-2Sam5:25\">2S 5.17–25</a> ; <a href=\"https://ref.ly/2Sam8:1\">8.1</a> ; <a href=\"https://ref.ly/2Sam21:15\">21.15–22</a>). Bien que les Philistins ne disparurent jamais complètement tant qu&apos;Israël subsista en tant que nation (<a href=\"https://ref.ly/2Kgs18:8\">2R 18.8</a> ; <a href=\"https://ref.ly/2Chr17:11\">2Ch 17.11</a> ; <a href=\"https://ref.ly/2Chr21:16-2Chr21:17\">21.16–17</a> ; <a href=\"https://ref.ly/2Chr26:6-2Chr26:7\">26.6–7</a> ; <a href=\"https://ref.ly/2Chr28:18\">28.18</a>), David mit fin à leur menace.</p><p>Dans 1 Samuel, Dieu se servit des Philistins pour éliminer la famille pécheresse d&apos;Éli&nbsp; (<a href=\"https://ref.ly/1Sam4:10-1Sam4:22\">1S 4.10–22</a>). Par ailleurs, les Philistins contribuèrent à forger la carrière militaire et politique de David (<a href=\"https://ref.ly/1Sam17:32-1Sam17:58\">1S 17.32–58 </a>; <a href=\"https://ref.ly/1Sam18:20-1Sam18:30\">18.20–30</a>). &nbsp;Ils détournèrent l&apos;attention de Saül lorsqu&apos;il était sur le point de capturer David (<a href=\"https://ref.ly/1Sam23:26-1Sam23:28\">1 S 23.26–28</a>) et offrirent refuge à David contre les persécutions de Saül (<a href=\"https://ref.ly/1Sam21:10-1Sam21:15\">1S 21.10–15 </a>; <a href=\"https://ref.ly/1Sam27:1-1Sam27:12\">27.1–12</a>). Ils firent également obstacle aux efforts de David pour combattre son propre peuple (<a href=\"https://ref.ly/1Sam29:1-1Sam29:11\">1S 29.1–11</a>) et, enfin, tuèrent Saül et ses fils (<a href=\"https://ref.ly/1Sam31:1-1Sam31:13\">1S 31.1–13</a>). Cela permit à David de devenir roi. Cependant, en fin de compte, les Philistins subirent le jugement de Dieu (voir <a href=\"https://ref.ly/Ezek25:15-Ezek25:17\">Ez 25.15–17 </a>; <a href=\"https://ref.ly/Amos1:6-Amos1:8\">Am 1.6–8</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Gen10:13-Gen10:14\">Gn 10.13–14</a> ; <a href=\"https://ref.ly/Judg3:1-Judg3:3\">Jg 3.1–3</a> ; <a href=\"https://ref.ly/Judg13:1-Judg16:31\">Jg 13.1–16.31</a> ; <a href=\"https://ref.ly/1Sam5:1-1Sam6:18\">1S 5.1–6.18</a> ; <a href=\"https://ref.ly/1Sam13:16-1Sam14:23\">13.16–14.23</a> ; <a href=\"https://ref.ly/1Sam21:10-1Sam21:15\">21.10–15</a> ; <a href=\"https://ref.ly/1Sam23:1-1Sam23:5\">23.1–5</a>, <a href=\"https://ref.ly/1Sam23:26-1Sam23:28\">26–28</a> ; <a href=\"https://ref.ly/1Sam31:1-1Sam31:10\">31.1–10</a> ; <a href=\"https://ref.ly/2Sam5:17-2Sam5:25\">2S 5.17–25</a> ; <a href=\"https://ref.ly/2Sam8:1\">8.1</a> ; <a href=\"https://ref.ly/2Sam21:15-2Sam21:22\">21.15–22</a> ; <a href=\"https://ref.ly/2Kgs18:8\">2R 18.8</a> ; <a href=\"https://ref.ly/2Chr17:10-2Chr17:11\">2Ch 17.10–11</a> ; <a href=\"https://ref.ly/2Chr21:16-2Chr21:17\">21.16–17</a> ; <a href=\"https://ref.ly/2Chr26:6-2Chr26:7\">26.6–7</a> ; <a href=\"https://ref.ly/2Chr28:18-2Chr28:19\">28.18–19</a> ; <a href=\"https://ref.ly/Isa2:6\">Es 2.6</a> ; <a href=\"https://ref.ly/Ezek25:15-Ezek25:17\">Ez 25.15–17</a> ; <a href=\"https://ref.ly/Amos1:6-Amos1:8\">Am 1.6–8</a> ; <a href=\"https://ref.ly/Amos9:7\">9.7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09019008",
+          "start_ref_usfm": "1SA 19:8",
+          "end_ref": "09019008",
+          "end_ref_usfm": "1SA 19:8"
+        },
+        {
+          "start_ref": "10008001",
+          "start_ref_usfm": "2SA 8:1",
+          "end_ref": "10008001",
+          "end_ref_usfm": "2SA 8:1"
+        },
+        {
+          "start_ref": "10021015",
+          "start_ref_usfm": "2SA 21:15",
+          "end_ref": "10021015",
+          "end_ref_usfm": "2SA 21:15"
+        },
+        {
+          "start_ref": "12018008",
+          "start_ref_usfm": "2KI 18:8",
+          "end_ref": "12018008",
+          "end_ref_usfm": "2KI 18:8"
+        },
+        {
+          "start_ref": "14017011",
+          "start_ref_usfm": "2CH 17:11",
+          "end_ref": "14017011",
+          "end_ref_usfm": "2CH 17:11"
+        },
+        {
+          "start_ref": "14028018",
+          "start_ref_usfm": "2CH 28:18",
+          "end_ref": "14028018",
+          "end_ref_usfm": "2CH 28:18"
+        },
+        {
+          "start_ref": "23002006",
+          "start_ref_usfm": "ISA 2:6",
+          "end_ref": "23002006",
+          "end_ref_usfm": "ISA 2:6"
+        },
+        {
+          "start_ref": "30009007",
+          "start_ref_usfm": "AMO 9:7",
+          "end_ref": "30009007",
+          "end_ref_usfm": "AMO 9:7"
+        },
+        {
+          "start_ref": "09021010",
+          "start_ref_usfm": "1SA 21:10",
+          "end_ref": "09021015",
+          "end_ref_usfm": "1SA 21:15"
+        },
+        {
+          "start_ref": "09031001",
+          "start_ref_usfm": "1SA 31:1",
+          "end_ref": "09031013",
+          "end_ref_usfm": "1SA 31:13"
+        },
+        {
+          "start_ref": "09013019",
+          "start_ref_usfm": "1SA 13:19",
+          "end_ref": "09013022",
+          "end_ref_usfm": "1SA 13:22"
+        },
+        {
+          "start_ref": "01010013",
+          "start_ref_usfm": "GEN 10:13",
+          "end_ref": "01010014",
+          "end_ref_usfm": "GEN 10:14"
+        },
+        {
+          "start_ref": "07013001",
+          "start_ref_usfm": "JDG 13:1",
+          "end_ref": "07016031",
+          "end_ref_usfm": "JDG 16:31"
+        },
+        {
+          "start_ref": "09027001",
+          "start_ref_usfm": "1SA 27:1",
+          "end_ref": "09027012",
+          "end_ref_usfm": "1SA 27:12"
+        },
+        {
+          "start_ref": "14021016",
+          "start_ref_usfm": "2CH 21:16",
+          "end_ref": "14021017",
+          "end_ref_usfm": "2CH 21:17"
+        },
+        {
+          "start_ref": "26025015",
+          "start_ref_usfm": "EZK 25:15",
+          "end_ref": "26025017",
+          "end_ref_usfm": "EZK 25:17"
+        },
+        {
+          "start_ref": "09029001",
+          "start_ref_usfm": "1SA 29:1",
+          "end_ref": "09029011",
+          "end_ref_usfm": "1SA 29:11"
+        },
+        {
+          "start_ref": "09023001",
+          "start_ref_usfm": "1SA 23:1",
+          "end_ref": "09023005",
+          "end_ref_usfm": "1SA 23:5"
+        },
+        {
+          "start_ref": "10005017",
+          "start_ref_usfm": "2SA 5:17",
+          "end_ref": "10005025",
+          "end_ref_usfm": "2SA 5:25"
+        },
+        {
+          "start_ref": "14026006",
+          "start_ref_usfm": "2CH 26:6",
+          "end_ref": "14026007",
+          "end_ref_usfm": "2CH 26:7"
+        },
+        {
+          "start_ref": "10021015",
+          "start_ref_usfm": "2SA 21:15",
+          "end_ref": "10021022",
+          "end_ref_usfm": "2SA 21:22"
+        },
+        {
+          "start_ref": "14017010",
+          "start_ref_usfm": "2CH 17:10",
+          "end_ref": "14017011",
+          "end_ref_usfm": "2CH 17:11"
+        },
+        {
+          "start_ref": "07003001",
+          "start_ref_usfm": "JDG 3:1",
+          "end_ref": "07003003",
+          "end_ref_usfm": "JDG 3:3"
+        },
+        {
+          "start_ref": "09018020",
+          "start_ref_usfm": "1SA 18:20",
+          "end_ref": "09018030",
+          "end_ref_usfm": "1SA 18:30"
+        },
+        {
+          "start_ref": "09004010",
+          "start_ref_usfm": "1SA 4:10",
+          "end_ref": "09004022",
+          "end_ref_usfm": "1SA 4:22"
+        },
+        {
+          "start_ref": "09017032",
+          "start_ref_usfm": "1SA 17:32",
+          "end_ref": "09017058",
+          "end_ref_usfm": "1SA 17:58"
+        },
+        {
+          "start_ref": "09023026",
+          "start_ref_usfm": "1SA 23:26",
+          "end_ref": "09023028",
+          "end_ref_usfm": "1SA 23:28"
+        },
+        {
+          "start_ref": "30001006",
+          "start_ref_usfm": "AMO 1:6",
+          "end_ref": "30001008",
+          "end_ref_usfm": "AMO 1:8"
+        },
+        {
+          "start_ref": "09005001",
+          "start_ref_usfm": "1SA 5:1",
+          "end_ref": "09006018",
+          "end_ref_usfm": "1SA 6:18"
+        },
+        {
+          "start_ref": "09013016",
+          "start_ref_usfm": "1SA 13:16",
+          "end_ref": "09014023",
+          "end_ref_usfm": "1SA 14:23"
+        },
+        {
+          "start_ref": "09031001",
+          "start_ref_usfm": "1SA 31:1",
+          "end_ref": "09031010",
+          "end_ref_usfm": "1SA 31:10"
+        },
+        {
+          "start_ref": "14028018",
+          "start_ref_usfm": "2CH 28:18",
+          "end_ref": "14028019",
+          "end_ref_usfm": "2CH 28:19"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 668939,
+    "reference_id": 203481,
+    "version": "1.0.1",
+    "title": "Les Sadducéens",
+    "media_type": "Text",
+    "index_reference": "les sadducéens",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>Les Sadducéens étaient un groupe juif important composé principalement de sacrificateurs et de leurs familles. Ils se distinguaient clairement des Pharisiens, qui n&apos;étaient pas des sacrificateurs, mais des laïcs. Probablement établis aux abords de Jérusalem, ils contrôlaient le système du temple (<a href=\"https://ref.ly/Acts4:1-Acts4:2\">Ac 4.1–2</a> ; <a href=\"https://ref.ly/Acts5:17\">5.17</a>) et, en tant qu&apos;aristocrates riches et puissants, jouaient le rôle de médiateurs entre Rome et Israël (voir Josèphe, <em>Antiquités juives</em> 13.10.6 ; <em>Guerre des Juifs</em> 2.10.5). Toutefois, leur influence parmi le peuple restait limitée (Josèphe, <em>Antiquités juives</em> 18.1.4).</p><p>Le terme « Sadducéen » serait dérivé de Tsadok, le nom du souverain sacrificateur durant les règnes de David et de Salomon&nbsp;(<a href=\"https://ref.ly/2Sam8:17\">2S 8.17</a> ; <a href=\"https://ref.ly/2Sam15:24\">15.24</a> ; <a href=\"https://ref.ly/1Kgs1:8\">1R 1.8</a> ;<a href=\"https://ref.ly/1Kgs1:32-1Kgs1:48\"> 32–48</a>). Les deux mots partagent en effet la même racine hébraïque. La première mention historique des Sadducéens remonte au règne de Jean Hyrcan, de 135 à 104 av. J.-C. (un descendant des Maccabées) bien qu&apos;ils existaient manifestement bien avant cette époque (Josèphe, <em>Antiquités juives</em> 13.10.6).</p><p>Leurs vues sur Dieu différaient souvent de celles des Pharisiens (<a href=\"https://ref.ly/Acts23:8\">Ac 23.8</a> ; voir aussi <a href=\"https://ref.ly/Acts4:1-Acts4:2\">Ac 4.1–2</a>). Les Sadducéens conféraient une autorité primordiale au Pentateuque, et rejetaient la tradition orale que les Pharisiens valorisaient tant. Contrairement aux pharisiens, les sadducéens ne croyaient pas en :</p><ul><li><p>La résurrection des morts (voir <a href=\"https://ref.ly/Matt22:23-Matt22:33\">Mt 22.23–33</a>).</p></li><li><p>Les êtres angéliques (voir <a href=\"https://ref.ly/Acts23:8\">Ac 23.8</a>).</p></li><li><p>Le concept de jugement dernier.</p></li></ul><p>En revanche, les Pharisiens croyaient fermement en la résurrection d&apos;entre les morts, et c&apos;est la raison pour laquelle ils ont soutenu Paul contre les Sadducéens lors du procès de Paul (pour avoir troublé le fonctionnement du temple ; voir <a href=\"https://ref.ly/Acts23:6-Acts23:10\">Ac 23.6–10</a>).</p><p>Les Pharisiens et les Sadducéens s&apos;unirent pour s&apos;opposer à Jésus : les Pharisiens lui reprochaient de ne pas suivre leurs traditions orales, tandis que les Sadducéens s&apos;opposaient à lui en raison de sa croyance aux anges, aux démons, au jugement dernier et à la résurrection.</p><p>Lorsque le temple fut détruit en 70 après J.-C., les Sadducéens disparurent, n&apos;ayant laissé aucun document écrit. Ainsi, notre connaissance d&apos;eux nous est parvenue principalement à travers les écrits de leurs opposants, limitant ce qui nous est véritablement possible de savoir d&apos;eux.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Matt3:7\">Mt 3.7</a> ; <a href=\"https://ref.ly/Matt16:1-Matt16:12\">16.1–12</a> ; <a href=\"https://ref.ly/Matt22:23-Matt22:33\">22.23–33</a> ; <a href=\"https://ref.ly/Mark12:18-Mark12:27\">Mc 12.18–27</a> ; <a href=\"https://ref.ly/Luke20:27-Luke20:40\">Lc 20.27–40</a> ; <a href=\"https://ref.ly/Acts4:1-Acts4:2\">Ac 4.1–2</a> ; <a href=\"https://ref.ly/Acts5:17-Acts5:18\">5.17–18</a> ; <a href=\"https://ref.ly/Acts23:6-Acts23:10\">23.6–10</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10008017",
+          "start_ref_usfm": "2SA 8:17",
+          "end_ref": "10008017",
+          "end_ref_usfm": "2SA 8:17"
+        },
+        {
+          "start_ref": "10015024",
+          "start_ref_usfm": "2SA 15:24",
+          "end_ref": "10015024",
+          "end_ref_usfm": "2SA 15:24"
+        },
+        {
+          "start_ref": "11001008",
+          "start_ref_usfm": "1KI 1:8",
+          "end_ref": "11001008",
+          "end_ref_usfm": "1KI 1:8"
+        },
+        {
+          "start_ref": "40003007",
+          "start_ref_usfm": "MAT 3:7",
+          "end_ref": "40003007",
+          "end_ref_usfm": "MAT 3:7"
+        },
+        {
+          "start_ref": "44005017",
+          "start_ref_usfm": "ACT 5:17",
+          "end_ref": "44005017",
+          "end_ref_usfm": "ACT 5:17"
+        },
+        {
+          "start_ref": "44023008",
+          "start_ref_usfm": "ACT 23:8",
+          "end_ref": "44023008",
+          "end_ref_usfm": "ACT 23:8"
+        },
+        {
+          "start_ref": "40016001",
+          "start_ref_usfm": "MAT 16:1",
+          "end_ref": "40016012",
+          "end_ref_usfm": "MAT 16:12"
+        },
+        {
+          "start_ref": "41012018",
+          "start_ref_usfm": "MRK 12:18",
+          "end_ref": "41012027",
+          "end_ref_usfm": "MRK 12:27"
+        },
+        {
+          "start_ref": "40022023",
+          "start_ref_usfm": "MAT 22:23",
+          "end_ref": "40022033",
+          "end_ref_usfm": "MAT 22:33"
+        },
+        {
+          "start_ref": "42020027",
+          "start_ref_usfm": "LUK 20:27",
+          "end_ref": "42020040",
+          "end_ref_usfm": "LUK 20:40"
+        },
+        {
+          "start_ref": "44005017",
+          "start_ref_usfm": "ACT 5:17",
+          "end_ref": "44005018",
+          "end_ref_usfm": "ACT 5:18"
+        },
+        {
+          "start_ref": "44004001",
+          "start_ref_usfm": "ACT 4:1",
+          "end_ref": "44004002",
+          "end_ref_usfm": "ACT 4:2"
+        },
+        {
+          "start_ref": "44023006",
+          "start_ref_usfm": "ACT 23:6",
+          "end_ref": "44023010",
+          "end_ref_usfm": "ACT 23:10"
+        },
+        {
+          "start_ref": "11001032",
+          "start_ref_usfm": "1KI 1:32",
+          "end_ref": "11001048",
+          "end_ref_usfm": "1KI 1:48"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 668857,
+    "reference_id": 203399,
+    "version": "1.0.1",
+    "title": "Lot",
+    "media_type": "Text",
+    "index_reference": "lot",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>Lot était le neveu d’Abraham et l’ancêtre des Moabites et des Ammonites. Comme Abraham, Lot est né à Ur et a voyagé avec Térach à Haran (<a href=\"https://ref.ly/Gen11:27-Gen11:32\">Gn&nbsp;11.27–32</a>). Après la mort de Térach, Lot a rejoint Abraham dans le voyage vers Canaan et l’Égypte.</p><p>Lorsque Lot et Abraham revinrent d’Égypte en Canaan, leurs troupeaux et leurs hardes devinrent trop grands pour qu’ils puissent vivre ensemble. Alors, Abraham permit à Lot de choisir une terre pour lui-même. Lot choisit la plaine fertile du Jourdain, qui était comme «&nbsp;le jardin du Seigneur&nbsp;» (<a href=\"https://ref.ly/Gen13:10\">Gn&nbsp;13.10</a>). Finalement, il s’installa à Sodome. L’implication croissante de Lot avec les villes corrompues de la plaine affaiblit ses valeurs morales.</p><p>Pendant que Lot vivait à Sodome, quatre rois mésopotamiens ont vaincu les rois de cinq villes voisines. Ils ont volé les biens des villes qu’ils avaient vaincues et ont emmené Lot, sa famille et ses possessions (<a href=\"https://ref.ly/Gen14:1-Gen14:12\">Gn&nbsp;14.1–12</a>). Quand Abraham a entendu cela, il a mené une attaque contre les envahisseurs et a sauvé les prisonniers et les biens (<a href=\"https://ref.ly/Gen14:13-Gen14:16\">Gn&nbsp;14.13–16</a>).</p><p>En raison de la méchanceté de Sodome et Gomorrhe, Dieu a décidé de détruire ces villes. Il a envoyé deux anges à Lot à Sodome pour l’inciter à quitter la ville qui allait être détruite (<a href=\"https://ref.ly/Gen19:1-Gen19:15\">Gn&nbsp;19.1–15</a>). La méchanceté de la ville était évidente lorsqu’il y a eu une tentative d’attaque contre les visiteurs. L’offre de Lot de sacrifier ses filles et son hésitation à partir ont montré son déclin moral. Seule sa famille immédiate est partie avec lui, et sa femme a été détruite lorsqu’elle a désobéi en regardant en arrière.</p><p>Après la destruction de Sodome, les filles de Lot, inquiètes de ne pas avoir de maris, ont enivré Lot pour avoir des enfants avec lui. Leurs fils, Moab et Ben-Ammi, sont devenus les ancêtres des Moabites et des Ammonites (<a href=\"https://ref.ly/Gen19:30-Gen19:38\">Gn&nbsp;19.30–38</a>). Ces deux nations sont devenues des ennemis constants d’Israël (voir <a href=\"https://ref.ly/Deut23:3-Deut23:6\">Dt 23.3–6</a>). Malgré les actions de Lot, Pierre décrit Lot comme un «&nbsp;homme juste, vivant parmi eux jour après jour, tourmenté dans son âme juste par les actes sans loi qu’il voyait et entendait&nbsp;» (voir <a href=\"https://ref.ly/2Pet2:6-2Pet2:9\">2P&nbsp;2.6–9</a>). Cette vision de Lot peut provenir de la tradition juive, car il est difficile de la percevoir dans l’histoire de la Genèse.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Gen11:27\">Gn&nbsp;11.27</a>, <a href=\"https://ref.ly/Gen11:31\">31&nbsp;</a>; <a href=\"https://ref.ly/Gen12:4-Gen12:5\">12.4–5&nbsp;</a>; <a href=\"https://ref.ly/Gen13:1-Gen13:14\">13.1–14&nbsp;</a>; <a href=\"https://ref.ly/Gen14:12-Gen14:16\">14.12–16&nbsp;</a>; <a href=\"https://ref.ly/Gen19:1-Gen19:38\">19.1–38&nbsp;</a>; <a href=\"https://ref.ly/Deut2:9\">Dt 2.9</a>, <a href=\"https://ref.ly/Deut2:17-Deut2:19\">17–19&nbsp;</a>; <a href=\"https://ref.ly/Ps83:4-Ps83:8\">Ps&nbsp;83.4–8&nbsp;</a>; <a href=\"https://ref.ly/Luke17:28-Luke17:33\">Lc&nbsp;17.28–33&nbsp;</a>; <a href=\"https://ref.ly/2Pet2:6-2Pet2:9\">2P&nbsp;2.6–9</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011027",
+          "start_ref_usfm": "GEN 11:27",
+          "end_ref": "01011027",
+          "end_ref_usfm": "GEN 11:27"
+        },
+        {
+          "start_ref": "01011031",
+          "start_ref_usfm": "GEN 11:31",
+          "end_ref": "01011031",
+          "end_ref_usfm": "GEN 11:31"
+        },
+        {
+          "start_ref": "01013010",
+          "start_ref_usfm": "GEN 13:10",
+          "end_ref": "01013010",
+          "end_ref_usfm": "GEN 13:10"
+        },
+        {
+          "start_ref": "05002009",
+          "start_ref_usfm": "DEU 2:9",
+          "end_ref": "05002009",
+          "end_ref_usfm": "DEU 2:9"
+        },
+        {
+          "start_ref": "01011027",
+          "start_ref_usfm": "GEN 11:27",
+          "end_ref": "01011032",
+          "end_ref_usfm": "GEN 11:32"
+        },
+        {
+          "start_ref": "01019030",
+          "start_ref_usfm": "GEN 19:30",
+          "end_ref": "01019038",
+          "end_ref_usfm": "GEN 19:38"
+        },
+        {
+          "start_ref": "01019001",
+          "start_ref_usfm": "GEN 19:1",
+          "end_ref": "01019038",
+          "end_ref_usfm": "GEN 19:38"
+        },
+        {
+          "start_ref": "01014013",
+          "start_ref_usfm": "GEN 14:13",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        },
+        {
+          "start_ref": "01014012",
+          "start_ref_usfm": "GEN 14:12",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        },
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014012",
+          "end_ref_usfm": "GEN 14:12"
+        },
+        {
+          "start_ref": "05023003",
+          "start_ref_usfm": "DEU 23:3",
+          "end_ref": "05023006",
+          "end_ref_usfm": "DEU 23:6"
+        },
+        {
+          "start_ref": "01012004",
+          "start_ref_usfm": "GEN 12:4",
+          "end_ref": "01012005",
+          "end_ref_usfm": "GEN 12:5"
+        },
+        {
+          "start_ref": "01019001",
+          "start_ref_usfm": "GEN 19:1",
+          "end_ref": "01019015",
+          "end_ref_usfm": "GEN 19:15"
+        },
+        {
+          "start_ref": "61002006",
+          "start_ref_usfm": "2PE 2:6",
+          "end_ref": "61002009",
+          "end_ref_usfm": "2PE 2:9"
+        },
+        {
+          "start_ref": "01013001",
+          "start_ref_usfm": "GEN 13:1",
+          "end_ref": "01013014",
+          "end_ref_usfm": "GEN 13:14"
+        },
+        {
+          "start_ref": "05002017",
+          "start_ref_usfm": "DEU 2:17",
+          "end_ref": "05002019",
+          "end_ref_usfm": "DEU 2:19"
+        },
+        {
+          "start_ref": "19083004",
+          "start_ref_usfm": "PSA 83:4",
+          "end_ref": "19083008",
+          "end_ref_usfm": "PSA 83:8"
+        },
+        {
+          "start_ref": "42017028",
+          "start_ref_usfm": "LUK 17:28",
+          "end_ref": "42017033",
+          "end_ref_usfm": "LUK 17:33"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 668962,
+    "reference_id": 203504,
+    "version": "1.0.1",
+    "title": "Luc",
+    "media_type": "Text",
+    "index_reference": "luc",
+    "language": "fra",
+    "review_level": "None",
+    "content": "<p>Luc était un médecin gentil (non-juif) qui est devenu chrétien et un aide de confiance de Paul dans ses missions. Il a écrit à la fois l&apos;Évangile de Luc et les Actes des Apôtres, qui représentent environ un quart du Nouveau Testament.</p><p>Nous savons peu de choses sur les origines de Luc, mais il a probablement rencontré Paul pour la première fois dans l&apos;ouest de l&apos;Asie Mineure, où il est devenu chrétien. Il a quitté son foyer pour servir Jésus et répandre la bonne nouvelle à son sujet en tant qu&apos;assistant dévoué de Paul. Paul l&apos;appelle chaleureusement « le médecin bien-aimé » et un fidèle « compagnon d&apos;œuvre » (<a href=\"https://ref.ly/Col4:14\">Col 4.14</a> ; <a href=\"https://ref.ly/Phlm1:24\">Phm 1.24</a>). Luc était le seul chrétien à être resté avec Paul lorsqu&apos;il attendait son exécution à Rome (<a href=\"https://ref.ly/2Tim4:11\">2Tm 4.11</a>). Il est également la seule personne non juive dont les écrits figurent dans le Nouveau Testament.</p><p>Lors du dernier voyage de Paul à Jérusalem, Luc a probablement recueilli des informations pour son Évangile et la première partie du livre des Actes. Il a interrogé des personnes en Judée pendant que Paul y était emprisonné pendant deux ans. Luc a parlé avec ceux qui avaient entendu et vu Jésus et a étudié ce que d&apos;autres avaient écrit à son sujet. Il a ensuite rédigé son propre récit détaillé de la vie et des enseignements de Jésus (voir <a href=\"https://ref.ly/Luke1:1-Luke1:4\">Lc&nbsp;1.1–4</a>).</p><p>Lorsque Paul voyagea par bateau vers Rome pour son procès, Luc l’accompagna. Pendant que Paul était en résidence surveillée, en attendant son procès, Luc aurait utilisé ce temps pour écrire le livre des Actes. Les quinze premiers chapitres donnent un compte rendu des premiers travaux des missionnaires dans l’ordre où ils se sont déroulés et tels qu’ils lui ont été racontés par les premiers disciples de Jésus. Paul lui-même lui a probablement raconté certaines de ces choses. À partir du verset <a href=\"https://ref.ly/Acts16:10\">Ac&nbsp;16.10</a>, Luc écrit sur ce qu’il a vu et vécu lui-même lorsqu’il a rejoint l’équipe de Paul. Dans les Actes, Luc souligne comment le Saint-Esprit a donné pouvoir et guidé les premiers missionnaires dans leur travail (voir <a href=\"https://ref.ly/Acts1:4-Acts1:5\">Ac&nbsp;1.4–5</a>, <a href=\"https://ref.ly/Acts1:8\">1.8</a>). Le livre se termine avec Paul toujours en résidence surveillée à Rome (<a href=\"https://ref.ly/Acts28:30-Acts28:31\">Ac&nbsp;28.30–31</a>).</p><p>Nous devons à Luc de nombreux passages uniques. Ceux-ci incluent son récit de la naissance de Jésus, des descriptions du ministère de Jésus auprès des femmes, et de nombreux récits sur Jésus prenant soin des pauvres. Il fournit également le seul récit complet des trente premières années de l’activité missionnaire chrétienne, le tout soigneusement documenté. À travers les écrits de Luc, nous acquérons une appréciation plus profonde du travail crucial du Saint-Esprit dans le ministère de Jésus et des premiers missionnaires.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Luke1:3\">Lc&nbsp;1.3</a>&nbsp;; <a href=\"https://ref.ly/Acts1:1\">Ac&nbsp;1.1</a>&nbsp;; <a href=\"https://ref.ly/Acts16:10\">16.10</a>&nbsp;; <a href=\"https://ref.ly/Col4:14\">Col&nbsp;4.14</a>&nbsp;; <a href=\"https://ref.ly/2Tim4:11\">2Tm&nbsp;4.11</a>&nbsp;; <a href=\"https://ref.ly/Phlm1:24\">Phm&nbsp;1.24</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001003",
+          "start_ref_usfm": "LUK 1:3",
+          "end_ref": "42001003",
+          "end_ref_usfm": "LUK 1:3"
+        },
+        {
+          "start_ref": "44001001",
+          "start_ref_usfm": "ACT 1:1",
+          "end_ref": "44001001",
+          "end_ref_usfm": "ACT 1:1"
+        },
+        {
+          "start_ref": "44001008",
+          "start_ref_usfm": "ACT 1:8",
+          "end_ref": "44001008",
+          "end_ref_usfm": "ACT 1:8"
+        },
+        {
+          "start_ref": "44016010",
+          "start_ref_usfm": "ACT 16:10",
+          "end_ref": "44016010",
+          "end_ref_usfm": "ACT 16:10"
+        },
+        {
+          "start_ref": "51004014",
+          "start_ref_usfm": "COL 4:14",
+          "end_ref": "51004014",
+          "end_ref_usfm": "COL 4:14"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004011",
+          "end_ref_usfm": "2TI 4:11"
+        },
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "42001001",
+          "start_ref_usfm": "LUK 1:1",
+          "end_ref": "42001004",
+          "end_ref_usfm": "LUK 1:4"
+        },
+        {
+          "start_ref": "44028030",
+          "start_ref_usfm": "ACT 28:30",
+          "end_ref": "44028031",
+          "end_ref_usfm": "ACT 28:31"
+        },
+        {
+          "start_ref": "44001004",
+          "start_ref_usfm": "ACT 1:4",
+          "end_ref": "44001005",
+          "end_ref_usfm": "ACT 1:5"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

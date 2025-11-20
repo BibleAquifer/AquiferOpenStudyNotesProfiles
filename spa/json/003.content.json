@@ -1,0 +1,338 @@
+[
+  {
+    "content_id": 658345,
+    "reference_id": 203420,
+    "version": "1.0.1",
+    "title": "Caleb",
+    "media_type": "Text",
+    "index_reference": "caleb",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<p>Caleb es un ejemplo inspirador de fe en Dios. Era hijo de Jephone Cenezeo (<a href=\"https://ref.ly/Josh14:6\">Josué 14.6</a>; <a href=\"https://ref.ly/Num32:12\">Números 32.12</a>). Los Cenezeos vivían en el Neguev, la región desértica al sur de Canaán (ver <a href=\"https://ref.ly/Gen15:18-Gen15:21\">Génesis 15.18–21</a>). Jephone Cenezeo probablemente se casó en la tribu de Judá una generación antes de que Israel saliera de Egipto.</p><p>Caleb aparece por primera vez como uno de los doce espías que Moisés envió a explorar la tierra de Canaán. Al regresar, los doce confirmaron que la tierra era impresionante, pero diez de los exploradores se centraron en sus temibles habitantes (<a href=\"https://ref.ly/Num13:31-Num13:33\">Números 13.31–33</a>). Solo Josué y Caleb creyeron que Dios ayudaría a Israel a conquistar a los cananeos (<a href=\"https://ref.ly/Num14:6-Num14:9\">Números 14.6–9</a>), aconsejando a los israelitas que tomaran la tierra de inmediato (<a href=\"https://ref.ly/Num13:30\">Números 13.30</a>).</p><p>La gente quería apedrear a Caleb y Josué (<a href=\"https://ref.ly/Num14:10\">Números 14.10</a>), pero Dios los protegió y castigó al pueblo (<a href=\"https://ref.ly/Num14:11-Num14:38\">Números 14.11–38</a>). Finalmente, Dios recompensó a Caleb y Josué por su fidelidad: de todos los adultos que salieron de Egipto, ellos fueron los únicos que entraron en la tierra prometida.</p><p>Después de muchos años en el desierto y de librar numerosas batallas, Caleb recibió su herencia en la tierra (<a href=\"https://ref.ly/Josh14:6-Josh14:15\">Josué 14.6–15</a>). La fe de Caleb se mantuvo firme durante cuarenta y cinco años. Su historia refleja su carácter y sólida fe en Dios. Aunque Caleb tenía ochenta y cinco años, seguía siendo fuerte y capaz de luchar. Caleb conquistó Hebrón como su tierra al expulsar a los gigantes Anaceos que habían intimidado a los exploradores anteriores (<a href=\"https://ref.ly/Josh15:13-Josh15:14\">Josué 15.13–14</a>; ver <a href=\"https://ref.ly/Num13:28\">Números 13.28</a>, <a href=\"https://ref.ly/Num13:33\">33</a>).</p><p>Caleb vivía en la ciudad de Hebrón, situada a unas veinte millas al sur de Jerusalem. Esta ciudad estaba cerca de donde residía el pueblo Cenezeo. Más tarde, Hebrón se convirtió en una ciudad especial donde vivían los levitas (sacerdotes) y donde la gente podía ir para estar a salvo (<a href=\"https://ref.ly/Josh21:13\">Josué 21.13</a>; <a href=\"https://ref.ly/1Chr6:54-1Chr6:57\">1 Crónicas 6.54–57</a>).</p><p>Caleb se enfocó en la promesa de Dios de que Israel habitaría en Canaán, a pesar de los serios obstáculos. Con toda su energía, estaba preparado para tomar la tierra que Josué le asignó. La firme creencia de Caleb en las promesas de Dios le otorgó respeto entre los fieles. Incluso cuando estaba en desventaja numérica frente a los enemigos, Caleb confió en Dios, y Dios lo recompensó generosamente.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Num13:1-Num14:38\">Números 13.1–14.38</a>; <a href=\"https://ref.ly/Num26:65\">26.65</a>; <a href=\"https://ref.ly/Num32:12\">32.12</a>; <a href=\"https://ref.ly/Num34:19\">34.19</a>; <a href=\"https://ref.ly/Deut1:36\">Deuteronomio 1.36</a>; <a href=\"https://ref.ly/Josh14:6-Josh14:15\">Josué 14.6–15</a>; <a href=\"https://ref.ly/Josh15:13-Josh15:19\">15.13–19</a>; <a href=\"https://ref.ly/Judg1:11-Judg1:15\">Jueces 1.11–15</a>, <a href=\"https://ref.ly/Judg1:20\">20</a>; <a href=\"https://ref.ly/1Chr4:15\">1 Crónicas 4.15</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04013028",
+          "start_ref_usfm": "NUM 13:28",
+          "end_ref": "04013028",
+          "end_ref_usfm": "NUM 13:28"
+        },
+        {
+          "start_ref": "04013030",
+          "start_ref_usfm": "NUM 13:30",
+          "end_ref": "04013030",
+          "end_ref_usfm": "NUM 13:30"
+        },
+        {
+          "start_ref": "04013033",
+          "start_ref_usfm": "NUM 13:33",
+          "end_ref": "04013033",
+          "end_ref_usfm": "NUM 13:33"
+        },
+        {
+          "start_ref": "04014010",
+          "start_ref_usfm": "NUM 14:10",
+          "end_ref": "04014010",
+          "end_ref_usfm": "NUM 14:10"
+        },
+        {
+          "start_ref": "04026065",
+          "start_ref_usfm": "NUM 26:65",
+          "end_ref": "04026065",
+          "end_ref_usfm": "NUM 26:65"
+        },
+        {
+          "start_ref": "04032012",
+          "start_ref_usfm": "NUM 32:12",
+          "end_ref": "04032012",
+          "end_ref_usfm": "NUM 32:12"
+        },
+        {
+          "start_ref": "04034019",
+          "start_ref_usfm": "NUM 34:19",
+          "end_ref": "04034019",
+          "end_ref_usfm": "NUM 34:19"
+        },
+        {
+          "start_ref": "05001036",
+          "start_ref_usfm": "DEU 1:36",
+          "end_ref": "05001036",
+          "end_ref_usfm": "DEU 1:36"
+        },
+        {
+          "start_ref": "06014006",
+          "start_ref_usfm": "JOS 14:6",
+          "end_ref": "06014006",
+          "end_ref_usfm": "JOS 14:6"
+        },
+        {
+          "start_ref": "06021013",
+          "start_ref_usfm": "JOS 21:13",
+          "end_ref": "06021013",
+          "end_ref_usfm": "JOS 21:13"
+        },
+        {
+          "start_ref": "07001020",
+          "start_ref_usfm": "JDG 1:20",
+          "end_ref": "07001020",
+          "end_ref_usfm": "JDG 1:20"
+        },
+        {
+          "start_ref": "13004015",
+          "start_ref_usfm": "1CH 4:15",
+          "end_ref": "13004015",
+          "end_ref_usfm": "1CH 4:15"
+        },
+        {
+          "start_ref": "06015013",
+          "start_ref_usfm": "JOS 15:13",
+          "end_ref": "06015014",
+          "end_ref_usfm": "JOS 15:14"
+        },
+        {
+          "start_ref": "04013031",
+          "start_ref_usfm": "NUM 13:31",
+          "end_ref": "04013033",
+          "end_ref_usfm": "NUM 13:33"
+        },
+        {
+          "start_ref": "01015018",
+          "start_ref_usfm": "GEN 15:18",
+          "end_ref": "01015021",
+          "end_ref_usfm": "GEN 15:21"
+        },
+        {
+          "start_ref": "06014006",
+          "start_ref_usfm": "JOS 14:6",
+          "end_ref": "06014015",
+          "end_ref_usfm": "JOS 14:15"
+        },
+        {
+          "start_ref": "04014006",
+          "start_ref_usfm": "NUM 14:6",
+          "end_ref": "04014009",
+          "end_ref_usfm": "NUM 14:9"
+        },
+        {
+          "start_ref": "07001011",
+          "start_ref_usfm": "JDG 1:11",
+          "end_ref": "07001015",
+          "end_ref_usfm": "JDG 1:15"
+        },
+        {
+          "start_ref": "04013001",
+          "start_ref_usfm": "NUM 13:1",
+          "end_ref": "04014038",
+          "end_ref_usfm": "NUM 14:38"
+        },
+        {
+          "start_ref": "04014011",
+          "start_ref_usfm": "NUM 14:11",
+          "end_ref": "04014038",
+          "end_ref_usfm": "NUM 14:38"
+        },
+        {
+          "start_ref": "13006054",
+          "start_ref_usfm": "1CH 6:54",
+          "end_ref": "13006057",
+          "end_ref_usfm": "1CH 6:57"
+        },
+        {
+          "start_ref": "06015013",
+          "start_ref_usfm": "JOS 15:13",
+          "end_ref": "06015019",
+          "end_ref_usfm": "JOS 15:19"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 658383,
+    "reference_id": 203458,
+    "version": "1.0.1",
+    "title": "Ciro II",
+    "media_type": "Text",
+    "index_reference": "ciro ii",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<p>Ciro II, Rey de los Persas desde 559 hasta 530 a.C., fundó el Imperio Persa. Su padre era el Rey de los Persas, una pequeña nación bajo el control de Media, y su madre era la hija del Rey de los Medos. En 549 a.C., Ciro conquistó a los Medos y unió las dos naciones. Luego, en 547 a.C., conquistó Lidia en Asia Menor. Girando hacia el Este, añadió Partia y parte de India al Imperio Persa. Finalmente, el 29 de octubre de 539 a.C., Ciro conquistó Babilonia e incorporó Babilonia a su imperio (ver <a href=\"https://ref.ly/Dan5:30-Dan5:31\">Daniel 5.30–31</a>).</p><p>Después de conquistar Babilonia, Ciro emitió un decreto que permitía al pueblo judío regresar a su tierra y reconstruir el Templo en Jerusalén. La parte de este decreto referente a los judíos está registrada en <a href=\"https://ref.ly/2Chr36:22-2Chr36:23\">2 Crónicas 36.22–23</a> y <a href=\"https://ref.ly/Ezra1:1-Ezra1:4\">Esdras 1.1–4</a>. El Cilindro de Ciro, un barril encontrado en Babilonia entre 1879 y 1882, confirma esta práctica. Describe la política de Ciro hacia los pueblos conquistados.</p><p>Isaías identificó a Ciro como el futuro libertador de Judá (<a href=\"https://ref.ly/Isa44:28-Isa45:13\">Isaías 44.28–45.13</a>). Isaías se refirió a Ciro como el ungido del Señor (<a href=\"https://ref.ly/Isa45:1\">Isaías 45.1</a>, hebreo <em>mashiakh</em>, que significa “Mesías”). Israel consideró a Ciro como elegido y empoderado por Dios para liberarlos. Ciro no era <em>el</em> Mesías, pero sus acciones presagiaron lo que el Mesías, Jesucristo, haría más tarde al liberar al pueblo de Dios de la servidumbre.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/2Chr36:22-2Chr36:23\">2 Crónicas 36.22–23</a>; <a href=\"https://ref.ly/Ezra1:1-Ezra1:11\">Esdras 1.1–11</a>; <a href=\"https://ref.ly/Ezra3:7\">3.7</a>; <a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">4.1–5</a>; <a href=\"https://ref.ly/Ezra5:6-Ezra5:17\">5.6–17</a>; <a href=\"https://ref.ly/Ezra6:14-Ezra6:15\">6.14–15</a>; <a href=\"https://ref.ly/Isa44:28-Isa45:13\">Isaías 44.28–45.13</a>; <a href=\"https://ref.ly/Isa48:14-Isa48:16\">48.14–16</a>; <a href=\"https://ref.ly/Dan6:28\">Daniel 6.28</a>; <a href=\"https://ref.ly/Dan10:1\">10.1</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15003007",
+          "start_ref_usfm": "EZR 3:7",
+          "end_ref": "15003007",
+          "end_ref_usfm": "EZR 3:7"
+        },
+        {
+          "start_ref": "23045001",
+          "start_ref_usfm": "ISA 45:1",
+          "end_ref": "23045001",
+          "end_ref_usfm": "ISA 45:1"
+        },
+        {
+          "start_ref": "27006028",
+          "start_ref_usfm": "DAN 6:28",
+          "end_ref": "27006028",
+          "end_ref_usfm": "DAN 6:28"
+        },
+        {
+          "start_ref": "27010001",
+          "start_ref_usfm": "DAN 10:1",
+          "end_ref": "27010001",
+          "end_ref_usfm": "DAN 10:1"
+        },
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001004",
+          "end_ref_usfm": "EZR 1:4"
+        },
+        {
+          "start_ref": "27005030",
+          "start_ref_usfm": "DAN 5:30",
+          "end_ref": "27005031",
+          "end_ref_usfm": "DAN 5:31"
+        },
+        {
+          "start_ref": "14036022",
+          "start_ref_usfm": "2CH 36:22",
+          "end_ref": "14036023",
+          "end_ref_usfm": "2CH 36:23"
+        },
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001011",
+          "end_ref_usfm": "EZR 1:11"
+        },
+        {
+          "start_ref": "15004001",
+          "start_ref_usfm": "EZR 4:1",
+          "end_ref": "15004005",
+          "end_ref_usfm": "EZR 4:5"
+        },
+        {
+          "start_ref": "15005006",
+          "start_ref_usfm": "EZR 5:6",
+          "end_ref": "15005017",
+          "end_ref_usfm": "EZR 5:17"
+        },
+        {
+          "start_ref": "23044028",
+          "start_ref_usfm": "ISA 44:28",
+          "end_ref": "23045013",
+          "end_ref_usfm": "ISA 45:13"
+        },
+        {
+          "start_ref": "15006014",
+          "start_ref_usfm": "EZR 6:14",
+          "end_ref": "15006015",
+          "end_ref_usfm": "EZR 6:15"
+        },
+        {
+          "start_ref": "23048014",
+          "start_ref_usfm": "ISA 48:14",
+          "end_ref": "23048016",
+          "end_ref_usfm": "ISA 48:16"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 658436,
+    "reference_id": 203511,
+    "version": "1.0.1",
+    "title": "Corinto",
+    "media_type": "Text",
+    "index_reference": "corinto",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<p>Corinto es una de las ciudades más antiguas de Grecia, con asentamientos que se remontan al menos al 3000 a.C. Su ubicación estratégica en rutas comerciales clave la convirtió en un importante centro de comercio. Corinto alcanzó su máximo poder entre el 800 y el 600 a.C. A mediados del siglo II a.C., mientras el ejército Romano expandía su imperio, Corinto lideró la Liga Helénica para resistir el control romano en Grecia. Sin embargo, no pudieron derrotar a los Romanos. En el 146 a.C., los Romanos destruyeron completamente Corinto, ejecutaron a los hombres y vendieron a las mujeres y niños como esclavos. Corinto permaneció en ruinas durante un siglo.</p><p>En el 44 a.C., Julio César estableció una colonia Romana en Corinto. Esta colonia atrajo a un grupo diverso de italianos, libertos (antiguos esclavos liberados) de Roma y Griegos desplazados. Los nuevos residentes, con arduo trabajo y creatividad, rápidamente reconstruyeron la ciudad, convirtiéndola en un próspero centro de comercio, negocios e industria. Para cuando Pablo llegó a Corinto, era una ciudad vibrante y diversa con casi 700.000 personas, incluyendo a muchos individuos adinerados y otros que aspiraban a la riqueza.</p><p>Corinto atrajo a comerciantes de todo el mundo, pero también se hizo conocida por el lujo, la indulgencia y el vicio. La ciudad tenía una reputación de promiscuidad y prostitución, tanto que el verbo “corintianizar” significaba participar en conductas sexuales inmorales. La iglesia en Corinto enfrentó desafíos relacionados con la inmoralidad sexual (<a href=\"https://ref.ly/1Cor5:1-1Cor5:13\">1 Corintios 5.1–13</a>; <a href=\"https://ref.ly/1Cor6:12-1Cor6:20\">6.12–20</a>).</p><p>Corinto también fue importante debido a los Juegos Ístmicos, que comenzaron en 523 a.C. y se celebraban cada dos años. Los eventos se centraban en tres tipos: ecuestres, gimnásticos y musicales. Durante el período del Nuevo Testamento, los juegos incluían carreras de carros y otros espectáculos Romanos, junto con competiciones Griegas tradicionales. Pablo se refirió a estos concursos atléticos, mencionando tanto correr como boxeo (<a href=\"https://ref.ly/1Cor9:24-1Cor9:26\">1 Corintios 9.24–26</a>). Los ganadores de los juegos se convertían en héroes nacionales. Recibían una corona hecha de mirto, olivo o ramas de pino. También obtenían un estipendio del estado, exenciones fiscales y beneficios especiales para sus hijos.</p><p>En la mayoría de las ciudades Romanas, los templos de mármol dominaban el paisaje. Adorar a los dioses y participar en sus festividades eran aspectos importantes de la vida en Corinto. La iglesia de Corinto enfrentó dificultades con estas festividades paganas (<a href=\"https://ref.ly/1Cor8:1-1Cor10:33\">1 Corintios 8.1–10.33</a>).</p><p>Un gran grupo de judíos desplazados también se estableció en la ciudad. Muchos de ellos pueden haber llegado después de que el Emperador Claudio expulsara a los judíos de Roma (ver <a href=\"https://ref.ly/Acts18:2\">Hechos 18.2</a>). Cuando Pablo viajó a Corinto en su segundo viaje misionero, conoció a Aquila y Priscila, quienes se convirtieron en sus amigos cercanos y compañeros de trabajo (<a href=\"https://ref.ly/Acts18:1-Acts18:3\">Hechos 18.1–3</a>). Pablo permaneció en Corinto por más de un año y medio, enseñando la palabra de Dios (<a href=\"https://ref.ly/Acts18:11\">Hechos 18.11</a>).</p><p>La iglesia de Corinto, que surgió en un lugar lleno de paganismo y promiscuidad, enfrentó muchos desafíos. Las cartas de Pablo a ellos ofrecen soluciones valiosas a problemas prácticos en la vida y la comunidad cristiana.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Acts18:1-Acts18:18\">Hechos 18.1–18</a>; <a href=\"https://ref.ly/1Cor1:1-1Cor1:2\">1 Corintios 1.1–2</a>; <a href=\"https://ref.ly/1Cor16:5-1Cor16:20\">16.5–20</a>; <a href=\"https://ref.ly/2Cor1:1\">2 Corintios 1.1</a>; <a href=\"https://ref.ly/2Cor13:1\">13.1</a>; <a href=\"https://ref.ly/2Tim4:20\">2 Timoteo 4.20</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "44018011",
+          "start_ref_usfm": "ACT 18:11",
+          "end_ref": "44018011",
+          "end_ref_usfm": "ACT 18:11"
+        },
+        {
+          "start_ref": "47001001",
+          "start_ref_usfm": "2CO 1:1",
+          "end_ref": "47001001",
+          "end_ref_usfm": "2CO 1:1"
+        },
+        {
+          "start_ref": "47013001",
+          "start_ref_usfm": "2CO 13:1",
+          "end_ref": "47013001",
+          "end_ref_usfm": "2CO 13:1"
+        },
+        {
+          "start_ref": "55004020",
+          "start_ref_usfm": "2TI 4:20",
+          "end_ref": "55004020",
+          "end_ref_usfm": "2TI 4:20"
+        },
+        {
+          "start_ref": "46008001",
+          "start_ref_usfm": "1CO 8:1",
+          "end_ref": "46010033",
+          "end_ref_usfm": "1CO 10:33"
+        },
+        {
+          "start_ref": "46006012",
+          "start_ref_usfm": "1CO 6:12",
+          "end_ref": "46006020",
+          "end_ref_usfm": "1CO 6:20"
+        },
+        {
+          "start_ref": "46005001",
+          "start_ref_usfm": "1CO 5:1",
+          "end_ref": "46005013",
+          "end_ref_usfm": "1CO 5:13"
+        },
+        {
+          "start_ref": "44018001",
+          "start_ref_usfm": "ACT 18:1",
+          "end_ref": "44018003",
+          "end_ref_usfm": "ACT 18:3"
+        },
+        {
+          "start_ref": "44018001",
+          "start_ref_usfm": "ACT 18:1",
+          "end_ref": "44018018",
+          "end_ref_usfm": "ACT 18:18"
+        },
+        {
+          "start_ref": "46009024",
+          "start_ref_usfm": "1CO 9:24",
+          "end_ref": "46009026",
+          "end_ref_usfm": "1CO 9:26"
+        },
+        {
+          "start_ref": "46001001",
+          "start_ref_usfm": "1CO 1:1",
+          "end_ref": "46001002",
+          "end_ref_usfm": "1CO 1:2"
+        },
+        {
+          "start_ref": "46016005",
+          "start_ref_usfm": "1CO 16:5",
+          "end_ref": "46016020",
+          "end_ref_usfm": "1CO 16:20"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

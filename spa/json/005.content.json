@@ -1,0 +1,1866 @@
+[
+  {
+    "content_id": 658437,
+    "reference_id": 203512,
+    "version": "1.0.1",
+    "title": "Efeso",
+    "media_type": "Text",
+    "index_reference": "efeso",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<p><span>Efeso</span> se encontraba en la intersección de importantes rutas comerciales, tanto del norte al sur como de este a oeste. Era famoso por ser el &quot;guardián&quot; del templo de Ártemis (<a href=\"https://ref.ly/Acts19:35\">Hechos 19.35</a>). Como guardián, Efeso era reconocido oficialmente como el cuidador y protector del templo. Este título era importante y aportaba honor y beneficios económicos a la ciudad.</p><p>Los Griegos Jonios fundaron Efeso alrededor del 1044 a.C. en un puerto natural donde el río Caístro desembocaba en un golfo del mar Egeo. Hoy en día, el sitio de la antigua ciudad se encuentra muy tierra adentro. La ciudad pasó a estar bajo dominio Romano en el 41 a.C. Durante la época de los apóstoles, Efeso era próspera, sirviendo como un centro comercial y religioso. Era la ciudad más importante de la provincia Romana de Asia.</p><p>La adoración de Ártemis en Efeso era casi tan antigua como la ciudad misma. El templo de Ártemis, una de las siete maravillas del mundo antiguo, fue fundamental para la riqueza y el comercio de Efeso. Los peregrinos que acudían para adorar a Ártemis generaban numerosas oportunidades de negocio para los fabricantes de ídolos y otros comerciantes.</p><p>Cuando Pablo llegó en su tercer viaje misionero en el año 53 d.C., Efeso ya había sido una ciudad durante más de mil años (<a href=\"https://ref.ly/Acts19:1-Acts19:41\">Hechos 19</a>). La gente estaba profundamente devota a su diosa patrona y su templo. A medida que más personas aceptaban el mensaje de Pablo, esto reducía el negocio para aquellos que fabricaban y vendían estatuas de Ártemis. Esto los enfureció, y comenzaron un motín que casi mata a Pablo (<a href=\"https://ref.ly/Acts19:24\">Hechos 19.24</a>, <a href=\"https://ref.ly/Acts19:28-Acts19:31\">28–31</a>).</p><p>La iglesia de Efeso se fortaleció gracias a la enseñanza y liderazgo de Pablo. Las personas que aprendieron de Pablo en Efeso fundaron iglesias en comunidades cercanas, como Colosas (ver <span data-bnType=\"resourceReference\" data-resourceId=\"26427\" data-resourceType=\"TyndaleStudyNotesBookIntros\">Introducción al Libro de Colosenses</span>, “Contexto”). Sin embargo, Pablo advirtió a los líderes de la iglesia de Efeso sobre la amenaza de los falsos maestros (<a href=\"https://ref.ly/Acts20:29-Acts20:31\">Hechos 20.29–31</a>).</p><p>El apóstol Juan probablemente se estableció en Efeso alrededor del año 70 d.C. Desde allí, fue exiliado a la isla de Patmos (<a href=\"https://ref.ly/Rev1:9\">Apocalipsis 1.9</a>). Es probable que Juan haya escrito el Apocalipsis mientras vivía en Patmos, posiblemente en la década de los 90 d.C. Para entonces, el amor y las buenas obras de la comunidad cristiana, alabadas en la carta a los Efesios, se habían desvanecido en su mayoría (<a href=\"https://ref.ly/Rev2:4\">Apocalipsis 2.4</a>). Según el escritor cristiano temprano Ireneo, Juan regresó a Efeso después de su tiempo en Patmos. Vivió allí hasta su muerte, que ocurrió durante el reinado del emperador Trajano, entre los años 98 y 117 d.C. La tradición sostiene que María, la madre de Jesús, también pasó sus últimos días en Efeso bajo el cuidado de Juan (ver <a href=\"https://ref.ly/John19:25-John19:27\">Juan 19.25–27</a>).</p><p>Los Godos incendiaron el Templo de Ártemis en el año 262 d.C. Eran un pueblo del norte de Europa que combatió contra el Imperio Romano. Para el momento del tercer concilio ecuménico (también conocido como el Concilio de Efeso) en Efeso en el año 431 d.C., Ártemis ya no tenía influencia entre los efesios. Este cambio respalda el mensaje de Pablo de que &quot;Dioses hechos por hombre&quot; como Ártemis &quot;no son dioses en absoluto&quot; (<a href=\"https://ref.ly/Acts19:26\">Hechos 19.26</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Acts18:19-Acts19:41\">Hechos 18.19–19.41</a>; <a href=\"https://ref.ly/Acts20:16-Acts20:38\">20.16–38</a>; <a href=\"https://ref.ly/Eph1:1\">Efesios 1.1</a>; <a href=\"https://ref.ly/Rev2:1-Rev2:7\">Apocalipsis 2.1–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44019024",
+          "start_ref_usfm": "ACT 19:24",
+          "end_ref": "44019024",
+          "end_ref_usfm": "ACT 19:24"
+        },
+        {
+          "start_ref": "44019026",
+          "start_ref_usfm": "ACT 19:26",
+          "end_ref": "44019026",
+          "end_ref_usfm": "ACT 19:26"
+        },
+        {
+          "start_ref": "44019035",
+          "start_ref_usfm": "ACT 19:35",
+          "end_ref": "44019035",
+          "end_ref_usfm": "ACT 19:35"
+        },
+        {
+          "start_ref": "49001001",
+          "start_ref_usfm": "EPH 1:1",
+          "end_ref": "49001001",
+          "end_ref_usfm": "EPH 1:1"
+        },
+        {
+          "start_ref": "66001009",
+          "start_ref_usfm": "REV 1:9",
+          "end_ref": "66001009",
+          "end_ref_usfm": "REV 1:9"
+        },
+        {
+          "start_ref": "66002004",
+          "start_ref_usfm": "REV 2:4",
+          "end_ref": "66002004",
+          "end_ref_usfm": "REV 2:4"
+        },
+        {
+          "start_ref": "44019001",
+          "start_ref_usfm": "ACT 19:1",
+          "end_ref": "44019041",
+          "end_ref_usfm": "ACT 19:41"
+        },
+        {
+          "start_ref": "43019025",
+          "start_ref_usfm": "JHN 19:25",
+          "end_ref": "43019027",
+          "end_ref_usfm": "JHN 19:27"
+        },
+        {
+          "start_ref": "66002001",
+          "start_ref_usfm": "REV 2:1",
+          "end_ref": "66002007",
+          "end_ref_usfm": "REV 2:7"
+        },
+        {
+          "start_ref": "44019028",
+          "start_ref_usfm": "ACT 19:28",
+          "end_ref": "44019031",
+          "end_ref_usfm": "ACT 19:31"
+        },
+        {
+          "start_ref": "44020029",
+          "start_ref_usfm": "ACT 20:29",
+          "end_ref": "44020031",
+          "end_ref_usfm": "ACT 20:31"
+        },
+        {
+          "start_ref": "44018019",
+          "start_ref_usfm": "ACT 18:19",
+          "end_ref": "44019041",
+          "end_ref_usfm": "ACT 19:41"
+        },
+        {
+          "start_ref": "44020016",
+          "start_ref_usfm": "ACT 20:16",
+          "end_ref": "44020038",
+          "end_ref_usfm": "ACT 20:38"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26427,
+          "content_id": 658241,
+          "resource_code": "TyndaleStudyNotesBookIntros",
+          "label": "Colosenses",
+          "language": "spa"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 658335,
+    "reference_id": 203410,
+    "version": "1.0.1",
+    "title": "Egipto",
+    "media_type": "Text",
+    "index_reference": "egipto",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<p>Egipto era una gran y antigua civilización cuando José ascendió al poder y la familia de Jacob viajó allí en busca de alimento (<a href=\"https://ref.ly/Gen39:1-Gen41:57\">Génesis 39–41</a>; <a href=\"https://ref.ly/Gen42:1-Gen46:34\">42–46</a>; comparar <a href=\"https://ref.ly/Gen12:10-Gen12:20\">12.10–20</a>). Egipto estaba bien protegido de los enemigos debido a su ubicación. El Mar Mediterráneo al norte carecía de puertos. La áspera península del Sinaí se encontraba al este, y un vasto desierto se extendía hacia el oeste. Esta protección natural convirtió a Egipto en un lugar seguro para las personas de otras tierras durante épocas de sequía.</p><p>La gente llama a Egipto &quot;el regalo del Nilo&quot; porque ningún otro río ha sido tan esencial para la historia de una nación. Los egipcios se referían a él simplemente como &quot;el río&quot;. El Nilo es más que el río más largo del mundo. Sin su agua, la civilización en Egipto no habría existido. El Nilo es la línea vital de Egipto, y los egipcios lo adoraban por la vida y fertilidad que proporcionaba. Las inundaciones anuales del río traían suelo nuevo y fértil para los cultivos. El río proporcionaba peces y aves para la alimentación, junto con agua limpia para beber y lavar. También servía como la ruta principal para viajar, comerciar y comunicarse. Durante las sequías, cuando las naciones cercanas enfrentaban hambrunas, el Nilo ofrecía a Egipto un suministro constante de agua fresca. El Nilo dio forma a cada aspecto de la vida en Egipto y convirtió al país en lo que fue.</p><p>Egipto desempeñó un papel significativo en los eventos bíblicos. Abraham vivió allí durante una hambruna (<a href=\"https://ref.ly/Gen12:10-Gen12:20\">Génesis 12.10–20</a>). José fue vendido como esclavo en Egipto y llegó a ser un líder, similar a un primer ministro (<a href=\"https://ref.ly/Gen37:1-Gen41:57\">Génesis 37–41</a>). La familia de José se trasladó más tarde a la región del delta oriental de Gosén durante otra hambruna (<a href=\"https://ref.ly/Gen42:1-Gen50:26\">Génesis 42–50</a>). Sus descendientes fueron finalmente esclavizados (<a href=\"https://ref.ly/Exod1:1-Exod15:21\">Éxodo</a><a href=\"https://ref.ly/Exod1:1-Exod1:22\"> 1</a>). El rescate de su pueblo por parte de Dios durante el exodo de Egipto se convirtió en una historia fundamental para el pueblo judío (<a href=\"https://ref.ly/Exod1:1-Exod15:21\">Éxodo</a><a href=\"https://ref.ly/Exod2:1-Exod15:27\"> 2–15</a>).</p><p>Más tarde, cuando Israel fue gobernado por reyes, Egipto a menudo se involucró en la lucha por el poder internacional (por ejemplo, <a href=\"https://ref.ly/1Kgs14:25-1Kgs14:28\">1 Reyes 14.25–28</a>). Después de que los babilonios destruyeron Jerusalén en 586 a.C., algunos judíos se trasladaron a Egipto para escapar del dominio de Babilonia (<a href=\"https://ref.ly/Jer43:6-Jer43:7\">Jeremías 43.6–7</a>).</p><p>Al inicio del Nuevo Testamento, Egipto se convirtió en un refugio seguro para José, María y Jesús. Escaparon allí para evitar los intentos de Herodes el Grande de asesinar a Jesús (<a href=\"https://ref.ly/Matt2:13-Matt2:23\">Mateo 2.13–23</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Gen12:10-Gen12:20\">Génesis 12.10–20</a>; <a href=\"https://ref.ly/Gen37:1-Gen50:26\">37.1–50.26</a>; <a href=\"https://ref.ly/Exod1:1-Exod15:21\">Éxodo 1.1–15.21</a>; <a href=\"https://ref.ly/1Kgs14:25-1Kgs14:28\">1 Reyes 14.25–28</a>; <a href=\"https://ref.ly/Isa19:1-Isa19:25\">Isaías 19.1–25</a>; <a href=\"https://ref.ly/Jer43:1-Jer43:13\">Jeremías 43</a>; <a href=\"https://ref.ly/Jer46:7-Jer46:8\">46.7–8</a>; <a href=\"https://ref.ly/Ezek29:1-Ezek29:21\">Ezequiel 29.1–21</a>; <a href=\"https://ref.ly/Amos8:8\">Amós 8.8</a>; <a href=\"https://ref.ly/Amos9:5\">9:5</a>; <a href=\"https://ref.ly/Zech10:11\">Zacarías 10.11</a>; <a href=\"https://ref.ly/Matt2:13-Matt2:23\">Mateo 2.13–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "30008008",
+          "start_ref_usfm": "AMO 8:8",
+          "end_ref": "30008008",
+          "end_ref_usfm": "AMO 8:8"
+        },
+        {
+          "start_ref": "30009005",
+          "start_ref_usfm": "AMO 9:5",
+          "end_ref": "30009005",
+          "end_ref_usfm": "AMO 9:5"
+        },
+        {
+          "start_ref": "38010011",
+          "start_ref_usfm": "ZEC 10:11",
+          "end_ref": "38010011",
+          "end_ref_usfm": "ZEC 10:11"
+        },
+        {
+          "start_ref": "01012010",
+          "start_ref_usfm": "GEN 12:10",
+          "end_ref": "01012020",
+          "end_ref_usfm": "GEN 12:20"
+        },
+        {
+          "start_ref": "24043006",
+          "start_ref_usfm": "JER 43:6",
+          "end_ref": "24043007",
+          "end_ref_usfm": "JER 43:7"
+        },
+        {
+          "start_ref": "40002013",
+          "start_ref_usfm": "MAT 2:13",
+          "end_ref": "40002023",
+          "end_ref_usfm": "MAT 2:23"
+        },
+        {
+          "start_ref": "11014025",
+          "start_ref_usfm": "1KI 14:25",
+          "end_ref": "11014028",
+          "end_ref_usfm": "1KI 14:28"
+        },
+        {
+          "start_ref": "23019001",
+          "start_ref_usfm": "ISA 19:1",
+          "end_ref": "23019025",
+          "end_ref_usfm": "ISA 19:25"
+        },
+        {
+          "start_ref": "01037001",
+          "start_ref_usfm": "GEN 37:1",
+          "end_ref": "01050026",
+          "end_ref_usfm": "GEN 50:26"
+        },
+        {
+          "start_ref": "24046007",
+          "start_ref_usfm": "JER 46:7",
+          "end_ref": "24046008",
+          "end_ref_usfm": "JER 46:8"
+        },
+        {
+          "start_ref": "26029001",
+          "start_ref_usfm": "EZK 29:1",
+          "end_ref": "26029021",
+          "end_ref_usfm": "EZK 29:21"
+        },
+        {
+          "start_ref": "02001001",
+          "start_ref_usfm": "EXO 1:1",
+          "end_ref": "02001022",
+          "end_ref_usfm": "EXO 1:22"
+        },
+        {
+          "start_ref": "01039001",
+          "start_ref_usfm": "GEN 39:1",
+          "end_ref": "01041057",
+          "end_ref_usfm": "GEN 41:57"
+        },
+        {
+          "start_ref": "01042001",
+          "start_ref_usfm": "GEN 42:1",
+          "end_ref": "01046034",
+          "end_ref_usfm": "GEN 46:34"
+        },
+        {
+          "start_ref": "01037001",
+          "start_ref_usfm": "GEN 37:1",
+          "end_ref": "01041057",
+          "end_ref_usfm": "GEN 41:57"
+        },
+        {
+          "start_ref": "01042001",
+          "start_ref_usfm": "GEN 42:1",
+          "end_ref": "01050026",
+          "end_ref_usfm": "GEN 50:26"
+        },
+        {
+          "start_ref": "02002001",
+          "start_ref_usfm": "EXO 2:1",
+          "end_ref": "02015027",
+          "end_ref_usfm": "EXO 15:27"
+        },
+        {
+          "start_ref": "02001001",
+          "start_ref_usfm": "EXO 1:1",
+          "end_ref": "02015021",
+          "end_ref_usfm": "EXO 15:21"
+        },
+        {
+          "start_ref": "24043001",
+          "start_ref_usfm": "JER 43:1",
+          "end_ref": "24043013",
+          "end_ref_usfm": "JER 43:13"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 658407,
+    "reference_id": 203482,
+    "version": "1.0.1",
+    "title": "El Alto Consejo Judío",
+    "media_type": "Text",
+    "index_reference": "el alto consejo judío",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<p>El alto consejo de líderes judíos en Jerusalén tenía un poder significativo en el gobierno del pueblo judío. Tradicionalmente se le llama el Sanedrín, una transliteración de la palabra griega <em>sunedrion</em>, que significa &quot;consejo&quot;.</p><p>La tradición judía sostiene que el Sanedrín comenzó cuando Moisés eligió a setenta ancianos (<a href=\"https://ref.ly/Num11:16\">Números 11:16</a>). Sin embargo, la referencia más antigua se encuentra en las <em>Antigüedades</em> de Josefo 12.3.3, de la época de Antíoco el Grande, entre 223 y 187 a.C. El Sanedrín probablemente se originó como un grupo de líderes autogobernados bajo el dominio persa (ver <a href=\"https://ref.ly/Ezra5:5-Ezra5:10\">Esdras 5:5–10,</a> <a href=\"https://ref.ly/Neh2:16\">Nehemías 2:16</a>). La clase sacerdotal, encabezada por el sumo sacerdote, controlaba el alto consejo. Los gobernantes romanos y los fariseos influían en estos sacerdotes en diferentes grados. Herodes el Grande ejerció una fuerte influencia sobre las actividades del Sanedrín.</p><p>El Sanedrín se encargaba de los asuntos legales y religiosos del judaísmo. Esto incluía tomar decisiones judiciales que no se resolvían en tribunales más pequeños, conocidos como &quot;sanedrines locales&quot;, así como gestionar la justicia penal y los arrestos (ver <a href=\"https://ref.ly/Acts9:1-Acts9:2\">Hechos 9:1–2</a>). También tomaban decisiones oficiales sobre asuntos judíos, aunque estas decisiones no eran ejecutables por sí mismas. El Sanedrín no podía ejecutar criminales por su cuenta (<a href=\"https://ref.ly/John18:31\">Juan 18:31</a>), pero podía hacerlo con la aprobación romana.</p><p>La destrucción de Jerusalén en el año 70 d.C. puso fin al papel del alto consejo como líder del judaísmo.</p><p><u>Pasajes para estudio complementario</u></p><p><a href=\"https://ref.ly/Matt26:57-Matt26:68\">Mateo 26:57–68,</a> <a href=\"https://ref.ly/Mark14:53-Mark14:65\">Marcos 14:53–65,</a> <a href=\"https://ref.ly/Mark15:1\">15:1</a>, <a href=\"https://ref.ly/Mark15:43\">43,</a> <a href=\"https://ref.ly/Luke22:66-Luke22:71\">Lucas 22:66–71,</a><a href=\"https://ref.ly/Luke23:50-Luke23:54\">23:50–54,</a> <a href=\"https://ref.ly/John11:47-John11:53\">Juan 11:47–53,</a> <a href=\"https://ref.ly/Acts5:21-Acts5:41\">Hechos 5:21–41,</a> <a href=\"https://ref.ly/Acts6:11-Acts8:1\">6:11–8:1,</a> <a href=\"https://ref.ly/Acts22:30-Acts23:10\">22:30–23:10,</a> <a href=\"https://ref.ly/Acts23:26-Acts23:30\">23:26–30</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04011016",
+          "start_ref_usfm": "NUM 11:16",
+          "end_ref": "04011016",
+          "end_ref_usfm": "NUM 11:16"
+        },
+        {
+          "start_ref": "16002016",
+          "start_ref_usfm": "NEH 2:16",
+          "end_ref": "16002016",
+          "end_ref_usfm": "NEH 2:16"
+        },
+        {
+          "start_ref": "41015001",
+          "start_ref_usfm": "MRK 15:1",
+          "end_ref": "41015001",
+          "end_ref_usfm": "MRK 15:1"
+        },
+        {
+          "start_ref": "41015043",
+          "start_ref_usfm": "MRK 15:43",
+          "end_ref": "41015043",
+          "end_ref_usfm": "MRK 15:43"
+        },
+        {
+          "start_ref": "43018031",
+          "start_ref_usfm": "JHN 18:31",
+          "end_ref": "43018031",
+          "end_ref_usfm": "JHN 18:31"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026068",
+          "end_ref_usfm": "MAT 26:68"
+        },
+        {
+          "start_ref": "41014053",
+          "start_ref_usfm": "MRK 14:53",
+          "end_ref": "41014065",
+          "end_ref_usfm": "MRK 14:65"
+        },
+        {
+          "start_ref": "44022030",
+          "start_ref_usfm": "ACT 22:30",
+          "end_ref": "44023010",
+          "end_ref_usfm": "ACT 23:10"
+        },
+        {
+          "start_ref": "44009001",
+          "start_ref_usfm": "ACT 9:1",
+          "end_ref": "44009002",
+          "end_ref_usfm": "ACT 9:2"
+        },
+        {
+          "start_ref": "44023026",
+          "start_ref_usfm": "ACT 23:26",
+          "end_ref": "44023030",
+          "end_ref_usfm": "ACT 23:30"
+        },
+        {
+          "start_ref": "42022066",
+          "start_ref_usfm": "LUK 22:66",
+          "end_ref": "42022071",
+          "end_ref_usfm": "LUK 22:71"
+        },
+        {
+          "start_ref": "15005005",
+          "start_ref_usfm": "EZR 5:5",
+          "end_ref": "15005010",
+          "end_ref_usfm": "EZR 5:10"
+        },
+        {
+          "start_ref": "42023050",
+          "start_ref_usfm": "LUK 23:50",
+          "end_ref": "42023054",
+          "end_ref_usfm": "LUK 23:54"
+        },
+        {
+          "start_ref": "43011047",
+          "start_ref_usfm": "JHN 11:47",
+          "end_ref": "43011053",
+          "end_ref_usfm": "JHN 11:53"
+        },
+        {
+          "start_ref": "44005021",
+          "start_ref_usfm": "ACT 5:21",
+          "end_ref": "44005041",
+          "end_ref_usfm": "ACT 5:41"
+        },
+        {
+          "start_ref": "44006011",
+          "start_ref_usfm": "ACT 6:11",
+          "end_ref": "44008001",
+          "end_ref_usfm": "ACT 8:1"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 658396,
+    "reference_id": 203471,
+    "version": "1.0.1",
+    "title": "El hijo de hombre",
+    "media_type": "Text",
+    "index_reference": "el hijo de hombre",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<p>La expresión en Hebreo y Arameo &quot;hijo de hombre&quot; significa &quot;ser humano&quot;. Sin embargo, la figura en <a href=\"https://ref.ly/Dan7:13-Dan7:14\">Daniel 7:13–14</a>, que es &quot;como un hijo de hombre&quot;, parece ser más que solo un ser humano. Su identidad exacta no se especifica, pero su papel es claro. El Altísimo lo ha elegido para gobernar un reino eterno y universal sobre todas las naciones. También representa a su pueblo, el pueblo santo del Altísimo. Ellos compartirán en este reino del hijo de hombre sobre todos los pueblos y naciones (ver <a href=\"https://ref.ly/Dan7:22\">Daniel 7:22</a>).</p><p>La escena que rodea a este hijo del hombre resalta sus características divinas. La descripción &quot;he aquí en las nubes del cielo&quot; en <a href=\"https://ref.ly/Dan7:13\">Daniel 7:13</a> indica que proviene del cielo (comparar con <a href=\"https://ref.ly/Ps68:4\">Salmo 68:4</a>; <a href=\"https://ref.ly/Ps97:2\">97:2</a>; <a href=\"https://ref.ly/Nah1:3\">Nahúm 1:3</a>). En el libro de Éxodo, el Señor Dios se cubrió con una nube (<a href=\"https://ref.ly/Exod19:9\">Éxodo 19:9</a>). El pueblo de Dios será elevado en las nubes cuando Jesús regrese (<a href=\"https://ref.ly/1Thess4:17\">1 Tesalonicenses 4:17</a>), de la misma manera que fue llevado a una nube cuando ascendió al cielo (<a href=\"https://ref.ly/Acts1:9\">Hechos 1:9</a>). Este hijo de hombre recibe su reino con humildad y santidad, sin arrogancia. Su carácter es opuesto al del cuerno pequeño (<a href=\"https://ref.ly/Dan7:8\">Daniel 7:8</a>).</p><p>Jesús se llama a sí mismo el Hijo del Hombre (<a href=\"https://ref.ly/Matt24:30\">Mateo 24:30,</a> <a href=\"https://ref.ly/Matt26:24\">26:24,</a> <a href=\"https://ref.ly/Mark13:26\">Marcos 13:26,</a> <a href=\"https://ref.ly/Luke21:27\">Lucas 21:27,</a> <a href=\"https://ref.ly/John12:34\">Juan 12:34,</a> ver también <a href=\"https://ref.ly/Acts7:56\">Hechos 7:56,</a> <a href=\"https://ref.ly/Heb2:6\">Hebreos 2:6,</a> <a href=\"https://ref.ly/Rev1:13\">Apocalipsis 1:13,</a> <a href=\"https://ref.ly/Rev14:14\">14:14</a>). <a href=\"https://ref.ly/Rev1:7\">Apocalipsis 1:7</a> también conecta esta figura con Jesucristo, quien fue traspasado por nuestros pecados. Dios el Padre le otorgó a Jesús toda autoridad y poder para gobernar sobre todo y alcanzar a personas de todas las naciones y reinos (<a href=\"https://ref.ly/Dan7:14\">Daniel 7:14,</a> <a href=\"https://ref.ly/Matt28:18\">Mateo 28:18,</a> <a href=\"https://ref.ly/Matt28:19-Matt28:20\">19–20</a>). Dios llamó a Abraham para crear una gran nación a través de su pueblo y bendecir a todas las naciones mediante él (<a href=\"https://ref.ly/Gen12:1-Gen12:3\">Génesis 12:1–3</a>). Jesús cumplió esta promesa.</p><p><u>Pasajes para estudio complementario</u></p><p><a href=\"https://ref.ly/Dan7:13-Dan7:14\">Daniel 7:13–14,</a> <a href=\"https://ref.ly/Matt24:30\">Mateo 24:30,</a> <a href=\"https://ref.ly/Matt26:24\">26:24,</a> <a href=\"https://ref.ly/Mark13:26\">Marcos 13:26,</a> <a href=\"https://ref.ly/Luke21:27\">Lucas 21:27,</a> <a href=\"https://ref.ly/John12:34\">Juan 12:34,</a> <a href=\"https://ref.ly/Rev1:13\">Apocalipsis 1:13,</a> <a href=\"https://ref.ly/Rev14:14\">14:14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02019009",
+          "start_ref_usfm": "EXO 19:9",
+          "end_ref": "02019009",
+          "end_ref_usfm": "EXO 19:9"
+        },
+        {
+          "start_ref": "19068004",
+          "start_ref_usfm": "PSA 68:4",
+          "end_ref": "19068004",
+          "end_ref_usfm": "PSA 68:4"
+        },
+        {
+          "start_ref": "19097002",
+          "start_ref_usfm": "PSA 97:2",
+          "end_ref": "19097002",
+          "end_ref_usfm": "PSA 97:2"
+        },
+        {
+          "start_ref": "27007008",
+          "start_ref_usfm": "DAN 7:8",
+          "end_ref": "27007008",
+          "end_ref_usfm": "DAN 7:8"
+        },
+        {
+          "start_ref": "27007013",
+          "start_ref_usfm": "DAN 7:13",
+          "end_ref": "27007013",
+          "end_ref_usfm": "DAN 7:13"
+        },
+        {
+          "start_ref": "27007014",
+          "start_ref_usfm": "DAN 7:14",
+          "end_ref": "27007014",
+          "end_ref_usfm": "DAN 7:14"
+        },
+        {
+          "start_ref": "27007022",
+          "start_ref_usfm": "DAN 7:22",
+          "end_ref": "27007022",
+          "end_ref_usfm": "DAN 7:22"
+        },
+        {
+          "start_ref": "34001003",
+          "start_ref_usfm": "NAM 1:3",
+          "end_ref": "34001003",
+          "end_ref_usfm": "NAM 1:3"
+        },
+        {
+          "start_ref": "40024030",
+          "start_ref_usfm": "MAT 24:30",
+          "end_ref": "40024030",
+          "end_ref_usfm": "MAT 24:30"
+        },
+        {
+          "start_ref": "40026024",
+          "start_ref_usfm": "MAT 26:24",
+          "end_ref": "40026024",
+          "end_ref_usfm": "MAT 26:24"
+        },
+        {
+          "start_ref": "40028018",
+          "start_ref_usfm": "MAT 28:18",
+          "end_ref": "40028018",
+          "end_ref_usfm": "MAT 28:18"
+        },
+        {
+          "start_ref": "41013026",
+          "start_ref_usfm": "MRK 13:26",
+          "end_ref": "41013026",
+          "end_ref_usfm": "MRK 13:26"
+        },
+        {
+          "start_ref": "42021027",
+          "start_ref_usfm": "LUK 21:27",
+          "end_ref": "42021027",
+          "end_ref_usfm": "LUK 21:27"
+        },
+        {
+          "start_ref": "43012034",
+          "start_ref_usfm": "JHN 12:34",
+          "end_ref": "43012034",
+          "end_ref_usfm": "JHN 12:34"
+        },
+        {
+          "start_ref": "44001009",
+          "start_ref_usfm": "ACT 1:9",
+          "end_ref": "44001009",
+          "end_ref_usfm": "ACT 1:9"
+        },
+        {
+          "start_ref": "44007056",
+          "start_ref_usfm": "ACT 7:56",
+          "end_ref": "44007056",
+          "end_ref_usfm": "ACT 7:56"
+        },
+        {
+          "start_ref": "52004017",
+          "start_ref_usfm": "1TH 4:17",
+          "end_ref": "52004017",
+          "end_ref_usfm": "1TH 4:17"
+        },
+        {
+          "start_ref": "58002006",
+          "start_ref_usfm": "HEB 2:6",
+          "end_ref": "58002006",
+          "end_ref_usfm": "HEB 2:6"
+        },
+        {
+          "start_ref": "66001007",
+          "start_ref_usfm": "REV 1:7",
+          "end_ref": "66001007",
+          "end_ref_usfm": "REV 1:7"
+        },
+        {
+          "start_ref": "66001013",
+          "start_ref_usfm": "REV 1:13",
+          "end_ref": "66001013",
+          "end_ref_usfm": "REV 1:13"
+        },
+        {
+          "start_ref": "66014014",
+          "start_ref_usfm": "REV 14:14",
+          "end_ref": "66014014",
+          "end_ref_usfm": "REV 14:14"
+        },
+        {
+          "start_ref": "01012001",
+          "start_ref_usfm": "GEN 12:1",
+          "end_ref": "01012003",
+          "end_ref_usfm": "GEN 12:3"
+        },
+        {
+          "start_ref": "27007013",
+          "start_ref_usfm": "DAN 7:13",
+          "end_ref": "27007014",
+          "end_ref_usfm": "DAN 7:14"
+        },
+        {
+          "start_ref": "40028019",
+          "start_ref_usfm": "MAT 28:19",
+          "end_ref": "40028020",
+          "end_ref_usfm": "MAT 28:20"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 658340,
+    "reference_id": 203415,
+    "version": "1.0.1",
+    "title": "Eleazar",
+    "media_type": "Text",
+    "index_reference": "eleazar",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<p>Eleazar era el tercer hijo de Aarón, el primer sumo sacerdote (<a href=\"https://ref.ly/Exod6:23\">Éxodo 6.23</a>). Los dos hermanos mayores de Eleazar, Nadab y Abiú, provocaron la ira de Dios al ofrecer incienso de manera distinta a la ordenada por Dios (<a href=\"https://ref.ly/Lev10:1-Lev10:7\">Levítico 10.1–7</a>). Debido a su desobediencia, Dios los mató. Como el siguiente hijo mayor, Eleazar era el siguiente en la línea para convertirse en sumo sacerdote. Realizó funciones sacerdotales durante la vida de su padre y asistió a su padre y a Moisés cuando algunos levitas se rebelaron, buscando igualdad de estatus con la familia sacerdotal de Aarón (<a href=\"https://ref.ly/Num16:36-Num16:40\">Números 16.36–40</a>).</p><p>Aarón falleció en el desierto poco antes de que los israelitas entraran en la Tierra Prometida. No pudo entrar porque él y Moisés habían desobedecido a Dios al golpear la roca en Meribah (<a href=\"https://ref.ly/Num20:1-Num20:13\">Números 20.1–13</a>). Antes de que Aarón muriera, él, Moisés y Eleazar subieron al Monte de Hor. Allí, Moisés tomó las vestiduras sacerdotales de Aarón y se las entregó a su hijo (<a href=\"https://ref.ly/Num20:22-Num20:29\">Números 20.22–29</a>).</p><p>Después de esto, Eleazar sirvió como sumo sacerdote por el resto de su vida, incluso durante el tiempo en que los israelitas tomaron control de la tierra de Canaán. Cuando llegó el momento de dividir la tierra entre las tribus, Eleazar y Josué usaron suertes sagradas para decidir dónde se asentaría cada tribu (<a href=\"https://ref.ly/Josh14:1-Josh14:5\">Josué 14.1–5</a>). Cuando Eleazar murió, su hijo Phinees se convirtió en sumo sacerdote. Phinees había demostrado su fidelidad al pacto cuando Israel comenzó a adorar a los dioses de Moab (<a href=\"https://ref.ly/Num25:1-Num25:18\">Números 25</a>). Los descendientes de Eleazar incluían:</p><ul><li><p>Sadoc, el sacerdote fiel que sustituyó a Abiathar (<a href=\"https://ref.ly/1Kgs2:26-1Kgs2:27\">1 Reyes 2.26–27</a>, <a href=\"https://ref.ly/1Kgs2:35\">35</a>; ver <a href=\"https://ref.ly/1Chr6:3-1Chr6:8\">1 Crónicas 6.3–8</a>, <a href=\"https://ref.ly/1Chr6:50-1Chr6:53\">50–53</a>).</p></li><li><p>Esdras desempeñó un papel clave en la reconstrucción de Judea después del Exilio (ver <a href=\"https://ref.ly/Ezra7:1-Ezra7:5\">Esdras 7:1–5</a>).</p></li></ul><p>En el templo ideal de Ezequiel, solo los descendientes de Eleazar a través de Sadoc podían servir (<a href=\"https://ref.ly/Ezek44:15\">Ezequiel 44.15</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Exod6:23-Exod6:25\">Éxodo 6.23–25</a>; <a href=\"https://ref.ly/Lev10:6-Lev10:7\">Levítico 10.6–7</a>; <a href=\"https://ref.ly/Num3:1-Num3:4\">Números 3.1–4</a>; <a href=\"https://ref.ly/Num16:36-Num16:40\">Números 16.36–40</a>; <a href=\"https://ref.ly/Num20:22-Num20:26\">Números 20.22–26</a>; <a href=\"https://ref.ly/Num26:1-Num26:4\">Números 26.1–4</a>; <a href=\"https://ref.ly/Josh14:1\">Josué 14.1</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02006023",
+          "start_ref_usfm": "EXO 6:23",
+          "end_ref": "02006023",
+          "end_ref_usfm": "EXO 6:23"
+        },
+        {
+          "start_ref": "06014001",
+          "start_ref_usfm": "JOS 14:1",
+          "end_ref": "06014001",
+          "end_ref_usfm": "JOS 14:1"
+        },
+        {
+          "start_ref": "11002035",
+          "start_ref_usfm": "1KI 2:35",
+          "end_ref": "11002035",
+          "end_ref_usfm": "1KI 2:35"
+        },
+        {
+          "start_ref": "26044015",
+          "start_ref_usfm": "EZK 44:15",
+          "end_ref": "26044015",
+          "end_ref_usfm": "EZK 44:15"
+        },
+        {
+          "start_ref": "11002026",
+          "start_ref_usfm": "1KI 2:26",
+          "end_ref": "11002027",
+          "end_ref_usfm": "1KI 2:27"
+        },
+        {
+          "start_ref": "04025001",
+          "start_ref_usfm": "NUM 25:1",
+          "end_ref": "04025018",
+          "end_ref_usfm": "NUM 25:18"
+        },
+        {
+          "start_ref": "13006003",
+          "start_ref_usfm": "1CH 6:3",
+          "end_ref": "13006008",
+          "end_ref_usfm": "1CH 6:8"
+        },
+        {
+          "start_ref": "03010001",
+          "start_ref_usfm": "LEV 10:1",
+          "end_ref": "03010007",
+          "end_ref_usfm": "LEV 10:7"
+        },
+        {
+          "start_ref": "04003001",
+          "start_ref_usfm": "NUM 3:1",
+          "end_ref": "04003004",
+          "end_ref_usfm": "NUM 3:4"
+        },
+        {
+          "start_ref": "13006050",
+          "start_ref_usfm": "1CH 6:50",
+          "end_ref": "13006053",
+          "end_ref_usfm": "1CH 6:53"
+        },
+        {
+          "start_ref": "15007001",
+          "start_ref_usfm": "EZR 7:1",
+          "end_ref": "15007005",
+          "end_ref_usfm": "EZR 7:5"
+        },
+        {
+          "start_ref": "02006023",
+          "start_ref_usfm": "EXO 6:23",
+          "end_ref": "02006025",
+          "end_ref_usfm": "EXO 6:25"
+        },
+        {
+          "start_ref": "04016036",
+          "start_ref_usfm": "NUM 16:36",
+          "end_ref": "04016040",
+          "end_ref_usfm": "NUM 16:40"
+        },
+        {
+          "start_ref": "03010006",
+          "start_ref_usfm": "LEV 10:6",
+          "end_ref": "03010007",
+          "end_ref_usfm": "LEV 10:7"
+        },
+        {
+          "start_ref": "04020022",
+          "start_ref_usfm": "NUM 20:22",
+          "end_ref": "04020029",
+          "end_ref_usfm": "NUM 20:29"
+        },
+        {
+          "start_ref": "04020001",
+          "start_ref_usfm": "NUM 20:1",
+          "end_ref": "04020013",
+          "end_ref_usfm": "NUM 20:13"
+        },
+        {
+          "start_ref": "04026001",
+          "start_ref_usfm": "NUM 26:1",
+          "end_ref": "04026004",
+          "end_ref_usfm": "NUM 26:4"
+        },
+        {
+          "start_ref": "06014001",
+          "start_ref_usfm": "JOS 14:1",
+          "end_ref": "06014005",
+          "end_ref_usfm": "JOS 14:5"
+        },
+        {
+          "start_ref": "04020022",
+          "start_ref_usfm": "NUM 20:22",
+          "end_ref": "04020026",
+          "end_ref_usfm": "NUM 20:26"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 658351,
+    "reference_id": 203426,
+    "version": "1.0.1",
+    "title": "Eli",
+    "media_type": "Text",
+    "index_reference": "eli",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<p>Eli era el sumo sacerdote de Israel en el tabernáculo en Silo, el lugar central de adoración durante la época de los jueces. Eli probablemente descendía de Itamar, el hijo menor de Aarón (ver <a href=\"https://ref.ly/1Kgs2:27\">1 Reyes 2.27</a>; <a href=\"https://ref.ly/1Chr18:16\">1 Crónicas 18.16</a>; <a href=\"https://ref.ly/1Chr24:3\">24.3</a>). Eli era sincero y devoto, pero tenía dificultades para disciplinar a sus hijos malvados, <span>Ophni y Phinees</span>.</p><p>Cuando Eli conoció a Anna en el tabernáculo, pensó erróneamente que estaba borracha porque oraba en silencio por un hijo. Después de darse cuenta de su error, Eli bendijo a Anna. Dios respondió a su oración dándole un hijo llamado Samuel.</p><p>Samuel obtuvo el favor del Señor y del pueblo (<a href=\"https://ref.ly/1Sam2:26\">1 Samuel 2.26</a>). Sin embargo, los hijos de Eli eran irrespetuosos y deshonestos (<a href=\"https://ref.ly/1Sam2:12\">1 Samuel 2.12</a>). Robaban de las ofrendas y seducían a las mujeres que servían en el tabernáculo. Cuando Eli los reprendió, lo ignoraron. Dios envió un profeta para criticar la debilidad de Eli y las malas acciones de sus hijos, anunciando que Dios quitaría el sacerdocio de la familia de Eli (<a href=\"https://ref.ly/1Sam2:27-1Sam2:36\">1 Samuel 2.27–36</a>). Este mensaje se confirmó cuando Dios habló a Samuel una noche, diciéndole que pronto castigaría a la familia de Eli (<a href=\"https://ref.ly/1Sam3:1-1Sam3:14\">1 Samuel 3.1–14</a>).</p><p>Poco después, el ejército de Israel perdió una batalla contra los filisteos, el arca de la alianza fue capturada y los hijos de Eli murieron (<a href=\"https://ref.ly/1Sam4:1-1Sam4:11\">1 Samuel 4.1–11</a>). Cuando Eli, que tenía noventa y ocho años, escuchó la noticia, cayó hacia atrás, se rompió el cuello y murió (<a href=\"https://ref.ly/1Sam4:12-1Sam4:18\">1 Samuel 4.12–18</a>). Su nuera entró en trabajo de parto y murió al dar a luz al nieto de Eli, llamado <span>Ichâbod</span> (que significa &quot;¿dónde está la gloria?&quot;), porque la gloria había dejado a Israel (<a href=\"https://ref.ly/1Sam4:19-1Sam4:22\">1 Samuel 4.19–22</a>).</p><p>La familia de Eli continuó sirviendo como sacerdotes hasta la muerte del rey David. Abiathar fue el último de los descendientes de Eli en servir como sumo sacerdote. Salomón removió a Abiathar de su cargo porque había apoyado a Adonía, quien intentó convertirse en Rey en lugar de Salomón. Posteriormente, Salomón nombró a Sadoc como sumo sacerdote (<a href=\"https://ref.ly/1Kgs2:27\">1 Reyes 2.27</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/1Sam1:9-1Sam1:18\">1 Samuel 1.9–18</a>, <a href=\"https://ref.ly/1Sam1:25-1Sam1:28\">25–28</a>; <a href=\"https://ref.ly/1Sam2:11-1Sam4:22\">1 Samuel 2.11–4:22</a>; <a href=\"https://ref.ly/1Kgs2:27\">1 Reyes 2.27</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09002012",
+          "start_ref_usfm": "1SA 2:12",
+          "end_ref": "09002012",
+          "end_ref_usfm": "1SA 2:12"
+        },
+        {
+          "start_ref": "09002026",
+          "start_ref_usfm": "1SA 2:26",
+          "end_ref": "09002026",
+          "end_ref_usfm": "1SA 2:26"
+        },
+        {
+          "start_ref": "11002027",
+          "start_ref_usfm": "1KI 2:27",
+          "end_ref": "11002027",
+          "end_ref_usfm": "1KI 2:27"
+        },
+        {
+          "start_ref": "13018016",
+          "start_ref_usfm": "1CH 18:16",
+          "end_ref": "13018016",
+          "end_ref_usfm": "1CH 18:16"
+        },
+        {
+          "start_ref": "13024003",
+          "start_ref_usfm": "1CH 24:3",
+          "end_ref": "13024003",
+          "end_ref_usfm": "1CH 24:3"
+        },
+        {
+          "start_ref": "09004001",
+          "start_ref_usfm": "1SA 4:1",
+          "end_ref": "09004011",
+          "end_ref_usfm": "1SA 4:11"
+        },
+        {
+          "start_ref": "09004019",
+          "start_ref_usfm": "1SA 4:19",
+          "end_ref": "09004022",
+          "end_ref_usfm": "1SA 4:22"
+        },
+        {
+          "start_ref": "09002027",
+          "start_ref_usfm": "1SA 2:27",
+          "end_ref": "09002036",
+          "end_ref_usfm": "1SA 2:36"
+        },
+        {
+          "start_ref": "09003001",
+          "start_ref_usfm": "1SA 3:1",
+          "end_ref": "09003014",
+          "end_ref_usfm": "1SA 3:14"
+        },
+        {
+          "start_ref": "09004012",
+          "start_ref_usfm": "1SA 4:12",
+          "end_ref": "09004018",
+          "end_ref_usfm": "1SA 4:18"
+        },
+        {
+          "start_ref": "09001009",
+          "start_ref_usfm": "1SA 1:9",
+          "end_ref": "09001018",
+          "end_ref_usfm": "1SA 1:18"
+        },
+        {
+          "start_ref": "09001025",
+          "start_ref_usfm": "1SA 1:25",
+          "end_ref": "09001028",
+          "end_ref_usfm": "1SA 1:28"
+        },
+        {
+          "start_ref": "09002011",
+          "start_ref_usfm": "1SA 2:11",
+          "end_ref": "09004022",
+          "end_ref_usfm": "1SA 4:22"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 658370,
+    "reference_id": 203445,
+    "version": "1.0.1",
+    "title": "Elías",
+    "media_type": "Text",
+    "index_reference": "elías",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<p>Elías de <span>Thisbita</span> fue un profeta en Israel durante los reinados de <span>Achâb</span> y <span>Ochôzías</span>, desde el 874 hasta el 852 a.C. Su nombre significa &quot;mi Dios es Jehová&quot;. Demostró que el Señor es el único Dios verdadero e instó a Israel a volver al Señor.</p><p>Bajo el reinado de Achâb y Jezabel, Israel comenzó a adorar a Baal, un dios cananeo de la fertilidad, las tormentas y la lluvia. Como consecuencia, Dios envió una sequía a Israel (<a href=\"https://ref.ly/1Kgs17:1\">1 Reyes 17.1</a>). Elías se escondió hasta que la sequía terminó, y Dios lo cuidó. Durante este tiempo, se hospedó con una viuda en Sarepta, un pueblo en la región natal de Jezabel, Sidón. El hijo de la viuda murió, pero Elías oró por él y volvió a la vida (<a href=\"https://ref.ly/1Kgs17:8-1Kgs17:24\">1 Reyes 17.8–24</a>).</p><p>En el tercer año de sequía, Elías retó a los profetas de Baal a un concurso en el Monte Carmelo para demostrar quién era el verdadero Dios (<a href=\"https://ref.ly/1Kgs18:1-1Kgs18:40\">1 Reyes 18.1–40</a>). Los profetas de Baal invocaron a su dios sin éxito, volviéndose frenéticos en su intento de hacerlo aparecer, mientras Elías se burlaba de ellos. Cuando llegó el turno de Elías, vertió agua sobre su sacrificio y pronunció una oración sencilla y poderosa. El fuego consumió inmediatamente la ofrenda. En respuesta, el pueblo de Israel adoró al Señor y, siguiendo las instrucciones de Elías, mataron a los profetas de Baal. Luego, Elías oró por lluvia, y la sequía terminó (<a href=\"https://ref.ly/1Kgs18:41-1Kgs18:46\">1 Reyes 18.41–46</a>).</p><p>A pesar del gran poder de Dios, Achâb y Jezabel continuaron engañando a Israel. Jezabel estaba furiosa porque sus profetas habían sido asesinados (<a href=\"https://ref.ly/1Kgs19:1-1Kgs19:2\">1 Reyes 19.1–2</a>). Amenazó a Elías, quien huyó al desierto y pidió a Dios que le quitara la vida. En lugar de eso, un ángel lo alimentó hasta que llegó al Monte Sinaí. Elías se quejó de que era el único profeta que quedaba y que su vida estaba en peligro. Dios lo animó con una voz suave, le compartió buenas noticias y lo envió de regreso a servir (<a href=\"https://ref.ly/1Kgs19:3-1Kgs19:18\">1 Reyes 19.3–18</a>).</p><p>Elías fue muy devoto al verdadero Dios. Entrenó a un asistente llamado Eliseo. Al final de la vida de Elías en la Tierra, no murió, sino que fue llevado al cielo en un carro de fuego (<a href=\"https://ref.ly/2Kgs2:11-2Kgs2:12\">2 Reyes 2.11–12</a>). Eliseo asumió el papel de Elías como profeta y continuó desafiando la adoración falsa en Israel (ver <a href=\"https://ref.ly/2Kgs2:1-2Kgs9:13\">2 Reyes 2.1–9.13</a>; <a href=\"https://ref.ly/2Kgs13:14-2Kgs13:25\">13.14–25</a>).</p><p>El Antiguo Testamento concluye con la esperanza de que Elías regrese antes del día del Señor (<a href=\"https://ref.ly/Mal4:5-Mal4:6\">Malaquías 4.5–6</a>). Juan el Bautista cumplió parcialmente esta expectativa (ver <a href=\"https://ref.ly/Matt11:7-Matt11:14\">Mateo 11.7–14</a>; <a href=\"https://ref.ly/Matt17:10-Matt17:13\">17.10–13</a>; <a href=\"https://ref.ly/Luke1:17\">Lucas 1.17</a>). Elías apareció junto a Moisés durante la transfiguración de Jesús (cuando la apariencia de Jesús cambió para mostrar su gloria divina; <a href=\"https://ref.ly/Matt17:1-Matt17:9\">Mateo 17.1–9</a>). En <a href=\"https://ref.ly/Rev11:3-Rev11:12\">Apocalipsis 11.3–12</a>, uno de los dos testigos parece ser Elías mismo o alguien similar a él. La vida de Elías demuestra la bondad de Dios y el poder de la oración (<a href=\"https://ref.ly/Luke4:25-Luke4:26\">Lucas 4.25–26</a>; <a href=\"https://ref.ly/Rom11:2-Rom11:6\">Romanos 11.2–6</a>; <a href=\"https://ref.ly/Jas5:17-Jas5:18\">Santiago 5.17–18</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/1Kgs17:1-1Kgs19:21\">1 Reyes 17.1–19.21</a>; <a href=\"https://ref.ly/1Kgs21:1-1Kgs21:29\">21.1–29</a>; <a href=\"https://ref.ly/2Kgs1:1-2Kgs2:25\">2 Reyes 1.1–2.25</a>; <a href=\"https://ref.ly/2Kgs9:36\">9.36</a>; <a href=\"https://ref.ly/2Kgs10:10\">10.10</a>, <a href=\"https://ref.ly/2Kgs10:17\">17</a>; <a href=\"https://ref.ly/2Chr21:12-2Chr21:15\">2 Crónicas 21.12–15</a>; <a href=\"https://ref.ly/Mal4:5-Mal4:6\">Malaquías 4.5–6</a>; <a href=\"https://ref.ly/Matt11:14\">Mateo 11.14</a>; <a href=\"https://ref.ly/Matt16:14\">16.14</a>; <a href=\"https://ref.ly/Matt17:1-Matt17:13\">17.1–13</a>; <a href=\"https://ref.ly/Matt27:45-Matt27:49\">27.45–49</a>; <a href=\"https://ref.ly/Mark6:15\">Marcos 6.15</a>; <a href=\"https://ref.ly/Mark8:28\">8.28</a>; <a href=\"https://ref.ly/Mark9:2-Mark9:13\">9.2–13</a>; <a href=\"https://ref.ly/Mark15:33-Mark15:36\">15.33–36</a>; <a href=\"https://ref.ly/Luke1:17\">Lucas 1.17</a>; <a href=\"https://ref.ly/Luke4:26\">4.26</a>; <a href=\"https://ref.ly/Luke9:28-Luke9:36\">9.28–36</a>; <a href=\"https://ref.ly/John1:19-John1:28\">Juan 1.19–28</a>; <a href=\"https://ref.ly/Rom11:1-Rom11:6\">Romanos 11.1–6</a>; <a href=\"https://ref.ly/Jas5:17\">Santiago 5.17</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11017001",
+          "start_ref_usfm": "1KI 17:1",
+          "end_ref": "11017001",
+          "end_ref_usfm": "1KI 17:1"
+        },
+        {
+          "start_ref": "12009036",
+          "start_ref_usfm": "2KI 9:36",
+          "end_ref": "12009036",
+          "end_ref_usfm": "2KI 9:36"
+        },
+        {
+          "start_ref": "12010010",
+          "start_ref_usfm": "2KI 10:10",
+          "end_ref": "12010010",
+          "end_ref_usfm": "2KI 10:10"
+        },
+        {
+          "start_ref": "12010017",
+          "start_ref_usfm": "2KI 10:17",
+          "end_ref": "12010017",
+          "end_ref_usfm": "2KI 10:17"
+        },
+        {
+          "start_ref": "40011014",
+          "start_ref_usfm": "MAT 11:14",
+          "end_ref": "40011014",
+          "end_ref_usfm": "MAT 11:14"
+        },
+        {
+          "start_ref": "40016014",
+          "start_ref_usfm": "MAT 16:14",
+          "end_ref": "40016014",
+          "end_ref_usfm": "MAT 16:14"
+        },
+        {
+          "start_ref": "41006015",
+          "start_ref_usfm": "MRK 6:15",
+          "end_ref": "41006015",
+          "end_ref_usfm": "MRK 6:15"
+        },
+        {
+          "start_ref": "41008028",
+          "start_ref_usfm": "MRK 8:28",
+          "end_ref": "41008028",
+          "end_ref_usfm": "MRK 8:28"
+        },
+        {
+          "start_ref": "42001017",
+          "start_ref_usfm": "LUK 1:17",
+          "end_ref": "42001017",
+          "end_ref_usfm": "LUK 1:17"
+        },
+        {
+          "start_ref": "42004026",
+          "start_ref_usfm": "LUK 4:26",
+          "end_ref": "42004026",
+          "end_ref_usfm": "LUK 4:26"
+        },
+        {
+          "start_ref": "59005017",
+          "start_ref_usfm": "JAS 5:17",
+          "end_ref": "59005017",
+          "end_ref_usfm": "JAS 5:17"
+        },
+        {
+          "start_ref": "40017001",
+          "start_ref_usfm": "MAT 17:1",
+          "end_ref": "40017013",
+          "end_ref_usfm": "MAT 17:13"
+        },
+        {
+          "start_ref": "41009002",
+          "start_ref_usfm": "MRK 9:2",
+          "end_ref": "41009013",
+          "end_ref_usfm": "MRK 9:13"
+        },
+        {
+          "start_ref": "11018041",
+          "start_ref_usfm": "1KI 18:41",
+          "end_ref": "11018046",
+          "end_ref_usfm": "1KI 18:46"
+        },
+        {
+          "start_ref": "11021001",
+          "start_ref_usfm": "1KI 21:1",
+          "end_ref": "11021029",
+          "end_ref_usfm": "1KI 21:29"
+        },
+        {
+          "start_ref": "41015033",
+          "start_ref_usfm": "MRK 15:33",
+          "end_ref": "41015036",
+          "end_ref_usfm": "MRK 15:36"
+        },
+        {
+          "start_ref": "14021012",
+          "start_ref_usfm": "2CH 21:12",
+          "end_ref": "14021015",
+          "end_ref_usfm": "2CH 21:15"
+        },
+        {
+          "start_ref": "39004005",
+          "start_ref_usfm": "MAL 4:5",
+          "end_ref": "39004006",
+          "end_ref_usfm": "MAL 4:6"
+        },
+        {
+          "start_ref": "40017010",
+          "start_ref_usfm": "MAT 17:10",
+          "end_ref": "40017013",
+          "end_ref_usfm": "MAT 17:13"
+        },
+        {
+          "start_ref": "42004025",
+          "start_ref_usfm": "LUK 4:25",
+          "end_ref": "42004026",
+          "end_ref_usfm": "LUK 4:26"
+        },
+        {
+          "start_ref": "42009028",
+          "start_ref_usfm": "LUK 9:28",
+          "end_ref": "42009036",
+          "end_ref_usfm": "LUK 9:36"
+        },
+        {
+          "start_ref": "66011003",
+          "start_ref_usfm": "REV 11:3",
+          "end_ref": "66011012",
+          "end_ref_usfm": "REV 11:12"
+        },
+        {
+          "start_ref": "11017001",
+          "start_ref_usfm": "1KI 17:1",
+          "end_ref": "11019021",
+          "end_ref_usfm": "1KI 19:21"
+        },
+        {
+          "start_ref": "40027045",
+          "start_ref_usfm": "MAT 27:45",
+          "end_ref": "40027049",
+          "end_ref_usfm": "MAT 27:49"
+        },
+        {
+          "start_ref": "11017008",
+          "start_ref_usfm": "1KI 17:8",
+          "end_ref": "11017024",
+          "end_ref_usfm": "1KI 17:24"
+        },
+        {
+          "start_ref": "12013014",
+          "start_ref_usfm": "2KI 13:14",
+          "end_ref": "12013025",
+          "end_ref_usfm": "2KI 13:25"
+        },
+        {
+          "start_ref": "43001019",
+          "start_ref_usfm": "JHN 1:19",
+          "end_ref": "43001028",
+          "end_ref_usfm": "JHN 1:28"
+        },
+        {
+          "start_ref": "11019001",
+          "start_ref_usfm": "1KI 19:1",
+          "end_ref": "11019002",
+          "end_ref_usfm": "1KI 19:2"
+        },
+        {
+          "start_ref": "40017001",
+          "start_ref_usfm": "MAT 17:1",
+          "end_ref": "40017009",
+          "end_ref_usfm": "MAT 17:9"
+        },
+        {
+          "start_ref": "11019003",
+          "start_ref_usfm": "1KI 19:3",
+          "end_ref": "11019018",
+          "end_ref_usfm": "1KI 19:18"
+        },
+        {
+          "start_ref": "11018001",
+          "start_ref_usfm": "1KI 18:1",
+          "end_ref": "11018040",
+          "end_ref_usfm": "1KI 18:40"
+        },
+        {
+          "start_ref": "12002011",
+          "start_ref_usfm": "2KI 2:11",
+          "end_ref": "12002012",
+          "end_ref_usfm": "2KI 2:12"
+        },
+        {
+          "start_ref": "12002001",
+          "start_ref_usfm": "2KI 2:1",
+          "end_ref": "12009013",
+          "end_ref_usfm": "2KI 9:13"
+        },
+        {
+          "start_ref": "40011007",
+          "start_ref_usfm": "MAT 11:7",
+          "end_ref": "40011014",
+          "end_ref_usfm": "MAT 11:14"
+        },
+        {
+          "start_ref": "45011002",
+          "start_ref_usfm": "ROM 11:2",
+          "end_ref": "45011006",
+          "end_ref_usfm": "ROM 11:6"
+        },
+        {
+          "start_ref": "59005017",
+          "start_ref_usfm": "JAS 5:17",
+          "end_ref": "59005018",
+          "end_ref_usfm": "JAS 5:18"
+        },
+        {
+          "start_ref": "12001001",
+          "start_ref_usfm": "2KI 1:1",
+          "end_ref": "12002025",
+          "end_ref_usfm": "2KI 2:25"
+        },
+        {
+          "start_ref": "45011001",
+          "start_ref_usfm": "ROM 11:1",
+          "end_ref": "45011006",
+          "end_ref_usfm": "ROM 11:6"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 658372,
+    "reference_id": 203447,
+    "version": "1.0.1",
+    "title": "Eliseo",
+    "media_type": "Text",
+    "index_reference": "eliseo",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<p>Eliseo, el profeta, sucedió a Elías en el reino del norte de Israel a finales de los años 800 a.C. En ese tiempo, los líderes y el pueblo del reino del norte se habían alejado de Dios y adoraban al dios cananeo Baal. <span>Achâb</span> y Jezabel eran devotos adoradores de este falso dios, al igual que sus descendientes que los sucedieron en el trono. El ministerio de Eliseo se extendió desde 853 hasta 798 a.C., comenzando cuando el reinado del rey <span>Achâb</span> estaba llegando a su fin. Desempeñó un papel clave en el plan de Dios para eliminar a los líderes idólatras de Israel.</p><p>Eliseo inició su labor como discípulo de Elías y fue escogido por Dios para sucederlo (<a href=\"https://ref.ly/1Kgs19:15-1Kgs19:21\">1 Reyes 19.15–21</a>; <a href=\"https://ref.ly/2Kgs2:1-2Kgs2:18\">2 Reyes 2.1–18</a>). Tras la ascensión de Elías al cielo, los milagros realizados por Eliseo demostraron que el gran poder de Dios estaba con él.</p><p>Los milagros de Eliseo a menudo involucraban agua. Transformó el agua mala de un manantial cerca de Jericó en agua limpia e hizo flotar la cabeza de un hacha (<a href=\"https://ref.ly/2Kgs2:19-2Kgs2:22\">2 Reyes 2.19–22</a>; <a href=\"https://ref.ly/2Kgs6:1-2Kgs6:7\">6.1–7</a>). Cuando el Rey Joram se quedó sin agua en territorio enemigo, Eliseo predijo con precisión que aparecería abundante agua (<a href=\"https://ref.ly/2Kgs3:4-2Kgs3:20\">2 Reyes 3.4–20</a>). La gente creía que Baal controlaba el agua, por lo que estos milagros demostraron que el Señor, y no Baal, estaba realmente en control.</p><p>Eliseo demostró el poder de Dios ayudando a las personas de manera tangible. Ayudó a una mujer pobre llenando milagrosamente sus vasijas con aceite de oliva (<a href=\"https://ref.ly/2Kgs4:1-2Kgs4:7\">2 Reyes 4.1–7</a>). Le anunció a una mujer de Sunem que tendría un hijo y más tarde devolvió la vida a su hijo (<a href=\"https://ref.ly/2Kgs4:8-2Kgs4:37\">2 Reyes 4.8–37</a>). Curó a un general arameo llamado Naamán de la lepra (<a href=\"https://ref.ly/2Kgs5:1-2Kgs5:19\">2 Reyes 5.1–19</a>). También proporcionó alimento a los necesitados (<a href=\"https://ref.ly/2Kgs4:38-2Kgs4:44\">2 Reyes 4.38–44</a>).</p><p>Eliseo desempeñó un papel en el plan de Dios para juzgar el reino del norte. Ungió a Jehú de Israel y a Hazael de Aram (<a href=\"https://ref.ly/2Kgs8:7-2Kgs8:15\">2 Reyes 8.7–15</a>; <a href=\"https://ref.ly/2Kgs9:1-2Kgs9:13\">9.1–13</a>). Derramó aceite sagrado sobre sus cabezas para mostrar que Dios los había elegido. Ellos terminaron violentamente con el gobierno de los líderes de Israel que promovían la adoración a Baal (ver <a href=\"https://ref.ly/1Kgs19:15-1Kgs19:18\">1 Reyes 19.15–18</a>).</p><p>Los milagros de Eliseo anticiparon la obra de Jesús porque Jesús:</p><ul><li><p>Sanó a personas con lepra (<a href=\"https://ref.ly/Matt8:1-Matt8:4\">Mateo 8.1–4</a>).</p></li><li><p>Resucitó a los muertos (<a href=\"https://ref.ly/Mark5:21-Mark5:43\">Marcos 5.21–43</a>; <a href=\"https://ref.ly/Luke7:11-Luke7:17\">Lucas 7.11–17</a>; <a href=\"https://ref.ly/John11:1-John11:44\">Juan 11.1–44</a>).</p></li><li><p>Proveyó comida de maneras milagrosas (<a href=\"https://ref.ly/Matt14:13-Matt14:21\">Mateo 14.13–21</a>; <a href=\"https://ref.ly/Matt15:32-Matt15:38\">15.32–38</a>).</p></li></ul><p>Jesús habló sobre la curación de Naamán para demostrar que la misericordia de Dios se extiende más allá de los israelitas y alcanza a los gentiles (<a href=\"https://ref.ly/Luke4:27\">Lucas 4.27</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/1Kgs19:15-1Kgs19:21\">1 Reyes 19.15–21</a>; <a href=\"https://ref.ly/2Kgs2:1-2Kgs9:13\">2 Reyes 2.1–9.13</a>; <a href=\"https://ref.ly/2Kgs13:14-2Kgs13:21\">13.14–21</a>; <a href=\"https://ref.ly/Luke4:27\">Lucas 4.27</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42004027",
+          "start_ref_usfm": "LUK 4:27",
+          "end_ref": "42004027",
+          "end_ref_usfm": "LUK 4:27"
+        },
+        {
+          "start_ref": "42007011",
+          "start_ref_usfm": "LUK 7:11",
+          "end_ref": "42007017",
+          "end_ref_usfm": "LUK 7:17"
+        },
+        {
+          "start_ref": "40014013",
+          "start_ref_usfm": "MAT 14:13",
+          "end_ref": "40014021",
+          "end_ref_usfm": "MAT 14:21"
+        },
+        {
+          "start_ref": "12009001",
+          "start_ref_usfm": "2KI 9:1",
+          "end_ref": "12009013",
+          "end_ref_usfm": "2KI 9:13"
+        },
+        {
+          "start_ref": "40008001",
+          "start_ref_usfm": "MAT 8:1",
+          "end_ref": "40008004",
+          "end_ref_usfm": "MAT 8:4"
+        },
+        {
+          "start_ref": "12004001",
+          "start_ref_usfm": "2KI 4:1",
+          "end_ref": "12004007",
+          "end_ref_usfm": "2KI 4:7"
+        },
+        {
+          "start_ref": "12002019",
+          "start_ref_usfm": "2KI 2:19",
+          "end_ref": "12002022",
+          "end_ref_usfm": "2KI 2:22"
+        },
+        {
+          "start_ref": "40015032",
+          "start_ref_usfm": "MAT 15:32",
+          "end_ref": "40015038",
+          "end_ref_usfm": "MAT 15:38"
+        },
+        {
+          "start_ref": "12005001",
+          "start_ref_usfm": "2KI 5:1",
+          "end_ref": "12005019",
+          "end_ref_usfm": "2KI 5:19"
+        },
+        {
+          "start_ref": "12004008",
+          "start_ref_usfm": "2KI 4:8",
+          "end_ref": "12004037",
+          "end_ref_usfm": "2KI 4:37"
+        },
+        {
+          "start_ref": "12008007",
+          "start_ref_usfm": "2KI 8:7",
+          "end_ref": "12008015",
+          "end_ref_usfm": "2KI 8:15"
+        },
+        {
+          "start_ref": "41005021",
+          "start_ref_usfm": "MRK 5:21",
+          "end_ref": "41005043",
+          "end_ref_usfm": "MRK 5:43"
+        },
+        {
+          "start_ref": "43011001",
+          "start_ref_usfm": "JHN 11:1",
+          "end_ref": "43011044",
+          "end_ref_usfm": "JHN 11:44"
+        },
+        {
+          "start_ref": "12006001",
+          "start_ref_usfm": "2KI 6:1",
+          "end_ref": "12006007",
+          "end_ref_usfm": "2KI 6:7"
+        },
+        {
+          "start_ref": "11019015",
+          "start_ref_usfm": "1KI 19:15",
+          "end_ref": "11019018",
+          "end_ref_usfm": "1KI 19:18"
+        },
+        {
+          "start_ref": "12002001",
+          "start_ref_usfm": "2KI 2:1",
+          "end_ref": "12002018",
+          "end_ref_usfm": "2KI 2:18"
+        },
+        {
+          "start_ref": "12002001",
+          "start_ref_usfm": "2KI 2:1",
+          "end_ref": "12009013",
+          "end_ref_usfm": "2KI 9:13"
+        },
+        {
+          "start_ref": "11019015",
+          "start_ref_usfm": "1KI 19:15",
+          "end_ref": "11019021",
+          "end_ref_usfm": "1KI 19:21"
+        },
+        {
+          "start_ref": "12003004",
+          "start_ref_usfm": "2KI 3:4",
+          "end_ref": "12003020",
+          "end_ref_usfm": "2KI 3:20"
+        },
+        {
+          "start_ref": "12004038",
+          "start_ref_usfm": "2KI 4:38",
+          "end_ref": "12004044",
+          "end_ref_usfm": "2KI 4:44"
+        },
+        {
+          "start_ref": "12013014",
+          "start_ref_usfm": "2KI 13:14",
+          "end_ref": "12013021",
+          "end_ref_usfm": "2KI 13:21"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 658441,
+    "reference_id": 203516,
+    "version": "1.0.1",
+    "title": "Emperadores Romanos",
+    "media_type": "Text",
+    "index_reference": "emperadores romanos",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<ol><li><p>Augusto<em> </em>(Octavio) gobernó desde el 27 a. C., hasta el 14 d. C. Se convirtió en el primer emperador romano tras derrotar a Marco Antonio en la Batalla de Actium en el 31 a. C. Gobernó con sabiduría y administró bien el imperio. Recibió el título de &quot;Augusto&quot;, en el 27 a. C., iniciando la práctica de la adoración al emperador.</p><p>Ver <a href=\"https://ref.ly/Luke2:1\">Lucas 2:1</a>.</p></li><li><p>Tiberio<em> </em>gobernó desde el 14 d.C., hasta el 37 d.C. Era el hijo adoptivo de Augusto, quien lo eligió para ser emperador después de él. Tiberio fue un gobernante sabio y humilde que nombró a Poncio Pilato como gobernador de Judea.</p><p>Ver <a href=\"https://ref.ly/Luke3:1\">Lucas 3:1,</a> <a href=\"https://ref.ly/John19:12\">Juan 19:12</a>.</p></li><li><p>(Gayo) <em>Calígula</em> gobernó del 37 al 41 d.C. Era hijo del general de Augusto, Germánico. Recibió el apodo de Calígula, que significa &quot;Botita&quot;, debido a su vestimenta militar. Perdió su capacidad de pensar con claridad, gastó todo el dinero del reino de manera imprudente, gobernó cruelmente a su pueblo y fue asesinado por sus enemigos.</p></li><li><p>Claudio gobernó del 41 al 54 d.C. Era sobrino de Tiberio. Se convirtió en emperador después de que la Guardia Pretoriana lo eligiera tras la muerte de Calígula. Era amigo de Herodes Agripa I. Claudio detuvo la persecución de los judíos en Alejandría, pero más tarde expulsó a los judíos de Roma alrededor del año 49 d.C. Se casó con la madre de Nerón, Agripina, quien lo envenenó.</p><p>Ver <a href=\"https://ref.ly/Acts18:2\">Hechos 18:2</a>.</p></li><li><p>Nerón gobernó del 54 al 68 d.C. Fue adoptado por Claudio y se convirtió en emperador tras la muerte de este. Dedicó mucho tiempo a placeres personales. Pablo apeló a él, instruyendo a los cristianos romanos a obedecer a Nerón. Más tarde, Nerón asesinó a su esposa y a su madre. Fue el primero en perseguir a los cristianos.</p><p>Ver <a href=\"https://ref.ly/Acts25:11\">Hechos 25:11,</a> <a href=\"https://ref.ly/Rom13:1-Rom13:7\">Romanos 13:1–7</a>.</p></li><li><p>Vespasiano gobernó del 69 al 79 d.C. Fue un general exitoso e hijo de un recaudador de impuestos. Inició la Guerra Judía al invadir Galilea en el 67 d.C. Como emperador, mejoró las finanzas de Roma, reorganizó los ejércitos y fue conocido por su justicia. También comenzó la construcción del Coliseo. Falleció a causa de una enfermedad.</p></li><li><p>Tito gobernó desde el año 79 hasta el 81 d.C. Era hijo de Vespasiano. Concluyó la Guerra Judía destruyendo Jerusalén en el año 70 d.C. Como emperador, completó el Coliseo y brindó ayuda tras el desastre causado por la erupción del Monte Vesubio en el año 79 d.C. y en un incendio en Roma en el año 80 d.C. Murió de fiebre.</p></li><li><p>Domitiano gobernó desde el año 81 hasta el 96 d.C. Era el hijo menor de Vespasiano. Creció a la sombra de su hermano Tito y anhelaba el poder. Como emperador, fue un administrador competente. Reconstruyó áreas dañadas de Roma y se declaró un dios. Impuso nuevos impuestos y, en sus últimos años, persiguió severamente a los cristianos. Finalmente, fue asesinado por sus enemigos.</p></li></ol><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Rev17:9-Rev17:11\">Apocalipsis 17:9–11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42002001",
+          "start_ref_usfm": "LUK 2:1",
+          "end_ref": "42002001",
+          "end_ref_usfm": "LUK 2:1"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003001",
+          "end_ref_usfm": "LUK 3:1"
+        },
+        {
+          "start_ref": "43019012",
+          "start_ref_usfm": "JHN 19:12",
+          "end_ref": "43019012",
+          "end_ref_usfm": "JHN 19:12"
+        },
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "44025011",
+          "start_ref_usfm": "ACT 25:11",
+          "end_ref": "44025011",
+          "end_ref_usfm": "ACT 25:11"
+        },
+        {
+          "start_ref": "45013001",
+          "start_ref_usfm": "ROM 13:1",
+          "end_ref": "45013007",
+          "end_ref_usfm": "ROM 13:7"
+        },
+        {
+          "start_ref": "66017009",
+          "start_ref_usfm": "REV 17:9",
+          "end_ref": "66017011",
+          "end_ref_usfm": "REV 17:11"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 658328,
+    "reference_id": 203403,
+    "version": "1.0.1",
+    "title": "Esaú",
+    "media_type": "Text",
+    "index_reference": "esaú",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<p>Esaú era el hijo de Isaac y Rebeca y el hermano gemelo mayor de Jacob (<a href=\"https://ref.ly/Gen25:24-Gen25:26\">Génesis 25.24–26</a>). Fue llamado Esaú porque era peludo al nacer. Sus descendientes llegaron a ser conocidos como edomitas. &quot;Edom&quot; significa &quot;rojo&quot;, refiriéndose a:</p><ul><li><p>El color rojizo de Esaú al nacer (<a href=\"https://ref.ly/Gen25:25\">Génesis 25.25</a>).</p></li><li><p>El guiso de lentejas rojas que Esaú obtuvo de Jacob (<a href=\"https://ref.ly/Gen25:30\">Génesis 25.30</a>).</p></li><li><p>El color rojizo de la tierra donde se estableció (ver <span data-bnType=\"resourceReference\" data-resourceId=\"11684\" data-resourceType=\"TyndaleStudyNotes\">nota de estudio sobre Génesis 25.25</span>).</p></li></ul><p>Esaú era un cazador hábil que traía carne salvaje sabrosa a su padre. Isaac prefería su intenso sabor sobre la carne más suave que Jacob proporcionaba de los rebaños familiares. Un día, Esaú llegó a casa muy hambriento después de una caza infructuosa. Jacob convenció a Esaú de renunciar a sus derechos y privilegios de primogénito a cambio de comida (<a href=\"https://ref.ly/Gen25:29-Gen25:34\">Génesis 25.29–34</a>). Esaú no valoraba su primogenitura y se dejaba llevar por sus deseos físicos (ver <a href=\"https://ref.ly/Heb12:16\">Hebreos 12.16</a>).</p><p>También se casó con dos mujeres locales que no eran descendientes de Abraham (<a href=\"https://ref.ly/Gen26:34-Gen26:35\">Génesis 26.34–35</a>). Esto pudo haber influido en el favoritismo de Rebeca hacia Jacob y su plan para obtener la bendición de Isaac que estaba destinada a Esaú (<a href=\"https://ref.ly/Gen27:1-Gen27:40\">Génesis 27.1–40</a>). La ira de Esaú al descubrir el engaño de su hermano hizo que Jacob huyera a Harán. Los hermanos se reunieron veinte años después, cuando Esaú mostró un perdón generoso (<a href=\"https://ref.ly/Gen33:1-Gen33:16\">Génesis 33.1–16</a>).</p><p>Esaú nació con Jacob agarrando su talón. La gente interpretó esto como una señal de que los descendientes de Esaú servirían a los descendientes de Jacob. Los edomitas comenzaron a servir a los israelitas durante el reinado de David (<a href=\"https://ref.ly/2Sam8:11-2Sam8:15\">2 Samuel 8.11–15</a>; <a href=\"https://ref.ly/1Chr18:11-1Chr18:13\">1 Crónicas 18.11–13</a>), y continuaron hasta el reinado de Joram (<a href=\"https://ref.ly/2Kgs8:20-2Kgs8:22\">2 Reyes 8.20–22</a>; <a href=\"https://ref.ly/2Chr21:8-2Chr21:10\">2 Crónicas 21.8–10</a>). Después de una rebelión en 845 a.C., los edomitas obtuvieron brevemente la independencia, pero fueron conquistados nuevamente por Amasías, quien gobernó desde 796 hasta 767 a.C. Recuperaron su libertad en 735 a.C. y permanecieron independientes de Judá.</p><p>En el Nuevo Testamento, Esaú simboliza a los descendientes de Abraham que no tuvieron fe y fueron rechazados por Dios, perdiendo así las bendiciones de las promesas (ver <a href=\"https://ref.ly/Rom9:6-Rom9:24\">Romanos 9.6–24</a>). Herodes el Grande era un edomita.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Gen25:21-Gen25:34\">Génesis 25.21–34</a>; <a href=\"https://ref.ly/Gen26:34-Gen26:35\">26.34–35</a>; <a href=\"https://ref.ly/Gen27:1-Gen27:42\">27.1–42</a>; <a href=\"https://ref.ly/Gen28:6-Gen28:9\">28.6–9</a>; <a href=\"https://ref.ly/Gen32:3-Gen32:20\">32.3–20</a>; <a href=\"https://ref.ly/Gen33:1-Gen33:16\">33.1–16</a>; <a href=\"https://ref.ly/Gen35:28-Gen35:29\">35.28–29</a>; <a href=\"https://ref.ly/Gen36:1-Gen36:43\">36.1–43</a>; <a href=\"https://ref.ly/Deut2:1-Deut2:8\">Deuteronomio 2.1–8</a>, <a href=\"https://ref.ly/Deut2:12\">12</a>, <a href=\"https://ref.ly/Deut2:22\">22</a>, <a href=\"https://ref.ly/Deut2:29\">29</a>; <a href=\"https://ref.ly/Josh24:4\">Josué 24.4</a>; <a href=\"https://ref.ly/Mal1:2-Mal1:5\">Malaquías 1.2–5</a>; <a href=\"https://ref.ly/Rom9:6-Rom9:13\">Romanos 9.6–13</a>; <a href=\"https://ref.ly/Heb11:20\">Hebreos 11.20</a>; <a href=\"https://ref.ly/Heb12:16-Heb12:17\">12.16–17</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01025025",
+          "start_ref_usfm": "GEN 25:25",
+          "end_ref": "01025025",
+          "end_ref_usfm": "GEN 25:25"
+        },
+        {
+          "start_ref": "01025030",
+          "start_ref_usfm": "GEN 25:30",
+          "end_ref": "01025030",
+          "end_ref_usfm": "GEN 25:30"
+        },
+        {
+          "start_ref": "05002012",
+          "start_ref_usfm": "DEU 2:12",
+          "end_ref": "05002012",
+          "end_ref_usfm": "DEU 2:12"
+        },
+        {
+          "start_ref": "05002022",
+          "start_ref_usfm": "DEU 2:22",
+          "end_ref": "05002022",
+          "end_ref_usfm": "DEU 2:22"
+        },
+        {
+          "start_ref": "05002029",
+          "start_ref_usfm": "DEU 2:29",
+          "end_ref": "05002029",
+          "end_ref_usfm": "DEU 2:29"
+        },
+        {
+          "start_ref": "06024004",
+          "start_ref_usfm": "JOS 24:4",
+          "end_ref": "06024004",
+          "end_ref_usfm": "JOS 24:4"
+        },
+        {
+          "start_ref": "58011020",
+          "start_ref_usfm": "HEB 11:20",
+          "end_ref": "58011020",
+          "end_ref_usfm": "HEB 11:20"
+        },
+        {
+          "start_ref": "58012016",
+          "start_ref_usfm": "HEB 12:16",
+          "end_ref": "58012016",
+          "end_ref_usfm": "HEB 12:16"
+        },
+        {
+          "start_ref": "58012016",
+          "start_ref_usfm": "HEB 12:16",
+          "end_ref": "58012017",
+          "end_ref_usfm": "HEB 12:17"
+        },
+        {
+          "start_ref": "01036001",
+          "start_ref_usfm": "GEN 36:1",
+          "end_ref": "01036043",
+          "end_ref_usfm": "GEN 36:43"
+        },
+        {
+          "start_ref": "12008020",
+          "start_ref_usfm": "2KI 8:20",
+          "end_ref": "12008022",
+          "end_ref_usfm": "2KI 8:22"
+        },
+        {
+          "start_ref": "01025024",
+          "start_ref_usfm": "GEN 25:24",
+          "end_ref": "01025026",
+          "end_ref_usfm": "GEN 25:26"
+        },
+        {
+          "start_ref": "01025029",
+          "start_ref_usfm": "GEN 25:29",
+          "end_ref": "01025034",
+          "end_ref_usfm": "GEN 25:34"
+        },
+        {
+          "start_ref": "01026034",
+          "start_ref_usfm": "GEN 26:34",
+          "end_ref": "01026035",
+          "end_ref_usfm": "GEN 26:35"
+        },
+        {
+          "start_ref": "10008011",
+          "start_ref_usfm": "2SA 8:11",
+          "end_ref": "10008015",
+          "end_ref_usfm": "2SA 8:15"
+        },
+        {
+          "start_ref": "14021008",
+          "start_ref_usfm": "2CH 21:8",
+          "end_ref": "14021010",
+          "end_ref_usfm": "2CH 21:10"
+        },
+        {
+          "start_ref": "39001002",
+          "start_ref_usfm": "MAL 1:2",
+          "end_ref": "39001005",
+          "end_ref_usfm": "MAL 1:5"
+        },
+        {
+          "start_ref": "05002001",
+          "start_ref_usfm": "DEU 2:1",
+          "end_ref": "05002008",
+          "end_ref_usfm": "DEU 2:8"
+        },
+        {
+          "start_ref": "01027001",
+          "start_ref_usfm": "GEN 27:1",
+          "end_ref": "01027040",
+          "end_ref_usfm": "GEN 27:40"
+        },
+        {
+          "start_ref": "01028006",
+          "start_ref_usfm": "GEN 28:6",
+          "end_ref": "01028009",
+          "end_ref_usfm": "GEN 28:9"
+        },
+        {
+          "start_ref": "01033001",
+          "start_ref_usfm": "GEN 33:1",
+          "end_ref": "01033016",
+          "end_ref_usfm": "GEN 33:16"
+        },
+        {
+          "start_ref": "13018011",
+          "start_ref_usfm": "1CH 18:11",
+          "end_ref": "13018013",
+          "end_ref_usfm": "1CH 18:13"
+        },
+        {
+          "start_ref": "45009006",
+          "start_ref_usfm": "ROM 9:6",
+          "end_ref": "45009024",
+          "end_ref_usfm": "ROM 9:24"
+        },
+        {
+          "start_ref": "01025021",
+          "start_ref_usfm": "GEN 25:21",
+          "end_ref": "01025034",
+          "end_ref_usfm": "GEN 25:34"
+        },
+        {
+          "start_ref": "01027001",
+          "start_ref_usfm": "GEN 27:1",
+          "end_ref": "01027042",
+          "end_ref_usfm": "GEN 27:42"
+        },
+        {
+          "start_ref": "01032003",
+          "start_ref_usfm": "GEN 32:3",
+          "end_ref": "01032020",
+          "end_ref_usfm": "GEN 32:20"
+        },
+        {
+          "start_ref": "01035028",
+          "start_ref_usfm": "GEN 35:28",
+          "end_ref": "01035029",
+          "end_ref_usfm": "GEN 35:29"
+        },
+        {
+          "start_ref": "45009006",
+          "start_ref_usfm": "ROM 9:6",
+          "end_ref": "45009013",
+          "end_ref_usfm": "ROM 9:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 11684,
+          "content_id": 337484,
+          "resource_code": "TyndaleStudyNotes",
+          "label": "Génesis 25:25",
+          "language": "spa"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 658384,
+    "reference_id": 203459,
+    "version": "1.0.1",
+    "title": "Esdras",
+    "media_type": "Text",
+    "index_reference": "esdras",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<p>Esdras era un sacerdote y escriba (maestro y copista de las Escrituras). Provenía de una familia destacada de sumos sacerdotes descendientes de Sadoc (<a href=\"https://ref.ly/Ezra7:1-Ezra7:5\">Esdras 7.1–5</a>, <a href=\"https://ref.ly/Ezra7:11-Ezra7:12\">11–12</a>; ver también <a href=\"https://ref.ly/Neh8:2\">Nehemías 8.2</a>, <a href=\"https://ref.ly/Neh8:9\">9</a>). Lideró en Judá después de que los judíos regresaron del exilio. Como escriba, Esdras era más que un copista; era un estudiante dedicado a las leyes de Dios (<a href=\"https://ref.ly/Ezra7:6\">Esdras 7.6</a>). Estaba cualificado para enseñar, predicar y explicar las Escrituras.</p><p>Esdras, un funcionario destacado que asistió al Rey en asuntos judíos dentro del Imperio Persa, visitó Jerusalem alrededor del año 458 a.C. Trajo artículos para el Templo y tenía como objetivo establecer tanto las leyes de Dios como las leyes persas. Una de sus primeras acciones fue abordar el tema de los matrimonios mixtos con vecinos no judíos (<a href=\"https://ref.ly/Ezra9:1-Ezra10:44\">Esdras 9.1–10.44</a>). Más tarde, después de que las murallas de la ciudad fueron reconstruidas en 445 a.C. (<a href=\"https://ref.ly/Neh6:15\">Nehemías 6.15</a>), Esdras guió a la comunidad a seguir más de cerca la ley de Dios (<a href=\"https://ref.ly/Neh8:13-Neh8:15\">Nehemías 8.13–15</a>).</p><p>Esdras honró a Dios al administrar adecuadamente las finanzas. El Rey Persa confió en el criterio de Esdras y le permitió solicitar más dinero cuando fuera necesario (<a href=\"https://ref.ly/Ezra7:15-Ezra7:20\">Esdras 7.15–20</a>). Esdras delegó responsabilidades financieras a otros siempre que fue posible y exigió una estricta honestidad en el manejo de las finanzas (<a href=\"https://ref.ly/Ezra8:24-Ezra8:30\">Esdras 8.24–30</a>). Identificó ciertos recursos financieros como sagrados y pertenecientes a Dios.</p><p>Esdras se humilló ante Dios cuando el pueblo comenzó su viaje (<a href=\"https://ref.ly/Ezra8:21-Ezra8:23\">Esdras 8.21–23</a>), al enterarse de los matrimonios impuros del pueblo (<a href=\"https://ref.ly/Ezra9:5-Ezra9:15\">Esdras 9.5–15</a>), y cuando reunió a aquellos que debían divorciarse de sus esposas paganas (<a href=\"https://ref.ly/Ezra10:6\">10.6</a>). Siempre reconoció que la mano bondadosa de Dios—no su propia habilidad o sabiduría—era la que hacía que sucedieran cosas buenas (<a href=\"https://ref.ly/Ezra7:6\">Esdras 7.6</a>, <a href=\"https://ref.ly/Ezra7:9\">9</a>, <a href=\"https://ref.ly/Ezra7:28\">28</a>; <a href=\"https://ref.ly/Ezra8:18\">8.18</a>, <a href=\"https://ref.ly/Ezra8:22\">22</a>, <a href=\"https://ref.ly/Ezra8:31\">31</a>; <a href=\"https://ref.ly/Ezra9:8-Ezra9:9\">9.8–9</a>). Estudió y vivió según la Palabra de Dios y enseñó a otros a seguir lo que Dios reveló (<a href=\"https://ref.ly/Ezra7:10\">Esdras 7.10</a>). Era un maestro y líder servidor, no un funcionario engreído que dominaba a los demás.</p><p>Esdras demostró su devoción mediante la oración y el ayuno, lo que reflejó su profundo deseo de ayudar a las personas a seguir a Dios. Estableció un ejemplo para la vida en la comunidad judía después del exilio, centrando sus prioridades en la Palabra de Dios y la adoración.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Ezra7:1-Ezra10:44\">Esdras 7.1–10.44</a>; <a href=\"https://ref.ly/Neh8:1-Neh8:18\">Nehemías 8.1–18</a>; <a href=\"https://ref.ly/Neh12:1\">12.1</a>, <a href=\"https://ref.ly/Neh12:26\">26</a>, <a href=\"https://ref.ly/Neh12:36\">36</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15007006",
+          "start_ref_usfm": "EZR 7:6",
+          "end_ref": "15007006",
+          "end_ref_usfm": "EZR 7:6"
+        },
+        {
+          "start_ref": "15007009",
+          "start_ref_usfm": "EZR 7:9",
+          "end_ref": "15007009",
+          "end_ref_usfm": "EZR 7:9"
+        },
+        {
+          "start_ref": "15007010",
+          "start_ref_usfm": "EZR 7:10",
+          "end_ref": "15007010",
+          "end_ref_usfm": "EZR 7:10"
+        },
+        {
+          "start_ref": "15007028",
+          "start_ref_usfm": "EZR 7:28",
+          "end_ref": "15007028",
+          "end_ref_usfm": "EZR 7:28"
+        },
+        {
+          "start_ref": "15008018",
+          "start_ref_usfm": "EZR 8:18",
+          "end_ref": "15008018",
+          "end_ref_usfm": "EZR 8:18"
+        },
+        {
+          "start_ref": "15008022",
+          "start_ref_usfm": "EZR 8:22",
+          "end_ref": "15008022",
+          "end_ref_usfm": "EZR 8:22"
+        },
+        {
+          "start_ref": "15008031",
+          "start_ref_usfm": "EZR 8:31",
+          "end_ref": "15008031",
+          "end_ref_usfm": "EZR 8:31"
+        },
+        {
+          "start_ref": "15010006",
+          "start_ref_usfm": "EZR 10:6",
+          "end_ref": "15010006",
+          "end_ref_usfm": "EZR 10:6"
+        },
+        {
+          "start_ref": "16006015",
+          "start_ref_usfm": "NEH 6:15",
+          "end_ref": "16006015",
+          "end_ref_usfm": "NEH 6:15"
+        },
+        {
+          "start_ref": "16008002",
+          "start_ref_usfm": "NEH 8:2",
+          "end_ref": "16008002",
+          "end_ref_usfm": "NEH 8:2"
+        },
+        {
+          "start_ref": "16008009",
+          "start_ref_usfm": "NEH 8:9",
+          "end_ref": "16008009",
+          "end_ref_usfm": "NEH 8:9"
+        },
+        {
+          "start_ref": "16012001",
+          "start_ref_usfm": "NEH 12:1",
+          "end_ref": "16012001",
+          "end_ref_usfm": "NEH 12:1"
+        },
+        {
+          "start_ref": "16012026",
+          "start_ref_usfm": "NEH 12:26",
+          "end_ref": "16012026",
+          "end_ref_usfm": "NEH 12:26"
+        },
+        {
+          "start_ref": "16012036",
+          "start_ref_usfm": "NEH 12:36",
+          "end_ref": "16012036",
+          "end_ref_usfm": "NEH 12:36"
+        },
+        {
+          "start_ref": "15007001",
+          "start_ref_usfm": "EZR 7:1",
+          "end_ref": "15007005",
+          "end_ref_usfm": "EZR 7:5"
+        },
+        {
+          "start_ref": "15009001",
+          "start_ref_usfm": "EZR 9:1",
+          "end_ref": "15010044",
+          "end_ref_usfm": "EZR 10:44"
+        },
+        {
+          "start_ref": "15007001",
+          "start_ref_usfm": "EZR 7:1",
+          "end_ref": "15010044",
+          "end_ref_usfm": "EZR 10:44"
+        },
+        {
+          "start_ref": "15007011",
+          "start_ref_usfm": "EZR 7:11",
+          "end_ref": "15007012",
+          "end_ref_usfm": "EZR 7:12"
+        },
+        {
+          "start_ref": "15008024",
+          "start_ref_usfm": "EZR 8:24",
+          "end_ref": "15008030",
+          "end_ref_usfm": "EZR 8:30"
+        },
+        {
+          "start_ref": "15009008",
+          "start_ref_usfm": "EZR 9:8",
+          "end_ref": "15009009",
+          "end_ref_usfm": "EZR 9:9"
+        },
+        {
+          "start_ref": "15009005",
+          "start_ref_usfm": "EZR 9:5",
+          "end_ref": "15009015",
+          "end_ref_usfm": "EZR 9:15"
+        },
+        {
+          "start_ref": "16008013",
+          "start_ref_usfm": "NEH 8:13",
+          "end_ref": "16008015",
+          "end_ref_usfm": "NEH 8:15"
+        },
+        {
+          "start_ref": "15007015",
+          "start_ref_usfm": "EZR 7:15",
+          "end_ref": "15007020",
+          "end_ref_usfm": "EZR 7:20"
+        },
+        {
+          "start_ref": "15008021",
+          "start_ref_usfm": "EZR 8:21",
+          "end_ref": "15008023",
+          "end_ref_usfm": "EZR 8:23"
+        },
+        {
+          "start_ref": "16008001",
+          "start_ref_usfm": "NEH 8:1",
+          "end_ref": "16008018",
+          "end_ref_usfm": "NEH 8:18"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 658423,
+    "reference_id": 203498,
+    "version": "1.0.1",
+    "title": "Esteban",
+    "media_type": "Text",
+    "index_reference": "esteban",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<p>Esteban fue un cristiano de los primeros tiempos cuya vida sirvió de ejemplo para que otros lo siguieran. Debido a que habló valientemente sobre su fe, las autoridades judías lo arrestaron y lo mataron. Es conocido como el primer mártir cristiano, lo que significa que fue la primera persona en morir por su fe en Jesús.</p><p>Esteban fue uno de los siete hombres seleccionados para ayudar a distribuir alimentos a los cristianos necesitados en Jerusalén (<a href=\"https://ref.ly/Acts6:1-Acts6:6\">Hechos 6:1–6</a>). Entre ellos, Esteban se destacaba por estar “lleno de fe y del Espíritu” (<a href=\"https://ref.ly/Acts6:5\">Hechos 6:5</a>). Demostrando la gracia y el poder de Dios de manera especial, realizó milagros (<a href=\"https://ref.ly/Acts6:8\">Hechos 6:8</a>). Fue valiente al hablar sobre Jesús y era hábil explicando y defendiendo las creencias cristianas (<a href=\"https://ref.ly/Acts6:9-Acts6:10\">Hechos 6:9–10</a>). Debido a su franqueza al hablar de Jesús, los líderes judíos lo arrestaron y lo llevaron ante su consejo gobernante, el Sanedrín, para interrogarlo (<a href=\"https://ref.ly/Acts6:9-Acts6:12\">Hechos 6:9–12</a>).</p><p>Los testigos acusaron a Esteban de hablar en contra del santo templo y de la ley de Moisés (<a href=\"https://ref.ly/Acts6:13-Acts6:14\">Hechos 6:13–14</a>; comparar <a href=\"https://ref.ly/Mark13:2\">Marcos 13:2,</a> <a href=\"https://ref.ly/John2:19\">Juan 2:19,</a> <a href=\"https://ref.ly/John4:21\">4:21</a>). Esteban se defendió ante el consejo gobernante judío (<a href=\"https://ref.ly/Acts7:1-Acts7:53\">Hechos 7:1–53</a>). Habló sobre la larga historia de Israel de resistir a Dios y a sus siervos: primero Moisés y ahora el Profeta que Moisés había predicho (<a href=\"https://ref.ly/Acts7:51-Acts7:53\">Hechos 7:51–53</a>). Las autoridades judías, enfurecidas por las valientes afirmaciones de Esteban, lo arrastraron fuera de la ciudad y lo apedrearon hasta matarlo (<a href=\"https://ref.ly/Acts7:54-Acts7:60\">Hechos 7:54–60</a>). Mientras moría, Esteban oró por su perdón (<a href=\"https://ref.ly/Acts7:60\">Hechos 7:60</a>).</p><p>El valiente testimonio de Esteban condujo a la primera persecución de los cristianos primitivos (<a href=\"https://ref.ly/Acts8:1-Acts8:3\">Hechos 8:1–3</a>). Esta persecución provocó que la Buena Nueva se difundiera más, ya que los creyentes dejaron Jerusalén y compartieron el mensaje de Jesús dondequiera que iban (<a href=\"https://ref.ly/Acts8:4\">Hechos 8:4,</a> <a href=\"https://ref.ly/Acts11:19-Acts11:21\">11:19–21</a>). Después de que Esteban murió por su fe, los cristianos comenzaron a compartir la Buena Nueva sobre Jesús más allá de su tierra natal de Judea.</p><p>La vida de Esteban nos enseña que al ser un cristiano fiel se puede enfrentar una fuerte oposición. Hablar con valentía por Jesús puede tener un alto costo (ver <a href=\"https://ref.ly/Rev2:10\">Apocalipsis 2:10</a>, <a href=\"https://ref.ly/Rev2:13\">13</a>), pero nada puede detener el crecimiento de la iglesia (ver <a href=\"https://ref.ly/Matt16:18\">Mateo 16:18,</a> <a href=\"https://ref.ly/Acts8:1-Acts8:4\">Hechos 8:1–4</a>).</p><p><u>Pasajes para estudio complementario</u></p><p><a href=\"https://ref.ly/Acts6:5-Acts8:2\">Hechos 6:5–8:2,</a> <a href=\"https://ref.ly/Acts11:19\">11:19,</a> <a href=\"https://ref.ly/Acts22:20\">22:20</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40016018",
+          "start_ref_usfm": "MAT 16:18",
+          "end_ref": "40016018",
+          "end_ref_usfm": "MAT 16:18"
+        },
+        {
+          "start_ref": "41013002",
+          "start_ref_usfm": "MRK 13:2",
+          "end_ref": "41013002",
+          "end_ref_usfm": "MRK 13:2"
+        },
+        {
+          "start_ref": "43002019",
+          "start_ref_usfm": "JHN 2:19",
+          "end_ref": "43002019",
+          "end_ref_usfm": "JHN 2:19"
+        },
+        {
+          "start_ref": "43004021",
+          "start_ref_usfm": "JHN 4:21",
+          "end_ref": "43004021",
+          "end_ref_usfm": "JHN 4:21"
+        },
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006005",
+          "end_ref_usfm": "ACT 6:5"
+        },
+        {
+          "start_ref": "44006008",
+          "start_ref_usfm": "ACT 6:8",
+          "end_ref": "44006008",
+          "end_ref_usfm": "ACT 6:8"
+        },
+        {
+          "start_ref": "44007060",
+          "start_ref_usfm": "ACT 7:60",
+          "end_ref": "44007060",
+          "end_ref_usfm": "ACT 7:60"
+        },
+        {
+          "start_ref": "44008004",
+          "start_ref_usfm": "ACT 8:4",
+          "end_ref": "44008004",
+          "end_ref_usfm": "ACT 8:4"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011019",
+          "end_ref_usfm": "ACT 11:19"
+        },
+        {
+          "start_ref": "44022020",
+          "start_ref_usfm": "ACT 22:20",
+          "end_ref": "44022020",
+          "end_ref_usfm": "ACT 22:20"
+        },
+        {
+          "start_ref": "66002010",
+          "start_ref_usfm": "REV 2:10",
+          "end_ref": "66002010",
+          "end_ref_usfm": "REV 2:10"
+        },
+        {
+          "start_ref": "66002013",
+          "start_ref_usfm": "REV 2:13",
+          "end_ref": "66002013",
+          "end_ref_usfm": "REV 2:13"
+        },
+        {
+          "start_ref": "44006001",
+          "start_ref_usfm": "ACT 6:1",
+          "end_ref": "44006006",
+          "end_ref_usfm": "ACT 6:6"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011021",
+          "end_ref_usfm": "ACT 11:21"
+        },
+        {
+          "start_ref": "44007001",
+          "start_ref_usfm": "ACT 7:1",
+          "end_ref": "44007053",
+          "end_ref_usfm": "ACT 7:53"
+        },
+        {
+          "start_ref": "44007054",
+          "start_ref_usfm": "ACT 7:54",
+          "end_ref": "44007060",
+          "end_ref_usfm": "ACT 7:60"
+        },
+        {
+          "start_ref": "44008001",
+          "start_ref_usfm": "ACT 8:1",
+          "end_ref": "44008003",
+          "end_ref_usfm": "ACT 8:3"
+        },
+        {
+          "start_ref": "44008001",
+          "start_ref_usfm": "ACT 8:1",
+          "end_ref": "44008004",
+          "end_ref_usfm": "ACT 8:4"
+        },
+        {
+          "start_ref": "44007051",
+          "start_ref_usfm": "ACT 7:51",
+          "end_ref": "44007053",
+          "end_ref_usfm": "ACT 7:53"
+        },
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006010",
+          "end_ref_usfm": "ACT 6:10"
+        },
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006012",
+          "end_ref_usfm": "ACT 6:12"
+        },
+        {
+          "start_ref": "44006013",
+          "start_ref_usfm": "ACT 6:13",
+          "end_ref": "44006014",
+          "end_ref_usfm": "ACT 6:14"
+        },
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44008002",
+          "end_ref_usfm": "ACT 8:2"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 658387,
+    "reference_id": 203462,
+    "version": "1.0.1",
+    "title": "Esther",
+    "media_type": "Text",
+    "index_reference": "esther",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<p>Esther fue reina de los persas durante el reinado de Jerjes I (también conocido como Assuero), quien gobernó desde 486 hasta 465 a.C. Ella formaba parte de la <em>Diáspora</em> (&quot;dispersión&quot;), siendo descendiente de judíos que habían sido esparcidos entre las naciones durante el exilio en Babilonia. A diferencia de algunos judíos que regresaron a Judá (ver <a href=\"https://ref.ly/Ezra1:1-Ezra2:70\">Esdras 1–2</a>), su familia decidió quedarse en Persia, al igual que muchos otros. El importante papel de su primo <span>Mardochêo</span> en el gobierno persa sugiere que su familia se había vuelto rica y acomodada.</p><p>Esther era una huérfana criada por su primo <span>Mardochêo</span>, un funcionario menor del gobierno persa en <span>Susán</span>. Se convirtió en reina después de que el Rey Assuero destituyera a la Reina Vasthi por negarse a asistir a un banquete cuando él se lo ordenó (<a href=\"https://ref.ly/Esth1:11-Esth1:12\">Esther 1.11–12</a>).</p><p>Después de la coronación de Esther, ella ganó discretamente la confianza de Jerjes al informarle sobre un complot de asesinato (<a href=\"https://ref.ly/Esth2:21-Esth2:23\">Esther 2.21–23</a>). Esto le permitió posteriormente salvar a su pueblo de una masacre planeada por Amán, un alto funcionario del rey. Gracias a su sabio consejo y valientes acciones, Esther expuso a Amán. Él fue ejecutado, y el pueblo judío fue salvado. El Festival Judío de Purim fue creado para celebrar estos eventos.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Esth2:7-Esth2:20\">Esther 2.7–20</a>; <a href=\"https://ref.ly/Esth4:4-Esth5:8\">4.4–5.8</a>; <a href=\"https://ref.ly/Esth7:1-Esth9:32\">7.1–9.32</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "17002021",
+          "start_ref_usfm": "EST 2:21",
+          "end_ref": "17002023",
+          "end_ref_usfm": "EST 2:23"
+        },
+        {
+          "start_ref": "17001011",
+          "start_ref_usfm": "EST 1:11",
+          "end_ref": "17001012",
+          "end_ref_usfm": "EST 1:12"
+        },
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15002070",
+          "end_ref_usfm": "EZR 2:70"
+        },
+        {
+          "start_ref": "17002007",
+          "start_ref_usfm": "EST 2:7",
+          "end_ref": "17002020",
+          "end_ref_usfm": "EST 2:20"
+        },
+        {
+          "start_ref": "17004004",
+          "start_ref_usfm": "EST 4:4",
+          "end_ref": "17005008",
+          "end_ref_usfm": "EST 5:8"
+        },
+        {
+          "start_ref": "17007001",
+          "start_ref_usfm": "EST 7:1",
+          "end_ref": "17009032",
+          "end_ref_usfm": "EST 9:32"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 658375,
+    "reference_id": 203450,
+    "version": "1.0.1",
+    "title": "Ezechîas",
+    "media_type": "Text",
+    "index_reference": "ezechîas",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<p><span>Ezechîas</span> fue uno de los mejores Reyes de Judá. Gobernó desde 728 hasta 686 a.C. Su padre, <span>Achâz</span>, dejó de adorar a Dios. Sin embargo, Ezechîas promovió la verdadera adoración a Dios. Reparó las puertas del templo, hizo que los levitas se prepararan para el servicio sagrado y reinició las ceremonias religiosas. Ofreció sacrificios, restauró el servicio sacerdotal del templo e invitó a personas de Judá e Israel a celebrar la Pascua en Jerusalem (<a href=\"https://ref.ly/2Chr29:1-2Chr30:27\">2 Crónicas 29–30</a>). Después de la celebración, destruyó los sitios de adoración pagana.</p><p>Después de que Ezechîas comenzó su reinado, los Asirios, liderados por Salmanasar V y luego Sargón II, derrotaron al reino del norte. Deportaron a su gente y trajeron extranjeros en 722 a.C. Cuando Sargón II murió en 705 a.C., su hijo <span>Sennachêrib</span> asumió el poder, provocando una rebelión generalizada. Ezechîas dejó de pagar el tributo que su padre Achâz había pagado (<a href=\"https://ref.ly/2Kgs18:7\">2 Reyes 18.7,</a> ver <a href=\"https://ref.ly/2Kgs16:7\">16.7</a>). Como resultado, en 701 a.C., Sennachêrib invadió Judá. Ezechîas intentó apaciguar al gobernante asirio con un gran tributo, pero esto fracasó. Las fuerzas Asirias amenazaron Jerusalem y se burlaron de la confianza de Ezechîas en el Señor (<a href=\"https://ref.ly/2Kgs18:17-2Kgs18:35\">2 Reyes 18.17–35</a>). Ezechîas respondió con duelo y oración. El Señor, a través del profeta Isaías, aseguró a Ezechîas que sus oraciones habían sido escuchadas y que Sennachêrib no conquistaría Jerusalem (<a href=\"https://ref.ly/2Kgs19:1-2Kgs19:34\">2 Reyes 19.1–34</a>).</p><p>En ese tiempo, Ezechîas se enfermó gravemente (<a href=\"https://ref.ly/2Kgs20:1-2Kgs20:11\">2 Reyes 20.1–11</a>). Isaías le dijo que se preparara para morir, pero Ezechîas oró al Señor pidiendo sanación. El Señor le prometió quince años más de vida y liberación de los asirios. Después de recuperarse, Ezechîas imprudentemente recibió al rey babilónico <span>Berodach-baladán</span> en su palacio. Le mostró los tesoros del templo y buscó apoyo de Babilonia en lugar del Señor. Isaías predijo que esos tesoros serían llevados a Babilonia (<a href=\"https://ref.ly/2Kgs20:12-2Kgs20:19\">2 Reyes 20.12–19</a>).</p><p>Tras la amenaza Asiria en 701 a.C., Ezechîas disfrutó de años de paz y éxito. Falleció en 686 a.C., y su hijo Manasés lo sucedió.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/2Kgs18:1-2Kgs20:21\">2 Reyes 18.1–20.21,</a> <a href=\"https://ref.ly/2Chr28:27-2Chr32:33\">2 Crónicas 28.27–32.33,</a> <a href=\"https://ref.ly/Isa36:1-Isa39:8\">Isaías 36.1–39.8</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12016007",
+          "start_ref_usfm": "2KI 16:7",
+          "end_ref": "12016007",
+          "end_ref_usfm": "2KI 16:7"
+        },
+        {
+          "start_ref": "12018007",
+          "start_ref_usfm": "2KI 18:7",
+          "end_ref": "12018007",
+          "end_ref_usfm": "2KI 18:7"
+        },
+        {
+          "start_ref": "12020012",
+          "start_ref_usfm": "2KI 20:12",
+          "end_ref": "12020019",
+          "end_ref_usfm": "2KI 20:19"
+        },
+        {
+          "start_ref": "12020001",
+          "start_ref_usfm": "2KI 20:1",
+          "end_ref": "12020011",
+          "end_ref_usfm": "2KI 20:11"
+        },
+        {
+          "start_ref": "12018001",
+          "start_ref_usfm": "2KI 18:1",
+          "end_ref": "12020021",
+          "end_ref_usfm": "2KI 20:21"
+        },
+        {
+          "start_ref": "23036001",
+          "start_ref_usfm": "ISA 36:1",
+          "end_ref": "23039008",
+          "end_ref_usfm": "ISA 39:8"
+        },
+        {
+          "start_ref": "14029001",
+          "start_ref_usfm": "2CH 29:1",
+          "end_ref": "14030027",
+          "end_ref_usfm": "2CH 30:27"
+        },
+        {
+          "start_ref": "12018017",
+          "start_ref_usfm": "2KI 18:17",
+          "end_ref": "12018035",
+          "end_ref_usfm": "2KI 18:35"
+        },
+        {
+          "start_ref": "12019001",
+          "start_ref_usfm": "2KI 19:1",
+          "end_ref": "12019034",
+          "end_ref_usfm": "2KI 19:34"
+        },
+        {
+          "start_ref": "14028027",
+          "start_ref_usfm": "2CH 28:27",
+          "end_ref": "14032033",
+          "end_ref_usfm": "2CH 32:33"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 658393,
+    "reference_id": 203468,
+    "version": "1.0.1",
+    "title": "Ezequiel",
+    "media_type": "Text",
+    "index_reference": "ezequiel",
+    "language": "spa",
+    "review_level": "None",
+    "content": "<p>Ezequiel fue un sacerdote y profeta. Nació alrededor del año 623 a.C. Probablemente creció en Jerusalem y estaba casado (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ezequiel 24.16–18</a>). En el año 597 a.C., fue exiliado a Babilonia con <span>Joachîn</span> y vivió junto al río Chebar. Recibió su llamado como profeta en Babilonia el 31 de julio del 593 a.C. (<a href=\"https://ref.ly/Ezek1:1\">Ezequiel 1.1</a>). Aprendemos sobre su vida personal a través del libro que lleva su nombre.</p><p>Ezequiel a menudo empleaba acciones inusuales para enfatizar sus mensajes proféticos de Dios. Por ejemplo, ilustró la grave escasez de alimentos durante el asedio final de Jerusalem al comer comida cocinada sobre estiércol (<a href=\"https://ref.ly/Ezek4:12\">Ezequiel 4.12</a>). En otra ocasión, permaneció inmóvil durante 430 días, con cada día simbolizando un año del pecado de Israel y Judá (<a href=\"https://ref.ly/Ezek4:4-Ezek4:7\">Ezequiel 4.4–7</a>). Cuando la esposa de Ezequiel murió repentinamente, no se le permitió llorarla públicamente (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ezequiel 24.16–18</a>); su muerte sirvió como una seria advertencia de lo que ocurriría en Judá (<a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">Ezequiel 24.15–27</a>). Las acciones inusuales de Ezequiel estaban destinadas a captar la atención del pueblo.</p><p>Al principio, las personas rechazaron los mensajes de Ezequiel. Sin embargo, sus profecías se confirmaron como verdaderas, y la nación dejó de adorar a dioses falsos. Enseñó sobre la santidad, la pureza, la resurrección y la ley ritual (reglas y prácticas religiosas). Su mensaje esperanzador animó a los exiliados a mantenerse fieles durante su cautiverio. Después de su regreso, los inspiró a esperar un cumplimiento aún mayor.</p><p>No sabemos cómo murió Ezequiel, y no se le menciona en ninguna otra parte del Antiguo Testamento. El Nuevo Testamento hace referencia a las profecías de Ezequiel más de sesenta veces, principalmente en el libro de Apocalipsis. La visión profética de Ezequiel iba más allá de su futuro cercano, enfocándose en el juicio final (la decisión definitiva de Dios sobre todas las personas) y la gran esperanza del cielo.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Ezek2:1-Ezek2:10\">Ezequiel 2.1–10</a>; <a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">24.15–27</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "26001001",
+          "start_ref_usfm": "EZK 1:1",
+          "end_ref": "26001001",
+          "end_ref_usfm": "EZK 1:1"
+        },
+        {
+          "start_ref": "26004012",
+          "start_ref_usfm": "EZK 4:12",
+          "end_ref": "26004012",
+          "end_ref_usfm": "EZK 4:12"
+        },
+        {
+          "start_ref": "26024016",
+          "start_ref_usfm": "EZK 24:16",
+          "end_ref": "26024018",
+          "end_ref_usfm": "EZK 24:18"
+        },
+        {
+          "start_ref": "26024015",
+          "start_ref_usfm": "EZK 24:15",
+          "end_ref": "26024027",
+          "end_ref_usfm": "EZK 24:27"
+        },
+        {
+          "start_ref": "26002001",
+          "start_ref_usfm": "EZK 2:1",
+          "end_ref": "26002010",
+          "end_ref_usfm": "EZK 2:10"
+        },
+        {
+          "start_ref": "26004004",
+          "start_ref_usfm": "EZK 4:4",
+          "end_ref": "26004007",
+          "end_ref_usfm": "EZK 4:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
