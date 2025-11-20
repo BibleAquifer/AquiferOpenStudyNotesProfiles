@@ -1,0 +1,368 @@
+[
+  {
+    "content_id": 658490,
+    "reference_id": 203413,
+    "version": "1.0.1",
+    "title": "Faraó",
+    "media_type": "Text",
+    "index_reference": "faraó",
+    "language": "por",
+    "review_level": "None",
+    "content": "<p>&quot;Faraó&quot; é uma palavra egípcia que significa &quot;Grande casa&quot;. Refere-se ao palácio real e também é um título para o rei do Egito. Durante o tempo de José, o Faraó via os israelitas favoravelmente. José interpretou os sonhos do Faraó, o que levou à sua promoção como segundo no comando no Egito (<a href=\"https://ref.ly/Gen41:1-Gen41:44\">Gn 41.1–44</a>). O Faraó deu à família de José a melhor terra no Egito (<a href=\"https://ref.ly/Gen45:16-Gen45:20\">Gn 45.16–20</a>). Os israelitas cresceram em número e prosperaram lá.</p><p>Dois faraós são mencionados no livro do Êxodo, e nenhum deles valorizava o povo hebreu (veja <a href=\"https://ref.ly/Exod1:8-Exod1:10\">Êx 1.8–10</a>). O primeiro faraó governava quando Moisés nasceu. Ele temia os hebreus e ordenou a morte de todos os meninos hebreus. Moisés escapou da morte e foi criado pela filha do faraó no palácio. Este faraó morreu depois que Moisés fugiu do Egito (<a href=\"https://ref.ly/Exod2:23\">Êx 2.23</a>).</p><p>Um novo Faraó subiu ao poder, e Moisés e Arão mais tarde o confrontaram. Este Faraó estava determinado a manter os israelitas no Egito. Ele permaneceu teimoso mesmo quando viu o poder de Deus. A Bíblia descreve sua relutância em mudar (veja <a href=\"https://ref.ly/Exod8:32\">Êx 8.32</a>; <a href=\"https://ref.ly/Exod9:12\">9.12</a>,<a href=\"https://ref.ly/Exod9:34-Exod9:35\">34–35</a>; compare <a href=\"https://ref.ly/Rom1:18-Rom1:32\">Rm 1.18–32</a>).</p><p>Como rei, o Faraó representava o domínio dos deuses sobre o Egito, conferindo-lhe poder absoluto. As pragas foram ataques de Deus aos falsos deuses do Egito (veja <a href=\"https://ref.ly/Exod12:12\">Êx 12.12</a>). A praga final, a morte dos primogênitos, teve como alvo a casa do Faraó. Esta praga decisiva convenceu o Faraó a deixar Israel partir. No entanto, após a saída dos israelitas, o Faraó mudou de ideia e os perseguiu até o Mar Vermelho. O resgate de Deus dos israelitas indefesos e a destruição dos poderosos egípcios no Mar Vermelho é um dos resgates mais dramáticos do Antigo Testamento. O Senhor se revelou no Mar Vermelho como um guerreiro que lutou por seu povo (<a href=\"https://ref.ly/Exod15:3\">Êx 15.3</a>).</p><p>Os faraós em Êxodo não são nomeados, provavelmente seguindo a tradição egípcia. Se os israelitas saíram do Egito nos anos 1400 a.C., o faraó pode ter sido Tutmés III, que governou aproximadamente de 1504 a 1450 a.C. Se isso ocorreu nos anos 1200 a.C., com base em outra linha do tempo, o faraó pode ter sido Ramessés II, que governou aproximadamente de 1279 a 1213 a.C.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Exod1:8-Exod1:22\">Êxodo 1.8–22</a>; <a href=\"https://ref.ly/Exod2:14-Exod2:15\">2.14–15</a>, <a href=\"https://ref.ly/Exod2:23\">23</a>; <a href=\"https://ref.ly/Exod5:1-Exod15:21\">5.1–15.21</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02002023",
+          "start_ref_usfm": "EXO 2:23",
+          "end_ref": "02002023",
+          "end_ref_usfm": "EXO 2:23"
+        },
+        {
+          "start_ref": "02008032",
+          "start_ref_usfm": "EXO 8:32",
+          "end_ref": "02008032",
+          "end_ref_usfm": "EXO 8:32"
+        },
+        {
+          "start_ref": "02009012",
+          "start_ref_usfm": "EXO 9:12",
+          "end_ref": "02009012",
+          "end_ref_usfm": "EXO 9:12"
+        },
+        {
+          "start_ref": "02012012",
+          "start_ref_usfm": "EXO 12:12",
+          "end_ref": "02012012",
+          "end_ref_usfm": "EXO 12:12"
+        },
+        {
+          "start_ref": "02015003",
+          "start_ref_usfm": "EXO 15:3",
+          "end_ref": "02015003",
+          "end_ref_usfm": "EXO 15:3"
+        },
+        {
+          "start_ref": "45001018",
+          "start_ref_usfm": "ROM 1:18",
+          "end_ref": "45001032",
+          "end_ref_usfm": "ROM 1:32"
+        },
+        {
+          "start_ref": "02001008",
+          "start_ref_usfm": "EXO 1:8",
+          "end_ref": "02001010",
+          "end_ref_usfm": "EXO 1:10"
+        },
+        {
+          "start_ref": "02001008",
+          "start_ref_usfm": "EXO 1:8",
+          "end_ref": "02001022",
+          "end_ref_usfm": "EXO 1:22"
+        },
+        {
+          "start_ref": "01041001",
+          "start_ref_usfm": "GEN 41:1",
+          "end_ref": "01041044",
+          "end_ref_usfm": "GEN 41:44"
+        },
+        {
+          "start_ref": "01045016",
+          "start_ref_usfm": "GEN 45:16",
+          "end_ref": "01045020",
+          "end_ref_usfm": "GEN 45:20"
+        },
+        {
+          "start_ref": "02009034",
+          "start_ref_usfm": "EXO 9:34",
+          "end_ref": "02009035",
+          "end_ref_usfm": "EXO 9:35"
+        },
+        {
+          "start_ref": "02002014",
+          "start_ref_usfm": "EXO 2:14",
+          "end_ref": "02002015",
+          "end_ref_usfm": "EXO 2:15"
+        },
+        {
+          "start_ref": "02005001",
+          "start_ref_usfm": "EXO 5:1",
+          "end_ref": "02015021",
+          "end_ref_usfm": "EXO 15:21"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 658576,
+    "reference_id": 203499,
+    "version": "1.0.1",
+    "title": "Filipe",
+    "media_type": "Text",
+    "index_reference": "filipe",
+    "language": "por",
+    "review_level": "None",
+    "content": "<p>Filipe estava entre os primeiros a compartilhar as boas-novas sobre Jesus com pessoas fora da Judeia. Altamente respeitado pelos primeiros cristãos, ele foi um dos sete homens selecionados para gerenciar o programa de distribuição de alimentos para os crentes necessitados em Jerusalém (<a href=\"https://ref.ly/Acts6:1-Acts6:6\">At 6.1–6</a>). Filipe foi um evangelista poderoso e eficaz (pregador das boas-novas) através do poder do Espírito.</p><p>Após a morte de Estevão, os cristãos fugiram de Jerusalém (<a href=\"https://ref.ly/Acts8:1-Acts8:5\">At 8.1–5</a>). Filipe levou a mensagem de Cristo para Samaria, uma cidade com pessoas diversas. Lá, ele curou muitos e expulsou espíritos malignos, e as pessoas aceitaram ansiosamente sua mensagem (<a href=\"https://ref.ly/Acts8:5-Acts8:8\">At 8.5–8</a>). Muitos, incluindo um feiticeiro conhecido chamado Simão, foram batizados (<a href=\"https://ref.ly/Acts8:9-Acts8:13\">At 8.9–13</a>).</p><p>Um anjo então guiou Filipe a viajar para o sudoeste de Jerusalém em direção a Gaza (<a href=\"https://ref.ly/Acts8:26\">At 8.26</a>). Lá, o Espírito o levou a encontrar o tesoureiro da Etiópia, que estava voltando de Jerusalém para sua casa (<a href=\"https://ref.ly/Acts8:27-Acts8:28\">At 8.27–28</a>). O etíope pediu a Filipe para explicar <a href=\"https://ref.ly/Isa53:1-Isa53:12\">Isaías 53</a>. Filipe compartilhou a mensagem sobre Jesus (<a href=\"https://ref.ly/Acts8:30-Acts8:35\">At 8.30–35</a>) e batizou o homem à beira da estrada (<a href=\"https://ref.ly/Acts8:36-Acts8:38\">8.36–38</a>). O Espírito de Deus então subitamente levou Filipe para Azoto (<a href=\"https://ref.ly/Acts8:39-Acts8:40\">At 8.39–40</a>). Ele pregou a mensagem lá e viajou por cidades costeiras até chegar a Cesareia, uma grande cidade romana, onde provavelmente se estabeleceu (<a href=\"https://ref.ly/Acts8:40\">At 8.40</a>; <a href=\"https://ref.ly/Acts21:8-Acts21:9\">21.8–9</a>).</p><p>Muitos anos depois, Paulo passou a noite na casa de Filipe em Cesareia (<a href=\"https://ref.ly/Acts21:8\">At 21.8</a>). Naquela época, as pessoas conheciam Filipe como Filipe, o Evangelista. Ele tinha quatro filhas solteiras, e todas possuíam o dom da profecia (<a href=\"https://ref.ly/Acts21:9\">At 21.9</a>).</p><p>Filipe representa os primeiros evangelistas cristãos. O Espírito Santo os capacitou e guiou para confirmar sua mensagem (veja também <a href=\"https://ref.ly/Acts1:8\">At 1.8</a>; <a href=\"https://ref.ly/Acts3:4-Acts3:8\">3.4–8</a>; <a href=\"https://ref.ly/Acts5:12-Acts5:16\">5.12–16</a>; <a href=\"https://ref.ly/Acts6:8\">6.8</a>; <a href=\"https://ref.ly/Acts10:9-Acts10:20\">10.9–20</a>; <a href=\"https://ref.ly/Acts13:2\">13.2</a>; <a href=\"https://ref.ly/Acts16:6-Acts16:10\">16.6–10</a>; <a href=\"https://ref.ly/Acts19:11-Acts19:12\">19.11–12</a>; <a href=\"https://ref.ly/Acts20:22-Acts20:23\">20.22–23</a>). Filipe seguiu o poder e a orientação do Espírito, e Deus o usou para espalhar as boas-novas além da Judeia.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Acts6:5\">Atos 6.5</a>; <a href=\"https://ref.ly/Acts8:4-Acts8:13\">8.4–13</a>,<a href=\"https://ref.ly/Acts8:26-Acts8:40\">26–40</a>; <a href=\"https://ref.ly/Acts21:8-Acts21:9\">21.8–9</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44001008",
+          "start_ref_usfm": "ACT 1:8",
+          "end_ref": "44001008",
+          "end_ref_usfm": "ACT 1:8"
+        },
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006005",
+          "end_ref_usfm": "ACT 6:5"
+        },
+        {
+          "start_ref": "44006008",
+          "start_ref_usfm": "ACT 6:8",
+          "end_ref": "44006008",
+          "end_ref_usfm": "ACT 6:8"
+        },
+        {
+          "start_ref": "44008026",
+          "start_ref_usfm": "ACT 8:26",
+          "end_ref": "44008026",
+          "end_ref_usfm": "ACT 8:26"
+        },
+        {
+          "start_ref": "44008040",
+          "start_ref_usfm": "ACT 8:40",
+          "end_ref": "44008040",
+          "end_ref_usfm": "ACT 8:40"
+        },
+        {
+          "start_ref": "44013002",
+          "start_ref_usfm": "ACT 13:2",
+          "end_ref": "44013002",
+          "end_ref_usfm": "ACT 13:2"
+        },
+        {
+          "start_ref": "44021008",
+          "start_ref_usfm": "ACT 21:8",
+          "end_ref": "44021008",
+          "end_ref_usfm": "ACT 21:8"
+        },
+        {
+          "start_ref": "44021009",
+          "start_ref_usfm": "ACT 21:9",
+          "end_ref": "44021009",
+          "end_ref_usfm": "ACT 21:9"
+        },
+        {
+          "start_ref": "44008026",
+          "start_ref_usfm": "ACT 8:26",
+          "end_ref": "44008040",
+          "end_ref_usfm": "ACT 8:40"
+        },
+        {
+          "start_ref": "44006001",
+          "start_ref_usfm": "ACT 6:1",
+          "end_ref": "44006006",
+          "end_ref_usfm": "ACT 6:6"
+        },
+        {
+          "start_ref": "23053001",
+          "start_ref_usfm": "ISA 53:1",
+          "end_ref": "23053012",
+          "end_ref_usfm": "ISA 53:12"
+        },
+        {
+          "start_ref": "44008004",
+          "start_ref_usfm": "ACT 8:4",
+          "end_ref": "44008013",
+          "end_ref_usfm": "ACT 8:13"
+        },
+        {
+          "start_ref": "44021008",
+          "start_ref_usfm": "ACT 21:8",
+          "end_ref": "44021009",
+          "end_ref_usfm": "ACT 21:9"
+        },
+        {
+          "start_ref": "44016006",
+          "start_ref_usfm": "ACT 16:6",
+          "end_ref": "44016010",
+          "end_ref_usfm": "ACT 16:10"
+        },
+        {
+          "start_ref": "44019011",
+          "start_ref_usfm": "ACT 19:11",
+          "end_ref": "44019012",
+          "end_ref_usfm": "ACT 19:12"
+        },
+        {
+          "start_ref": "44005012",
+          "start_ref_usfm": "ACT 5:12",
+          "end_ref": "44005016",
+          "end_ref_usfm": "ACT 5:16"
+        },
+        {
+          "start_ref": "44008039",
+          "start_ref_usfm": "ACT 8:39",
+          "end_ref": "44008040",
+          "end_ref_usfm": "ACT 8:40"
+        },
+        {
+          "start_ref": "44008036",
+          "start_ref_usfm": "ACT 8:36",
+          "end_ref": "44008038",
+          "end_ref_usfm": "ACT 8:38"
+        },
+        {
+          "start_ref": "44008027",
+          "start_ref_usfm": "ACT 8:27",
+          "end_ref": "44008028",
+          "end_ref_usfm": "ACT 8:28"
+        },
+        {
+          "start_ref": "44020022",
+          "start_ref_usfm": "ACT 20:22",
+          "end_ref": "44020023",
+          "end_ref_usfm": "ACT 20:23"
+        },
+        {
+          "start_ref": "44008001",
+          "start_ref_usfm": "ACT 8:1",
+          "end_ref": "44008005",
+          "end_ref_usfm": "ACT 8:5"
+        },
+        {
+          "start_ref": "44008005",
+          "start_ref_usfm": "ACT 8:5",
+          "end_ref": "44008008",
+          "end_ref_usfm": "ACT 8:8"
+        },
+        {
+          "start_ref": "44008009",
+          "start_ref_usfm": "ACT 8:9",
+          "end_ref": "44008013",
+          "end_ref_usfm": "ACT 8:13"
+        },
+        {
+          "start_ref": "44008030",
+          "start_ref_usfm": "ACT 8:30",
+          "end_ref": "44008035",
+          "end_ref_usfm": "ACT 8:35"
+        },
+        {
+          "start_ref": "44003004",
+          "start_ref_usfm": "ACT 3:4",
+          "end_ref": "44003008",
+          "end_ref_usfm": "ACT 3:8"
+        },
+        {
+          "start_ref": "44010009",
+          "start_ref_usfm": "ACT 10:9",
+          "end_ref": "44010020",
+          "end_ref_usfm": "ACT 10:20"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 658590,
+    "reference_id": 203513,
+    "version": "1.0.1",
+    "title": "Filipos",
+    "media_type": "Text",
+    "index_reference": "filipos",
+    "language": "por",
+    "review_level": "None",
+    "content": "<p>Filipos era uma pequena vila na Trácia até por volta de 357 a.C. Filipe II da Macedônia, pai de Alexandre, o Grande, a conquistou e reconstruiu. Ele nomeou a vila em sua homenagem, fortificou-a como uma base militar e utilizou as minas de ouro próximas. Filipos tornou-se famosa mundialmente em 42 a.C., quando os exércitos imperiais de Otaviano e Marco Antônio derrotaram Bruto e Cássio, os assassinos de Júlio César. Esta vitória abriu caminho para o Império Romano sob Otaviano Augusto.</p><p>Muitos veteranos da guerra de 42 a.C. e de outras batalhas se estabeleceram em Filipos. Quando Paulo visitou a cidade, ela ainda exibia sua herança militar romana. Localizada na Via Egnácia, era uma parada importante na principal estrada militar que conectava o Mar Adriático ao Mar Egeu. A cidade tinha um forte orgulho cívico como colônia romana, desfrutando de muitos privilégios, como isenção de impostos, e promovia o latim como sua língua oficial. Seu governo era baseado na constituição municipal de Roma, e o povo se considerava romano (veja <a href=\"https://ref.ly/Acts16:21\">At 16.21</a>).</p><p>Paulo visitou a cidade em sua segunda viagem missionária, e o livro de Atos descreve essa visita em detalhes (<a href=\"https://ref.ly/Acts16:12-Acts16:40\">At 16.12–40</a>). A história frequentemente destaca o passado romano da cidade. Paulo usa sua cidadania romana para se defender com sucesso (<a href=\"https://ref.ly/Acts16:37-Acts16:39\">At 16.37–39</a>). Os líderes da cidade possuem o título latino <em>pretor</em>, traduzido como <em>stratēgos</em> em grego (<a href=\"https://ref.ly/Acts16:20-Acts16:22\">At 16.20–22</a>,<a href=\"https://ref.ly/Acts16:38\">38</a>). Parece ter havido uma pequena comunidade judaica lá.</p><p>A igreja começou com mulheres judias que acreditavam e se reuniam fora da cidade porque não havia sinagoga. Mais tarde, elas se reuniram na casa de uma conhecida mulher convertida chamada Lídia (<a href=\"https://ref.ly/Acts16:14-Acts16:15\">At 16.14–15</a>,<a href=\"https://ref.ly/Acts16:40\">40</a>). Lucas provavelmente ficou em Filipos quando Paulo partiu para Tessalônica (<a href=\"https://ref.ly/Acts16:12\">At 16.12</a>,<a href=\"https://ref.ly/Acts16:40\">40</a>) e se reuniu novamente com Paulo em Filipos durante a terceira viagem missionária de Paulo vários anos depois (<a href=\"https://ref.ly/Acts20:6\">At 20.6</a>). Paulo escreveu uma carta amigável à igreja em Filipos durante uma de suas prisões.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Acts16:12-Acts16:40\">Atos 16.12–40</a>; <a href=\"https://ref.ly/Acts20:6\">20.6</a>; <a href=\"https://ref.ly/Phil1:1\">Filipenses 1.1</a>; <a href=\"https://ref.ly/Phil2:19-Phil2:30\">2.19–30</a>; <a href=\"https://ref.ly/Phil4:2-Phil4:3\">4.2–3</a>,<a href=\"https://ref.ly/Phil4:10-Phil4:22\">10–22</a>; <a href=\"https://ref.ly/1Thess2:2\">1 Tessalonicenses 2.2</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44016012",
+          "start_ref_usfm": "ACT 16:12",
+          "end_ref": "44016012",
+          "end_ref_usfm": "ACT 16:12"
+        },
+        {
+          "start_ref": "44016021",
+          "start_ref_usfm": "ACT 16:21",
+          "end_ref": "44016021",
+          "end_ref_usfm": "ACT 16:21"
+        },
+        {
+          "start_ref": "44016038",
+          "start_ref_usfm": "ACT 16:38",
+          "end_ref": "44016038",
+          "end_ref_usfm": "ACT 16:38"
+        },
+        {
+          "start_ref": "44016040",
+          "start_ref_usfm": "ACT 16:40",
+          "end_ref": "44016040",
+          "end_ref_usfm": "ACT 16:40"
+        },
+        {
+          "start_ref": "44020006",
+          "start_ref_usfm": "ACT 20:6",
+          "end_ref": "44020006",
+          "end_ref_usfm": "ACT 20:6"
+        },
+        {
+          "start_ref": "50001001",
+          "start_ref_usfm": "PHP 1:1",
+          "end_ref": "50001001",
+          "end_ref_usfm": "PHP 1:1"
+        },
+        {
+          "start_ref": "52002002",
+          "start_ref_usfm": "1TH 2:2",
+          "end_ref": "52002002",
+          "end_ref_usfm": "1TH 2:2"
+        },
+        {
+          "start_ref": "44016037",
+          "start_ref_usfm": "ACT 16:37",
+          "end_ref": "44016039",
+          "end_ref_usfm": "ACT 16:39"
+        },
+        {
+          "start_ref": "50002019",
+          "start_ref_usfm": "PHP 2:19",
+          "end_ref": "50002030",
+          "end_ref_usfm": "PHP 2:30"
+        },
+        {
+          "start_ref": "44016020",
+          "start_ref_usfm": "ACT 16:20",
+          "end_ref": "44016022",
+          "end_ref_usfm": "ACT 16:22"
+        },
+        {
+          "start_ref": "44016014",
+          "start_ref_usfm": "ACT 16:14",
+          "end_ref": "44016015",
+          "end_ref_usfm": "ACT 16:15"
+        },
+        {
+          "start_ref": "44016012",
+          "start_ref_usfm": "ACT 16:12",
+          "end_ref": "44016040",
+          "end_ref_usfm": "ACT 16:40"
+        },
+        {
+          "start_ref": "50004002",
+          "start_ref_usfm": "PHP 4:2",
+          "end_ref": "50004003",
+          "end_ref_usfm": "PHP 4:3"
+        },
+        {
+          "start_ref": "50004010",
+          "start_ref_usfm": "PHP 4:10",
+          "end_ref": "50004022",
+          "end_ref_usfm": "PHP 4:22"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

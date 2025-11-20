@@ -4,7 +4,7 @@
     "resource_type": "Study Notes",
     "title": "Aquifer Open Study Notes (Profiles)",
     "aquifer_name": "Study Notes - Profiles (Tyndale)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "collection_title": "Study Notes - Profiles (Tyndale)",
     "short_name": "TSNP",
     "license_info": {
@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesProfiles",
-    "date_created": "2025-11-06",
+    "date_created": "2025-11-17",
     "language": "arb",
     "localizations": [
       "eng",
@@ -49,7 +49,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-06T13:14:25.288048"
+      "dateCreated": "2025-11-17T09:32:07.076507"
     },
     "idAuthorities": {
       "aquifer": {
@@ -63,7 +63,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesProfiles": {
-            "timestamp": "2025-11-06T13:14:25.288048"
+            "timestamp": "2025-11-17T09:32:07.076507"
           }
         }
       },
@@ -93,997 +93,589 @@
       }
     },
     "ingredients": {
-      "json/000001.content.json": {
-        "mimeType": "text/json",
-        "size": 8768
-      },
-      "json/000002.content.json": {
-        "mimeType": "text/json",
-        "size": 22044
-      },
-      "json/000003.content.json": {
-        "mimeType": "text/json",
-        "size": 9015
-      },
-      "json/000004.content.json": {
-        "mimeType": "text/json",
-        "size": 8516
-      },
-      "json/000005.content.json": {
-        "mimeType": "text/json",
-        "size": 7045
-      },
-      "json/000006.content.json": {
-        "mimeType": "text/json",
-        "size": 8409
-      },
-      "json/000007.content.json": {
-        "mimeType": "text/json",
-        "size": 7087
-      },
-      "json/000008.content.json": {
-        "mimeType": "text/json",
-        "size": 7597
-      },
-      "json/000009.content.json": {
-        "mimeType": "text/json",
-        "size": 5637
-      },
-      "json/000010.content.json": {
-        "mimeType": "text/json",
-        "size": 4385
-      },
-      "json/000011.content.json": {
-        "mimeType": "text/json",
-        "size": 7247
-      },
-      "json/000012.content.json": {
-        "mimeType": "text/json",
-        "size": 14773
-      },
-      "json/000013.content.json": {
-        "mimeType": "text/json",
-        "size": 8854
-      },
-      "json/000014.content.json": {
-        "mimeType": "text/json",
-        "size": 5319
-      },
-      "json/000015.content.json": {
-        "mimeType": "text/json",
-        "size": 3754
-      },
-      "json/000016.content.json": {
-        "mimeType": "text/json",
-        "size": 13885
-      },
-      "json/000017.content.json": {
-        "mimeType": "text/json",
-        "size": 8908
-      },
-      "json/000018.content.json": {
-        "mimeType": "text/json",
-        "size": 10306
-      },
-      "json/000019.content.json": {
-        "mimeType": "text/json",
-        "size": 8287
-      },
-      "json/000020.content.json": {
-        "mimeType": "text/json",
-        "size": 8321
-      },
-      "json/000021.content.json": {
-        "mimeType": "text/json",
-        "size": 6690
-      },
-      "json/000022.content.json": {
-        "mimeType": "text/json",
-        "size": 13928
-      },
-      "json/000023.content.json": {
-        "mimeType": "text/json",
-        "size": 6205
-      },
-      "json/000024.content.json": {
-        "mimeType": "text/json",
-        "size": 4463
-      },
-      "json/000025.content.json": {
-        "mimeType": "text/json",
-        "size": 16268
-      },
-      "json/000026.content.json": {
-        "mimeType": "text/json",
-        "size": 7134
-      },
-      "json/000027.content.json": {
-        "mimeType": "text/json",
-        "size": 7644
-      },
-      "json/000028.content.json": {
-        "mimeType": "text/json",
-        "size": 5936
-      },
-      "json/000029.content.json": {
-        "mimeType": "text/json",
-        "size": 16898
-      },
-      "json/000030.content.json": {
-        "mimeType": "text/json",
-        "size": 11228
-      },
-      "json/000031.content.json": {
-        "mimeType": "text/json",
-        "size": 9191
-      },
-      "json/000032.content.json": {
-        "mimeType": "text/json",
-        "size": 6432
-      },
-      "json/000033.content.json": {
-        "mimeType": "text/json",
-        "size": 11018
-      },
-      "json/000034.content.json": {
-        "mimeType": "text/json",
-        "size": 5986
-      },
-      "json/000035.content.json": {
-        "mimeType": "text/json",
-        "size": 9817
-      },
-      "json/000036.content.json": {
-        "mimeType": "text/json",
-        "size": 7440
-      },
-      "json/000037.content.json": {
-        "mimeType": "text/json",
-        "size": 8906
-      },
-      "json/000038.content.json": {
-        "mimeType": "text/json",
-        "size": 8872
-      },
-      "json/000039.content.json": {
-        "mimeType": "text/json",
-        "size": 5692
-      },
-      "json/000040.content.json": {
-        "mimeType": "text/json",
-        "size": 6376
-      },
-      "json/000041.content.json": {
-        "mimeType": "text/json",
-        "size": 13286
-      },
-      "json/000042.content.json": {
-        "mimeType": "text/json",
-        "size": 10649
-      },
-      "json/000043.content.json": {
-        "mimeType": "text/json",
-        "size": 8750
-      },
-      "json/000044.content.json": {
-        "mimeType": "text/json",
-        "size": 8536
-      },
-      "json/000045.content.json": {
-        "mimeType": "text/json",
-        "size": 7590
-      },
-      "json/000046.content.json": {
-        "mimeType": "text/json",
-        "size": 5498
-      },
-      "json/000047.content.json": {
-        "mimeType": "text/json",
-        "size": 8801
-      },
-      "json/000048.content.json": {
-        "mimeType": "text/json",
-        "size": 18343
-      },
-      "json/000049.content.json": {
-        "mimeType": "text/json",
-        "size": 12647
-      },
-      "json/000050.content.json": {
-        "mimeType": "text/json",
-        "size": 6367
-      },
-      "json/000051.content.json": {
-        "mimeType": "text/json",
-        "size": 9079
-      },
-      "json/000052.content.json": {
-        "mimeType": "text/json",
-        "size": 12643
-      },
-      "json/000053.content.json": {
-        "mimeType": "text/json",
-        "size": 5860
-      },
-      "json/000054.content.json": {
-        "mimeType": "text/json",
-        "size": 5658
-      },
-      "json/000055.content.json": {
-        "mimeType": "text/json",
-        "size": 4633
-      },
-      "json/000056.content.json": {
-        "mimeType": "text/json",
-        "size": 5679
-      },
-      "json/000057.content.json": {
-        "mimeType": "text/json",
-        "size": 9275
-      },
-      "json/000058.content.json": {
-        "mimeType": "text/json",
-        "size": 20753
-      },
-      "json/000059.content.json": {
-        "mimeType": "text/json",
-        "size": 3495
-      },
-      "json/000060.content.json": {
-        "mimeType": "text/json",
-        "size": 5429
-      },
-      "json/000061.content.json": {
-        "mimeType": "text/json",
-        "size": 6554
-      },
-      "json/000062.content.json": {
-        "mimeType": "text/json",
-        "size": 5887
-      },
-      "json/000063.content.json": {
-        "mimeType": "text/json",
-        "size": 6453
-      },
-      "json/000064.content.json": {
-        "mimeType": "text/json",
-        "size": 8527
-      },
-      "json/000065.content.json": {
-        "mimeType": "text/json",
-        "size": 11977
-      },
-      "json/000066.content.json": {
-        "mimeType": "text/json",
-        "size": 4157
-      },
-      "json/000067.content.json": {
-        "mimeType": "text/json",
-        "size": 10005
-      },
-      "json/000068.content.json": {
-        "mimeType": "text/json",
-        "size": 8438
-      },
-      "json/000069.content.json": {
-        "mimeType": "text/json",
-        "size": 34240
-      },
-      "json/000070.content.json": {
-        "mimeType": "text/json",
-        "size": 5379
-      },
-      "json/000071.content.json": {
-        "mimeType": "text/json",
-        "size": 6416
-      },
-      "json/000072.content.json": {
-        "mimeType": "text/json",
-        "size": 9142
-      },
-      "json/000073.content.json": {
-        "mimeType": "text/json",
-        "size": 11599
-      },
-      "json/000074.content.json": {
-        "mimeType": "text/json",
-        "size": 6391
-      },
-      "json/000075.content.json": {
-        "mimeType": "text/json",
-        "size": 9026
-      },
-      "json/000076.content.json": {
-        "mimeType": "text/json",
-        "size": 5911
-      },
-      "json/000077.content.json": {
-        "mimeType": "text/json",
-        "size": 10415
-      },
-      "json/000078.content.json": {
-        "mimeType": "text/json",
-        "size": 6720
-      },
-      "json/000079.content.json": {
-        "mimeType": "text/json",
-        "size": 9306
-      },
-      "json/000080.content.json": {
-        "mimeType": "text/json",
-        "size": 7087
-      },
-      "json/000081.content.json": {
-        "mimeType": "text/json",
-        "size": 9035
-      },
-      "json/000082.content.json": {
-        "mimeType": "text/json",
-        "size": 6766
-      },
-      "json/000083.content.json": {
-        "mimeType": "text/json",
-        "size": 5778
-      },
-      "json/000084.content.json": {
-        "mimeType": "text/json",
-        "size": 8558
-      },
-      "json/000085.content.json": {
-        "mimeType": "text/json",
-        "size": 7817
-      },
-      "json/000086.content.json": {
-        "mimeType": "text/json",
-        "size": 6282
-      },
-      "json/000087.content.json": {
-        "mimeType": "text/json",
-        "size": 7601
-      },
-      "json/000088.content.json": {
-        "mimeType": "text/json",
-        "size": 5907
-      },
-      "json/000089.content.json": {
-        "mimeType": "text/json",
-        "size": 5648
-      },
-      "json/000090.content.json": {
-        "mimeType": "text/json",
-        "size": 10087
-      },
-      "json/000091.content.json": {
-        "mimeType": "text/json",
-        "size": 8677
-      },
-      "json/000092.content.json": {
-        "mimeType": "text/json",
-        "size": 7794
-      },
-      "json/000093.content.json": {
-        "mimeType": "text/json",
-        "size": 9875
-      },
-      "json/000094.content.json": {
-        "mimeType": "text/json",
-        "size": 8069
-      },
-      "json/000095.content.json": {
-        "mimeType": "text/json",
-        "size": 21663
-      },
-      "json/000096.content.json": {
-        "mimeType": "text/json",
-        "size": 4847
-      },
-      "json/000097.content.json": {
-        "mimeType": "text/json",
-        "size": 10943
-      },
-      "json/000098.content.json": {
-        "mimeType": "text/json",
-        "size": 6655
-      },
-      "json/000099.content.json": {
-        "mimeType": "text/json",
-        "size": 7078
-      },
-      "json/000100.content.json": {
-        "mimeType": "text/json",
-        "size": 6322
-      },
-      "json/000101.content.json": {
-        "mimeType": "text/json",
-        "size": 3219
-      },
-      "json/000102.content.json": {
-        "mimeType": "text/json",
-        "size": 5450
-      },
-      "json/000103.content.json": {
-        "mimeType": "text/json",
-        "size": 8714
-      },
-      "json/000104.content.json": {
-        "mimeType": "text/json",
-        "size": 3820
-      },
-      "json/000105.content.json": {
-        "mimeType": "text/json",
-        "size": 3519
-      },
-      "json/000106.content.json": {
-        "mimeType": "text/json",
-        "size": 3756
-      },
-      "json/000107.content.json": {
-        "mimeType": "text/json",
-        "size": 8318
-      },
-      "json/000108.content.json": {
-        "mimeType": "text/json",
-        "size": 6015
-      },
-      "json/000109.content.json": {
-        "mimeType": "text/json",
-        "size": 8061
-      },
-      "json/000110.content.json": {
-        "mimeType": "text/json",
-        "size": 5599
-      },
-      "json/000111.content.json": {
-        "mimeType": "text/json",
-        "size": 13650
-      },
-      "json/000112.content.json": {
-        "mimeType": "text/json",
-        "size": 24484
-      },
-      "json/000113.content.json": {
-        "mimeType": "text/json",
-        "size": 13155
-      },
-      "json/000114.content.json": {
-        "mimeType": "text/json",
-        "size": 8175
-      },
-      "json/000115.content.json": {
-        "mimeType": "text/json",
-        "size": 8340
-      },
-      "json/000116.content.json": {
-        "mimeType": "text/json",
-        "size": 10768
-      },
-      "json/000117.content.json": {
-        "mimeType": "text/json",
-        "size": 7173
-      },
-      "json/000118.content.json": {
-        "mimeType": "text/json",
-        "size": 14854
-      },
-      "json/000119.content.json": {
-        "mimeType": "text/json",
-        "size": 6228
-      },
-      "json/000120.content.json": {
-        "mimeType": "text/json",
-        "size": 19707
-      },
-      "json/000121.content.json": {
-        "mimeType": "text/json",
-        "size": 15979
-      },
-      "json/000122.content.json": {
-        "mimeType": "text/json",
-        "size": 9311
-      },
-      "json/000123.content.json": {
-        "mimeType": "text/json",
-        "size": 8928
-      },
-      "json/000124.content.json": {
-        "mimeType": "text/json",
-        "size": 6008
-      },
-      "md/000001.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5209
-      },
-      "md/000002.content.md": {
-        "mimeType": "text/markdown",
-        "size": 11879
-      },
-      "md/000003.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5966
-      },
-      "md/000004.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4993
-      },
-      "md/000005.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5329
-      },
-      "md/000006.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4441
-      },
-      "md/000007.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4633
-      },
-      "md/000008.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4704
-      },
-      "md/000009.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4130
-      },
-      "md/000010.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4215
-      },
-      "md/000011.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5204
-      },
-      "md/000012.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7006
-      },
-      "md/000013.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5372
-      },
-      "md/000014.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4149
-      },
-      "md/000015.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3087
-      },
-      "md/000016.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6779
-      },
-      "md/000017.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4877
-      },
-      "md/000018.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5058
-      },
-      "md/000019.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7199
-      },
-      "md/000020.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6203
-      },
-      "md/000021.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5488
-      },
-      "md/000022.content.md": {
-        "mimeType": "text/markdown",
-        "size": 8013
-      },
-      "md/000023.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4222
-      },
-      "md/000024.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4162
-      },
-      "md/000025.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7160
-      },
-      "md/000026.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4994
-      },
-      "md/000027.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4636
-      },
-      "md/000028.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3624
-      },
-      "md/000029.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7909
-      },
-      "md/000030.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6049
-      },
-      "md/000031.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4329
-      },
-      "md/000032.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4085
-      },
-      "md/000033.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5832
-      },
-      "md/000034.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6266
-      },
-      "md/000035.content.md": {
-        "mimeType": "text/markdown",
-        "size": 8704
-      },
-      "md/000036.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7059
-      },
-      "md/000037.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5730
-      },
-      "md/000038.content.md": {
-        "mimeType": "text/markdown",
-        "size": 8837
-      },
-      "md/000039.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5848
-      },
-      "md/000040.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4397
-      },
-      "md/000041.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7002
-      },
-      "md/000042.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7854
-      },
-      "md/000043.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6260
-      },
-      "md/000044.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5824
-      },
-      "md/000045.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5046
-      },
-      "md/000046.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4749
-      },
-      "md/000047.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5721
-      },
-      "md/000048.content.md": {
-        "mimeType": "text/markdown",
-        "size": 11820
-      },
-      "md/000049.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7543
-      },
-      "md/000050.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4558
-      },
-      "md/000051.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5771
-      },
-      "md/000052.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6831
-      },
-      "md/000053.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4950
-      },
-      "md/000054.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4411
-      },
-      "md/000055.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4002
-      },
-      "md/000056.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3949
-      },
-      "md/000057.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6206
-      },
-      "md/000058.content.md": {
-        "mimeType": "text/markdown",
-        "size": 11725
-      },
-      "md/000059.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2988
-      },
-      "md/000060.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4185
-      },
-      "md/000061.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4039
-      },
-      "md/000062.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4725
-      },
-      "md/000063.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4658
-      },
-      "md/000064.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5025
-      },
-      "md/000065.content.md": {
-        "mimeType": "text/markdown",
-        "size": 9674
-      },
-      "md/000066.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3219
-      },
-      "md/000067.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5617
-      },
-      "md/000068.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5530
-      },
-      "md/000069.content.md": {
-        "mimeType": "text/markdown",
-        "size": 14892
-      },
-      "md/000070.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4289
-      },
-      "md/000071.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5093
-      },
-      "md/000072.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5483
-      },
-      "md/000073.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6604
-      },
-      "md/000074.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4519
-      },
-      "md/000075.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5158
-      },
-      "md/000076.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3947
-      },
-      "md/000077.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5804
-      },
-      "md/000078.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4898
-      },
-      "md/000079.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5247
-      },
-      "md/000080.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5050
-      },
-      "md/000081.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5484
-      },
-      "md/000082.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5281
-      },
-      "md/000083.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3773
-      },
-      "md/000084.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6714
-      },
-      "md/000085.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5158
-      },
-      "md/000086.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4896
-      },
-      "md/000087.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4307
-      },
-      "md/000088.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4177
-      },
-      "md/000089.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4134
-      },
-      "md/000090.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5874
-      },
-      "md/000091.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5689
-      },
-      "md/000092.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5214
-      },
-      "md/000093.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6375
-      },
-      "md/000094.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4718
-      },
-      "md/000095.content.md": {
-        "mimeType": "text/markdown",
-        "size": 11991
-      },
-      "md/000096.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3845
-      },
-      "md/000097.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5972
-      },
-      "md/000098.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4700
-      },
-      "md/000099.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4037
-      },
-      "md/000100.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4779
-      },
-      "md/000101.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2604
-      },
-      "md/000102.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3978
-      },
-      "md/000103.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5397
-      },
-      "md/000104.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3692
-      },
-      "md/000105.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3640
-      },
-      "md/000106.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3557
-      },
-      "md/000107.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5487
-      },
-      "md/000108.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3924
-      },
-      "md/000109.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5563
-      },
-      "md/000110.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4405
-      },
-      "md/000111.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7945
-      },
-      "md/000112.content.md": {
-        "mimeType": "text/markdown",
-        "size": 12576
-      },
-      "md/000113.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6094
-      },
-      "md/000114.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5219
-      },
-      "md/000115.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4347
-      },
-      "md/000116.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5705
-      },
-      "md/000117.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4546
-      },
-      "md/000118.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6998
-      },
-      "md/000119.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4563
-      },
-      "md/000120.content.md": {
-        "mimeType": "text/markdown",
-        "size": 9266
-      },
-      "md/000121.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7533
-      },
-      "md/000122.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6313
-      },
-      "md/000123.content.md": {
-        "mimeType": "text/markdown",
-        "size": 5775
-      },
-      "md/000124.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4328
+      "json/001.content.json": {
+        "mimeType": "text/json",
+        "size": 241384,
+        "scope": {
+          "ا": [
+            "آحَاز",
+            "آدَم، وحَوَّاء",
+            "آسا",
+            "إبراهيم",
+            "أبْشَالُوم",
+            "أَبْشَاي",
+            "أَبُلُّوس",
+            "ابن الإنسان",
+            "أَبْنَيْر",
+            "أَبِيَاثَار",
+            "أحَشْوِيرُوش الأول",
+            "أَخْآب",
+            "إرميا",
+            "أَسْتِير",
+            "إسحاق",
+            "إسماعيل",
+            "إِشَعْيَاء",
+            "أشّور",
+            "أَفَسُس",
+            "الآراميون",
+            "الأباطرة الرومان",
+            "أَلِعَازَار",
+            "أَلِيشَع",
+            "أنطيوخوس الرابع",
+            "إِيزَابَل",
+            "إِيلِيَّا التِّشْبِي",
+            "ٱستفانوس"
+          ]
+        }
+      },
+      "json/002.content.json": {
+        "mimeType": "text/json",
+        "size": 22282,
+        "scope": {
+          "ح": [
+            "الحِثِّيِّين",
+            "حزقيّا",
+            "حزقيال",
+            "حَنَّان وَقَيَافَا"
+          ]
+        }
+      },
+      "json/003.content.json": {
+        "mimeType": "text/json",
+        "size": 57253,
+        "scope": {
+          "س": [
+            "السامريون",
+            "سارة",
+            "سُلَيْمَان",
+            "سمعان بطرس"
+          ]
+        }
+      },
+      "json/004.content.json": {
+        "mimeType": "text/json",
+        "size": 28144,
+        "scope": {
+          "ش": [
+            "الشّيطان",
+            "شاول",
+            "شمشون"
+          ]
+        }
+      },
+      "json/005.content.json": {
+        "mimeType": "text/json",
+        "size": 27956,
+        "scope": {
+          "ص": [
+            "الصدوقيون",
+            "صادوق",
+            "صموئيل"
+          ]
+        }
+      },
+      "json/006.content.json": {
+        "mimeType": "text/json",
+        "size": 37812,
+        "scope": {
+          "ع": [
+            "العَمَالِيق",
+            "عالي",
+            "عَزْرَا",
+            "عُزِّيَّا",
+            "عِيسُو"
+          ]
+        }
+      },
+      "json/007.content.json": {
+        "mimeType": "text/json",
+        "size": 51372,
+        "scope": {
+          "ف": [
+            "الفَرِّيسِيُّون",
+            "الفلسطينيون",
+            "فرعون",
+            "فِيلُبُّس",
+            "فيلبّي"
+          ]
+        }
+      },
+      "json/008.content.json": {
+        "mimeType": "text/json",
+        "size": 9220,
+        "scope": {
+          "ق": [
+            "القادة اليهود"
+          ]
+        }
+      },
+      "json/009.content.json": {
+        "mimeType": "text/json",
+        "size": 123627,
+        "scope": {
+          "م": [
+            "المجلس الأعلى لليهود (السنهدرين)",
+            "المَرْيَمات",
+            "المكابيّون",
+            "الممالك الهيلينية",
+            "الميديون والفُرس",
+            "متى (لاوي)",
+            "مرثا, مريم, و لعازر",
+            "مريم، أم يسوع",
+            "مِصْر",
+            "ملكي صادق",
+            "منسّى",
+            "مُوآب وعَمُّون",
+            "موسى",
+            "مِيكَال"
+          ]
+        }
+      },
+      "json/010.content.json": {
+        "mimeType": "text/json",
+        "size": 8901,
+        "scope": {
+          "ي": [
+            "اليونانيون"
+          ]
+        }
+      },
+      "json/011.content.json": {
+        "mimeType": "text/json",
+        "size": 81025,
+        "scope": {
+          "ب": [
+            "بابل",
+            "باروخ",
+            "بَثْشَبَع",
+            "برنابا",
+            "بِرِيسْكِلَّا، وأَكِيلَا",
+            "بَلْعَام بْنُ بَعُور",
+            "بولس (شاول)",
+            "بِيلَاطُس البُنطي"
+          ]
+        }
+      },
+      "json/012.content.json": {
+        "mimeType": "text/json",
+        "size": 28170,
+        "scope": {
+          "ت": [
+            "تُومَا",
+            "تيطس",
+            "تيموثاوس"
+          ]
+        }
+      },
+      "json/013.content.json": {
+        "mimeType": "text/json",
+        "size": 5889,
+        "scope": {
+          "ج": [
+            "جِدْعُون"
+          ]
+        }
+      },
+      "json/014.content.json": {
+        "mimeType": "text/json",
+        "size": 33604,
+        "scope": {
+          "د": [
+            "دانيآل",
+            "داود",
+            "دَبُورَة"
+          ]
+        }
+      },
+      "json/015.content.json": {
+        "mimeType": "text/json",
+        "size": 44986,
+        "scope": {
+          "ر": [
+            "راحاب",
+            "رَاحِيل",
+            "رَاعُوث",
+            "رَحُبْعَام",
+            "رفقة",
+            "روما"
+          ]
+        }
+      },
+      "json/016.content.json": {
+        "mimeType": "text/json",
+        "size": 4186,
+        "scope": {
+          "ز": [
+            "زَرُبَّابِل"
+          ]
+        }
+      },
+      "json/017.content.json": {
+        "mimeType": "text/json",
+        "size": 30244,
+        "scope": {
+          "ك": [
+            "كَالَب",
+            "كنيسة رومية",
+            "كُورَش الثاني",
+            "كورنثوس"
+          ]
+        }
+      },
+      "json/018.content.json": {
+        "mimeType": "text/json",
+        "size": 21781,
+        "scope": {
+          "ل": [
+            "لوط",
+            "لوقا",
+            "ليئة"
+          ]
+        }
+      },
+      "json/019.content.json": {
+        "mimeType": "text/json",
+        "size": 34350,
+        "scope": {
+          "ن": [
+            "نَبُوخَذْنَاصَّر الثاني",
+            "نحميا",
+            "نوح",
+            "نيرون",
+            "نِيقُودِيمُوس"
+          ]
+        }
+      },
+      "json/020.content.json": {
+        "mimeType": "text/json",
+        "size": 33736,
+        "scope": {
+          "ه": [
+            "هاجر",
+            "هارون",
+            "هيرودس أغريباس الأول",
+            "هيرودس أغريباس الثاني",
+            "هيرودس الكبير",
+            "هيرودس أنتيباس"
+          ]
+        }
+      },
+      "json/021.content.json": {
+        "mimeType": "text/json",
+        "size": 186880,
+        "scope": {
+          "ي": [
+            "يَثْرُون (رَعُوئِيل)",
+            "يَرُبْعَام الأول",
+            "يَرُبْعَام الثاني",
+            "يشوع",
+            "يعقوب",
+            "يعقوب، ابن زبدي",
+            "يعقوب، أخو يسوع",
+            "يهوذا",
+            "يهوذا الإسخريوطيّ",
+            "يهوشافاط",
+            "يُوآب",
+            "يوحنّا المعمدان",
+            "يُوحَنَّا ٱلْمُلَقَّب مَرْقُس",
+            "يوحنّا، بْنَ زَبْدِي",
+            "يُوسُف",
+            "يوشيّا",
+            "يوناثان"
+          ]
+        }
+      },
+      "pdf/001.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 994963,
+        "scope": {
+          "ا": [
+            "آحَاز",
+            "آدَم، وحَوَّاء",
+            "آسا",
+            "إبراهيم",
+            "أبْشَالُوم",
+            "أَبْشَاي",
+            "أَبُلُّوس",
+            "ابن الإنسان",
+            "أَبْنَيْر",
+            "أَبِيَاثَار",
+            "أحَشْوِيرُوش الأول",
+            "أَخْآب",
+            "إرميا",
+            "أَسْتِير",
+            "إسحاق",
+            "إسماعيل",
+            "إِشَعْيَاء",
+            "أشّور",
+            "أَفَسُس",
+            "الآراميون",
+            "الأباطرة الرومان",
+            "أَلِعَازَار",
+            "أَلِيشَع",
+            "أنطيوخوس الرابع",
+            "إِيزَابَل",
+            "إِيلِيَّا التِّشْبِي",
+            "ٱستفانوس"
+          ]
+        }
+      },
+      "pdf/002.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 304998,
+        "scope": {
+          "ح": [
+            "الحِثِّيِّين",
+            "حزقيّا",
+            "حزقيال",
+            "حَنَّان وَقَيَافَا"
+          ]
+        }
+      },
+      "pdf/003.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 439150,
+        "scope": {
+          "س": [
+            "السامريون",
+            "سارة",
+            "سُلَيْمَان",
+            "سمعان بطرس"
+          ]
+        }
+      },
+      "pdf/004.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 336847,
+        "scope": {
+          "ش": [
+            "الشّيطان",
+            "شاول",
+            "شمشون"
+          ]
+        }
+      },
+      "pdf/005.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 336618,
+        "scope": {
+          "ص": [
+            "الصدوقيون",
+            "صادوق",
+            "صموئيل"
+          ]
+        }
+      },
+      "pdf/006.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 363090,
+        "scope": {
+          "ع": [
+            "العَمَالِيق",
+            "عالي",
+            "عَزْرَا",
+            "عُزِّيَّا",
+            "عِيسُو"
+          ]
+        }
+      },
+      "pdf/007.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 407228,
+        "scope": {
+          "ف": [
+            "الفَرِّيسِيُّون",
+            "الفلسطينيون",
+            "فرعون",
+            "فِيلُبُّس",
+            "فيلبّي"
+          ]
+        }
+      },
+      "pdf/008.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 243058,
+        "scope": {
+          "ق": [
+            "القادة اليهود"
+          ]
+        }
+      },
+      "pdf/009.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 695528,
+        "scope": {
+          "م": [
+            "المجلس الأعلى لليهود (السنهدرين)",
+            "المَرْيَمات",
+            "المكابيّون",
+            "الممالك الهيلينية",
+            "الميديون والفُرس",
+            "متى (لاوي)",
+            "مرثا, مريم, و لعازر",
+            "مريم، أم يسوع",
+            "مِصْر",
+            "ملكي صادق",
+            "منسّى",
+            "مُوآب وعَمُّون",
+            "موسى",
+            "مِيكَال"
+          ]
+        }
+      },
+      "pdf/010.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 305812,
+        "scope": {
+          "ي": [
+            "اليونانيون"
+          ]
+        }
+      },
+      "pdf/011.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 559933,
+        "scope": {
+          "ب": [
+            "بابل",
+            "باروخ",
+            "بَثْشَبَع",
+            "برنابا",
+            "بِرِيسْكِلَّا، وأَكِيلَا",
+            "بَلْعَام بْنُ بَعُور",
+            "بولس (شاول)",
+            "بِيلَاطُس البُنطي"
+          ]
+        }
+      },
+      "pdf/012.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 336318,
+        "scope": {
+          "ت": [
+            "تُومَا",
+            "تيطس",
+            "تيموثاوس"
+          ]
+        }
+      },
+      "pdf/013.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 241651,
+        "scope": {
+          "ج": [
+            "جِدْعُون"
+          ]
+        }
+      },
+      "pdf/014.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 316931,
+        "scope": {
+          "د": [
+            "دانيآل",
+            "داود",
+            "دَبُورَة"
+          ]
+        }
+      },
+      "pdf/015.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 368953,
+        "scope": {
+          "ر": [
+            "راحاب",
+            "رَاحِيل",
+            "رَاعُوث",
+            "رَحُبْعَام",
+            "رفقة",
+            "روما"
+          ]
+        }
+      },
+      "pdf/016.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 231637,
+        "scope": {
+          "ز": [
+            "زَرُبَّابِل"
+          ]
+        }
+      },
+      "pdf/017.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 334231,
+        "scope": {
+          "ك": [
+            "كَالَب",
+            "كنيسة رومية",
+            "كُورَش الثاني",
+            "كورنثوس"
+          ]
+        }
+      },
+      "pdf/018.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 321906,
+        "scope": {
+          "ل": [
+            "لوط",
+            "لوقا",
+            "ليئة"
+          ]
+        }
+      },
+      "pdf/019.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 347208,
+        "scope": {
+          "ن": [
+            "نَبُوخَذْنَاصَّر الثاني",
+            "نحميا",
+            "نوح",
+            "نيرون",
+            "نِيقُودِيمُوس"
+          ]
+        }
+      },
+      "pdf/020.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 351791,
+        "scope": {
+          "ه": [
+            "هاجر",
+            "هارون",
+            "هيرودس أغريباس الأول",
+            "هيرودس أغريباس الثاني",
+            "هيرودس الكبير",
+            "هيرودس أنتيباس"
+          ]
+        }
+      },
+      "pdf/021.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 838324,
+        "scope": {
+          "ي": [
+            "يَثْرُون (رَعُوئِيل)",
+            "يَرُبْعَام الأول",
+            "يَرُبْعَام الثاني",
+            "يشوع",
+            "يعقوب",
+            "يعقوب، ابن زبدي",
+            "يعقوب، أخو يسوع",
+            "يهوذا",
+            "يهوذا الإسخريوطيّ",
+            "يهوشافاط",
+            "يُوآب",
+            "يوحنّا المعمدان",
+            "يُوحَنَّا ٱلْمُلَقَّب مَرْقُس",
+            "يوحنّا، بْنَ زَبْدِي",
+            "يُوسُف",
+            "يوشيّا",
+            "يوناثان"
+          ]
+        }
       }
     },
     "copyright": {
@@ -1102,45 +694,129 @@
     }
   },
   "article_metadata": {
-    "726127": {
-      "content_id": 726127,
-      "reference_id": 203498,
-      "index_reference": "ٱستفانوس",
+    "726078": {
+      "content_id": 726078,
+      "reference_id": 203449,
+      "index_reference": "آحَاز",
       "localizations": {
         "eng": {
-          "content_id": 500555,
+          "content_id": 500506,
           "language": "eng",
-          "title": "Stephen"
+          "title": "Ahaz"
         },
         "fra": {
-          "content_id": 668956,
+          "content_id": 668907,
           "language": "fra",
-          "title": "Étienne"
+          "title": "Achaz"
         },
         "hin": {
-          "content_id": 654299,
+          "content_id": 654250,
           "language": "hin",
-          "title": "स्तिफनुस"
+          "title": "आहाज"
         },
         "por": {
-          "content_id": 658575,
+          "content_id": 658526,
           "language": "por",
-          "title": "Estevão"
+          "title": "Acaz"
         },
         "spa": {
-          "content_id": 658423,
+          "content_id": 658374,
           "language": "spa",
-          "title": "Esteban"
+          "title": "Achâz "
         },
         "swh": {
-          "content_id": 734398,
+          "content_id": 734349,
           "language": "swh",
-          "title": "Stefano"
+          "title": "Ahazi"
         },
         "zht": {
-          "content_id": 650914,
+          "content_id": 650865,
           "language": "zht",
-          "title": "司提反"
+          "title": "亞哈斯"
+        }
+      }
+    },
+    "726022": {
+      "content_id": 726022,
+      "reference_id": 203393,
+      "index_reference": "آدَم، وحَوَّاء",
+      "localizations": {
+        "eng": {
+          "content_id": 500450,
+          "language": "eng",
+          "title": "Adam and Eve"
+        },
+        "fra": {
+          "content_id": 668851,
+          "language": "fra",
+          "title": "Adam et Ève"
+        },
+        "hin": {
+          "content_id": 654194,
+          "language": "hin",
+          "title": "आदम और हव्वा"
+        },
+        "por": {
+          "content_id": 658470,
+          "language": "por",
+          "title": "Adão e Eva"
+        },
+        "spa": {
+          "content_id": 658318,
+          "language": "spa",
+          "title": "Adam y Varona"
+        },
+        "swh": {
+          "content_id": 734293,
+          "language": "swh",
+          "title": "Adam na Hawa"
+        },
+        "zht": {
+          "content_id": 650809,
+          "language": "zht",
+          "title": "亞當和夏娃"
+        }
+      }
+    },
+    "726083": {
+      "content_id": 726083,
+      "reference_id": 203454,
+      "index_reference": "آسا",
+      "localizations": {
+        "eng": {
+          "content_id": 500511,
+          "language": "eng",
+          "title": "Asa"
+        },
+        "fra": {
+          "content_id": 668912,
+          "language": "fra",
+          "title": "Asa"
+        },
+        "hin": {
+          "content_id": 654255,
+          "language": "hin",
+          "title": "आसा"
+        },
+        "por": {
+          "content_id": 658531,
+          "language": "por",
+          "title": "Asa"
+        },
+        "spa": {
+          "content_id": 658379,
+          "language": "spa",
+          "title": "Asa"
+        },
+        "swh": {
+          "content_id": 734354,
+          "language": "swh",
+          "title": "Asa"
+        },
+        "zht": {
+          "content_id": 650870,
+          "language": "zht",
+          "title": "亞撒"
         }
       }
     },
@@ -1438,48 +1114,6 @@
         }
       }
     },
-    "726078": {
-      "content_id": 726078,
-      "reference_id": 203449,
-      "index_reference": "آحَاز",
-      "localizations": {
-        "eng": {
-          "content_id": 500506,
-          "language": "eng",
-          "title": "Ahaz"
-        },
-        "fra": {
-          "content_id": 668907,
-          "language": "fra",
-          "title": "Achaz"
-        },
-        "hin": {
-          "content_id": 654250,
-          "language": "hin",
-          "title": "आहाज"
-        },
-        "por": {
-          "content_id": 658526,
-          "language": "por",
-          "title": "Acaz"
-        },
-        "spa": {
-          "content_id": 658374,
-          "language": "spa",
-          "title": "Achâz "
-        },
-        "swh": {
-          "content_id": 734349,
-          "language": "swh",
-          "title": "Ahazi"
-        },
-        "zht": {
-          "content_id": 650865,
-          "language": "zht",
-          "title": "亞哈斯"
-        }
-      }
-    },
     "726092": {
       "content_id": 726092,
       "reference_id": 203463,
@@ -1564,48 +1198,6 @@
         }
       }
     },
-    "726022": {
-      "content_id": 726022,
-      "reference_id": 203393,
-      "index_reference": "آدَم، وحَوَّاء",
-      "localizations": {
-        "eng": {
-          "content_id": 500450,
-          "language": "eng",
-          "title": "Adam and Eve"
-        },
-        "fra": {
-          "content_id": 668851,
-          "language": "fra",
-          "title": "Adam et Ève"
-        },
-        "hin": {
-          "content_id": 654194,
-          "language": "hin",
-          "title": "आदम और हव्वा"
-        },
-        "por": {
-          "content_id": 658470,
-          "language": "por",
-          "title": "Adão e Eva"
-        },
-        "spa": {
-          "content_id": 658318,
-          "language": "spa",
-          "title": "Adam y Varona"
-        },
-        "swh": {
-          "content_id": 734293,
-          "language": "swh",
-          "title": "Adam na Hawa"
-        },
-        "zht": {
-          "content_id": 650809,
-          "language": "zht",
-          "title": "亞當和夏娃"
-        }
-      }
-    },
     "726095": {
       "content_id": 726095,
       "reference_id": 203466,
@@ -1645,48 +1237,6 @@
           "content_id": 650882,
           "language": "zht",
           "title": "耶利米"
-        }
-      }
-    },
-    "726083": {
-      "content_id": 726083,
-      "reference_id": 203454,
-      "index_reference": "آسا",
-      "localizations": {
-        "eng": {
-          "content_id": 500511,
-          "language": "eng",
-          "title": "Asa"
-        },
-        "fra": {
-          "content_id": 668912,
-          "language": "fra",
-          "title": "Asa"
-        },
-        "hin": {
-          "content_id": 654255,
-          "language": "hin",
-          "title": "आसा"
-        },
-        "por": {
-          "content_id": 658531,
-          "language": "por",
-          "title": "Asa"
-        },
-        "spa": {
-          "content_id": 658379,
-          "language": "spa",
-          "title": "Asa"
-        },
-        "swh": {
-          "content_id": 734354,
-          "language": "swh",
-          "title": "Asa"
-        },
-        "zht": {
-          "content_id": 650870,
-          "language": "zht",
-          "title": "亞撒"
         }
       }
     },
@@ -1942,48 +1492,6 @@
         }
       }
     },
-    "726145": {
-      "content_id": 726145,
-      "reference_id": 203516,
-      "index_reference": "الأباطرة الرومان",
-      "localizations": {
-        "eng": {
-          "content_id": 500573,
-          "language": "eng",
-          "title": "Roman Emperors"
-        },
-        "fra": {
-          "content_id": 668974,
-          "language": "fra",
-          "title": "Empereurs romains"
-        },
-        "hin": {
-          "content_id": 654317,
-          "language": "hin",
-          "title": "रोमी सम्राट"
-        },
-        "por": {
-          "content_id": 658593,
-          "language": "por",
-          "title": "Imperadores Romanos"
-        },
-        "spa": {
-          "content_id": 658441,
-          "language": "spa",
-          "title": "Emperadores Romanos"
-        },
-        "swh": {
-          "content_id": 734416,
-          "language": "swh",
-          "title": "Wafalme wa Kirumi"
-        },
-        "zht": {
-          "content_id": 650932,
-          "language": "zht",
-          "title": "羅馬皇帝"
-        }
-      }
-    },
     "726075": {
       "content_id": 726075,
       "reference_id": 203446,
@@ -2023,6 +1531,48 @@
           "content_id": 650862,
           "language": "zht",
           "title": "亞蘭人"
+        }
+      }
+    },
+    "726145": {
+      "content_id": 726145,
+      "reference_id": 203516,
+      "index_reference": "الأباطرة الرومان",
+      "localizations": {
+        "eng": {
+          "content_id": 500573,
+          "language": "eng",
+          "title": "Roman Emperors"
+        },
+        "fra": {
+          "content_id": 668974,
+          "language": "fra",
+          "title": "Empereurs romains"
+        },
+        "hin": {
+          "content_id": 654317,
+          "language": "hin",
+          "title": "रोमी सम्राट"
+        },
+        "por": {
+          "content_id": 658593,
+          "language": "por",
+          "title": "Imperadores Romanos"
+        },
+        "spa": {
+          "content_id": 658441,
+          "language": "spa",
+          "title": "Emperadores Romanos"
+        },
+        "swh": {
+          "content_id": 734416,
+          "language": "swh",
+          "title": "Wafalme wa Kirumi"
+        },
+        "zht": {
+          "content_id": 650932,
+          "language": "zht",
+          "title": "羅馬皇帝"
         }
       }
     },
@@ -2821,6 +2371,48 @@
           "content_id": 650861,
           "language": "zht",
           "title": "以利亞"
+        }
+      }
+    },
+    "726127": {
+      "content_id": 726127,
+      "reference_id": 203498,
+      "index_reference": "ٱستفانوس",
+      "localizations": {
+        "eng": {
+          "content_id": 500555,
+          "language": "eng",
+          "title": "Stephen"
+        },
+        "fra": {
+          "content_id": 668956,
+          "language": "fra",
+          "title": "Étienne"
+        },
+        "hin": {
+          "content_id": 654299,
+          "language": "hin",
+          "title": "स्तिफनुस"
+        },
+        "por": {
+          "content_id": 658575,
+          "language": "por",
+          "title": "Estevão"
+        },
+        "spa": {
+          "content_id": 658423,
+          "language": "spa",
+          "title": "Esteban"
+        },
+        "swh": {
+          "content_id": 734398,
+          "language": "swh",
+          "title": "Stefano"
+        },
+        "zht": {
+          "content_id": 650914,
+          "language": "zht",
+          "title": "司提反"
         }
       }
     },
@@ -6058,48 +5650,6 @@
         }
       }
     },
-    "726131": {
-      "content_id": 726131,
-      "reference_id": 203502,
-      "index_reference": "يُوحَنَّا ٱلْمُلَقَّب مَرْقُس",
-      "localizations": {
-        "eng": {
-          "content_id": 500559,
-          "language": "eng",
-          "title": "John Mark"
-        },
-        "fra": {
-          "content_id": 668960,
-          "language": "fra",
-          "title": "Jean Marc"
-        },
-        "hin": {
-          "content_id": 654303,
-          "language": "hin",
-          "title": "यूहन्ना मरकुस "
-        },
-        "por": {
-          "content_id": 658579,
-          "language": "por",
-          "title": "João Marcos"
-        },
-        "spa": {
-          "content_id": 658427,
-          "language": "spa",
-          "title": "Juan Marcos"
-        },
-        "swh": {
-          "content_id": 734402,
-          "language": "swh",
-          "title": "Yohana Marko"
-        },
-        "zht": {
-          "content_id": 650918,
-          "language": "zht",
-          "title": "約翰·馬可"
-        }
-      }
-    },
     "726119": {
       "content_id": 726119,
       "reference_id": 203490,
@@ -6139,6 +5689,48 @@
           "content_id": 650906,
           "language": "zht",
           "title": "施洗約翰"
+        }
+      }
+    },
+    "726131": {
+      "content_id": 726131,
+      "reference_id": 203502,
+      "index_reference": "يُوحَنَّا ٱلْمُلَقَّب مَرْقُس",
+      "localizations": {
+        "eng": {
+          "content_id": 500559,
+          "language": "eng",
+          "title": "John Mark"
+        },
+        "fra": {
+          "content_id": 668960,
+          "language": "fra",
+          "title": "Jean Marc"
+        },
+        "hin": {
+          "content_id": 654303,
+          "language": "hin",
+          "title": "यूहन्ना मरकुस "
+        },
+        "por": {
+          "content_id": 658579,
+          "language": "por",
+          "title": "João Marcos"
+        },
+        "spa": {
+          "content_id": 658427,
+          "language": "spa",
+          "title": "Juan Marcos"
+        },
+        "swh": {
+          "content_id": 734402,
+          "language": "swh",
+          "title": "Yohana Marko"
+        },
+        "zht": {
+          "content_id": 650918,
+          "language": "zht",
+          "title": "約翰·馬可"
         }
       }
     },

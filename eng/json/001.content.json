@@ -1,0 +1,2108 @@
+[
+  {
+    "content_id": 500468,
+    "reference_id": 203411,
+    "version": "1.0.1",
+    "title": "Aaron",
+    "media_type": "Text",
+    "index_reference": "aaron",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>Aaron was Moses&apos; older brother (see <a href=\"https://ref.ly/Exod6:20\">Exodus 6:20</a>; <a href=\"https://ref.ly/Exod7:7\">7:7</a>). He played an important role in establishing Israel and its institutions, especially the priesthood. He first appears after Moses&apos; calling at the burning bush (<a href=\"https://ref.ly/Exod3:1-Exod4:17\">Exodus 3:1–4:17</a>). Moses hesitated to accept his mission from God, saying he was not able to lead the Israelites out of Egypt because he struggled with speech (<a href=\"https://ref.ly/Exod4:10\">Exodus 4:10</a>). Despite God&apos;s reassurances, Moses continued to resist until God appointed Aaron to speak for him. After that, Aaron often stood by Moses, speaking to the Israelite leaders and demanding that Pharaoh allow the Israelites to leave Egypt (<a href=\"https://ref.ly/Exod5:1-Exod5:5\">Exodus 5:1–5</a>).</p><p>During the Israelites&apos; time in the wilderness, God chose Aaron and his sons to be priests (<a href=\"https://ref.ly/Exod28:1-Exod28:5\">Exodus 28:1–5</a>; <a href=\"https://ref.ly/Exod29:1-Exod29:46\">29:1–46</a>; <a href=\"https://ref.ly/Lev8:1-Lev8:36\">Leviticus 8:1–36</a>). Aaron became Israel&apos;s first high priest. His role was important on the Day of Atonement. This was the only day when the high priest entered the Most Holy Place to cleanse it from Israel&apos;s sins (<a href=\"https://ref.ly/Lev16:1-Lev16:34\">Leviticus 16</a>). Before doing this, the high priest had to offer a sacrifice for his own sins.</p><p>Aaron was not a perfect leader. While Moses was on Mount Sinai getting the law from God, Aaron helped the people make an idol (<a href=\"https://ref.ly/Exod32:1-Exod32:35\">Exodus 32</a>). When Moses came back, Aaron made weak excuses and blamed the people. This event led to the death of three thousand Israelites and a plague.</p><p>Aaron and his sister, Miriam, once wrongly questioned Moses&apos; authority. This led to Miriam temporarily having leprosy (<a href=\"https://ref.ly/Num12:1-Num12:16\">Numbers 12</a>). Later, when other Levites questioned Aaron&apos;s authority, God confirmed Aaron&apos;s role by making his staff bloom with almond blossoms (<a href=\"https://ref.ly/Num17:1-Num17:13\">Numbers 17</a>). However, because Moses and Aaron questioned God&apos;s authority (<a href=\"https://ref.ly/Num20:1-Num20:13\">Numbers 20:1–13</a>), they both died in the wilderness and did not enter the Promised Land (<a href=\"https://ref.ly/Num20:22-Num20:29\">Numbers 20:22–29</a>).</p><p>Jesus is now the Great High Priest, with more authority and power than Aaron (see <a href=\"https://ref.ly/Heb7:1-Heb10:39\">Hebrews 7–10</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Exod4:14-Exod4:17\">Exodus 4:14–17</a>, <a href=\"https://ref.ly/Exod4:27-Exod4:31\">27–31</a>; <a href=\"https://ref.ly/Exod6:20-Exod6:27\">6:20–27</a>; <a href=\"https://ref.ly/Exod7:1-Exod7:2\">7:1–2</a>; <a href=\"https://ref.ly/Exod28:1-Exod28:5\">28:1–5</a>; <a href=\"https://ref.ly/Exod32:1-Exod32:25\">32:1–25</a>; <a href=\"https://ref.ly/Num12:1-Num12:12\">Numbers 12:1–12</a>; <a href=\"https://ref.ly/Num20:1-Num20:13\">20:1–13</a>, <a href=\"https://ref.ly/Num20:22-Num20:29\">22–29</a>; <a href=\"https://ref.ly/Acts7:39-Acts7:41\">Acts 7:39–41</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02004010",
+          "start_ref_usfm": "EXO 4:10",
+          "end_ref": "02004010",
+          "end_ref_usfm": "EXO 4:10"
+        },
+        {
+          "start_ref": "02006020",
+          "start_ref_usfm": "EXO 6:20",
+          "end_ref": "02006020",
+          "end_ref_usfm": "EXO 6:20"
+        },
+        {
+          "start_ref": "02007007",
+          "start_ref_usfm": "EXO 7:7",
+          "end_ref": "02007007",
+          "end_ref_usfm": "EXO 7:7"
+        },
+        {
+          "start_ref": "03016001",
+          "start_ref_usfm": "LEV 16:1",
+          "end_ref": "03016034",
+          "end_ref_usfm": "LEV 16:34"
+        },
+        {
+          "start_ref": "02032001",
+          "start_ref_usfm": "EXO 32:1",
+          "end_ref": "02032035",
+          "end_ref_usfm": "EXO 32:35"
+        },
+        {
+          "start_ref": "44007039",
+          "start_ref_usfm": "ACT 7:39",
+          "end_ref": "44007041",
+          "end_ref_usfm": "ACT 7:41"
+        },
+        {
+          "start_ref": "04012001",
+          "start_ref_usfm": "NUM 12:1",
+          "end_ref": "04012016",
+          "end_ref_usfm": "NUM 12:16"
+        },
+        {
+          "start_ref": "02029001",
+          "start_ref_usfm": "EXO 29:1",
+          "end_ref": "02029046",
+          "end_ref_usfm": "EXO 29:46"
+        },
+        {
+          "start_ref": "04020022",
+          "start_ref_usfm": "NUM 20:22",
+          "end_ref": "04020029",
+          "end_ref_usfm": "NUM 20:29"
+        },
+        {
+          "start_ref": "03008001",
+          "start_ref_usfm": "LEV 8:1",
+          "end_ref": "03008036",
+          "end_ref_usfm": "LEV 8:36"
+        },
+        {
+          "start_ref": "02003001",
+          "start_ref_usfm": "EXO 3:1",
+          "end_ref": "02004017",
+          "end_ref_usfm": "EXO 4:17"
+        },
+        {
+          "start_ref": "04020001",
+          "start_ref_usfm": "NUM 20:1",
+          "end_ref": "04020013",
+          "end_ref_usfm": "NUM 20:13"
+        },
+        {
+          "start_ref": "02004014",
+          "start_ref_usfm": "EXO 4:14",
+          "end_ref": "02004017",
+          "end_ref_usfm": "EXO 4:17"
+        },
+        {
+          "start_ref": "04017001",
+          "start_ref_usfm": "NUM 17:1",
+          "end_ref": "04017013",
+          "end_ref_usfm": "NUM 17:13"
+        },
+        {
+          "start_ref": "02005001",
+          "start_ref_usfm": "EXO 5:1",
+          "end_ref": "02005005",
+          "end_ref_usfm": "EXO 5:5"
+        },
+        {
+          "start_ref": "02028001",
+          "start_ref_usfm": "EXO 28:1",
+          "end_ref": "02028005",
+          "end_ref_usfm": "EXO 28:5"
+        },
+        {
+          "start_ref": "58007001",
+          "start_ref_usfm": "HEB 7:1",
+          "end_ref": "58010039",
+          "end_ref_usfm": "HEB 10:39"
+        },
+        {
+          "start_ref": "02004027",
+          "start_ref_usfm": "EXO 4:27",
+          "end_ref": "02004031",
+          "end_ref_usfm": "EXO 4:31"
+        },
+        {
+          "start_ref": "02006020",
+          "start_ref_usfm": "EXO 6:20",
+          "end_ref": "02006027",
+          "end_ref_usfm": "EXO 6:27"
+        },
+        {
+          "start_ref": "02007001",
+          "start_ref_usfm": "EXO 7:1",
+          "end_ref": "02007002",
+          "end_ref_usfm": "EXO 7:2"
+        },
+        {
+          "start_ref": "02032001",
+          "start_ref_usfm": "EXO 32:1",
+          "end_ref": "02032025",
+          "end_ref_usfm": "EXO 32:25"
+        },
+        {
+          "start_ref": "04012001",
+          "start_ref_usfm": "NUM 12:1",
+          "end_ref": "04012012",
+          "end_ref_usfm": "NUM 12:12"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 500487,
+    "reference_id": 203430,
+    "version": "1.0.1",
+    "title": "Abiathar",
+    "media_type": "Text",
+    "index_reference": "abiathar",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>Abiathar served as high priest during the reigns of David and Solomon. He first met David before David became king. When David fled from Saul, he stopped in the city of Nob. Pretending to follow Saul&apos;s orders, David obtained food and supplies from the priests there. Saul found out and became so angry that he killed all the priests except one; only Abiathar survived.</p><p>Abiathar was one of the first from Saul&apos;s administration to support David. His support was strong. He represented Eli&apos;s priestly line and brought the holy ephod with the Urim and Thummim (<a href=\"https://ref.ly/Exod28:29-Exod28:30\">Exodus 28:29–30</a>). (The ephod was a sacred garment worn by the high priest, and the Urim and Thummim were used for seeking God&apos;s guidance.) This allowed him to seek God&apos;s guidance for David during crises (<a href=\"https://ref.ly/1Sam23:1-1Sam23:12\">1 Samuel 23:1–12</a>; <a href=\"https://ref.ly/1Sam30:7-1Sam30:8\">30:7–8</a>). </p><p>After David became king, Abiathar served as a priest alongside Zadok, who was not from Eli&apos;s line (<a href=\"https://ref.ly/1Chr6:8\">1 Chronicles 6:8</a>; <a href=\"https://ref.ly/1Chr18:16\">18:16</a>; <a href=\"https://ref.ly/1Chr24:3\">24:3</a>). Both served David well. During Absalom&apos;s rebellion, they informed David about events in the capital (<a href=\"https://ref.ly/2Sam15:27-2Sam15:37\">2 Samuel 15:27–37</a>; <a href=\"https://ref.ly/2Sam17:15-2Sam17:16\">17:15–16</a>).</p><p>In David&apos;s old age, Abiathar wrongly supported Adonijah&apos;s attempt to become king instead of his father. Zadok stayed loyal to David and supported Solomon (<a href=\"https://ref.ly/1Kgs1:5-1Kgs1:8\">1 Kings 1:5–8</a>). As a result, once Solomon became king, he removed Abiathar&apos;s priestly authority and sent him to his estate in Anathoth, a village about four miles northeast of Jerusalem (<a href=\"https://ref.ly/1Kgs2:26-1Kgs2:27\">1 Kings 2:26–27</a>). Zadok became the high priest, and his descendants inherited that role instead of Abiathar&apos;s. This fulfilled the prophecy the Lord gave at Shiloh about Eli&apos;s descendants (<a href=\"https://ref.ly/1Kgs2:27\">1 Kings 2:27</a>; see <a href=\"https://ref.ly/1Sam2:27-1Sam2:36\">1 Samuel 2:27–36</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Sam22:20-1Sam22:23\">1 Samuel 22:20–23</a>; <a href=\"https://ref.ly/1Sam23:6\">23:6</a>, <a href=\"https://ref.ly/1Sam23:9\">9</a>; <a href=\"https://ref.ly/1Sam30:7\">30:7</a>; <a href=\"https://ref.ly/2Sam15:27-2Sam15:37\">2 Samuel 15:27–37</a>; <a href=\"https://ref.ly/2Sam17:15\">17:15</a>; <a href=\"https://ref.ly/1Kgs1:1-1Kgs2:35\">1 Kings 1:1–2:35</a>; <a href=\"https://ref.ly/1Chr15:11\">1 Chronicles 15:11</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09023006",
+          "start_ref_usfm": "1SA 23:6",
+          "end_ref": "09023006",
+          "end_ref_usfm": "1SA 23:6"
+        },
+        {
+          "start_ref": "09023009",
+          "start_ref_usfm": "1SA 23:9",
+          "end_ref": "09023009",
+          "end_ref_usfm": "1SA 23:9"
+        },
+        {
+          "start_ref": "09030007",
+          "start_ref_usfm": "1SA 30:7",
+          "end_ref": "09030007",
+          "end_ref_usfm": "1SA 30:7"
+        },
+        {
+          "start_ref": "10017015",
+          "start_ref_usfm": "2SA 17:15",
+          "end_ref": "10017015",
+          "end_ref_usfm": "2SA 17:15"
+        },
+        {
+          "start_ref": "11002027",
+          "start_ref_usfm": "1KI 2:27",
+          "end_ref": "11002027",
+          "end_ref_usfm": "1KI 2:27"
+        },
+        {
+          "start_ref": "13006008",
+          "start_ref_usfm": "1CH 6:8",
+          "end_ref": "13006008",
+          "end_ref_usfm": "1CH 6:8"
+        },
+        {
+          "start_ref": "13015011",
+          "start_ref_usfm": "1CH 15:11",
+          "end_ref": "13015011",
+          "end_ref_usfm": "1CH 15:11"
+        },
+        {
+          "start_ref": "13018016",
+          "start_ref_usfm": "1CH 18:16",
+          "end_ref": "13018016",
+          "end_ref_usfm": "1CH 18:16"
+        },
+        {
+          "start_ref": "13024003",
+          "start_ref_usfm": "1CH 24:3",
+          "end_ref": "13024003",
+          "end_ref_usfm": "1CH 24:3"
+        },
+        {
+          "start_ref": "09030007",
+          "start_ref_usfm": "1SA 30:7",
+          "end_ref": "09030008",
+          "end_ref_usfm": "1SA 30:8"
+        },
+        {
+          "start_ref": "11002026",
+          "start_ref_usfm": "1KI 2:26",
+          "end_ref": "11002027",
+          "end_ref_usfm": "1KI 2:27"
+        },
+        {
+          "start_ref": "09022020",
+          "start_ref_usfm": "1SA 22:20",
+          "end_ref": "09022023",
+          "end_ref_usfm": "1SA 22:23"
+        },
+        {
+          "start_ref": "09002027",
+          "start_ref_usfm": "1SA 2:27",
+          "end_ref": "09002036",
+          "end_ref_usfm": "1SA 2:36"
+        },
+        {
+          "start_ref": "02028029",
+          "start_ref_usfm": "EXO 28:29",
+          "end_ref": "02028030",
+          "end_ref_usfm": "EXO 28:30"
+        },
+        {
+          "start_ref": "09023001",
+          "start_ref_usfm": "1SA 23:1",
+          "end_ref": "09023012",
+          "end_ref_usfm": "1SA 23:12"
+        },
+        {
+          "start_ref": "10015027",
+          "start_ref_usfm": "2SA 15:27",
+          "end_ref": "10015037",
+          "end_ref_usfm": "2SA 15:37"
+        },
+        {
+          "start_ref": "10017015",
+          "start_ref_usfm": "2SA 17:15",
+          "end_ref": "10017016",
+          "end_ref_usfm": "2SA 17:16"
+        },
+        {
+          "start_ref": "11001005",
+          "start_ref_usfm": "1KI 1:5",
+          "end_ref": "11001008",
+          "end_ref_usfm": "1KI 1:8"
+        },
+        {
+          "start_ref": "11001001",
+          "start_ref_usfm": "1KI 1:1",
+          "end_ref": "11002035",
+          "end_ref_usfm": "1KI 2:35"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 500494,
+    "reference_id": 203437,
+    "version": "1.0.1",
+    "title": "Abishai",
+    "media_type": "Text",
+    "index_reference": "abishai",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>Abishai was a strong and successful warrior and a leader in David&apos;s army. He was David&apos;s nephew, the son of David&apos;s sister Zeruiah, and the brother of Joab and Asahel (<a href=\"https://ref.ly/1Chr2:13-1Chr2:16\">1 Chronicles 2:13–16</a>).</p><p>Abishai was very loyal to David and often suggested violence against David&apos;s enemies. God allowed David and Abishai to enter Saul&apos;s war camp while the troops slept. Abishai wanted to kill Saul, but David stopped him. Later, during Absalom&apos;s revolt, David had to leave Jerusalem. Shimei, a member of Saul&apos;s family, cursed the king, and Abishai wanted to kill Shimei (<a href=\"https://ref.ly/2Sam16:5-2Sam16:9\">2 Samuel 16:5–9</a>). David refused this idea twice (<a href=\"https://ref.ly/2Sam16:10-2Sam16:13\">2 Samuel 16:10–13</a>; <a href=\"https://ref.ly/2Sam19:18-2Sam19:23\">19:18–23</a>). Abishai and his brothers&apos; desire for revenge also appeared earlier: After Saul&apos;s general, Abner, killed Abishai&apos;s brother Asahel in self-defense, Joab and Abishai killed Abner in revenge (<a href=\"https://ref.ly/2Sam3:22-2Sam3:30\">2 Samuel 3:22–30</a>).</p><p>Abishai was brave and skilled. He once killed three hundred soldiers in one battle. Because of this, he became the leader of the Thirty, a group of highly skilled warriors, ranking just below the Three (<a href=\"https://ref.ly/1Chr11:20-1Chr11:21\">1 Chronicles 11:20–21</a>). Abishai also achieved a major victory over the Edomites (<a href=\"https://ref.ly/1Chr18:12-1Chr18:13\">1 Chronicles 18:12–13</a>). In a battle with the Philistines, Abishai saved David&apos;s life by killing the giant Ishbi-benob (<a href=\"https://ref.ly/2Sam21:15-2Sam21:17\">2 Samuel 21:15–17</a>). Abishai also led the army, and when it split for strategic reasons, he led one group while his brother Joab led the other (<a href=\"https://ref.ly/2Sam10:1-2Sam10:19\">2 Samuel 10:1–19</a>; <a href=\"https://ref.ly/2Sam18:1-2Sam18:18\">18:1–18</a>). Their military efforts were usually very successful.</p><p>Joab&apos;s actions eventually led to his death. However, we do not learn about Abishai meeting the same fate. Like Joab, Abishai was also a violently impulsive military leader.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Sam26:6-1Sam26:12\">1 Samuel 26:6–12</a>; <a href=\"https://ref.ly/2Sam2:18\">2 Samuel 2:18</a>; <a href=\"https://ref.ly/2Sam3:30\">3:30</a>, <a href=\"https://ref.ly/2Sam3:39\">39</a>; <a href=\"https://ref.ly/2Sam10:10-2Sam10:14\">10:10–14</a>; <a href=\"https://ref.ly/2Sam16:9-2Sam16:12\">16:9–12</a>; <a href=\"https://ref.ly/2Sam18:1-2Sam18:8\">18:1–8</a>; <a href=\"https://ref.ly/2Sam19:21-2Sam19:23\">19:21–23</a>; <a href=\"https://ref.ly/2Sam20:6-2Sam20:10\">20:6–10</a>; <a href=\"https://ref.ly/2Sam21:17\">21:17</a>; <a href=\"https://ref.ly/2Sam23:18-2Sam23:19\">23:18–19</a>; <a href=\"https://ref.ly/1Chr2:16\">1 Chronicles 2:16</a>; <a href=\"https://ref.ly/1Chr11:20-1Chr11:21\">11:20–21</a>; <a href=\"https://ref.ly/1Chr18:12-1Chr18:13\">18:12–13</a>; <a href=\"https://ref.ly/1Chr19:11-1Chr19:15\">19:11–15</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10002018",
+          "start_ref_usfm": "2SA 2:18",
+          "end_ref": "10002018",
+          "end_ref_usfm": "2SA 2:18"
+        },
+        {
+          "start_ref": "10003030",
+          "start_ref_usfm": "2SA 3:30",
+          "end_ref": "10003030",
+          "end_ref_usfm": "2SA 3:30"
+        },
+        {
+          "start_ref": "10003039",
+          "start_ref_usfm": "2SA 3:39",
+          "end_ref": "10003039",
+          "end_ref_usfm": "2SA 3:39"
+        },
+        {
+          "start_ref": "10021017",
+          "start_ref_usfm": "2SA 21:17",
+          "end_ref": "10021017",
+          "end_ref_usfm": "2SA 21:17"
+        },
+        {
+          "start_ref": "13002016",
+          "start_ref_usfm": "1CH 2:16",
+          "end_ref": "13002016",
+          "end_ref_usfm": "1CH 2:16"
+        },
+        {
+          "start_ref": "09026006",
+          "start_ref_usfm": "1SA 26:6",
+          "end_ref": "09026012",
+          "end_ref_usfm": "1SA 26:12"
+        },
+        {
+          "start_ref": "13018012",
+          "start_ref_usfm": "1CH 18:12",
+          "end_ref": "13018013",
+          "end_ref_usfm": "1CH 18:13"
+        },
+        {
+          "start_ref": "10019021",
+          "start_ref_usfm": "2SA 19:21",
+          "end_ref": "10019023",
+          "end_ref_usfm": "2SA 19:23"
+        },
+        {
+          "start_ref": "10021015",
+          "start_ref_usfm": "2SA 21:15",
+          "end_ref": "10021017",
+          "end_ref_usfm": "2SA 21:17"
+        },
+        {
+          "start_ref": "10023018",
+          "start_ref_usfm": "2SA 23:18",
+          "end_ref": "10023019",
+          "end_ref_usfm": "2SA 23:19"
+        },
+        {
+          "start_ref": "13011020",
+          "start_ref_usfm": "1CH 11:20",
+          "end_ref": "13011021",
+          "end_ref_usfm": "1CH 11:21"
+        },
+        {
+          "start_ref": "10018001",
+          "start_ref_usfm": "2SA 18:1",
+          "end_ref": "10018018",
+          "end_ref_usfm": "2SA 18:18"
+        },
+        {
+          "start_ref": "10010001",
+          "start_ref_usfm": "2SA 10:1",
+          "end_ref": "10010019",
+          "end_ref_usfm": "2SA 10:19"
+        },
+        {
+          "start_ref": "10003022",
+          "start_ref_usfm": "2SA 3:22",
+          "end_ref": "10003030",
+          "end_ref_usfm": "2SA 3:30"
+        },
+        {
+          "start_ref": "13002013",
+          "start_ref_usfm": "1CH 2:13",
+          "end_ref": "13002016",
+          "end_ref_usfm": "1CH 2:16"
+        },
+        {
+          "start_ref": "10016005",
+          "start_ref_usfm": "2SA 16:5",
+          "end_ref": "10016009",
+          "end_ref_usfm": "2SA 16:9"
+        },
+        {
+          "start_ref": "10016010",
+          "start_ref_usfm": "2SA 16:10",
+          "end_ref": "10016013",
+          "end_ref_usfm": "2SA 16:13"
+        },
+        {
+          "start_ref": "10019018",
+          "start_ref_usfm": "2SA 19:18",
+          "end_ref": "10019023",
+          "end_ref_usfm": "2SA 19:23"
+        },
+        {
+          "start_ref": "10010010",
+          "start_ref_usfm": "2SA 10:10",
+          "end_ref": "10010014",
+          "end_ref_usfm": "2SA 10:14"
+        },
+        {
+          "start_ref": "10016009",
+          "start_ref_usfm": "2SA 16:9",
+          "end_ref": "10016012",
+          "end_ref_usfm": "2SA 16:12"
+        },
+        {
+          "start_ref": "10018001",
+          "start_ref_usfm": "2SA 18:1",
+          "end_ref": "10018008",
+          "end_ref_usfm": "2SA 18:8"
+        },
+        {
+          "start_ref": "10020006",
+          "start_ref_usfm": "2SA 20:6",
+          "end_ref": "10020010",
+          "end_ref_usfm": "2SA 20:10"
+        },
+        {
+          "start_ref": "13019011",
+          "start_ref_usfm": "1CH 19:11",
+          "end_ref": "13019015",
+          "end_ref_usfm": "1CH 19:15"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 500491,
+    "reference_id": 203434,
+    "version": "1.0.1",
+    "title": "Abner",
+    "media_type": "Text",
+    "index_reference": "abner",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>Abner, son of Ner, was King Saul’s cousin and his general (<a href=\"https://ref.ly/1Sam14:49-1Sam14:52\">1 Samuel 14:49–52</a>). Under Abner&apos;s command, Saul’s armies won key battles against the Philistines (<a href=\"https://ref.ly/1Sam17:1-1Sam17:58\">1 Samuel 17:1–58</a>). Abner also dined with David and Jonathan at the king’s table (<a href=\"https://ref.ly/1Sam20:24-1Sam20:25\">1 Samuel 20:24–25</a>). However, Jonathan and David both surpassed Abner in Saul’s army.</p><p>David embarrassed Abner once (<a href=\"https://ref.ly/1Sam26:1-1Sam26:25\">1 Samuel 26:1–25</a>). Saul was chasing David to kill him. Saul and his troops camped in a circle, with Saul sleeping in the center and Abner beside him. Abishai and David sneaked into the camp and could have killed Saul. Instead, they took some items from beside Saul’s head. After retreating, David shouted to wake Saul and Abner and criticized Abner for being careless.</p><p>After Saul and Jonathan died, Abner supported Saul’s son Ishbosheth (<a href=\"https://ref.ly/2Sam2:8-2Sam2:12\">2 Samuel 2:8–12</a>) while the tribe of Judah made David king. During this period, Abner held the real power in the north. When Ishbosheth accused Abner of having relations with one of Saul’s concubines, Abner handed control of the northern kingdom to David. Ishbosheth was later murdered (<a href=\"https://ref.ly/2Sam4:1-2Sam4:12\">2 Samuel 4:1–12</a>).</p><p>During the battle between Ishbosheth and David, Abner had to kill Joab’s brother Asahel in self-defense. He did not want to kill Asahel and had warned him to turn back (<a href=\"https://ref.ly/2Sam2:18-2Sam2:32\">2 Samuel 2:18–32</a>). Joab later murdered Abner in a planned act of revenge (<a href=\"https://ref.ly/2Sam3:22-2Sam3:30\">2 Samuel 3:22–30</a>), which David could not stop (see <a href=\"https://ref.ly/2Sam3:38-2Sam3:39\">2 Samuel 3:38–39</a>). David honored Abner with a eulogy (a speech of praise commemorating his life and achievements), public mourning, and a state funeral (<a href=\"https://ref.ly/2Sam3:31-2Sam3:37\">2 Samuel 3:31–37</a>). Later, David remembered these events and ensured Joab was punished for the murder (<a href=\"https://ref.ly/1Kgs2:5-1Kgs2:6\">1 Kings 2:5–6</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Sam14:49-1Sam14:52\">1 Samuel 14:49–52</a>; <a href=\"https://ref.ly/1Sam17:55-1Sam17:58\">17:55–58</a>; <a href=\"https://ref.ly/1Sam26:5-1Sam26:16\">26:5–16</a>; <a href=\"https://ref.ly/2Sam2:8-2Sam2:29\">2 Samuel 2:8–29</a>; <a href=\"https://ref.ly/2Sam3:6-2Sam3:39\">3:6–39</a>; <a href=\"https://ref.ly/1Kgs2:5\">1 Kings 2:5</a>, <a href=\"https://ref.ly/1Kgs2:32\">32</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11002005",
+          "start_ref_usfm": "1KI 2:5",
+          "end_ref": "11002005",
+          "end_ref_usfm": "1KI 2:5"
+        },
+        {
+          "start_ref": "11002032",
+          "start_ref_usfm": "1KI 2:32",
+          "end_ref": "11002032",
+          "end_ref_usfm": "1KI 2:32"
+        },
+        {
+          "start_ref": "09017001",
+          "start_ref_usfm": "1SA 17:1",
+          "end_ref": "09017058",
+          "end_ref_usfm": "1SA 17:58"
+        },
+        {
+          "start_ref": "11002005",
+          "start_ref_usfm": "1KI 2:5",
+          "end_ref": "11002006",
+          "end_ref_usfm": "1KI 2:6"
+        },
+        {
+          "start_ref": "09026001",
+          "start_ref_usfm": "1SA 26:1",
+          "end_ref": "09026025",
+          "end_ref_usfm": "1SA 26:25"
+        },
+        {
+          "start_ref": "10002018",
+          "start_ref_usfm": "2SA 2:18",
+          "end_ref": "10002032",
+          "end_ref_usfm": "2SA 2:32"
+        },
+        {
+          "start_ref": "10004001",
+          "start_ref_usfm": "2SA 4:1",
+          "end_ref": "10004012",
+          "end_ref_usfm": "2SA 4:12"
+        },
+        {
+          "start_ref": "09017055",
+          "start_ref_usfm": "1SA 17:55",
+          "end_ref": "09017058",
+          "end_ref_usfm": "1SA 17:58"
+        },
+        {
+          "start_ref": "09014049",
+          "start_ref_usfm": "1SA 14:49",
+          "end_ref": "09014052",
+          "end_ref_usfm": "1SA 14:52"
+        },
+        {
+          "start_ref": "09020024",
+          "start_ref_usfm": "1SA 20:24",
+          "end_ref": "09020025",
+          "end_ref_usfm": "1SA 20:25"
+        },
+        {
+          "start_ref": "10002008",
+          "start_ref_usfm": "2SA 2:8",
+          "end_ref": "10002012",
+          "end_ref_usfm": "2SA 2:12"
+        },
+        {
+          "start_ref": "10003022",
+          "start_ref_usfm": "2SA 3:22",
+          "end_ref": "10003030",
+          "end_ref_usfm": "2SA 3:30"
+        },
+        {
+          "start_ref": "10003038",
+          "start_ref_usfm": "2SA 3:38",
+          "end_ref": "10003039",
+          "end_ref_usfm": "2SA 3:39"
+        },
+        {
+          "start_ref": "10003031",
+          "start_ref_usfm": "2SA 3:31",
+          "end_ref": "10003037",
+          "end_ref_usfm": "2SA 3:37"
+        },
+        {
+          "start_ref": "09026005",
+          "start_ref_usfm": "1SA 26:5",
+          "end_ref": "09026016",
+          "end_ref_usfm": "1SA 26:16"
+        },
+        {
+          "start_ref": "10002008",
+          "start_ref_usfm": "2SA 2:8",
+          "end_ref": "10002029",
+          "end_ref_usfm": "2SA 2:29"
+        },
+        {
+          "start_ref": "10003006",
+          "start_ref_usfm": "2SA 3:6",
+          "end_ref": "10003039",
+          "end_ref_usfm": "2SA 3:39"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 500465,
+    "reference_id": 203408,
+    "version": "1.0.1",
+    "title": "Abraham",
+    "media_type": "Text",
+    "index_reference": "abraham",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>“<span>By faith Abraham, when called to go to a place he would later receive as his inheritance, obeyed and went, without knowing where he was going…By faith Abraham, when he was tested, offered up Isaac on the altar</span>” (<a href=\"https://ref.ly/Heb11:8\">Hebrews 11:8</a>, <a href=\"https://ref.ly/Heb11:17\">17</a>). These key events in Abraham’s life show the faithful obedience for which he is best known.</p><p>God summoned Abram from the city of Ur to lead God&apos;s people. Abram&apos;s family ties are in <a href=\"https://ref.ly/Gen11:26-Gen11:32\">Genesis 11:26–32</a>. Terah had three sons: </p><ol><li><p>Abram</p></li><li><p>Nahor</p></li><li><p>Haran</p></li></ol><p>Terah left Ur with Abram, Abram&apos;s wife Sarai, and Lot, whose father, Haran, had died. On his way to Canaan, Terah settled in the city of Haran (<a href=\"https://ref.ly/Gen11:31\">Genesis 11:31</a>). God called Abram to a new land while he was still in Ur (<a href=\"https://ref.ly/Acts7:2-Acts7:4\">Acts 7:2–4</a>). God told Abram, “<span>Leave your country, your kindred, and your father’s household, and go to the land I will show you</span>” (<a href=\"https://ref.ly/Gen12:1\">Genesis 12:1</a>). God blessed Abram by making a covenant (special agreement) with him that included promises of great blessing, many descendants, and a new land (<a href=\"https://ref.ly/Gen12:1-Gen12:3\">Genesis 12:1–3</a>). These promises later saved Israel from destruction when they often failed to keep their covenant with God (see <a href=\"https://ref.ly/Lev26:40-Lev26:45\">Leviticus 26:40–45</a>).</p><p>Abram left Haran when he was seventy-five years old. Upon entering Canaan, he first went to Shechem, a Canaanite city between Mount Gerizim and Mount Ebal. God appeared to Abram near the oak of Moreh, which was likely a Canaanite place of worship. Abram built altars there and near Bethel (<a href=\"https://ref.ly/Gen12:6-Gen12:8\">Genesis 12:6–8</a>). He proclaimed the one true God at these places of false worship. Abram later moved to Hebron by the oaks of Mamre and built another altar to worship God (<a href=\"https://ref.ly/Gen13:18\">Genesis 13:18</a>).</p><p>When God promised blessings to Abram again in a vision (<a href=\"https://ref.ly/Gen15:1\">Genesis 15:1</a>), Abram said he was still childless because Sarai could not have children (<a href=\"https://ref.ly/Gen11:30\">Genesis 11:30</a>). Eliezer of Damascus was his heir (<a href=\"https://ref.ly/Gen15:2\">Genesis 15:2</a>). The Nuzi documents, found in the ancient Mesopotamian city of Nuzi, explain this. According to Hurrian custom, a wealthy childless couple could adopt an heir, often a slave, who would handle their burial and mourning. However, if a natural son was born after adopting the slave-heir, the son would replace him. It seems Abram adopted Eliezer this way, but God promised Abram&apos;s own son would be his heir (<a href=\"https://ref.ly/Gen15:4\">Genesis 15:4</a>).</p><p>Abram&apos;s life was marked by his belief in the Lord, who considered him righteous due to his faith (<a href=\"https://ref.ly/Gen15:6\">Genesis 15:6</a>; see <a href=\"https://ref.ly/Rom4:3\">Romans 4:3</a>; <a href=\"https://ref.ly/Gal3:6\">Galatians 3:6</a>; <a href=\"https://ref.ly/Jas2:23\">Jamess 2:23</a>). Abram was not declared righteous because he was without sin. He sometimes failed to do what was right—twice he lied about Sarai out of fear, and he tried to have a son with Hagar instead of waiting for God (<a href=\"https://ref.ly/Gen16:1-Gen16:5\">Genesis 16:1–5</a>). However, he consistently returned to faith as the main principle of his life before God.</p><p>Abram was eighty-six years old when Ishmael was born to Sarai’s servant, Hagar. When Abram was ninety-nine, the Lord appeared to him and confirmed His promise of a son and blessings (<a href=\"https://ref.ly/Gen17:1-Gen17:27\">Genesis 17</a>). He added circumcision as a sign of this covenant (<a href=\"https://ref.ly/Gen17:9-Gen17:14\">Genesis 17:9–14</a>). God also changed Abram’s name to Abraham and Sarai’s name to Sarah (<a href=\"https://ref.ly/Gen17:5\">Genesis 17:5</a>, <a href=\"https://ref.ly/Gen17:15\">15</a>). Abraham laughed at the promise of another son (<a href=\"https://ref.ly/Gen17:17\">Genesis 17:17</a>). Soon after, the Lord appeared again to Abraham (<a href=\"https://ref.ly/Gen18:1-Gen18:15\">Genesis 18:1–15</a>) and repeated the promise of a son. This time, Sarah laughed in disbelief (<a href=\"https://ref.ly/Gen18:10-Gen18:15\">Genesis 18:10–15</a>). Abraham was one hundred years old, and Sarah was ninety when the Lord fulfilled His promise (<a href=\"https://ref.ly/Gen21:1\">Genesis 21:1</a>). The long-promised son was born and was named Isaac, meaning “he laughs.”</p><p>The ultimate test of Abraham&apos;s faith occurred when God told him to sacrifice Isaac (<a href=\"https://ref.ly/Gen22:1-Gen22:19\">Genesis 22:1–19</a>). Abraham obeyed, trusting that God would fulfill His plans (see <a href=\"https://ref.ly/Heb11:17-Heb11:19\">Hebrews 11:17–19</a>). As Abraham was about to use the knife, an angel stopped him and provided a ram to sacrifice instead of Isaac. Abraham&apos;s faith was proven (<a href=\"https://ref.ly/Gen22:10-Gen22:13\">Genesis 22:10–13</a>).</p><p>Christians see Isaac&apos;s sacrifice as a sign of God providing his only Son, Jesus Christ, as a sacrifice for the world&apos;s sins. God fulfilled his promise to Abraham through Jesus Christ, who offers salvation to all who have faith (<a href=\"https://ref.ly/Rom4:16-Rom4:17\">Romans 4:16–17</a>), making believers Abraham&apos;s spiritual descendants (<a href=\"https://ref.ly/Gal3:29\">Galatians 3:29</a>). Abraham&apos;s life shows that God is faithful and deserves belief and obedience. The full meaning of God&apos;s promise was realized when the gospel (the good news about Jesus) was shared with all nations, and people from all families of the earth responded in faith (see <a href=\"https://ref.ly/Gal3:6-Gal3:9\">Galatians 3:6–9</a>).</p><p>Abraham was called God&apos;s friend (<a href=\"https://ref.ly/2Chr20:7\">2 Chronicles 20:7</a>; <a href=\"https://ref.ly/Jas2:23\">James 2:23</a>). Everyone who lives by faith should try to live like him, trusting God&apos;s guidance and support each day. Abraham is one of many great &quot;witnesses&quot; to a life of faith (<a href=\"https://ref.ly/Heb12:1\">Hebrews 12:1</a>; see <a href=\"https://ref.ly/Heb11:1-Heb11:40\">Hebrews 11</a>). He inspires believers to keep their faith because we know God is faithful.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen11:26-Gen25:11\">Genesis 11:26–25:11</a>; <a href=\"https://ref.ly/Gen26:2-Gen26:5\">26:2–5</a>; <a href=\"https://ref.ly/Exod3:15-Exod3:16\">Exodus 3:15–16</a>; <a href=\"https://ref.ly/Exod6:3\">6:3</a>; <a href=\"https://ref.ly/Exod32:13\">32:13</a>; <a href=\"https://ref.ly/Josh24:2-Josh24:3\">Joshua 24:2–3</a>; <a href=\"https://ref.ly/1Chr1:27-1Chr1:34\">1 Chronicles 1:27–34</a>; <a href=\"https://ref.ly/2Chr20:7\">2 Chronicles 20:7</a>; <a href=\"https://ref.ly/Isa29:22\">Isaiah 29:22</a>; <a href=\"https://ref.ly/Isa41:8\">41:8</a>; <a href=\"https://ref.ly/Isa51:1-Isa51:2\">51:1–2</a>; <a href=\"https://ref.ly/Ezek33:24\">Ezekiel 33:24</a>; <a href=\"https://ref.ly/Matt1:1-Matt1:2\">Matthew 1:1–2</a>; <a href=\"https://ref.ly/Matt3:9\">3:9</a>; <a href=\"https://ref.ly/Matt8:11\">8:11</a>; <a href=\"https://ref.ly/Matt22:31-Matt22:33\">22:31–33</a>; <a href=\"https://ref.ly/Luke16:19-Luke16:31\">Luke 16:19–31</a>; <a href=\"https://ref.ly/John8:31-John8:58\">John 8:31–58</a>; <a href=\"https://ref.ly/Acts7:2-Acts7:8\">Acts 7:2–8</a>; <a href=\"https://ref.ly/Rom4:1-Rom4:23\">Romans 4:1–23</a>; <a href=\"https://ref.ly/Rom9:5-Rom9:9\">9:5–9</a>; <a href=\"https://ref.ly/Rom11:16-Rom11:17\">11:16–17</a>; <a href=\"https://ref.ly/Gal3:6-Gal3:29\">Galatians 3:6–29</a>; <a href=\"https://ref.ly/Heb6:13-Heb6:15\">Hebrews 6:13–15</a>; <a href=\"https://ref.ly/Heb11:8-Heb11:12\">11:8–12</a>, <a href=\"https://ref.ly/Heb11:17-Heb11:19\">17–19</a>; <a href=\"https://ref.ly/Jas2:21-Jas2:23\">James 2:21–23</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011030",
+          "start_ref_usfm": "GEN 11:30",
+          "end_ref": "01011030",
+          "end_ref_usfm": "GEN 11:30"
+        },
+        {
+          "start_ref": "01011031",
+          "start_ref_usfm": "GEN 11:31",
+          "end_ref": "01011031",
+          "end_ref_usfm": "GEN 11:31"
+        },
+        {
+          "start_ref": "01012001",
+          "start_ref_usfm": "GEN 12:1",
+          "end_ref": "01012001",
+          "end_ref_usfm": "GEN 12:1"
+        },
+        {
+          "start_ref": "01013018",
+          "start_ref_usfm": "GEN 13:18",
+          "end_ref": "01013018",
+          "end_ref_usfm": "GEN 13:18"
+        },
+        {
+          "start_ref": "01015001",
+          "start_ref_usfm": "GEN 15:1",
+          "end_ref": "01015001",
+          "end_ref_usfm": "GEN 15:1"
+        },
+        {
+          "start_ref": "01015002",
+          "start_ref_usfm": "GEN 15:2",
+          "end_ref": "01015002",
+          "end_ref_usfm": "GEN 15:2"
+        },
+        {
+          "start_ref": "01015004",
+          "start_ref_usfm": "GEN 15:4",
+          "end_ref": "01015004",
+          "end_ref_usfm": "GEN 15:4"
+        },
+        {
+          "start_ref": "01015006",
+          "start_ref_usfm": "GEN 15:6",
+          "end_ref": "01015006",
+          "end_ref_usfm": "GEN 15:6"
+        },
+        {
+          "start_ref": "01017005",
+          "start_ref_usfm": "GEN 17:5",
+          "end_ref": "01017005",
+          "end_ref_usfm": "GEN 17:5"
+        },
+        {
+          "start_ref": "01017015",
+          "start_ref_usfm": "GEN 17:15",
+          "end_ref": "01017015",
+          "end_ref_usfm": "GEN 17:15"
+        },
+        {
+          "start_ref": "01017017",
+          "start_ref_usfm": "GEN 17:17",
+          "end_ref": "01017017",
+          "end_ref_usfm": "GEN 17:17"
+        },
+        {
+          "start_ref": "01021001",
+          "start_ref_usfm": "GEN 21:1",
+          "end_ref": "01021001",
+          "end_ref_usfm": "GEN 21:1"
+        },
+        {
+          "start_ref": "02006003",
+          "start_ref_usfm": "EXO 6:3",
+          "end_ref": "02006003",
+          "end_ref_usfm": "EXO 6:3"
+        },
+        {
+          "start_ref": "02032013",
+          "start_ref_usfm": "EXO 32:13",
+          "end_ref": "02032013",
+          "end_ref_usfm": "EXO 32:13"
+        },
+        {
+          "start_ref": "14020007",
+          "start_ref_usfm": "2CH 20:7",
+          "end_ref": "14020007",
+          "end_ref_usfm": "2CH 20:7"
+        },
+        {
+          "start_ref": "23029022",
+          "start_ref_usfm": "ISA 29:22",
+          "end_ref": "23029022",
+          "end_ref_usfm": "ISA 29:22"
+        },
+        {
+          "start_ref": "23041008",
+          "start_ref_usfm": "ISA 41:8",
+          "end_ref": "23041008",
+          "end_ref_usfm": "ISA 41:8"
+        },
+        {
+          "start_ref": "26033024",
+          "start_ref_usfm": "EZK 33:24",
+          "end_ref": "26033024",
+          "end_ref_usfm": "EZK 33:24"
+        },
+        {
+          "start_ref": "40003009",
+          "start_ref_usfm": "MAT 3:9",
+          "end_ref": "40003009",
+          "end_ref_usfm": "MAT 3:9"
+        },
+        {
+          "start_ref": "40008011",
+          "start_ref_usfm": "MAT 8:11",
+          "end_ref": "40008011",
+          "end_ref_usfm": "MAT 8:11"
+        },
+        {
+          "start_ref": "45004003",
+          "start_ref_usfm": "ROM 4:3",
+          "end_ref": "45004003",
+          "end_ref_usfm": "ROM 4:3"
+        },
+        {
+          "start_ref": "48003006",
+          "start_ref_usfm": "GAL 3:6",
+          "end_ref": "48003006",
+          "end_ref_usfm": "GAL 3:6"
+        },
+        {
+          "start_ref": "48003029",
+          "start_ref_usfm": "GAL 3:29",
+          "end_ref": "48003029",
+          "end_ref_usfm": "GAL 3:29"
+        },
+        {
+          "start_ref": "58011008",
+          "start_ref_usfm": "HEB 11:8",
+          "end_ref": "58011008",
+          "end_ref_usfm": "HEB 11:8"
+        },
+        {
+          "start_ref": "58011017",
+          "start_ref_usfm": "HEB 11:17",
+          "end_ref": "58011017",
+          "end_ref_usfm": "HEB 11:17"
+        },
+        {
+          "start_ref": "58012001",
+          "start_ref_usfm": "HEB 12:1",
+          "end_ref": "58012001",
+          "end_ref_usfm": "HEB 12:1"
+        },
+        {
+          "start_ref": "59002023",
+          "start_ref_usfm": "JAS 2:23",
+          "end_ref": "59002023",
+          "end_ref_usfm": "JAS 2:23"
+        },
+        {
+          "start_ref": "42016019",
+          "start_ref_usfm": "LUK 16:19",
+          "end_ref": "42016031",
+          "end_ref_usfm": "LUK 16:31"
+        },
+        {
+          "start_ref": "01017001",
+          "start_ref_usfm": "GEN 17:1",
+          "end_ref": "01017027",
+          "end_ref_usfm": "GEN 17:27"
+        },
+        {
+          "start_ref": "01018001",
+          "start_ref_usfm": "GEN 18:1",
+          "end_ref": "01018015",
+          "end_ref_usfm": "GEN 18:15"
+        },
+        {
+          "start_ref": "01022001",
+          "start_ref_usfm": "GEN 22:1",
+          "end_ref": "01022019",
+          "end_ref_usfm": "GEN 22:19"
+        },
+        {
+          "start_ref": "01011026",
+          "start_ref_usfm": "GEN 11:26",
+          "end_ref": "01011032",
+          "end_ref_usfm": "GEN 11:32"
+        },
+        {
+          "start_ref": "44007002",
+          "start_ref_usfm": "ACT 7:2",
+          "end_ref": "44007004",
+          "end_ref_usfm": "ACT 7:4"
+        },
+        {
+          "start_ref": "01012001",
+          "start_ref_usfm": "GEN 12:1",
+          "end_ref": "01012003",
+          "end_ref_usfm": "GEN 12:3"
+        },
+        {
+          "start_ref": "01017009",
+          "start_ref_usfm": "GEN 17:9",
+          "end_ref": "01017014",
+          "end_ref_usfm": "GEN 17:14"
+        },
+        {
+          "start_ref": "48003006",
+          "start_ref_usfm": "GAL 3:6",
+          "end_ref": "48003009",
+          "end_ref_usfm": "GAL 3:9"
+        },
+        {
+          "start_ref": "02003015",
+          "start_ref_usfm": "EXO 3:15",
+          "end_ref": "02003016",
+          "end_ref_usfm": "EXO 3:16"
+        },
+        {
+          "start_ref": "58011001",
+          "start_ref_usfm": "HEB 11:1",
+          "end_ref": "58011040",
+          "end_ref_usfm": "HEB 11:40"
+        },
+        {
+          "start_ref": "01012006",
+          "start_ref_usfm": "GEN 12:6",
+          "end_ref": "01012008",
+          "end_ref_usfm": "GEN 12:8"
+        },
+        {
+          "start_ref": "01026002",
+          "start_ref_usfm": "GEN 26:2",
+          "end_ref": "01026005",
+          "end_ref_usfm": "GEN 26:5"
+        },
+        {
+          "start_ref": "58011017",
+          "start_ref_usfm": "HEB 11:17",
+          "end_ref": "58011019",
+          "end_ref_usfm": "HEB 11:19"
+        },
+        {
+          "start_ref": "03026040",
+          "start_ref_usfm": "LEV 26:40",
+          "end_ref": "03026045",
+          "end_ref_usfm": "LEV 26:45"
+        },
+        {
+          "start_ref": "45004016",
+          "start_ref_usfm": "ROM 4:16",
+          "end_ref": "45004017",
+          "end_ref_usfm": "ROM 4:17"
+        },
+        {
+          "start_ref": "58006013",
+          "start_ref_usfm": "HEB 6:13",
+          "end_ref": "58006015",
+          "end_ref_usfm": "HEB 6:15"
+        },
+        {
+          "start_ref": "44007002",
+          "start_ref_usfm": "ACT 7:2",
+          "end_ref": "44007008",
+          "end_ref_usfm": "ACT 7:8"
+        },
+        {
+          "start_ref": "45011016",
+          "start_ref_usfm": "ROM 11:16",
+          "end_ref": "45011017",
+          "end_ref_usfm": "ROM 11:17"
+        },
+        {
+          "start_ref": "01018010",
+          "start_ref_usfm": "GEN 18:10",
+          "end_ref": "01018015",
+          "end_ref_usfm": "GEN 18:15"
+        },
+        {
+          "start_ref": "01016001",
+          "start_ref_usfm": "GEN 16:1",
+          "end_ref": "01016005",
+          "end_ref_usfm": "GEN 16:5"
+        },
+        {
+          "start_ref": "01022010",
+          "start_ref_usfm": "GEN 22:10",
+          "end_ref": "01022013",
+          "end_ref_usfm": "GEN 22:13"
+        },
+        {
+          "start_ref": "01011026",
+          "start_ref_usfm": "GEN 11:26",
+          "end_ref": "01025011",
+          "end_ref_usfm": "GEN 25:11"
+        },
+        {
+          "start_ref": "06024002",
+          "start_ref_usfm": "JOS 24:2",
+          "end_ref": "06024003",
+          "end_ref_usfm": "JOS 24:3"
+        },
+        {
+          "start_ref": "13001027",
+          "start_ref_usfm": "1CH 1:27",
+          "end_ref": "13001034",
+          "end_ref_usfm": "1CH 1:34"
+        },
+        {
+          "start_ref": "23051001",
+          "start_ref_usfm": "ISA 51:1",
+          "end_ref": "23051002",
+          "end_ref_usfm": "ISA 51:2"
+        },
+        {
+          "start_ref": "40001001",
+          "start_ref_usfm": "MAT 1:1",
+          "end_ref": "40001002",
+          "end_ref_usfm": "MAT 1:2"
+        },
+        {
+          "start_ref": "40022031",
+          "start_ref_usfm": "MAT 22:31",
+          "end_ref": "40022033",
+          "end_ref_usfm": "MAT 22:33"
+        },
+        {
+          "start_ref": "43008031",
+          "start_ref_usfm": "JHN 8:31",
+          "end_ref": "43008058",
+          "end_ref_usfm": "JHN 8:58"
+        },
+        {
+          "start_ref": "45004001",
+          "start_ref_usfm": "ROM 4:1",
+          "end_ref": "45004023",
+          "end_ref_usfm": "ROM 4:23"
+        },
+        {
+          "start_ref": "45009005",
+          "start_ref_usfm": "ROM 9:5",
+          "end_ref": "45009009",
+          "end_ref_usfm": "ROM 9:9"
+        },
+        {
+          "start_ref": "48003006",
+          "start_ref_usfm": "GAL 3:6",
+          "end_ref": "48003029",
+          "end_ref_usfm": "GAL 3:29"
+        },
+        {
+          "start_ref": "58011008",
+          "start_ref_usfm": "HEB 11:8",
+          "end_ref": "58011012",
+          "end_ref_usfm": "HEB 11:12"
+        },
+        {
+          "start_ref": "59002021",
+          "start_ref_usfm": "JAS 2:21",
+          "end_ref": "59002023",
+          "end_ref_usfm": "JAS 2:23"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 500496,
+    "reference_id": 203439,
+    "version": "1.0.1",
+    "title": "Absalom",
+    "media_type": "Text",
+    "index_reference": "absalom",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>Absalom was the son of King David. The Bible says Absalom was &quot;handsome and highly praised&quot; (<a href=\"https://ref.ly/2Sam14:25-2Sam14:26\">2 Samuel 14:25–26</a>). When his sister Tamar was raped and abandoned by their half-brother Amnon, Absalom provided care and protection for her (<a href=\"https://ref.ly/2Sam13:1-2Sam13:20\">2 Samuel 13:1–20</a>). He might have expected David to punish Amnon, but David did nothing (<a href=\"https://ref.ly/2Sam13:21\">2 Samuel 13:21</a>). For two years, Absalom&apos;s anger and hatred increased (<a href=\"https://ref.ly/2Sam13:22\">2 Samuel 13:22</a>). Then he murdered Amnon and fled to his grandfather, King Talmai of Geshur (<a href=\"https://ref.ly/2Sam13:23-2Sam13:39\">2 Samuel 13:23–39</a>).</p><p>After three years, Joab convinced David to bring Absalom back. However, David neither punished nor reconciled with him. Absalom lived in Jerusalem for two years with privilege but felt isolated. Then he insisted on seeing the king. They met and appeared to reconcile (<a href=\"https://ref.ly/2Sam14:28-2Sam14:33\">2 Samuel 14:28–33</a>). </p><p>For Absalom, this meeting might have been a step toward the throne. Afterward, he started a campaign to weaken the people&apos;s trust in David (<a href=\"https://ref.ly/2Sam15:1-2Sam15:6\">2 Samuel 15:1–6</a>). Eventually, Absalom&apos;s deceitful ways succeeded. He started a rebellion and gathered supporters in Hebron from all over Israel. By the time David heard about what Absalom was doing, he could only flee Jerusalem (<a href=\"https://ref.ly/2Sam15:13-2Sam15:37\">2 Samuel 15:13–37</a>; see <a href=\"https://ref.ly/Ps3:1-Ps3:8\">Psalm 3</a>).</p><p>David&apos;s wisest adviser was Ahithophel. When Absalom arrived in Jerusalem, Ahithophel joined Absalom and advised a quick attack while David was weak. However, Hushai, David&apos;s secret agent, suggested gathering more troops and attacking with overwhelming force. This advice appealed to Absalom&apos;s ego, but it was a fatal mistake. Both advisers knew it was wrong to give experienced warriors like David and his men time to gather strength, scout, and plan. </p><p>By the time Absalom led his forces across the Jordan River to fight in the forest of Ephraim, David and his loyal forces were well-rested and led by the capable Joab, Abishai, and Ittai from Gath. David&apos;s men outmaneuvered Absalom&apos;s larger forces and defeated them. Absalom fled on a mule, but his long hair got caught in a tree. Joab and his men found Absalom hanging helplessly and killed him, despite David&apos;s order to show him mercy (<a href=\"https://ref.ly/2Sam18:1-2Sam18:18\">2 Samuel 18:1–18</a>).</p><p>Absalom&apos;s death shocked David, and his grief almost pushed away those who risked their lives to stop Absalom&apos;s rebellion against the kingdom (<a href=\"https://ref.ly/2Sam18:33-2Sam19:8\">2 Samuel 18:33–19:8</a>). Absalom had reasons to be unhappy with David&apos;s rule. However, instead of following his father&apos;s example of trusting in the Lord and respecting the anointed king, Absalom started a rebellion that led to his own death (<a href=\"https://ref.ly/1Sam24:5-1Sam24:11\">1 Samuel 24:5–11</a>; <a href=\"https://ref.ly/1Sam26:5-1Sam26:24\">26:5–24</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/2Sam3:3\">2 Samuel 3:3</a>; <a href=\"https://ref.ly/2Sam13:1-2Sam19:10\">2 Samuel 13:1–19:10</a>; <a href=\"https://ref.ly/1Kgs2:7\">1 Kings 2:7</a>; <a href=\"https://ref.ly/1Kgs15:2\">15:2</a>, <a href=\"https://ref.ly/1Kgs15:10\">10</a>; <a href=\"https://ref.ly/1Chr3:2\">1 Chronicles 3:2</a>; <a href=\"https://ref.ly/Ps3:1\">Psalm 3:1</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10003003",
+          "start_ref_usfm": "2SA 3:3",
+          "end_ref": "10003003",
+          "end_ref_usfm": "2SA 3:3"
+        },
+        {
+          "start_ref": "10013021",
+          "start_ref_usfm": "2SA 13:21",
+          "end_ref": "10013021",
+          "end_ref_usfm": "2SA 13:21"
+        },
+        {
+          "start_ref": "10013022",
+          "start_ref_usfm": "2SA 13:22",
+          "end_ref": "10013022",
+          "end_ref_usfm": "2SA 13:22"
+        },
+        {
+          "start_ref": "11002007",
+          "start_ref_usfm": "1KI 2:7",
+          "end_ref": "11002007",
+          "end_ref_usfm": "1KI 2:7"
+        },
+        {
+          "start_ref": "11015002",
+          "start_ref_usfm": "1KI 15:2",
+          "end_ref": "11015002",
+          "end_ref_usfm": "1KI 15:2"
+        },
+        {
+          "start_ref": "11015010",
+          "start_ref_usfm": "1KI 15:10",
+          "end_ref": "11015010",
+          "end_ref_usfm": "1KI 15:10"
+        },
+        {
+          "start_ref": "13003002",
+          "start_ref_usfm": "1CH 3:2",
+          "end_ref": "13003002",
+          "end_ref_usfm": "1CH 3:2"
+        },
+        {
+          "start_ref": "19003001",
+          "start_ref_usfm": "PSA 3:1",
+          "end_ref": "19003001",
+          "end_ref_usfm": "PSA 3:1"
+        },
+        {
+          "start_ref": "10014025",
+          "start_ref_usfm": "2SA 14:25",
+          "end_ref": "10014026",
+          "end_ref_usfm": "2SA 14:26"
+        },
+        {
+          "start_ref": "10013001",
+          "start_ref_usfm": "2SA 13:1",
+          "end_ref": "10013020",
+          "end_ref_usfm": "2SA 13:20"
+        },
+        {
+          "start_ref": "10015001",
+          "start_ref_usfm": "2SA 15:1",
+          "end_ref": "10015006",
+          "end_ref_usfm": "2SA 15:6"
+        },
+        {
+          "start_ref": "19003001",
+          "start_ref_usfm": "PSA 3:1",
+          "end_ref": "19003008",
+          "end_ref_usfm": "PSA 3:8"
+        },
+        {
+          "start_ref": "10018001",
+          "start_ref_usfm": "2SA 18:1",
+          "end_ref": "10018018",
+          "end_ref_usfm": "2SA 18:18"
+        },
+        {
+          "start_ref": "10013023",
+          "start_ref_usfm": "2SA 13:23",
+          "end_ref": "10013039",
+          "end_ref_usfm": "2SA 13:39"
+        },
+        {
+          "start_ref": "10014028",
+          "start_ref_usfm": "2SA 14:28",
+          "end_ref": "10014033",
+          "end_ref_usfm": "2SA 14:33"
+        },
+        {
+          "start_ref": "10015013",
+          "start_ref_usfm": "2SA 15:13",
+          "end_ref": "10015037",
+          "end_ref_usfm": "2SA 15:37"
+        },
+        {
+          "start_ref": "10018033",
+          "start_ref_usfm": "2SA 18:33",
+          "end_ref": "10019008",
+          "end_ref_usfm": "2SA 19:8"
+        },
+        {
+          "start_ref": "09024005",
+          "start_ref_usfm": "1SA 24:5",
+          "end_ref": "09024011",
+          "end_ref_usfm": "1SA 24:11"
+        },
+        {
+          "start_ref": "09026005",
+          "start_ref_usfm": "1SA 26:5",
+          "end_ref": "09026024",
+          "end_ref_usfm": "1SA 26:24"
+        },
+        {
+          "start_ref": "10013001",
+          "start_ref_usfm": "2SA 13:1",
+          "end_ref": "10019010",
+          "end_ref_usfm": "2SA 19:10"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 500450,
+    "reference_id": 203393,
+    "version": "1.0.1",
+    "title": "Adam and Eve",
+    "media_type": "Text",
+    "index_reference": "adam and eve",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>Adam was the first man and the father of humanity. God created the first couple in his image to fill the earth and manage creation (<a href=\"https://ref.ly/Gen1:26-Gen1:31\">Genesis 1:26–31</a>). God made Adam from the earth and gave him life (<a href=\"https://ref.ly/Gen2:7\">Genesis 2:7</a>). Adam&apos;s tasks included: </p><ul><li><p>Tending the garden where God placed him (<a href=\"https://ref.ly/Gen2:15\">Genesis 2:15</a>)</p></li><li><p>Naming the animals (<a href=\"https://ref.ly/Gen2:19-Gen2:20\">Genesis 2:19–20</a>)</p></li><li><p>Following God&apos;s instructions (<a href=\"https://ref.ly/Gen1:28\">Genesis 1:28</a>; <a href=\"https://ref.ly/Gen2:16-Gen2:17\">2:16–17</a>)</p></li></ul><p>God created the first woman to be Adam&apos;s companion and helper (<a href=\"https://ref.ly/Gen2:18-Gen2:22\">Genesis 2:18–22</a>). Eve&apos;s creation from Adam&apos;s rib shows the unity God wanted for marriage (<a href=\"https://ref.ly/Gen2:23-Gen2:25\">Genesis 2:23–25</a>). She is honored as &quot;<span>the mother of all the living</span>&quot; (<a href=\"https://ref.ly/Gen3:20\">Genesis 3:20</a>).</p><p>After the serpent tricked Eve into rejecting God&apos;s rule, Adam also rebelled (<a href=\"https://ref.ly/Gen3:1-Gen3:6\">Genesis 3:1–6</a>). Their deliberate disobedience damaged their relationship (<a href=\"https://ref.ly/Gen3:7\">Genesis 3:7</a>). Their disobedience also separated them from God. God looked for Adam after his rebellion. He and Eve were hiding among the trees, already feeling the separation (<a href=\"https://ref.ly/Gen3:8\">Genesis 3:8</a>). </p><p>When God questioned him, Adam blamed Eve and indirectly blamed God (<a href=\"https://ref.ly/Gen3:12\">Genesis 3:12</a>). Their rebellion led to pain, strained relationships, difficulty in managing the earth, and both physical and spiritual death (<a href=\"https://ref.ly/Gen3:16-Gen3:19\">Genesis 3:16–19</a>, <a href=\"https://ref.ly/Gen3:22-Gen3:24\">22–24</a>). Despite this, God provided animal skins to cover Adam and Eve (<a href=\"https://ref.ly/Gen3:21\">Genesis 3:21</a>). God promised that Eve&apos;s descendants would defeat Satan (<a href=\"https://ref.ly/Gen3:15\">Genesis 3:15</a>; see <a href=\"https://ref.ly/Rom16:20\">Romans 16:20</a>; <a href=\"https://ref.ly/Rev12:1-Rev12:9\">Revelation 12:1–9</a>; <a href=\"https://ref.ly/Rev20:1-Rev20:10\">20:1–10</a>).</p><p>Adam was a historical person (<a href=\"https://ref.ly/Gen4:25\">Genesis 4:25</a>; <a href=\"https://ref.ly/Gen5:1-Gen5:5\">5:1–5</a>; <a href=\"https://ref.ly/1Chr1:1\">1 Chronicles 1:1</a>; <a href=\"https://ref.ly/Hos6:7\">Hosea 6:7</a>; <a href=\"https://ref.ly/Luke3:38\">Luke 3:38</a>; <a href=\"https://ref.ly/Rom5:14\">Romans 5:14</a>; <a href=\"https://ref.ly/1Cor15:22\">1 Corinthians 15:22</a>, <a href=\"https://ref.ly/1Cor15:45\">45</a>; <a href=\"https://ref.ly/1Tim2:13-1Tim2:14\">1 Timothy 2:13–14</a>; <a href=\"https://ref.ly/Jude1:14\">Jude 1:14</a>). Adam also symbolizes all of humanity. God&apos;s commands in <a href=\"https://ref.ly/Gen1:26-Gen1:30\">Genesis 1:26–30</a> and curses in <a href=\"https://ref.ly/Gen3:16-Gen3:19\">3:16–19</a> affected not only Adam and Eve but everyone. Adam represents the separation from God that all people experience.</p><p>The apostle Paul compared people represented by Adam, the first man, with those who follow Jesus Christ, the &quot;last Adam&quot; (<a href=\"https://ref.ly/Rom5:12-Rom5:21\">Romans 5:12–21</a>; <a href=\"https://ref.ly/1Cor15:45-1Cor15:50\">1 Corinthians 15:45–50</a>; see also <a href=\"https://ref.ly/Rom8:5-Rom8:11\">Romans 8:5–11</a>, <a href=\"https://ref.ly/Rom8:20-Rom8:22\">20–22</a>). People represented by Adam live like him. They share in his sin, separation from God and creation, and spiritual death. In contrast, those who follow Jesus live by faith in him. They are remade in Christ’s image and become &quot;new people&quot; who share in a new creation (see <a href=\"https://ref.ly/Rom8:29\">Romans 8:29</a>; <a href=\"https://ref.ly/1Cor15:49\">1 Corinthians 15:49</a>; <a href=\"https://ref.ly/2Cor5:17\">2 Corinthians 5:17</a>; <a href=\"https://ref.ly/Gal6:15\">Galatians 6:15</a>). Jesus removes the barriers that Adam and Eve created (<a href=\"https://ref.ly/Rom5:1\">Romans 5:1</a>; <a href=\"https://ref.ly/2Cor5:19\">2 Corinthians 5:19</a>; <a href=\"https://ref.ly/Gal3:27-Gal3:28\">Galatians 3:27–28</a>; <a href=\"https://ref.ly/Eph2:14-Eph2:16\">Ephesians 2:14–16</a>). Jesus restores what they lost.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen1:26-Gen1:31\">Genesis 1:26–31</a>; <a href=\"https://ref.ly/Gen2:4-Gen3:24\">2:4–3:24</a>; <a href=\"https://ref.ly/Gen4:25-Gen5:5\">4:25–5:5</a>; <a href=\"https://ref.ly/Hos6:6-Hos6:7\">Hosea 6:6–7</a>; <a href=\"https://ref.ly/Luke3:38\">Luke 3:38</a>; <a href=\"https://ref.ly/Rom5:12-Rom5:21\">Romans 5:12–21</a>; <a href=\"https://ref.ly/1Cor15:22\">1 Corinthians 15:22</a>, <a href=\"https://ref.ly/1Cor15:45-1Cor15:49\">45–49</a>; <a href=\"https://ref.ly/1Tim2:13-1Tim2:14\">1 Timothy 2:13–14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001028",
+          "start_ref_usfm": "GEN 1:28",
+          "end_ref": "01001028",
+          "end_ref_usfm": "GEN 1:28"
+        },
+        {
+          "start_ref": "01002007",
+          "start_ref_usfm": "GEN 2:7",
+          "end_ref": "01002007",
+          "end_ref_usfm": "GEN 2:7"
+        },
+        {
+          "start_ref": "01002015",
+          "start_ref_usfm": "GEN 2:15",
+          "end_ref": "01002015",
+          "end_ref_usfm": "GEN 2:15"
+        },
+        {
+          "start_ref": "01003007",
+          "start_ref_usfm": "GEN 3:7",
+          "end_ref": "01003007",
+          "end_ref_usfm": "GEN 3:7"
+        },
+        {
+          "start_ref": "01003008",
+          "start_ref_usfm": "GEN 3:8",
+          "end_ref": "01003008",
+          "end_ref_usfm": "GEN 3:8"
+        },
+        {
+          "start_ref": "01003012",
+          "start_ref_usfm": "GEN 3:12",
+          "end_ref": "01003012",
+          "end_ref_usfm": "GEN 3:12"
+        },
+        {
+          "start_ref": "01003015",
+          "start_ref_usfm": "GEN 3:15",
+          "end_ref": "01003015",
+          "end_ref_usfm": "GEN 3:15"
+        },
+        {
+          "start_ref": "01003020",
+          "start_ref_usfm": "GEN 3:20",
+          "end_ref": "01003020",
+          "end_ref_usfm": "GEN 3:20"
+        },
+        {
+          "start_ref": "01003021",
+          "start_ref_usfm": "GEN 3:21",
+          "end_ref": "01003021",
+          "end_ref_usfm": "GEN 3:21"
+        },
+        {
+          "start_ref": "01004025",
+          "start_ref_usfm": "GEN 4:25",
+          "end_ref": "01004025",
+          "end_ref_usfm": "GEN 4:25"
+        },
+        {
+          "start_ref": "13001001",
+          "start_ref_usfm": "1CH 1:1",
+          "end_ref": "13001001",
+          "end_ref_usfm": "1CH 1:1"
+        },
+        {
+          "start_ref": "28006007",
+          "start_ref_usfm": "HOS 6:7",
+          "end_ref": "28006007",
+          "end_ref_usfm": "HOS 6:7"
+        },
+        {
+          "start_ref": "42003038",
+          "start_ref_usfm": "LUK 3:38",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        },
+        {
+          "start_ref": "45005001",
+          "start_ref_usfm": "ROM 5:1",
+          "end_ref": "45005001",
+          "end_ref_usfm": "ROM 5:1"
+        },
+        {
+          "start_ref": "45005014",
+          "start_ref_usfm": "ROM 5:14",
+          "end_ref": "45005014",
+          "end_ref_usfm": "ROM 5:14"
+        },
+        {
+          "start_ref": "45008029",
+          "start_ref_usfm": "ROM 8:29",
+          "end_ref": "45008029",
+          "end_ref_usfm": "ROM 8:29"
+        },
+        {
+          "start_ref": "45016020",
+          "start_ref_usfm": "ROM 16:20",
+          "end_ref": "45016020",
+          "end_ref_usfm": "ROM 16:20"
+        },
+        {
+          "start_ref": "46015022",
+          "start_ref_usfm": "1CO 15:22",
+          "end_ref": "46015022",
+          "end_ref_usfm": "1CO 15:22"
+        },
+        {
+          "start_ref": "46015045",
+          "start_ref_usfm": "1CO 15:45",
+          "end_ref": "46015045",
+          "end_ref_usfm": "1CO 15:45"
+        },
+        {
+          "start_ref": "46015049",
+          "start_ref_usfm": "1CO 15:49",
+          "end_ref": "46015049",
+          "end_ref_usfm": "1CO 15:49"
+        },
+        {
+          "start_ref": "47005017",
+          "start_ref_usfm": "2CO 5:17",
+          "end_ref": "47005017",
+          "end_ref_usfm": "2CO 5:17"
+        },
+        {
+          "start_ref": "47005019",
+          "start_ref_usfm": "2CO 5:19",
+          "end_ref": "47005019",
+          "end_ref_usfm": "2CO 5:19"
+        },
+        {
+          "start_ref": "48006015",
+          "start_ref_usfm": "GAL 6:15",
+          "end_ref": "48006015",
+          "end_ref_usfm": "GAL 6:15"
+        },
+        {
+          "start_ref": "65001014",
+          "start_ref_usfm": "JUD 1:14",
+          "end_ref": "65001014",
+          "end_ref_usfm": "JUD 1:14"
+        },
+        {
+          "start_ref": "01001026",
+          "start_ref_usfm": "GEN 1:26",
+          "end_ref": "01001031",
+          "end_ref_usfm": "GEN 1:31"
+        },
+        {
+          "start_ref": "01002004",
+          "start_ref_usfm": "GEN 2:4",
+          "end_ref": "01003024",
+          "end_ref_usfm": "GEN 3:24"
+        },
+        {
+          "start_ref": "01002016",
+          "start_ref_usfm": "GEN 2:16",
+          "end_ref": "01002017",
+          "end_ref_usfm": "GEN 2:17"
+        },
+        {
+          "start_ref": "01002018",
+          "start_ref_usfm": "GEN 2:18",
+          "end_ref": "01002022",
+          "end_ref_usfm": "GEN 2:22"
+        },
+        {
+          "start_ref": "01005001",
+          "start_ref_usfm": "GEN 5:1",
+          "end_ref": "01005005",
+          "end_ref_usfm": "GEN 5:5"
+        },
+        {
+          "start_ref": "54002013",
+          "start_ref_usfm": "1TI 2:13",
+          "end_ref": "54002014",
+          "end_ref_usfm": "1TI 2:14"
+        },
+        {
+          "start_ref": "01001026",
+          "start_ref_usfm": "GEN 1:26",
+          "end_ref": "01001030",
+          "end_ref_usfm": "GEN 1:30"
+        },
+        {
+          "start_ref": "01003016",
+          "start_ref_usfm": "GEN 3:16",
+          "end_ref": "01003019",
+          "end_ref_usfm": "GEN 3:19"
+        },
+        {
+          "start_ref": "45005012",
+          "start_ref_usfm": "ROM 5:12",
+          "end_ref": "45005021",
+          "end_ref_usfm": "ROM 5:21"
+        },
+        {
+          "start_ref": "46015045",
+          "start_ref_usfm": "1CO 15:45",
+          "end_ref": "46015050",
+          "end_ref_usfm": "1CO 15:50"
+        },
+        {
+          "start_ref": "45008020",
+          "start_ref_usfm": "ROM 8:20",
+          "end_ref": "45008022",
+          "end_ref_usfm": "ROM 8:22"
+        },
+        {
+          "start_ref": "48003027",
+          "start_ref_usfm": "GAL 3:27",
+          "end_ref": "48003028",
+          "end_ref_usfm": "GAL 3:28"
+        },
+        {
+          "start_ref": "49002014",
+          "start_ref_usfm": "EPH 2:14",
+          "end_ref": "49002016",
+          "end_ref_usfm": "EPH 2:16"
+        },
+        {
+          "start_ref": "46015045",
+          "start_ref_usfm": "1CO 15:45",
+          "end_ref": "46015049",
+          "end_ref_usfm": "1CO 15:49"
+        },
+        {
+          "start_ref": "01002019",
+          "start_ref_usfm": "GEN 2:19",
+          "end_ref": "01002020",
+          "end_ref_usfm": "GEN 2:20"
+        },
+        {
+          "start_ref": "01003022",
+          "start_ref_usfm": "GEN 3:22",
+          "end_ref": "01003024",
+          "end_ref_usfm": "GEN 3:24"
+        },
+        {
+          "start_ref": "66020001",
+          "start_ref_usfm": "REV 20:1",
+          "end_ref": "66020010",
+          "end_ref_usfm": "REV 20:10"
+        },
+        {
+          "start_ref": "01003001",
+          "start_ref_usfm": "GEN 3:1",
+          "end_ref": "01003006",
+          "end_ref_usfm": "GEN 3:6"
+        },
+        {
+          "start_ref": "01002023",
+          "start_ref_usfm": "GEN 2:23",
+          "end_ref": "01002025",
+          "end_ref_usfm": "GEN 2:25"
+        },
+        {
+          "start_ref": "66012001",
+          "start_ref_usfm": "REV 12:1",
+          "end_ref": "66012009",
+          "end_ref_usfm": "REV 12:9"
+        },
+        {
+          "start_ref": "45008005",
+          "start_ref_usfm": "ROM 8:5",
+          "end_ref": "45008011",
+          "end_ref_usfm": "ROM 8:11"
+        },
+        {
+          "start_ref": "01004025",
+          "start_ref_usfm": "GEN 4:25",
+          "end_ref": "01005005",
+          "end_ref_usfm": "GEN 5:5"
+        },
+        {
+          "start_ref": "28006006",
+          "start_ref_usfm": "HOS 6:6",
+          "end_ref": "28006007",
+          "end_ref_usfm": "HOS 6:7"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 500500,
+    "reference_id": 203443,
+    "version": "1.0.1",
+    "title": "Ahab",
+    "media_type": "Text",
+    "index_reference": "ahab",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>Ahab, the eighth king of Israel, took over the northern kingdom from his strong father, Omri (<a href=\"https://ref.ly/1Kgs16:27-1Kgs16:28\">1 Kings 16:27–28</a>). He ruled Israel from 874 to 853 BC. Ahab married Jezebel, the daughter of King Ethbaal of Sidon. Influenced by her, Ahab started worshiping Baal instead of the Lord (<a href=\"https://ref.ly/1Kgs16:29-1Kgs16:33\">1 Kings 16:29–33</a>).</p><p>Ahab won several battles. He defeated the Arameans (<a href=\"https://ref.ly/1Kgs20:1-1Kgs20:34\">1 Kings 20:1–34</a>). In 853 BC, he led a group of kings against the Assyrian king Shalmaneser III, winning the Battle of Qarqar. However, the Old Testament shares little good news about Ahab, who betrayed God. God sent the prophet Elijah to challenge Ahab, Jezebel, and their prophets and to reaffirm the true God&apos;s supremacy (<a href=\"https://ref.ly/1Kgs17:1\">1 Kings 17:1</a>; <a href=\"https://ref.ly/1Kgs18:1-1Kgs18:46\">18:1–46</a>).</p><p>Ahab not only betrayed the Lord, but he also treated his people badly, as shown in the story of Naboth and his vineyard (<a href=\"https://ref.ly/1Kgs21:1-1Kgs21:29\">1 Kings 21:1–29</a>). In Israel, people owned their land as a gift from God. When Ahab wanted to take Naboth&apos;s vineyard and Naboth refused, Ahab became frustrated. Jezebel, who knew a different kind of kingship where kings took what they wanted, helped Ahab by telling lies about Naboth to have him killed. Naboth was executed on false charges, and Ahab took the land. However, the Lord did not let Ahab escape punishment. He sent Elijah to announce a death sentence for Ahab and his family.</p><p>War began again with Aram, and Ahab asked Jehoshaphat, the southern king, to be his ally (<a href=\"https://ref.ly/1Kgs22:2-1Kgs22:4\">1 Kings 22:2–4</a>; <a href=\"https://ref.ly/2Chr18:1-2Chr18:3\">2 Chronicles 18:1–3</a>). Jehoshaphat still believed in the Lord, so he convinced Ahab to consult God&apos;s prophet Micaiah. Micaiah predicted that this battle would end Ahab&apos;s life (<a href=\"https://ref.ly/1Kgs22:5-1Kgs22:28\">1 Kings 22:5–28</a>; <a href=\"https://ref.ly/2Chr18:4-2Chr18:27\">2 Chronicles 18:4–27</a>). Ahab tried to avoid this by wearing ordinary armor and having Jehoshaphat wear royal battle clothes as a decoy, but he could not deceive God. An archer&apos;s arrow hit the joint of Ahab&apos;s armor, and he died, &quot;<span>according to the word that the LORD had spoken</span>&quot; (<a href=\"https://ref.ly/1Kgs22:38\">1 Kings 22:38</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Kgs16:29-1Kgs22:53\">1 Kings 16:29–22:53</a>; <a href=\"https://ref.ly/2Chr18:1-2Chr18:34\">2 Chronicles 18:1–34</a>; <a href=\"https://ref.ly/Mic6:16\">Micah 6:16</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11017001",
+          "start_ref_usfm": "1KI 17:1",
+          "end_ref": "11017001",
+          "end_ref_usfm": "1KI 17:1"
+        },
+        {
+          "start_ref": "11022038",
+          "start_ref_usfm": "1KI 22:38",
+          "end_ref": "11022038",
+          "end_ref_usfm": "1KI 22:38"
+        },
+        {
+          "start_ref": "33006016",
+          "start_ref_usfm": "MIC 6:16",
+          "end_ref": "33006016",
+          "end_ref_usfm": "MIC 6:16"
+        },
+        {
+          "start_ref": "11022002",
+          "start_ref_usfm": "1KI 22:2",
+          "end_ref": "11022004",
+          "end_ref_usfm": "1KI 22:4"
+        },
+        {
+          "start_ref": "14018001",
+          "start_ref_usfm": "2CH 18:1",
+          "end_ref": "14018003",
+          "end_ref_usfm": "2CH 18:3"
+        },
+        {
+          "start_ref": "11022005",
+          "start_ref_usfm": "1KI 22:5",
+          "end_ref": "11022028",
+          "end_ref_usfm": "1KI 22:28"
+        },
+        {
+          "start_ref": "14018004",
+          "start_ref_usfm": "2CH 18:4",
+          "end_ref": "14018027",
+          "end_ref_usfm": "2CH 18:27"
+        },
+        {
+          "start_ref": "11021001",
+          "start_ref_usfm": "1KI 21:1",
+          "end_ref": "11021029",
+          "end_ref_usfm": "1KI 21:29"
+        },
+        {
+          "start_ref": "11016029",
+          "start_ref_usfm": "1KI 16:29",
+          "end_ref": "11016033",
+          "end_ref_usfm": "1KI 16:33"
+        },
+        {
+          "start_ref": "11018001",
+          "start_ref_usfm": "1KI 18:1",
+          "end_ref": "11018046",
+          "end_ref_usfm": "1KI 18:46"
+        },
+        {
+          "start_ref": "14018001",
+          "start_ref_usfm": "2CH 18:1",
+          "end_ref": "14018034",
+          "end_ref_usfm": "2CH 18:34"
+        },
+        {
+          "start_ref": "11020001",
+          "start_ref_usfm": "1KI 20:1",
+          "end_ref": "11020034",
+          "end_ref_usfm": "1KI 20:34"
+        },
+        {
+          "start_ref": "11016027",
+          "start_ref_usfm": "1KI 16:27",
+          "end_ref": "11016028",
+          "end_ref_usfm": "1KI 16:28"
+        },
+        {
+          "start_ref": "11016029",
+          "start_ref_usfm": "1KI 16:29",
+          "end_ref": "11022053",
+          "end_ref_usfm": "1KI 22:53"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 500506,
+    "reference_id": 203449,
+    "version": "1.0.1",
+    "title": "Ahaz",
+    "media_type": "Text",
+    "index_reference": "ahaz",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>Ahaz ruled Judah during a difficult time, from 743 to 715 BC. His father, Jotham, and his son, Hezekiah, were praised for following the Lord (see <a href=\"https://ref.ly/2Kgs15:32-2Kgs15:38\">2 Kings 15:32–38</a>; <a href=\"https://ref.ly/2Chr27:1-2Chr27:9\">2 Chronicles 27:1–9</a>; and <a href=\"https://ref.ly/2Kgs18:1-2Kgs18:8\">2 Kings 18:1–8</a>). However, Ahaz was wicked and even sacrificed one of his sons to false gods.</p><p>There was a lot of conflict during Ahaz&apos;s reign. King Pekah of Israel and King Rezin of Aram (Syria) wanted him to join a group against Assyria, but he refused. So, Pekah and Rezin attacked Judah and won major victories, which greatly scared Ahaz. Isaiah the prophet encouraged Ahaz to trust in the Lord, but Ahaz refused (<a href=\"https://ref.ly/Isa7:1-Isa7:25\">Isaiah 7</a>).</p><p>Ahaz showed his lack of trust in the true God by asking Tiglath-pileser III for help (<a href=\"https://ref.ly/2Kgs16:7-2Kgs16:9\">2 Kings 16:7–9</a>). Ahaz made Judah dangerously dependent on Assyria, turning it into a vassal state. The Assyrian king then defeated the Arameans in a two-year campaign that lasted from 734 to 732 BC and killed Rezin. He subdued Israel and added large areas of Pekah’s land to the Assyrian Empire (<a href=\"https://ref.ly/2Kgs15:29\">2 Kings 15:29</a>).</p><p>Ahaz became a devoted follower of Assyria. He adopted many religious practices based on Assyrian examples. Ahaz visited Tiglath-pileser III in Damascus. There, he saw an Assyrian altar and sent a model of it to Jerusalem. A similar altar was built there, replacing the original bronze altar (<a href=\"https://ref.ly/2Kgs16:10-2Kgs16:18\">2 Kings 16:10–18</a>). Several other changes to the temple also show Ahaz&apos;s departure from faith in the Lord.</p><p>Ahaz shows why the people of Judah were eventually exiled. He did not act properly as a king (<a href=\"https://ref.ly/Deut17:14-Deut17:20\">Deuteronomy 17:14–20</a>). He also did not worship the Lord. When he died, his son Hezekiah became king (<a href=\"https://ref.ly/2Kgs16:20\">2 Kings 16:20</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/2Kgs15:38-2Kgs16:20\">2 Kings 15:38–16:20</a>; <a href=\"https://ref.ly/2Chr27:9-2Chr28:27\">2 Chronicles 27:9–28:27</a>; <a href=\"https://ref.ly/Isa7:1-Isa7:25\">Isaiah 7:1–25</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12015029",
+          "start_ref_usfm": "2KI 15:29",
+          "end_ref": "12015029",
+          "end_ref_usfm": "2KI 15:29"
+        },
+        {
+          "start_ref": "12016020",
+          "start_ref_usfm": "2KI 16:20",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "23007001",
+          "start_ref_usfm": "ISA 7:1",
+          "end_ref": "23007025",
+          "end_ref_usfm": "ISA 7:25"
+        },
+        {
+          "start_ref": "12016007",
+          "start_ref_usfm": "2KI 16:7",
+          "end_ref": "12016009",
+          "end_ref_usfm": "2KI 16:9"
+        },
+        {
+          "start_ref": "12016010",
+          "start_ref_usfm": "2KI 16:10",
+          "end_ref": "12016018",
+          "end_ref_usfm": "2KI 16:18"
+        },
+        {
+          "start_ref": "05017014",
+          "start_ref_usfm": "DEU 17:14",
+          "end_ref": "05017020",
+          "end_ref_usfm": "DEU 17:20"
+        },
+        {
+          "start_ref": "12015032",
+          "start_ref_usfm": "2KI 15:32",
+          "end_ref": "12015038",
+          "end_ref_usfm": "2KI 15:38"
+        },
+        {
+          "start_ref": "14027001",
+          "start_ref_usfm": "2CH 27:1",
+          "end_ref": "14027009",
+          "end_ref_usfm": "2CH 27:9"
+        },
+        {
+          "start_ref": "12018001",
+          "start_ref_usfm": "2KI 18:1",
+          "end_ref": "12018008",
+          "end_ref_usfm": "2KI 18:8"
+        },
+        {
+          "start_ref": "12015038",
+          "start_ref_usfm": "2KI 15:38",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "14027009",
+          "start_ref_usfm": "2CH 27:9",
+          "end_ref": "14028027",
+          "end_ref_usfm": "2CH 28:27"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 500552,
+    "reference_id": 203495,
+    "version": "1.0.1",
+    "title": "Annas and Caiaphas",
+    "media_type": "Text",
+    "index_reference": "annas and caiaphas",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>Annas and Caiaphas were both high priests during Jesus&apos; time. They played key roles in condemning Jesus to death.</p><p>Annas was the Jewish high priest around AD 6 to 15. Even after the Roman procurator of Judea removed him, he remained very powerful and influential in the Jewish high council. People still called him &quot;high priest&quot; fifteen to twenty years later (<a href=\"https://ref.ly/Luke3:2\">Luke 3:2</a>; <a href=\"https://ref.ly/Acts4:6\">Acts 4:6</a>). This might be because Jews believed high priests held their position for life. Five of his sons and his son-in-law, Caiaphas, became high priests after him. According to the Gospel of John, when Jesus was arrested, he was first taken to Annas for questioning before being handed over to Caiaphas for the official trial (<a href=\"https://ref.ly/John18:13-John18:24\">John 18:13–24</a>).</p><p>Caiaphas was the Jewish high priest from around AD 18 to 36. He worked closely with his influential father-in-law, Annas. Caiaphas argued in the high council that sacrificing Jesus would be better than risking the nation&apos;s destruction (<a href=\"https://ref.ly/John11:49-John11:50\">John 11:49–50</a>). God gave him these prophetic words because he was the high priest (<a href=\"https://ref.ly/John11:51-John11:52\">John 11:51–52</a>). During Jesus&apos; trial, Caiaphas tore his robes when Jesus claimed to be the Son of God. He urged the high council to condemn Jesus for blasphemy (<a href=\"https://ref.ly/Matt26:57-Matt26:66\">Matthew 26:57–66</a>).</p><p>Shortly after Jesus&apos;s execution, Jewish leaders grew worried about the rising number of Christ&apos;s followers. Annas and Caiaphas questioned Peter and John about healing a crippled beggar and preaching about the resurrection of the dead (<a href=\"https://ref.ly/Acts4:5-Acts4:7\">Acts 4:5–7</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt26:3-Matt26:5\">Matthew 26:3–5</a>, <a href=\"https://ref.ly/Matt26:57-Matt26:67\">57–67</a>; <a href=\"https://ref.ly/Mark14:53-Mark14:65\">Mark 14:53–65</a>; <a href=\"https://ref.ly/Luke3:2\">Luke 3:2</a>; <a href=\"https://ref.ly/John11:49-John11:53\">John 11:49–53</a>; <a href=\"https://ref.ly/John18:13-John18:28\">John 18:13–28</a>; <a href=\"https://ref.ly/Acts4:5-Acts4:7\">Acts 4:5–7</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42003002",
+          "start_ref_usfm": "LUK 3:2",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "44004006",
+          "start_ref_usfm": "ACT 4:6",
+          "end_ref": "44004006",
+          "end_ref_usfm": "ACT 4:6"
+        },
+        {
+          "start_ref": "41014053",
+          "start_ref_usfm": "MRK 14:53",
+          "end_ref": "41014065",
+          "end_ref_usfm": "MRK 14:65"
+        },
+        {
+          "start_ref": "43011051",
+          "start_ref_usfm": "JHN 11:51",
+          "end_ref": "43011052",
+          "end_ref_usfm": "JHN 11:52"
+        },
+        {
+          "start_ref": "40026003",
+          "start_ref_usfm": "MAT 26:3",
+          "end_ref": "40026005",
+          "end_ref_usfm": "MAT 26:5"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026066",
+          "end_ref_usfm": "MAT 26:66"
+        },
+        {
+          "start_ref": "44004005",
+          "start_ref_usfm": "ACT 4:5",
+          "end_ref": "44004007",
+          "end_ref_usfm": "ACT 4:7"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018024",
+          "end_ref_usfm": "JHN 18:24"
+        },
+        {
+          "start_ref": "43011049",
+          "start_ref_usfm": "JHN 11:49",
+          "end_ref": "43011050",
+          "end_ref_usfm": "JHN 11:50"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026067",
+          "end_ref_usfm": "MAT 26:67"
+        },
+        {
+          "start_ref": "43011049",
+          "start_ref_usfm": "JHN 11:49",
+          "end_ref": "43011053",
+          "end_ref_usfm": "JHN 11:53"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018028",
+          "end_ref_usfm": "JHN 18:28"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 500532,
+    "reference_id": 203475,
+    "version": "1.0.1",
+    "title": "Antiochus IV",
+    "media_type": "Text",
+    "index_reference": "antiochus iv",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>Antiochus IV is the most important Seleucid ruler in biblical literature. The Seleucids were a powerful Greek family that controlled much of the Middle East after Alexander the Great died. Antiochus IV is known as one of history&apos;s cruelest tyrants. He strongly believed in Zeus (the main Greek god) and aimed to unify his territories by promoting Greek culture, law, and religion. This led to violent conflict with the Jews in Judea.</p><p>Antiochus IV was born in 215 BC with the name Mithradates. He was the son of Antiochus III but not the chosen heir of the Seleucid kingdom. After the Battle of Magnesia in 190 BC, Mithradates went to Rome as a hostage to ensure his father paid debts to Rome. His brother, Seleucus IV, began ruling in 187 BC. Mithradates used schemes to free himself. After his brother was murdered, Mithradates became the Seleucid king and was called Antiochus IV. He called himself Epiphanes, meaning &quot;god manifest.&quot; However, his unpredictable behavior led critics to nickname him Epimanes, meaning &quot;manifestly insane.&quot;</p><p>Antiochus wanted to spread Greek culture and needed money. This led him to sell the Jewish high priesthood to the highest bidder who supported Hellenization (the spread of Greek culture, law, and religion). He sold the position of high priest twice: first to Jason in 174 BC and then to Menelaus, who offered more money, in 171 BC.</p><p>Antiochus wanted to control Egypt, so he invaded in 169 BC. Meanwhile, Jason tried to regain the high priest&apos;s office in Jerusalem but failed. Antiochus suspected rebellion, so after his successful campaign in Egypt, he attacked Jerusalem. He killed and enslaved thousands and looted the Temple. The next year, Antiochus attacked Egypt again, but Roman forces helped Egypt. Antiochus was stopped outside Alexandria. There, the Roman legate Popilius humiliated him by drawing a circle around him and forcing him to decide to surrender before leaving the circle.</p><p>In 167 BC, Antiochus sent troops to massacre the men of Jerusalem and enslave the women and children. By his order, practicing Judaism became illegal and punishable by death. Jews had to take part in pagan sacrifices. Antiochus believed that destroying the Jewish nation would secure his borders and support his Hellenization program. However, it had the opposite effect. </p><p>Open rebellion began later that year in the village of Modein near Jerusalem. When the king’s representative came to enforce the ban on Judaism, a Jewish priest named Mattathias killed him. Mattathias then fled with his followers to the nearby hills. This act started the Maccabean rebellion. Mattathias’s sons eventually took control of Jerusalem and purified the temple in 164 BC. They later achieved semi-independence for Judea.</p><p>Many already thought Antiochus was insane. The Maccabees&apos; success and his failure to stop the Jewish revolt worsened his madness. He retreated to Persia, where he died in 164 BC.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Dan11:21-Dan11:35\">Daniel 11:21–35</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27011021",
+          "start_ref_usfm": "DAN 11:21",
+          "end_ref": "27011035",
+          "end_ref_usfm": "DAN 11:35"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 500563,
+    "reference_id": 203506,
+    "version": "1.0.1",
+    "title": "Apollos",
+    "media_type": "Text",
+    "index_reference": "apollos",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>Apollos was a Greek-speaking Jew who knew the Scriptures well. He became a strong evangelist (someone who shared the good news about Jesus with many people) and a Christian apologist (someone who defended Christian beliefs). He was from Alexandria, Egypt, which had a large Jewish community. Apollos likely learned from John the Baptist&apos;s followers. He then preached boldly and enthusiastically about Jesus in Jewish synagogues, even though he did not know about Christian baptism.</p><p>When Priscilla and Aquila heard Apollos preach in Ephesus, they invited him to their home. They explained the way of Christ to him more fully. The believers in Ephesus encouraged him because they saw that God had gifted him for ministry. Then, Apollos traveled to the city of Corinth in Achaia. There, he greatly helped the believers. He was an effective defender of the good news about Jesus in public debates with the Jews. He boldly showed that Jesus is the Messiah (God&apos;s chosen one) as predicted in Scripture (<a href=\"https://ref.ly/Acts18:24-Acts18:28\">Acts 18:24–28</a>).</p><p>Apollos was a skilled speaker. He was popular with some Christians in Corinth because of his intellectual style. His strong ministry attracted some people more than Paul&apos;s did (<a href=\"https://ref.ly/1Cor1:11-1Cor1:12\">1 Corinthians 1:11–12</a>). Paul defended his own simple way of preaching the good news about Jesus, possibly due to comparisons with Apollos. </p><p>Importantly, Paul never criticized Apollos. He called Apollos a fellow servant and appreciated the work Apollos did. Apollos continued the work that Paul had started, and God blessed both their efforts (&quot;I planted the seed and Apollos watered it,&quot; <a href=\"https://ref.ly/1Cor3:5-1Cor3:9\">1 Corinthians 3:5–9</a>; <a href=\"https://ref.ly/1Cor4:1\">4:1</a>). Instead, Paul criticized the shallow views and divisions among those who followed Apollos for superficial reasons (see <a href=\"https://ref.ly/1Cor1:10-1Cor1:12\">1 Corinthians 1:10–12</a>; <a href=\"https://ref.ly/1Cor3:3-1Cor3:4\">3:3–4</a>; <a href=\"https://ref.ly/1Cor4:6-1Cor4:7\">4:6–7</a>).</p><p>Apollos may have hesitated to return to Corinth from Ephesus because of the divisions his ministry caused (<a href=\"https://ref.ly/1Cor16:12\">1 Corinthians 16:12</a>). However, Paul encouraged him to go back eventually. Several years later, while Apollos was working on the island of Crete, Paul urged Titus to ensure Apollos&apos;s needs were met as he departed for an unknown destination for more missionary work (<a href=\"https://ref.ly/Titus3:13\">Titus 3:13</a>). Apollos, with his strong intellect and powerful speaking skills, had a different approach and style from Paul, yet both were effective and useful in serving Christ.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts18:24-Acts19:1\">Acts 18:24–19:1</a>; <a href=\"https://ref.ly/1Cor1:10-1Cor1:12\">1 Corinthians 1:10–12</a>; <a href=\"https://ref.ly/1Cor3:3-1Cor3:9\">3:3–9</a>; <a href=\"https://ref.ly/1Cor4:1\">4:1</a>, <a href=\"https://ref.ly/1Cor4:6-1Cor4:7\">6–7</a>; <a href=\"https://ref.ly/1Cor16:12\">16:12</a>; <a href=\"https://ref.ly/2Cor10:10\">2 Corinthians 10:10</a>; <a href=\"https://ref.ly/Titus3:13\">Titus 3:13</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46004001",
+          "start_ref_usfm": "1CO 4:1",
+          "end_ref": "46004001",
+          "end_ref_usfm": "1CO 4:1"
+        },
+        {
+          "start_ref": "46016012",
+          "start_ref_usfm": "1CO 16:12",
+          "end_ref": "46016012",
+          "end_ref_usfm": "1CO 16:12"
+        },
+        {
+          "start_ref": "47010010",
+          "start_ref_usfm": "2CO 10:10",
+          "end_ref": "47010010",
+          "end_ref_usfm": "2CO 10:10"
+        },
+        {
+          "start_ref": "56003013",
+          "start_ref_usfm": "TIT 3:13",
+          "end_ref": "56003013",
+          "end_ref_usfm": "TIT 3:13"
+        },
+        {
+          "start_ref": "44018024",
+          "start_ref_usfm": "ACT 18:24",
+          "end_ref": "44018028",
+          "end_ref_usfm": "ACT 18:28"
+        },
+        {
+          "start_ref": "44018024",
+          "start_ref_usfm": "ACT 18:24",
+          "end_ref": "44019001",
+          "end_ref_usfm": "ACT 19:1"
+        },
+        {
+          "start_ref": "46003003",
+          "start_ref_usfm": "1CO 3:3",
+          "end_ref": "46003009",
+          "end_ref_usfm": "1CO 3:9"
+        },
+        {
+          "start_ref": "46003005",
+          "start_ref_usfm": "1CO 3:5",
+          "end_ref": "46003009",
+          "end_ref_usfm": "1CO 3:9"
+        },
+        {
+          "start_ref": "46001011",
+          "start_ref_usfm": "1CO 1:11",
+          "end_ref": "46001012",
+          "end_ref_usfm": "1CO 1:12"
+        },
+        {
+          "start_ref": "46001010",
+          "start_ref_usfm": "1CO 1:10",
+          "end_ref": "46001012",
+          "end_ref_usfm": "1CO 1:12"
+        },
+        {
+          "start_ref": "46003003",
+          "start_ref_usfm": "1CO 3:3",
+          "end_ref": "46003004",
+          "end_ref_usfm": "1CO 3:4"
+        },
+        {
+          "start_ref": "46004006",
+          "start_ref_usfm": "1CO 4:6",
+          "end_ref": "46004007",
+          "end_ref_usfm": "1CO 4:7"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 500503,
+    "reference_id": 203446,
+    "version": "1.0.1",
+    "title": "Arameans",
+    "media_type": "Text",
+    "index_reference": "arameans",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>The Arameans belonged to a family of peoples who descended from Noah&apos;s son Shem (<a href=\"https://ref.ly/Gen10:22-Gen10:23\">Genesis 10:22–23</a>; compare <a href=\"https://ref.ly/Gen22:20-Gen22:21\">Genesis 22:20–21</a>). Bethuel and Laban were known as Arameans (<a href=\"https://ref.ly/Gen25:20\">Genesis 25:20</a>; <a href=\"https://ref.ly/Gen28:1-Gen28:7\">28:1–7</a>). Jacob lived with them in Aramean territory for about twenty years (<a href=\"https://ref.ly/Gen28:1-Gen31:55\">Genesis 28–31</a>; <a href=\"https://ref.ly/Hos12:12\">Hosea 12:12</a>), and the people of Israel remembered that their ancestors were culturally Arameans (<a href=\"https://ref.ly/Deut26:5\">Deuteronomy 26:5</a>).</p><p>The Arameans appeared in history around Abraham&apos;s time. They lived near the central Euphrates and spread east, west, and north. By about 1100 BC, Aramean tribes were throughout Syria and northern Transjordan (the land east of the Jordan River). They established strong city-states like Zobah and Damascus, which conflicted with the Israelites starting with David&apos;s time (see <a href=\"https://ref.ly/2Sam8:3-2Sam8:8\">2 Samuel 8:3–8</a>; <a href=\"https://ref.ly/2Sam10:6-2Sam10:19\">10:6–19</a>).</p><p>After Solomon died, Israel split into northern and southern kingdoms. During this time, the Aramean city of Damascus became very powerful. The rulers of Damascus often took advantage of the fighting between the two kingdoms of Israel. During the war between Israel and Judah from 890 to 880 BC, King Asa of Israel asked Ben-hadad I of Damascus for help (<a href=\"https://ref.ly/1Kgs15:18-1Kgs15:19\">1 Kings 15:18–19</a>). </p><p>About thirty years later, in the early 850s BC, Ben-hadad invaded Israel, but Ahab defeated him at Samaria (<a href=\"https://ref.ly/1Kgs20:1-1Kgs20:21\">1 Kings 20:1–21</a>) and again at Aphek the next year (<a href=\"https://ref.ly/1Kgs20:22-1Kgs20:34\">20:22–34</a>). After three years of peace, Israel and Damascus fought again in 853 BC, and Ahab was killed in battle (<a href=\"https://ref.ly/1Kgs22:29-1Kgs22:37\">1 Kings 22:29–37</a>). Aramean Damascus continued to cause losses for Israel over the next several decades (see <a href=\"https://ref.ly/2Kgs8:28-2Kgs8:29\">2 Kings 8:28–29</a>; <a href=\"https://ref.ly/2Kgs12:17-2Kgs12:18\">12:17–18</a>; <a href=\"https://ref.ly/2Kgs13:1-2Kgs13:7\">13:1–7</a>).</p><p>During this time, the Aramean city-states began to feel pressure from Assyria. Assyria first defeated Damascus around 838 BC and forced it to pay tribute in 803 BC. This weakened Damascus, allowing Jehoash, the king of Israel from 798 to 782 BC, to defeat the Arameans and drive them out of Israel&apos;s territory around 795 BC (<a href=\"https://ref.ly/2Kgs13:14-2Kgs13:25\">2 Kings 13:14–25</a>). Later, Jeroboam II, who ruled from 793 to 753 BC, made Damascus pay tribute to him (see <a href=\"https://ref.ly/2Kgs14:28\">2 Kings 14:28</a>).</p><p>Around 738 BC, the Arameans of Damascus allied with Israel to conquer Judah. They captured much land, but their siege of Jerusalem failed (<a href=\"https://ref.ly/2Kgs16:5\">2 Kings 16:5</a>; see also <a href=\"https://ref.ly/2Chr28:5\">2 Chronicles 28:5</a>). During this apparent success for Damascus, the prophets Isaiah and Amos predicted the city&apos;s destruction (<a href=\"https://ref.ly/Isa8:4\">Isaiah 8:4</a>; <a href=\"https://ref.ly/Isa17:1\">17:1</a>; <a href=\"https://ref.ly/Amos1:3-Amos1:5\">Amos 1:3–5</a>). Instead of trusting God, King Ahaz of Judah sought protection from the Assyrians. The Assyrians responded to his gifts by attacking Damascus and exiling its people in 733 and 732 BC (<a href=\"https://ref.ly/2Kgs16:7-2Kgs16:11\">2 Kings 16:7–11</a>). Damascus ceased to be an independent city-state.</p><p>The Arameans&apos; language, Aramaic, became the main language for diplomacy and administration across the Near East (see, for example, <a href=\"https://ref.ly/2Kgs18:26\">2 Kings 18:26</a>). During the exile in Babylon, the Jews started using Aramaic; parts of Ezra and Daniel are in Aramaic. Aramaic was the common language from Egypt to India during the Persian period and was widely spoken in Palestine during Jesus&apos; time (see <a href=\"https://ref.ly/Mark5:41\">Mark 5:41</a>; <a href=\"https://ref.ly/1Cor16:22\">1 Corinthians 16:22</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen10:22-Gen10:23\">Genesis 10:22–23</a>; <a href=\"https://ref.ly/Gen22:20-Gen22:21\">22:20–21</a>; <a href=\"https://ref.ly/Gen25:20\">25:20</a>; <a href=\"https://ref.ly/Gen28:1-Gen28:7\">28:1–7</a>; <a href=\"https://ref.ly/Deut26:5\">Deuteronomy 26:5</a>; <a href=\"https://ref.ly/2Sam8:3-2Sam8:4\">2 Samuel 8:3–4</a>; <a href=\"https://ref.ly/2Sam10:17-2Sam10:19\">10:17–19</a>; <a href=\"https://ref.ly/1Kgs15:18\">1 Kings 15:18</a>; <a href=\"https://ref.ly/1Kgs20:1-1Kgs20:34\">1 Kings 20:1–34</a>; <a href=\"https://ref.ly/1Kgs22:29-1Kgs22:37\">22:29–37</a>; <a href=\"https://ref.ly/2Kgs13:25\">2 Kings 13:25</a>; <a href=\"https://ref.ly/2Kgs16:9-2Kgs16:13\">16:9–13</a>; <a href=\"https://ref.ly/2Kgs17:24-2Kgs17:34\">17:24–34</a>; <a href=\"https://ref.ly/Hos12:12\">Hosea 12:12</a>; <a href=\"https://ref.ly/Amos1:5\">Amos 1:5</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01025020",
+          "start_ref_usfm": "GEN 25:20",
+          "end_ref": "01025020",
+          "end_ref_usfm": "GEN 25:20"
+        },
+        {
+          "start_ref": "05026005",
+          "start_ref_usfm": "DEU 26:5",
+          "end_ref": "05026005",
+          "end_ref_usfm": "DEU 26:5"
+        },
+        {
+          "start_ref": "11015018",
+          "start_ref_usfm": "1KI 15:18",
+          "end_ref": "11015018",
+          "end_ref_usfm": "1KI 15:18"
+        },
+        {
+          "start_ref": "12013025",
+          "start_ref_usfm": "2KI 13:25",
+          "end_ref": "12013025",
+          "end_ref_usfm": "2KI 13:25"
+        },
+        {
+          "start_ref": "12014028",
+          "start_ref_usfm": "2KI 14:28",
+          "end_ref": "12014028",
+          "end_ref_usfm": "2KI 14:28"
+        },
+        {
+          "start_ref": "12016005",
+          "start_ref_usfm": "2KI 16:5",
+          "end_ref": "12016005",
+          "end_ref_usfm": "2KI 16:5"
+        },
+        {
+          "start_ref": "12018026",
+          "start_ref_usfm": "2KI 18:26",
+          "end_ref": "12018026",
+          "end_ref_usfm": "2KI 18:26"
+        },
+        {
+          "start_ref": "14028005",
+          "start_ref_usfm": "2CH 28:5",
+          "end_ref": "14028005",
+          "end_ref_usfm": "2CH 28:5"
+        },
+        {
+          "start_ref": "23008004",
+          "start_ref_usfm": "ISA 8:4",
+          "end_ref": "23008004",
+          "end_ref_usfm": "ISA 8:4"
+        },
+        {
+          "start_ref": "23017001",
+          "start_ref_usfm": "ISA 17:1",
+          "end_ref": "23017001",
+          "end_ref_usfm": "ISA 17:1"
+        },
+        {
+          "start_ref": "28012012",
+          "start_ref_usfm": "HOS 12:12",
+          "end_ref": "28012012",
+          "end_ref_usfm": "HOS 12:12"
+        },
+        {
+          "start_ref": "30001005",
+          "start_ref_usfm": "AMO 1:5",
+          "end_ref": "30001005",
+          "end_ref_usfm": "AMO 1:5"
+        },
+        {
+          "start_ref": "41005041",
+          "start_ref_usfm": "MRK 5:41",
+          "end_ref": "41005041",
+          "end_ref_usfm": "MRK 5:41"
+        },
+        {
+          "start_ref": "46016022",
+          "start_ref_usfm": "1CO 16:22",
+          "end_ref": "46016022",
+          "end_ref_usfm": "1CO 16:22"
+        },
+        {
+          "start_ref": "01010022",
+          "start_ref_usfm": "GEN 10:22",
+          "end_ref": "01010023",
+          "end_ref_usfm": "GEN 10:23"
+        },
+        {
+          "start_ref": "11015018",
+          "start_ref_usfm": "1KI 15:18",
+          "end_ref": "11015019",
+          "end_ref_usfm": "1KI 15:19"
+        },
+        {
+          "start_ref": "12012017",
+          "start_ref_usfm": "2KI 12:17",
+          "end_ref": "12012018",
+          "end_ref_usfm": "2KI 12:18"
+        },
+        {
+          "start_ref": "30001003",
+          "start_ref_usfm": "AMO 1:3",
+          "end_ref": "30001005",
+          "end_ref_usfm": "AMO 1:5"
+        },
+        {
+          "start_ref": "11020001",
+          "start_ref_usfm": "1KI 20:1",
+          "end_ref": "11020034",
+          "end_ref_usfm": "1KI 20:34"
+        },
+        {
+          "start_ref": "12013001",
+          "start_ref_usfm": "2KI 13:1",
+          "end_ref": "12013007",
+          "end_ref_usfm": "2KI 13:7"
+        },
+        {
+          "start_ref": "12013014",
+          "start_ref_usfm": "2KI 13:14",
+          "end_ref": "12013025",
+          "end_ref_usfm": "2KI 13:25"
+        },
+        {
+          "start_ref": "01022020",
+          "start_ref_usfm": "GEN 22:20",
+          "end_ref": "01022021",
+          "end_ref_usfm": "GEN 22:21"
+        },
+        {
+          "start_ref": "01028001",
+          "start_ref_usfm": "GEN 28:1",
+          "end_ref": "01028007",
+          "end_ref_usfm": "GEN 28:7"
+        },
+        {
+          "start_ref": "10008003",
+          "start_ref_usfm": "2SA 8:3",
+          "end_ref": "10008004",
+          "end_ref_usfm": "2SA 8:4"
+        },
+        {
+          "start_ref": "10010017",
+          "start_ref_usfm": "2SA 10:17",
+          "end_ref": "10010019",
+          "end_ref_usfm": "2SA 10:19"
+        },
+        {
+          "start_ref": "11022029",
+          "start_ref_usfm": "1KI 22:29",
+          "end_ref": "11022037",
+          "end_ref_usfm": "1KI 22:37"
+        },
+        {
+          "start_ref": "12017024",
+          "start_ref_usfm": "2KI 17:24",
+          "end_ref": "12017034",
+          "end_ref_usfm": "2KI 17:34"
+        },
+        {
+          "start_ref": "12008028",
+          "start_ref_usfm": "2KI 8:28",
+          "end_ref": "12008029",
+          "end_ref_usfm": "2KI 8:29"
+        },
+        {
+          "start_ref": "01028001",
+          "start_ref_usfm": "GEN 28:1",
+          "end_ref": "01031055",
+          "end_ref_usfm": "GEN 31:55"
+        },
+        {
+          "start_ref": "10008003",
+          "start_ref_usfm": "2SA 8:3",
+          "end_ref": "10008008",
+          "end_ref_usfm": "2SA 8:8"
+        },
+        {
+          "start_ref": "10010006",
+          "start_ref_usfm": "2SA 10:6",
+          "end_ref": "10010019",
+          "end_ref_usfm": "2SA 10:19"
+        },
+        {
+          "start_ref": "11020001",
+          "start_ref_usfm": "1KI 20:1",
+          "end_ref": "11020021",
+          "end_ref_usfm": "1KI 20:21"
+        },
+        {
+          "start_ref": "11020022",
+          "start_ref_usfm": "1KI 20:22",
+          "end_ref": "11020034",
+          "end_ref_usfm": "1KI 20:34"
+        },
+        {
+          "start_ref": "12016007",
+          "start_ref_usfm": "2KI 16:7",
+          "end_ref": "12016011",
+          "end_ref_usfm": "2KI 16:11"
+        },
+        {
+          "start_ref": "12016009",
+          "start_ref_usfm": "2KI 16:9",
+          "end_ref": "12016013",
+          "end_ref_usfm": "2KI 16:13"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 500511,
+    "reference_id": 203454,
+    "version": "1.0.1",
+    "title": "Asa",
+    "media_type": "Text",
+    "index_reference": "asa",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>Asa became the third king of Judah after Solomon&apos;s empire split into separate kingdoms. Asa became king after his father, Abijah, who ruled briefly from 913 to 910 BC. Asa reigned for 41 years, from 910 to 869 BC.</p><p>At the start of his reign, Asa was a good king. He opposed the worship of false gods, destroyed the Asherah pole his grandmother Maacah had set up, and removed her political influence (<a href=\"https://ref.ly/1Kgs15:13\">1 Kings 15:13</a>; <a href=\"https://ref.ly/2Chr15:16\">2 Chronicles 15:16</a>).</p><p>In the early days of Asa&apos;s reign, God gave him military victories and peace. Asa expelled or defeated anyone trying to conquer, divide, or destroy Judah (<a href=\"https://ref.ly/2Chr14:1-2Chr14:8\">2 Chronicles 14:1–8</a>). Asa&apos;s most remarkable victory was over an Ethiopian leader named Zerah, who attacked Judah with over a million troops. Due to Asa&apos;s obedience and faithfulness, God granted him a great victory (<a href=\"https://ref.ly/2Chr14:9-2Chr14:15\">2 Chronicles 14:9–15</a>).</p><p>Sadly, Asa&apos;s attitude changed near the end of his life. He stopped trusting in God. Baasha, the king of the northern kingdom, attacked Judah with help from Ben-hadad, king of Aram, and strengthened the city of Ramah. Asa paid the king of Aram to switch sides and support him instead of Baasha. This showed Asa trusted a foreign king more than the Lord. Worse, Asa paid Ben-hadad with gold and silver he had previously given to the temple! Asa&apos;s strategy worked, and the northern kingdom of Israel had to leave Judah to deal with Ben-hadad&apos;s threat from the north. However, the prophet Hanani criticized Asa for his lack of faith in God. Angered, Asa imprisoned Hanani (<a href=\"https://ref.ly/2Chr16:7-2Chr16:10\">2 Chronicles 16:7–10</a>).</p><p>In the last years of his reign, Asa had a serious foot disease. Despite the severity of his illness, he did not seek the Lord&apos;s help. Instead, he relied only on his doctors (<a href=\"https://ref.ly/2Chr16:12\">2 Chronicles 16:12</a>). Even so, when Asa died, they buried him with honor in the royal tombs (<a href=\"https://ref.ly/2Chr16:14\">2 Chronicles 16:14</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Kgs15:8-1Kgs15:24\">1 Kings 15:8–24</a>; <a href=\"https://ref.ly/2Chr14:1-2Chr16:14\">2 Chronicles 14:1–16:14</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11015013",
+          "start_ref_usfm": "1KI 15:13",
+          "end_ref": "11015013",
+          "end_ref_usfm": "1KI 15:13"
+        },
+        {
+          "start_ref": "14015016",
+          "start_ref_usfm": "2CH 15:16",
+          "end_ref": "14015016",
+          "end_ref_usfm": "2CH 15:16"
+        },
+        {
+          "start_ref": "14016012",
+          "start_ref_usfm": "2CH 16:12",
+          "end_ref": "14016012",
+          "end_ref_usfm": "2CH 16:12"
+        },
+        {
+          "start_ref": "14016014",
+          "start_ref_usfm": "2CH 16:14",
+          "end_ref": "14016014",
+          "end_ref_usfm": "2CH 16:14"
+        },
+        {
+          "start_ref": "14014001",
+          "start_ref_usfm": "2CH 14:1",
+          "end_ref": "14014008",
+          "end_ref_usfm": "2CH 14:8"
+        },
+        {
+          "start_ref": "14016007",
+          "start_ref_usfm": "2CH 16:7",
+          "end_ref": "14016010",
+          "end_ref_usfm": "2CH 16:10"
+        },
+        {
+          "start_ref": "14014009",
+          "start_ref_usfm": "2CH 14:9",
+          "end_ref": "14014015",
+          "end_ref_usfm": "2CH 14:15"
+        },
+        {
+          "start_ref": "11015008",
+          "start_ref_usfm": "1KI 15:8",
+          "end_ref": "11015024",
+          "end_ref_usfm": "1KI 15:24"
+        },
+        {
+          "start_ref": "14014001",
+          "start_ref_usfm": "2CH 14:1",
+          "end_ref": "14016014",
+          "end_ref_usfm": "2CH 16:14"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 500509,
+    "reference_id": 203452,
+    "version": "1.0.1",
+    "title": "Assyria",
+    "media_type": "Text",
+    "index_reference": "assyria",
+    "language": "eng",
+    "review_level": "None",
+    "content": "<p>Assyria was a symbol of fear and cruelty in the Near East for over three centuries. The Bible describes its power and harsh treatment of the people of Israel and Judah. However, Assyria&apos;s success depended on its leaders&apos; strength. Eventually, stronger forces defeated it.</p><h3>Ashurnasirpal II (885–860 BC)</h3><p>Ashurnasirpal II had the same qualities and flaws as the kings who came after him but to a greater degree. He was ambitious, energetic, brave, vain, and magnificent. He was determined to expand his kingdom.</p><h3>Shalmaneser III (858–824 BC)</h3><p>Shalmaneser III is famous for the Battle of Qarqar in 853 BC, one of the best-documented events from ancient times. A group of allied kingdoms, including King Ahab of Israel and several other states, stopped his invasion of Syria. It took years before Shalmaneser conquered Israel and Syria. The Black Obelisk of Shalmaneser III shows King Jehu of Israel bowing and giving tribute (payment to show submission).</p><h3>Repentance during the Time of Jonah</h3><p>During King Jeroboam II&apos;s reign in Israel from 793 to 753 BC, the prophet Jonah reluctantly traveled to Nineveh to announce judgment (<a href=\"https://ref.ly/Jonah3:1-Jonah4:11\">Jonah 3–4</a>). Assyria was declining at that time. As Jonah feared, the king and people of Nineveh listened and repented of their sins. As a result, God gave them a reprieve that lasted about 150 years.</p><h3>Tiglath-pileser III (744–727 BC)</h3><p>Tiglath-pileser III took over the Assyrian throne and worked to regain and strengthen control over all Assyrian territories. He also became the king of Babylon, making Assyria the leading military and economic power in the Near East. He showed political wisdom uncommon among the typically ruthless Assyrian kings. King Menahem of Israel, who ruled 752 from 742 BC, paid him tribute (<a href=\"https://ref.ly/2Kgs15:19-2Kgs15:20\">2 Kings 15:19–20</a>), as did Tyre, Byblos, and Damascus. When King Ahaz of Judah, who ruled from 735 to 715 BC, asked for help against Syria and Israel (<a href=\"https://ref.ly/2Kgs16:5-2Kgs16:20\">2 Kings 16:5–20</a>), Tiglath-pileser conquered Damascus in 732 BC. Shalmaneser V, who became king after Tiglath-pileser, would destroy Samaria in 722 BC. This would mark the end of the northern kingdom of Israel.</p><h3>Sennacherib (705–681 BC)</h3><p>Sennacherib spent his reign fighting many difficult wars. He is well-known in the Bible for attacking Judah and surrounding Jerusalem in 701 BC. This happened during King Hezekiah&apos;s rule and the prophet Isaiah&apos;s time (<a href=\"https://ref.ly/2Kgs18:13-2Kgs19:37\">2 Kings 18:13–19:37</a>; <a href=\"https://ref.ly/Isa36:1-Isa37:38\">Isaiah 36–37</a>).</p><h3>Ashurbanipal (668–627 BC)</h3><p>Ashurbanipal captured No-amon (Thebes) in Egypt, achieving the greatest victory in Assyrian history (see <a href=\"https://ref.ly/Nah3:3-Nah3:10\">Nahum 3:3–10</a>). He also established a large library in Nineveh, which was excavated in 1860. Many tablets were found, containing a wide range of Akkadian material. This library is now one of the main treasures of the British Museum in London. Very little is known about Ashurbanipal’s reign after 639 BC, as his records do not go beyond that year. However, hints in state correspondence, business documents, and prayers to the gods suggest that Assyria was becoming more unstable. When Ashurbanipal died in 627 BC, his empire declined quickly.</p><h3>Final Decline and Destruction</h3><p>In 626 BC, Nabopolassar became king of Babylon, ruled from 626 to 605 BC, and allied with the Medes. This alliance made Babylon&apos;s success against Assyria almost certain. In 612 BC, their combined forces launched a final attack on Nineveh. After a three-month siege, the mighty city fell (see <a href=\"https://ref.ly/Nah1:8\">Nahum 1:8</a>). Nebuchadnezzar, then a general in his father’s army, completely destroyed the last Assyrian forces at the Battle of Carchemish in 605 BC.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/2Kgs15:19-2Kgs19:37\">2 Kings 15:19–19:37</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "34001008",
+          "start_ref_usfm": "NAM 1:8",
+          "end_ref": "34001008",
+          "end_ref_usfm": "NAM 1:8"
+        },
+        {
+          "start_ref": "12015019",
+          "start_ref_usfm": "2KI 15:19",
+          "end_ref": "12015020",
+          "end_ref_usfm": "2KI 15:20"
+        },
+        {
+          "start_ref": "12018013",
+          "start_ref_usfm": "2KI 18:13",
+          "end_ref": "12019037",
+          "end_ref_usfm": "2KI 19:37"
+        },
+        {
+          "start_ref": "23036001",
+          "start_ref_usfm": "ISA 36:1",
+          "end_ref": "23037038",
+          "end_ref_usfm": "ISA 37:38"
+        },
+        {
+          "start_ref": "34003003",
+          "start_ref_usfm": "NAM 3:3",
+          "end_ref": "34003010",
+          "end_ref_usfm": "NAM 3:10"
+        },
+        {
+          "start_ref": "32003001",
+          "start_ref_usfm": "JON 3:1",
+          "end_ref": "32004011",
+          "end_ref_usfm": "JON 4:11"
+        },
+        {
+          "start_ref": "12016005",
+          "start_ref_usfm": "2KI 16:5",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "12015019",
+          "start_ref_usfm": "2KI 15:19",
+          "end_ref": "12019037",
+          "end_ref_usfm": "2KI 19:37"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
