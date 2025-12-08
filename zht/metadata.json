@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesProfiles",
-    "date_created": "2025-11-17",
+    "date_created": "2025-12-04",
     "language": "zht",
     "localizations": [
       "eng",
@@ -49,7 +49,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-17T09:32:10.609039"
+      "dateCreated": "2025-12-04T20:24:56.206189"
     },
     "idAuthorities": {
       "aquifer": {
@@ -63,7 +63,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesProfiles": {
-            "timestamp": "2025-11-17T09:32:10.609039"
+            "timestamp": "2025-12-04T20:24:56.206189"
           }
         }
       },
@@ -577,489 +577,185 @@
           ]
         }
       },
-      "pdf/001.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 297643,
-        "scope": {
-          "ai": [
-            "埃及"
-          ]
-        }
+      "md/001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4345
       },
-      "pdf/002.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 318417,
-        "scope": {
-          "an": [
-            "安提阿古四世"
-          ]
-        }
+      "md/002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4141
       },
-      "pdf/003.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 643444,
-        "scope": {
-          "ba": [
-            "巴比倫",
-            "巴蘭",
-            "巴錄",
-            "巴拿巴",
-            "拔示巴"
-          ]
-        }
+      "md/003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 19718
       },
-      "pdf/004.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 271689,
-        "scope": {
-          "bai": [
-            "百基拉和亞居拉"
-          ]
-        }
+      "md/004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3425
       },
-      "pdf/005.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 396065,
-        "scope": {
-          "bao": [
-            "保羅（掃羅）"
-          ]
-        }
+      "md/005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8207
       },
-      "pdf/006.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 339860,
-        "scope": {
-          "ben": [
-            "本丟‧彼拉多"
-          ]
-        }
+      "md/006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5815
       },
-      "pdf/007.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 297154,
-        "scope": {
-          "can": [
-            "參孫"
-          ]
-        }
+      "md/007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3606
       },
-      "pdf/008.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 441736,
-        "scope": {
-          "da": [
-            "大衛",
-            "大希律"
-          ]
-        }
+      "md/008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10714
       },
-      "pdf/009.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 317371,
-        "scope": {
-          "dan": [
-            "但以理"
-          ]
-        }
+      "md/009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4377
       },
-      "pdf/010.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 244136,
-        "scope": {
-          "di": [
-            "底波拉"
-          ]
-        }
+      "md/010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2076
       },
-      "pdf/011.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 305032,
-        "scope": {
-          "duo": [
-            "多馬"
-          ]
-        }
+      "md/011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3644
       },
-      "pdf/012.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 362222,
-        "scope": {
-          "fa": [
-            "法老",
-            "法利賽人"
-          ]
-        }
+      "md/012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9122
       },
-      "pdf/013.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 465652,
-        "scope": {
-          "fei": [
-            "非利士人",
-            "腓立比",
-            "腓利"
-          ]
-        }
+      "md/013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11010
       },
-      "pdf/014.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 329945,
-        "scope": {
-          "ge": [
-            "哥林多"
-          ]
-        }
+      "md/014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4428
       },
-      "pdf/015.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 270113,
-        "scope": {
-          "he": [
-            "赫人"
-          ]
-        }
+      "md/015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3088
       },
-      "pdf/016.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 297901,
-        "scope": {
-          "ji": [
-            "基甸"
-          ]
-        }
+      "md/016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3250
       },
-      "pdf/017.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 354235,
-        "scope": {
-          "jia": [
-            "加略人猶大",
-            "迦勒"
-          ]
-        }
+      "md/017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8024
       },
-      "pdf/018.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 327821,
-        "scope": {
-          "la": [
-            "拉結",
-            "喇合"
-          ]
-        }
+      "md/018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5503
       },
-      "pdf/019.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 370454,
-        "scope": {
-          "li": [
-            "利百加",
-            "利亞"
-          ]
-        }
+      "md/019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6580
       },
-      "pdf/020.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 356851,
-        "scope": {
-          "lu": [
-            "路得",
-            "路加"
-          ]
-        }
+      "md/020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5884
       },
-      "pdf/021.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 585628,
-        "scope": {
-          "luo": [
-            "羅波安",
-            "羅得",
-            "羅馬",
-            "羅馬皇帝",
-            "羅馬教會"
-          ]
-        }
+      "md/021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 18034
       },
-      "pdf/022.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 481166,
-        "scope": {
-          "ma": [
-            "馬大，馬利亞，和拉撒路",
-            "馬加比家族",
-            "馬太（利未）",
-            "瑪拿西"
-          ]
-        }
+      "md/022.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12582
       },
-      "pdf/023.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 285735,
-        "scope": {
-          "mai": [
-            "麥基洗德"
-          ]
-        }
+      "md/023.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3671
       },
-      "pdf/024.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 389137,
-        "scope": {
-          "mi": [
-            "米底亞人和波斯人",
-            "米甲"
-          ]
-        }
+      "md/024.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7835
       },
-      "pdf/025.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 301038,
-        "scope": {
-          "ming": [
-            "名叫馬利亞的婦女"
-          ]
-        }
+      "md/025.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4843
       },
-      "pdf/026.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 426796,
-        "scope": {
-          "mo": [
-            "摩西",
-            "摩押和亞捫"
-          ]
-        }
+      "md/026.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11740
       },
-      "pdf/027.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 463292,
-        "scope": {
-          "ni": [
-            "尼布甲尼撒二世",
-            "尼哥德慕",
-            "尼祿",
-            "尼希米"
-          ]
-        }
+      "md/027.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10891
       },
-      "pdf/028.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 255331,
-        "scope": {
-          "nuo": [
-            "挪亞"
-          ]
-        }
+      "md/028.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3213
       },
-      "pdf/029.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 274008,
-        "scope": {
-          "ren": [
-            "人子"
-          ]
-        }
+      "md/029.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3555
       },
-      "pdf/030.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 582007,
-        "scope": {
-          "sa": [
-            "撒但",
-            "撒都該人",
-            "撒督",
-            "撒拉",
-            "撒馬利亞人",
-            "撒母耳"
-          ]
-        }
+      "md/030.content.md": {
+        "mimeType": "text/markdown",
+        "size": 22588
       },
-      "pdf/031.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 258627,
-        "scope": {
-          "sai": [
-            "塞魯士二世"
-          ]
-        }
+      "md/031.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3111
       },
-      "pdf/032.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 278715,
-        "scope": {
-          "sao": [
-            "掃羅"
-          ]
-        }
+      "md/032.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2966
       },
-      "pdf/033.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 350983,
-        "scope": {
-          "shi": [
-            "施洗約翰"
-          ]
-        }
+      "md/033.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7179
       },
-      "pdf/034.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 280498,
-        "scope": {
-          "si": [
-            "司提反"
-          ]
-        }
+      "md/034.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3703
       },
-      "pdf/035.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 375925,
-        "scope": {
-          "suo": [
-            "所羅巴伯",
-            "所羅門"
-          ]
-        }
+      "md/035.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5885
       },
-      "pdf/036.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 366540,
-        "scope": {
-          "ti": [
-            "提多",
-            "提摩太"
-          ]
-        }
+      "md/036.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8810
       },
-      "pdf/037.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 268620,
-        "scope": {
-          "wu": [
-            "烏西雅"
-          ]
-        }
+      "md/037.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3115
       },
-      "pdf/038.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 802601,
-        "scope": {
-          "xi": [
-            "西庇太的兒子約翰",
-            "西門彼得",
-            "希臘化王國",
-            "希臘人",
-            "希律安提帕",
-            "希律亞基帕二世",
-            "希律亞基帕一世",
-            "希西家"
-          ]
-        }
+      "md/038.content.md": {
+        "mimeType": "text/markdown",
+        "size": 38281
       },
-      "pdf/039.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 268720,
-        "scope": {
-          "xia": [
-            "夏甲"
-          ]
-        }
+      "md/039.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3054
       },
-      "pdf/040.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 287796,
-        "scope": {
-          "xue": [
-            "薛西一世"
-          ]
-        }
+      "md/040.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2856
       },
-      "pdf/041.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 1080789,
-        "scope": {
-          "ya": [
-            "押尼珥",
-            "押沙龍",
-            "雅各",
-            "雅各，西庇太的兒子",
-            "雅各，耶穌的弟弟",
-            "亞比篩",
-            "亞比亞他",
-            "亞波羅",
-            "亞伯拉罕",
-            "亞當和夏娃",
-            "亞哈",
-            "亞哈斯",
-            "亞蘭人",
-            "亞倫",
-            "亞瑪力人",
-            "亞那和該亞法",
-            "亞撒",
-            "亞述"
-          ]
-        }
+      "md/041.content.md": {
+        "mimeType": "text/markdown",
+        "size": 71167
       },
-      "pdf/042.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 540561,
-        "scope": {
-          "ye": [
-            "耶利米",
-            "耶羅波安二世",
-            "耶羅波安一世",
-            "耶穌的母親馬利亞",
-            "耶洗別",
-            "葉忒羅（流珥）"
-          ]
-        }
+      "md/042.content.md": {
+        "mimeType": "text/markdown",
+        "size": 18313
       },
-      "pdf/043.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 794799,
-        "scope": {
-          "yi": [
-            "以弗所",
-            "以利",
-            "以利沙",
-            "以利亞",
-            "以利亞撒",
-            "以撒",
-            "以賽亞",
-            "以掃",
-            "以實瑪利",
-            "以斯拉",
-            "以斯帖",
-            "以西結"
-          ]
-        }
+      "md/043.content.md": {
+        "mimeType": "text/markdown",
+        "size": 41233
       },
-      "pdf/044.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 401957,
-        "scope": {
-          "you": [
-            "猶大",
-            "猶太領袖",
-            "猶太最高議會"
-          ]
-        }
+      "md/044.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8879
       },
-      "pdf/045.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 662322,
-        "scope": {
-          "yue": [
-            "約翰·馬可",
-            "約拿單",
-            "約瑟",
-            "約沙法",
-            "約書亞",
-            "約西亞",
-            "約押"
-          ]
-        }
+      "md/045.content.md": {
+        "mimeType": "text/markdown",
+        "size": 26510
       }
     },
     "copyright": {
