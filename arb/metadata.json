@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesProfiles",
-    "date_created": "2025-11-17",
+    "date_created": "2025-12-04",
     "language": "arb",
     "localizations": [
       "eng",
@@ -49,7 +49,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-17T09:32:07.076507"
+      "dateCreated": "2025-12-04T20:24:53.429582"
     },
     "idAuthorities": {
       "aquifer": {
@@ -63,7 +63,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesProfiles": {
-            "timestamp": "2025-11-17T09:32:07.076507"
+            "timestamp": "2025-12-04T20:24:53.429582"
           }
         }
       },
@@ -385,297 +385,89 @@
           ]
         }
       },
-      "pdf/001.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 994963,
-        "scope": {
-          "ا": [
-            "آحَاز",
-            "آدَم، وحَوَّاء",
-            "آسا",
-            "إبراهيم",
-            "أبْشَالُوم",
-            "أَبْشَاي",
-            "أَبُلُّوس",
-            "ابن الإنسان",
-            "أَبْنَيْر",
-            "أَبِيَاثَار",
-            "أحَشْوِيرُوش الأول",
-            "أَخْآب",
-            "إرميا",
-            "أَسْتِير",
-            "إسحاق",
-            "إسماعيل",
-            "إِشَعْيَاء",
-            "أشّور",
-            "أَفَسُس",
-            "الآراميون",
-            "الأباطرة الرومان",
-            "أَلِعَازَار",
-            "أَلِيشَع",
-            "أنطيوخوس الرابع",
-            "إِيزَابَل",
-            "إِيلِيَّا التِّشْبِي",
-            "ٱستفانوس"
-          ]
-        }
+      "md/001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 133500
       },
-      "pdf/002.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 304998,
-        "scope": {
-          "ح": [
-            "الحِثِّيِّين",
-            "حزقيّا",
-            "حزقيال",
-            "حَنَّان وَقَيَافَا"
-          ]
-        }
+      "md/002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 14499
       },
-      "pdf/003.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 439150,
-        "scope": {
-          "س": [
-            "السامريون",
-            "سارة",
-            "سُلَيْمَان",
-            "سمعان بطرس"
-          ]
-        }
+      "md/003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 28116
       },
-      "pdf/004.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 336847,
-        "scope": {
-          "ش": [
-            "الشّيطان",
-            "شاول",
-            "شمشون"
-          ]
-        }
+      "md/004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 15151
       },
-      "pdf/005.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 336618,
-        "scope": {
-          "ص": [
-            "الصدوقيون",
-            "صادوق",
-            "صموئيل"
-          ]
-        }
+      "md/005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 15690
       },
-      "pdf/006.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 363090,
-        "scope": {
-          "ع": [
-            "العَمَالِيق",
-            "عالي",
-            "عَزْرَا",
-            "عُزِّيَّا",
-            "عِيسُو"
-          ]
-        }
+      "md/006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 20273
       },
-      "pdf/007.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 407228,
-        "scope": {
-          "ف": [
-            "الفَرِّيسِيُّون",
-            "الفلسطينيون",
-            "فرعون",
-            "فِيلُبُّس",
-            "فيلبّي"
-          ]
-        }
+      "md/007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 26374
       },
-      "pdf/008.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 243058,
-        "scope": {
-          "ق": [
-            "القادة اليهود"
-          ]
-        }
+      "md/008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4326
       },
-      "pdf/009.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 695528,
-        "scope": {
-          "م": [
-            "المجلس الأعلى لليهود (السنهدرين)",
-            "المَرْيَمات",
-            "المكابيّون",
-            "الممالك الهيلينية",
-            "الميديون والفُرس",
-            "متى (لاوي)",
-            "مرثا, مريم, و لعازر",
-            "مريم، أم يسوع",
-            "مِصْر",
-            "ملكي صادق",
-            "منسّى",
-            "مُوآب وعَمُّون",
-            "موسى",
-            "مِيكَال"
-          ]
-        }
+      "md/009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 74938
       },
-      "pdf/010.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 305812,
-        "scope": {
-          "ي": [
-            "اليونانيون"
-          ]
-        }
+      "md/010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8834
       },
-      "pdf/011.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 559933,
-        "scope": {
-          "ب": [
-            "بابل",
-            "باروخ",
-            "بَثْشَبَع",
-            "برنابا",
-            "بِرِيسْكِلَّا، وأَكِيلَا",
-            "بَلْعَام بْنُ بَعُور",
-            "بولس (شاول)",
-            "بِيلَاطُس البُنطي"
-          ]
-        }
+      "md/011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 49956
       },
-      "pdf/012.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 336318,
-        "scope": {
-          "ت": [
-            "تُومَا",
-            "تيطس",
-            "تيموثاوس"
-          ]
-        }
+      "md/012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 15769
       },
-      "pdf/013.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 241651,
-        "scope": {
-          "ج": [
-            "جِدْعُون"
-          ]
-        }
+      "md/013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4947
       },
-      "pdf/014.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 316931,
-        "scope": {
-          "د": [
-            "دانيآل",
-            "داود",
-            "دَبُورَة"
-          ]
-        }
+      "md/014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 19528
       },
-      "pdf/015.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 368953,
-        "scope": {
-          "ر": [
-            "راحاب",
-            "رَاحِيل",
-            "رَاعُوث",
-            "رَحُبْعَام",
-            "رفقة",
-            "روما"
-          ]
-        }
+      "md/015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 28833
       },
-      "pdf/016.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 231637,
-        "scope": {
-          "ز": [
-            "زَرُبَّابِل"
-          ]
-        }
+      "md/016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3216
       },
-      "pdf/017.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 334231,
-        "scope": {
-          "ك": [
-            "كَالَب",
-            "كنيسة رومية",
-            "كُورَش الثاني",
-            "كورنثوس"
-          ]
-        }
+      "md/017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 19167
       },
-      "pdf/018.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 321906,
-        "scope": {
-          "ل": [
-            "لوط",
-            "لوقا",
-            "ليئة"
-          ]
-        }
+      "md/018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12970
       },
-      "pdf/019.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 347208,
-        "scope": {
-          "ن": [
-            "نَبُوخَذْنَاصَّر الثاني",
-            "نحميا",
-            "نوح",
-            "نيرون",
-            "نِيقُودِيمُوس"
-          ]
-        }
+      "md/019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 19313
       },
-      "pdf/020.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 351791,
-        "scope": {
-          "ه": [
-            "هاجر",
-            "هارون",
-            "هيرودس أغريباس الأول",
-            "هيرودس أغريباس الثاني",
-            "هيرودس الكبير",
-            "هيرودس أنتيباس"
-          ]
-        }
+      "md/020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 22278
       },
-      "pdf/021.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 838324,
-        "scope": {
-          "ي": [
-            "يَثْرُون (رَعُوئِيل)",
-            "يَرُبْعَام الأول",
-            "يَرُبْعَام الثاني",
-            "يشوع",
-            "يعقوب",
-            "يعقوب، ابن زبدي",
-            "يعقوب، أخو يسوع",
-            "يهوذا",
-            "يهوذا الإسخريوطيّ",
-            "يهوشافاط",
-            "يُوآب",
-            "يوحنّا المعمدان",
-            "يُوحَنَّا ٱلْمُلَقَّب مَرْقُس",
-            "يوحنّا، بْنَ زَبْدِي",
-            "يُوسُف",
-            "يوشيّا",
-            "يوناثان"
-          ]
-        }
+      "md/021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 93993
       }
     },
     "copyright": {

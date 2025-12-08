@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesProfiles",
-    "date_created": "2025-11-17",
+    "date_created": "2025-12-04",
     "language": "swh",
     "localizations": [
       "eng",
@@ -49,7 +49,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-17T09:32:10.158453"
+      "dateCreated": "2025-12-04T20:24:55.817854"
     },
     "idAuthorities": {
       "aquifer": {
@@ -63,7 +63,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesProfiles": {
-            "timestamp": "2025-11-17T09:32:10.158453"
+            "timestamp": "2025-12-04T20:24:55.817854"
           }
         }
       },
@@ -385,297 +385,89 @@
           ]
         }
       },
-      "pdf/001.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 463950,
-        "scope": {
-          "a": [
-            "Abiathari",
-            "Abishai",
-            "Abneri",
-            "Abrahamu",
-            "Absalomu",
-            "Adam na Hawa",
-            "Ahabu",
-            "Ahasuwero I",
-            "Ahazi",
-            "Anasi na Kayafa",
-            "Antioko IV",
-            "Apolo",
-            "Aroni",
-            "Asa",
-            "Ashuru"
-          ]
-        }
+      "md/001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 55886
       },
-      "pdf/002.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 326735,
-        "scope": {
-          "b": [
-            "Babuloni",
-            "Balaamu",
-            "Baraza Kuu la Wayahudi",
-            "Barnaba",
-            "Baruku",
-            "Bathsheba"
-          ]
-        }
+      "md/002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 22794
       },
-      "pdf/003.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 227094,
-        "scope": {
-          "d": [
-            "Danieli",
-            "Daudi",
-            "Debora"
-          ]
-        }
+      "md/003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 14723
       },
-      "pdf/004.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 332495,
-        "scope": {
-          "e": [
-            "Efeso",
-            "Eleazari",
-            "Eli",
-            "Elisha",
-            "Eliya",
-            "Esau",
-            "Esta",
-            "Ezekieli",
-            "Ezra"
-          ]
-        }
+      "md/004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 31051
       },
-      "pdf/005.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 263512,
-        "scope": {
-          "f": [
-            "Falme za Kiheleni",
-            "Farao",
-            "Filipi",
-            "Filipo"
-          ]
-        }
+      "md/005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 15334
       },
-      "pdf/006.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 174803,
-        "scope": {
-          "g": [
-            "Gideoni"
-          ]
-        }
+      "md/006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3589
       },
-      "pdf/007.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 231095,
-        "scope": {
-          "h": [
-            "Hajiri",
-            "Herode Agripa I",
-            "Herode Agripa II",
-            "Herode Antipa",
-            "Herode Mkuu",
-            "Hezekia"
-          ]
-        }
+      "md/007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 15383
       },
-      "pdf/008.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 231763,
-        "scope": {
-          "i": [
-            "Isaka",
-            "Isaya",
-            "Ishmaeli"
-          ]
-        }
+      "md/008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12710
       },
-      "pdf/009.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 225316,
-        "scope": {
-          "k": [
-            "Kalebu",
-            "Kanisa la Kirumi",
-            "Koreshi II",
-            "Korintho"
-          ]
-        }
+      "md/009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13802
       },
-      "pdf/010.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 233914,
-        "scope": {
-          "l": [
-            "Lea",
-            "Loti",
-            "Luka"
-          ]
-        }
+      "md/010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10107
       },
-      "pdf/011.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 437910,
-        "scope": {
-          "m": [
-            "Mafarisayo",
-            "Makabayo",
-            "Manase",
-            "Maria, Mama wa Yesu",
-            "Martha, Maria, na Lazaro",
-            "Masadukayo",
-            "Mathayo (Lawi)",
-            "Melkizedeki",
-            "Mikali",
-            "Misri",
-            "Moabu na Amoni",
-            "Mose",
-            "Mwana wa Mtu"
-          ]
-        }
+      "md/011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 51315
       },
-      "pdf/012.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 257686,
-        "scope": {
-          "n": [
-            "Nebukadneza II",
-            "Nehemia",
-            "Nero",
-            "Nikodemo",
-            "Noa"
-          ]
-        }
+      "md/012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13838
       },
-      "pdf/013.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 264414,
-        "scope": {
-          "p": [
-            "Paulo (Sauli)",
-            "Pontio Pilato",
-            "Prisila na Akila"
-          ]
-        }
+      "md/013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 17317
       },
-      "pdf/014.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 256262,
-        "scope": {
-          "r": [
-            "Rahabu",
-            "Raheli",
-            "Rebeka",
-            "Rehoboamu",
-            "Rumi",
-            "Ruthu"
-          ]
-        }
+      "md/014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 20190
       },
-      "pdf/015.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 431113,
-        "scope": {
-          "s": [
-            "Sadoki",
-            "Samsoni",
-            "Samweli",
-            "Sara",
-            "Sauli",
-            "Shetani",
-            "Simoni Petro",
-            "Solomoni",
-            "Stefano"
-          ]
-        }
+      "md/015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 43308
       },
-      "pdf/016.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 268108,
-        "scope": {
-          "t": [
-            "Timotheo",
-            "Tito",
-            "Tomaso"
-          ]
-        }
+      "md/016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12602
       },
-      "pdf/017.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 176539,
-        "scope": {
-          "u": [
-            "Uzia"
-          ]
-        }
+      "md/017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3272
       },
-      "pdf/018.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 193542,
-        "scope": {
-          "v": [
-            "Viongozi wa Kiyahudi"
-          ]
-        }
+      "md/018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3781
       },
-      "pdf/019.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 364945,
-        "scope": {
-          "w": [
-            "Waamaleki",
-            "Waaramu",
-            "Wafalme wa Kirumi",
-            "Wafilisti",
-            "Wagiriki",
-            "Wahiti",
-            "Wamedi na Waajemi",
-            "Wanawake Wanaoitwa Maria",
-            "Wasamaria"
-          ]
-        }
+      "md/019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 35007
       },
-      "pdf/020.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 623165,
-        "scope": {
-          "y": [
-            "Yakobo",
-            "Yakobo, Mwana wa Zebedayo",
-            "Yakobo, Ndugu wa Yesu",
-            "Yehoshafati",
-            "Yeremia",
-            "Yeroboamu I",
-            "Yeroboamu wa Pili",
-            "Yethro (Reueli)",
-            "Yezebeli",
-            "Yoabu",
-            "Yohana Marko",
-            "Yohana Mbatizaji",
-            "Yohana, Mwana wa Zebedayo",
-            "Yonathani",
-            "Yosefu",
-            "Yoshua",
-            "Yosia",
-            "Yuda",
-            "Yuda Iskariote"
-          ]
-        }
+      "md/020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 81383
       },
-      "pdf/021.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 176072,
-        "scope": {
-          "z": [
-            "Zerubabeli"
-          ]
-        }
+      "md/021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2600
       }
     },
     "copyright": {

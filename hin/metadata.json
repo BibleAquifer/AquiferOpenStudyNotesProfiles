@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesProfiles",
-    "date_created": "2025-11-17",
+    "date_created": "2025-12-04",
     "language": "hin",
     "localizations": [
       "eng",
@@ -49,7 +49,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-17T09:32:08.705412"
+      "dateCreated": "2025-12-04T20:24:54.640537"
     },
     "idAuthorities": {
       "aquifer": {
@@ -63,7 +63,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesProfiles": {
-            "timestamp": "2025-11-17T09:32:08.705412"
+            "timestamp": "2025-12-04T20:24:54.640537"
           }
         }
       },
@@ -425,337 +425,109 @@
           ]
         }
       },
-      "pdf/001.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 506777,
-        "scope": {
-          "अ": [
-            "अपुल्लोस",
-            "अबशालोम",
-            "अबीशै",
-            "अब्नेर",
-            "अब्राहम",
-            "अमालेकियों",
-            "अरामी लोग",
-            "अश्शूर",
-            "अहाब"
-          ]
-        }
+      "md/001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 73509
       },
-      "pdf/002.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 293497,
-        "scope": {
-          "आ": [
-            "आदम और हव्वा",
-            "आसा",
-            "आहाज"
-          ]
-        }
+      "md/002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 20162
       },
-      "pdf/003.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 281008,
-        "scope": {
-          "इ": [
-            "इफिसुस",
-            "इश्माएल",
-            "इसहाक"
-          ]
-        }
+      "md/003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 23975
       },
-      "pdf/004.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 206151,
-        "scope": {
-          "ई": [
-            "ईजेबेल"
-          ]
-        }
+      "md/004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6465
       },
-      "pdf/005.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 207135,
-        "scope": {
-          "उ": [
-            "उज्जियाह"
-          ]
-        }
+      "md/005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5878
       },
-      "pdf/006.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 454673,
-        "scope": {
-          "ए": [
-            "एंटिओकस चतुर्थ",
-            "एज्रा",
-            "एब्यातार",
-            "एलिय्याह",
-            "एली",
-            "एलीआजर",
-            "एलीशा",
-            "एसाव",
-            "एस्तेर"
-          ]
-        }
+      "md/006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 63121
       },
-      "pdf/007.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 272910,
-        "scope": {
-          "क": [
-            "कालेब",
-            "कुरिन्थुस",
-            "कुस्रू द्वितीय"
-          ]
-        }
+      "md/007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 20671
       },
-      "pdf/008.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 219108,
-        "scope": {
-          "कष": [
-            "क्षयर्ष प्रथम"
-          ]
-        }
+      "md/008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6148
       },
-      "pdf/009.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 223790,
-        "scope": {
-          "ग": [
-            "गिदोन"
-          ]
-        }
+      "md/009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7537
       },
-      "pdf/010.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 248264,
-        "scope": {
-          "ज": [
-            "जब्दी का पुत्र यूहन्ना",
-            "जरुब्बाबेल"
-          ]
-        }
+      "md/010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13578
       },
-      "pdf/011.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 260792,
-        "scope": {
-          "त": [
-            "तीतुस",
-            "तीमुथियुस"
-          ]
-        }
+      "md/011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 17883
       },
-      "pdf/012.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 256860,
-        "scope": {
-          "थ": [
-            "थोमा"
-          ]
-        }
+      "md/012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7321
       },
-      "pdf/013.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 296009,
-        "scope": {
-          "द": [
-            "दबोरा",
-            "दाऊद",
-            "दानिय्येल"
-          ]
-        }
+      "md/013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 29131
       },
-      "pdf/014.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 329764,
-        "scope": {
-          "न": [
-            "नबूकदनेस्सर II",
-            "नहेम्याह",
-            "नीकुदेमुस",
-            "नीरो",
-            "नूह"
-          ]
-        }
+      "md/014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 28010
       },
-      "pdf/015.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 361901,
-        "scope": {
-          "प": [
-            "पलिश्ती लोग",
-            "पुन्तियुस पिलातुस",
-            "पौलुस (शाऊल)"
-          ]
-        }
+      "md/015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 35343
       },
-      "pdf/016.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 224933,
-        "scope": {
-          "पर": [
-            "प्रिस्किल्ला और अक्विला"
-          ]
-        }
+      "md/016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7089
       },
-      "pdf/017.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 299032,
-        "scope": {
-          "फ": [
-            "फरीसी",
-            "फिरौन",
-            "फिलिप्पी",
-            "फिलिप्पुस"
-          ]
-        }
+      "md/017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 29178
       },
-      "pdf/018.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 411699,
-        "scope": {
-          "ब": [
-            "बतशेबा",
-            "बरनबास",
-            "बारूक",
-            "बिलाम",
-            "बेबीलोन"
-          ]
-        }
+      "md/018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 41283
       },
-      "pdf/019.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 608680,
-        "scope": {
-          "म": [
-            "मक्काबी",
-            "मत्ती (लेवी)",
-            "मनश्शे",
-            "मनुष्य के पुत्र",
-            "मरियम नामक स्त्रियाँ",
-            "मलिकिसिदक",
-            "महान हेरोदेस",
-            "मादी और फारसी लोग",
-            "मार्था, मरियम और लाज़र",
-            "मिस्र",
-            "मीकल",
-            "मूसा",
-            "मोआब और अम्मोन"
-          ]
-        }
+      "md/019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 98150
       },
-      "pdf/020.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 1023621,
-        "scope": {
-          "य": [
-            "यशायाह",
-            "यहूदा",
-            "यहूदा इस्करियोती",
-            "यहूदियों की उच्च परिषद",
-            "यहूदी अगुवे",
-            "यहेजकेल",
-            "यहोशापात",
-            "यहोशू",
-            "याकूब",
-            "याकूब, जब्दी के पुत्र",
-            "याकूब, यीशु के भाई",
-            "यारोबाम I",
-            "यारोबाम II",
-            "यित्रो (रूएल)",
-            "यिर्मयाह",
-            "यीशु की माता मरियम",
-            "यूनानिकृत साम्राज्य",
-            "यूनानी",
-            "यूसुफ",
-            "यूहन्ना बपतिस्मा देने वाला",
-            "यूहन्ना मरकुस",
-            "योआब",
-            "योनातान",
-            "योशिय्याह"
-          ]
-        }
+      "md/020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 187811
       },
-      "pdf/021.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 423951,
-        "scope": {
-          "र": [
-            "रहबाम",
-            "राहाब",
-            "राहेल",
-            "रिबका",
-            "रूत",
-            "रोम",
-            "रोमी कलीसिया",
-            "रोमी सम्राट"
-          ]
-        }
+      "md/021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 55552
       },
-      "pdf/022.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 297837,
-        "scope": {
-          "ल": [
-            "लिआ",
-            "लूका",
-            "लूत"
-          ]
-        }
+      "md/022.content.md": {
+        "mimeType": "text/markdown",
+        "size": 19360
       },
-      "pdf/023.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 440686,
-        "scope": {
-          "श": [
-            "शमूएल",
-            "शमौन पतरस",
-            "शाऊल",
-            "शिमशोन",
-            "शैतान"
-          ]
-        }
+      "md/023.content.md": {
+        "mimeType": "text/markdown",
+        "size": 49679
       },
-      "pdf/024.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 362131,
-        "scope": {
-          "स": [
-            "सदूकी लोग",
-            "सादोक",
-            "सामरी",
-            "सारा",
-            "सुलैमान"
-          ]
-        }
+      "md/024.content.md": {
+        "mimeType": "text/markdown",
+        "size": 33227
       },
-      "pdf/025.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 230321,
-        "scope": {
-          "सत": [
-            "स्तिफनुस"
-          ]
-        }
+      "md/025.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7595
       },
-      "pdf/026.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 347405,
-        "scope": {
-          "ह": [
-            "हन्ना और कैफा",
-            "हागार",
-            "हारून",
-            "हिजकिय्याह",
-            "हित्तियों",
-            "हेरोदेस अंतिपास",
-            "हेरोदेस अग्रिप्पा I",
-            "हेरोदेस अग्रिप्पा II"
-          ]
-        }
+      "md/026.content.md": {
+        "mimeType": "text/markdown",
+        "size": 45495
       }
     },
     "copyright": {

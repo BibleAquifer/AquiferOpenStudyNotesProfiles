@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesProfiles",
-    "date_created": "2025-11-17",
+    "date_created": "2025-12-04",
     "language": "eng",
     "localizations": [
       "arb",
@@ -49,7 +49,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-17T09:32:07.718365"
+      "dateCreated": "2025-12-04T20:24:53.826733"
     },
     "idAuthorities": {
       "aquifer": {
@@ -63,7 +63,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesProfiles": {
-            "timestamp": "2025-11-17T09:32:07.718365"
+            "timestamp": "2025-12-04T20:24:53.826733"
           }
         }
       },
@@ -377,289 +377,85 @@
           ]
         }
       },
-      "pdf/001.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 452871,
-        "scope": {
-          "a": [
-            "Aaron",
-            "Abiathar",
-            "Abishai",
-            "Abner",
-            "Abraham",
-            "Absalom",
-            "Adam and Eve",
-            "Ahab",
-            "Ahaz",
-            "Annas and Caiaphas",
-            "Antiochus IV",
-            "Apollos",
-            "Arameans",
-            "Asa",
-            "Assyria"
-          ]
-        }
+      "md/001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 56142
       },
-      "pdf/002.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 305038,
-        "scope": {
-          "b": [
-            "Babylon",
-            "Balaam",
-            "Barnabas",
-            "Baruch",
-            "Bathsheba"
-          ]
-        }
+      "md/002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 19632
       },
-      "pdf/003.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 209075,
-        "scope": {
-          "c": [
-            "Caleb",
-            "Corinth",
-            "Cyrus II"
-          ]
-        }
+      "md/003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10009
       },
-      "pdf/004.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 222695,
-        "scope": {
-          "d": [
-            "Daniel",
-            "David",
-            "Deborah"
-          ]
-        }
+      "md/004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 14186
       },
-      "pdf/005.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 330194,
-        "scope": {
-          "e": [
-            "Egypt",
-            "Eleazar",
-            "Eli",
-            "Elijah",
-            "Elisha",
-            "Ephesus",
-            "Esau",
-            "Esther",
-            "Ezekiel",
-            "Ezra"
-          ]
-        }
+      "md/005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 33201
       },
-      "pdf/006.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 173437,
-        "scope": {
-          "g": [
-            "Gideon"
-          ]
-        }
+      "md/006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3428
       },
-      "pdf/007.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 281270,
-        "scope": {
-          "h": [
-            "Hagar",
-            "Hellenistic Kingdoms",
-            "Herod Agrippa I",
-            "Herod Agrippa II",
-            "Herod Antipas",
-            "Herod the Great",
-            "Hezekiah",
-            "Hittites"
-          ]
-        }
+      "md/007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 22098
       },
-      "pdf/008.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 221531,
-        "scope": {
-          "i": [
-            "Isaac",
-            "Isaiah",
-            "Ishmael"
-          ]
-        }
+      "md/008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12360
       },
-      "pdf/009.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 588657,
-        "scope": {
-          "j": [
-            "Jacob",
-            "James, Brother of Jesus",
-            "James, Son of Zebedee",
-            "Jehoshaphat",
-            "Jeremiah",
-            "Jeroboam I",
-            "Jeroboam II",
-            "Jethro (Reuel)",
-            "Jewish Leaders",
-            "Jezebel",
-            "Joab",
-            "John Mark",
-            "John the Baptist",
-            "John, Son of Zebedee",
-            "Jonathan",
-            "Joseph",
-            "Joshua",
-            "Josiah",
-            "Judah",
-            "Judas Iscariot"
-          ]
-        }
+      "md/009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 81255
       },
-      "pdf/010.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 228381,
-        "scope": {
-          "l": [
-            "Leah",
-            "Lot",
-            "Luke"
-          ]
-        }
+      "md/010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9779
       },
-      "pdf/011.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 316503,
-        "scope": {
-          "m": [
-            "Maccabees",
-            "Manasseh",
-            "Martha, Mary, and Lazarus",
-            "Mary, Mother of Jesus",
-            "Matthew (Levi)",
-            "Melchizedek",
-            "Michal",
-            "Moab and Ammon",
-            "Moses"
-          ]
-        }
+      "md/011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 34286
       },
-      "pdf/012.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 250362,
-        "scope": {
-          "n": [
-            "Nebuchadnezzar II",
-            "Nehemiah",
-            "Nero",
-            "Nicodemus",
-            "Noah"
-          ]
-        }
+      "md/012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13877
       },
-      "pdf/013.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 294649,
-        "scope": {
-          "p": [
-            "Paul (Saul)",
-            "Pharaoh",
-            "Philip",
-            "Philippi",
-            "Pontius Pilate",
-            "Priscilla and Aquila"
-          ]
-        }
+      "md/013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 25566
       },
-      "pdf/014.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 284980,
-        "scope": {
-          "r": [
-            "Rachel",
-            "Rahab",
-            "Rebekah",
-            "Rehoboam",
-            "Roman Emperors",
-            "Rome",
-            "Ruth"
-          ]
-        }
+      "md/014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 22226
       },
-      "pdf/015.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 391672,
-        "scope": {
-          "s": [
-            "Samaritans",
-            "Samson",
-            "Samuel",
-            "Sarah",
-            "Satan",
-            "Saul",
-            "Simon Peter",
-            "Solomon",
-            "Stephen"
-          ]
-        }
+      "md/015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 40253
       },
-      "pdf/016.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 420706,
-        "scope": {
-          "t": [
-            "The Amalekites",
-            "The Greeks",
-            "The Jewish High Council",
-            "The Medes and Persians",
-            "The Pharisees",
-            "The Philistines",
-            "The Roman Church",
-            "The Sadducees",
-            "The Son of Man",
-            "Thomas",
-            "Timothy",
-            "Titus"
-          ]
-        }
+      "md/016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 44514
       },
-      "pdf/017.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 176705,
-        "scope": {
-          "u": [
-            "Uzziah"
-          ]
-        }
+      "md/017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3171
       },
-      "pdf/018.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 221784,
-        "scope": {
-          "w": [
-            "Women Named Mary"
-          ]
-        }
+      "md/018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4941
       },
-      "pdf/019.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 172708,
-        "scope": {
-          "x": [
-            "Xerxes I"
-          ]
-        }
+      "md/019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2840
       },
-      "pdf/020.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 191540,
-        "scope": {
-          "z": [
-            "Zadok",
-            "Zerubbabel"
-          ]
-        }
+      "md/020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6115
       }
     },
     "copyright": {

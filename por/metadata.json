@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesProfiles",
-    "date_created": "2025-11-17",
+    "date_created": "2025-12-04",
     "language": "por",
     "localizations": [
       "eng",
@@ -49,7 +49,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-17T09:32:09.125117"
+      "dateCreated": "2025-12-04T20:24:55.036451"
     },
     "idAuthorities": {
       "aquifer": {
@@ -63,7 +63,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesProfiles": {
-            "timestamp": "2025-11-17T09:32:09.125117"
+            "timestamp": "2025-12-04T20:24:55.036451"
           }
         }
       },
@@ -385,297 +385,89 @@
           ]
         }
       },
-      "pdf/001.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 502498,
-        "scope": {
-          "a": [
-            "A Igreja Romana",
-            "Abiatar",
-            "Abisai",
-            "Abner",
-            "Abraão",
-            "Absalão",
-            "Acabe",
-            "Acaz",
-            "Adão e Eva",
-            "Agar",
-            "Anás e Caifás",
-            "Antíoco IV",
-            "Apolo",
-            "Arameus",
-            "Arão",
-            "Asa",
-            "Assíria"
-          ]
-        }
+      "md/001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 63729
       },
-      "pdf/002.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 318306,
-        "scope": {
-          "b": [
-            "Babilônia",
-            "Balaão",
-            "Barnabé",
-            "Baruque",
-            "Bate-Seba"
-          ]
-        }
+      "md/002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 20621
       },
-      "pdf/003.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 214042,
-        "scope": {
-          "c": [
-            "Calebe",
-            "Ciro II",
-            "Corinto"
-          ]
-        }
+      "md/003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10544
       },
-      "pdf/004.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 230500,
-        "scope": {
-          "d": [
-            "Daniel",
-            "Davi",
-            "Débora"
-          ]
-        }
+      "md/004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 14630
       },
-      "pdf/005.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 376818,
-        "scope": {
-          "e": [
-            "Éfeso",
-            "Egito",
-            "Eleazar",
-            "Eli",
-            "Elias",
-            "Eliseu",
-            "Esaú",
-            "Esdras",
-            "Ester",
-            "Estevão",
-            "Ezequias",
-            "Ezequiel"
-          ]
-        }
+      "md/005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 41041
       },
-      "pdf/006.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 215325,
-        "scope": {
-          "f": [
-            "Faraó",
-            "Filipe",
-            "Filipos"
-          ]
-        }
+      "md/006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10177
       },
-      "pdf/007.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 179480,
-        "scope": {
-          "g": [
-            "Gideão"
-          ]
-        }
+      "md/007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3605
       },
-      "pdf/008.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 224183,
-        "scope": {
-          "h": [
-            "Herodes Agripa I",
-            "Herodes Agripa II",
-            "Herodes Antipas",
-            "Herodes, o Grande",
-            "Hititas"
-          ]
-        }
+      "md/008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12893
       },
-      "pdf/009.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 281082,
-        "scope": {
-          "i": [
-            "Imperadores Romanos",
-            "Isaías",
-            "Isaque",
-            "Ismael"
-          ]
-        }
+      "md/009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 15834
       },
-      "pdf/010.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 581998,
-        "scope": {
-          "j": [
-            "Jacó",
-            "Jeremias",
-            "Jeroboão I",
-            "Jeroboão II",
-            "Jetro (Reuel)",
-            "Jezabel",
-            "Joabe",
-            "João Batista",
-            "João Marcos",
-            "João, Filho de Zebedeu",
-            "Jônatas",
-            "Josafá",
-            "José",
-            "Josias",
-            "Josué",
-            "Judá",
-            "Judas Iscariotes"
-          ]
-        }
+      "md/010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 72990
       },
-      "pdf/011.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 256849,
-        "scope": {
-          "l": [
-            "Lia",
-            "Líderes judeus",
-            "Ló",
-            "Lucas"
-          ]
-        }
+      "md/011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13265
       },
-      "pdf/012.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 385705,
-        "scope": {
-          "m": [
-            "Macabeus",
-            "Manassés",
-            "Maria, Mãe de Jesus",
-            "Marta, Maria e Lázaro",
-            "Mateus (Levi)",
-            "Melquisedeque",
-            "Mical",
-            "Moabe e Amom",
-            "Moisés",
-            "Mulheres chamadas Maria"
-          ]
-        }
+      "md/012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 40202
       },
-      "pdf/013.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 259615,
-        "scope": {
-          "n": [
-            "Nabucodonosor II",
-            "Neemias",
-            "Nero",
-            "Nicodemos",
-            "Noé"
-          ]
-        }
+      "md/013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 14472
       },
-      "pdf/014.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 373296,
-        "scope": {
-          "o": [
-            "O Alto Conselho Judaico",
-            "O Filho do Homem",
-            "Os amalequitas",
-            "Os Fariseus",
-            "Os Filisteus",
-            "Os Gregos",
-            "Os Medos e Persas",
-            "Os Saduceus"
-          ]
-        }
+      "md/014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 31544
       },
-      "pdf/015.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 270160,
-        "scope": {
-          "p": [
-            "Paulo (Saul)",
-            "Pontius Pilatos",
-            "Priscila e Áquila"
-          ]
-        }
+      "md/015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 17548
       },
-      "pdf/016.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 308874,
-        "scope": {
-          "r": [
-            "Raabe",
-            "Raquel",
-            "Rebeca",
-            "Reinos Helenísticos",
-            "Roboão",
-            "Roma",
-            "Rute"
-          ]
-        }
+      "md/016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 25470
       },
-      "pdf/017.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 399738,
-        "scope": {
-          "s": [
-            "Salomão",
-            "Samaritanos",
-            "Samuel",
-            "Sansão",
-            "Sara",
-            "Satanás",
-            "Saul",
-            "Simão Pedro"
-          ]
-        }
+      "md/017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 38237
       },
-      "pdf/018.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 317298,
-        "scope": {
-          "t": [
-            "Tiago, Filho de Zebedeu",
-            "Tiago, irmão de Jesus",
-            "Timóteo",
-            "Tito",
-            "Tomé"
-          ]
-        }
+      "md/018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 20441
       },
-      "pdf/019.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 180412,
-        "scope": {
-          "u": [
-            "Uzias"
-          ]
-        }
+      "md/019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3241
       },
-      "pdf/020.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 175077,
-        "scope": {
-          "x": [
-            "Xerxes I"
-          ]
-        }
+      "md/020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3047
       },
-      "pdf/021.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 197099,
-        "scope": {
-          "z": [
-            "Zadoque",
-            "Zorobabel"
-          ]
-        }
+      "md/021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6353
       }
     },
     "copyright": {
