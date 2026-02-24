@@ -1,6 +1,6 @@
 [
   {
-    "content_id": 734296,
+    "content_id": "734296",
     "reference_id": 203396,
     "version": "1.0.1",
     "title": "Hajiri",
@@ -82,7 +82,7 @@
     }
   },
   {
-    "content_id": 734401,
+    "content_id": "734401",
     "reference_id": 203501,
     "version": "1.0.1",
     "title": "Herode Agripa I",
@@ -116,7 +116,7 @@
     }
   },
   {
-    "content_id": 734407,
+    "content_id": "734407",
     "reference_id": 203507,
     "version": "1.0.1",
     "title": "Herode Agripa II",
@@ -138,7 +138,7 @@
     }
   },
   {
-    "content_id": 734384,
+    "content_id": "734384",
     "reference_id": 203484,
     "version": "1.0.1",
     "title": "Herode Antipa",
@@ -268,7 +268,7 @@
     }
   },
   {
-    "content_id": 734377,
+    "content_id": "734377",
     "reference_id": 203477,
     "version": "1.0.1",
     "title": "Herode Mkuu",
@@ -302,7 +302,7 @@
     }
   },
   {
-    "content_id": 734350,
+    "content_id": "734350",
     "reference_id": 203450,
     "version": "1.0.1",
     "title": "Hezekia",
