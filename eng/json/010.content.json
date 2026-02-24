@@ -1,6 +1,6 @@
 [
   {
-    "content_id": 500462,
+    "content_id": "500462",
     "reference_id": 203405,
     "version": "1.0.1",
     "title": "Leah",
@@ -142,7 +142,7 @@
     }
   },
   {
-    "content_id": 500456,
+    "content_id": "500456",
     "reference_id": 203399,
     "version": "1.0.1",
     "title": "Lot",
@@ -266,7 +266,7 @@
     }
   },
   {
-    "content_id": 500561,
+    "content_id": "500561",
     "reference_id": 203504,
     "version": "1.0.1",
     "title": "Luke",

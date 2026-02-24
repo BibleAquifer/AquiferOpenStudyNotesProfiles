@@ -1,6 +1,6 @@
 [
   {
-    "content_id": 500533,
+    "content_id": "500533",
     "reference_id": 203476,
     "version": "1.0.1",
     "title": "Maccabees",
@@ -15,7 +15,7 @@
     }
   },
   {
-    "content_id": 500514,
+    "content_id": "500514",
     "reference_id": 203457,
     "version": "1.0.1",
     "title": "Manasseh",
@@ -163,7 +163,7 @@
     }
   },
   {
-    "content_id": 500546,
+    "content_id": "500546",
     "reference_id": 203489,
     "version": "1.0.1",
     "title": "Martha, Mary, and Lazarus",
@@ -245,7 +245,7 @@
     }
   },
   {
-    "content_id": 500544,
+    "content_id": "500544",
     "reference_id": 203487,
     "version": "1.0.1",
     "title": "Mary, Mother of Jesus",
@@ -423,7 +423,7 @@
     }
   },
   {
-    "content_id": 500536,
+    "content_id": "500536",
     "reference_id": 203479,
     "version": "1.0.1",
     "title": "Matthew (Levi)",
@@ -511,7 +511,7 @@
     }
   },
   {
-    "content_id": 500452,
+    "content_id": "500452",
     "reference_id": 203395,
     "version": "1.0.1",
     "title": "Melchizedek",
@@ -629,7 +629,7 @@
     }
   },
   {
-    "content_id": 500486,
+    "content_id": "500486",
     "reference_id": 203429,
     "version": "1.0.1",
     "title": "Michal",
@@ -693,7 +693,7 @@
     }
   },
   {
-    "content_id": 500474,
+    "content_id": "500474",
     "reference_id": 203417,
     "version": "1.0.1",
     "title": "Moab and Ammon",
@@ -841,7 +841,7 @@
     }
   },
   {
-    "content_id": 500471,
+    "content_id": "500471",
     "reference_id": 203414,
     "version": "1.0.1",
     "title": "Moses",

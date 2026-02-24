@@ -1,6 +1,6 @@
 [
   {
-    "content_id": 658426,
+    "content_id": "658426",
     "reference_id": 203501,
     "version": "1.0.1",
     "title": "Herodes Agripa I",
@@ -34,7 +34,7 @@
     }
   },
   {
-    "content_id": 658432,
+    "content_id": "658432",
     "reference_id": 203507,
     "version": "1.0.1",
     "title": "Herodes Agripa II",
@@ -56,7 +56,7 @@
     }
   },
   {
-    "content_id": 658409,
+    "content_id": "658409",
     "reference_id": 203484,
     "version": "1.0.1",
     "title": "Herodes Antipas",
@@ -186,7 +186,7 @@
     }
   },
   {
-    "content_id": 658402,
+    "content_id": "658402",
     "reference_id": 203477,
     "version": "1.0.1",
     "title": "Herodes el Grande",
@@ -220,7 +220,7 @@
     }
   },
   {
-    "content_id": 658326,
+    "content_id": "658326",
     "reference_id": 203401,
     "version": "1.0.1",
     "title": "Hititas",

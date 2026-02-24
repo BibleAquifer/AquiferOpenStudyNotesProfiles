@@ -1,6 +1,6 @@
 [
   {
-    "content_id": 500488,
+    "content_id": "500488",
     "reference_id": 203431,
     "version": "1.0.1",
     "title": "The Amalekites",
@@ -112,7 +112,7 @@
     }
   },
   {
-    "content_id": 500529,
+    "content_id": "500529",
     "reference_id": 203472,
     "version": "1.0.1",
     "title": "The Greeks",
@@ -134,7 +134,7 @@
     }
   },
   {
-    "content_id": 500539,
+    "content_id": "500539",
     "reference_id": 203482,
     "version": "1.0.1",
     "title": "The Jewish High Council",
@@ -246,7 +246,7 @@
     }
   },
   {
-    "content_id": 500517,
+    "content_id": "500517",
     "reference_id": 203460,
     "version": "1.0.1",
     "title": "The Medes and Persians",
@@ -286,7 +286,7 @@
     }
   },
   {
-    "content_id": 500535,
+    "content_id": "500535",
     "reference_id": 203478,
     "version": "1.0.1",
     "title": "The Pharisees",
@@ -638,7 +638,7 @@
     }
   },
   {
-    "content_id": 500478,
+    "content_id": "500478",
     "reference_id": 203421,
     "version": "1.0.1",
     "title": "The Philistines",
@@ -846,7 +846,7 @@
     }
   },
   {
-    "content_id": 500567,
+    "content_id": "500567",
     "reference_id": 203510,
     "version": "1.0.1",
     "title": "The Roman Church",
@@ -928,7 +928,7 @@
     }
   },
   {
-    "content_id": 500538,
+    "content_id": "500538",
     "reference_id": 203481,
     "version": "1.0.1",
     "title": "The Sadducees",
@@ -1028,7 +1028,7 @@
     }
   },
   {
-    "content_id": 500528,
+    "content_id": "500528",
     "reference_id": 203471,
     "version": "1.0.1",
     "title": "The Son of Man",
@@ -1188,7 +1188,7 @@
     }
   },
   {
-    "content_id": 500553,
+    "content_id": "500553",
     "reference_id": 203496,
     "version": "1.0.1",
     "title": "Thomas",
@@ -1270,7 +1270,7 @@
     }
   },
   {
-    "content_id": 500571,
+    "content_id": "500571",
     "reference_id": 203514,
     "version": "1.0.1",
     "title": "Timothy",
@@ -1496,7 +1496,7 @@
     }
   },
   {
-    "content_id": 500572,
+    "content_id": "500572",
     "reference_id": 203515,
     "version": "1.0.1",
     "title": "Titus",
