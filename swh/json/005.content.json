@@ -2,7 +2,7 @@
   {
     "content_id": "734373",
     "reference_id": 203473,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Falme za Kiheleni",
     "media_type": "Text",
     "index_reference": "falme za kiheleni",
@@ -54,13 +54,14 @@
           "end_ref_usfm": "DAN 11:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "734313",
     "reference_id": 203413,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Farao",
     "media_type": "Text",
     "index_reference": "farao",
@@ -148,13 +149,36 @@
           "end_ref_usfm": "EXO 15:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pharaoh.6",
+          "type": "person",
+          "preferred_label": "Farao",
+          "confidence": 0.6921,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.4",
+          "type": "person",
+          "preferred_label": "Farao",
+          "confidence": 0.6246,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.5",
+          "type": "person",
+          "preferred_label": "Farao",
+          "confidence": 0.6041,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734413",
     "reference_id": 203513,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filipi",
     "media_type": "Text",
     "index_reference": "filipi",
@@ -248,13 +272,22 @@
           "end_ref_usfm": "PHP 4:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Filipi",
+          "confidence": 0.6339,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734399",
     "reference_id": 203499,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filipo",
     "media_type": "Text",
     "index_reference": "filipo",
@@ -420,7 +453,16 @@
           "end_ref_usfm": "ACT 10:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Filipo",
+          "confidence": 0.6732,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

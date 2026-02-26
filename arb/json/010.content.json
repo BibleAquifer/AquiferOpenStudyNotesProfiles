@@ -2,7 +2,7 @@
   {
     "content_id": "726101",
     "reference_id": 203472,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "اليونانيون",
     "media_type": "Text",
     "index_reference": "اليونانيون",
@@ -18,7 +18,16 @@
           "end_ref_usfm": "DAN 8:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Greek",
+          "type": "group",
+          "preferred_label": "Greeks",
+          "confidence": 0.9447,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

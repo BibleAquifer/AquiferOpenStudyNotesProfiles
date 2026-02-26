@@ -2,7 +2,7 @@
   {
     "content_id": "650876",
     "reference_id": 203460,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "米底亞人和波斯人",
     "media_type": "Text",
     "index_reference": "米底亞人和波斯人",
@@ -36,13 +36,14 @@
           "end_ref_usfm": "EZR 4:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650845",
     "reference_id": 203429,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "米甲",
     "media_type": "Text",
     "index_reference": "米甲",
@@ -100,7 +101,8 @@
           "end_ref_usfm": "1SA 18:30"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

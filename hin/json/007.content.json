@@ -2,7 +2,7 @@
   {
     "content_id": "654221",
     "reference_id": 203420,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कालेब",
     "media_type": "Text",
     "index_reference": "कालेब",
@@ -144,13 +144,22 @@
           "end_ref_usfm": "JOS 15:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Caleb",
+          "type": "person",
+          "preferred_label": "कालेब",
+          "confidence": 0.6926,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654312",
     "reference_id": 203511,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कुरिन्थुस",
     "media_type": "Text",
     "index_reference": "कुरिन्थुस",
@@ -238,13 +247,50 @@
           "end_ref_usfm": "1CO 16:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Corinth",
+          "type": "place",
+          "preferred_label": "कुरिन्थुस",
+          "confidence": 0.6149,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sosthenes",
+          "type": "person",
+          "preferred_label": "सोस्थिनेस",
+          "confidence": 0.606,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Corinth",
+          "type": "group",
+          "preferred_label": "कुरिन्थ वासी",
+          "confidence": 0.603,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Crispus",
+          "type": "person",
+          "preferred_label": "क्रिस्पुस",
+          "confidence": 0.5265,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Priscilla",
+          "type": "person",
+          "preferred_label": "प्रिस्किल्ला",
+          "confidence": 0.51,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654259",
     "reference_id": 203458,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कुस्रू द्वितीय",
     "media_type": "Text",
     "index_reference": "कुस्रू द्वितीय",
@@ -332,7 +378,30 @@
           "end_ref_usfm": "ISA 48:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Cyrus",
+          "type": "person",
+          "preferred_label": "कुस्रू",
+          "confidence": 0.7259,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Darius.2",
+          "type": "person",
+          "preferred_label": "दारा",
+          "confidence": 0.637,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Darius.3",
+          "type": "person",
+          "preferred_label": "दारा",
+          "confidence": 0.6148,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

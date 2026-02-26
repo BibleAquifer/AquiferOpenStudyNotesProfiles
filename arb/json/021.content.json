@@ -2,7 +2,7 @@
   {
     "content_id": "726041",
     "reference_id": 203412,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يَثْرُون (رَعُوئِيل)",
     "media_type": "Text",
     "index_reference": "يَثْرُون (رَعُوئِيل)",
@@ -96,13 +96,22 @@
           "end_ref_usfm": "EXO 18:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jethro",
+          "type": "person",
+          "preferred_label": "يَثْرونَ",
+          "confidence": 0.6555,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726070",
     "reference_id": 203441,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يَرُبْعَام الأول",
     "media_type": "Text",
     "index_reference": "يَرُبْعَام الأول",
@@ -214,13 +223,36 @@
           "end_ref_usfm": "2CH 13:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jeroboam",
+          "type": "person",
+          "preferred_label": "يَربْعَام",
+          "confidence": 0.5821,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Rehoboam",
+          "type": "person",
+          "preferred_label": "رَحبْعَامَ",
+          "confidence": 0.5533,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Merab",
+          "type": "person",
+          "preferred_label": "مَيْرَب",
+          "confidence": 0.5261,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726077",
     "reference_id": 203448,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يَرُبْعَام الثاني",
     "media_type": "Text",
     "index_reference": "يَرُبْعَام الثاني",
@@ -284,13 +316,29 @@
           "end_ref_usfm": "2KI 14:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jeroboam.2",
+          "type": "person",
+          "preferred_label": "يَربْعَام",
+          "confidence": 0.7205,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "إِسْرَائِيلَ",
+          "confidence": 0.5618,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726047",
     "reference_id": 203418,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يشوع",
     "media_type": "Text",
     "index_reference": "يشوع",
@@ -516,13 +564,22 @@
           "end_ref_usfm": "JDG 2:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joshua.2",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.5312,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726038",
     "reference_id": 203409,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يعقوب",
     "media_type": "Text",
     "index_reference": "يعقوب",
@@ -970,13 +1027,14 @@
           "end_ref_usfm": "HEB 11:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "726117",
     "reference_id": 203488,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يعقوب، ابن زبدي",
     "media_type": "Text",
     "index_reference": "يعقوب، ابن زبدي",
@@ -1244,13 +1302,14 @@
           "end_ref_usfm": "LUK 9:55"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "726132",
     "reference_id": 203503,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يعقوب، أخو يسوع",
     "media_type": "Text",
     "index_reference": "يعقوب، أخو يسوع",
@@ -1374,13 +1433,14 @@
           "end_ref_usfm": "JAS 5:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "726036",
     "reference_id": 203407,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يهوذا",
     "media_type": "Text",
     "index_reference": "يهوذا",
@@ -1540,13 +1600,113 @@
           "end_ref_usfm": "1CH 2:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.3",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.5",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.6",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.7",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.8",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.3",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.4",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.5",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jude",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "726114",
     "reference_id": 203485,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يهوذا الإسخريوطيّ",
     "media_type": "Text",
     "index_reference": "يهوذا الإسخريوطيّ",
@@ -1742,13 +1902,14 @@
           "end_ref_usfm": "ACT 1:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "726084",
     "reference_id": 203455,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يهوشافاط",
     "media_type": "Text",
     "index_reference": "يهوشافاط",
@@ -1866,13 +2027,14 @@
           "end_ref_usfm": "2CH 21:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "726067",
     "reference_id": 203438,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يُوآب",
     "media_type": "Text",
     "index_reference": "يُوآب",
@@ -2170,13 +2332,22 @@
           "end_ref_usfm": "1CH 21:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joab",
+          "type": "person",
+          "preferred_label": "يوآب",
+          "confidence": 0.6174,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726119",
     "reference_id": 203490,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يوحنّا المعمدان",
     "media_type": "Text",
     "index_reference": "يوحنّا المعمدان",
@@ -2564,13 +2735,22 @@
           "end_ref_usfm": "ACT 18:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "يوحَنَّا",
+          "confidence": 0.5642,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726131",
     "reference_id": 203502,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يُوحَنَّا ٱلْمُلَقَّب مَرْقُس",
     "media_type": "Text",
     "index_reference": "يُوحَنَّا ٱلْمُلَقَّب مَرْقُس",
@@ -2646,13 +2826,29 @@
           "end_ref_usfm": "ACT 15:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Mark",
+          "type": "person",
+          "preferred_label": "مَرْقسَ",
+          "confidence": 0.7015,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.5",
+          "type": "person",
+          "preferred_label": "مَرْيَم",
+          "confidence": 0.625,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726123",
     "reference_id": 203494,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يوحنّا، بْنَ زَبْدِي",
     "media_type": "Text",
     "index_reference": "يوحنّا، بْنَ زَبْدِي",
@@ -2962,13 +3158,22 @@
           "end_ref_usfm": "ACT 8:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Zebedee",
+          "type": "person",
+          "preferred_label": "بْنَ",
+          "confidence": 0.6254,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726035",
     "reference_id": 203406,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يُوسُف",
     "media_type": "Text",
     "index_reference": "يُوسُف",
@@ -3098,13 +3303,99 @@
           "end_ref_usfm": "GEN 50:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joseph.10",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 0.882,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.11",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 0.882,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.12",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 0.882,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.13",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 0.882,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.14",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 0.882,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.3",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 0.882,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.4",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 0.882,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.5",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 0.882,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.6",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 0.882,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.7",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 0.882,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.8",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 0.882,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.9",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 0.882,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "726080",
     "reference_id": 203451,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يوشيّا",
     "media_type": "Text",
     "index_reference": "يوشيّا",
@@ -3240,13 +3531,22 @@
           "end_ref_usfm": "JER 1:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Josiah",
+          "type": "person",
+          "preferred_label": "يوشِيَّا",
+          "confidence": 0.5899,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726057",
     "reference_id": 203428,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يوناثان",
     "media_type": "Text",
     "index_reference": "يوناثان",
@@ -3328,7 +3628,16 @@
           "end_ref_usfm": "1SA 23:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jonathan.3",
+          "type": "person",
+          "preferred_label": "يونَاثَانَ",
+          "confidence": 0.5531,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

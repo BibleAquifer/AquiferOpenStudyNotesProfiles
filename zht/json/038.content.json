@@ -2,7 +2,7 @@
   {
     "content_id": "650910",
     "reference_id": 203494,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "西庇太的兒子約翰",
     "media_type": "Text",
     "index_reference": "西庇太的兒子約翰",
@@ -312,13 +312,14 @@
           "end_ref_usfm": "ACT 8:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650896",
     "reference_id": 203480,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "西門彼得",
     "media_type": "Text",
     "index_reference": "西門彼得",
@@ -1018,13 +1019,14 @@
           "end_ref_usfm": "GAL 2:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650889",
     "reference_id": 203473,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "希臘化王國",
     "media_type": "Text",
     "index_reference": "希臘化王國",
@@ -1076,13 +1078,14 @@
           "end_ref_usfm": "DAN 11:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650888",
     "reference_id": 203472,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "希臘人",
     "media_type": "Text",
     "index_reference": "希臘人",
@@ -1098,13 +1101,22 @@
           "end_ref_usfm": "DAN 8:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Greek",
+          "type": "group",
+          "preferred_label": "Greeks",
+          "confidence": 0.8813,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "650900",
     "reference_id": 203484,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "希律安提帕",
     "media_type": "Text",
     "index_reference": "希律安提帕",
@@ -1228,13 +1240,14 @@
           "end_ref_usfm": "LUK 23:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650923",
     "reference_id": 203507,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "希律亞基帕二世",
     "media_type": "Text",
     "index_reference": "希律亞基帕二世",
@@ -1250,13 +1263,14 @@
           "end_ref_usfm": "ACT 26:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650917",
     "reference_id": 203501,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "希律亞基帕一世",
     "media_type": "Text",
     "index_reference": "希律亞基帕一世",
@@ -1284,13 +1298,14 @@
           "end_ref_usfm": "ACT 12:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650866",
     "reference_id": 203450,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "希西家",
     "media_type": "Text",
     "index_reference": "希西家",
@@ -1360,7 +1375,8 @@
           "end_ref_usfm": "2CH 32:33"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

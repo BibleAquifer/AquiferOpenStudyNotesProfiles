@@ -2,7 +2,7 @@
   {
     "content_id": "650882",
     "reference_id": 203466,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "耶利米",
     "media_type": "Text",
     "index_reference": "耶利米",
@@ -150,13 +150,14 @@
           "end_ref_usfm": "JER 44:30"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650864",
     "reference_id": 203448,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "耶羅波安二世",
     "media_type": "Text",
     "index_reference": "耶羅波安二世",
@@ -220,13 +221,14 @@
           "end_ref_usfm": "2KI 14:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650857",
     "reference_id": 203441,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "耶羅波安一世",
     "media_type": "Text",
     "index_reference": "耶羅波安一世",
@@ -338,13 +340,14 @@
           "end_ref_usfm": "2CH 13:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650903",
     "reference_id": 203487,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "耶穌的母親馬利亞",
     "media_type": "Text",
     "index_reference": "耶穌的母親馬利亞",
@@ -516,13 +519,14 @@
           "end_ref_usfm": "LUK 2:51"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650860",
     "reference_id": 203444,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "耶洗別",
     "media_type": "Text",
     "index_reference": "耶洗別",
@@ -616,13 +620,14 @@
           "end_ref_usfm": "1KI 21:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650828",
     "reference_id": 203412,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "葉忒羅（流珥）",
     "media_type": "Text",
     "index_reference": "葉忒羅（流珥）",
@@ -716,7 +721,8 @@
           "end_ref_usfm": "EXO 18:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

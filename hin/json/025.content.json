@@ -2,7 +2,7 @@
   {
     "content_id": "654299",
     "reference_id": 203498,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "स्तिफनुस",
     "media_type": "Text",
     "index_reference": "स्तिफनुस",
@@ -150,7 +150,16 @@
           "end_ref_usfm": "ACT 8:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Stephen",
+          "type": "person",
+          "preferred_label": "स्तिफनुस",
+          "confidence": 0.6315,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

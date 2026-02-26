@@ -2,7 +2,7 @@
   {
     "content_id": "734320",
     "reference_id": 203420,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Kalebu",
     "media_type": "Text",
     "index_reference": "kalebu",
@@ -144,13 +144,22 @@
           "end_ref_usfm": "JOS 15:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Caleb",
+          "type": "person",
+          "preferred_label": "Kalebu",
+          "confidence": 0.6926,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734410",
     "reference_id": 203510,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Kanisa la Kirumi",
     "media_type": "Text",
     "index_reference": "kanisa la kirumi",
@@ -226,13 +235,14 @@
           "end_ref_usfm": "ACT 28:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "734358",
     "reference_id": 203458,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Koreshi II",
     "media_type": "Text",
     "index_reference": "koreshi ii",
@@ -320,13 +330,22 @@
           "end_ref_usfm": "ISA 48:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Cyrus",
+          "type": "person",
+          "preferred_label": "Koreshi",
+          "confidence": 0.7259,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734411",
     "reference_id": 203511,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Korintho",
     "media_type": "Text",
     "index_reference": "korintho",
@@ -414,7 +433,23 @@
           "end_ref_usfm": "1CO 16:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Corinth",
+          "type": "place",
+          "preferred_label": "Korintho",
+          "confidence": 0.6149,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Corinth",
+          "type": "group",
+          "preferred_label": "Corinthians",
+          "confidence": 0.513,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

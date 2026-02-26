@@ -2,7 +2,7 @@
   {
     "content_id": "500557",
     "reference_id": 203500,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Paul (Saul)",
     "media_type": "Text",
     "index_reference": "paul (saul)",
@@ -258,13 +258,22 @@
           "end_ref_usfm": "TIT 3:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "Paul",
+          "confidence": 0.626,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500470",
     "reference_id": 203413,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pharaoh",
     "media_type": "Text",
     "index_reference": "pharaoh",
@@ -352,13 +361,36 @@
           "end_ref_usfm": "EXO 15:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pharaoh.6",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 0.6921,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.4",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 0.6246,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.5",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 0.6041,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500556",
     "reference_id": 203499,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philip",
     "media_type": "Text",
     "index_reference": "philip",
@@ -524,13 +556,22 @@
           "end_ref_usfm": "ACT 10:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Philip",
+          "confidence": 0.6732,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500570",
     "reference_id": 203513,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philippi",
     "media_type": "Text",
     "index_reference": "philippi",
@@ -624,13 +665,29 @@
           "end_ref_usfm": "PHP 4:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Philippi",
+          "confidence": 0.6339,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Philippi",
+          "type": "group",
+          "preferred_label": "Philippians",
+          "confidence": 0.6068,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500543",
     "reference_id": 203486,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pontius Pilate",
     "media_type": "Text",
     "index_reference": "pontius pilate",
@@ -826,13 +883,22 @@
           "end_ref_usfm": "MAT 27:65"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pilate",
+          "type": "person",
+          "preferred_label": "Pilate",
+          "confidence": 0.7709,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500562",
     "reference_id": 203505,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Priscilla and Aquila",
     "media_type": "Text",
     "index_reference": "priscilla and aquila",
@@ -878,7 +944,23 @@
           "end_ref_usfm": "ACT 18:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Priscilla",
+          "type": "person",
+          "preferred_label": "Priscilla",
+          "confidence": 0.76,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Aquila",
+          "type": "person",
+          "preferred_label": "Aquila",
+          "confidence": 0.76,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

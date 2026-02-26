@@ -2,7 +2,7 @@
   {
     "content_id": "654233",
     "reference_id": 203432,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शमूएल",
     "media_type": "Text",
     "index_reference": "शमूएल",
@@ -198,13 +198,36 @@
           "end_ref_usfm": "1SA 16:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Samuel",
+          "type": "person",
+          "preferred_label": "शमूएल",
+          "confidence": 0.7249,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eli",
+          "type": "person",
+          "preferred_label": "एली",
+          "confidence": 0.6232,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Saul.2",
+          "type": "person",
+          "preferred_label": "शाऊल",
+          "confidence": 0.5719,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654281",
     "reference_id": 203480,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शमौन पतरस",
     "media_type": "Text",
     "index_reference": "शमौन पतरस",
@@ -904,13 +927,43 @@
           "end_ref_usfm": "GAL 2:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Peter",
+          "type": "person",
+          "preferred_label": "पतरस",
+          "confidence": 0.6823,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Simon.9",
+          "type": "person",
+          "preferred_label": "शमौन",
+          "confidence": 0.6024,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Simon.8",
+          "type": "person",
+          "preferred_label": "शमौन",
+          "confidence": 0.6014,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Simon.2",
+          "type": "person",
+          "preferred_label": "शमौन",
+          "confidence": 0.6005,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654228",
     "reference_id": 203427,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शाऊल",
     "media_type": "Text",
     "index_reference": "शाऊल",
@@ -974,13 +1027,36 @@
           "end_ref_usfm": "1CH 10:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Saul.2",
+          "type": "person",
+          "preferred_label": "शाऊल",
+          "confidence": 0.7601,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Laish",
+          "type": "person",
+          "preferred_label": "लैश",
+          "confidence": 0.5376,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "दाऊद",
+          "confidence": 0.5229,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654225",
     "reference_id": 203424,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शिमशोन",
     "media_type": "Text",
     "index_reference": "शिमशोन",
@@ -1050,13 +1126,29 @@
           "end_ref_usfm": "JDG 16:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Samson",
+          "type": "person",
+          "preferred_label": "शिमशोन",
+          "confidence": 0.7178,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Manoah",
+          "type": "person",
+          "preferred_label": "मानोह",
+          "confidence": 0.5219,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654265",
     "reference_id": 203464,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शैतान",
     "media_type": "Text",
     "index_reference": "शैतान",
@@ -1378,7 +1470,23 @@
           "end_ref_usfm": "2TH 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "शैतान",
+          "confidence": 0.7138,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Teman",
+          "type": "group",
+          "preferred_label": "तेमानी",
+          "confidence": 0.5134,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

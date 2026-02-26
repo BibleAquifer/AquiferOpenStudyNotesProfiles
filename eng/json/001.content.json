@@ -2,7 +2,7 @@
   {
     "content_id": "500468",
     "reference_id": 203411,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Aaron",
     "media_type": "Text",
     "index_reference": "aaron",
@@ -144,13 +144,29 @@
           "end_ref_usfm": "NUM 12:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Aaron",
+          "type": "person",
+          "preferred_label": "Aaron",
+          "confidence": 0.6934,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5087,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500487",
     "reference_id": 203430,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abiathar",
     "media_type": "Text",
     "index_reference": "abiathar",
@@ -274,13 +290,22 @@
           "end_ref_usfm": "1KI 2:35"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abiathar",
+          "type": "person",
+          "preferred_label": "Abiathar",
+          "confidence": 0.6622,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500494",
     "reference_id": 203437,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abishai",
     "media_type": "Text",
     "index_reference": "abishai",
@@ -428,13 +453,29 @@
           "end_ref_usfm": "1CH 19:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abishai",
+          "type": "person",
+          "preferred_label": "Abishai",
+          "confidence": 0.6989,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Absalom",
+          "type": "person",
+          "preferred_label": "Absalom",
+          "confidence": 0.5305,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500491",
     "reference_id": 203434,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abner",
     "media_type": "Text",
     "index_reference": "abner",
@@ -546,13 +587,29 @@
           "end_ref_usfm": "2SA 3:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abner",
+          "type": "person",
+          "preferred_label": "Abner",
+          "confidence": 0.7252,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ner.2",
+          "type": "person",
+          "preferred_label": "Ner",
+          "confidence": 0.5169,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500465",
     "reference_id": 203408,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abraham",
     "media_type": "Text",
     "index_reference": "abraham",
@@ -928,13 +985,22 @@
           "end_ref_usfm": "JAS 2:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abraham",
+          "type": "person",
+          "preferred_label": "Abraham",
+          "confidence": 0.7433,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500496",
     "reference_id": 203439,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Absalom",
     "media_type": "Text",
     "index_reference": "absalom",
@@ -1064,13 +1130,22 @@
           "end_ref_usfm": "2SA 19:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Absalom",
+          "type": "person",
+          "preferred_label": "Absalom",
+          "confidence": 0.741,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500450",
     "reference_id": 203393,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Adam and Eve",
     "media_type": "Text",
     "index_reference": "adam and eve",
@@ -1362,13 +1437,29 @@
           "end_ref_usfm": "HOS 6:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Adam",
+          "type": "person",
+          "preferred_label": "Adam",
+          "confidence": 0.678,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eve",
+          "type": "person",
+          "preferred_label": "Eve",
+          "confidence": 0.6065,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500500",
     "reference_id": 203443,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ahab",
     "media_type": "Text",
     "index_reference": "ahab",
@@ -1462,13 +1553,22 @@
           "end_ref_usfm": "1KI 22:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahab",
+          "type": "person",
+          "preferred_label": "Ahab",
+          "confidence": 0.6757,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500506",
     "reference_id": 203449,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ahaz",
     "media_type": "Text",
     "index_reference": "ahaz",
@@ -1544,13 +1644,22 @@
           "end_ref_usfm": "2CH 28:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahaz",
+          "type": "person",
+          "preferred_label": "Ahaz",
+          "confidence": 0.7,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500552",
     "reference_id": 203495,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Annas and Caiaphas",
     "media_type": "Text",
     "index_reference": "annas and caiaphas",
@@ -1632,13 +1741,29 @@
           "end_ref_usfm": "JHN 18:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Caiaphas",
+          "type": "person",
+          "preferred_label": "Caiaphas",
+          "confidence": 0.6692,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Annas",
+          "type": "person",
+          "preferred_label": "Annas",
+          "confidence": 0.6308,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500532",
     "reference_id": 203475,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Antiochus IV",
     "media_type": "Text",
     "index_reference": "antiochus iv",
@@ -1654,13 +1779,14 @@
           "end_ref_usfm": "DAN 11:35"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500563",
     "reference_id": 203506,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Apollos",
     "media_type": "Text",
     "index_reference": "apollos",
@@ -1742,13 +1868,22 @@
           "end_ref_usfm": "1CO 4:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Apollos",
+          "type": "person",
+          "preferred_label": "Apollos",
+          "confidence": 0.7636,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500503",
     "reference_id": 203446,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Arameans",
     "media_type": "Text",
     "index_reference": "arameans",
@@ -1968,13 +2103,29 @@
           "end_ref_usfm": "2KI 16:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Aramean",
+          "type": "group",
+          "preferred_label": "Arameans",
+          "confidence": 0.6072,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Paddan-aram",
+          "type": "place",
+          "preferred_label": "Paddan-aram",
+          "confidence": 0.5828,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500511",
     "reference_id": 203454,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Asa",
     "media_type": "Text",
     "index_reference": "asa",
@@ -2038,13 +2189,22 @@
           "end_ref_usfm": "2CH 16:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Asa",
+          "type": "person",
+          "preferred_label": "Asa",
+          "confidence": 0.8092,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500509",
     "reference_id": 203452,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Assyria",
     "media_type": "Text",
     "index_reference": "assyria",
@@ -2102,7 +2262,16 @@
           "end_ref_usfm": "2KI 19:37"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Assyria",
+          "type": "place",
+          "preferred_label": "Assyria",
+          "confidence": 0.5431,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

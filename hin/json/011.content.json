@@ -2,7 +2,7 @@
   {
     "content_id": "654316",
     "reference_id": 203515,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "तीतुस",
     "media_type": "Text",
     "index_reference": "तीतुस",
@@ -138,13 +138,22 @@
           "end_ref_usfm": "2CO 7:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Titus",
+          "type": "person",
+          "preferred_label": "तीतुस",
+          "confidence": 0.792,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654315",
     "reference_id": 203514,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "तीमुथियुस",
     "media_type": "Text",
     "index_reference": "तीमुथियुस",
@@ -364,7 +373,23 @@
           "end_ref_usfm": "2TI 2:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Timothy",
+          "type": "person",
+          "preferred_label": "तीमुथियुस",
+          "confidence": 0.7878,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Trophimus",
+          "type": "person",
+          "preferred_label": "त्रुफिमुस",
+          "confidence": 0.5092,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

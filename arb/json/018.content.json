@@ -2,7 +2,7 @@
   {
     "content_id": "726028",
     "reference_id": 203399,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لوط",
     "media_type": "Text",
     "index_reference": "لوط",
@@ -120,13 +120,22 @@
           "end_ref_usfm": "LUK 17:33"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Lot",
+          "type": "person",
+          "preferred_label": "لوطًا",
+          "confidence": 0.7374,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726133",
     "reference_id": 203504,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لوقا",
     "media_type": "Text",
     "index_reference": "لوقا",
@@ -196,13 +205,22 @@
           "end_ref_usfm": "ACT 1:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Luke",
+          "type": "person",
+          "preferred_label": "لوقَا",
+          "confidence": 0.5372,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726034",
     "reference_id": 203405,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ليئة",
     "media_type": "Text",
     "index_reference": "ليئة",
@@ -338,7 +356,8 @@
           "end_ref_usfm": "GEN 46:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

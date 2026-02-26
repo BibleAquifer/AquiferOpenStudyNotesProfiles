@@ -2,7 +2,7 @@
   {
     "content_id": "650906",
     "reference_id": 203490,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "施洗約翰",
     "media_type": "Text",
     "index_reference": "施洗約翰",
@@ -390,7 +390,8 @@
           "end_ref_usfm": "ACT 18:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

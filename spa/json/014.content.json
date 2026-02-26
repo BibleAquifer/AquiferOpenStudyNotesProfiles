@@ -2,7 +2,7 @@
   {
     "content_id": "658425",
     "reference_id": 203500,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pablo (Saúl)",
     "media_type": "Text",
     "index_reference": "pablo (saúl)",
@@ -258,13 +258,22 @@
           "end_ref_usfm": "TIT 3:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "Pablo",
+          "confidence": 0.626,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658411",
     "reference_id": 203486,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Poncio Pilato",
     "media_type": "Text",
     "index_reference": "poncio pilato",
@@ -460,13 +469,22 @@
           "end_ref_usfm": "MAT 27:65"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pilate",
+          "type": "person",
+          "preferred_label": "Pilato",
+          "confidence": 0.7709,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658430",
     "reference_id": 203505,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Priscila y Aquila",
     "media_type": "Text",
     "index_reference": "priscila y aquila",
@@ -512,7 +530,23 @@
           "end_ref_usfm": "ACT 18:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Priscilla",
+          "type": "person",
+          "preferred_label": "Priscila",
+          "confidence": 0.76,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Aquila",
+          "type": "person",
+          "preferred_label": "Aquila",
+          "confidence": 0.76,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

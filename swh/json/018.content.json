@@ -2,7 +2,7 @@
   {
     "content_id": "734393",
     "reference_id": 203493,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Viongozi wa Kiyahudi",
     "media_type": "Text",
     "index_reference": "viongozi wa kiyahudi",
@@ -198,7 +198,8 @@
           "end_ref_usfm": "ACT 26:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "654266",
     "reference_id": 203465,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यशायाह",
     "media_type": "Text",
     "index_reference": "यशायाह",
@@ -210,13 +210,22 @@
           "end_ref_usfm": "ROM 10:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Isaiah",
+          "type": "person",
+          "preferred_label": "यशायाह",
+          "confidence": 0.6154,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654208",
     "reference_id": 203407,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यहूदा",
     "media_type": "Text",
     "index_reference": "यहूदा",
@@ -376,13 +385,57 @@
           "end_ref_usfm": "1CH 2:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "यहूदा",
+          "confidence": 0.7014,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judah.3",
+          "type": "person",
+          "preferred_label": "यहूदा",
+          "confidence": 0.6027,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joda",
+          "type": "person",
+          "preferred_label": "योदाह",
+          "confidence": 0.5532,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pedaiah.2",
+          "type": "person",
+          "preferred_label": "पदायाह",
+          "confidence": 0.5155,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hodaviah",
+          "type": "person",
+          "preferred_label": "होदव्याह",
+          "confidence": 0.5127,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Delaiah",
+          "type": "person",
+          "preferred_label": "दलायाह",
+          "confidence": 0.5127,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654286",
     "reference_id": 203485,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यहूदा इस्करियोती",
     "media_type": "Text",
     "index_reference": "यहूदा इस्करियोती",
@@ -578,13 +631,29 @@
           "end_ref_usfm": "ACT 1:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "यहूदा",
+          "confidence": 0.7179,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "यहूदा",
+          "confidence": 0.6103,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654283",
     "reference_id": 203482,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यहूदियों की उच्च परिषद",
     "media_type": "Text",
     "index_reference": "यहूदियों की उच्च परिषद",
@@ -690,13 +759,29 @@
           "end_ref_usfm": "ACT 8:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "यहूदिया",
+          "confidence": 0.6025,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judas.3",
+          "type": "person",
+          "preferred_label": "यहूदा",
+          "confidence": 0.6025,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654294",
     "reference_id": 203493,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यहूदी अगुवे",
     "media_type": "Text",
     "index_reference": "यहूदी अगुवे",
@@ -892,13 +977,36 @@
           "end_ref_usfm": "ACT 26:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "यहूदिया",
+          "confidence": 0.5176,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoiada.2",
+          "type": "person",
+          "preferred_label": "यहोयादा",
+          "confidence": 0.5125,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "यहोवा",
+          "confidence": 0.5057,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654269",
     "reference_id": 203468,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यहेजकेल",
     "media_type": "Text",
     "index_reference": "यहेजकेल",
@@ -944,13 +1052,22 @@
           "end_ref_usfm": "EZK 4:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ezekiel",
+          "type": "person",
+          "preferred_label": "यहेजकेल",
+          "confidence": 0.6138,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654256",
     "reference_id": 203455,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यहोशापात",
     "media_type": "Text",
     "index_reference": "यहोशापात",
@@ -1068,13 +1185,36 @@
           "end_ref_usfm": "2CH 21:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jehoshaphat.3",
+          "type": "person",
+          "preferred_label": "यहोशाफात",
+          "confidence": 0.6743,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shaphat.2",
+          "type": "person",
+          "preferred_label": "शापात",
+          "confidence": 0.6022,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehonathan",
+          "type": "person",
+          "preferred_label": "यहोनातान",
+          "confidence": 0.5122,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654219",
     "reference_id": 203418,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यहोशू",
     "media_type": "Text",
     "index_reference": "यहोशू",
@@ -1300,13 +1440,29 @@
           "end_ref_usfm": "JDG 2:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joshua.2",
+          "type": "person",
+          "preferred_label": "यहोशू",
+          "confidence": 0.6797,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sheshai",
+          "type": "person",
+          "preferred_label": "शेशै",
+          "confidence": 0.601,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654210",
     "reference_id": 203409,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "याकूब",
     "media_type": "Text",
     "index_reference": "याकूब",
@@ -1754,13 +1910,43 @@
           "end_ref_usfm": "HEB 11:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jabbok",
+          "type": "place",
+          "preferred_label": "यब्बोक",
+          "confidence": 0.5602,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jashub",
+          "type": "person",
+          "preferred_label": "याशूब",
+          "confidence": 0.5107,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jachin",
+          "type": "person",
+          "preferred_label": "याकीन",
+          "confidence": 0.5107,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Becher",
+          "type": "person",
+          "preferred_label": "बेकेर",
+          "confidence": 0.5107,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654289",
     "reference_id": 203488,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "याकूब, जब्दी के पुत्र",
     "media_type": "Text",
     "index_reference": "याकूब, जब्दी के पुत्र",
@@ -2028,13 +2214,43 @@
           "end_ref_usfm": "LUK 9:55"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "याकूब",
+          "confidence": 0.6962,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zebedee",
+          "type": "person",
+          "preferred_label": "जब्दी",
+          "confidence": 0.6557,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James.4",
+          "type": "person",
+          "preferred_label": "याकूब",
+          "confidence": 0.6101,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "याकूब",
+          "confidence": 0.6101,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654304",
     "reference_id": 203503,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "याकूब, यीशु के भाई",
     "media_type": "Text",
     "index_reference": "याकूब, यीशु के भाई",
@@ -2158,13 +2374,22 @@
           "end_ref_usfm": "JAS 5:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:James.3",
+          "type": "person",
+          "preferred_label": "याकूब",
+          "confidence": 0.6289,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654242",
     "reference_id": 203441,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यारोबाम I",
     "media_type": "Text",
     "index_reference": "यारोबाम I",
@@ -2276,13 +2501,22 @@
           "end_ref_usfm": "2CH 13:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jeroboam",
+          "type": "person",
+          "preferred_label": "यारोबाम",
+          "confidence": 0.6721,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654249",
     "reference_id": 203448,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यारोबाम II",
     "media_type": "Text",
     "index_reference": "यारोबाम II",
@@ -2346,13 +2580,29 @@
           "end_ref_usfm": "2KI 14:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jeroboam.2",
+          "type": "person",
+          "preferred_label": "यारोबाम",
+          "confidence": 0.8105,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Beeri.2",
+          "type": "person",
+          "preferred_label": "बेरी",
+          "confidence": 0.6211,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654213",
     "reference_id": 203412,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यित्रो (रूएल)",
     "media_type": "Text",
     "index_reference": "यित्रो (रूएल)",
@@ -2446,13 +2696,22 @@
           "end_ref_usfm": "EXO 18:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jethro",
+          "type": "person",
+          "preferred_label": "यित्रो",
+          "confidence": 0.687,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654267",
     "reference_id": 203466,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यिर्मयाह",
     "media_type": "Text",
     "index_reference": "यिर्मयाह",
@@ -2600,13 +2859,64 @@
           "end_ref_usfm": "JER 44:30"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jeremiah.6",
+          "type": "person",
+          "preferred_label": "यिर्मयाह",
+          "confidence": 0.6719,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Irijah",
+          "type": "person",
+          "preferred_label": "यिरिय्याह",
+          "confidence": 0.6016,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Neriah",
+          "type": "person",
+          "preferred_label": "नेरिय्याह",
+          "confidence": 0.529,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Gemariah.2",
+          "type": "person",
+          "preferred_label": "गमर्याह",
+          "confidence": 0.5131,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Maaseiah.18",
+          "type": "person",
+          "preferred_label": "मासेयाह",
+          "confidence": 0.5116,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Maaseiah.19",
+          "type": "person",
+          "preferred_label": "मासेयाह",
+          "confidence": 0.5108,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Gemariah",
+          "type": "person",
+          "preferred_label": "गमर्याह",
+          "confidence": 0.5108,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654288",
     "reference_id": 203487,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यीशु की माता मरियम",
     "media_type": "Text",
     "index_reference": "यीशु की माता मरियम",
@@ -2778,13 +3088,43 @@
           "end_ref_usfm": "LUK 2:51"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "यीशु",
+          "confidence": 0.6547,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary",
+          "type": "person",
+          "preferred_label": "मरियम",
+          "confidence": 0.6472,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.2",
+          "type": "person",
+          "preferred_label": "मरियम",
+          "confidence": 0.605,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.4",
+          "type": "person",
+          "preferred_label": "मरियम",
+          "confidence": 0.6025,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654274",
     "reference_id": 203473,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यूनानिकृत साम्राज्य",
     "media_type": "Text",
     "index_reference": "यूनानिकृत साम्राज्य",
@@ -2836,13 +3176,22 @@
           "end_ref_usfm": "DAN 11:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Greece",
+          "type": "place",
+          "preferred_label": "यूनान",
+          "confidence": 0.6136,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654273",
     "reference_id": 203472,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यूनानी",
     "media_type": "Text",
     "index_reference": "यूनानी",
@@ -2858,13 +3207,36 @@
           "end_ref_usfm": "DAN 8:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Greek",
+          "type": "group",
+          "preferred_label": "यूनानी",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Greece",
+          "type": "place",
+          "preferred_label": "यूनान",
+          "confidence": 0.9644,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Hellenist",
+          "type": "group",
+          "preferred_label": "यूनानवादी",
+          "confidence": 0.8716,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "654207",
     "reference_id": 203406,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यूसुफ",
     "media_type": "Text",
     "index_reference": "यूसुफ",
@@ -2994,13 +3366,22 @@
           "end_ref_usfm": "GEN 50:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joseph.10",
+          "type": "person",
+          "preferred_label": "यूसुफ",
+          "confidence": 0.7216,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654291",
     "reference_id": 203490,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यूहन्ना बपतिस्मा देने वाला",
     "media_type": "Text",
     "index_reference": "यूहन्ना बपतिस्मा देने वाला",
@@ -3388,13 +3769,43 @@
           "end_ref_usfm": "ACT 18:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "यूहन्ना",
+          "confidence": 0.7262,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Salim",
+          "type": "place",
+          "preferred_label": "सालेम",
+          "confidence": 0.6015,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Lysanias",
+          "type": "person",
+          "preferred_label": "लिसानियास",
+          "confidence": 0.6015,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Annas",
+          "type": "person",
+          "preferred_label": "हन्ना",
+          "confidence": 0.6015,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654303",
     "reference_id": 203502,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यूहन्ना मरकुस",
     "media_type": "Text",
     "index_reference": "यूहन्ना मरकुस",
@@ -3470,13 +3881,22 @@
           "end_ref_usfm": "ACT 15:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Mark",
+          "type": "person",
+          "preferred_label": "मरकुस",
+          "confidence": 0.85,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654239",
     "reference_id": 203438,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "योआब",
     "media_type": "Text",
     "index_reference": "योआब",
@@ -3774,13 +4194,22 @@
           "end_ref_usfm": "1CH 21:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joab",
+          "type": "person",
+          "preferred_label": "योआब",
+          "confidence": 0.7659,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654229",
     "reference_id": 203428,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "योनातान",
     "media_type": "Text",
     "index_reference": "योनातान",
@@ -3862,13 +4291,22 @@
           "end_ref_usfm": "1SA 23:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jonathan.3",
+          "type": "person",
+          "preferred_label": "योनातान",
+          "confidence": 0.7781,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654252",
     "reference_id": 203451,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "योशिय्याह",
     "media_type": "Text",
     "index_reference": "योशिय्याह",
@@ -4004,7 +4442,44 @@
           "end_ref_usfm": "JER 1:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Josiah",
+          "type": "person",
+          "preferred_label": "योशियाह",
+          "confidence": 0.6934,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shemaiah.13",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.5624,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joshua.4",
+          "type": "person",
+          "preferred_label": "यहोशू",
+          "confidence": 0.5534,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hilkiah.2",
+          "type": "person",
+          "preferred_label": "हिल्किय्याह",
+          "confidence": 0.5284,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hashabiah.6",
+          "type": "person",
+          "preferred_label": "हशब्याह",
+          "confidence": 0.5264,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

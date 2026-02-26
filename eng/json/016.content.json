@@ -2,7 +2,7 @@
   {
     "content_id": "500488",
     "reference_id": 203431,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Amalekites",
     "media_type": "Text",
     "index_reference": "the amalekites",
@@ -108,13 +108,29 @@
           "end_ref_usfm": "PSA 83:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Amalek",
+          "type": "place",
+          "preferred_label": "Amalek",
+          "confidence": 0.7058,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Amalek",
+          "type": "group",
+          "preferred_label": "Amalekites",
+          "confidence": 0.6562,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500529",
     "reference_id": 203472,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Greeks",
     "media_type": "Text",
     "index_reference": "the greeks",
@@ -130,13 +146,22 @@
           "end_ref_usfm": "DAN 8:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "fauna:Lamb",
+          "type": "fauna",
+          "preferred_label": "Sheep",
+          "confidence": 0.58,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500539",
     "reference_id": 203482,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Jewish High Council",
     "media_type": "Text",
     "index_reference": "the jewish high council",
@@ -242,13 +267,22 @@
           "end_ref_usfm": "ACT 8:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "Judea",
+          "confidence": 0.6025,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500517",
     "reference_id": 203460,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Medes and Persians",
     "media_type": "Text",
     "index_reference": "the medes and persians",
@@ -282,13 +316,22 @@
           "end_ref_usfm": "EZR 4:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Persia",
+          "type": "place",
+          "preferred_label": "Persia",
+          "confidence": 0.6615,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500535",
     "reference_id": 203478,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Pharisees",
     "media_type": "Text",
     "index_reference": "the pharisees",
@@ -634,13 +677,22 @@
           "end_ref_usfm": "PHP 3:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Pharisee",
+          "type": "group",
+          "preferred_label": "Pharisees",
+          "confidence": 0.7141,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500478",
     "reference_id": 203421,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Philistines",
     "media_type": "Text",
     "index_reference": "the philistines",
@@ -842,13 +894,36 @@
           "end_ref_usfm": "2CH 28:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "Philistines",
+          "confidence": 0.7619,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "Philistia",
+          "confidence": 0.6119,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Philistine",
+          "type": "person",
+          "preferred_label": "Philistine",
+          "confidence": 0.5113,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500567",
     "reference_id": 203510,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Roman Church",
     "media_type": "Text",
     "index_reference": "the roman church",
@@ -924,13 +999,22 @@
           "end_ref_usfm": "ACT 28:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Rome",
+          "type": "place",
+          "preferred_label": "Rome",
+          "confidence": 0.648,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500538",
     "reference_id": 203481,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Sadducees",
     "media_type": "Text",
     "index_reference": "the sadducees",
@@ -1024,13 +1108,22 @@
           "end_ref_usfm": "1KI 1:48"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Sadducee",
+          "type": "group",
+          "preferred_label": "Sadducees",
+          "confidence": 0.6675,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500528",
     "reference_id": 203471,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "The Son of Man",
     "media_type": "Text",
     "index_reference": "the son of man",
@@ -1184,13 +1277,14 @@
           "end_ref_usfm": "MAT 28:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500553",
     "reference_id": 203496,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Thomas",
     "media_type": "Text",
     "index_reference": "thomas",
@@ -1266,13 +1360,22 @@
           "end_ref_usfm": "JHN 20:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Thomas",
+          "type": "person",
+          "preferred_label": "Thomas",
+          "confidence": 0.8444,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500571",
     "reference_id": 203514,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Timothy",
     "media_type": "Text",
     "index_reference": "timothy",
@@ -1492,13 +1595,29 @@
           "end_ref_usfm": "2TI 2:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Timothy",
+          "type": "person",
+          "preferred_label": "Timothy",
+          "confidence": 0.7878,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:FatherOfTimothy",
+          "type": "person",
+          "preferred_label": "Father of Timothy",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500572",
     "reference_id": 203515,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Titus",
     "media_type": "Text",
     "index_reference": "titus",
@@ -1634,7 +1753,16 @@
           "end_ref_usfm": "2CO 7:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Titus",
+          "type": "person",
+          "preferred_label": "Titus",
+          "confidence": 0.792,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

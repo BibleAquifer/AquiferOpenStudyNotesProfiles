@@ -2,7 +2,7 @@
   {
     "content_id": "658361",
     "reference_id": 203436,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadoc",
     "media_type": "Text",
     "index_reference": "sadoc",
@@ -150,13 +150,29 @@
           "end_ref_usfm": "1KI 1:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Zadok.2",
+          "type": "person",
+          "preferred_label": "Sadoc",
+          "confidence": 0.6813,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zadok.4",
+          "type": "person",
+          "preferred_label": "Sadoc",
+          "confidence": 0.6065,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658365",
     "reference_id": 203440,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salomón",
     "media_type": "Text",
     "index_reference": "salomón",
@@ -280,13 +296,22 @@
           "end_ref_usfm": "1KI 4:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Solomon",
+          "type": "person",
+          "preferred_label": "Salomón",
+          "confidence": 0.7211,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658417",
     "reference_id": 203492,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samaritanos",
     "media_type": "Text",
     "index_reference": "samaritanos",
@@ -320,13 +345,22 @@
           "end_ref_usfm": "2KI 17:41"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Samaritan",
+          "type": "group",
+          "preferred_label": "Simrat",
+          "confidence": 0.5951,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658357",
     "reference_id": 203432,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samuel",
     "media_type": "Text",
     "index_reference": "samuel",
@@ -522,13 +556,29 @@
           "end_ref_usfm": "1SA 16:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Samuel",
+          "type": "person",
+          "preferred_label": "Samuel",
+          "confidence": 0.7249,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Saul.2",
+          "type": "person",
+          "preferred_label": "Saúl",
+          "confidence": 0.6304,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658349",
     "reference_id": 203424,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sansón",
     "media_type": "Text",
     "index_reference": "sansón",
@@ -598,13 +648,22 @@
           "end_ref_usfm": "JDG 16:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Samson",
+          "type": "person",
+          "preferred_label": "Samsón",
+          "confidence": 0.6278,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658323",
     "reference_id": 203398,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sara",
     "media_type": "Text",
     "index_reference": "sara",
@@ -782,13 +841,22 @@
           "end_ref_usfm": "ROM 9:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Sarah",
+          "type": "person",
+          "preferred_label": "Sara",
+          "confidence": 0.7007,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658389",
     "reference_id": 203464,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Satanás",
     "media_type": "Text",
     "index_reference": "satanás",
@@ -1110,13 +1178,22 @@
           "end_ref_usfm": "2TH 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "Satanás",
+          "confidence": 0.7138,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658352",
     "reference_id": 203427,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Saúl",
     "media_type": "Text",
     "index_reference": "saúl",
@@ -1180,13 +1257,29 @@
           "end_ref_usfm": "1CH 10:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Saul.2",
+          "type": "person",
+          "preferred_label": "Saúl",
+          "confidence": 0.7601,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Shual",
+          "type": "place",
+          "preferred_label": "Sual",
+          "confidence": 0.5376,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658405",
     "reference_id": 203480,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Simón Pedro",
     "media_type": "Text",
     "index_reference": "simón pedro",
@@ -1886,7 +1979,37 @@
           "end_ref_usfm": "GAL 2:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Peter",
+          "type": "person",
+          "preferred_label": "Pedro",
+          "confidence": 0.6823,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Simon.9",
+          "type": "person",
+          "preferred_label": "Simón",
+          "confidence": 0.6024,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Simon.8",
+          "type": "person",
+          "preferred_label": "Simón",
+          "confidence": 0.6014,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Simon.2",
+          "type": "person",
+          "preferred_label": "Simón",
+          "confidence": 0.6005,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

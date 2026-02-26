@@ -2,7 +2,7 @@
   {
     "content_id": "650902",
     "reference_id": 203486,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "本丟‧彼拉多",
     "media_type": "Text",
     "index_reference": "本丟‧彼拉多",
@@ -198,7 +198,8 @@
           "end_ref_usfm": "MAT 27:65"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

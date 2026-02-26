@@ -2,7 +2,7 @@
   {
     "content_id": "654236",
     "reference_id": 203435,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बतशेबा",
     "media_type": "Text",
     "index_reference": "बतशेबा",
@@ -114,13 +114,22 @@
           "end_ref_usfm": "1KI 2:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Bathsheba",
+          "type": "person",
+          "preferred_label": "बतशेबा",
+          "confidence": 0.628,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654298",
     "reference_id": 203497,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बरनबास",
     "media_type": "Text",
     "index_reference": "बरनबास",
@@ -232,13 +241,22 @@
           "end_ref_usfm": "GAL 2:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Barnabas",
+          "type": "person",
+          "preferred_label": "बरनबास",
+          "confidence": 0.6611,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654268",
     "reference_id": 203467,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बारूक",
     "media_type": "Text",
     "index_reference": "बारूक",
@@ -344,13 +362,29 @@
           "end_ref_usfm": "JER 36:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Baruch.4",
+          "type": "person",
+          "preferred_label": "बारूक",
+          "confidence": 0.6777,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Kareah",
+          "type": "person",
+          "preferred_label": "कारेह",
+          "confidence": 0.545,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654217",
     "reference_id": 203416,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बिलाम",
     "media_type": "Text",
     "index_reference": "बिलाम",
@@ -470,13 +504,36 @@
           "label": "गिनती 22:5-6",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Balaam",
+          "type": "person",
+          "preferred_label": "बिलाम",
+          "confidence": 0.7806,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Balak",
+          "type": "person",
+          "preferred_label": "बालाक",
+          "confidence": 0.6326,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Baal",
+          "type": "deity",
+          "preferred_label": "बाल",
+          "confidence": 0.6065,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
     "content_id": "654254",
     "reference_id": 203453,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बेबीलोन",
     "media_type": "Text",
     "index_reference": "बेबीलोन",
@@ -589,6 +646,29 @@
           "resource_code": "TyndaleStudyNotes",
           "label": "दानिय्येल 5:31",
           "language": "hin"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:Babylon",
+          "type": "place",
+          "preferred_label": "बेबीलोन",
+          "confidence": 0.6782,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Daniel.3",
+          "type": "person",
+          "preferred_label": "दानिय्येल",
+          "confidence": 0.5362,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Baladan",
+          "type": "person",
+          "preferred_label": "बलदान",
+          "confidence": 0.513,
+          "match_method": "scored"
         }
       ]
     }

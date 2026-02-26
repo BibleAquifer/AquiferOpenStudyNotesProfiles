@@ -2,7 +2,7 @@
   {
     "content_id": "650918",
     "reference_id": 203502,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約翰·馬可",
     "media_type": "Text",
     "index_reference": "約翰·馬可",
@@ -78,13 +78,14 @@
           "end_ref_usfm": "ACT 15:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650844",
     "reference_id": 203428,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約拿單",
     "media_type": "Text",
     "index_reference": "約拿單",
@@ -166,13 +167,14 @@
           "end_ref_usfm": "1SA 23:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650822",
     "reference_id": 203406,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約瑟",
     "media_type": "Text",
     "index_reference": "約瑟",
@@ -302,13 +304,14 @@
           "end_ref_usfm": "GEN 50:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650871",
     "reference_id": 203455,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約沙法",
     "media_type": "Text",
     "index_reference": "約沙法",
@@ -426,13 +429,14 @@
           "end_ref_usfm": "2CH 21:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650834",
     "reference_id": 203418,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約書亞",
     "media_type": "Text",
     "index_reference": "約書亞",
@@ -658,13 +662,14 @@
           "end_ref_usfm": "JDG 2:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650867",
     "reference_id": 203451,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約西亞",
     "media_type": "Text",
     "index_reference": "約西亞",
@@ -800,13 +805,14 @@
           "end_ref_usfm": "JER 1:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650854",
     "reference_id": 203438,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約押",
     "media_type": "Text",
     "index_reference": "約押",
@@ -1104,7 +1110,8 @@
           "end_ref_usfm": "1CH 21:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

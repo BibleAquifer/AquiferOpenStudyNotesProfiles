@@ -2,7 +2,7 @@
   {
     "content_id": "650912",
     "reference_id": 203496,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "多馬",
     "media_type": "Text",
     "index_reference": "多馬",
@@ -78,7 +78,8 @@
           "end_ref_usfm": "JHN 20:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

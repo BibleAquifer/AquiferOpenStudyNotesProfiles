@@ -2,7 +2,7 @@
   {
     "content_id": "500466",
     "reference_id": 203409,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jacob",
     "media_type": "Text",
     "index_reference": "jacob",
@@ -450,13 +450,22 @@
           "end_ref_usfm": "HEB 11:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 0.7403,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500560",
     "reference_id": 203503,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "James, Brother of Jesus",
     "media_type": "Text",
     "index_reference": "james, brother of jesus",
@@ -580,13 +589,22 @@
           "end_ref_usfm": "JAS 5:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:James.3",
+          "type": "person",
+          "preferred_label": "James",
+          "confidence": 0.6289,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500545",
     "reference_id": 203488,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "James, Son of Zebedee",
     "media_type": "Text",
     "index_reference": "james, son of zebedee",
@@ -854,13 +872,43 @@
           "end_ref_usfm": "LUK 9:55"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "James",
+          "confidence": 0.6962,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zebedee",
+          "type": "person",
+          "preferred_label": "Zebedee",
+          "confidence": 0.6557,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "James",
+          "confidence": 0.6101,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James.4",
+          "type": "person",
+          "preferred_label": "James",
+          "confidence": 0.6101,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500512",
     "reference_id": 203455,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jehoshaphat",
     "media_type": "Text",
     "index_reference": "jehoshaphat",
@@ -978,13 +1026,29 @@
           "end_ref_usfm": "2CH 21:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jehoshaphat.3",
+          "type": "person",
+          "preferred_label": "Jehoshaphat",
+          "confidence": 0.7283,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shaphat.2",
+          "type": "person",
+          "preferred_label": "Shaphat",
+          "confidence": 0.5032,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500523",
     "reference_id": 203466,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jeremiah",
     "media_type": "Text",
     "index_reference": "jeremiah",
@@ -1132,13 +1196,22 @@
           "end_ref_usfm": "JER 44:30"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jeremiah.6",
+          "type": "person",
+          "preferred_label": "Jeremiah",
+          "confidence": 0.6719,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500498",
     "reference_id": 203441,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jeroboam I",
     "media_type": "Text",
     "index_reference": "jeroboam i",
@@ -1250,13 +1323,29 @@
           "end_ref_usfm": "2CH 13:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jeroboam",
+          "type": "person",
+          "preferred_label": "Jeroboam",
+          "confidence": 0.6721,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Rehoboam",
+          "type": "person",
+          "preferred_label": "Rehoboam",
+          "confidence": 0.5308,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500505",
     "reference_id": 203448,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jeroboam II",
     "media_type": "Text",
     "index_reference": "jeroboam ii",
@@ -1320,13 +1409,29 @@
           "end_ref_usfm": "2KI 14:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jeroboam.2",
+          "type": "person",
+          "preferred_label": "Jeroboam",
+          "confidence": 0.8105,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 0.5078,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500469",
     "reference_id": 203412,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jethro (Reuel)",
     "media_type": "Text",
     "index_reference": "jethro (reuel)",
@@ -1420,13 +1525,22 @@
           "end_ref_usfm": "EXO 18:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jethro",
+          "type": "person",
+          "preferred_label": "Jethro",
+          "confidence": 0.687,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500550",
     "reference_id": 203493,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jewish Leaders",
     "media_type": "Text",
     "index_reference": "jewish leaders",
@@ -1622,13 +1736,29 @@
           "end_ref_usfm": "ACT 26:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "Judea",
+          "confidence": 0.6076,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Jews",
+          "type": "group",
+          "preferred_label": "Jews",
+          "confidence": 0.5462,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500501",
     "reference_id": 203444,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jezebel",
     "media_type": "Text",
     "index_reference": "jezebel",
@@ -1722,13 +1852,22 @@
           "end_ref_usfm": "1KI 21:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jezebel",
+          "type": "person",
+          "preferred_label": "Jezebel",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500495",
     "reference_id": 203438,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joab",
     "media_type": "Text",
     "index_reference": "joab",
@@ -2026,13 +2165,22 @@
           "end_ref_usfm": "1CH 21:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joab",
+          "type": "person",
+          "preferred_label": "Joab",
+          "confidence": 0.7659,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500559",
     "reference_id": 203502,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "John Mark",
     "media_type": "Text",
     "index_reference": "john mark",
@@ -2108,13 +2256,22 @@
           "end_ref_usfm": "ACT 15:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Mark",
+          "type": "person",
+          "preferred_label": "Mark",
+          "confidence": 0.85,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500547",
     "reference_id": 203490,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "John the Baptist",
     "media_type": "Text",
     "index_reference": "john the baptist",
@@ -2502,13 +2659,29 @@
           "end_ref_usfm": "ACT 18:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.7262,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Baptist",
+          "type": "keyterm",
+          "preferred_label": "Baptist",
+          "confidence": 0.6185,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500551",
     "reference_id": 203494,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "John, Son of Zebedee",
     "media_type": "Text",
     "index_reference": "john, son of zebedee",
@@ -2818,13 +2991,36 @@
           "end_ref_usfm": "ACT 8:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.6647,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zebedee",
+          "type": "person",
+          "preferred_label": "Zebedee",
+          "confidence": 0.6254,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:John.3",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.6023,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500485",
     "reference_id": 203428,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jonathan",
     "media_type": "Text",
     "index_reference": "jonathan",
@@ -2906,13 +3102,22 @@
           "end_ref_usfm": "1SA 23:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jonathan.3",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 0.7781,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500463",
     "reference_id": 203406,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joseph",
     "media_type": "Text",
     "index_reference": "joseph",
@@ -3042,13 +3247,29 @@
           "end_ref_usfm": "GEN 50:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joseph.10",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 0.7216,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:StewardOfJoseph",
+          "type": "person",
+          "preferred_label": "Steward of Joseph",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500475",
     "reference_id": 203418,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joshua",
     "media_type": "Text",
     "index_reference": "joshua",
@@ -3274,13 +3495,22 @@
           "end_ref_usfm": "JDG 2:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joshua.2",
+          "type": "person",
+          "preferred_label": "Joshua",
+          "confidence": 0.6797,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500508",
     "reference_id": 203451,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Josiah",
     "media_type": "Text",
     "index_reference": "josiah",
@@ -3416,13 +3646,29 @@
           "end_ref_usfm": "JER 1:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Josiah",
+          "type": "person",
+          "preferred_label": "Josiah",
+          "confidence": 0.6934,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joah.4",
+          "type": "person",
+          "preferred_label": "Joah",
+          "confidence": 0.5129,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500464",
     "reference_id": 203407,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Judah",
     "media_type": "Text",
     "index_reference": "judah",
@@ -3582,13 +3828,36 @@
           "end_ref_usfm": "1CH 2:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.7014,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judah.3",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.6027,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joda",
+          "type": "person",
+          "preferred_label": "Joda",
+          "confidence": 0.5532,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500542",
     "reference_id": 203485,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Judas Iscariot",
     "media_type": "Text",
     "index_reference": "judas iscariot",
@@ -3784,7 +4053,23 @@
           "end_ref_usfm": "ACT 1:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.7179,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.6103,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

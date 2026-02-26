@@ -2,7 +2,7 @@
   {
     "content_id": "654243",
     "reference_id": 203442,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "रहबाम",
     "media_type": "Text",
     "index_reference": "रहबाम",
@@ -90,13 +90,22 @@
           "end_ref_usfm": "2CH 12:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rehoboam",
+          "type": "person",
+          "preferred_label": "रहबाम",
+          "confidence": 0.7532,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654220",
     "reference_id": 203419,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "राहाब",
     "media_type": "Text",
     "index_reference": "राहाब",
@@ -160,13 +169,22 @@
           "end_ref_usfm": "JOS 6:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rahab",
+          "type": "person",
+          "preferred_label": "राहाब",
+          "confidence": 0.7067,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654205",
     "reference_id": 203404,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "राहेल",
     "media_type": "Text",
     "index_reference": "राहेल",
@@ -278,13 +296,29 @@
           "end_ref_usfm": "GEN 46:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rachel",
+          "type": "person",
+          "preferred_label": "राहेल",
+          "confidence": 0.7673,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Bilhah",
+          "type": "person",
+          "preferred_label": "बिल्हा",
+          "confidence": 0.5304,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654203",
     "reference_id": 203402,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "रिबका",
     "media_type": "Text",
     "index_reference": "रिबका",
@@ -432,13 +466,22 @@
           "end_ref_usfm": "GEN 27:46"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rebekah",
+          "type": "person",
+          "preferred_label": "रिबका",
+          "confidence": 0.687,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654226",
     "reference_id": 203425,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "रूत",
     "media_type": "Text",
     "index_reference": "रूत",
@@ -502,13 +545,22 @@
           "end_ref_usfm": "RUT 4:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ruth",
+          "type": "person",
+          "preferred_label": "रूत",
+          "confidence": 0.6536,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654309",
     "reference_id": 203508,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "रोम",
     "media_type": "Text",
     "index_reference": "रोम",
@@ -608,13 +660,29 @@
           "end_ref_usfm": "ROM 1:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Rome",
+          "type": "place",
+          "preferred_label": "रोम",
+          "confidence": 0.7164,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Demetrius",
+          "type": "person",
+          "preferred_label": "दिमेत्रियुस",
+          "confidence": 0.6145,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654311",
     "reference_id": 203510,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "रोमी कलीसिया",
     "media_type": "Text",
     "index_reference": "रोमी कलीसिया",
@@ -690,13 +758,36 @@
           "end_ref_usfm": "ACT 28:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Rome",
+          "type": "place",
+          "preferred_label": "रोम",
+          "confidence": 0.648,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nereus",
+          "type": "person",
+          "preferred_label": "नेर्युस",
+          "confidence": 0.5315,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hermes",
+          "type": "person",
+          "preferred_label": "हिर्मेस",
+          "confidence": 0.5315,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654317",
     "reference_id": 203516,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "रोमी सम्राट",
     "media_type": "Text",
     "index_reference": "रोमी सम्राट",
@@ -748,7 +839,16 @@
           "end_ref_usfm": "REV 17:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Rome",
+          "type": "place",
+          "preferred_label": "रोम",
+          "confidence": 0.6267,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

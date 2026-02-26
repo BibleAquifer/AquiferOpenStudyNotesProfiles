@@ -2,7 +2,7 @@
   {
     "content_id": "658348",
     "reference_id": 203423,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gedeón",
     "media_type": "Text",
     "index_reference": "gedeón",
@@ -54,7 +54,16 @@
           "end_ref_usfm": "JDG 9:57"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gideon",
+          "type": "person",
+          "preferred_label": "Gedeón",
+          "confidence": 0.7225,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

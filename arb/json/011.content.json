@@ -2,7 +2,7 @@
   {
     "content_id": "726082",
     "reference_id": 203453,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بابل",
     "media_type": "Text",
     "index_reference": "بابل",
@@ -116,13 +116,22 @@
           "label": "دانيآل 5: 31",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Babylon.2",
+          "type": "place",
+          "preferred_label": "Babylon",
+          "confidence": 0.8761,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
     "content_id": "726096",
     "reference_id": 203467,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "باروخ",
     "media_type": "Text",
     "index_reference": "باروخ",
@@ -228,13 +237,22 @@
           "end_ref_usfm": "JER 36:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Baruch.4",
+          "type": "person",
+          "preferred_label": "بَاروخَ",
+          "confidence": 0.5562,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726064",
     "reference_id": 203435,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بَثْشَبَع",
     "media_type": "Text",
     "index_reference": "بَثْشَبَع",
@@ -346,13 +364,400 @@
           "end_ref_usfm": "1KI 2:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ethbaal",
+          "type": "person",
+          "preferred_label": "أَثْبَعَلَ",
+          "confidence": 0.8733,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishbah",
+          "type": "person",
+          "preferred_label": "يِشْبَحَ",
+          "confidence": 0.861,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishbak",
+          "type": "person",
+          "preferred_label": "يِشْبَاقَ",
+          "confidence": 0.8585,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hizki",
+          "type": "person",
+          "preferred_label": "حَزْقِي",
+          "confidence": 0.8572,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tahpanhes",
+          "type": "place",
+          "preferred_label": "تَحْفَنْحِيسَ",
+          "confidence": 0.8521,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Achzib",
+          "type": "place",
+          "preferred_label": "أَكْزِيبَ",
+          "confidence": 0.8445,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Achzib.2",
+          "type": "place",
+          "preferred_label": "أَكْزِيبَ",
+          "confidence": 0.8445,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ibhar",
+          "type": "person",
+          "preferred_label": "يِبْحَار",
+          "confidence": 0.844,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tiphsah",
+          "type": "place",
+          "preferred_label": "تَفْصَحَ",
+          "confidence": 0.8427,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tiphsah.2",
+          "type": "place",
+          "preferred_label": "تَفْصَحَ",
+          "confidence": 0.8427,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Patmos",
+          "type": "place",
+          "preferred_label": "بَطْمسَ",
+          "confidence": 0.841,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishpah",
+          "type": "person",
+          "preferred_label": "يِشْفَة",
+          "confidence": 0.8369,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Joktheel",
+          "type": "place",
+          "preferred_label": "يَقْتِئِيل",
+          "confidence": 0.8355,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jazer",
+          "type": "place",
+          "preferred_label": "يَعْزِيرَ",
+          "confidence": 0.8353,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:JazerSea",
+          "type": "place",
+          "preferred_label": "يَعْزِيرَ",
+          "confidence": 0.8353,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshbekashah",
+          "type": "person",
+          "preferred_label": "يشْبَقَاشَة",
+          "confidence": 0.8347,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jezer",
+          "type": "person",
+          "preferred_label": "يِصْر",
+          "confidence": 0.8346,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tappuah",
+          "type": "person",
+          "preferred_label": "تَفّوحَ",
+          "confidence": 0.8333,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tappuah",
+          "type": "place",
+          "preferred_label": "تَفّوحَ",
+          "confidence": 0.8333,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tappuah.2",
+          "type": "place",
+          "preferred_label": "تَفّوحَ",
+          "confidence": 0.8333,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jabez",
+          "type": "person",
+          "preferred_label": "يَعْبِيص",
+          "confidence": 0.8325,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jabez",
+          "type": "place",
+          "preferred_label": "يَعْبِيص",
+          "confidence": 0.8325,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Haggi",
+          "type": "person",
+          "preferred_label": "حَجِّي",
+          "confidence": 0.8317,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Stachys",
+          "type": "person",
+          "preferred_label": "إِسْتَاخِيسَ",
+          "confidence": 0.8259,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tahpenes",
+          "type": "person",
+          "preferred_label": "تَحْفَنِيسَ",
+          "confidence": 0.8251,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bakbuk",
+          "type": "person",
+          "preferred_label": "بَقْبوقَ",
+          "confidence": 0.8236,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nephtoah",
+          "type": "place",
+          "preferred_label": "نَفْتوحَ",
+          "confidence": 0.8191,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bakbakkar",
+          "type": "person",
+          "preferred_label": "بَقْبَقَّر",
+          "confidence": 0.8173,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tarshish",
+          "type": "person",
+          "preferred_label": "تَرْشِيشَ",
+          "confidence": 0.8164,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tarshish.2",
+          "type": "person",
+          "preferred_label": "تَرْشِيشَ",
+          "confidence": 0.8164,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tarshish",
+          "type": "place",
+          "preferred_label": "تَرْشِيشَ",
+          "confidence": 0.8164,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jotbah",
+          "type": "place",
+          "preferred_label": "يَطْبَةَ",
+          "confidence": 0.8158,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zebah",
+          "type": "person",
+          "preferred_label": "زَبَح",
+          "confidence": 0.8155,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nezib",
+          "type": "place",
+          "preferred_label": "نَصِيب",
+          "confidence": 0.8121,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Tammuz",
+          "type": "deity",
+          "preferred_label": "تَمّوزَ",
+          "confidence": 0.811,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.8081,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.2",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.8081,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.3",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.8081,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.4",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.8081,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.5",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.8081,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tahash",
+          "type": "person",
+          "preferred_label": "تَاحَشَ",
+          "confidence": 0.8079,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ikkesh",
+          "type": "person",
+          "preferred_label": "عِقِّيشَ",
+          "confidence": 0.8075,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shishak",
+          "type": "person",
+          "preferred_label": "شِيشَقَ",
+          "confidence": 0.8051,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Atharim",
+          "type": "place",
+          "preferred_label": "أَتَارِيمَ",
+          "confidence": 0.8041,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shaashgaz",
+          "type": "person",
+          "preferred_label": "شَعَشْغَازَ",
+          "confidence": 0.8036,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ashhur",
+          "type": "person",
+          "preferred_label": "أَشْحورَ",
+          "confidence": 0.8027,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jabbok",
+          "type": "place",
+          "preferred_label": "يَبّوقَ",
+          "confidence": 0.8023,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jacob.2",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.3",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.4",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jarha",
+          "type": "person",
+          "preferred_label": "يَرْحَع",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baasha",
+          "type": "person",
+          "preferred_label": "بَعْشَا",
+          "confidence": 0.8007,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Peter",
+          "type": "person",
+          "preferred_label": "بطْرس",
+          "confidence": 0.8001,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "726126",
     "reference_id": 203497,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "برنابا",
     "media_type": "Text",
     "index_reference": "برنابا",
@@ -464,13 +869,22 @@
           "end_ref_usfm": "GAL 2:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Barnabas",
+          "type": "person",
+          "preferred_label": "بَرْنَابَا",
+          "confidence": 0.8943,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "726134",
     "reference_id": 203505,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بِرِيسْكِلَّا، وأَكِيلَا",
     "media_type": "Text",
     "index_reference": "بِرِيسْكِلَّا، وأَكِيلَا",
@@ -516,13 +930,29 @@
           "end_ref_usfm": "ACT 18:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Priscilla",
+          "type": "person",
+          "preferred_label": "بِرِيسْكِلَّا",
+          "confidence": 0.76,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Aquila",
+          "type": "person",
+          "preferred_label": "أَكِيلَا",
+          "confidence": 0.697,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726045",
     "reference_id": 203416,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بَلْعَام بْنُ بَعُور",
     "media_type": "Text",
     "index_reference": "بَلْعَام بْنُ بَعُور",
@@ -642,13 +1072,29 @@
           "label": "العدد 22: 5-6",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Balaam",
+          "type": "person",
+          "preferred_label": "بَلْعَامَ",
+          "confidence": 0.7806,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Baal",
+          "type": "deity",
+          "preferred_label": "ٱلْبَعْلِ",
+          "confidence": 0.503,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
     "content_id": "726129",
     "reference_id": 203500,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بولس (شاول)",
     "media_type": "Text",
     "index_reference": "بولس (شاول)",
@@ -904,13 +1350,29 @@
           "end_ref_usfm": "TIT 3:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "بولسَ",
+          "confidence": 0.626,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eubulus",
+          "type": "person",
+          "preferred_label": "أَفْبولس",
+          "confidence": 0.6002,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726115",
     "reference_id": 203486,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بِيلَاطُس البُنطي",
     "media_type": "Text",
     "index_reference": "بِيلَاطُس البُنطي",
@@ -1106,7 +1568,16 @@
           "end_ref_usfm": "MAT 27:65"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pilate",
+          "type": "person",
+          "preferred_label": "بِيلَاطسَ",
+          "confidence": 0.6224,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

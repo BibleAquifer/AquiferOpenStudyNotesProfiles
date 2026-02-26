@@ -2,7 +2,7 @@
   {
     "content_id": "654222",
     "reference_id": 203421,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पलिश्ती लोग",
     "media_type": "Text",
     "index_reference": "पलिश्ती लोग",
@@ -204,13 +204,29 @@
           "end_ref_usfm": "2CH 28:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "पलिश्ती",
+          "confidence": 0.7619,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Philistine",
+          "type": "person",
+          "preferred_label": "पलिश्ती",
+          "confidence": 0.6013,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654287",
     "reference_id": 203486,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पुन्तियुस पिलातुस",
     "media_type": "Text",
     "index_reference": "पुन्तियुस पिलातुस",
@@ -406,13 +422,43 @@
           "end_ref_usfm": "MAT 27:65"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pilate",
+          "type": "person",
+          "preferred_label": "पिलातुस",
+          "confidence": 0.7709,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Lysanias",
+          "type": "person",
+          "preferred_label": "लिसानियास",
+          "confidence": 0.6034,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Philip.3",
+          "type": "person",
+          "preferred_label": "फिलिप्पुस",
+          "confidence": 0.5269,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joseph.6",
+          "type": "person",
+          "preferred_label": "यूसुफ",
+          "confidence": 0.508,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654301",
     "reference_id": 203500,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "पौलुस (शाऊल)",
     "media_type": "Text",
     "index_reference": "पौलुस (शाऊल)",
@@ -668,7 +714,142 @@
           "end_ref_usfm": "TIT 3:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "पौलुस",
+          "confidence": 0.626,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Silas",
+          "type": "person",
+          "preferred_label": "सीलास",
+          "confidence": 0.6023,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Priscilla",
+          "type": "person",
+          "preferred_label": "प्रिस्किल्ला",
+          "confidence": 0.6009,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Hierapolis",
+          "type": "place",
+          "preferred_label": "हियरापुलिस",
+          "confidence": 0.6002,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Amphipolis",
+          "type": "place",
+          "preferred_label": "अम्फिपुलिस",
+          "confidence": 0.6002,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Neapolis",
+          "type": "place",
+          "preferred_label": "नियापुलिस",
+          "confidence": 0.6002,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Nicopolis",
+          "type": "place",
+          "preferred_label": "निकुपुलिस",
+          "confidence": 0.6002,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "फिलिप्पुस",
+          "confidence": 0.6002,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Apollos",
+          "type": "person",
+          "preferred_label": "अपुल्लोस",
+          "confidence": 0.561,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Apelles",
+          "type": "person",
+          "preferred_label": "अपिल्लेस",
+          "confidence": 0.5597,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "फिलिप्पी",
+          "confidence": 0.5108,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Lysias",
+          "type": "person",
+          "preferred_label": "लूसियास",
+          "confidence": 0.5103,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Paphos",
+          "type": "place",
+          "preferred_label": "पाफुस",
+          "confidence": 0.5103,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Julius",
+          "type": "person",
+          "preferred_label": "यूलियुस",
+          "confidence": 0.5103,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pyrrhus",
+          "type": "person",
+          "preferred_label": "पुरूर्स",
+          "confidence": 0.5102,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Colossae",
+          "type": "place",
+          "preferred_label": "कुलुस्से",
+          "confidence": 0.5102,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Linus",
+          "type": "person",
+          "preferred_label": "लीनुस",
+          "confidence": 0.5102,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Lycia",
+          "type": "place",
+          "preferred_label": "लूसिया",
+          "confidence": 0.5102,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pudens",
+          "type": "person",
+          "preferred_label": "पूदेंस",
+          "confidence": 0.5102,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

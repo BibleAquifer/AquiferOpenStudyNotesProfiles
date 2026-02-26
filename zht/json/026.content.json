@@ -2,7 +2,7 @@
   {
     "content_id": "650830",
     "reference_id": 203414,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "摩西",
     "media_type": "Text",
     "index_reference": "摩西",
@@ -372,13 +372,22 @@
           "end_ref_usfm": "HEB 11:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Mushi",
+          "type": "person",
+          "preferred_label": "Mushi",
+          "confidence": 0.825,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "650833",
     "reference_id": 203417,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "摩押和亞捫",
     "media_type": "Text",
     "index_reference": "摩押和亞捫",
@@ -520,7 +529,8 @@
           "end_ref_usfm": "2CH 20:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

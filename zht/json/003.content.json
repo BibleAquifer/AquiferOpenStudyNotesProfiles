@@ -2,7 +2,7 @@
   {
     "content_id": "650869",
     "reference_id": 203453,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "巴比倫",
     "media_type": "Text",
     "index_reference": "巴比倫",
@@ -116,13 +116,14 @@
           "label": "但以理書 5:31",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "650832",
     "reference_id": 203416,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "巴蘭",
     "media_type": "Text",
     "index_reference": "巴蘭",
@@ -242,13 +243,14 @@
           "label": "民數記 22:5-6",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "650883",
     "reference_id": 203467,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "巴錄",
     "media_type": "Text",
     "index_reference": "巴錄",
@@ -354,13 +356,14 @@
           "end_ref_usfm": "JER 36:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650913",
     "reference_id": 203497,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "巴拿巴",
     "media_type": "Text",
     "index_reference": "巴拿巴",
@@ -472,13 +475,36 @@
           "end_ref_usfm": "GAL 2:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Baana",
+          "type": "person",
+          "preferred_label": "Baana",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baana.2",
+          "type": "person",
+          "preferred_label": "Baana",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baana.3",
+          "type": "person",
+          "preferred_label": "Baana",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "650851",
     "reference_id": 203435,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "拔示巴",
     "media_type": "Text",
     "index_reference": "拔示巴",
@@ -590,7 +616,8 @@
           "end_ref_usfm": "1KI 2:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

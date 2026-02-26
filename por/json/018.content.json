@@ -2,7 +2,7 @@
   {
     "content_id": "658565",
     "reference_id": 203488,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tiago, Filho de Zebedeu",
     "media_type": "Text",
     "index_reference": "tiago, filho de zebedeu",
@@ -270,13 +270,43 @@
           "end_ref_usfm": "LUK 9:55"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "Tiago",
+          "confidence": 0.6962,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zebedee",
+          "type": "person",
+          "preferred_label": "Zebedeu",
+          "confidence": 0.6557,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James.4",
+          "type": "person",
+          "preferred_label": "Tiago",
+          "confidence": 0.6101,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "Tiago",
+          "confidence": 0.6101,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658580",
     "reference_id": 203503,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tiago, irmão de Jesus",
     "media_type": "Text",
     "index_reference": "tiago, irmão de jesus",
@@ -400,13 +430,22 @@
           "end_ref_usfm": "JAS 5:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:James.3",
+          "type": "person",
+          "preferred_label": "Tiago",
+          "confidence": 0.6289,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658591",
     "reference_id": 203514,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Timóteo",
     "media_type": "Text",
     "index_reference": "timóteo",
@@ -626,13 +665,22 @@
           "end_ref_usfm": "2TI 2:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Timothy",
+          "type": "person",
+          "preferred_label": "Timóteo",
+          "confidence": 0.7878,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658592",
     "reference_id": 203515,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tito",
     "media_type": "Text",
     "index_reference": "tito",
@@ -768,13 +816,22 @@
           "end_ref_usfm": "2CO 7:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Titus",
+          "type": "person",
+          "preferred_label": "Tito",
+          "confidence": 0.792,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658573",
     "reference_id": 203496,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tomé",
     "media_type": "Text",
     "index_reference": "tomé",
@@ -850,7 +907,16 @@
           "end_ref_usfm": "JHN 20:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Thomas",
+          "type": "person",
+          "preferred_label": "Tomé",
+          "confidence": 0.8444,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

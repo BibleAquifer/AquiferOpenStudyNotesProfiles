@@ -2,7 +2,7 @@
   {
     "content_id": "500457",
     "reference_id": 203400,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isaac",
     "media_type": "Text",
     "index_reference": "isaac",
@@ -282,13 +282,29 @@
           "end_ref_usfm": "HEB 11:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Isaac",
+          "type": "person",
+          "preferred_label": "Isaac",
+          "confidence": 0.7182,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sarah",
+          "type": "person",
+          "preferred_label": "Sarah",
+          "confidence": 0.503,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500522",
     "reference_id": 203465,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isaiah",
     "media_type": "Text",
     "index_reference": "isaiah",
@@ -496,13 +512,22 @@
           "end_ref_usfm": "ROM 10:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Isaiah",
+          "type": "person",
+          "preferred_label": "Isaiah",
+          "confidence": 0.6154,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500454",
     "reference_id": 203397,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ishmael",
     "media_type": "Text",
     "index_reference": "ishmael",
@@ -668,7 +693,23 @@
           "end_ref_usfm": "GEN 25:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ishmael",
+          "type": "person",
+          "preferred_label": "Ishmael",
+          "confidence": 0.6691,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mishma",
+          "type": "person",
+          "preferred_label": "Mishma",
+          "confidence": 0.5014,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

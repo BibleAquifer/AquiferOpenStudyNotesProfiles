@@ -2,7 +2,7 @@
   {
     "content_id": "650890",
     "reference_id": 203474,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "所羅巴伯",
     "media_type": "Text",
     "index_reference": "所羅巴伯",
@@ -60,13 +60,14 @@
           "end_ref_usfm": "HAG 2:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650856",
     "reference_id": 203440,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "所羅門",
     "media_type": "Text",
     "index_reference": "所羅門",
@@ -190,7 +191,16 @@
           "end_ref_usfm": "1KI 4:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Solomon",
+          "type": "person",
+          "preferred_label": "Solomon",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

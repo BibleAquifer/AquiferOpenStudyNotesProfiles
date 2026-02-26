@@ -2,7 +2,7 @@
   {
     "content_id": "668862",
     "reference_id": 203404,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rachel",
     "media_type": "Text",
     "index_reference": "rachel",
@@ -114,13 +114,29 @@
           "end_ref_usfm": "GEN 46:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rachel",
+          "type": "person",
+          "preferred_label": "Rachel",
+          "confidence": 0.7673,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ashbel",
+          "type": "person",
+          "preferred_label": "Aschbel",
+          "confidence": 0.5006,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "668877",
     "reference_id": 203419,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rahab",
     "media_type": "Text",
     "index_reference": "rahab",
@@ -184,13 +200,22 @@
           "end_ref_usfm": "JOS 6:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rahab",
+          "type": "person",
+          "preferred_label": "Rahab",
+          "confidence": 0.7067,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "668860",
     "reference_id": 203402,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rebecca",
     "media_type": "Text",
     "index_reference": "rebecca",
@@ -338,13 +363,22 @@
           "end_ref_usfm": "GEN 27:46"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rebekah",
+          "type": "person",
+          "preferred_label": "Rebecca",
+          "confidence": 0.687,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "668900",
     "reference_id": 203442,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roboam",
     "media_type": "Text",
     "index_reference": "roboam",
@@ -432,13 +466,29 @@
           "end_ref_usfm": "2CH 12:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rehoboam",
+          "type": "person",
+          "preferred_label": "Roboam",
+          "confidence": 0.7532,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jeroboam",
+          "type": "person",
+          "preferred_label": "Jéroboam",
+          "confidence": 0.6193,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "668966",
     "reference_id": 203508,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rome",
     "media_type": "Text",
     "index_reference": "rome",
@@ -538,13 +588,22 @@
           "end_ref_usfm": "ROM 1:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Rome",
+          "type": "place",
+          "preferred_label": "Rome",
+          "confidence": 0.7164,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "668931",
     "reference_id": 203473,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Royaumes hellénistiques",
     "media_type": "Text",
     "index_reference": "royaumes hellénistiques",
@@ -596,13 +655,14 @@
           "end_ref_usfm": "DAN 11:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "668883",
     "reference_id": 203425,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ruth",
     "media_type": "Text",
     "index_reference": "ruth",
@@ -666,7 +726,16 @@
           "end_ref_usfm": "RUT 4:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ruth",
+          "type": "person",
+          "preferred_label": "Ruth",
+          "confidence": 0.6536,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

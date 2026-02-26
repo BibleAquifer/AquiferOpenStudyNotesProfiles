@@ -2,7 +2,7 @@
   {
     "content_id": "654295",
     "reference_id": 203494,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जब्दी का पुत्र यूहन्ना",
     "media_type": "Text",
     "index_reference": "जब्दी का पुत्र यूहन्ना",
@@ -312,13 +312,50 @@
           "end_ref_usfm": "ACT 8:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "यूहन्ना",
+          "confidence": 0.6647,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zebedee",
+          "type": "person",
+          "preferred_label": "जब्दी",
+          "confidence": 0.6254,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:John.3",
+          "type": "person",
+          "preferred_label": "यूहन्ना",
+          "confidence": 0.6023,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Annas",
+          "type": "person",
+          "preferred_label": "हन्ना",
+          "confidence": 0.6023,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "याकूब",
+          "confidence": 0.5291,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654275",
     "reference_id": 203474,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जरुब्बाबेल",
     "media_type": "Text",
     "index_reference": "जरुब्बाबेल",
@@ -376,7 +413,37 @@
           "end_ref_usfm": "HAG 2:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Zerubbabel.2",
+          "type": "person",
+          "preferred_label": "जरूब्बाबेल",
+          "confidence": 0.6404,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Bebai",
+          "type": "person",
+          "preferred_label": "बेबै",
+          "confidence": 0.6019,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Babylon",
+          "type": "group",
+          "preferred_label": "बाबेली",
+          "confidence": 0.6019,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Barzillai.3",
+          "type": "person",
+          "preferred_label": "बर्जिल्लै",
+          "confidence": 0.5254,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

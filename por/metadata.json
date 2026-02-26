@@ -4,7 +4,7 @@
 "resource_type": "Study Notes",
 "title": "Aquifer Open Study Notes (Profiles)",
 "aquifer_name": "Study Notes - Profiles (Tyndale)",
-"version": "1.0.1",
+"version": "1.1.2",
 "collection_title": "Study Notes - Profiles (Tyndale)",
 "short_name": "TSNP",
 "license_info": {
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesProfiles",
-"date_created": "2026-02-24",
+"date_created": "2026-02-25",
 "language": "por",
 "localizations": [
 "eng",
@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-24T13:17:04.230425"
+"dateCreated": "2026-02-25T21:15:48.315340"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesProfiles": {
-"timestamp": "2026-02-24T13:17:04.230425"
+"timestamp": "2026-02-25T21:15:48.315340"
 }
 }
 },
@@ -387,87 +387,87 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 63428
+"size": 64492
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 20514
+"size": 20900
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 10558
+"size": 10776
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 14516
+"size": 14735
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 40603
+"size": 41395
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 10024
+"size": 10283
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 3613
+"size": 3676
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 12833
+"size": 13184
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 15665
+"size": 15881
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 72268
+"size": 73686
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 13142
+"size": 13314
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 39769
+"size": 40716
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 14350
+"size": 14870
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 31208
+"size": 31599
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 17448
+"size": 17712
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 25399
+"size": 25799
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 37944
+"size": 38605
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 20639
+"size": 21038
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 3263
+"size": 3324
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 3037
+"size": 3103
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 6362
+"size": 6529
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",

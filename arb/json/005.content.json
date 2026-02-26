@@ -2,7 +2,7 @@
   {
     "content_id": "726110",
     "reference_id": 203481,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الصدوقيون",
     "media_type": "Text",
     "index_reference": "الصدوقيون",
@@ -96,13 +96,14 @@
           "end_ref_usfm": "1KI 1:48"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "726065",
     "reference_id": 203436,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "صادوق",
     "media_type": "Text",
     "index_reference": "صادوق",
@@ -250,13 +251,22 @@
           "end_ref_usfm": "1KI 1:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Zadok.2",
+          "type": "person",
+          "preferred_label": "صَادوق",
+          "confidence": 0.5598,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726061",
     "reference_id": 203432,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "صموئيل",
     "media_type": "Text",
     "index_reference": "صموئيل",
@@ -452,7 +462,16 @@
           "end_ref_usfm": "1SA 16:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Samuel",
+          "type": "person",
+          "preferred_label": "صَموئِيلَ",
+          "confidence": 0.6619,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

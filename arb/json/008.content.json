@@ -2,7 +2,7 @@
   {
     "content_id": "726122",
     "reference_id": 203493,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "القادة اليهود",
     "media_type": "Text",
     "index_reference": "القادة اليهود",
@@ -198,7 +198,8 @@
           "end_ref_usfm": "ACT 26:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

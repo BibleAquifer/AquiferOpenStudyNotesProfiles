@@ -2,7 +2,7 @@
   {
     "content_id": "658439",
     "reference_id": 203514,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Timoteo",
     "media_type": "Text",
     "index_reference": "timoteo",
@@ -222,13 +222,22 @@
           "end_ref_usfm": "2TI 2:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Timothy",
+          "type": "person",
+          "preferred_label": "Timoteo",
+          "confidence": 0.7878,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658440",
     "reference_id": 203515,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tito",
     "media_type": "Text",
     "index_reference": "tito",
@@ -364,13 +373,22 @@
           "end_ref_usfm": "2CO 7:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Titus",
+          "type": "person",
+          "preferred_label": "Tito",
+          "confidence": 0.792,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658421",
     "reference_id": 203496,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tomás",
     "media_type": "Text",
     "index_reference": "tomás",
@@ -446,7 +464,16 @@
           "end_ref_usfm": "JHN 20:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Thomas",
+          "type": "person",
+          "preferred_label": "Tomás",
+          "confidence": 0.8444,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]
