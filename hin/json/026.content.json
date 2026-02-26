@@ -2,7 +2,7 @@
   {
     "content_id": "654296",
     "reference_id": 203495,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हन्ना और कैफा",
     "media_type": "Text",
     "index_reference": "हन्ना और कैफा",
@@ -84,13 +84,43 @@
           "end_ref_usfm": "JHN 18:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Caiaphas",
+          "type": "person",
+          "preferred_label": "कैफा",
+          "confidence": 0.6692,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Annas",
+          "type": "person",
+          "preferred_label": "हन्ना",
+          "confidence": 0.6308,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "यूहन्ना",
+          "confidence": 0.5177,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:John.3",
+          "type": "person",
+          "preferred_label": "यूहन्ना",
+          "confidence": 0.5177,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654197",
     "reference_id": 203396,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हागार",
     "media_type": "Text",
     "index_reference": "हागार",
@@ -166,13 +196,22 @@
           "end_ref_usfm": "GEN 16:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hagar",
+          "type": "person",
+          "preferred_label": "हागार",
+          "confidence": 0.696,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654212",
     "reference_id": 203411,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हारून",
     "media_type": "Text",
     "index_reference": "हारून",
@@ -314,13 +353,36 @@
           "end_ref_usfm": "NUM 12:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Aaron",
+          "type": "person",
+          "preferred_label": "हारून",
+          "confidence": 0.6934,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.6",
+          "type": "person",
+          "preferred_label": "फ़िरौन",
+          "confidence": 0.5195,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Paran",
+          "type": "place",
+          "preferred_label": "पारान",
+          "confidence": 0.5111,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654251",
     "reference_id": 203450,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हिजकिय्याह",
     "media_type": "Text",
     "index_reference": "हिजकिय्याह",
@@ -390,13 +452,43 @@
           "end_ref_usfm": "2CH 32:33"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hezekiah",
+          "type": "person",
+          "preferred_label": "हिजकिय्याह",
+          "confidence": 0.7342,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.4",
+          "type": "person",
+          "preferred_label": "जकर्याह",
+          "confidence": 0.5666,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.14",
+          "type": "person",
+          "preferred_label": "जकर्याह",
+          "confidence": 0.5653,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hilkiah",
+          "type": "person",
+          "preferred_label": "हिल्किय्याह",
+          "confidence": 0.5031,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654202",
     "reference_id": 203401,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हित्तियों",
     "media_type": "Text",
     "index_reference": "हित्तियों",
@@ -490,13 +582,29 @@
           "end_ref_usfm": "GEN 23:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Hittite",
+          "type": "group",
+          "preferred_label": "हित्ती",
+          "confidence": 0.6609,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Uriah",
+          "type": "person",
+          "preferred_label": "ऊरिय्याह",
+          "confidence": 0.5658,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654285",
     "reference_id": 203484,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हेरोदेस अंतिपास",
     "media_type": "Text",
     "index_reference": "हेरोदेस अंतिपास",
@@ -620,13 +728,29 @@
           "end_ref_usfm": "LUK 23:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herodias",
+          "type": "person",
+          "preferred_label": "हेरोदियास",
+          "confidence": 0.5931,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pilate",
+          "type": "person",
+          "preferred_label": "पिलातुस",
+          "confidence": 0.5706,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654302",
     "reference_id": 203501,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हेरोदेस अग्रिप्पा I",
     "media_type": "Text",
     "index_reference": "हेरोदेस अग्रिप्पा I",
@@ -654,13 +778,29 @@
           "end_ref_usfm": "ACT 12:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod.3",
+          "type": "person",
+          "preferred_label": "हेरोदेस",
+          "confidence": 0.72,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Tyre",
+          "type": "group",
+          "preferred_label": "सोरी",
+          "confidence": 0.64,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654308",
     "reference_id": 203507,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हेरोदेस अग्रिप्पा II",
     "media_type": "Text",
     "index_reference": "हेरोदेस अग्रिप्पा II",
@@ -676,7 +816,16 @@
           "end_ref_usfm": "ACT 26:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Agrippa",
+          "type": "person",
+          "preferred_label": "अग्रिप्पा",
+          "confidence": 0.6936,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

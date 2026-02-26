@@ -2,7 +2,7 @@
   {
     "content_id": "668954",
     "reference_id": 203496,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Thomas",
     "media_type": "Text",
     "index_reference": "thomas",
@@ -78,13 +78,22 @@
           "end_ref_usfm": "JHN 20:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Thomas",
+          "type": "person",
+          "preferred_label": "Thomas",
+          "confidence": 0.8444,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "668972",
     "reference_id": 203514,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Timothée",
     "media_type": "Text",
     "index_reference": "timothée",
@@ -304,13 +313,22 @@
           "end_ref_usfm": "2TI 2:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Timothy",
+          "type": "person",
+          "preferred_label": "Timothée",
+          "confidence": 0.7878,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "668973",
     "reference_id": 203515,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tite",
     "media_type": "Text",
     "index_reference": "tite",
@@ -446,13 +464,22 @@
           "end_ref_usfm": "2CO 7:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Titus",
+          "type": "person",
+          "preferred_label": "Tite",
+          "confidence": 0.792,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "668894",
     "reference_id": 203436,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tsadok",
     "media_type": "Text",
     "index_reference": "tsadok",
@@ -600,7 +627,23 @@
           "end_ref_usfm": "1KI 1:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Zadok.2",
+          "type": "person",
+          "preferred_label": "Tsadok",
+          "confidence": 0.6813,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zadok.4",
+          "type": "person",
+          "preferred_label": "Tsadok",
+          "confidence": 0.6065,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

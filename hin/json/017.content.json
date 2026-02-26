@@ -2,7 +2,7 @@
   {
     "content_id": "654279",
     "reference_id": 203478,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "फरीसी",
     "media_type": "Text",
     "index_reference": "फरीसी",
@@ -348,13 +348,22 @@
           "end_ref_usfm": "PHP 3:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Pharisee",
+          "type": "group",
+          "preferred_label": "फरीसी",
+          "confidence": 0.7141,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654214",
     "reference_id": 203413,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "फिरौन",
     "media_type": "Text",
     "index_reference": "फिरौन",
@@ -442,13 +451,43 @@
           "end_ref_usfm": "EXO 15:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pharaoh.6",
+          "type": "person",
+          "preferred_label": "फ़िरौन",
+          "confidence": 0.6921,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.4",
+          "type": "person",
+          "preferred_label": "फ़िरौन",
+          "confidence": 0.6246,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.5",
+          "type": "person",
+          "preferred_label": "फ़िरौन",
+          "confidence": 0.6041,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "मिस्र",
+          "confidence": 0.5407,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654314",
     "reference_id": 203513,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "फिलिप्पी",
     "media_type": "Text",
     "index_reference": "फिलिप्पी",
@@ -542,13 +581,29 @@
           "end_ref_usfm": "PHP 4:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "फिलिप्पी",
+          "confidence": 0.6339,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Philippi",
+          "type": "group",
+          "preferred_label": "फिलिप्पियों",
+          "confidence": 0.6068,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654300",
     "reference_id": 203499,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "फिलिप्पुस",
     "media_type": "Text",
     "index_reference": "फिलिप्पुस",
@@ -714,7 +769,16 @@
           "end_ref_usfm": "ACT 10:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "फिलिप्पुस",
+          "confidence": 0.6732,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

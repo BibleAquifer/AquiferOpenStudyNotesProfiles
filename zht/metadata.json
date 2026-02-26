@@ -4,7 +4,7 @@
 "resource_type": "Study Notes",
 "title": "Aquifer Open Study Notes (Profiles)",
 "aquifer_name": "Study Notes - Profiles (Tyndale)",
-"version": "1.0.1",
+"version": "1.1.2",
 "collection_title": "Study Notes - Profiles (Tyndale)",
 "short_name": "TSNP",
 "license_info": {
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesProfiles",
-"date_created": "2026-02-24",
+"date_created": "2026-02-25",
 "language": "zht",
 "localizations": [
 "eng",
@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-24T13:17:05.400420"
+"dateCreated": "2026-02-25T21:15:50.634449"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesProfiles": {
-"timestamp": "2026-02-24T13:17:05.400420"
+"timestamp": "2026-02-25T21:15:50.634449"
 }
 }
 },
@@ -579,7 +579,7 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 4379
+"size": 4466
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
@@ -587,7 +587,7 @@
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 19966
+"size": 20086
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
@@ -607,7 +607,7 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 10828
+"size": 10888
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
@@ -627,7 +627,7 @@
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 11296
+"size": 11361
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
@@ -651,7 +651,7 @@
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 6609
+"size": 6667
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
@@ -659,7 +659,7 @@
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 18207
+"size": 18264
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
@@ -679,11 +679,11 @@
 },
 "md/026.content.md": {
 "mimeType": "text/markdown",
-"size": 11841
+"size": 11901
 },
 "md/027.content.md": {
 "mimeType": "text/markdown",
-"size": 11048
+"size": 11110
 },
 "md/028.content.md": {
 "mimeType": "text/markdown",
@@ -691,11 +691,11 @@
 },
 "md/029.content.md": {
 "mimeType": "text/markdown",
-"size": 3726
+"size": 3792
 },
 "md/030.content.md": {
 "mimeType": "text/markdown",
-"size": 23383
+"size": 23575
 },
 "md/031.content.md": {
 "mimeType": "text/markdown",
@@ -715,7 +715,7 @@
 },
 "md/035.content.md": {
 "mimeType": "text/markdown",
-"size": 5963
+"size": 6027
 },
 "md/036.content.md": {
 "mimeType": "text/markdown",
@@ -723,11 +723,11 @@
 },
 "md/037.content.md": {
 "mimeType": "text/markdown",
-"size": 3189
+"size": 3379
 },
 "md/038.content.md": {
 "mimeType": "text/markdown",
-"size": 39110
+"size": 39170
 },
 "md/039.content.md": {
 "mimeType": "text/markdown",
@@ -739,7 +739,7 @@
 },
 "md/041.content.md": {
 "mimeType": "text/markdown",
-"size": 72570
+"size": 73033
 },
 "md/042.content.md": {
 "mimeType": "text/markdown",
@@ -747,11 +747,11 @@
 },
 "md/043.content.md": {
 "mimeType": "text/markdown",
-"size": 41799
+"size": 41985
 },
 "md/044.content.md": {
 "mimeType": "text/markdown",
-"size": 9114
+"size": 9173
 },
 "md/045.content.md": {
 "mimeType": "text/markdown",

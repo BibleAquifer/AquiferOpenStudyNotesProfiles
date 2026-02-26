@@ -2,7 +2,7 @@
   {
     "content_id": "650841",
     "reference_id": 203425,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "路得",
     "media_type": "Text",
     "index_reference": "路得",
@@ -66,13 +66,14 @@
           "end_ref_usfm": "RUT 4:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650920",
     "reference_id": 203504,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "路加",
     "media_type": "Text",
     "index_reference": "路加",
@@ -142,7 +143,8 @@
           "end_ref_usfm": "ACT 1:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

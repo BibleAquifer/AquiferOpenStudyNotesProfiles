@@ -2,7 +2,7 @@
   {
     "content_id": "650850",
     "reference_id": 203434,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "押尼珥",
     "media_type": "Text",
     "index_reference": "押尼珥",
@@ -114,13 +114,14 @@
           "end_ref_usfm": "2SA 3:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650855",
     "reference_id": 203439,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "押沙龍",
     "media_type": "Text",
     "index_reference": "押沙龍",
@@ -250,13 +251,14 @@
           "end_ref_usfm": "2SA 19:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650825",
     "reference_id": 203409,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "雅各",
     "media_type": "Text",
     "index_reference": "雅各",
@@ -704,13 +706,14 @@
           "end_ref_usfm": "HEB 11:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650904",
     "reference_id": 203488,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "雅各，西庇太的兒子",
     "media_type": "Text",
     "index_reference": "雅各，西庇太的兒子",
@@ -978,13 +981,14 @@
           "end_ref_usfm": "LUK 9:55"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650919",
     "reference_id": 203503,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "雅各，耶穌的弟弟",
     "media_type": "Text",
     "index_reference": "雅各，耶穌的弟弟",
@@ -1108,13 +1112,14 @@
           "end_ref_usfm": "JAS 5:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650853",
     "reference_id": 203437,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "亞比篩",
     "media_type": "Text",
     "index_reference": "亞比篩",
@@ -1262,13 +1267,14 @@
           "end_ref_usfm": "1CH 19:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650846",
     "reference_id": 203430,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "亞比亞他",
     "media_type": "Text",
     "index_reference": "亞比亞他",
@@ -1392,13 +1398,22 @@
           "end_ref_usfm": "1KI 2:35"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abiathar",
+          "type": "person",
+          "preferred_label": "Abiathar",
+          "confidence": 0.8226,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "650922",
     "reference_id": 203506,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "亞波羅",
     "media_type": "Text",
     "index_reference": "亞波羅",
@@ -1480,13 +1495,14 @@
           "end_ref_usfm": "1CO 4:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650824",
     "reference_id": 203408,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "亞伯拉罕",
     "media_type": "Text",
     "index_reference": "亞伯拉罕",
@@ -1862,13 +1878,22 @@
           "end_ref_usfm": "JAS 2:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abraham",
+          "type": "person",
+          "preferred_label": "Abraham",
+          "confidence": 0.8145,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "650809",
     "reference_id": 203393,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "亞當和夏娃",
     "media_type": "Text",
     "index_reference": "亞當和夏娃",
@@ -2160,13 +2185,14 @@
           "end_ref_usfm": "HOS 6:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650859",
     "reference_id": 203443,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "亞哈",
     "media_type": "Text",
     "index_reference": "亞哈",
@@ -2260,13 +2286,43 @@
           "end_ref_usfm": "1KI 22:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahiah",
+          "type": "person",
+          "preferred_label": "Ahiah",
+          "confidence": 0.8468,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Aiah",
+          "type": "person",
+          "preferred_label": "Aiah",
+          "confidence": 0.807,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Aiah.2",
+          "type": "person",
+          "preferred_label": "Aiah",
+          "confidence": 0.807,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ahava",
+          "type": "place",
+          "preferred_label": "Ahava",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "650865",
     "reference_id": 203449,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "亞哈斯",
     "media_type": "Text",
     "index_reference": "亞哈斯",
@@ -2342,13 +2398,14 @@
           "end_ref_usfm": "2CH 28:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650862",
     "reference_id": 203446,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "亞蘭人",
     "media_type": "Text",
     "index_reference": "亞蘭人",
@@ -2568,13 +2625,14 @@
           "end_ref_usfm": "2KI 16:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650827",
     "reference_id": 203411,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "亞倫",
     "media_type": "Text",
     "index_reference": "亞倫",
@@ -2716,13 +2774,22 @@
           "end_ref_usfm": "NUM 12:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Aaron",
+          "type": "person",
+          "preferred_label": "Aaron",
+          "confidence": 0.8247,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "650847",
     "reference_id": 203431,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "亞瑪力人",
     "media_type": "Text",
     "index_reference": "亞瑪力人",
@@ -2828,13 +2895,14 @@
           "end_ref_usfm": "PSA 83:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650911",
     "reference_id": 203495,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "亞那和該亞法",
     "media_type": "Text",
     "index_reference": "亞那和該亞法",
@@ -2916,13 +2984,14 @@
           "end_ref_usfm": "JHN 18:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650870",
     "reference_id": 203454,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "亞撒",
     "media_type": "Text",
     "index_reference": "亞撒",
@@ -2986,13 +3055,36 @@
           "end_ref_usfm": "2CH 16:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Azaziah",
+          "type": "person",
+          "preferred_label": "Azaziah",
+          "confidence": 0.8069,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Azaziah.2",
+          "type": "person",
+          "preferred_label": "Azaziah",
+          "confidence": 0.8069,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Azaziah.3",
+          "type": "person",
+          "preferred_label": "Azaziah",
+          "confidence": 0.8069,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "650868",
     "reference_id": 203452,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "亞述",
     "media_type": "Text",
     "index_reference": "亞述",
@@ -3050,7 +3142,8 @@
           "end_ref_usfm": "2KI 19:37"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "650885",
     "reference_id": 203469,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "但以理",
     "media_type": "Text",
     "index_reference": "但以理",
@@ -132,7 +132,8 @@
           "end_ref_usfm": "DAN 12:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

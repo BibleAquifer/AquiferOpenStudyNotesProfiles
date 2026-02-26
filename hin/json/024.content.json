@@ -2,7 +2,7 @@
   {
     "content_id": "654282",
     "reference_id": 203481,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सदूकी लोग",
     "media_type": "Text",
     "index_reference": "सदूकी लोग",
@@ -96,13 +96,22 @@
           "end_ref_usfm": "1KI 1:48"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Sadducee",
+          "type": "group",
+          "preferred_label": "सदूकी",
+          "confidence": 0.6675,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654237",
     "reference_id": 203436,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सादोक",
     "media_type": "Text",
     "index_reference": "सादोक",
@@ -250,13 +259,29 @@
           "end_ref_usfm": "1KI 1:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Zadok.2",
+          "type": "person",
+          "preferred_label": "सादोक",
+          "confidence": 0.6813,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zadok.4",
+          "type": "person",
+          "preferred_label": "सादोक",
+          "confidence": 0.6065,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654293",
     "reference_id": 203492,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सामरी",
     "media_type": "Text",
     "index_reference": "सामरी",
@@ -290,13 +315,22 @@
           "end_ref_usfm": "2KI 17:41"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Samaritan",
+          "type": "group",
+          "preferred_label": "सामरी",
+          "confidence": 0.6176,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654199",
     "reference_id": 203398,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सारा",
     "media_type": "Text",
     "index_reference": "सारा",
@@ -474,13 +508,43 @@
           "end_ref_usfm": "ROM 9:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Sarah",
+          "type": "person",
+          "preferred_label": "सारा",
+          "confidence": 0.7007,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "मिस्र",
+          "confidence": 0.614,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Herod",
+          "type": "person",
+          "preferred_label": "हेरोदेस",
+          "confidence": 0.6028,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zohar",
+          "type": "person",
+          "preferred_label": "सोहर",
+          "confidence": 0.5398,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654241",
     "reference_id": 203440,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "सुलैमान",
     "media_type": "Text",
     "index_reference": "सुलैमान",
@@ -604,7 +668,16 @@
           "end_ref_usfm": "1KI 4:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Solomon",
+          "type": "person",
+          "preferred_label": "सुलैमान",
+          "confidence": 0.7211,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

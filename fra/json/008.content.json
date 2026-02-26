@@ -2,7 +2,7 @@
   {
     "content_id": "668959",
     "reference_id": 203501,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hérode Agrippa I",
     "media_type": "Text",
     "index_reference": "hérode agrippa i",
@@ -30,13 +30,22 @@
           "end_ref_usfm": "ACT 12:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod.3",
+          "type": "person",
+          "preferred_label": "Hérode",
+          "confidence": 0.72,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "668965",
     "reference_id": 203507,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hérode Agrippa II",
     "media_type": "Text",
     "index_reference": "hérode agrippa ii",
@@ -52,13 +61,22 @@
           "end_ref_usfm": "ACT 26:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Agrippa",
+          "type": "person",
+          "preferred_label": "Agrippa",
+          "confidence": 0.6936,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "668942",
     "reference_id": 203484,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hérode Antipas",
     "media_type": "Text",
     "index_reference": "hérode antipas",
@@ -182,13 +200,22 @@
           "end_ref_usfm": "LUK 23:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "Hérode Antipas",
+          "confidence": 0.7725,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "668935",
     "reference_id": 203477,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hérode le Grand",
     "media_type": "Text",
     "index_reference": "hérode le grand",
@@ -216,13 +243,22 @@
           "end_ref_usfm": "MAT 2:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod",
+          "type": "person",
+          "preferred_label": "Hérode",
+          "confidence": 0.7714,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "668859",
     "reference_id": 203401,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hétiens",
     "media_type": "Text",
     "index_reference": "hétiens",
@@ -316,7 +352,23 @@
           "end_ref_usfm": "GEN 23:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Hittite",
+          "type": "group",
+          "preferred_label": "Hittite",
+          "confidence": 0.5304,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Heth",
+          "type": "person",
+          "preferred_label": "Heth",
+          "confidence": 0.529,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

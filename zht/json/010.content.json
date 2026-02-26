@@ -2,7 +2,7 @@
   {
     "content_id": "650838",
     "reference_id": 203422,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "底波拉",
     "media_type": "Text",
     "index_reference": "底波拉",
@@ -42,7 +42,8 @@
           "end_ref_usfm": "JDG 5:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

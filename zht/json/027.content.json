@@ -2,7 +2,7 @@
   {
     "content_id": "650886",
     "reference_id": 203470,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "尼布甲尼撒二世",
     "media_type": "Text",
     "index_reference": "尼布甲尼撒二世",
@@ -204,13 +204,14 @@
           "end_ref_usfm": "EZK 30:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650907",
     "reference_id": 203491,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "尼哥德慕",
     "media_type": "Text",
     "index_reference": "尼哥德慕",
@@ -256,13 +257,14 @@
           "end_ref_usfm": "JHN 3:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650925",
     "reference_id": 203509,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "尼祿",
     "media_type": "Text",
     "index_reference": "尼祿",
@@ -326,13 +328,14 @@
           "label": "啟示錄 17:8",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "650877",
     "reference_id": 203461,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "尼希米",
     "media_type": "Text",
     "index_reference": "尼希米",
@@ -426,7 +429,16 @@
           "end_ref_usfm": "NEH 13:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nimshi",
+          "type": "person",
+          "preferred_label": "Nimshi",
+          "confidence": 0.8479,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

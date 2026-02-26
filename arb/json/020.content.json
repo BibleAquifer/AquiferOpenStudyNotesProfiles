@@ -2,7 +2,7 @@
   {
     "content_id": "726025",
     "reference_id": 203396,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هاجر",
     "media_type": "Text",
     "index_reference": "هاجر",
@@ -78,13 +78,22 @@
           "end_ref_usfm": "GEN 16:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hagar",
+          "type": "person",
+          "preferred_label": "هَاجَر",
+          "confidence": 0.516,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726040",
     "reference_id": 203411,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هارون",
     "media_type": "Text",
     "index_reference": "هارون",
@@ -226,13 +235,22 @@
           "end_ref_usfm": "NUM 12:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Aaron",
+          "type": "person",
+          "preferred_label": "هَارون",
+          "confidence": 0.5719,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726130",
     "reference_id": 203501,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هيرودس أغريباس الأول",
     "media_type": "Text",
     "index_reference": "هيرودس أغريباس الأول",
@@ -260,13 +278,14 @@
           "end_ref_usfm": "ACT 12:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "726136",
     "reference_id": 203507,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هيرودس أغريباس الثاني",
     "media_type": "Text",
     "index_reference": "هيرودس أغريباس الثاني",
@@ -282,13 +301,14 @@
           "end_ref_usfm": "ACT 26:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "726106",
     "reference_id": 203477,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هيرودس الكبير",
     "media_type": "Text",
     "index_reference": "هيرودس الكبير",
@@ -316,13 +336,22 @@
           "end_ref_usfm": "MAT 2:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod",
+          "type": "person",
+          "preferred_label": "هِيرودس",
+          "confidence": 0.5914,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726113",
     "reference_id": 203484,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هيرودس أنتيباس",
     "media_type": "Text",
     "index_reference": "هيرودس أنتيباس",
@@ -446,7 +475,16 @@
           "end_ref_usfm": "LUK 23:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "هِيرودسَ",
+          "confidence": 0.579,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

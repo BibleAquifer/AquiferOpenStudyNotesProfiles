@@ -2,7 +2,7 @@
   {
     "content_id": "658378",
     "reference_id": 203453,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Babilonia",
     "media_type": "Text",
     "index_reference": "babilonia",
@@ -108,13 +108,43 @@
           "end_ref_usfm": "REV 18:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Babylon",
+          "type": "place",
+          "preferred_label": "Babilonia",
+          "confidence": 0.6782,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Shinar",
+          "type": "place",
+          "preferred_label": "Shinar",
+          "confidence": 0.5549,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Chaldea",
+          "type": "group",
+          "preferred_label": "caldeos",
+          "confidence": 0.5262,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Astrologer",
+          "type": "group",
+          "preferred_label": "caldeo",
+          "confidence": 0.5203,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658341",
     "reference_id": 203416,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Balaam",
     "media_type": "Text",
     "index_reference": "balaam",
@@ -234,13 +264,29 @@
           "label": "Números 22:5-6",
           "language": "spa"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Balaam",
+          "type": "person",
+          "preferred_label": "Balaam",
+          "confidence": 0.7806,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Balak",
+          "type": "person",
+          "preferred_label": "Balac",
+          "confidence": 0.6011,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
     "content_id": "658392",
     "reference_id": 203467,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baruch",
     "media_type": "Text",
     "index_reference": "baruch",
@@ -346,13 +392,22 @@
           "end_ref_usfm": "JER 36:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Baruch.4",
+          "type": "person",
+          "preferred_label": "Baruch",
+          "confidence": 0.6777,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658360",
     "reference_id": 203435,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bath-sheba",
     "media_type": "Text",
     "index_reference": "bath-sheba",
@@ -464,13 +519,22 @@
           "end_ref_usfm": "1KI 2:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Bathsheba",
+          "type": "person",
+          "preferred_label": "Bath-sheba",
+          "confidence": 0.628,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658422",
     "reference_id": 203497,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bernabé",
     "media_type": "Text",
     "index_reference": "bernabé",
@@ -582,7 +646,16 @@
           "end_ref_usfm": "GAL 2:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Barnabas",
+          "type": "person",
+          "preferred_label": "Bernabé",
+          "confidence": 0.6611,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

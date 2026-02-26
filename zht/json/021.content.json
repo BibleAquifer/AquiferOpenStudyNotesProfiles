@@ -2,7 +2,7 @@
   {
     "content_id": "650858",
     "reference_id": 203442,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "羅波安",
     "media_type": "Text",
     "index_reference": "羅波安",
@@ -90,13 +90,14 @@
           "end_ref_usfm": "2CH 12:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650815",
     "reference_id": 203399,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "羅得",
     "media_type": "Text",
     "index_reference": "羅得",
@@ -214,13 +215,14 @@
           "end_ref_usfm": "LUK 17:33"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650924",
     "reference_id": 203508,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "羅馬",
     "media_type": "Text",
     "index_reference": "羅馬",
@@ -320,13 +322,22 @@
           "end_ref_usfm": "ROM 1:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Rome",
+          "type": "place",
+          "preferred_label": "Rome",
+          "confidence": 0.9145,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "650932",
     "reference_id": 203516,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "羅馬皇帝",
     "media_type": "Text",
     "index_reference": "羅馬皇帝",
@@ -378,13 +389,14 @@
           "end_ref_usfm": "REV 17:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650926",
     "reference_id": 203510,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "羅馬教會",
     "media_type": "Text",
     "index_reference": "羅馬教會",
@@ -460,7 +472,8 @@
           "end_ref_usfm": "ACT 28:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

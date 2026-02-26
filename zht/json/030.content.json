@@ -2,7 +2,7 @@
   {
     "content_id": "650880",
     "reference_id": 203464,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒但",
     "media_type": "Text",
     "index_reference": "撒但",
@@ -324,13 +324,14 @@
           "end_ref_usfm": "2TH 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650897",
     "reference_id": 203481,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒都該人",
     "media_type": "Text",
     "index_reference": "撒都該人",
@@ -424,13 +425,14 @@
           "end_ref_usfm": "1KI 1:48"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650852",
     "reference_id": 203436,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒督",
     "media_type": "Text",
     "index_reference": "撒督",
@@ -578,13 +580,14 @@
           "end_ref_usfm": "1KI 1:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650814",
     "reference_id": 203398,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒拉",
     "media_type": "Text",
     "index_reference": "撒拉",
@@ -762,13 +765,22 @@
           "end_ref_usfm": "ROM 9:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Sarah",
+          "type": "person",
+          "preferred_label": "Sarah",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "650908",
     "reference_id": 203492,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒馬利亞人",
     "media_type": "Text",
     "index_reference": "撒馬利亞人",
@@ -802,13 +814,36 @@
           "end_ref_usfm": "2KI 17:41"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Samaritan",
+          "type": "group",
+          "preferred_label": "Samaritans",
+          "confidence": 0.8357,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Samaria",
+          "type": "place",
+          "preferred_label": "Samaria",
+          "confidence": 0.8224,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Samaria.2",
+          "type": "place",
+          "preferred_label": "Samaria",
+          "confidence": 0.8224,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "650848",
     "reference_id": 203432,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒母耳",
     "media_type": "Text",
     "index_reference": "撒母耳",
@@ -1004,7 +1039,8 @@
           "end_ref_usfm": "1SA 16:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

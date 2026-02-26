@@ -2,7 +2,7 @@
   {
     "content_id": "650818",
     "reference_id": 203402,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "利百加",
     "media_type": "Text",
     "index_reference": "利百加",
@@ -150,13 +150,14 @@
           "end_ref_usfm": "GEN 27:46"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650821",
     "reference_id": 203405,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "利亞",
     "media_type": "Text",
     "index_reference": "利亞",
@@ -292,7 +293,16 @@
           "end_ref_usfm": "GEN 46:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Leah",
+          "type": "person",
+          "preferred_label": "Leah",
+          "confidence": 0.8333,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

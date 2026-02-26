@@ -2,7 +2,7 @@
   {
     "content_id": "650826",
     "reference_id": 203410,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "埃及",
     "media_type": "Text",
     "index_reference": "埃及",
@@ -126,7 +126,23 @@
           "end_ref_usfm": "JER 43:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Egypt",
+          "type": "person",
+          "preferred_label": "Egypt",
+          "confidence": 0.9019,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "Egypt",
+          "confidence": 0.9019,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

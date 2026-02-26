@@ -2,7 +2,7 @@
   {
     "content_id": "500526",
     "reference_id": 203469,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Daniel",
     "media_type": "Text",
     "index_reference": "daniel",
@@ -132,13 +132,22 @@
           "end_ref_usfm": "DAN 12:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Daniel.3",
+          "type": "person",
+          "preferred_label": "Daniel",
+          "confidence": 0.6763,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500490",
     "reference_id": 203433,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "David",
     "media_type": "Text",
     "index_reference": "david",
@@ -466,13 +475,29 @@
           "end_ref_usfm": "ACT 13:43"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "David",
+          "confidence": 0.685,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:CityOfDavid",
+          "type": "place",
+          "preferred_label": "City of David",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500479",
     "reference_id": 203422,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Deborah",
     "media_type": "Text",
     "index_reference": "deborah",
@@ -512,7 +537,16 @@
           "end_ref_usfm": "JDG 5:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Deborah.2",
+          "type": "person",
+          "preferred_label": "Deborah",
+          "confidence": 0.6655,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

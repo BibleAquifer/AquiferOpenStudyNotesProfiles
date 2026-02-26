@@ -2,7 +2,7 @@
   {
     "content_id": "654306",
     "reference_id": 203505,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "प्रिस्किल्ला और अक्विला",
     "media_type": "Text",
     "index_reference": "प्रिस्किल्ला और अक्विला",
@@ -48,7 +48,23 @@
           "end_ref_usfm": "ACT 18:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Priscilla",
+          "type": "person",
+          "preferred_label": "प्रिस्किल्ला",
+          "confidence": 0.76,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Aquila",
+          "type": "person",
+          "preferred_label": "अक्विला",
+          "confidence": 0.76,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

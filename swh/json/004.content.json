@@ -2,7 +2,7 @@
   {
     "content_id": "734412",
     "reference_id": 203512,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Efeso",
     "media_type": "Text",
     "index_reference": "efeso",
@@ -98,13 +98,22 @@
           "label": "Wakolosai",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ephesus",
+          "type": "place",
+          "preferred_label": "Efeso",
+          "confidence": 0.6605,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
     "content_id": "734315",
     "reference_id": 203415,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eleazari",
     "media_type": "Text",
     "index_reference": "eleazari",
@@ -228,13 +237,22 @@
           "end_ref_usfm": "NUM 20:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eleazar.2",
+          "type": "person",
+          "preferred_label": "Eleazari",
+          "confidence": 0.6884,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734326",
     "reference_id": 203426,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eli",
     "media_type": "Text",
     "index_reference": "eli",
@@ -322,13 +340,36 @@
           "end_ref_usfm": "1SA 4:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eli",
+          "type": "person",
+          "preferred_label": "Eli",
+          "confidence": 0.7302,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "BWANA",
+          "confidence": 0.6779,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Samuel",
+          "type": "person",
+          "preferred_label": "Samweli",
+          "confidence": 0.5084,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734347",
     "reference_id": 203447,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elisha",
     "media_type": "Text",
     "index_reference": "elisha",
@@ -464,13 +505,22 @@
           "end_ref_usfm": "2KI 13:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elisha",
+          "type": "person",
+          "preferred_label": "Elisha",
+          "confidence": 0.6646,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734345",
     "reference_id": 203445,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eliya",
     "media_type": "Text",
     "index_reference": "eliya",
@@ -708,13 +758,29 @@
           "end_ref_usfm": "ROM 11:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elijah",
+          "type": "person",
+          "preferred_label": "Eliya",
+          "confidence": 0.6771,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Elisha",
+          "type": "person",
+          "preferred_label": "Elisha",
+          "confidence": 0.5235,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734303",
     "reference_id": 203403,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esau",
     "media_type": "Text",
     "index_reference": "esau",
@@ -900,13 +966,29 @@
           "label": "Mwanzo 25:25",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Esau",
+          "type": "person",
+          "preferred_label": "Esau",
+          "confidence": 0.7326,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Edom",
+          "type": "place",
+          "preferred_label": "Edomu",
+          "confidence": 0.6622,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
     "content_id": "734362",
     "reference_id": 203462,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esta",
     "media_type": "Text",
     "index_reference": "esta",
@@ -952,13 +1034,22 @@
           "end_ref_usfm": "EST 9:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Esther",
+          "type": "person",
+          "preferred_label": "Esther",
+          "confidence": 0.515,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734368",
     "reference_id": 203468,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ezekieli",
     "media_type": "Text",
     "index_reference": "ezekieli",
@@ -1004,13 +1095,22 @@
           "end_ref_usfm": "EZK 4:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ezekiel",
+          "type": "person",
+          "preferred_label": "Ezekieli",
+          "confidence": 0.6138,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734359",
     "reference_id": 203459,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ezra",
     "media_type": "Text",
     "index_reference": "ezra",
@@ -1170,7 +1270,23 @@
           "end_ref_usfm": "NEH 8:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ezra",
+          "type": "person",
+          "preferred_label": "Ezra",
+          "confidence": 0.6607,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ezra.2",
+          "type": "person",
+          "preferred_label": "Ezra",
+          "confidence": 0.6028,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

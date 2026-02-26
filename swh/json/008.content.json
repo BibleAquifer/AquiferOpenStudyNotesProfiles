@@ -2,7 +2,7 @@
   {
     "content_id": "734300",
     "reference_id": 203400,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isaka",
     "media_type": "Text",
     "index_reference": "isaka",
@@ -282,13 +282,29 @@
           "end_ref_usfm": "HEB 11:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Isaac",
+          "type": "person",
+          "preferred_label": "Isaka",
+          "confidence": 0.7182,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sarah",
+          "type": "person",
+          "preferred_label": "Sara",
+          "confidence": 0.503,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734365",
     "reference_id": 203465,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isaya",
     "media_type": "Text",
     "index_reference": "isaya",
@@ -496,13 +512,22 @@
           "end_ref_usfm": "ROM 10:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Isaiah",
+          "type": "person",
+          "preferred_label": "Isaya",
+          "confidence": 0.6154,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734297",
     "reference_id": 203397,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ishmaeli",
     "media_type": "Text",
     "index_reference": "ishmaeli",
@@ -668,7 +693,16 @@
           "end_ref_usfm": "GEN 25:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ishmael",
+          "type": "person",
+          "preferred_label": "Ishmaeli",
+          "confidence": 0.6691,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

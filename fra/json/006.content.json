@@ -2,7 +2,7 @@
   {
     "content_id": "668941",
     "reference_id": 203483,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Femmes nommées Marie",
     "media_type": "Text",
     "index_reference": "femmes nommées marie",
@@ -204,7 +204,37 @@
           "end_ref_usfm": "JHN 12:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Mary.3",
+          "type": "person",
+          "preferred_label": "Marie",
+          "confidence": 0.6283,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.2",
+          "type": "person",
+          "preferred_label": "Marie",
+          "confidence": 0.6189,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.4",
+          "type": "person",
+          "preferred_label": "Marie",
+          "confidence": 0.6031,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.5",
+          "type": "person",
+          "preferred_label": "Marie",
+          "confidence": 0.6031,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "734356",
     "reference_id": 203456,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uzia",
     "media_type": "Text",
     "index_reference": "uzia",
@@ -90,7 +90,16 @@
           "end_ref_usfm": "2CH 26:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Uzziah",
+          "type": "person",
+          "preferred_label": "Uzia",
+          "confidence": 0.8162,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

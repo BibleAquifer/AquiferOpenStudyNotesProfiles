@@ -2,7 +2,7 @@
   {
     "content_id": "654206",
     "reference_id": 203405,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "लिआ",
     "media_type": "Text",
     "index_reference": "लिआ",
@@ -138,13 +138,22 @@
           "end_ref_usfm": "GEN 46:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Leah",
+          "type": "person",
+          "preferred_label": "लिआ",
+          "confidence": 0.6855,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654305",
     "reference_id": 203504,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "लूका",
     "media_type": "Text",
     "index_reference": "लूका",
@@ -214,13 +223,22 @@
           "end_ref_usfm": "ACT 1:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Luke",
+          "type": "person",
+          "preferred_label": "लूका",
+          "confidence": 0.6857,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654200",
     "reference_id": 203399,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "लूत",
     "media_type": "Text",
     "index_reference": "लूत",
@@ -338,7 +356,23 @@
           "end_ref_usfm": "LUK 17:33"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Lot",
+          "type": "person",
+          "preferred_label": "लूत",
+          "confidence": 0.7374,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Tidal",
+          "type": "person",
+          "preferred_label": "तिदाल",
+          "confidence": 0.6081,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "654307",
     "reference_id": 203506,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अपुल्लोस",
     "media_type": "Text",
     "index_reference": "अपुल्लोस",
@@ -84,13 +84,22 @@
           "end_ref_usfm": "1CO 4:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Apollos",
+          "type": "person",
+          "preferred_label": "अपुल्लोस",
+          "confidence": 0.7636,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654240",
     "reference_id": 203439,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अबशालोम",
     "media_type": "Text",
     "index_reference": "अबशालोम",
@@ -220,13 +229,22 @@
           "end_ref_usfm": "2SA 19:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Absalom",
+          "type": "person",
+          "preferred_label": "अबशालोम",
+          "confidence": 0.741,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654238",
     "reference_id": 203437,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अबीशै",
     "media_type": "Text",
     "index_reference": "अबीशै",
@@ -374,13 +392,22 @@
           "end_ref_usfm": "1CH 19:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abishai",
+          "type": "person",
+          "preferred_label": "अबीशै",
+          "confidence": 0.6989,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654235",
     "reference_id": 203434,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अब्नेर",
     "media_type": "Text",
     "index_reference": "अब्नेर",
@@ -492,13 +519,36 @@
           "end_ref_usfm": "2SA 3:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abner",
+          "type": "person",
+          "preferred_label": "अब्नेर",
+          "confidence": 0.7252,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ner.2",
+          "type": "person",
+          "preferred_label": "नेर",
+          "confidence": 0.6294,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abinadab.3",
+          "type": "person",
+          "preferred_label": "अबीनादाब",
+          "confidence": 0.5125,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654209",
     "reference_id": 203408,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अब्राहम",
     "media_type": "Text",
     "index_reference": "अब्राहम",
@@ -874,13 +924,29 @@
           "end_ref_usfm": "JAS 2:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abraham",
+          "type": "person",
+          "preferred_label": "अब्राहम",
+          "confidence": 0.7433,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Rahab",
+          "type": "person",
+          "preferred_label": "राहाब",
+          "confidence": 0.5242,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654232",
     "reference_id": 203431,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अमालेकियों",
     "media_type": "Text",
     "index_reference": "अमालेकियों",
@@ -986,13 +1052,36 @@
           "end_ref_usfm": "PSA 83:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Amalek",
+          "type": "place",
+          "preferred_label": "अमालेक",
+          "confidence": 0.7058,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Amalek",
+          "type": "group",
+          "preferred_label": "अमालेकी",
+          "confidence": 0.6562,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Amalek",
+          "type": "person",
+          "preferred_label": "अमालेक",
+          "confidence": 0.6033,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654247",
     "reference_id": 203446,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अरामी लोग",
     "media_type": "Text",
     "index_reference": "अरामी लोग",
@@ -1212,13 +1301,36 @@
           "end_ref_usfm": "2KI 16:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Aramean",
+          "type": "group",
+          "preferred_label": "अरामी",
+          "confidence": 0.6072,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Aram",
+          "type": "person",
+          "preferred_label": "अराम",
+          "confidence": 0.6029,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Aram.2",
+          "type": "person",
+          "preferred_label": "अराम",
+          "confidence": 0.6014,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654253",
     "reference_id": 203452,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अश्शूर",
     "media_type": "Text",
     "index_reference": "अश्शूर",
@@ -1276,13 +1388,64 @@
           "end_ref_usfm": "2KI 19:37"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Asshur",
+          "type": "person",
+          "preferred_label": "अश्शूर",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahishahar",
+          "type": "person",
+          "preferred_label": "अहीशहर",
+          "confidence": 0.8768,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abishur",
+          "type": "person",
+          "preferred_label": "अबीशूर",
+          "confidence": 0.853,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ashhur",
+          "type": "person",
+          "preferred_label": "अशहूर",
+          "confidence": 0.8512,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Asshurim",
+          "type": "group",
+          "preferred_label": "अश्शूरी",
+          "confidence": 0.8463,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Assyria",
+          "type": "group",
+          "preferred_label": "अश्शूरी",
+          "confidence": 0.8463,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahishar",
+          "type": "person",
+          "preferred_label": "अहीशार",
+          "confidence": 0.8021,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "654244",
     "reference_id": 203443,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अहाब",
     "media_type": "Text",
     "index_reference": "अहाब",
@@ -1376,7 +1539,16 @@
           "end_ref_usfm": "1KI 22:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahab",
+          "type": "person",
+          "preferred_label": "अहाब",
+          "confidence": 0.6757,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

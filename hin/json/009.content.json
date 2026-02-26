@@ -2,7 +2,7 @@
   {
     "content_id": "654224",
     "reference_id": 203423,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गिदोन",
     "media_type": "Text",
     "index_reference": "गिदोन",
@@ -54,7 +54,23 @@
           "end_ref_usfm": "JDG 9:57"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gideon",
+          "type": "person",
+          "preferred_label": "गिदोन",
+          "confidence": 0.7225,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Midian",
+          "type": "place",
+          "preferred_label": "मिद्यान",
+          "confidence": 0.5625,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

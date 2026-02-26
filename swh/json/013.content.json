@@ -2,7 +2,7 @@
   {
     "content_id": "734400",
     "reference_id": 203500,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Paulo (Sauli)",
     "media_type": "Text",
     "index_reference": "paulo (sauli)",
@@ -258,13 +258,22 @@
           "end_ref_usfm": "TIT 3:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "Paulo",
+          "confidence": 0.626,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734386",
     "reference_id": 203486,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pontio Pilato",
     "media_type": "Text",
     "index_reference": "pontio pilato",
@@ -460,13 +469,22 @@
           "end_ref_usfm": "MAT 27:65"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pilate",
+          "type": "person",
+          "preferred_label": "Pilato",
+          "confidence": 0.7709,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734405",
     "reference_id": 203505,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prisila na Akila",
     "media_type": "Text",
     "index_reference": "prisila na akila",
@@ -512,7 +530,23 @@
           "end_ref_usfm": "ACT 18:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Aquila",
+          "type": "person",
+          "preferred_label": "Akila",
+          "confidence": 0.76,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Priscilla",
+          "type": "person",
+          "preferred_label": "Priskila",
+          "confidence": 0.571,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

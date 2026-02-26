@@ -2,7 +2,7 @@
   {
     "content_id": "734374",
     "reference_id": 203474,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zerubabeli",
     "media_type": "Text",
     "index_reference": "zerubabeli",
@@ -60,7 +60,16 @@
           "end_ref_usfm": "HAG 2:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Zerubbabel.2",
+          "type": "person",
+          "preferred_label": "Zerubabeli",
+          "confidence": 0.6404,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "658401",
     "reference_id": 203476,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Macabeos",
     "media_type": "Text",
     "index_reference": "macabeos",
@@ -11,13 +11,14 @@
     "content": "<p>Los Macabeos, cuyo nombre significa &quot;martillos&quot;, lideraron una exitosa revuelta contra Antíoco IV debido a su persecución de los judíos. Ellos y sus descendientes, conocidos como los Asmoneos, gobernaron Judea durante casi 100 años y contribuyeron a dar forma a la sociedad judía tal como era en la época de Jesús.</p><h3>La Revuelta Macabea (166–142 a.C.)</h3><p>En el año 167 a.C., Antíoco IV decretó que practicar el judaísmo sería castigado con la muerte. Muchos judíos obedecieron, mientras que otros resistieron en silencio y perdieron la vida. Pronto, comenzó una resistencia más activa. Cuando un oficial de Antíoco IV llegó a Modein para obligar a los judíos a realizar un sacrificio pagano, un sacerdote llamado <span>Mattathías</span> lo mató. Luego declaró: “¡Todo el que sea apasionado por la ley de Moisés y quiera seguir el pacto, venga conmigo!” (<em>1 Macabeos</em> 2:27). Huyó a las montañas con sus hijos y algunos seguidores.</p><p><span>Mattathías</span>, siendo muy anciano, murió poco después. Antes de su muerte, nombró a su hijo Judas como líder de la revuelta. Judas era un líder militar hábil e inspirador. Junto a sus hermanos y seguidores, derrotó los ataques Seléucidas y liberó gran parte de Judea. Tras tomar el control de Jerusalem, Judas y sus rebeldes purificaron el templo y restauraron los sacrificios diarios, permitiendo que el culto se reanudara. Esta restauración y rededicación se convirtió en el Festival de la Dedicación o de las Luces (Janucá). Judas se opuso al nombramiento de un sumo sacerdote influenciado por la cultura Griega y también buscó mayor libertad política. Derrotó al ejército Seléucida enviado para detener el levantamiento, pero el rey Seléucida respondió enviando un ejército mucho más grande. La mayoría de los hombres que respaldaban a Judas en la revuelta desertaron, y Judas murió en la batalla de Elasa en 160 a.C.</p><p>Tras la muerte de Judas, los Macabeos se reorganizaron bajo el liderazgo de su hermano menor <span>Jonathán</span>, un político y comandante hábil. En los años siguientes, los Macabeos recuperaron el control de Judea. <span>Jonathán</span> obtuvo el sumo sacerdocio y formó una alianza con Roma. Sin embargo, el general seléucida Trifón lo engañó, lo capturó y lo mató en el año 143 a.C.</p><p>Otro hermano, Simón, se convirtió en el líder de los Macabeos después de Jonathán. En 142 a.C., Simón logró un tratado con el Rey Seléucida Demetrio II, logrando que Judea se volviera independiente. Simón mantuvo la posición de sumo sacerdote, y esta fue transmitida dentro de su familia. En 135 a.C., el yerno de Simón lo asesinó.</p><h3>Dominio asmoneo (142–63 a.C.)</h3><p>Cuando Simón, el hijo de Mattathías, asumió el liderazgo, los Macabeos dejaron de ser rebeldes y se convirtieron en una familia gobernante, conocida como los Asmoneos. Este nombre fue en honor al bisabuelo de Mattathías, Asmoneo. La familia de Simón gobernó Judea durante casi cien años.</p><p>Durante este período, los líderes políticos judíos estuvieron más influenciados por la cultura griega. Mientras tanto, los fariseos ganaron popularidad al esforzarse por preservar el judaísmo tradicional. Grupos separatistas como los esenios se apartaron por completo de la sociedad judía. Hacia el final de este período, una lucha de poder entre dos hermanos, Aristóbulo e Hircano II, provocó inestabilidad política. Esta situación permitió que Roma interviniera, restableciera la paz y tomara el control.</p><h3>Dominio romano (a partir del 63 a.C.)</h3><p>En el 63 a.C., el general Romano Pompeyo marchó sobre Jerusalem, convirtiendo a Judea en una región tributaria bajo el control de Roma. Judea experimentó luego un período de relativa paz. Con el fin del gobierno Asmoneo, el pueblo judío esperaba la llegada de un nuevo y fuerte líder religioso, el tan esperado Mesías.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "658382",
     "reference_id": 203457,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Manasés",
     "media_type": "Text",
     "index_reference": "manasés",
@@ -159,13 +160,22 @@
           "end_ref_usfm": "2CH 33:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Manasseh.2",
+          "type": "person",
+          "preferred_label": "Manasés",
+          "confidence": 0.75,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658412",
     "reference_id": 203487,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "María, Madre de Jesús",
     "media_type": "Text",
     "index_reference": "maría, madre de jesús",
@@ -337,13 +347,43 @@
           "end_ref_usfm": "LUK 2:51"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesús",
+          "confidence": 0.6547,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary",
+          "type": "person",
+          "preferred_label": "María",
+          "confidence": 0.6472,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.2",
+          "type": "person",
+          "preferred_label": "María",
+          "confidence": 0.605,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.4",
+          "type": "person",
+          "preferred_label": "María",
+          "confidence": 0.6025,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658414",
     "reference_id": 203489,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Marta, María y Lázaro",
     "media_type": "Text",
     "index_reference": "marta, maría y lázaro",
@@ -419,13 +459,43 @@
           "end_ref_usfm": "JHN 11:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Martha",
+          "type": "person",
+          "preferred_label": "Marta",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Lazarus.2",
+          "type": "person",
+          "preferred_label": "Lázaro",
+          "confidence": 0.6458,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.3",
+          "type": "person",
+          "preferred_label": "María",
+          "confidence": 0.6417,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Lazarus",
+          "type": "person",
+          "preferred_label": "Lázaro",
+          "confidence": 0.6167,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658404",
     "reference_id": 203479,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mateo (Leví)",
     "media_type": "Text",
     "index_reference": "mateo (leví)",
@@ -507,13 +577,29 @@
           "end_ref_usfm": "MRK 2:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Matthew",
+          "type": "person",
+          "preferred_label": "Mateo",
+          "confidence": 0.7684,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Alphaeus",
+          "type": "person",
+          "preferred_label": "Alfeo",
+          "confidence": 0.5042,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658320",
     "reference_id": 203395,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Melquisedec",
     "media_type": "Text",
     "index_reference": "melquisedec",
@@ -625,13 +711,22 @@
           "end_ref_usfm": "HEB 7:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Melchizedek",
+          "type": "person",
+          "preferred_label": "Melchîsedec",
+          "confidence": 0.5753,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658354",
     "reference_id": 203429,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mical",
     "media_type": "Text",
     "index_reference": "mical",
@@ -689,13 +784,29 @@
           "end_ref_usfm": "1SA 18:30"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Michal",
+          "type": "person",
+          "preferred_label": "Michâl",
+          "confidence": 0.7309,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Merab",
+          "type": "person",
+          "preferred_label": "Merab",
+          "confidence": 0.5938,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658342",
     "reference_id": 203417,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Moab y Ammón",
     "media_type": "Text",
     "index_reference": "moab y ammón",
@@ -837,13 +948,36 @@
           "end_ref_usfm": "2CH 20:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Moab",
+          "type": "place",
+          "preferred_label": "Moab",
+          "confidence": 0.6756,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Ammon",
+          "type": "place",
+          "preferred_label": "Ammón",
+          "confidence": 0.6607,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Moab",
+          "type": "person",
+          "preferred_label": "Moab",
+          "confidence": 0.6015,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658339",
     "reference_id": 203414,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Moisés",
     "media_type": "Text",
     "index_reference": "moisés",
@@ -1213,13 +1347,29 @@
           "end_ref_usfm": "HEB 11:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Moses",
+          "type": "person",
+          "preferred_label": "Moisés",
+          "confidence": 0.7112,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Jehová",
+          "confidence": 0.5758,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658408",
     "reference_id": 203483,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mujeres llamadas María",
     "media_type": "Text",
     "index_reference": "mujeres llamadas maría",
@@ -1421,7 +1571,44 @@
           "end_ref_usfm": "JHN 12:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Marymagdalene",
+          "type": "person",
+          "preferred_label": "María",
+          "confidence": 0.6441,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.3",
+          "type": "person",
+          "preferred_label": "María",
+          "confidence": 0.6283,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.2",
+          "type": "person",
+          "preferred_label": "María",
+          "confidence": 0.6189,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.4",
+          "type": "person",
+          "preferred_label": "María",
+          "confidence": 0.6031,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.5",
+          "type": "person",
+          "preferred_label": "María",
+          "confidence": 0.6031,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

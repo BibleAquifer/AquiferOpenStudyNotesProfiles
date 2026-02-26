@@ -2,7 +2,7 @@
   {
     "content_id": "650927",
     "reference_id": 203511,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "哥林多",
     "media_type": "Text",
     "index_reference": "哥林多",
@@ -90,7 +90,8 @@
           "end_ref_usfm": "1CO 16:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

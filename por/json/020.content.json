@@ -2,7 +2,7 @@
   {
     "content_id": "658540",
     "reference_id": 203463,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Xerxes I",
     "media_type": "Text",
     "index_reference": "xerxes i",
@@ -30,7 +30,16 @@
           "end_ref_usfm": "EST 1:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahasuerus",
+          "type": "person",
+          "preferred_label": "Assuero",
+          "confidence": 0.7538,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

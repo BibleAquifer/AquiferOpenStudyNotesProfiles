@@ -2,7 +2,7 @@
   {
     "content_id": "726107",
     "reference_id": 203478,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الفَرِّيسِيُّون",
     "media_type": "Text",
     "index_reference": "الفَرِّيسِيُّون",
@@ -348,13 +348,29 @@
           "end_ref_usfm": "PHP 3:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "ٱلْفِلِسْطِينِيِّينَ",
+          "confidence": 0.8908,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Pharisee",
+          "type": "group",
+          "preferred_label": "Pharisees",
+          "confidence": 0.8086,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "726050",
     "reference_id": 203421,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الفلسطينيون",
     "media_type": "Text",
     "index_reference": "الفلسطينيون",
@@ -556,13 +572,14 @@
           "end_ref_usfm": "2CH 28:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "726042",
     "reference_id": 203413,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فرعون",
     "media_type": "Text",
     "index_reference": "فرعون",
@@ -650,13 +667,71 @@
           "end_ref_usfm": "EXO 15:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pharaoh.10",
+          "type": "person",
+          "preferred_label": "فِرْعَوْنَ",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.3",
+          "type": "person",
+          "preferred_label": "فِرْعَوْنَ",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.4",
+          "type": "person",
+          "preferred_label": "فِرْعَوْنَ",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.5",
+          "type": "person",
+          "preferred_label": "فِرْعَوْنَ",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.6",
+          "type": "person",
+          "preferred_label": "فِرْعَوْنَ",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.7",
+          "type": "person",
+          "preferred_label": "فِرْعَوْنَ",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.8",
+          "type": "person",
+          "preferred_label": "فِرْعَوْنَ",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.9",
+          "type": "person",
+          "preferred_label": "فِرْعَوْنَ",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "726128",
     "reference_id": 203499,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فِيلُبُّس",
     "media_type": "Text",
     "index_reference": "فِيلُبُّس",
@@ -822,13 +897,22 @@
           "end_ref_usfm": "ACT 10:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "فِيلبّسَ",
+          "confidence": 0.5832,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726142",
     "reference_id": 203513,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فيلبّي",
     "media_type": "Text",
     "index_reference": "فيلبّي",
@@ -922,7 +1006,16 @@
           "end_ref_usfm": "PHP 4:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "فِيلِبِّي",
+          "confidence": 0.5034,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

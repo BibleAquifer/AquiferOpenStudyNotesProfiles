@@ -2,7 +2,7 @@
   {
     "content_id": "734319",
     "reference_id": 203419,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rahabu",
     "media_type": "Text",
     "index_reference": "rahabu",
@@ -66,13 +66,22 @@
           "end_ref_usfm": "JOS 6:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rahab",
+          "type": "person",
+          "preferred_label": "Rahabu",
+          "confidence": 0.7067,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734304",
     "reference_id": 203404,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Raheli",
     "media_type": "Text",
     "index_reference": "raheli",
@@ -184,13 +193,29 @@
           "end_ref_usfm": "GEN 46:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rachel",
+          "type": "person",
+          "preferred_label": "Raheli",
+          "confidence": 0.7673,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ashbel",
+          "type": "person",
+          "preferred_label": "Ashbeli",
+          "confidence": 0.5006,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734302",
     "reference_id": 203402,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rebeka",
     "media_type": "Text",
     "index_reference": "rebeka",
@@ -338,13 +363,29 @@
           "end_ref_usfm": "GEN 27:46"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rebekah",
+          "type": "person",
+          "preferred_label": "Rebeka",
+          "confidence": 0.687,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:AHalfShekel",
+          "type": "realia",
+          "preferred_label": "A Half Shekel",
+          "confidence": 0.5129,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734342",
     "reference_id": 203442,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rehoboamu",
     "media_type": "Text",
     "index_reference": "rehoboamu",
@@ -432,13 +473,29 @@
           "end_ref_usfm": "2CH 12:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rehoboam",
+          "type": "person",
+          "preferred_label": "Rehoboamu",
+          "confidence": 0.7532,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jeroboam",
+          "type": "person",
+          "preferred_label": "Yeroboamu",
+          "confidence": 0.5563,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734408",
     "reference_id": 203508,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rumi",
     "media_type": "Text",
     "index_reference": "rumi",
@@ -538,13 +595,22 @@
           "end_ref_usfm": "ROM 1:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Rome",
+          "type": "place",
+          "preferred_label": "Warumi",
+          "confidence": 0.6264,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734325",
     "reference_id": 203425,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ruthu",
     "media_type": "Text",
     "index_reference": "ruthu",
@@ -608,7 +674,16 @@
           "end_ref_usfm": "RUT 4:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ruth",
+          "type": "person",
+          "preferred_label": "Ruthu",
+          "confidence": 0.6536,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "668858",
     "reference_id": 203400,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isaac",
     "media_type": "Text",
     "index_reference": "isaac",
@@ -282,13 +282,29 @@
           "end_ref_usfm": "HEB 11:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Isaac",
+          "type": "person",
+          "preferred_label": "Isaac",
+          "confidence": 0.7182,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sarah",
+          "type": "person",
+          "preferred_label": "Sara",
+          "confidence": 0.503,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "668855",
     "reference_id": 203397,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ismaël",
     "media_type": "Text",
     "index_reference": "ismaël",
@@ -454,7 +470,16 @@
           "end_ref_usfm": "GEN 25:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ishmael",
+          "type": "person",
+          "preferred_label": "Ismaël",
+          "confidence": 0.6691,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

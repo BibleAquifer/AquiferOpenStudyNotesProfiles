@@ -2,7 +2,7 @@
   {
     "content_id": "500480",
     "reference_id": 203423,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gideon",
     "media_type": "Text",
     "index_reference": "gideon",
@@ -54,7 +54,16 @@
           "end_ref_usfm": "JDG 9:57"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gideon",
+          "type": "person",
+          "preferred_label": "Gideon",
+          "confidence": 0.7225,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

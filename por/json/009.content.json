@@ -2,7 +2,7 @@
   {
     "content_id": "658593",
     "reference_id": 203516,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Imperadores Romanos",
     "media_type": "Text",
     "index_reference": "imperadores romanos",
@@ -54,13 +54,14 @@
           "end_ref_usfm": "REV 17:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "658542",
     "reference_id": 203465,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isaías",
     "media_type": "Text",
     "index_reference": "isaías",
@@ -268,13 +269,22 @@
           "end_ref_usfm": "ROM 10:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Isaiah",
+          "type": "person",
+          "preferred_label": "Isaías",
+          "confidence": 0.6154,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658477",
     "reference_id": 203400,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isaque",
     "media_type": "Text",
     "index_reference": "isaque",
@@ -554,13 +564,22 @@
           "end_ref_usfm": "HEB 11:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Isaac",
+          "type": "person",
+          "preferred_label": "Isaque",
+          "confidence": 0.7182,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658474",
     "reference_id": 203397,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ismael",
     "media_type": "Text",
     "index_reference": "ismael",
@@ -726,7 +745,23 @@
           "end_ref_usfm": "GEN 25:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ishmael",
+          "type": "person",
+          "preferred_label": "Ismael",
+          "confidence": 0.6691,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Isaac",
+          "type": "person",
+          "preferred_label": "Isaque",
+          "confidence": 0.5058,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "734378",
     "reference_id": 203478,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mafarisayo",
     "media_type": "Text",
     "index_reference": "mafarisayo",
@@ -348,13 +348,14 @@
           "end_ref_usfm": "PHP 3:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "734376",
     "reference_id": 203476,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Makabayo",
     "media_type": "Text",
     "index_reference": "makabayo",
@@ -363,13 +364,14 @@
     "content": "<p>Wamakabayo, jina linalomaanisha &quot;nyundo,&quot; waliendesha uasi uliofanikiwa dhidi ya Antioko IV kwa sababu aliwatesa Wayahudi. Wao na vizazi vyao, wanaojulikana kama Wahasmonea, walitawala Yudea kwa takriban miaka 100. Walichangia katika kuunda jamii ya Kiyahudi kama ilivyokuwa wakati wa Yesu.</p><h3>Uasi wa Wamakabayo (166–142 KK)</h3><p>Mnamo 167 KK, Antioko IV alifanya kuzingatia Uyahudi kuwa adhabu ya kifo. Wayahudi wengi walitii, huku wengine wakipinga kimya kimya na kupoteza maisha yao. Hivi karibuni, upinzani wa wazi ulianza. Wakati afisa wa Antioko IV alipokuja Modein kuwalazimisha Wayahudi kufanya dhabihu ya kipagani, kuhani mmoja aitwaye Matathia alimuua. Kisha akatangaza, “Kila mtu anayependa sheria ya Mose na anayetaka kufuata agano, aje nami!” (<em>1 Makabayo</em> 2:27). Alikimbilia milimani na wanawe pamoja na wafuasi wengine.</p><p>Matathia, ambaye alikuwa mzee sana, alifariki hivi karibuni. Kabla ya kifo chake, alimteua mwanawe Yuda kuongoza uasi. Yuda alikuwa kiongozi wa kijeshi mwenye ujuzi na motisha. Yeye, ndugu zake, na wafuasi wao walishinda mashambulizi ya Waseleuki na kuikomboa sehemu kubwa ya Yudea. Baada ya kuchukua udhibiti wa Yerusalemu, Yuda na waasi wake walitakasa hekalu na kurejesha dhabihu za kila siku, kuruhusu ibada kuanza tena. Urejeshaji huu na kutakaswa upya uliadhimishwa kama Sherehe ya Uwekaji Wakfu au Nuru (Hanuka). Yuda alipinga uteuzi wa kuhani mkuu aliyekuwa na ushawishi wa utamaduni wa Kigiriki na alitafuta uhuru zaidi wa kisiasa. Alishinda jeshi la Waseleuki lililotumwa kusimamisha uasi, lakini mfalme wa Waseleuki alijibu kwa kutuma jeshi kubwa zaidi. Wanaume wengi wa Yuda walikimbia, na Yuda alikufa katika vita vya Elasa mwaka 160 KK.</p><p>Baada ya Yuda kufariki, Wamakabayo walijipanga upya chini ya uongozi wa mdogo wake Yonathani, mwanasiasa na kamanda mwenye ujuzi. Katika miaka michache iliyofuata, Wamakabayo walirejesha udhibiti wa Yudea. Yonathani alipata ukuhani mkuu na kuunda muungano na Rumi. Hata hivyo, jenerali wa Seleukia Tryphon alimdanganya, akamchukua mateka, na kumuua mwaka 143 KK.</p><p>Ndugu mwingine, Simoni, alikua kiongozi wa Wamakabayo baada ya Yonathani. Mnamo 142 KK, Simoni alifanya mkataba na Mfalme wa Seleucid Demetrio II, na kufanya Yudea kuwa huru. Simoni alihifadhi nafasi ya kuhani mkuu, na ilipitishwa ndani ya familia yake. Mnamo 135 KK, mkwe wa Simoni alimuua.</p><h3>Utawala wa Wahasmonia (142–63 KK)</h3><p>Simoni, mwana wa Matathia, alipokuwa kiongozi wao, Wamakabayo walibadilika kutoka kuwa waasi na kuwa familia inayotawala, inayojulikana kama Wahasmonea. Wahasmonia walipata jina lao kutoka kwa babu wa Matathia, Asmoneus. Familia ya Simoni ilitawala Yudea kwa karibu miaka mia moja.</p><p>Katika kipindi hiki, viongozi wa kisiasa wa Kiyahudi walivutiwa zaidi na utamaduni wa Kigiriki. Wakati huo huo, Mafarisayo walipata umaarufu kwa juhudi zao za kuhifadhi Uyahudi wa jadi. Makundi ya kujitenga kama Waesseni yalijitenga kabisa na jamii ya Kiyahudi. Mwishoni mwa kipindi hiki, mapambano ya madaraka kati ya ndugu wawili, Aristobulo na Hyrcanus II, yalisababisha hali ya kisiasa kutokuwa thabiti. Hali hii iliwapa Warumi fursa ya kuingilia kati, kuleta amani, na kuchukua udhibiti.</p><h3>Utawala wa Kirumi (kuanzia 63 KK)</h3><p>Mwaka wa 63 KK, jenerali wa Kirumi Pompey alifika Yerusalemu, na kufanya Yudea kuwa eneo lililolipa kodi na kudhibitiwa na Rumi. Yudea kisha ilipitia kipindi cha amani kiasi. Mwisho wa utawala wa Hasmonean, watu wa Kiyahudi walimsubiri kiongozi mpya na mwenye nguvu wa kidini, Masihi aliyekuwa akisubiriwa kwa muda mrefu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "734357",
     "reference_id": 203457,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Manase",
     "media_type": "Text",
     "index_reference": "manase",
@@ -511,13 +513,29 @@
           "end_ref_usfm": "2CH 33:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Manasseh.2",
+          "type": "person",
+          "preferred_label": "Manase",
+          "confidence": 0.75,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "BWANA",
+          "confidence": 0.5265,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734387",
     "reference_id": 203487,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Maria, Mama wa Yesu",
     "media_type": "Text",
     "index_reference": "maria, mama wa yesu",
@@ -689,13 +707,22 @@
           "end_ref_usfm": "LUK 2:51"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Yesu",
+          "confidence": 0.6547,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734389",
     "reference_id": 203489,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Martha, Maria, na Lazaro",
     "media_type": "Text",
     "index_reference": "martha, maria, na lazaro",
@@ -771,13 +798,36 @@
           "end_ref_usfm": "JHN 11:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Martha",
+          "type": "person",
+          "preferred_label": "Martha",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Lazarus.2",
+          "type": "person",
+          "preferred_label": "Lazaro",
+          "confidence": 0.6458,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Lazarus",
+          "type": "person",
+          "preferred_label": "Lazaro",
+          "confidence": 0.6167,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734381",
     "reference_id": 203481,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Masadukayo",
     "media_type": "Text",
     "index_reference": "masadukayo",
@@ -871,13 +921,14 @@
           "end_ref_usfm": "1KI 1:48"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "734379",
     "reference_id": 203479,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mathayo (Lawi)",
     "media_type": "Text",
     "index_reference": "mathayo (lawi)",
@@ -959,13 +1010,29 @@
           "end_ref_usfm": "MRK 2:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Matthew",
+          "type": "person",
+          "preferred_label": "Mathayo",
+          "confidence": 0.7684,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Alphaeus",
+          "type": "person",
+          "preferred_label": "Alfayo",
+          "confidence": 0.5132,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734295",
     "reference_id": 203395,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Melkizedeki",
     "media_type": "Text",
     "index_reference": "melkizedeki",
@@ -1077,13 +1144,22 @@
           "end_ref_usfm": "HEB 7:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Melchizedek",
+          "type": "person",
+          "preferred_label": "Melkizedeki",
+          "confidence": 0.6563,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734329",
     "reference_id": 203429,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mikali",
     "media_type": "Text",
     "index_reference": "mikali",
@@ -1141,13 +1217,29 @@
           "end_ref_usfm": "1SA 18:30"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Michal",
+          "type": "person",
+          "preferred_label": "Mikali",
+          "confidence": 0.7714,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Saul.2",
+          "type": "person",
+          "preferred_label": "Sauli",
+          "confidence": 0.5218,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734310",
     "reference_id": 203410,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Misri",
     "media_type": "Text",
     "index_reference": "misri",
@@ -1271,13 +1363,29 @@
           "end_ref_usfm": "JER 43:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "Misri",
+          "confidence": 0.7031,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "BWANA",
+          "confidence": 0.5349,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734317",
     "reference_id": 203417,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Moabu na Amoni",
     "media_type": "Text",
     "index_reference": "moabu na amoni",
@@ -1419,13 +1527,29 @@
           "end_ref_usfm": "2CH 20:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Moab",
+          "type": "place",
+          "preferred_label": "Moabu",
+          "confidence": 0.6756,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Moab",
+          "type": "person",
+          "preferred_label": "Moabu",
+          "confidence": 0.6015,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734314",
     "reference_id": 203414,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mose",
     "media_type": "Text",
     "index_reference": "mose",
@@ -1795,13 +1919,29 @@
           "end_ref_usfm": "HEB 11:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Moses",
+          "type": "person",
+          "preferred_label": "Musa",
+          "confidence": 0.6617,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "BWANA",
+          "confidence": 0.5758,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734371",
     "reference_id": 203471,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mwana wa Mtu",
     "media_type": "Text",
     "index_reference": "mwana wa mtu",
@@ -1955,7 +2095,8 @@
           "end_ref_usfm": "MAT 28:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

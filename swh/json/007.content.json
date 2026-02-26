@@ -2,7 +2,7 @@
   {
     "content_id": "734296",
     "reference_id": 203396,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hajiri",
     "media_type": "Text",
     "index_reference": "hajiri",
@@ -78,13 +78,22 @@
           "end_ref_usfm": "GEN 16:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hagar",
+          "type": "person",
+          "preferred_label": "Hajiri",
+          "confidence": 0.696,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734401",
     "reference_id": 203501,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herode Agripa I",
     "media_type": "Text",
     "index_reference": "herode agripa i",
@@ -112,13 +121,22 @@
           "end_ref_usfm": "ACT 12:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod.3",
+          "type": "person",
+          "preferred_label": "Herode",
+          "confidence": 0.72,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734407",
     "reference_id": 203507,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herode Agripa II",
     "media_type": "Text",
     "index_reference": "herode agripa ii",
@@ -134,13 +152,22 @@
           "end_ref_usfm": "ACT 26:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Agrippa",
+          "type": "person",
+          "preferred_label": "Agripa",
+          "confidence": 0.6936,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734384",
     "reference_id": 203484,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herode Antipa",
     "media_type": "Text",
     "index_reference": "herode antipa",
@@ -264,13 +291,22 @@
           "end_ref_usfm": "LUK 23:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "Herode",
+          "confidence": 0.7725,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734377",
     "reference_id": 203477,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herode Mkuu",
     "media_type": "Text",
     "index_reference": "herode mkuu",
@@ -298,13 +334,22 @@
           "end_ref_usfm": "MAT 2:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod",
+          "type": "person",
+          "preferred_label": "Herode",
+          "confidence": 0.7714,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734350",
     "reference_id": 203450,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hezekia",
     "media_type": "Text",
     "index_reference": "hezekia",
@@ -374,7 +419,16 @@
           "end_ref_usfm": "2CH 32:33"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hezekiah",
+          "type": "person",
+          "preferred_label": "Hezekia",
+          "confidence": 0.7342,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

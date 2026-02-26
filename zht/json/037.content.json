@@ -2,7 +2,7 @@
   {
     "content_id": "650872",
     "reference_id": 203456,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "烏西雅",
     "media_type": "Text",
     "index_reference": "烏西雅",
@@ -90,7 +90,44 @@
           "end_ref_usfm": "2CH 26:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Uzziah",
+          "type": "person",
+          "preferred_label": "Uzziah",
+          "confidence": 0.8061,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uzziah.2",
+          "type": "person",
+          "preferred_label": "Uzziah",
+          "confidence": 0.8061,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uzziah.3",
+          "type": "person",
+          "preferred_label": "Uzziah",
+          "confidence": 0.8061,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uzziah.4",
+          "type": "person",
+          "preferred_label": "Uzziah",
+          "confidence": 0.8061,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uzziah.5",
+          "type": "person",
+          "preferred_label": "Uzziah",
+          "confidence": 0.8061,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

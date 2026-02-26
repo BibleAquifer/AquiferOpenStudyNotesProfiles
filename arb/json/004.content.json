@@ -2,7 +2,7 @@
   {
     "content_id": "726093",
     "reference_id": 203464,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الشّيطان",
     "media_type": "Text",
     "index_reference": "الشّيطان",
@@ -324,13 +324,14 @@
           "end_ref_usfm": "2TH 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "726056",
     "reference_id": 203427,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "شاول",
     "media_type": "Text",
     "index_reference": "شاول",
@@ -394,13 +395,22 @@
           "end_ref_usfm": "1CH 10:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Saul.2",
+          "type": "person",
+          "preferred_label": "شَاولَ",
+          "confidence": 0.6116,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726053",
     "reference_id": 203424,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "شمشون",
     "media_type": "Text",
     "index_reference": "شمشون",
@@ -470,7 +480,16 @@
           "end_ref_usfm": "JDG 16:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Samson",
+          "type": "person",
+          "preferred_label": "شَمْشونَ",
+          "confidence": 0.5693,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

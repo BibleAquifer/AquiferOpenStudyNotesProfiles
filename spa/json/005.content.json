@@ -2,7 +2,7 @@
   {
     "content_id": "658437",
     "reference_id": 203512,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Efeso",
     "media_type": "Text",
     "index_reference": "efeso",
@@ -98,13 +98,29 @@
           "label": "Colosenses",
           "language": "spa"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ephesus",
+          "type": "place",
+          "preferred_label": "Efesios",
+          "confidence": 0.584,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Ephesus",
+          "type": "group",
+          "preferred_label": "Efesio",
+          "confidence": 0.5735,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
     "content_id": "658335",
     "reference_id": 203410,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Egipto",
     "media_type": "Text",
     "index_reference": "egipto",
@@ -228,13 +244,29 @@
           "end_ref_usfm": "JER 43:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "Egipto",
+          "confidence": 0.7031,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Egypt",
+          "type": "group",
+          "preferred_label": "Egipto",
+          "confidence": 0.6168,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658407",
     "reference_id": 203482,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "El Alto Consejo Judío",
     "media_type": "Text",
     "index_reference": "el alto consejo judío",
@@ -340,13 +372,14 @@
           "end_ref_usfm": "ACT 8:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "658396",
     "reference_id": 203471,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "El hijo de hombre",
     "media_type": "Text",
     "index_reference": "el hijo de hombre",
@@ -500,13 +533,14 @@
           "end_ref_usfm": "MAT 28:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "658340",
     "reference_id": 203415,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eleazar",
     "media_type": "Text",
     "index_reference": "eleazar",
@@ -630,13 +664,29 @@
           "end_ref_usfm": "NUM 20:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eleazar.2",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 0.6884,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Aaron",
+          "type": "person",
+          "preferred_label": "Aarón",
+          "confidence": 0.5324,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658351",
     "reference_id": 203426,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eli",
     "media_type": "Text",
     "index_reference": "eli",
@@ -724,13 +774,29 @@
           "end_ref_usfm": "1SA 4:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eli",
+          "type": "person",
+          "preferred_label": "Eli",
+          "confidence": 0.7302,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Jehová",
+          "confidence": 0.6779,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658370",
     "reference_id": 203445,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elías",
     "media_type": "Text",
     "index_reference": "elías",
@@ -968,13 +1034,22 @@
           "end_ref_usfm": "ROM 11:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elijah",
+          "type": "person",
+          "preferred_label": "Elías",
+          "confidence": 0.6771,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658372",
     "reference_id": 203447,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eliseo",
     "media_type": "Text",
     "index_reference": "eliseo",
@@ -1110,13 +1185,22 @@
           "end_ref_usfm": "2KI 13:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elisha",
+          "type": "person",
+          "preferred_label": "Eliseo",
+          "confidence": 0.6646,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658441",
     "reference_id": 203516,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Emperadores Romanos",
     "media_type": "Text",
     "index_reference": "emperadores romanos",
@@ -1168,13 +1252,14 @@
           "end_ref_usfm": "REV 17:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "658328",
     "reference_id": 203403,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esaú",
     "media_type": "Text",
     "index_reference": "esaú",
@@ -1360,13 +1445,29 @@
           "label": "Génesis 25:25",
           "language": "spa"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Esau",
+          "type": "person",
+          "preferred_label": "Esaú",
+          "confidence": 0.7326,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Edom",
+          "type": "place",
+          "preferred_label": "Edom",
+          "confidence": 0.5992,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
     "content_id": "658384",
     "reference_id": 203459,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esdras",
     "media_type": "Text",
     "index_reference": "esdras",
@@ -1526,13 +1627,29 @@
           "end_ref_usfm": "NEH 8:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ezra",
+          "type": "person",
+          "preferred_label": "Esdras",
+          "confidence": 0.6607,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ezra.2",
+          "type": "person",
+          "preferred_label": "Esdras",
+          "confidence": 0.6028,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658423",
     "reference_id": 203498,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esteban",
     "media_type": "Text",
     "index_reference": "esteban",
@@ -1680,13 +1797,22 @@
           "end_ref_usfm": "ACT 8:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Stephen",
+          "type": "person",
+          "preferred_label": "Esteban",
+          "confidence": 0.6315,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658387",
     "reference_id": 203462,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esther",
     "media_type": "Text",
     "index_reference": "esther",
@@ -1732,13 +1858,22 @@
           "end_ref_usfm": "EST 9:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Esther",
+          "type": "person",
+          "preferred_label": "Esther",
+          "confidence": 0.695,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658375",
     "reference_id": 203450,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ezechîas",
     "media_type": "Text",
     "index_reference": "ezechîas",
@@ -1808,13 +1943,22 @@
           "end_ref_usfm": "2CH 32:33"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hezekiah",
+          "type": "person",
+          "preferred_label": "Ezechîas",
+          "confidence": 0.7342,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658393",
     "reference_id": 203468,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ezequiel",
     "media_type": "Text",
     "index_reference": "ezequiel",
@@ -1860,7 +2004,16 @@
           "end_ref_usfm": "EZK 4:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ezekiel",
+          "type": "person",
+          "preferred_label": "Ezequiel",
+          "confidence": 0.6138,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

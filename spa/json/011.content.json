@@ -2,7 +2,7 @@
   {
     "content_id": "658435",
     "reference_id": 203510,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "La Iglesia romana",
     "media_type": "Text",
     "index_reference": "la iglesia romana",
@@ -78,13 +78,14 @@
           "end_ref_usfm": "ACT 28:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "658330",
     "reference_id": 203405,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lea",
     "media_type": "Text",
     "index_reference": "lea",
@@ -220,13 +221,29 @@
           "end_ref_usfm": "GEN 46:15"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Leah",
+          "type": "person",
+          "preferred_label": "Lea",
+          "confidence": 0.6855,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Esau",
+          "type": "person",
+          "preferred_label": "Esaú",
+          "confidence": 0.5126,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658418",
     "reference_id": 203493,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Líderes judíos",
     "media_type": "Text",
     "index_reference": "líderes judíos",
@@ -422,13 +439,22 @@
           "end_ref_usfm": "ACT 26:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "Judíos",
+          "confidence": 0.6076,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658356",
     "reference_id": 203431,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Los amalecitas",
     "media_type": "Text",
     "index_reference": "los amalecitas",
@@ -534,13 +560,36 @@
           "end_ref_usfm": "PSA 83:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Athach",
+          "type": "place",
+          "preferred_label": "los",
+          "confidence": 0.6033,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Amalek",
+          "type": "place",
+          "preferred_label": "Amalec",
+          "confidence": 0.5573,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Amalek",
+          "type": "group",
+          "preferred_label": "Amalekites",
+          "confidence": 0.5077,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658403",
     "reference_id": 203478,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Los fariseos",
     "media_type": "Text",
     "index_reference": "los fariseos",
@@ -886,13 +935,22 @@
           "end_ref_usfm": "PHP 3:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Pharisee",
+          "type": "group",
+          "preferred_label": "fariseo",
+          "confidence": 0.5971,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658346",
     "reference_id": 203421,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Los filisteos",
     "media_type": "Text",
     "index_reference": "los filisteos",
@@ -1094,13 +1152,43 @@
           "end_ref_usfm": "2CH 28:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "los",
+          "confidence": 0.7619,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "Filisteos",
+          "confidence": 0.6119,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Philistine",
+          "type": "person",
+          "preferred_label": "los",
+          "confidence": 0.6013,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Shephelah",
+          "type": "place",
+          "preferred_label": "los",
+          "confidence": 0.6013,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658397",
     "reference_id": 203472,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Los griegos",
     "media_type": "Text",
     "index_reference": "los griegos",
@@ -1116,13 +1204,22 @@
           "end_ref_usfm": "DAN 8:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Javan",
+          "type": "person",
+          "preferred_label": "Griegos",
+          "confidence": 0.8733,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "658385",
     "reference_id": 203460,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Los medos y persas",
     "media_type": "Text",
     "index_reference": "los medos y persas",
@@ -1156,13 +1253,22 @@
           "end_ref_usfm": "EZR 4:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Persia",
+          "type": "place",
+          "preferred_label": "Persas",
+          "confidence": 0.6615,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658406",
     "reference_id": 203481,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Los saduceos",
     "media_type": "Text",
     "index_reference": "los saduceos",
@@ -1256,13 +1362,22 @@
           "end_ref_usfm": "1KI 1:48"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Sadducee",
+          "type": "group",
+          "preferred_label": "saduceo",
+          "confidence": 0.5505,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658324",
     "reference_id": 203399,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lot",
     "media_type": "Text",
     "index_reference": "lot",
@@ -1380,13 +1495,43 @@
           "end_ref_usfm": "LUK 17:33"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Lot",
+          "type": "person",
+          "preferred_label": "Lot",
+          "confidence": 0.7374,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Daughter2OfLot",
+          "type": "person",
+          "preferred_label": "Daughter2 of Lot",
+          "confidence": 0.6,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:WifeOfLot",
+          "type": "person",
+          "preferred_label": "Wife of Lot",
+          "confidence": 0.6,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Daughter1OfLot",
+          "type": "person",
+          "preferred_label": "Daughter1 of Lot",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658429",
     "reference_id": 203504,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lucas",
     "media_type": "Text",
     "index_reference": "lucas",
@@ -1456,7 +1601,16 @@
           "end_ref_usfm": "ACT 1:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Luke",
+          "type": "person",
+          "preferred_label": "Lucas",
+          "confidence": 0.6857,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

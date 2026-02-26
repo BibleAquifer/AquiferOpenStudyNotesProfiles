@@ -2,7 +2,7 @@
   {
     "content_id": "668928",
     "reference_id": 203470,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nebucadnetsar II",
     "media_type": "Text",
     "index_reference": "nebucadnetsar ii",
@@ -204,13 +204,22 @@
           "end_ref_usfm": "EZK 30:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nebuchadnezzar",
+          "type": "person",
+          "preferred_label": "Nebucadnetsar",
+          "confidence": 0.685,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "668919",
     "reference_id": 203461,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Néhémie",
     "media_type": "Text",
     "index_reference": "néhémie",
@@ -304,13 +313,36 @@
           "end_ref_usfm": "NEH 13:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nehemiah.2",
+          "type": "person",
+          "preferred_label": "Néhémie",
+          "confidence": 0.6057,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nehemiah",
+          "type": "person",
+          "preferred_label": "Néhémie",
+          "confidence": 0.6011,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nehemiah.3",
+          "type": "person",
+          "preferred_label": "Néhémie",
+          "confidence": 0.6011,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "668967",
     "reference_id": 203509,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Néron",
     "media_type": "Text",
     "index_reference": "néron",
@@ -374,13 +406,22 @@
           "label": "Apocalypse 17.8",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Authority.2",
+          "type": "keyterm",
+          "preferred_label": "autorité",
+          "confidence": 0.5475,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
     "content_id": "668949",
     "reference_id": 203491,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nicodème",
     "media_type": "Text",
     "index_reference": "nicodème",
@@ -426,13 +467,22 @@
           "end_ref_usfm": "JHN 3:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nicodemus",
+          "type": "person",
+          "preferred_label": "Nicodème",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "668852",
     "reference_id": 203394,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Noé",
     "media_type": "Text",
     "index_reference": "noé",
@@ -562,7 +612,16 @@
           "end_ref_usfm": "1PE 3:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Noah",
+          "type": "person",
+          "preferred_label": "Noah",
+          "confidence": 0.6335,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

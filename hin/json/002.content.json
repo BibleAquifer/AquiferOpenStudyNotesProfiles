@@ -2,7 +2,7 @@
   {
     "content_id": "654194",
     "reference_id": 203393,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आदम और हव्वा",
     "media_type": "Text",
     "index_reference": "आदम और हव्वा",
@@ -294,13 +294,29 @@
           "end_ref_usfm": "HOS 6:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Adam",
+          "type": "person",
+          "preferred_label": "आदम",
+          "confidence": 0.678,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eve",
+          "type": "person",
+          "preferred_label": "हव्वा",
+          "confidence": 0.6065,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654255",
     "reference_id": 203454,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आसा",
     "media_type": "Text",
     "index_reference": "आसा",
@@ -364,13 +380,22 @@
           "end_ref_usfm": "2CH 16:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Asa",
+          "type": "person",
+          "preferred_label": "आसा",
+          "confidence": 0.8092,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654250",
     "reference_id": 203449,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आहाज",
     "media_type": "Text",
     "index_reference": "आहाज",
@@ -446,7 +471,16 @@
           "end_ref_usfm": "2CH 28:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahaz",
+          "type": "person",
+          "preferred_label": "आहाज",
+          "confidence": 0.7,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "500453",
     "reference_id": 203396,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hagar",
     "media_type": "Text",
     "index_reference": "hagar",
@@ -78,13 +78,22 @@
           "end_ref_usfm": "GEN 16:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hagar",
+          "type": "person",
+          "preferred_label": "Hagar",
+          "confidence": 0.696,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500530",
     "reference_id": 203473,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hellenistic Kingdoms",
     "media_type": "Text",
     "index_reference": "hellenistic kingdoms",
@@ -136,13 +145,14 @@
           "end_ref_usfm": "DAN 11:39"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "500558",
     "reference_id": 203501,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herod Agrippa I",
     "media_type": "Text",
     "index_reference": "herod agrippa i",
@@ -170,13 +180,22 @@
           "end_ref_usfm": "ACT 12:23"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod.3",
+          "type": "person",
+          "preferred_label": "Herod",
+          "confidence": 0.72,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500564",
     "reference_id": 203507,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herod Agrippa II",
     "media_type": "Text",
     "index_reference": "herod agrippa ii",
@@ -192,13 +211,22 @@
           "end_ref_usfm": "ACT 26:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Agrippa",
+          "type": "person",
+          "preferred_label": "Agrippa",
+          "confidence": 0.6936,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500541",
     "reference_id": 203484,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herod Antipas",
     "media_type": "Text",
     "index_reference": "herod antipas",
@@ -322,13 +350,22 @@
           "end_ref_usfm": "LUK 23:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "Herod Antipas",
+          "confidence": 0.7725,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500534",
     "reference_id": 203477,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herod the Great",
     "media_type": "Text",
     "index_reference": "herod the great",
@@ -356,13 +393,22 @@
           "end_ref_usfm": "MAT 2:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod",
+          "type": "person",
+          "preferred_label": "Herod",
+          "confidence": 0.7714,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500507",
     "reference_id": 203450,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hezekiah",
     "media_type": "Text",
     "index_reference": "hezekiah",
@@ -432,13 +478,22 @@
           "end_ref_usfm": "2CH 32:33"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hezekiah",
+          "type": "person",
+          "preferred_label": "Hezekiah",
+          "confidence": 0.7342,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500458",
     "reference_id": 203401,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hittites",
     "media_type": "Text",
     "index_reference": "hittites",
@@ -532,7 +587,30 @@
           "end_ref_usfm": "GEN 23:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Heth",
+          "type": "person",
+          "preferred_label": "Heth",
+          "confidence": 0.6685,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Hittite",
+          "type": "group",
+          "preferred_label": "Hittites",
+          "confidence": 0.6609,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Hivites",
+          "type": "group",
+          "preferred_label": "Hivites",
+          "confidence": 0.5187,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

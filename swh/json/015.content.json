@@ -2,7 +2,7 @@
   {
     "content_id": "734336",
     "reference_id": 203436,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadoki",
     "media_type": "Text",
     "index_reference": "sadoki",
@@ -150,13 +150,36 @@
           "end_ref_usfm": "1KI 1:53"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Zadok.2",
+          "type": "person",
+          "preferred_label": "Sadoki",
+          "confidence": 0.6813,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zadok.4",
+          "type": "person",
+          "preferred_label": "Sadoki",
+          "confidence": 0.6065,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Adonijah",
+          "type": "person",
+          "preferred_label": "Adonia",
+          "confidence": 0.5003,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734324",
     "reference_id": 203424,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samsoni",
     "media_type": "Text",
     "index_reference": "samsoni",
@@ -226,13 +249,22 @@
           "end_ref_usfm": "JDG 16:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Samson",
+          "type": "person",
+          "preferred_label": "Samsoni",
+          "confidence": 0.7178,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734332",
     "reference_id": 203432,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samweli",
     "media_type": "Text",
     "index_reference": "samweli",
@@ -428,13 +460,29 @@
           "end_ref_usfm": "1SA 16:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Samuel",
+          "type": "person",
+          "preferred_label": "Samweli",
+          "confidence": 0.7249,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Saul.2",
+          "type": "person",
+          "preferred_label": "Sauli",
+          "confidence": 0.5719,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734298",
     "reference_id": 203398,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sara",
     "media_type": "Text",
     "index_reference": "sara",
@@ -612,13 +660,22 @@
           "end_ref_usfm": "ROM 9:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Sarah",
+          "type": "person",
+          "preferred_label": "Sara",
+          "confidence": 0.7007,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734327",
     "reference_id": 203427,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sauli",
     "media_type": "Text",
     "index_reference": "sauli",
@@ -682,13 +739,29 @@
           "end_ref_usfm": "1CH 10:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Saul.2",
+          "type": "person",
+          "preferred_label": "Sauli",
+          "confidence": 0.7601,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "Daudi",
+          "confidence": 0.5679,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734364",
     "reference_id": 203464,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shetani",
     "media_type": "Text",
     "index_reference": "shetani",
@@ -1010,13 +1083,22 @@
           "end_ref_usfm": "2TH 2:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "Shetani",
+          "confidence": 0.7138,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734380",
     "reference_id": 203480,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Simoni Petro",
     "media_type": "Text",
     "index_reference": "simoni petro",
@@ -1716,13 +1798,43 @@
           "end_ref_usfm": "GAL 2:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Peter",
+          "type": "person",
+          "preferred_label": "Petro",
+          "confidence": 0.6823,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Simon.9",
+          "type": "person",
+          "preferred_label": "Simoni",
+          "confidence": 0.6024,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Simon.8",
+          "type": "person",
+          "preferred_label": "Simoni",
+          "confidence": 0.6014,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Simon.2",
+          "type": "person",
+          "preferred_label": "Simoni",
+          "confidence": 0.6005,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734340",
     "reference_id": 203440,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Solomoni",
     "media_type": "Text",
     "index_reference": "solomoni",
@@ -1846,13 +1958,22 @@
           "end_ref_usfm": "1KI 4:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Solomon",
+          "type": "person",
+          "preferred_label": "Sulemani",
+          "confidence": 0.6896,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "734398",
     "reference_id": 203498,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Stefano",
     "media_type": "Text",
     "index_reference": "stefano",
@@ -2000,7 +2121,16 @@
           "end_ref_usfm": "ACT 8:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Stephen",
+          "type": "person",
+          "preferred_label": "Stefano",
+          "confidence": 0.6315,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

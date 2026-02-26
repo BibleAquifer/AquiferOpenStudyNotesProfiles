@@ -2,7 +2,7 @@
   {
     "content_id": "650928",
     "reference_id": 203512,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以弗所",
     "media_type": "Text",
     "index_reference": "以弗所",
@@ -98,13 +98,14 @@
           "label": "歌羅西書",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "650842",
     "reference_id": 203426,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以利",
     "media_type": "Text",
     "index_reference": "以利",
@@ -192,13 +193,14 @@
           "end_ref_usfm": "1SA 4:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650863",
     "reference_id": 203447,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以利沙",
     "media_type": "Text",
     "index_reference": "以利沙",
@@ -334,13 +336,29 @@
           "end_ref_usfm": "2KI 13:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elisha",
+          "type": "person",
+          "preferred_label": "Elisha",
+          "confidence": 0.8281,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishah",
+          "type": "person",
+          "preferred_label": "Elishah",
+          "confidence": 0.8045,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "650861",
     "reference_id": 203445,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以利亞",
     "media_type": "Text",
     "index_reference": "以利亞",
@@ -578,13 +596,14 @@
           "end_ref_usfm": "ROM 11:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650831",
     "reference_id": 203415,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以利亞撒",
     "media_type": "Text",
     "index_reference": "以利亞撒",
@@ -708,13 +727,14 @@
           "end_ref_usfm": "NUM 20:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650816",
     "reference_id": 203400,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以撒",
     "media_type": "Text",
     "index_reference": "以撒",
@@ -994,13 +1014,14 @@
           "end_ref_usfm": "HEB 11:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650881",
     "reference_id": 203465,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以賽亞",
     "media_type": "Text",
     "index_reference": "以賽亞",
@@ -1208,13 +1229,29 @@
           "end_ref_usfm": "ROM 10:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Izziah",
+          "type": "person",
+          "preferred_label": "Izziah",
+          "confidence": 0.8165,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isaiah",
+          "type": "person",
+          "preferred_label": "Isaiah",
+          "confidence": 0.8121,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "650819",
     "reference_id": 203403,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以掃",
     "media_type": "Text",
     "index_reference": "以掃",
@@ -1400,13 +1437,14 @@
           "label": "創世記 25:25",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "650813",
     "reference_id": 203397,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以實瑪利",
     "media_type": "Text",
     "index_reference": "以實瑪利",
@@ -1572,13 +1610,14 @@
           "end_ref_usfm": "GEN 25:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650875",
     "reference_id": 203459,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以斯拉",
     "media_type": "Text",
     "index_reference": "以斯拉",
@@ -1738,13 +1777,14 @@
           "end_ref_usfm": "NEH 8:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650878",
     "reference_id": 203462,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以斯帖",
     "media_type": "Text",
     "index_reference": "以斯帖",
@@ -1790,13 +1830,14 @@
           "end_ref_usfm": "EST 9:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650884",
     "reference_id": 203468,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以西結",
     "media_type": "Text",
     "index_reference": "以西結",
@@ -1842,7 +1883,8 @@
           "end_ref_usfm": "EZK 4:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

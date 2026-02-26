@@ -2,7 +2,7 @@
   {
     "content_id": "500540",
     "reference_id": 203483,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Women Named Mary",
     "media_type": "Text",
     "index_reference": "women named mary",
@@ -204,7 +204,58 @@
           "end_ref_usfm": "JHN 12:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Marymagdalene",
+          "type": "person",
+          "preferred_label": "Mary Magdalene",
+          "confidence": 0.6441,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.3",
+          "type": "person",
+          "preferred_label": "Mary",
+          "confidence": 0.6283,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.2",
+          "type": "person",
+          "preferred_label": "Mary",
+          "confidence": 0.6189,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.4",
+          "type": "person",
+          "preferred_label": "Mary",
+          "confidence": 0.6031,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.5",
+          "type": "person",
+          "preferred_label": "Mary",
+          "confidence": 0.6031,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:HusbandOfMary.2",
+          "type": "person",
+          "preferred_label": "Husband of Mary",
+          "confidence": 0.6,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:HusbandOfMary",
+          "type": "person",
+          "preferred_label": "Husband of Mary",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

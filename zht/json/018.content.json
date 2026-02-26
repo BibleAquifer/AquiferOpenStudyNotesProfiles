@@ -2,7 +2,7 @@
   {
     "content_id": "650820",
     "reference_id": 203404,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "拉結",
     "media_type": "Text",
     "index_reference": "拉結",
@@ -114,13 +114,14 @@
           "end_ref_usfm": "GEN 46:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "650835",
     "reference_id": 203419,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "喇合",
     "media_type": "Text",
     "index_reference": "喇合",
@@ -184,7 +185,8 @@
           "end_ref_usfm": "JOS 6:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

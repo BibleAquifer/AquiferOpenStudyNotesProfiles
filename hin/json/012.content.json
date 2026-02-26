@@ -2,7 +2,7 @@
   {
     "content_id": "654297",
     "reference_id": 203496,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "थोमा",
     "media_type": "Text",
     "index_reference": "थोमा",
@@ -78,7 +78,16 @@
           "end_ref_usfm": "JHN 20:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Thomas",
+          "type": "person",
+          "preferred_label": "थोमा",
+          "confidence": 0.8444,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

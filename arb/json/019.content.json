@@ -2,7 +2,7 @@
   {
     "content_id": "726099",
     "reference_id": 203470,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نَبُوخَذْنَاصَّر الثاني",
     "media_type": "Text",
     "index_reference": "نَبُوخَذْنَاصَّر الثاني",
@@ -204,13 +204,22 @@
           "end_ref_usfm": "EZK 30:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nebuchadnezzar",
+          "type": "person",
+          "preferred_label": "نَبوخَذْنَاصَّر",
+          "confidence": 0.595,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726090",
     "reference_id": 203461,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نحميا",
     "media_type": "Text",
     "index_reference": "نحميا",
@@ -304,13 +313,14 @@
           "end_ref_usfm": "NEH 13:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
     "content_id": "726023",
     "reference_id": 203394,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نوح",
     "media_type": "Text",
     "index_reference": "نوح",
@@ -440,13 +450,22 @@
           "end_ref_usfm": "1PE 3:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Noah",
+          "type": "person",
+          "preferred_label": "نوحٌ",
+          "confidence": 0.7235,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726138",
     "reference_id": 203509,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نيرون",
     "media_type": "Text",
     "index_reference": "نيرون",
@@ -510,13 +529,14 @@
           "label": "رؤيا 17: 8",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
     "content_id": "726120",
     "reference_id": 203491,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نِيقُودِيمُوس",
     "media_type": "Text",
     "index_reference": "نِيقُودِيمُوس",
@@ -562,7 +582,16 @@
           "end_ref_usfm": "JHN 3:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nicodemus",
+          "type": "person",
+          "preferred_label": "نِيقودِيموس",
+          "confidence": 0.5443,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

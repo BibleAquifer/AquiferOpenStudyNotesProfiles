@@ -2,7 +2,7 @@
   {
     "content_id": "658338",
     "reference_id": 203413,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Faraón",
     "media_type": "Text",
     "index_reference": "faraón",
@@ -90,13 +90,36 @@
           "end_ref_usfm": "EXO 15:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pharaoh.6",
+          "type": "person",
+          "preferred_label": "Faraón",
+          "confidence": 0.6921,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.4",
+          "type": "person",
+          "preferred_label": "Faraón",
+          "confidence": 0.6246,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.5",
+          "type": "person",
+          "preferred_label": "Faraón",
+          "confidence": 0.6041,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658424",
     "reference_id": 203499,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Felipe",
     "media_type": "Text",
     "index_reference": "felipe",
@@ -262,13 +285,22 @@
           "end_ref_usfm": "ACT 10:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Felipe",
+          "confidence": 0.6732,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "658438",
     "reference_id": 203513,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filipo",
     "media_type": "Text",
     "index_reference": "filipo",
@@ -362,7 +394,16 @@
           "end_ref_usfm": "PHP 4:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Filipos",
+          "confidence": 0.5979,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

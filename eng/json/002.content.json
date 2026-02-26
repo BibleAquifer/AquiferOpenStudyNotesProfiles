@@ -2,7 +2,7 @@
   {
     "content_id": "500510",
     "reference_id": 203453,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Babylon",
     "media_type": "Text",
     "index_reference": "babylon",
@@ -116,13 +116,64 @@
           "label": "Daniel 5:31",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Babylon",
+          "type": "place",
+          "preferred_label": "Babylon",
+          "confidence": 0.6782,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Shinar",
+          "type": "place",
+          "preferred_label": "Shinar",
+          "confidence": 0.6044,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:QueenOfBabylon",
+          "type": "person",
+          "preferred_label": "Queen of Babylon",
+          "confidence": 0.6,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Babylon.2",
+          "type": "place",
+          "preferred_label": "Babylon",
+          "confidence": 0.6,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Babylonia",
+          "type": "place",
+          "preferred_label": "Babylonia",
+          "confidence": 0.6,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Chaldea",
+          "type": "group",
+          "preferred_label": "Chaldeans",
+          "confidence": 0.5172,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Astrologer",
+          "type": "group",
+          "preferred_label": "Astrologers",
+          "confidence": 0.5113,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
     "content_id": "500473",
     "reference_id": 203416,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Balaam",
     "media_type": "Text",
     "index_reference": "balaam",
@@ -242,13 +293,29 @@
           "label": "Numbers 22:5-6",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Balaam",
+          "type": "person",
+          "preferred_label": "Balaam",
+          "confidence": 0.7806,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Balak",
+          "type": "person",
+          "preferred_label": "Balak",
+          "confidence": 0.6011,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
     "content_id": "500554",
     "reference_id": 203497,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Barnabas",
     "media_type": "Text",
     "index_reference": "barnabas",
@@ -360,13 +427,29 @@
           "end_ref_usfm": "GAL 2:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Barnabas",
+          "type": "person",
+          "preferred_label": "Barnabas",
+          "confidence": 0.6611,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judas.5",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.5536,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500524",
     "reference_id": 203467,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baruch",
     "media_type": "Text",
     "index_reference": "baruch",
@@ -472,13 +555,22 @@
           "end_ref_usfm": "JER 36:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Baruch.4",
+          "type": "person",
+          "preferred_label": "Baruch",
+          "confidence": 0.6777,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "500492",
     "reference_id": 203435,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bathsheba",
     "media_type": "Text",
     "index_reference": "bathsheba",
@@ -590,7 +682,16 @@
           "end_ref_usfm": "1KI 2:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Bathsheba",
+          "type": "person",
+          "preferred_label": "Bathsheba",
+          "confidence": 0.628,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

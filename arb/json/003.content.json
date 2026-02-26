@@ -2,7 +2,7 @@
   {
     "content_id": "726121",
     "reference_id": 203492,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "السامريون",
     "media_type": "Text",
     "index_reference": "السامريون",
@@ -36,13 +36,36 @@
           "end_ref_usfm": "2KI 17:41"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Samaritan",
+          "type": "group",
+          "preferred_label": "Samaritans",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amram",
+          "type": "person",
+          "preferred_label": "ٱلْعَمْرَامِيِّينَ",
+          "confidence": 0.8016,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amram.2",
+          "type": "person",
+          "preferred_label": "ٱلْعَمْرَامِيِّينَ",
+          "confidence": 0.8016,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
     "content_id": "726027",
     "reference_id": 203398,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "سارة",
     "media_type": "Text",
     "index_reference": "سارة",
@@ -220,13 +243,22 @@
           "end_ref_usfm": "ROM 9:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Sarah",
+          "type": "person",
+          "preferred_label": "سَارَة",
+          "confidence": 0.5207,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726069",
     "reference_id": 203440,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "سُلَيْمَان",
     "media_type": "Text",
     "index_reference": "سُلَيْمَان",
@@ -350,13 +382,29 @@
           "end_ref_usfm": "1KI 4:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Solomon",
+          "type": "person",
+          "preferred_label": "سلَيْمَانَ",
+          "confidence": 0.6986,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Heman",
+          "type": "person",
+          "preferred_label": "هَيْمَان",
+          "confidence": 0.5376,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "726109",
     "reference_id": 203480,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "سمعان بطرس",
     "media_type": "Text",
     "index_reference": "سمعان بطرس",
@@ -1056,7 +1104,8 @@
           "end_ref_usfm": "GAL 2:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

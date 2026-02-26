@@ -2,7 +2,7 @@
   {
     "content_id": "654271",
     "reference_id": 203470,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "नबूकदनेस्सर II",
     "media_type": "Text",
     "index_reference": "नबूकदनेस्सर II",
@@ -204,13 +204,22 @@
           "end_ref_usfm": "EZK 30:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nebuchadnezzar",
+          "type": "person",
+          "preferred_label": "नबूकदनेस्सर",
+          "confidence": 0.685,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654262",
     "reference_id": 203461,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "नहेम्याह",
     "media_type": "Text",
     "index_reference": "नहेम्याह",
@@ -304,13 +313,120 @@
           "end_ref_usfm": "NEH 13:31"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nehemiah.2",
+          "type": "person",
+          "preferred_label": "नहेम्याह",
+          "confidence": 0.6057,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nehemiah",
+          "type": "person",
+          "preferred_label": "नहेम्याह",
+          "confidence": 0.6011,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nehemiah.3",
+          "type": "person",
+          "preferred_label": "नहेम्याह",
+          "confidence": 0.6011,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Maaziah.2",
+          "type": "person",
+          "preferred_label": "माज्याह",
+          "confidence": 0.5269,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Maaseiah.16",
+          "type": "person",
+          "preferred_label": "मासेयाह",
+          "confidence": 0.5246,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Maaseiah.14",
+          "type": "person",
+          "preferred_label": "मासेयाह",
+          "confidence": 0.5246,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Maaseiah.15",
+          "type": "person",
+          "preferred_label": "मासेयाह",
+          "confidence": 0.5246,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Maaseiah.10",
+          "type": "person",
+          "preferred_label": "मासेयाह",
+          "confidence": 0.5246,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Maaseiah.13",
+          "type": "person",
+          "preferred_label": "मासेयाह",
+          "confidence": 0.5246,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Maaseiah.17",
+          "type": "person",
+          "preferred_label": "मासेयाह",
+          "confidence": 0.5246,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mattaniah",
+          "type": "person",
+          "preferred_label": "मत्तन्याह",
+          "confidence": 0.5224,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mattaniah.9",
+          "type": "person",
+          "preferred_label": "मत्तन्याह",
+          "confidence": 0.5213,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mattaniah.10",
+          "type": "person",
+          "preferred_label": "मत्तन्याह",
+          "confidence": 0.5201,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benjamin.4",
+          "type": "person",
+          "preferred_label": "बिन्यामीन",
+          "confidence": 0.5111,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benjamin.5",
+          "type": "person",
+          "preferred_label": "बिन्यामीन",
+          "confidence": 0.5111,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654292",
     "reference_id": 203491,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "नीकुदेमुस",
     "media_type": "Text",
     "index_reference": "नीकुदेमुस",
@@ -356,13 +472,22 @@
           "end_ref_usfm": "JHN 3:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nicodemus",
+          "type": "person",
+          "preferred_label": "नीकुदेमुस",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
     "content_id": "654310",
     "reference_id": 203509,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "नीरो",
     "media_type": "Text",
     "index_reference": "नीरो",
@@ -426,13 +551,22 @@
           "label": "प्रकाशितवाक्य 17:8",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nero",
+          "type": "person",
+          "preferred_label": "Nero",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
     "content_id": "654195",
     "reference_id": 203394,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "नूह",
     "media_type": "Text",
     "index_reference": "नूह",
@@ -562,7 +696,16 @@
           "end_ref_usfm": "1PE 3:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Noah",
+          "type": "person",
+          "preferred_label": "नूह",
+          "confidence": 0.7235,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]
