@@ -1,627 +1,627 @@
 [
-  {
-    "content_id": "500527",
-    "reference_id": 203470,
-    "version": "1.0.2",
-    "title": "Nebuchadnezzar II",
-    "media_type": "Text",
-    "index_reference": "nebuchadnezzar ii",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>King Nebuchadnezzar II ruled Babylon from 605 to 562 BC. He strengthened and expanded the empire of his father, Nabopolassar, who ruled from 626 to 605 BC. Besides the Bible, many ancient Babylonian documents describe Nebuchadnezzar&apos;s achievements.</p><p>In 626 BC, Babylon, like Judah, was under Assyrian control. That year, Nabopolassar started a revolt that changed the world. In 612 BC, the Babylonians captured Nineveh, the capital of Assyria, and defeated the Assyrians again at Haran in 609 BC. By this battle, Nabopolassar’s son, Nebuchadnezzar, led the army. In 605 BC, Nebuchadnezzar defeated the remaining Assyrian army at Carchemish. This victory also forced the Egyptians back within their borders. In the same year, Nabopolassar died, and his son became king.</p><p>After winning at Carchemish in 605 BC, Nebuchadnezzar conquered Syria and nearby regions, including Judah. That year, he besieged Jerusalem for the first time (<a href=\"https://ref.ly/2Kgs24:1\">2 Kings 24:1</a>; <a href=\"https://ref.ly/Dan1:1-Dan1:2\">1:1–2</a>). He took some temple vessels and several young leaders from Judah, including Daniel and his three friends. Nebuchadnezzar captured Jerusalem again in 597 BC (<a href=\"https://ref.ly/2Kgs24:10-2Kgs24:17\">2 Kings 24:10–17</a>). He besieged Jerusalem in 588 BC and destroyed the city and temple in 586 BC, exiling most of the remaining people (<a href=\"https://ref.ly/2Kgs25:1-2Kgs25:21\">2 Kings 25:1–21</a>).</p><p>A detailed and interesting description of Nebuchadnezzar is found in the book of Daniel. He brought Daniel and his friends to Babylon to educate them in Babylonian ways. However, God used Daniel to teach Nebuchadnezzar about God. After being humbled for his great pride (<a href=\"https://ref.ly/Dan4:28-Dan4:33\">Daniel 4:28–33</a>), Nebuchadnezzar acknowledged the Lord&apos;s sovereignty and power (<a href=\"https://ref.ly/Dan4:34-Dan4:37\">Daniel 4:34–37</a>). However, he probably never worshiped the true God exclusively.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/2Kgs24:1-2Kgs25:30\">2 Kings 24:1–25:30</a>; <a href=\"https://ref.ly/2Chr36:6-2Chr36:21\">2 Chronicles 36:6–21</a>; <a href=\"https://ref.ly/Jer21:1-Jer21:10\">Jeremiah 21:1–10</a>; <a href=\"https://ref.ly/Jer22:24-Jer22:27\">22:24–27</a>; <a href=\"https://ref.ly/Jer24:1\">24:1</a>; <a href=\"https://ref.ly/Jer25:1-Jer25:14\">25:1–14</a>; <a href=\"https://ref.ly/Jer27:4-Jer27:8\">27:4–8</a>; <a href=\"https://ref.ly/Jer28:14\">28:14</a>; <a href=\"https://ref.ly/Jer29:1-Jer29:23\">29:1–23</a>; <a href=\"https://ref.ly/Jer32:1-Jer32:5\">32:1–5</a>, <a href=\"https://ref.ly/Jer32:26-Jer32:31\">26–31</a>; <a href=\"https://ref.ly/Jer34:1-Jer34:3\">34:1–3</a>; <a href=\"https://ref.ly/Jer37:1\">37:1</a>; <a href=\"https://ref.ly/Jer39:1-Jer39:14\">39:1–14</a>; <a href=\"https://ref.ly/Jer43:10-Jer43:13\">43:10–13</a>; <a href=\"https://ref.ly/Jer46:2\">46:2</a>, <a href=\"https://ref.ly/Jer46:13-Jer46:26\">13–26</a>; <a href=\"https://ref.ly/Jer49:28-Jer49:33\">49:28–33</a>; <a href=\"https://ref.ly/Jer50:17\">50:17</a>; <a href=\"https://ref.ly/Jer51:34\">51:34</a>; <a href=\"https://ref.ly/Jer52:4-Jer52:16\">52:4–16</a>, <a href=\"https://ref.ly/Jer52:28-Jer52:30\">28–30</a>; <a href=\"https://ref.ly/Ezek26:7\">Ezekiel 26:7</a>; <a href=\"https://ref.ly/Ezek29:18-Ezek29:20\">29:18–20</a>; <a href=\"https://ref.ly/Ezek30:10-Ezek30:11\">30:10–11</a>; <a href=\"https://ref.ly/Dan1:1-Dan4:37\">Daniel 1:1–4:37</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "12024001",
-          "start_ref_usfm": "2KI 24:1",
-          "end_ref": "12024001",
-          "end_ref_usfm": "2KI 24:1"
-        },
-        {
-          "start_ref": "24024001",
-          "start_ref_usfm": "JER 24:1",
-          "end_ref": "24024001",
-          "end_ref_usfm": "JER 24:1"
-        },
-        {
-          "start_ref": "24028014",
-          "start_ref_usfm": "JER 28:14",
-          "end_ref": "24028014",
-          "end_ref_usfm": "JER 28:14"
-        },
-        {
-          "start_ref": "24037001",
-          "start_ref_usfm": "JER 37:1",
-          "end_ref": "24037001",
-          "end_ref_usfm": "JER 37:1"
-        },
-        {
-          "start_ref": "24046002",
-          "start_ref_usfm": "JER 46:2",
-          "end_ref": "24046002",
-          "end_ref_usfm": "JER 46:2"
-        },
-        {
-          "start_ref": "24050017",
-          "start_ref_usfm": "JER 50:17",
-          "end_ref": "24050017",
-          "end_ref_usfm": "JER 50:17"
-        },
-        {
-          "start_ref": "24051034",
-          "start_ref_usfm": "JER 51:34",
-          "end_ref": "24051034",
-          "end_ref_usfm": "JER 51:34"
-        },
-        {
-          "start_ref": "26026007",
-          "start_ref_usfm": "EZK 26:7",
-          "end_ref": "26026007",
-          "end_ref_usfm": "EZK 26:7"
-        },
-        {
-          "start_ref": "24049028",
-          "start_ref_usfm": "JER 49:28",
-          "end_ref": "24049033",
-          "end_ref_usfm": "JER 49:33"
-        },
-        {
-          "start_ref": "12024010",
-          "start_ref_usfm": "2KI 24:10",
-          "end_ref": "12024017",
-          "end_ref_usfm": "2KI 24:17"
-        },
-        {
-          "start_ref": "24046013",
-          "start_ref_usfm": "JER 46:13",
-          "end_ref": "24046026",
-          "end_ref_usfm": "JER 46:26"
-        },
-        {
-          "start_ref": "12024001",
-          "start_ref_usfm": "2KI 24:1",
-          "end_ref": "12025030",
-          "end_ref_usfm": "2KI 25:30"
-        },
-        {
-          "start_ref": "27001001",
-          "start_ref_usfm": "DAN 1:1",
-          "end_ref": "27001002",
-          "end_ref_usfm": "DAN 1:2"
-        },
-        {
-          "start_ref": "27004028",
-          "start_ref_usfm": "DAN 4:28",
-          "end_ref": "27004033",
-          "end_ref_usfm": "DAN 4:33"
-        },
-        {
-          "start_ref": "26029018",
-          "start_ref_usfm": "EZK 29:18",
-          "end_ref": "26029020",
-          "end_ref_usfm": "EZK 29:20"
-        },
-        {
-          "start_ref": "27004034",
-          "start_ref_usfm": "DAN 4:34",
-          "end_ref": "27004037",
-          "end_ref_usfm": "DAN 4:37"
-        },
-        {
-          "start_ref": "24021001",
-          "start_ref_usfm": "JER 21:1",
-          "end_ref": "24021010",
-          "end_ref_usfm": "JER 21:10"
-        },
-        {
-          "start_ref": "24025001",
-          "start_ref_usfm": "JER 25:1",
-          "end_ref": "24025014",
-          "end_ref_usfm": "JER 25:14"
-        },
-        {
-          "start_ref": "24029001",
-          "start_ref_usfm": "JER 29:1",
-          "end_ref": "24029023",
-          "end_ref_usfm": "JER 29:23"
-        },
-        {
-          "start_ref": "24052028",
-          "start_ref_usfm": "JER 52:28",
-          "end_ref": "24052030",
-          "end_ref_usfm": "JER 52:30"
-        },
-        {
-          "start_ref": "12025001",
-          "start_ref_usfm": "2KI 25:1",
-          "end_ref": "12025021",
-          "end_ref_usfm": "2KI 25:21"
-        },
-        {
-          "start_ref": "27001001",
-          "start_ref_usfm": "DAN 1:1",
-          "end_ref": "27004037",
-          "end_ref_usfm": "DAN 4:37"
-        },
-        {
-          "start_ref": "14036006",
-          "start_ref_usfm": "2CH 36:6",
-          "end_ref": "14036021",
-          "end_ref_usfm": "2CH 36:21"
-        },
-        {
-          "start_ref": "24022024",
-          "start_ref_usfm": "JER 22:24",
-          "end_ref": "24022027",
-          "end_ref_usfm": "JER 22:27"
-        },
-        {
-          "start_ref": "24027004",
-          "start_ref_usfm": "JER 27:4",
-          "end_ref": "24027008",
-          "end_ref_usfm": "JER 27:8"
-        },
-        {
-          "start_ref": "24032001",
-          "start_ref_usfm": "JER 32:1",
-          "end_ref": "24032005",
-          "end_ref_usfm": "JER 32:5"
-        },
-        {
-          "start_ref": "24032026",
-          "start_ref_usfm": "JER 32:26",
-          "end_ref": "24032031",
-          "end_ref_usfm": "JER 32:31"
-        },
-        {
-          "start_ref": "24034001",
-          "start_ref_usfm": "JER 34:1",
-          "end_ref": "24034003",
-          "end_ref_usfm": "JER 34:3"
-        },
-        {
-          "start_ref": "24039001",
-          "start_ref_usfm": "JER 39:1",
-          "end_ref": "24039014",
-          "end_ref_usfm": "JER 39:14"
-        },
-        {
-          "start_ref": "24043010",
-          "start_ref_usfm": "JER 43:10",
-          "end_ref": "24043013",
-          "end_ref_usfm": "JER 43:13"
-        },
-        {
-          "start_ref": "24052004",
-          "start_ref_usfm": "JER 52:4",
-          "end_ref": "24052016",
-          "end_ref_usfm": "JER 52:16"
-        },
-        {
-          "start_ref": "26030010",
-          "start_ref_usfm": "EZK 30:10",
-          "end_ref": "26030011",
-          "end_ref_usfm": "EZK 30:11"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Nebuchadnezzar",
-          "type": "person",
-          "preferred_label": "Nebuchadnezzar",
-          "confidence": 0.685,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500518",
-    "reference_id": 203461,
-    "version": "1.0.2",
-    "title": "Nehemiah",
-    "media_type": "Text",
-    "index_reference": "nehemiah",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Nehemiah was a strong leader of God&apos;s people in Judea after the exile to Babylon. He encouraged and strengthened God&apos;s people during difficult times.</p><p>Before Nehemiah went back to Judea, he served as the cup-bearer to the Persian king Artaxerxes I, who ruled from 465 to 424 BC. The cup-bearer brought wine to the king, tasting it first to ensure it was not poisoned. He was a trusted adviser. Nehemiah heard about Jerusalem&apos;s poor condition and felt compassion. He asked the king for permission to return to Judea to help his people. The king agreed and appointed him governor of Judea for twelve years to assist his fellow Jews and rebuild Jerusalem&apos;s walls (<a href=\"https://ref.ly/Neh1:1-Neh2:8\">Nehemiah 1:1–2:8</a>).</p><p>Nehemiah had the support of the Persian king, but he faced opposition from the local people. These people, of mixed heritage, were the ancestors of the New Testament Samaritans. Nehemiah showed great courage and skill as he helped the people of Judea rebuild the walls that protected Jerusalem.</p><p>Nehemiah had strong faith, shown by his prayers and his trust in divine guidance and help (<a href=\"https://ref.ly/Neh1:4-Neh1:11\">Nehemiah 1:4–11</a>; <a href=\"https://ref.ly/Neh2:4\">2:4</a>, <a href=\"https://ref.ly/Neh2:8\">8</a>, <a href=\"https://ref.ly/Neh2:18\">18</a>, <a href=\"https://ref.ly/Neh2:20\">20</a>). He also supported economic justice. He criticized some wealthy Judeans for taking advantage of a food shortage by charging high interest to their poorer relatives. He set an example of better behavior (<a href=\"https://ref.ly/Neh5:1-Neh5:19\">Nehemiah 5</a>).</p><p>Nehemiah cared deeply about the people&apos;s faithfulness. He personally confronted men who had married non-Jewish women (<a href=\"https://ref.ly/Neh13:23-Neh13:29\">Nehemiah 13:23–29</a>). He was committed to maintaining temple worship. He led the Jewish community to promise support for temple workers and to give offerings (<a href=\"https://ref.ly/Neh10:32-Neh10:39\">Nehemiah 10:32–39</a>). He also improved how they observed the Sabbath (<a href=\"https://ref.ly/Neh13:15-Neh13:22\">Nehemiah 13:15–22</a>).</p><p>Even though problems remained at the end of his time in Jerusalem (see <a href=\"https://ref.ly/Neh13:1-Neh13:31\">Nehemiah 13</a>), Nehemiah was a strong leader. He helped the Jewish settlers regain their national and religious identity during a time of political and economic weakness.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Neh1:1-Neh7:73\">Nehemiah 1:1–7:73</a>; <a href=\"https://ref.ly/Neh8:9-Neh8:10\">8:9–10</a>; <a href=\"https://ref.ly/Neh10:1-Neh13:31\">10:1–13:31</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "16002004",
-          "start_ref_usfm": "NEH 2:4",
-          "end_ref": "16002004",
-          "end_ref_usfm": "NEH 2:4"
-        },
-        {
-          "start_ref": "16002008",
-          "start_ref_usfm": "NEH 2:8",
-          "end_ref": "16002008",
-          "end_ref_usfm": "NEH 2:8"
-        },
-        {
-          "start_ref": "16002018",
-          "start_ref_usfm": "NEH 2:18",
-          "end_ref": "16002018",
-          "end_ref_usfm": "NEH 2:18"
-        },
-        {
-          "start_ref": "16002020",
-          "start_ref_usfm": "NEH 2:20",
-          "end_ref": "16002020",
-          "end_ref_usfm": "NEH 2:20"
-        },
-        {
-          "start_ref": "16013001",
-          "start_ref_usfm": "NEH 13:1",
-          "end_ref": "16013031",
-          "end_ref_usfm": "NEH 13:31"
-        },
-        {
-          "start_ref": "16013023",
-          "start_ref_usfm": "NEH 13:23",
-          "end_ref": "16013029",
-          "end_ref_usfm": "NEH 13:29"
-        },
-        {
-          "start_ref": "16013015",
-          "start_ref_usfm": "NEH 13:15",
-          "end_ref": "16013022",
-          "end_ref_usfm": "NEH 13:22"
-        },
-        {
-          "start_ref": "16001001",
-          "start_ref_usfm": "NEH 1:1",
-          "end_ref": "16002008",
-          "end_ref_usfm": "NEH 2:8"
-        },
-        {
-          "start_ref": "16001004",
-          "start_ref_usfm": "NEH 1:4",
-          "end_ref": "16001011",
-          "end_ref_usfm": "NEH 1:11"
-        },
-        {
-          "start_ref": "16005001",
-          "start_ref_usfm": "NEH 5:1",
-          "end_ref": "16005019",
-          "end_ref_usfm": "NEH 5:19"
-        },
-        {
-          "start_ref": "16010032",
-          "start_ref_usfm": "NEH 10:32",
-          "end_ref": "16010039",
-          "end_ref_usfm": "NEH 10:39"
-        },
-        {
-          "start_ref": "16008009",
-          "start_ref_usfm": "NEH 8:9",
-          "end_ref": "16008010",
-          "end_ref_usfm": "NEH 8:10"
-        },
-        {
-          "start_ref": "16001001",
-          "start_ref_usfm": "NEH 1:1",
-          "end_ref": "16007073",
-          "end_ref_usfm": "NEH 7:73"
-        },
-        {
-          "start_ref": "16010001",
-          "start_ref_usfm": "NEH 10:1",
-          "end_ref": "16013031",
-          "end_ref_usfm": "NEH 13:31"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Nehemiah.2",
-          "type": "person",
-          "preferred_label": "Nehemiah",
-          "confidence": 0.6057,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Nehemiah",
-          "type": "person",
-          "preferred_label": "Nehemiah",
-          "confidence": 0.6011,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Nehemiah.3",
-          "type": "person",
-          "preferred_label": "Nehemiah",
-          "confidence": 0.6011,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500566",
-    "reference_id": 203509,
-    "version": "1.0.2",
-    "title": "Nero",
-    "media_type": "Text",
-    "index_reference": "nero",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Nero became the emperor of Rome in AD 54 at 17 years old after his mother poisoned her husband, the emperor Claudius. Nero loved receiving attention. He was known for his immoral behavior and wasteful spending. During the early years of his rule, he had two advisers who managed the empire well: </p><ul><li><p>Burrus was the Prefect of the Praetorian Guard (commander of the emperor’s elite soldiers). </p></li><li><p>Seneca was a famous philosopher who followed Stoicism, a philosophy that emphasizes reason, self-control, and virtue.</p></li></ul><p>By the time Paul wrote to the Romans around AD 57, urging them to &quot;<span>submit himself to the governing authorities</span>&quot; as being &quot;<span>appointed by God</span>&quot; (<a href=\"https://ref.ly/Rom13:1\">Romans 13:1</a>), Nero&apos;s immoral character was widely known.</p><p>Nero&apos;s worst actions occurred after he arranged his mother&apos;s murder in AD 59 (the same year Paul appealed to Caesar, <a href=\"https://ref.ly/Acts25:11\">Acts 25:11</a>). In AD 62, he banished and then executed his wife, married his lover, and forced Burrus and Seneca to retire. In AD 64, a fire destroyed a large part of Rome. At the time, Nero was away from the city, but many believed the rumor that he had started the fire himself. Nero blamed Christians, accusing them of the crime. People saw Christians as hostile to society and deserving of punishment, even if few believed they started the fire. They were &quot;convicted not so much of arson as of hatred of the human race&quot; (Tacitus, <em>Annals</em> 15.44). The persecution of Christians in Rome was severe; it is likely that Peter and Paul were executed in Rome during this time.</p><p>In AD 66, a Jewish revolt began in Caesarea. Nero sent his general, Vespasian, to stop the revolt. Nero showed little interest in governing and spent two years performing in Greece. He left the governing to a Roman prefect. When he returned to Rome, governors in France, Spain, and Africa opposed him. As a result, Nero killed himself in AD 68, saying, “What an artist dies with me!” He was the last and worst emperor from Julius Caesar&apos;s line. (See also the study notes on <span data-bnType=\"resourceReference\" data-resourceId=\"24415\" data-resourceType=\"TyndaleStudyNotes\">Revelation 13:3</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"24406\" data-resourceType=\"TyndaleStudyNotes\">11</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"24412\" data-resourceType=\"TyndaleStudyNotes\">18</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"24473\" data-resourceType=\"TyndaleStudyNotes\">17:8</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"24461\" data-resourceType=\"TyndaleStudyNotes\">10–11</span>.)</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Rom13:1-Rom13:7\">Romans 13:1–7</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44025011",
-          "start_ref_usfm": "ACT 25:11",
-          "end_ref": "44025011",
-          "end_ref_usfm": "ACT 25:11"
-        },
-        {
-          "start_ref": "45013001",
-          "start_ref_usfm": "ROM 13:1",
-          "end_ref": "45013001",
-          "end_ref_usfm": "ROM 13:1"
-        },
-        {
-          "start_ref": "45013001",
-          "start_ref_usfm": "ROM 13:1",
-          "end_ref": "45013007",
-          "end_ref_usfm": "ROM 13:7"
-        }
-      ],
-      "resource": [
-        {
-          "reference_id": 24406,
-          "content_id": 25238,
-          "resource_code": "TyndaleStudyNotes",
-          "label": "Revelation 13:11",
-          "language": "eng"
-        },
-        {
-          "reference_id": 24412,
-          "content_id": 25244,
-          "resource_code": "TyndaleStudyNotes",
-          "label": "Revelation 13:18",
-          "language": "eng"
-        },
-        {
-          "reference_id": 24415,
-          "content_id": 25247,
-          "resource_code": "TyndaleStudyNotes",
-          "label": "Revelation 13:3",
-          "language": "eng"
-        },
-        {
-          "reference_id": 24461,
-          "content_id": 25293,
-          "resource_code": "TyndaleStudyNotes",
-          "label": "Revelation 17:10-11",
-          "language": "eng"
-        },
-        {
-          "reference_id": 24473,
-          "content_id": 25305,
-          "resource_code": "TyndaleStudyNotes",
-          "label": "Revelation 17:8",
-          "language": "eng"
-        }
-      ],
-      "acai": [
-        {
-          "id": "keyterm:Authority.2",
-          "type": "keyterm",
-          "preferred_label": "Authority",
-          "confidence": 0.5475,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500548",
-    "reference_id": 203491,
-    "version": "1.0.2",
-    "title": "Nicodemus",
-    "media_type": "Text",
-    "index_reference": "nicodemus",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Nicodemus was a respected Jewish Pharisee (<a href=\"https://ref.ly/John3:1\">John 3:1</a>) and a prominent member of the high council. He seems to have become a follower of Jesus. The Gospel of John is the only place where he is mentioned.</p><p>Nicodemus was curious about Jesus&apos; authority and miracles. So, Nicodemus visited Jesus secretly at night to learn more about him. Jesus told Nicodemus he must be born again to enter the kingdom of God (<a href=\"https://ref.ly/John3:1-John3:8\">John 3:1–8</a>). The Gospel does not reveal Nicodemus&apos;s response.</p><p>Later, in contrast to his colleagues on the Jewish high council, he argued strongly that Jesus deserved a fair trial (<a href=\"https://ref.ly/John7:50-John7:51\">John 7:50–51</a>). After Jesus died on the cross, he purchased seventy-five pounds of expensive perfumed ointment for the burial. He took it to the tomb and helped Joseph of Arimathea bury Jesus (<a href=\"https://ref.ly/John19:39-John19:42\">John 19:39–42</a>). Thus, Nicodemus seems to be a Pharisee who came to believe in Jesus and was willing to show his commitment publicly after Jesus&apos; death.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/John3:1-John3:9\">John 3:1–9</a>; <a href=\"https://ref.ly/John7:50\">7:50</a>; <a href=\"https://ref.ly/John19:39-John19:42\">19:39–42</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "43003001",
-          "start_ref_usfm": "JHN 3:1",
-          "end_ref": "43003001",
-          "end_ref_usfm": "JHN 3:1"
-        },
-        {
-          "start_ref": "43007050",
-          "start_ref_usfm": "JHN 7:50",
-          "end_ref": "43007050",
-          "end_ref_usfm": "JHN 7:50"
-        },
-        {
-          "start_ref": "43019039",
-          "start_ref_usfm": "JHN 19:39",
-          "end_ref": "43019042",
-          "end_ref_usfm": "JHN 19:42"
-        },
-        {
-          "start_ref": "43003001",
-          "start_ref_usfm": "JHN 3:1",
-          "end_ref": "43003008",
-          "end_ref_usfm": "JHN 3:8"
-        },
-        {
-          "start_ref": "43007050",
-          "start_ref_usfm": "JHN 7:50",
-          "end_ref": "43007051",
-          "end_ref_usfm": "JHN 7:51"
-        },
-        {
-          "start_ref": "43003001",
-          "start_ref_usfm": "JHN 3:1",
-          "end_ref": "43003009",
-          "end_ref_usfm": "JHN 3:9"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Nicodemus",
-          "type": "person",
-          "preferred_label": "Nicodemus",
-          "confidence": 0.7333,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500451",
-    "reference_id": 203394,
-    "version": "1.0.2",
-    "title": "Noah",
-    "media_type": "Text",
-    "index_reference": "noah",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Noah was the son of Lamech and a descendant of Seth (<a href=\"https://ref.ly/Gen5:3-Gen5:29\">Genesis 5:3–29</a>). Lamech might have hoped that Noah, whose name means &quot;rest&quot; or &quot;relief,&quot; would ease the curse of hard work on the land. Instead, God used Noah to help rid the world of evil.</p><p>God planned to destroy creation because of widespread human evil (<a href=\"https://ref.ly/Gen6:1-Gen6:7\">Genesis 6:1–7</a>; see <a href=\"https://ref.ly/Matt24:37-Matt24:39\">Matthew 24:37–39</a>; <a href=\"https://ref.ly/Luke17:26-Luke17:27\">Luke 17:26–27</a>), but he chose to save Noah (<a href=\"https://ref.ly/Gen6:8\">Genesis 6:8</a>). God gave Noah, who was righteous and blameless (<a href=\"https://ref.ly/Gen6:9\">Genesis 6:9</a>), detailed instructions to build the ark. Only Noah&apos;s family of eight and every kind of creature would be saved (<a href=\"https://ref.ly/Gen6:14-Gen8:19\">Genesis 6:14–8:19</a>). After the flood, Noah and his family left the ark. Noah pleased God by building an altar and offering sacrifices. God promised never to flood the entire earth again or disrupt the seasons, despite human sin (<a href=\"https://ref.ly/Gen8:20-Gen9:17\">Genesis 8:20–9:17</a>).</p><p>Noah&apos;s sons were Shem, Ham, and Japheth. All the nations of the earth came from them (<a href=\"https://ref.ly/Gen9:18-Gen9:19\">Genesis 9:18–19</a>). When Noah got drunk from wine he made, his sons and their descendants were either cursed or blessed based on their actions towards him (<a href=\"https://ref.ly/Gen9:20-Gen9:27\">Genesis 9:20–27</a>). Noah lived for 950 years, including 350 years after the flood (<a href=\"https://ref.ly/Gen9:28-Gen9:29\">Genesis 9:28–29</a>). He is as an example of righteousness, obedience, courage, and faith (see <a href=\"https://ref.ly/Ezek14:12-Ezek14:20\">Ezekiel 14:12–20</a>; <a href=\"https://ref.ly/Heb11:7\">Hebrews 11:7</a>; <a href=\"https://ref.ly/2Pet2:5\">2 Peter 2:5</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen5:28-Gen10:1\">Genesis 5:28–10:1</a>; <a href=\"https://ref.ly/1Chr1:4\">1 Chronicles 1:4</a>; <a href=\"https://ref.ly/Isa54:9\">Isaiah 54:9</a>; <a href=\"https://ref.ly/Ezek14:12-Ezek14:20\">Ezekiel 14:12–20</a>; <a href=\"https://ref.ly/Matt24:37-Matt24:38\">Matthew 24:37–38</a>; <a href=\"https://ref.ly/Luke3:36\">Luke 3:36</a>; <a href=\"https://ref.ly/Luke17:26-Luke17:27\">Luke 17:26–27</a>; <a href=\"https://ref.ly/Heb11:7\">Hebrews 11:7</a>; <a href=\"https://ref.ly/1Pet3:20-1Pet3:21\">1 Peter 3:20–21</a>; <a href=\"https://ref.ly/2Pet2:5\">2 Peter 2:5</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01006008",
-          "start_ref_usfm": "GEN 6:8",
-          "end_ref": "01006008",
-          "end_ref_usfm": "GEN 6:8"
-        },
-        {
-          "start_ref": "01006009",
-          "start_ref_usfm": "GEN 6:9",
-          "end_ref": "01006009",
-          "end_ref_usfm": "GEN 6:9"
-        },
-        {
-          "start_ref": "13001004",
-          "start_ref_usfm": "1CH 1:4",
-          "end_ref": "13001004",
-          "end_ref_usfm": "1CH 1:4"
-        },
-        {
-          "start_ref": "23054009",
-          "start_ref_usfm": "ISA 54:9",
-          "end_ref": "23054009",
-          "end_ref_usfm": "ISA 54:9"
-        },
-        {
-          "start_ref": "42003036",
-          "start_ref_usfm": "LUK 3:36",
-          "end_ref": "42003036",
-          "end_ref_usfm": "LUK 3:36"
-        },
-        {
-          "start_ref": "58011007",
-          "start_ref_usfm": "HEB 11:7",
-          "end_ref": "58011007",
-          "end_ref_usfm": "HEB 11:7"
-        },
-        {
-          "start_ref": "61002005",
-          "start_ref_usfm": "2PE 2:5",
-          "end_ref": "61002005",
-          "end_ref_usfm": "2PE 2:5"
-        },
-        {
-          "start_ref": "01008020",
-          "start_ref_usfm": "GEN 8:20",
-          "end_ref": "01009017",
-          "end_ref_usfm": "GEN 9:17"
-        },
-        {
-          "start_ref": "40024037",
-          "start_ref_usfm": "MAT 24:37",
-          "end_ref": "40024039",
-          "end_ref_usfm": "MAT 24:39"
-        },
-        {
-          "start_ref": "42017026",
-          "start_ref_usfm": "LUK 17:26",
-          "end_ref": "42017027",
-          "end_ref_usfm": "LUK 17:27"
-        },
-        {
-          "start_ref": "01006014",
-          "start_ref_usfm": "GEN 6:14",
-          "end_ref": "01008019",
-          "end_ref_usfm": "GEN 8:19"
-        },
-        {
-          "start_ref": "01009020",
-          "start_ref_usfm": "GEN 9:20",
-          "end_ref": "01009027",
-          "end_ref_usfm": "GEN 9:27"
-        },
-        {
-          "start_ref": "40024037",
-          "start_ref_usfm": "MAT 24:37",
-          "end_ref": "40024038",
-          "end_ref_usfm": "MAT 24:38"
-        },
-        {
-          "start_ref": "26014012",
-          "start_ref_usfm": "EZK 14:12",
-          "end_ref": "26014020",
-          "end_ref_usfm": "EZK 14:20"
-        },
-        {
-          "start_ref": "01006001",
-          "start_ref_usfm": "GEN 6:1",
-          "end_ref": "01006007",
-          "end_ref_usfm": "GEN 6:7"
-        },
-        {
-          "start_ref": "01005003",
-          "start_ref_usfm": "GEN 5:3",
-          "end_ref": "01005029",
-          "end_ref_usfm": "GEN 5:29"
-        },
-        {
-          "start_ref": "01009018",
-          "start_ref_usfm": "GEN 9:18",
-          "end_ref": "01009019",
-          "end_ref_usfm": "GEN 9:19"
-        },
-        {
-          "start_ref": "01009028",
-          "start_ref_usfm": "GEN 9:28",
-          "end_ref": "01009029",
-          "end_ref_usfm": "GEN 9:29"
-        },
-        {
-          "start_ref": "01005028",
-          "start_ref_usfm": "GEN 5:28",
-          "end_ref": "01010001",
-          "end_ref_usfm": "GEN 10:1"
-        },
-        {
-          "start_ref": "60003020",
-          "start_ref_usfm": "1PE 3:20",
-          "end_ref": "60003021",
-          "end_ref_usfm": "1PE 3:21"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Noah",
-          "type": "person",
-          "preferred_label": "Noah",
-          "confidence": 0.7235,
-          "match_method": "scored"
-        }
-      ]
-    }
-  }
+{
+"content_id": "500527",
+"reference_id": 203470,
+"version": "1.0.2",
+"title": "Nebuchadnezzar II",
+"media_type": "Text",
+"index_reference": "nebuchadnezzar ii",
+"language": "eng",
+"review_level": "None",
+"content": "<p>King Nebuchadnezzar II ruled Babylon from 605 to 562 BC. He strengthened and expanded the empire of his father, Nabopolassar, who ruled from 626 to 605 BC. Besides the Bible, many ancient Babylonian documents describe Nebuchadnezzar&apos;s achievements.</p><p>In 626 BC, Babylon, like Judah, was under Assyrian control. That year, Nabopolassar started a revolt that changed the world. In 612 BC, the Babylonians captured Nineveh, the capital of Assyria, and defeated the Assyrians again at Haran in 609 BC. By this battle, Nabopolassar’s son, Nebuchadnezzar, led the army. In 605 BC, Nebuchadnezzar defeated the remaining Assyrian army at Carchemish. This victory also forced the Egyptians back within their borders. In the same year, Nabopolassar died, and his son became king.</p><p>After winning at Carchemish in 605 BC, Nebuchadnezzar conquered Syria and nearby regions, including Judah. That year, he besieged Jerusalem for the first time (<a href=\"https://ref.ly/2Kgs24:1\">2 Kings 24:1</a>; <a href=\"https://ref.ly/Dan1:1-Dan1:2\">1:1–2</a>). He took some temple vessels and several young leaders from Judah, including Daniel and his three friends. Nebuchadnezzar captured Jerusalem again in 597 BC (<a href=\"https://ref.ly/2Kgs24:10-2Kgs24:17\">2 Kings 24:10–17</a>). He besieged Jerusalem in 588 BC and destroyed the city and temple in 586 BC, exiling most of the remaining people (<a href=\"https://ref.ly/2Kgs25:1-2Kgs25:21\">2 Kings 25:1–21</a>).</p><p>A detailed and interesting description of Nebuchadnezzar is found in the book of Daniel. He brought Daniel and his friends to Babylon to educate them in Babylonian ways. However, God used Daniel to teach Nebuchadnezzar about God. After being humbled for his great pride (<a href=\"https://ref.ly/Dan4:28-Dan4:33\">Daniel 4:28–33</a>), Nebuchadnezzar acknowledged the Lord&apos;s sovereignty and power (<a href=\"https://ref.ly/Dan4:34-Dan4:37\">Daniel 4:34–37</a>). However, he probably never worshiped the true God exclusively.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/2Kgs24:1-2Kgs25:30\">2 Kings 24:1–25:30</a>; <a href=\"https://ref.ly/2Chr36:6-2Chr36:21\">2 Chronicles 36:6–21</a>; <a href=\"https://ref.ly/Jer21:1-Jer21:10\">Jeremiah 21:1–10</a>; <a href=\"https://ref.ly/Jer22:24-Jer22:27\">22:24–27</a>; <a href=\"https://ref.ly/Jer24:1\">24:1</a>; <a href=\"https://ref.ly/Jer25:1-Jer25:14\">25:1–14</a>; <a href=\"https://ref.ly/Jer27:4-Jer27:8\">27:4–8</a>; <a href=\"https://ref.ly/Jer28:14\">28:14</a>; <a href=\"https://ref.ly/Jer29:1-Jer29:23\">29:1–23</a>; <a href=\"https://ref.ly/Jer32:1-Jer32:5\">32:1–5</a>, <a href=\"https://ref.ly/Jer32:26-Jer32:31\">26–31</a>; <a href=\"https://ref.ly/Jer34:1-Jer34:3\">34:1–3</a>; <a href=\"https://ref.ly/Jer37:1\">37:1</a>; <a href=\"https://ref.ly/Jer39:1-Jer39:14\">39:1–14</a>; <a href=\"https://ref.ly/Jer43:10-Jer43:13\">43:10–13</a>; <a href=\"https://ref.ly/Jer46:2\">46:2</a>, <a href=\"https://ref.ly/Jer46:13-Jer46:26\">13–26</a>; <a href=\"https://ref.ly/Jer49:28-Jer49:33\">49:28–33</a>; <a href=\"https://ref.ly/Jer50:17\">50:17</a>; <a href=\"https://ref.ly/Jer51:34\">51:34</a>; <a href=\"https://ref.ly/Jer52:4-Jer52:16\">52:4–16</a>, <a href=\"https://ref.ly/Jer52:28-Jer52:30\">28–30</a>; <a href=\"https://ref.ly/Ezek26:7\">Ezekiel 26:7</a>; <a href=\"https://ref.ly/Ezek29:18-Ezek29:20\">29:18–20</a>; <a href=\"https://ref.ly/Ezek30:10-Ezek30:11\">30:10–11</a>; <a href=\"https://ref.ly/Dan1:1-Dan4:37\">Daniel 1:1–4:37</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "12024001",
+"start_ref_usfm": "2KI 24:1",
+"end_ref": "12024001",
+"end_ref_usfm": "2KI 24:1"
+},
+{
+"start_ref": "24024001",
+"start_ref_usfm": "JER 24:1",
+"end_ref": "24024001",
+"end_ref_usfm": "JER 24:1"
+},
+{
+"start_ref": "24028014",
+"start_ref_usfm": "JER 28:14",
+"end_ref": "24028014",
+"end_ref_usfm": "JER 28:14"
+},
+{
+"start_ref": "24037001",
+"start_ref_usfm": "JER 37:1",
+"end_ref": "24037001",
+"end_ref_usfm": "JER 37:1"
+},
+{
+"start_ref": "24046002",
+"start_ref_usfm": "JER 46:2",
+"end_ref": "24046002",
+"end_ref_usfm": "JER 46:2"
+},
+{
+"start_ref": "24050017",
+"start_ref_usfm": "JER 50:17",
+"end_ref": "24050017",
+"end_ref_usfm": "JER 50:17"
+},
+{
+"start_ref": "24051034",
+"start_ref_usfm": "JER 51:34",
+"end_ref": "24051034",
+"end_ref_usfm": "JER 51:34"
+},
+{
+"start_ref": "26026007",
+"start_ref_usfm": "EZK 26:7",
+"end_ref": "26026007",
+"end_ref_usfm": "EZK 26:7"
+},
+{
+"start_ref": "24049028",
+"start_ref_usfm": "JER 49:28",
+"end_ref": "24049033",
+"end_ref_usfm": "JER 49:33"
+},
+{
+"start_ref": "12024010",
+"start_ref_usfm": "2KI 24:10",
+"end_ref": "12024017",
+"end_ref_usfm": "2KI 24:17"
+},
+{
+"start_ref": "24046013",
+"start_ref_usfm": "JER 46:13",
+"end_ref": "24046026",
+"end_ref_usfm": "JER 46:26"
+},
+{
+"start_ref": "12024001",
+"start_ref_usfm": "2KI 24:1",
+"end_ref": "12025030",
+"end_ref_usfm": "2KI 25:30"
+},
+{
+"start_ref": "27001001",
+"start_ref_usfm": "DAN 1:1",
+"end_ref": "27001002",
+"end_ref_usfm": "DAN 1:2"
+},
+{
+"start_ref": "27004028",
+"start_ref_usfm": "DAN 4:28",
+"end_ref": "27004033",
+"end_ref_usfm": "DAN 4:33"
+},
+{
+"start_ref": "26029018",
+"start_ref_usfm": "EZK 29:18",
+"end_ref": "26029020",
+"end_ref_usfm": "EZK 29:20"
+},
+{
+"start_ref": "27004034",
+"start_ref_usfm": "DAN 4:34",
+"end_ref": "27004037",
+"end_ref_usfm": "DAN 4:37"
+},
+{
+"start_ref": "24021001",
+"start_ref_usfm": "JER 21:1",
+"end_ref": "24021010",
+"end_ref_usfm": "JER 21:10"
+},
+{
+"start_ref": "24025001",
+"start_ref_usfm": "JER 25:1",
+"end_ref": "24025014",
+"end_ref_usfm": "JER 25:14"
+},
+{
+"start_ref": "24029001",
+"start_ref_usfm": "JER 29:1",
+"end_ref": "24029023",
+"end_ref_usfm": "JER 29:23"
+},
+{
+"start_ref": "24052028",
+"start_ref_usfm": "JER 52:28",
+"end_ref": "24052030",
+"end_ref_usfm": "JER 52:30"
+},
+{
+"start_ref": "12025001",
+"start_ref_usfm": "2KI 25:1",
+"end_ref": "12025021",
+"end_ref_usfm": "2KI 25:21"
+},
+{
+"start_ref": "27001001",
+"start_ref_usfm": "DAN 1:1",
+"end_ref": "27004037",
+"end_ref_usfm": "DAN 4:37"
+},
+{
+"start_ref": "14036006",
+"start_ref_usfm": "2CH 36:6",
+"end_ref": "14036021",
+"end_ref_usfm": "2CH 36:21"
+},
+{
+"start_ref": "24022024",
+"start_ref_usfm": "JER 22:24",
+"end_ref": "24022027",
+"end_ref_usfm": "JER 22:27"
+},
+{
+"start_ref": "24027004",
+"start_ref_usfm": "JER 27:4",
+"end_ref": "24027008",
+"end_ref_usfm": "JER 27:8"
+},
+{
+"start_ref": "24032001",
+"start_ref_usfm": "JER 32:1",
+"end_ref": "24032005",
+"end_ref_usfm": "JER 32:5"
+},
+{
+"start_ref": "24032026",
+"start_ref_usfm": "JER 32:26",
+"end_ref": "24032031",
+"end_ref_usfm": "JER 32:31"
+},
+{
+"start_ref": "24034001",
+"start_ref_usfm": "JER 34:1",
+"end_ref": "24034003",
+"end_ref_usfm": "JER 34:3"
+},
+{
+"start_ref": "24039001",
+"start_ref_usfm": "JER 39:1",
+"end_ref": "24039014",
+"end_ref_usfm": "JER 39:14"
+},
+{
+"start_ref": "24043010",
+"start_ref_usfm": "JER 43:10",
+"end_ref": "24043013",
+"end_ref_usfm": "JER 43:13"
+},
+{
+"start_ref": "24052004",
+"start_ref_usfm": "JER 52:4",
+"end_ref": "24052016",
+"end_ref_usfm": "JER 52:16"
+},
+{
+"start_ref": "26030010",
+"start_ref_usfm": "EZK 30:10",
+"end_ref": "26030011",
+"end_ref_usfm": "EZK 30:11"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"preferred_label": "Nebuchadnezzar",
+"confidence": 0.64,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500518",
+"reference_id": 203461,
+"version": "1.0.2",
+"title": "Nehemiah",
+"media_type": "Text",
+"index_reference": "nehemiah",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Nehemiah was a strong leader of God&apos;s people in Judea after the exile to Babylon. He encouraged and strengthened God&apos;s people during difficult times.</p><p>Before Nehemiah went back to Judea, he served as the cup-bearer to the Persian king Artaxerxes I, who ruled from 465 to 424 BC. The cup-bearer brought wine to the king, tasting it first to ensure it was not poisoned. He was a trusted adviser. Nehemiah heard about Jerusalem&apos;s poor condition and felt compassion. He asked the king for permission to return to Judea to help his people. The king agreed and appointed him governor of Judea for twelve years to assist his fellow Jews and rebuild Jerusalem&apos;s walls (<a href=\"https://ref.ly/Neh1:1-Neh2:8\">Nehemiah 1:1–2:8</a>).</p><p>Nehemiah had the support of the Persian king, but he faced opposition from the local people. These people, of mixed heritage, were the ancestors of the New Testament Samaritans. Nehemiah showed great courage and skill as he helped the people of Judea rebuild the walls that protected Jerusalem.</p><p>Nehemiah had strong faith, shown by his prayers and his trust in divine guidance and help (<a href=\"https://ref.ly/Neh1:4-Neh1:11\">Nehemiah 1:4–11</a>; <a href=\"https://ref.ly/Neh2:4\">2:4</a>, <a href=\"https://ref.ly/Neh2:8\">8</a>, <a href=\"https://ref.ly/Neh2:18\">18</a>, <a href=\"https://ref.ly/Neh2:20\">20</a>). He also supported economic justice. He criticized some wealthy Judeans for taking advantage of a food shortage by charging high interest to their poorer relatives. He set an example of better behavior (<a href=\"https://ref.ly/Neh5:1-Neh5:19\">Nehemiah 5</a>).</p><p>Nehemiah cared deeply about the people&apos;s faithfulness. He personally confronted men who had married non-Jewish women (<a href=\"https://ref.ly/Neh13:23-Neh13:29\">Nehemiah 13:23–29</a>). He was committed to maintaining temple worship. He led the Jewish community to promise support for temple workers and to give offerings (<a href=\"https://ref.ly/Neh10:32-Neh10:39\">Nehemiah 10:32–39</a>). He also improved how they observed the Sabbath (<a href=\"https://ref.ly/Neh13:15-Neh13:22\">Nehemiah 13:15–22</a>).</p><p>Even though problems remained at the end of his time in Jerusalem (see <a href=\"https://ref.ly/Neh13:1-Neh13:31\">Nehemiah 13</a>), Nehemiah was a strong leader. He helped the Jewish settlers regain their national and religious identity during a time of political and economic weakness.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Neh1:1-Neh7:73\">Nehemiah 1:1–7:73</a>; <a href=\"https://ref.ly/Neh8:9-Neh8:10\">8:9–10</a>; <a href=\"https://ref.ly/Neh10:1-Neh13:31\">10:1–13:31</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "16002004",
+"start_ref_usfm": "NEH 2:4",
+"end_ref": "16002004",
+"end_ref_usfm": "NEH 2:4"
+},
+{
+"start_ref": "16002008",
+"start_ref_usfm": "NEH 2:8",
+"end_ref": "16002008",
+"end_ref_usfm": "NEH 2:8"
+},
+{
+"start_ref": "16002018",
+"start_ref_usfm": "NEH 2:18",
+"end_ref": "16002018",
+"end_ref_usfm": "NEH 2:18"
+},
+{
+"start_ref": "16002020",
+"start_ref_usfm": "NEH 2:20",
+"end_ref": "16002020",
+"end_ref_usfm": "NEH 2:20"
+},
+{
+"start_ref": "16013001",
+"start_ref_usfm": "NEH 13:1",
+"end_ref": "16013031",
+"end_ref_usfm": "NEH 13:31"
+},
+{
+"start_ref": "16013023",
+"start_ref_usfm": "NEH 13:23",
+"end_ref": "16013029",
+"end_ref_usfm": "NEH 13:29"
+},
+{
+"start_ref": "16013015",
+"start_ref_usfm": "NEH 13:15",
+"end_ref": "16013022",
+"end_ref_usfm": "NEH 13:22"
+},
+{
+"start_ref": "16001001",
+"start_ref_usfm": "NEH 1:1",
+"end_ref": "16002008",
+"end_ref_usfm": "NEH 2:8"
+},
+{
+"start_ref": "16001004",
+"start_ref_usfm": "NEH 1:4",
+"end_ref": "16001011",
+"end_ref_usfm": "NEH 1:11"
+},
+{
+"start_ref": "16005001",
+"start_ref_usfm": "NEH 5:1",
+"end_ref": "16005019",
+"end_ref_usfm": "NEH 5:19"
+},
+{
+"start_ref": "16010032",
+"start_ref_usfm": "NEH 10:32",
+"end_ref": "16010039",
+"end_ref_usfm": "NEH 10:39"
+},
+{
+"start_ref": "16008009",
+"start_ref_usfm": "NEH 8:9",
+"end_ref": "16008010",
+"end_ref_usfm": "NEH 8:10"
+},
+{
+"start_ref": "16001001",
+"start_ref_usfm": "NEH 1:1",
+"end_ref": "16007073",
+"end_ref_usfm": "NEH 7:73"
+},
+{
+"start_ref": "16010001",
+"start_ref_usfm": "NEH 10:1",
+"end_ref": "16013031",
+"end_ref_usfm": "NEH 13:31"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Nehemiah.2",
+"type": "person",
+"preferred_label": "Nehemiah",
+"confidence": 0.6057,
+"match_method": "scored"
+},
+{
+"id": "person:Nehemiah.3",
+"type": "person",
+"preferred_label": "Nehemiah",
+"confidence": 0.6011,
+"match_method": "scored"
+},
+{
+"id": "person:Nehemiah",
+"type": "person",
+"preferred_label": "Nehemiah",
+"confidence": 0.6011,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500566",
+"reference_id": 203509,
+"version": "1.0.2",
+"title": "Nero",
+"media_type": "Text",
+"index_reference": "nero",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Nero became the emperor of Rome in AD 54 at 17 years old after his mother poisoned her husband, the emperor Claudius. Nero loved receiving attention. He was known for his immoral behavior and wasteful spending. During the early years of his rule, he had two advisers who managed the empire well: </p><ul><li><p>Burrus was the Prefect of the Praetorian Guard (commander of the emperor’s elite soldiers). </p></li><li><p>Seneca was a famous philosopher who followed Stoicism, a philosophy that emphasizes reason, self-control, and virtue.</p></li></ul><p>By the time Paul wrote to the Romans around AD 57, urging them to &quot;<span>submit himself to the governing authorities</span>&quot; as being &quot;<span>appointed by God</span>&quot; (<a href=\"https://ref.ly/Rom13:1\">Romans 13:1</a>), Nero&apos;s immoral character was widely known.</p><p>Nero&apos;s worst actions occurred after he arranged his mother&apos;s murder in AD 59 (the same year Paul appealed to Caesar, <a href=\"https://ref.ly/Acts25:11\">Acts 25:11</a>). In AD 62, he banished and then executed his wife, married his lover, and forced Burrus and Seneca to retire. In AD 64, a fire destroyed a large part of Rome. At the time, Nero was away from the city, but many believed the rumor that he had started the fire himself. Nero blamed Christians, accusing them of the crime. People saw Christians as hostile to society and deserving of punishment, even if few believed they started the fire. They were &quot;convicted not so much of arson as of hatred of the human race&quot; (Tacitus, <em>Annals</em> 15.44). The persecution of Christians in Rome was severe; it is likely that Peter and Paul were executed in Rome during this time.</p><p>In AD 66, a Jewish revolt began in Caesarea. Nero sent his general, Vespasian, to stop the revolt. Nero showed little interest in governing and spent two years performing in Greece. He left the governing to a Roman prefect. When he returned to Rome, governors in France, Spain, and Africa opposed him. As a result, Nero killed himself in AD 68, saying, “What an artist dies with me!” He was the last and worst emperor from Julius Caesar&apos;s line. (See also the study notes on <span data-bnType=\"resourceReference\" data-resourceId=\"24415\" data-resourceType=\"TyndaleStudyNotes\">Revelation 13:3</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"24406\" data-resourceType=\"TyndaleStudyNotes\">11</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"24412\" data-resourceType=\"TyndaleStudyNotes\">18</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"24473\" data-resourceType=\"TyndaleStudyNotes\">17:8</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"24461\" data-resourceType=\"TyndaleStudyNotes\">10–11</span>.)</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Rom13:1-Rom13:7\">Romans 13:1–7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44025011",
+"start_ref_usfm": "ACT 25:11",
+"end_ref": "44025011",
+"end_ref_usfm": "ACT 25:11"
+},
+{
+"start_ref": "45013001",
+"start_ref_usfm": "ROM 13:1",
+"end_ref": "45013001",
+"end_ref_usfm": "ROM 13:1"
+},
+{
+"start_ref": "45013001",
+"start_ref_usfm": "ROM 13:1",
+"end_ref": "45013007",
+"end_ref_usfm": "ROM 13:7"
+}
+],
+"resource": [
+{
+"reference_id": 24406,
+"content_id": 25238,
+"resource_code": "TyndaleStudyNotes",
+"label": "Revelation 13:11",
+"language": "eng"
+},
+{
+"reference_id": 24412,
+"content_id": 25244,
+"resource_code": "TyndaleStudyNotes",
+"label": "Revelation 13:18",
+"language": "eng"
+},
+{
+"reference_id": 24415,
+"content_id": 25247,
+"resource_code": "TyndaleStudyNotes",
+"label": "Revelation 13:3",
+"language": "eng"
+},
+{
+"reference_id": 24461,
+"content_id": 25293,
+"resource_code": "TyndaleStudyNotes",
+"label": "Revelation 17:10-11",
+"language": "eng"
+},
+{
+"reference_id": 24473,
+"content_id": 25305,
+"resource_code": "TyndaleStudyNotes",
+"label": "Revelation 17:8",
+"language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Nero",
+"type": "person",
+"preferred_label": "Nero",
+"confidence": 1.0,
+"match_method": "embedding"
+}
+]
+}
+},
+{
+"content_id": "500548",
+"reference_id": 203491,
+"version": "1.0.2",
+"title": "Nicodemus",
+"media_type": "Text",
+"index_reference": "nicodemus",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Nicodemus was a respected Jewish Pharisee (<a href=\"https://ref.ly/John3:1\">John 3:1</a>) and a prominent member of the high council. He seems to have become a follower of Jesus. The Gospel of John is the only place where he is mentioned.</p><p>Nicodemus was curious about Jesus&apos; authority and miracles. So, Nicodemus visited Jesus secretly at night to learn more about him. Jesus told Nicodemus he must be born again to enter the kingdom of God (<a href=\"https://ref.ly/John3:1-John3:8\">John 3:1–8</a>). The Gospel does not reveal Nicodemus&apos;s response.</p><p>Later, in contrast to his colleagues on the Jewish high council, he argued strongly that Jesus deserved a fair trial (<a href=\"https://ref.ly/John7:50-John7:51\">John 7:50–51</a>). After Jesus died on the cross, he purchased seventy-five pounds of expensive perfumed ointment for the burial. He took it to the tomb and helped Joseph of Arimathea bury Jesus (<a href=\"https://ref.ly/John19:39-John19:42\">John 19:39–42</a>). Thus, Nicodemus seems to be a Pharisee who came to believe in Jesus and was willing to show his commitment publicly after Jesus&apos; death.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/John3:1-John3:9\">John 3:1–9</a>; <a href=\"https://ref.ly/John7:50\">7:50</a>; <a href=\"https://ref.ly/John19:39-John19:42\">19:39–42</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "43003001",
+"start_ref_usfm": "JHN 3:1",
+"end_ref": "43003001",
+"end_ref_usfm": "JHN 3:1"
+},
+{
+"start_ref": "43007050",
+"start_ref_usfm": "JHN 7:50",
+"end_ref": "43007050",
+"end_ref_usfm": "JHN 7:50"
+},
+{
+"start_ref": "43019039",
+"start_ref_usfm": "JHN 19:39",
+"end_ref": "43019042",
+"end_ref_usfm": "JHN 19:42"
+},
+{
+"start_ref": "43003001",
+"start_ref_usfm": "JHN 3:1",
+"end_ref": "43003008",
+"end_ref_usfm": "JHN 3:8"
+},
+{
+"start_ref": "43007050",
+"start_ref_usfm": "JHN 7:50",
+"end_ref": "43007051",
+"end_ref_usfm": "JHN 7:51"
+},
+{
+"start_ref": "43003001",
+"start_ref_usfm": "JHN 3:1",
+"end_ref": "43003009",
+"end_ref_usfm": "JHN 3:9"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Nicodemus",
+"type": "person",
+"preferred_label": "Nicodemus",
+"confidence": 0.7333,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500451",
+"reference_id": 203394,
+"version": "1.0.2",
+"title": "Noah",
+"media_type": "Text",
+"index_reference": "noah",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Noah was the son of Lamech and a descendant of Seth (<a href=\"https://ref.ly/Gen5:3-Gen5:29\">Genesis 5:3–29</a>). Lamech might have hoped that Noah, whose name means &quot;rest&quot; or &quot;relief,&quot; would ease the curse of hard work on the land. Instead, God used Noah to help rid the world of evil.</p><p>God planned to destroy creation because of widespread human evil (<a href=\"https://ref.ly/Gen6:1-Gen6:7\">Genesis 6:1–7</a>; see <a href=\"https://ref.ly/Matt24:37-Matt24:39\">Matthew 24:37–39</a>; <a href=\"https://ref.ly/Luke17:26-Luke17:27\">Luke 17:26–27</a>), but he chose to save Noah (<a href=\"https://ref.ly/Gen6:8\">Genesis 6:8</a>). God gave Noah, who was righteous and blameless (<a href=\"https://ref.ly/Gen6:9\">Genesis 6:9</a>), detailed instructions to build the ark. Only Noah&apos;s family of eight and every kind of creature would be saved (<a href=\"https://ref.ly/Gen6:14-Gen8:19\">Genesis 6:14–8:19</a>). After the flood, Noah and his family left the ark. Noah pleased God by building an altar and offering sacrifices. God promised never to flood the entire earth again or disrupt the seasons, despite human sin (<a href=\"https://ref.ly/Gen8:20-Gen9:17\">Genesis 8:20–9:17</a>).</p><p>Noah&apos;s sons were Shem, Ham, and Japheth. All the nations of the earth came from them (<a href=\"https://ref.ly/Gen9:18-Gen9:19\">Genesis 9:18–19</a>). When Noah got drunk from wine he made, his sons and their descendants were either cursed or blessed based on their actions towards him (<a href=\"https://ref.ly/Gen9:20-Gen9:27\">Genesis 9:20–27</a>). Noah lived for 950 years, including 350 years after the flood (<a href=\"https://ref.ly/Gen9:28-Gen9:29\">Genesis 9:28–29</a>). He is as an example of righteousness, obedience, courage, and faith (see <a href=\"https://ref.ly/Ezek14:12-Ezek14:20\">Ezekiel 14:12–20</a>; <a href=\"https://ref.ly/Heb11:7\">Hebrews 11:7</a>; <a href=\"https://ref.ly/2Pet2:5\">2 Peter 2:5</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen5:28-Gen10:1\">Genesis 5:28–10:1</a>; <a href=\"https://ref.ly/1Chr1:4\">1 Chronicles 1:4</a>; <a href=\"https://ref.ly/Isa54:9\">Isaiah 54:9</a>; <a href=\"https://ref.ly/Ezek14:12-Ezek14:20\">Ezekiel 14:12–20</a>; <a href=\"https://ref.ly/Matt24:37-Matt24:38\">Matthew 24:37–38</a>; <a href=\"https://ref.ly/Luke3:36\">Luke 3:36</a>; <a href=\"https://ref.ly/Luke17:26-Luke17:27\">Luke 17:26–27</a>; <a href=\"https://ref.ly/Heb11:7\">Hebrews 11:7</a>; <a href=\"https://ref.ly/1Pet3:20-1Pet3:21\">1 Peter 3:20–21</a>; <a href=\"https://ref.ly/2Pet2:5\">2 Peter 2:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01006008",
+"start_ref_usfm": "GEN 6:8",
+"end_ref": "01006008",
+"end_ref_usfm": "GEN 6:8"
+},
+{
+"start_ref": "01006009",
+"start_ref_usfm": "GEN 6:9",
+"end_ref": "01006009",
+"end_ref_usfm": "GEN 6:9"
+},
+{
+"start_ref": "13001004",
+"start_ref_usfm": "1CH 1:4",
+"end_ref": "13001004",
+"end_ref_usfm": "1CH 1:4"
+},
+{
+"start_ref": "23054009",
+"start_ref_usfm": "ISA 54:9",
+"end_ref": "23054009",
+"end_ref_usfm": "ISA 54:9"
+},
+{
+"start_ref": "42003036",
+"start_ref_usfm": "LUK 3:36",
+"end_ref": "42003036",
+"end_ref_usfm": "LUK 3:36"
+},
+{
+"start_ref": "58011007",
+"start_ref_usfm": "HEB 11:7",
+"end_ref": "58011007",
+"end_ref_usfm": "HEB 11:7"
+},
+{
+"start_ref": "61002005",
+"start_ref_usfm": "2PE 2:5",
+"end_ref": "61002005",
+"end_ref_usfm": "2PE 2:5"
+},
+{
+"start_ref": "01008020",
+"start_ref_usfm": "GEN 8:20",
+"end_ref": "01009017",
+"end_ref_usfm": "GEN 9:17"
+},
+{
+"start_ref": "40024037",
+"start_ref_usfm": "MAT 24:37",
+"end_ref": "40024039",
+"end_ref_usfm": "MAT 24:39"
+},
+{
+"start_ref": "42017026",
+"start_ref_usfm": "LUK 17:26",
+"end_ref": "42017027",
+"end_ref_usfm": "LUK 17:27"
+},
+{
+"start_ref": "01006014",
+"start_ref_usfm": "GEN 6:14",
+"end_ref": "01008019",
+"end_ref_usfm": "GEN 8:19"
+},
+{
+"start_ref": "01009020",
+"start_ref_usfm": "GEN 9:20",
+"end_ref": "01009027",
+"end_ref_usfm": "GEN 9:27"
+},
+{
+"start_ref": "40024037",
+"start_ref_usfm": "MAT 24:37",
+"end_ref": "40024038",
+"end_ref_usfm": "MAT 24:38"
+},
+{
+"start_ref": "26014012",
+"start_ref_usfm": "EZK 14:12",
+"end_ref": "26014020",
+"end_ref_usfm": "EZK 14:20"
+},
+{
+"start_ref": "01006001",
+"start_ref_usfm": "GEN 6:1",
+"end_ref": "01006007",
+"end_ref_usfm": "GEN 6:7"
+},
+{
+"start_ref": "01005003",
+"start_ref_usfm": "GEN 5:3",
+"end_ref": "01005029",
+"end_ref_usfm": "GEN 5:29"
+},
+{
+"start_ref": "01009018",
+"start_ref_usfm": "GEN 9:18",
+"end_ref": "01009019",
+"end_ref_usfm": "GEN 9:19"
+},
+{
+"start_ref": "01009028",
+"start_ref_usfm": "GEN 9:28",
+"end_ref": "01009029",
+"end_ref_usfm": "GEN 9:29"
+},
+{
+"start_ref": "01005028",
+"start_ref_usfm": "GEN 5:28",
+"end_ref": "01010001",
+"end_ref_usfm": "GEN 10:1"
+},
+{
+"start_ref": "60003020",
+"start_ref_usfm": "1PE 3:20",
+"end_ref": "60003021",
+"end_ref_usfm": "1PE 3:21"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Noah",
+"type": "person",
+"preferred_label": "Noah",
+"confidence": 0.7235,
+"match_method": "scored"
+}
+]
+}
+}
 ]

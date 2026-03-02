@@ -1,1452 +1,1431 @@
 [
-  {
-    "content_id": "500467",
-    "reference_id": 203410,
-    "version": "1.0.2",
-    "title": "Egypt",
-    "media_type": "Text",
-    "index_reference": "egypt",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Egypt was a great and ancient civilization when Joseph rose to power and Jacob’s family traveled there for food (<a href=\"https://ref.ly/Gen39:1-Gen41:57\">Genesis 39–41</a>; <a href=\"https://ref.ly/Gen42:1-Gen46:34\">42–46</a>; compare <a href=\"https://ref.ly/Gen12:10-Gen12:20\">12:10–20</a>). Egypt was well protected from enemies because of where it was located. The Mediterranean Sea to the north had no harbors. The rough Sinai Peninsula lay to the east, and a huge desert stretched to the west. This natural protection made Egypt a safe place for people from other lands during times when there was no rain.</p><p>People call Egypt &quot;the gift of the Nile&quot; because no other river has been so essential to a nation&apos;s history. Egyptians referred to it as &quot;the River.&quot; The Nile is more than the longest river in the world. Without its water, civilization in Egypt would not have existed. The Nile is Egypt&apos;s lifeline, and Egyptians worshiped it for the life and fertility it provided. The river&apos;s yearly floods brought new, fertile soil for crops. The river provided fish and birds for food, along with clean water for drinking and washing. It also served as the main route for travel, trade, and communication. During droughts, when nearby nations faced famine, the Nile gave Egypt a steady supply of fresh water. The Nile shaped every part of life in Egypt and made Egypt what it was.</p><p>Egypt played an important role in biblical events. Abraham lived there during a famine (<a href=\"https://ref.ly/Gen12:10-Gen12:20\">Genesis 12:10–20</a>). Joseph was sold into slavery in Egypt and became a leader, similar to a prime minister (<a href=\"https://ref.ly/Gen37:1-Gen41:57\">Genesis 37–41</a>). Joseph’s family later moved to the eastern delta region of Goshen during another famine (<a href=\"https://ref.ly/Gen42:1-Gen50:26\">Genesis 42–50</a>). Their descendants were eventually enslaved (<a href=\"https://ref.ly/Exod1:1-Exod1:22\">Exodus 1</a>). God&apos;s rescue of his people during the exodus from Egypt became a key story for the Jewish people (<a href=\"https://ref.ly/Exod2:1-Exod15:27\">Exodus 2–15</a>).</p><p>Later, when Israel was ruled by kings, Egypt often joined the fight for international power (for example, <a href=\"https://ref.ly/1Kgs14:25-1Kgs14:28\">1 Kings 14:25–28</a>). After the Babylonians destroyed Jerusalem in 586 BC, some Jews moved to Egypt to escape Babylon’s control (<a href=\"https://ref.ly/Jer43:6-Jer43:7\">Jeremiah 43:6–7</a>).</p><p>At the start of the New Testament, Egypt became a safe place for Joseph, Mary, and Jesus. They escaped there to avoid Herod the Great&apos;s attempts to kill Jesus (<a href=\"https://ref.ly/Matt2:13-Matt2:23\">Matthew 2:13–23</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen12:10-Gen12:20\">Genesis 12:10–20</a>; <a href=\"https://ref.ly/Gen37:1-Gen50:26\">37:1–50:26</a>; <a href=\"https://ref.ly/Exod1:1-Exod15:21\">Exodus 1:1–15:21</a>; <a href=\"https://ref.ly/1Kgs14:25-1Kgs14:28\">1 Kings 14:25–28</a>; <a href=\"https://ref.ly/Isa19:1-Isa19:25\">Isaiah 19:1–25</a>; <a href=\"https://ref.ly/Jer43:1-Jer43:13\">Jeremiah 43</a>; <a href=\"https://ref.ly/Jer46:7-Jer46:8\">46:7–8</a>; <a href=\"https://ref.ly/Ezek29:1-Ezek29:21\">Ezekiel 29:1–21</a>; <a href=\"https://ref.ly/Amos8:8\">Amos 8:8</a>; <a href=\"https://ref.ly/Amos9:5\">9:5</a>; <a href=\"https://ref.ly/Zech10:11\">Zechariah 10:11</a>; <a href=\"https://ref.ly/Matt2:13-Matt2:23\">Matthew 2:13–23</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "30008008",
-          "start_ref_usfm": "AMO 8:8",
-          "end_ref": "30008008",
-          "end_ref_usfm": "AMO 8:8"
-        },
-        {
-          "start_ref": "30009005",
-          "start_ref_usfm": "AMO 9:5",
-          "end_ref": "30009005",
-          "end_ref_usfm": "AMO 9:5"
-        },
-        {
-          "start_ref": "38010011",
-          "start_ref_usfm": "ZEC 10:11",
-          "end_ref": "38010011",
-          "end_ref_usfm": "ZEC 10:11"
-        },
-        {
-          "start_ref": "01012010",
-          "start_ref_usfm": "GEN 12:10",
-          "end_ref": "01012020",
-          "end_ref_usfm": "GEN 12:20"
-        },
-        {
-          "start_ref": "24043006",
-          "start_ref_usfm": "JER 43:6",
-          "end_ref": "24043007",
-          "end_ref_usfm": "JER 43:7"
-        },
-        {
-          "start_ref": "40002013",
-          "start_ref_usfm": "MAT 2:13",
-          "end_ref": "40002023",
-          "end_ref_usfm": "MAT 2:23"
-        },
-        {
-          "start_ref": "11014025",
-          "start_ref_usfm": "1KI 14:25",
-          "end_ref": "11014028",
-          "end_ref_usfm": "1KI 14:28"
-        },
-        {
-          "start_ref": "23019001",
-          "start_ref_usfm": "ISA 19:1",
-          "end_ref": "23019025",
-          "end_ref_usfm": "ISA 19:25"
-        },
-        {
-          "start_ref": "01037001",
-          "start_ref_usfm": "GEN 37:1",
-          "end_ref": "01050026",
-          "end_ref_usfm": "GEN 50:26"
-        },
-        {
-          "start_ref": "24046007",
-          "start_ref_usfm": "JER 46:7",
-          "end_ref": "24046008",
-          "end_ref_usfm": "JER 46:8"
-        },
-        {
-          "start_ref": "26029001",
-          "start_ref_usfm": "EZK 29:1",
-          "end_ref": "26029021",
-          "end_ref_usfm": "EZK 29:21"
-        },
-        {
-          "start_ref": "02001001",
-          "start_ref_usfm": "EXO 1:1",
-          "end_ref": "02001022",
-          "end_ref_usfm": "EXO 1:22"
-        },
-        {
-          "start_ref": "01039001",
-          "start_ref_usfm": "GEN 39:1",
-          "end_ref": "01041057",
-          "end_ref_usfm": "GEN 41:57"
-        },
-        {
-          "start_ref": "01042001",
-          "start_ref_usfm": "GEN 42:1",
-          "end_ref": "01046034",
-          "end_ref_usfm": "GEN 46:34"
-        },
-        {
-          "start_ref": "01037001",
-          "start_ref_usfm": "GEN 37:1",
-          "end_ref": "01041057",
-          "end_ref_usfm": "GEN 41:57"
-        },
-        {
-          "start_ref": "01042001",
-          "start_ref_usfm": "GEN 42:1",
-          "end_ref": "01050026",
-          "end_ref_usfm": "GEN 50:26"
-        },
-        {
-          "start_ref": "02002001",
-          "start_ref_usfm": "EXO 2:1",
-          "end_ref": "02015027",
-          "end_ref_usfm": "EXO 15:27"
-        },
-        {
-          "start_ref": "02001001",
-          "start_ref_usfm": "EXO 1:1",
-          "end_ref": "02015021",
-          "end_ref_usfm": "EXO 15:21"
-        },
-        {
-          "start_ref": "24043001",
-          "start_ref_usfm": "JER 43:1",
-          "end_ref": "24043013",
-          "end_ref_usfm": "JER 43:13"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "place:Egypt",
-          "type": "place",
-          "preferred_label": "Egypt",
-          "confidence": 0.7031,
-          "match_method": "scored"
-        },
-        {
-          "id": "place:Pathros",
-          "type": "place",
-          "preferred_label": "Pathros",
-          "confidence": 0.6004,
-          "match_method": "scored"
-        },
-        {
-          "id": "place:Syene",
-          "type": "place",
-          "preferred_label": "Syene",
-          "confidence": 0.6004,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500472",
-    "reference_id": 203415,
-    "version": "1.0.2",
-    "title": "Eleazar",
-    "media_type": "Text",
-    "index_reference": "eleazar",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Eleazar was the third son of Aaron, the first high priest (<a href=\"https://ref.ly/Exod6:23\">Exodus 6:23</a>). Eleazar&apos;s two older brothers, Nadab and Abihu, angered God by offering incense differently than God commanded (<a href=\"https://ref.ly/Lev10:1-Lev10:7\">Leviticus 10:1–7</a>). Because they disobeyed, God killed them. As the next oldest son, Eleazar was next in line to become high priest. He performed priestly duties during his father&apos;s life and assisted his father and Moses when some Levites rebelled, seeking equal status with Aaron&apos;s priestly family (<a href=\"https://ref.ly/Num16:36-Num16:40\">Numbers 16:36–40</a>).</p><p>Aaron died in the wilderness shortly before the Israelites entered the Promised Land. He could not enter because he and Moses had disobeyed God by striking the rock at Meribah (<a href=\"https://ref.ly/Num20:1-Num20:13\">Numbers 20:1–13</a>). Before Aaron died, he, Moses, and Eleazar went up on Mount Hor. There, Moses took the priestly garments from Aaron and gave them to his son (<a href=\"https://ref.ly/Num20:22-Num20:29\">Numbers 20:22–29</a>).</p><p>After this, Eleazar served as high priest for the rest of his life, including during the time when the Israelites took control of the land of Canaan. When it was time to divide the land among the tribes, Eleazar and Joshua used sacred lots to decide where each tribe would settle (<a href=\"https://ref.ly/Josh14:1-Josh14:5\">Joshua 14:1–5</a>). When Eleazar died, his son Phinehas became high priest. Phinehas had shown his faithfulness to the covenant when Israel started worshiping the gods of Moab (<a href=\"https://ref.ly/Num25:1-Num25:18\">Numbers 25</a>). Eleazar&apos;s descendants included: </p><ul><li><p>Zadok, the faithful priest who replaced Abiathar (<a href=\"https://ref.ly/1Kgs2:26-1Kgs2:27\">1 Kings 2:26–27</a>, <a href=\"https://ref.ly/1Kgs2:35\">35</a>; see <a href=\"https://ref.ly/1Chr6:3-1Chr6:8\">1 Chronicles 6:3–8</a>, <a href=\"https://ref.ly/1Chr6:50-1Chr6:53\">50–53</a>)</p></li><li><p>Ezra, who played a key role in rebuilding Judea after the Exile (see <a href=\"https://ref.ly/Ezra7:1-Ezra7:5\">Ezra 7:1–5</a>)</p></li></ul><p>In Ezekiel&apos;s ideal temple, only Eleazar&apos;s descendants through Zadok would be allowed to serve (<a href=\"https://ref.ly/Ezek44:15\">Ezekiel 44:15</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Exod6:23-Exod6:25\">Exodus 6:23–25</a>; <a href=\"https://ref.ly/Lev10:6-Lev10:7\">Leviticus 10:6–7</a>; <a href=\"https://ref.ly/Num3:1-Num3:4\">Numbers 3:1–4</a>; <a href=\"https://ref.ly/Num16:36-Num16:40\">Numbers 16:36–40</a>; <a href=\"https://ref.ly/Num20:22-Num20:26\">Numbers 20:22–26</a>; <a href=\"https://ref.ly/Num26:1-Num26:4\">Numbers 26:1–4</a>; <a href=\"https://ref.ly/Josh14:1\">Joshua 14:1</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "02006023",
-          "start_ref_usfm": "EXO 6:23",
-          "end_ref": "02006023",
-          "end_ref_usfm": "EXO 6:23"
-        },
-        {
-          "start_ref": "06014001",
-          "start_ref_usfm": "JOS 14:1",
-          "end_ref": "06014001",
-          "end_ref_usfm": "JOS 14:1"
-        },
-        {
-          "start_ref": "11002035",
-          "start_ref_usfm": "1KI 2:35",
-          "end_ref": "11002035",
-          "end_ref_usfm": "1KI 2:35"
-        },
-        {
-          "start_ref": "26044015",
-          "start_ref_usfm": "EZK 44:15",
-          "end_ref": "26044015",
-          "end_ref_usfm": "EZK 44:15"
-        },
-        {
-          "start_ref": "11002026",
-          "start_ref_usfm": "1KI 2:26",
-          "end_ref": "11002027",
-          "end_ref_usfm": "1KI 2:27"
-        },
-        {
-          "start_ref": "04025001",
-          "start_ref_usfm": "NUM 25:1",
-          "end_ref": "04025018",
-          "end_ref_usfm": "NUM 25:18"
-        },
-        {
-          "start_ref": "13006003",
-          "start_ref_usfm": "1CH 6:3",
-          "end_ref": "13006008",
-          "end_ref_usfm": "1CH 6:8"
-        },
-        {
-          "start_ref": "03010001",
-          "start_ref_usfm": "LEV 10:1",
-          "end_ref": "03010007",
-          "end_ref_usfm": "LEV 10:7"
-        },
-        {
-          "start_ref": "04003001",
-          "start_ref_usfm": "NUM 3:1",
-          "end_ref": "04003004",
-          "end_ref_usfm": "NUM 3:4"
-        },
-        {
-          "start_ref": "13006050",
-          "start_ref_usfm": "1CH 6:50",
-          "end_ref": "13006053",
-          "end_ref_usfm": "1CH 6:53"
-        },
-        {
-          "start_ref": "15007001",
-          "start_ref_usfm": "EZR 7:1",
-          "end_ref": "15007005",
-          "end_ref_usfm": "EZR 7:5"
-        },
-        {
-          "start_ref": "02006023",
-          "start_ref_usfm": "EXO 6:23",
-          "end_ref": "02006025",
-          "end_ref_usfm": "EXO 6:25"
-        },
-        {
-          "start_ref": "04016036",
-          "start_ref_usfm": "NUM 16:36",
-          "end_ref": "04016040",
-          "end_ref_usfm": "NUM 16:40"
-        },
-        {
-          "start_ref": "03010006",
-          "start_ref_usfm": "LEV 10:6",
-          "end_ref": "03010007",
-          "end_ref_usfm": "LEV 10:7"
-        },
-        {
-          "start_ref": "04020022",
-          "start_ref_usfm": "NUM 20:22",
-          "end_ref": "04020029",
-          "end_ref_usfm": "NUM 20:29"
-        },
-        {
-          "start_ref": "04020001",
-          "start_ref_usfm": "NUM 20:1",
-          "end_ref": "04020013",
-          "end_ref_usfm": "NUM 20:13"
-        },
-        {
-          "start_ref": "04026001",
-          "start_ref_usfm": "NUM 26:1",
-          "end_ref": "04026004",
-          "end_ref_usfm": "NUM 26:4"
-        },
-        {
-          "start_ref": "06014001",
-          "start_ref_usfm": "JOS 14:1",
-          "end_ref": "06014005",
-          "end_ref_usfm": "JOS 14:5"
-        },
-        {
-          "start_ref": "04020022",
-          "start_ref_usfm": "NUM 20:22",
-          "end_ref": "04020026",
-          "end_ref_usfm": "NUM 20:26"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Eleazar.2",
-          "type": "person",
-          "preferred_label": "Eleazar",
-          "confidence": 0.6884,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Aaron",
-          "type": "person",
-          "preferred_label": "Aaron",
-          "confidence": 0.5099,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500483",
-    "reference_id": 203426,
-    "version": "1.0.2",
-    "title": "Eli",
-    "media_type": "Text",
-    "index_reference": "eli",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Eli was Israel’s chief priest at the tabernacle in Shiloh, the central place of worship during the time of the judges. Eli likely descended from Ithamar, Aaron’s youngest son (see <a href=\"https://ref.ly/1Kgs2:27\">1 Kings 2:27</a>; <a href=\"https://ref.ly/1Chr18:16\">1 Chronicles 18:16</a>; <a href=\"https://ref.ly/1Chr24:3\">24:3</a>). Eli was sincere and devout, but he struggled to discipline his wicked sons, Hophni and Phinehas.</p><p>When Eli met Hannah at the tabernacle, he wrongly thought she was drunk because she prayed silently for a child. After realizing his mistake, Eli blessed Hannah. God answered her prayer by giving her a son named Samuel.</p><p>Samuel gained favor with the Lord and the people (<a href=\"https://ref.ly/1Sam2:26\">1 Samuel 2:26</a>). But Eli&apos;s sons were disrespectful and dishonest (<a href=\"https://ref.ly/1Sam2:12\">1 Samuel 2:12</a>). They stole from offerings and seduced women serving at the tabernacle. When Eli scolded them, they ignored him. God sent a prophet to criticize Eli&apos;s weakness and his sons&apos; wrongdoing, announcing that God would remove the priesthood from Eli&apos;s family (<a href=\"https://ref.ly/1Sam2:27-1Sam2:36\">1 Samuel 2:27–36</a>). This message was confirmed when God spoke to Samuel one night, telling him that he would soon punish Eli&apos;s family (<a href=\"https://ref.ly/1Sam3:1-1Sam3:14\">1 Samuel 3:1–14</a>). </p><p>Soon after, Israel&apos;s army lost a battle to the Philistines, the ark of the covenant was captured, and Eli&apos;s sons died (<a href=\"https://ref.ly/1Sam4:1-1Sam4:11\">1 Samuel 4:1–11</a>). When Eli, who was ninety-eight years old, heard the news, he fell backward, broke his neck, and died (<a href=\"https://ref.ly/1Sam4:12-1Sam4:18\">1 Samuel 4:12–18</a>). His daughter-in-law went into labor and died while giving birth to Eli&apos;s grandson, named Ichabod (meaning &quot;where is the glory?,&quot; because the glory had left Israel (<a href=\"https://ref.ly/1Sam4:19-1Sam4:22\">1 Samuel 4:19–22</a>).</p><p>Eli&apos;s family continued serving as priests until King David died. Abiathar was the last of Eli&apos;s descendants to serve as chief priest. Solomon removed Abiathar from being priest because Abiathar had supported Adonijah, who tried to become king instead of Solomon. Solomon then made Zadok the chief priest (<a href=\"https://ref.ly/1Kgs2:27\">1 Kings 2:27</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Sam1:9-1Sam1:18\">1 Samuel 1:9–18</a>, <a href=\"https://ref.ly/1Sam1:25-1Sam1:28\">25–28</a>; <a href=\"https://ref.ly/1Sam2:11-1Sam4:22\">1 Samuel 2:11–4:22</a>; <a href=\"https://ref.ly/1Kgs2:27\">1 Kings 2:27</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "09002012",
-          "start_ref_usfm": "1SA 2:12",
-          "end_ref": "09002012",
-          "end_ref_usfm": "1SA 2:12"
-        },
-        {
-          "start_ref": "09002026",
-          "start_ref_usfm": "1SA 2:26",
-          "end_ref": "09002026",
-          "end_ref_usfm": "1SA 2:26"
-        },
-        {
-          "start_ref": "11002027",
-          "start_ref_usfm": "1KI 2:27",
-          "end_ref": "11002027",
-          "end_ref_usfm": "1KI 2:27"
-        },
-        {
-          "start_ref": "13018016",
-          "start_ref_usfm": "1CH 18:16",
-          "end_ref": "13018016",
-          "end_ref_usfm": "1CH 18:16"
-        },
-        {
-          "start_ref": "13024003",
-          "start_ref_usfm": "1CH 24:3",
-          "end_ref": "13024003",
-          "end_ref_usfm": "1CH 24:3"
-        },
-        {
-          "start_ref": "09004001",
-          "start_ref_usfm": "1SA 4:1",
-          "end_ref": "09004011",
-          "end_ref_usfm": "1SA 4:11"
-        },
-        {
-          "start_ref": "09004019",
-          "start_ref_usfm": "1SA 4:19",
-          "end_ref": "09004022",
-          "end_ref_usfm": "1SA 4:22"
-        },
-        {
-          "start_ref": "09002027",
-          "start_ref_usfm": "1SA 2:27",
-          "end_ref": "09002036",
-          "end_ref_usfm": "1SA 2:36"
-        },
-        {
-          "start_ref": "09003001",
-          "start_ref_usfm": "1SA 3:1",
-          "end_ref": "09003014",
-          "end_ref_usfm": "1SA 3:14"
-        },
-        {
-          "start_ref": "09004012",
-          "start_ref_usfm": "1SA 4:12",
-          "end_ref": "09004018",
-          "end_ref_usfm": "1SA 4:18"
-        },
-        {
-          "start_ref": "09001009",
-          "start_ref_usfm": "1SA 1:9",
-          "end_ref": "09001018",
-          "end_ref_usfm": "1SA 1:18"
-        },
-        {
-          "start_ref": "09001025",
-          "start_ref_usfm": "1SA 1:25",
-          "end_ref": "09001028",
-          "end_ref_usfm": "1SA 1:28"
-        },
-        {
-          "start_ref": "09002011",
-          "start_ref_usfm": "1SA 2:11",
-          "end_ref": "09004022",
-          "end_ref_usfm": "1SA 4:22"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Eli",
-          "type": "person",
-          "preferred_label": "Eli",
-          "confidence": 0.7302,
-          "match_method": "scored"
-        },
-        {
-          "id": "deity:Lord",
-          "type": "deity",
-          "preferred_label": "LORD",
-          "confidence": 0.6779,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500502",
-    "reference_id": 203445,
-    "version": "1.0.2",
-    "title": "Elijah",
-    "media_type": "Text",
-    "index_reference": "elijah",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Elijah from Tishbe was a prophet in Israel during the reigns of Ahab and Ahaziah, from 874 to 852 BC. His name means “my God is Yahweh.” He showed that the Lord is the one true God and urged Israel to return to the Lord.</p><p>Under Ahab and Jezebel, Israel started worshiping Baal, a Canaanite god of fertility, storms, and rain. As a result, God sent a drought to Israel (<a href=\"https://ref.ly/1Kgs17:1\">1 Kings 17:1</a>). Elijah hid until the drought ended, and God took care of him. During this time, he stayed with a widow in Zarephath, a town in Jezebel’s home region of Sidon. The widow’s son died, but Elijah prayed for him, and he came back to life (<a href=\"https://ref.ly/1Kgs17:8-1Kgs17:24\">1 Kings 17:8–24</a>).</p><p>In the third year of drought, Elijah challenged Baal&apos;s prophets to a contest on Mount Carmel to show who the true God was (<a href=\"https://ref.ly/1Kgs18:1-1Kgs18:40\">1 Kings 18:1–40</a>). The prophets of Baal called on Baal without success, becoming frantic to make him appear, while Elijah mocked Baal. When it was Elijah&apos;s turn, he poured water over his sacrifice and prayed a simple, powerful prayer. Fire immediately consumed the offering. In response, the people of Israel worshiped the Lord and, following Elijah&apos;s direction, killed Baal&apos;s prophets. Then Elijah prayed for rain, and the drought ended (<a href=\"https://ref.ly/1Kgs18:41-1Kgs18:46\">1 Kings 18:41–46</a>).</p><p>Despite God&apos;s great power, Ahab and Jezebel continued to mislead Israel. Jezebel was angry because her prophets were killed (<a href=\"https://ref.ly/1Kgs19:1-1Kgs19:2\">1 Kings 19:1–2</a>). She threatened Elijah, who escaped to the desert and asked God to end his life. Instead, an angel fed him until he reached Mount Sinai. Elijah complained that he was the only prophet left and that his life was in danger. God encouraged him with a gentle voice, shared good news, and sent him back to serve (<a href=\"https://ref.ly/1Kgs19:3-1Kgs19:18\">1 Kings 19:3–18</a>).</p><p>Elijah was very dedicated to the true God. He trained an assistant named Elisha. At the end of Elijah&apos;s life on Earth, he did not die but was taken to heaven in a chariot of fire (<a href=\"https://ref.ly/2Kgs2:11-2Kgs2:12\">2 Kings 2:11–12</a>). Elisha took on Elijah&apos;s role as a prophet and continued to challenge false worship in Israel (see <a href=\"https://ref.ly/2Kgs2:1-2Kgs9:13\">2 Kings 2:1–9:13</a>; <a href=\"https://ref.ly/2Kgs13:14-2Kgs13:25\">13:14–25</a>).</p><p>The Old Testament ends with the hope that Elijah will return before the day of the Lord (<a href=\"https://ref.ly/Mal4:5-Mal4:6\">Malachi 4:5–6</a>). John the Baptist partly fulfilled this expectation (see <a href=\"https://ref.ly/Matt11:7-Matt11:14\">Matthew 11:7–14</a>; <a href=\"https://ref.ly/Matt17:10-Matt17:13\">17:10–13</a>; <a href=\"https://ref.ly/Luke1:17\">Luke 1:17</a>). Elijah appeared with Moses during Jesus&apos; transfiguration (when Jesus&apos;s appearance changed to show his divine glory; <a href=\"https://ref.ly/Matt17:1-Matt17:9\">Matthew 17:1–9</a>). In <a href=\"https://ref.ly/Rev11:3-Rev11:12\">Revelation 11:3–12</a>, one of the two witnesses seems to be either Elijah himself or someone like him. Elijah’s life shows God’s kindness and the power of prayer (<a href=\"https://ref.ly/Luke4:25-Luke4:26\">Luke 4:25–26</a>; <a href=\"https://ref.ly/Rom11:2-Rom11:6\">Romans 11:2–6</a>; <a href=\"https://ref.ly/Jas5:17-Jas5:18\">James 5:17–18</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Kgs17:1-1Kgs19:21\">1 Kings 17:1–19:21</a>; <a href=\"https://ref.ly/1Kgs21:1-1Kgs21:29\">21:1–29</a>; <a href=\"https://ref.ly/2Kgs1:1-2Kgs2:25\">2 Kings 1:1–2:25</a>; <a href=\"https://ref.ly/2Kgs9:36\">9:36</a>; <a href=\"https://ref.ly/2Kgs10:10\">10:10</a>, <a href=\"https://ref.ly/2Kgs10:17\">17</a>; <a href=\"https://ref.ly/2Chr21:12-2Chr21:15\">2 Chronicles 21:12–15</a>; <a href=\"https://ref.ly/Mal4:5-Mal4:6\">Malachi 4:5–6</a>; <a href=\"https://ref.ly/Matt11:14\">Matthew 11:14</a>; <a href=\"https://ref.ly/Matt16:14\">16:14</a>; <a href=\"https://ref.ly/Matt17:1-Matt17:13\">17:1–13</a>; <a href=\"https://ref.ly/Matt27:45-Matt27:49\">27:45–49</a>; <a href=\"https://ref.ly/Mark6:15\">Mark 6:15</a>; <a href=\"https://ref.ly/Mark8:28\">8:28</a>; <a href=\"https://ref.ly/Mark9:2-Mark9:13\">9:2–13</a>; <a href=\"https://ref.ly/Mark15:33-Mark15:36\">15:33–36</a>; <a href=\"https://ref.ly/Luke1:17\">Luke 1:17</a>; <a href=\"https://ref.ly/Luke4:26\">4:26</a>; <a href=\"https://ref.ly/Luke9:28-Luke9:36\">9:28–36</a>; <a href=\"https://ref.ly/John1:19-John1:28\">John 1:19–28</a>; <a href=\"https://ref.ly/Rom11:1-Rom11:6\">Romans 11:1–6</a>; <a href=\"https://ref.ly/Jas5:17\">James 5:17</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "11017001",
-          "start_ref_usfm": "1KI 17:1",
-          "end_ref": "11017001",
-          "end_ref_usfm": "1KI 17:1"
-        },
-        {
-          "start_ref": "12009036",
-          "start_ref_usfm": "2KI 9:36",
-          "end_ref": "12009036",
-          "end_ref_usfm": "2KI 9:36"
-        },
-        {
-          "start_ref": "12010010",
-          "start_ref_usfm": "2KI 10:10",
-          "end_ref": "12010010",
-          "end_ref_usfm": "2KI 10:10"
-        },
-        {
-          "start_ref": "12010017",
-          "start_ref_usfm": "2KI 10:17",
-          "end_ref": "12010017",
-          "end_ref_usfm": "2KI 10:17"
-        },
-        {
-          "start_ref": "40011014",
-          "start_ref_usfm": "MAT 11:14",
-          "end_ref": "40011014",
-          "end_ref_usfm": "MAT 11:14"
-        },
-        {
-          "start_ref": "40016014",
-          "start_ref_usfm": "MAT 16:14",
-          "end_ref": "40016014",
-          "end_ref_usfm": "MAT 16:14"
-        },
-        {
-          "start_ref": "41006015",
-          "start_ref_usfm": "MRK 6:15",
-          "end_ref": "41006015",
-          "end_ref_usfm": "MRK 6:15"
-        },
-        {
-          "start_ref": "41008028",
-          "start_ref_usfm": "MRK 8:28",
-          "end_ref": "41008028",
-          "end_ref_usfm": "MRK 8:28"
-        },
-        {
-          "start_ref": "42001017",
-          "start_ref_usfm": "LUK 1:17",
-          "end_ref": "42001017",
-          "end_ref_usfm": "LUK 1:17"
-        },
-        {
-          "start_ref": "42004026",
-          "start_ref_usfm": "LUK 4:26",
-          "end_ref": "42004026",
-          "end_ref_usfm": "LUK 4:26"
-        },
-        {
-          "start_ref": "59005017",
-          "start_ref_usfm": "JAS 5:17",
-          "end_ref": "59005017",
-          "end_ref_usfm": "JAS 5:17"
-        },
-        {
-          "start_ref": "40017001",
-          "start_ref_usfm": "MAT 17:1",
-          "end_ref": "40017013",
-          "end_ref_usfm": "MAT 17:13"
-        },
-        {
-          "start_ref": "41009002",
-          "start_ref_usfm": "MRK 9:2",
-          "end_ref": "41009013",
-          "end_ref_usfm": "MRK 9:13"
-        },
-        {
-          "start_ref": "11018041",
-          "start_ref_usfm": "1KI 18:41",
-          "end_ref": "11018046",
-          "end_ref_usfm": "1KI 18:46"
-        },
-        {
-          "start_ref": "11021001",
-          "start_ref_usfm": "1KI 21:1",
-          "end_ref": "11021029",
-          "end_ref_usfm": "1KI 21:29"
-        },
-        {
-          "start_ref": "41015033",
-          "start_ref_usfm": "MRK 15:33",
-          "end_ref": "41015036",
-          "end_ref_usfm": "MRK 15:36"
-        },
-        {
-          "start_ref": "14021012",
-          "start_ref_usfm": "2CH 21:12",
-          "end_ref": "14021015",
-          "end_ref_usfm": "2CH 21:15"
-        },
-        {
-          "start_ref": "39004005",
-          "start_ref_usfm": "MAL 4:5",
-          "end_ref": "39004006",
-          "end_ref_usfm": "MAL 4:6"
-        },
-        {
-          "start_ref": "40017010",
-          "start_ref_usfm": "MAT 17:10",
-          "end_ref": "40017013",
-          "end_ref_usfm": "MAT 17:13"
-        },
-        {
-          "start_ref": "42004025",
-          "start_ref_usfm": "LUK 4:25",
-          "end_ref": "42004026",
-          "end_ref_usfm": "LUK 4:26"
-        },
-        {
-          "start_ref": "42009028",
-          "start_ref_usfm": "LUK 9:28",
-          "end_ref": "42009036",
-          "end_ref_usfm": "LUK 9:36"
-        },
-        {
-          "start_ref": "66011003",
-          "start_ref_usfm": "REV 11:3",
-          "end_ref": "66011012",
-          "end_ref_usfm": "REV 11:12"
-        },
-        {
-          "start_ref": "11017001",
-          "start_ref_usfm": "1KI 17:1",
-          "end_ref": "11019021",
-          "end_ref_usfm": "1KI 19:21"
-        },
-        {
-          "start_ref": "40027045",
-          "start_ref_usfm": "MAT 27:45",
-          "end_ref": "40027049",
-          "end_ref_usfm": "MAT 27:49"
-        },
-        {
-          "start_ref": "11017008",
-          "start_ref_usfm": "1KI 17:8",
-          "end_ref": "11017024",
-          "end_ref_usfm": "1KI 17:24"
-        },
-        {
-          "start_ref": "12013014",
-          "start_ref_usfm": "2KI 13:14",
-          "end_ref": "12013025",
-          "end_ref_usfm": "2KI 13:25"
-        },
-        {
-          "start_ref": "43001019",
-          "start_ref_usfm": "JHN 1:19",
-          "end_ref": "43001028",
-          "end_ref_usfm": "JHN 1:28"
-        },
-        {
-          "start_ref": "11019001",
-          "start_ref_usfm": "1KI 19:1",
-          "end_ref": "11019002",
-          "end_ref_usfm": "1KI 19:2"
-        },
-        {
-          "start_ref": "40017001",
-          "start_ref_usfm": "MAT 17:1",
-          "end_ref": "40017009",
-          "end_ref_usfm": "MAT 17:9"
-        },
-        {
-          "start_ref": "11019003",
-          "start_ref_usfm": "1KI 19:3",
-          "end_ref": "11019018",
-          "end_ref_usfm": "1KI 19:18"
-        },
-        {
-          "start_ref": "11018001",
-          "start_ref_usfm": "1KI 18:1",
-          "end_ref": "11018040",
-          "end_ref_usfm": "1KI 18:40"
-        },
-        {
-          "start_ref": "12002011",
-          "start_ref_usfm": "2KI 2:11",
-          "end_ref": "12002012",
-          "end_ref_usfm": "2KI 2:12"
-        },
-        {
-          "start_ref": "12002001",
-          "start_ref_usfm": "2KI 2:1",
-          "end_ref": "12009013",
-          "end_ref_usfm": "2KI 9:13"
-        },
-        {
-          "start_ref": "40011007",
-          "start_ref_usfm": "MAT 11:7",
-          "end_ref": "40011014",
-          "end_ref_usfm": "MAT 11:14"
-        },
-        {
-          "start_ref": "45011002",
-          "start_ref_usfm": "ROM 11:2",
-          "end_ref": "45011006",
-          "end_ref_usfm": "ROM 11:6"
-        },
-        {
-          "start_ref": "59005017",
-          "start_ref_usfm": "JAS 5:17",
-          "end_ref": "59005018",
-          "end_ref_usfm": "JAS 5:18"
-        },
-        {
-          "start_ref": "12001001",
-          "start_ref_usfm": "2KI 1:1",
-          "end_ref": "12002025",
-          "end_ref_usfm": "2KI 2:25"
-        },
-        {
-          "start_ref": "45011001",
-          "start_ref_usfm": "ROM 11:1",
-          "end_ref": "45011006",
-          "end_ref_usfm": "ROM 11:6"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Elijah",
-          "type": "person",
-          "preferred_label": "Elijah",
-          "confidence": 0.6771,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500504",
-    "reference_id": 203447,
-    "version": "1.0.2",
-    "title": "Elisha",
-    "media_type": "Text",
-    "index_reference": "elisha",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Elisha the prophet followed and succeeded Elijah in the northern kingdom of Israel during the late 800s BC. At that time, the leaders and people of the northern kingdom turned away from God and worshiped the Canaanite god Baal. Ahab and Jezebel were devoted worshipers of this false god, as were their descendants who followed them on the throne. Elisha&apos;s ministry lasted from 853 to 798 BC. It began as King Ahab&apos;s reign was ending. He played a key role in God&apos;s plan to remove Israel&apos;s idol-worshiping leaders.</p><p>Elisha began his work as a follower of Elijah and was chosen by God to replace him (<a href=\"https://ref.ly/1Kgs19:15-1Kgs19:21\">1 Kings 19:15–21</a>; <a href=\"https://ref.ly/2Kgs2:1-2Kgs2:18\">2 Kings 2:1–18</a>). After Elijah went up to heaven, Elisha&apos;s miracles showed that God&apos;s great power was with him.</p><p>Elisha’s miracles often involved water. He made the bad water of a spring near Jericho clean and made an ax head float (<a href=\"https://ref.ly/2Kgs2:19-2Kgs2:22\">2 Kings 2:19–22</a>; <a href=\"https://ref.ly/2Kgs6:1-2Kgs6:7\">6:1–7</a>). When King Joram ran out of water in enemy territory, Elisha accurately predicted that plenty of water would appear (<a href=\"https://ref.ly/2Kgs3:4-2Kgs3:20\">2 Kings 3:4–20</a>). People believed Baal controlled water, so these miracles showed that the Lord, not Baal, was truly in control.</p><p>Elisha showed God&apos;s power by helping people in real ways. He helped a poor woman by miraculously filling her jars with olive oil (<a href=\"https://ref.ly/2Kgs4:1-2Kgs4:7\">2 Kings 4:1–7</a>). He told a woman from Shunem she would have a son and later brought her son back to life (<a href=\"https://ref.ly/2Kgs4:8-2Kgs4:37\">2 Kings 4:8–37</a>). He healed an Aramean general named Naaman of leprosy (<a href=\"https://ref.ly/2Kgs5:1-2Kgs5:19\">2 Kings 5:1–19</a>). He also provided food for those in need (<a href=\"https://ref.ly/2Kgs4:38-2Kgs4:44\">2 Kings 4:38–44</a>).</p><p>Elisha played a role in God&apos;s plan to judge the northern kingdom. He anointed Jehu of Israel and Hazael of Aram (<a href=\"https://ref.ly/2Kgs8:7-2Kgs8:15\">2 Kings 8:7–15</a>; <a href=\"https://ref.ly/2Kgs9:1-2Kgs9:13\">9:1–13</a>). He poured sacred oil on their heads to show God had chosen them. They violently ended the rule of Israel&apos;s leaders who promoted Baal worship (see <a href=\"https://ref.ly/1Kgs19:15-1Kgs19:18\">1 Kings 19:15–18</a>).</p><p>Elisha&apos;s miracles foreshadowed Jesus&apos; work because Jesus: </p><ul><li><p>Healed people with leprosy (<a href=\"https://ref.ly/Matt8:1-Matt8:4\">Matthew 8:1–4</a>)</p></li><li><p>Brought the dead back to life (<a href=\"https://ref.ly/Mark5:21-Mark5:43\">Mark 5:21–43</a>; <a href=\"https://ref.ly/Luke7:11-Luke7:17\">Luke 7:11–17</a>; <a href=\"https://ref.ly/John11:1-John11:44\">John 11:1–44</a>)</p></li><li><p>Provided food in miraculous ways (<a href=\"https://ref.ly/Matt14:13-Matt14:21\">Matthew 14:13–21</a>; <a href=\"https://ref.ly/Matt15:32-Matt15:38\">15:32–38</a>)</p></li></ul><p>Jesus spoke about healing Naaman to show that God&apos;s mercy extends beyond Israelites to gentiles (<a href=\"https://ref.ly/Luke4:27\">Luke 4:27</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Kgs19:15-1Kgs19:21\">1 Kings 19:15–21</a>; <a href=\"https://ref.ly/2Kgs2:1-2Kgs9:13\">2 Kings 2:1–9:13</a>; <a href=\"https://ref.ly/2Kgs13:14-2Kgs13:21\">13:14–21</a>; <a href=\"https://ref.ly/Luke4:27\">Luke 4:27</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "42004027",
-          "start_ref_usfm": "LUK 4:27",
-          "end_ref": "42004027",
-          "end_ref_usfm": "LUK 4:27"
-        },
-        {
-          "start_ref": "42007011",
-          "start_ref_usfm": "LUK 7:11",
-          "end_ref": "42007017",
-          "end_ref_usfm": "LUK 7:17"
-        },
-        {
-          "start_ref": "40014013",
-          "start_ref_usfm": "MAT 14:13",
-          "end_ref": "40014021",
-          "end_ref_usfm": "MAT 14:21"
-        },
-        {
-          "start_ref": "12009001",
-          "start_ref_usfm": "2KI 9:1",
-          "end_ref": "12009013",
-          "end_ref_usfm": "2KI 9:13"
-        },
-        {
-          "start_ref": "40008001",
-          "start_ref_usfm": "MAT 8:1",
-          "end_ref": "40008004",
-          "end_ref_usfm": "MAT 8:4"
-        },
-        {
-          "start_ref": "12004001",
-          "start_ref_usfm": "2KI 4:1",
-          "end_ref": "12004007",
-          "end_ref_usfm": "2KI 4:7"
-        },
-        {
-          "start_ref": "12002019",
-          "start_ref_usfm": "2KI 2:19",
-          "end_ref": "12002022",
-          "end_ref_usfm": "2KI 2:22"
-        },
-        {
-          "start_ref": "40015032",
-          "start_ref_usfm": "MAT 15:32",
-          "end_ref": "40015038",
-          "end_ref_usfm": "MAT 15:38"
-        },
-        {
-          "start_ref": "12005001",
-          "start_ref_usfm": "2KI 5:1",
-          "end_ref": "12005019",
-          "end_ref_usfm": "2KI 5:19"
-        },
-        {
-          "start_ref": "12004008",
-          "start_ref_usfm": "2KI 4:8",
-          "end_ref": "12004037",
-          "end_ref_usfm": "2KI 4:37"
-        },
-        {
-          "start_ref": "12008007",
-          "start_ref_usfm": "2KI 8:7",
-          "end_ref": "12008015",
-          "end_ref_usfm": "2KI 8:15"
-        },
-        {
-          "start_ref": "41005021",
-          "start_ref_usfm": "MRK 5:21",
-          "end_ref": "41005043",
-          "end_ref_usfm": "MRK 5:43"
-        },
-        {
-          "start_ref": "43011001",
-          "start_ref_usfm": "JHN 11:1",
-          "end_ref": "43011044",
-          "end_ref_usfm": "JHN 11:44"
-        },
-        {
-          "start_ref": "12006001",
-          "start_ref_usfm": "2KI 6:1",
-          "end_ref": "12006007",
-          "end_ref_usfm": "2KI 6:7"
-        },
-        {
-          "start_ref": "11019015",
-          "start_ref_usfm": "1KI 19:15",
-          "end_ref": "11019018",
-          "end_ref_usfm": "1KI 19:18"
-        },
-        {
-          "start_ref": "12002001",
-          "start_ref_usfm": "2KI 2:1",
-          "end_ref": "12002018",
-          "end_ref_usfm": "2KI 2:18"
-        },
-        {
-          "start_ref": "12002001",
-          "start_ref_usfm": "2KI 2:1",
-          "end_ref": "12009013",
-          "end_ref_usfm": "2KI 9:13"
-        },
-        {
-          "start_ref": "11019015",
-          "start_ref_usfm": "1KI 19:15",
-          "end_ref": "11019021",
-          "end_ref_usfm": "1KI 19:21"
-        },
-        {
-          "start_ref": "12003004",
-          "start_ref_usfm": "2KI 3:4",
-          "end_ref": "12003020",
-          "end_ref_usfm": "2KI 3:20"
-        },
-        {
-          "start_ref": "12004038",
-          "start_ref_usfm": "2KI 4:38",
-          "end_ref": "12004044",
-          "end_ref_usfm": "2KI 4:44"
-        },
-        {
-          "start_ref": "12013014",
-          "start_ref_usfm": "2KI 13:14",
-          "end_ref": "12013021",
-          "end_ref_usfm": "2KI 13:21"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Elisha",
-          "type": "person",
-          "preferred_label": "Elisha",
-          "confidence": 0.6646,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500569",
-    "reference_id": 203512,
-    "version": "1.0.2",
-    "title": "Ephesus",
-    "media_type": "Text",
-    "index_reference": "ephesus",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Ephesus was at the crossroads of major trade routes, both north-south and east-west. It was famous as the &quot;guardian&quot; of the temple of Artemis (<a href=\"https://ref.ly/Acts19:35\">Acts 19:35</a>). As guardian, Ephesus was officially recognized as the caretaker and protector of the temple. This was an important title that brought honor and economic benefits to the city. </p><p>Ionian Greeks founded Ephesus around 1044 BC on a natural harbor where the Cayster River flowed into a gulf of the Aegean Sea. Today, the ancient city&apos;s site is far inland. The city came under Roman rule in 41 BC. During the time of the apostles, Ephesus was wealthy, serving as a commercial and religious center. It was the most important city in the Roman province of Asia.</p><p>The worship of Artemis in Ephesus was almost as old as the city. The temple of Artemis, one of the seven wonders of the ancient world, was crucial to Ephesus&apos;s wealth and trade. Pilgrims visiting for Artemis worship created many business opportunities for idol makers and other vendors.</p><p>When Paul arrived on his third missionary journey in AD 53, Ephesus had been a city for over a thousand years (<a href=\"https://ref.ly/Acts19:1-Acts19:41\">Acts 19</a>). The people were deeply devoted to their patron goddess and her temple. As more people accepted Paul&apos;s message, this reduced business for those who made and sold statues of Artemis. This made them angry, and they started a riot that almost killed Paul (<a href=\"https://ref.ly/Acts19:24\">Acts 19:24</a>, <a href=\"https://ref.ly/Acts19:28-Acts19:31\">28–31</a>).</p><p>The church of Ephesus grew strong under Paul&apos;s teaching and leadership. People who learned from Paul in Ephesus started churches in nearby communities, like Colossae (see <span data-bnType=\"resourceReference\" data-resourceId=\"26427\" data-resourceType=\"TyndaleStudyNotesBookIntros\">Colossians Book Introduction</span>, “Setting”). However, Paul warned the Ephesian church leaders about the threat of false teachers (<a href=\"https://ref.ly/Acts20:29-Acts20:31\">Acts 20:29–31</a>).</p><p>The apostle John likely settled in Ephesus around AD 70. From there, he was exiled to the island of Patmos (<a href=\"https://ref.ly/Rev1:9\">Revelation 1:9</a>). John likely wrote Revelation while living on Patmos, probably in the AD 90s. By then, the Christian community&apos;s love and good works, praised in the letter to the Ephesians, had mostly faded (<a href=\"https://ref.ly/Rev2:4\">Revelation 2:4</a>). IAccording to the early Christian writer Irenaeus, John came back to Ephesus after his time on Patmos. He lived there until his death, which happened during the time when Trajan was emperor from AD 98 to 117. Tradition says that Mary, the mother of Jesus, also spent her final days in Ephesus under John&apos;s care (see <a href=\"https://ref.ly/John19:25-John19:27\">John 19:25–27</a>).</p><p>The Goths burned the Temple of Artemis in AD 262. The Goths were people from northern Europe who fought against the Roman Empire. By the time of the third ecumenical council (also called the Council of Ephesus) in Ephesus in AD 431, Artemis was no longer influential among the Ephesians. This change supports Paul&apos;s message that &quot;<span>man-made god</span>s&quot; like Artemis &quot;<span>are no gods at all</span>&quot; (<a href=\"https://ref.ly/Acts19:26\">Acts 19:26</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts18:19-Acts19:41\">Acts 18:19–19:41</a>; <a href=\"https://ref.ly/Acts20:16-Acts20:38\">20:16–38</a>; <a href=\"https://ref.ly/Eph1:1\">Ephesians 1:1</a>; <a href=\"https://ref.ly/Rev2:1-Rev2:7\">Revelation 2:1–7</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44019024",
-          "start_ref_usfm": "ACT 19:24",
-          "end_ref": "44019024",
-          "end_ref_usfm": "ACT 19:24"
-        },
-        {
-          "start_ref": "44019026",
-          "start_ref_usfm": "ACT 19:26",
-          "end_ref": "44019026",
-          "end_ref_usfm": "ACT 19:26"
-        },
-        {
-          "start_ref": "44019035",
-          "start_ref_usfm": "ACT 19:35",
-          "end_ref": "44019035",
-          "end_ref_usfm": "ACT 19:35"
-        },
-        {
-          "start_ref": "49001001",
-          "start_ref_usfm": "EPH 1:1",
-          "end_ref": "49001001",
-          "end_ref_usfm": "EPH 1:1"
-        },
-        {
-          "start_ref": "66001009",
-          "start_ref_usfm": "REV 1:9",
-          "end_ref": "66001009",
-          "end_ref_usfm": "REV 1:9"
-        },
-        {
-          "start_ref": "66002004",
-          "start_ref_usfm": "REV 2:4",
-          "end_ref": "66002004",
-          "end_ref_usfm": "REV 2:4"
-        },
-        {
-          "start_ref": "44019001",
-          "start_ref_usfm": "ACT 19:1",
-          "end_ref": "44019041",
-          "end_ref_usfm": "ACT 19:41"
-        },
-        {
-          "start_ref": "43019025",
-          "start_ref_usfm": "JHN 19:25",
-          "end_ref": "43019027",
-          "end_ref_usfm": "JHN 19:27"
-        },
-        {
-          "start_ref": "66002001",
-          "start_ref_usfm": "REV 2:1",
-          "end_ref": "66002007",
-          "end_ref_usfm": "REV 2:7"
-        },
-        {
-          "start_ref": "44019028",
-          "start_ref_usfm": "ACT 19:28",
-          "end_ref": "44019031",
-          "end_ref_usfm": "ACT 19:31"
-        },
-        {
-          "start_ref": "44020029",
-          "start_ref_usfm": "ACT 20:29",
-          "end_ref": "44020031",
-          "end_ref_usfm": "ACT 20:31"
-        },
-        {
-          "start_ref": "44018019",
-          "start_ref_usfm": "ACT 18:19",
-          "end_ref": "44019041",
-          "end_ref_usfm": "ACT 19:41"
-        },
-        {
-          "start_ref": "44020016",
-          "start_ref_usfm": "ACT 20:16",
-          "end_ref": "44020038",
-          "end_ref_usfm": "ACT 20:38"
-        }
-      ],
-      "resource": [
-        {
-          "reference_id": 26427,
-          "content_id": 27336,
-          "resource_code": "TyndaleStudyNotesBookIntros",
-          "label": "Colossians",
-          "language": "eng"
-        }
-      ],
-      "acai": [
-        {
-          "id": "place:Ephesus",
-          "type": "place",
-          "preferred_label": "Ephesus",
-          "confidence": 0.6605,
-          "match_method": "scored"
-        },
-        {
-          "id": "group:Ephesus",
-          "type": "group",
-          "preferred_label": "Ephesians",
-          "confidence": 0.614,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500460",
-    "reference_id": 203403,
-    "version": "1.0.2",
-    "title": "Esau",
-    "media_type": "Text",
-    "index_reference": "esau",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Esau was the son of Isaac and Rebekah and Jacob&apos;s older twin brother (<a href=\"https://ref.ly/Gen25:24-Gen25:26\">Genesis 25:24–26</a>). He was named Esau because he was hairy at birth. His descendants became known as Edomites. &quot;Edom&quot; means &quot;red,&quot; referring to: </p><ul><li><p>Esau&apos;s reddish color at birth (<a href=\"https://ref.ly/Gen25:25\">Genesis 25:25</a>)</p></li><li><p>The red lentil stew he got from Jacob (<a href=\"https://ref.ly/Gen25:30\">Genesis 25:30</a>)</p></li><li><p>The reddish color of the land where he settled (see <span data-bnType=\"resourceReference\" data-resourceId=\"11684\" data-resourceType=\"TyndaleStudyNotes\">study note on Genesis 25:25</span>)</p></li></ul><p>Esau was a skilled hunter who brought flavorful wild meat to his father. Isaac preferred its strong taste over the mild meat Jacob provided from the family flocks. One day, Esau came home very hungry after an unsuccessful hunt. Jacob convinced Esau to give up his rights and privileges of being firstborn in exchange for food (<a href=\"https://ref.ly/Gen25:29-Gen25:34\">Genesis 25:29–34</a>). Esau did not value his birthright and was driven by his physical desires (see <a href=\"https://ref.ly/Heb12:16\">Hebrews 12:16</a>).</p><p> He also married two local women who were not descendants of Abraham (<a href=\"https://ref.ly/Gen26:34-Gen26:35\">Genesis 26:34–35</a>). This may have influenced Rebekah&apos;s favoritism toward Jacob and her plan to take Isaac&apos;s blessing meant for Esau (<a href=\"https://ref.ly/Gen27:1-Gen27:40\">Genesis 27:1–40</a>). Esau&apos;s anger upon discovering his brother&apos;s deception caused Jacob to flee to Haran. The brothers reunited twenty years later when Esau showed gracious forgiveness (<a href=\"https://ref.ly/Gen33:1-Gen33:16\">Genesis 33:1–16</a>).</p><p>Esau was born with Jacob holding his heel. People saw this as a sign that Esau&apos;s descendants would serve Jacob&apos;s descendants. The Edomites began serving the Israelites during David&apos;s time (<a href=\"https://ref.ly/2Sam8:11-2Sam8:15\">2 Samuel 8:11–15</a>; <a href=\"https://ref.ly/1Chr18:11-1Chr18:13\">1 Chronicles 18:11–13</a>) and continued until Jehoram&apos;s reign (<a href=\"https://ref.ly/2Kgs8:20-2Kgs8:22\">2 Kings 8:20–22</a>; <a href=\"https://ref.ly/2Chr21:8-2Chr21:10\">2 Chronicles 21:8–10</a>). After a rebellion in 845 BC, the Edomites briefly gained independence but were conquered again by Amaziah, who ruled from 796 to 767 BC. They regained their freedom in 735 BC and stayed independent from Judah.</p><p>In the New Testament, Esau symbolizes Abraham&apos;s descendants who did not have faith and were rejected by God for his promised blessings (see <a href=\"https://ref.ly/Rom9:6-Rom9:24\">Romans 9:6–24</a>). Herod the Great was an Edomite.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen25:21-Gen25:34\">Genesis 25:21–34</a>; <a href=\"https://ref.ly/Gen26:34-Gen26:35\">26:34–35</a>; <a href=\"https://ref.ly/Gen27:1-Gen27:42\">27:1–42</a>; <a href=\"https://ref.ly/Gen28:6-Gen28:9\">28:6–9</a>; <a href=\"https://ref.ly/Gen32:3-Gen32:20\">32:3–20</a>; <a href=\"https://ref.ly/Gen33:1-Gen33:16\">33:1–16</a>; <a href=\"https://ref.ly/Gen35:28-Gen35:29\">35:28–29</a>; <a href=\"https://ref.ly/Gen36:1-Gen36:43\">36:1–43</a>; <a href=\"https://ref.ly/Deut2:1-Deut2:8\">Deuteronomy 2:1–8</a>, <a href=\"https://ref.ly/Deut2:12\">12</a>, <a href=\"https://ref.ly/Deut2:22\">22</a>, <a href=\"https://ref.ly/Deut2:29\">29</a>; <a href=\"https://ref.ly/Josh24:4\">Joshua 24:4</a>; <a href=\"https://ref.ly/Mal1:2-Mal1:5\">Malachi 1:2–5</a>; <a href=\"https://ref.ly/Rom9:6-Rom9:13\">Romans 9:6–13</a>; <a href=\"https://ref.ly/Heb11:20\">Hebrews 11:20</a>; <a href=\"https://ref.ly/Heb12:16-Heb12:17\">12:16–17</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01025025",
-          "start_ref_usfm": "GEN 25:25",
-          "end_ref": "01025025",
-          "end_ref_usfm": "GEN 25:25"
-        },
-        {
-          "start_ref": "01025030",
-          "start_ref_usfm": "GEN 25:30",
-          "end_ref": "01025030",
-          "end_ref_usfm": "GEN 25:30"
-        },
-        {
-          "start_ref": "05002012",
-          "start_ref_usfm": "DEU 2:12",
-          "end_ref": "05002012",
-          "end_ref_usfm": "DEU 2:12"
-        },
-        {
-          "start_ref": "05002022",
-          "start_ref_usfm": "DEU 2:22",
-          "end_ref": "05002022",
-          "end_ref_usfm": "DEU 2:22"
-        },
-        {
-          "start_ref": "05002029",
-          "start_ref_usfm": "DEU 2:29",
-          "end_ref": "05002029",
-          "end_ref_usfm": "DEU 2:29"
-        },
-        {
-          "start_ref": "06024004",
-          "start_ref_usfm": "JOS 24:4",
-          "end_ref": "06024004",
-          "end_ref_usfm": "JOS 24:4"
-        },
-        {
-          "start_ref": "58011020",
-          "start_ref_usfm": "HEB 11:20",
-          "end_ref": "58011020",
-          "end_ref_usfm": "HEB 11:20"
-        },
-        {
-          "start_ref": "58012016",
-          "start_ref_usfm": "HEB 12:16",
-          "end_ref": "58012016",
-          "end_ref_usfm": "HEB 12:16"
-        },
-        {
-          "start_ref": "58012016",
-          "start_ref_usfm": "HEB 12:16",
-          "end_ref": "58012017",
-          "end_ref_usfm": "HEB 12:17"
-        },
-        {
-          "start_ref": "01036001",
-          "start_ref_usfm": "GEN 36:1",
-          "end_ref": "01036043",
-          "end_ref_usfm": "GEN 36:43"
-        },
-        {
-          "start_ref": "12008020",
-          "start_ref_usfm": "2KI 8:20",
-          "end_ref": "12008022",
-          "end_ref_usfm": "2KI 8:22"
-        },
-        {
-          "start_ref": "01025024",
-          "start_ref_usfm": "GEN 25:24",
-          "end_ref": "01025026",
-          "end_ref_usfm": "GEN 25:26"
-        },
-        {
-          "start_ref": "01025029",
-          "start_ref_usfm": "GEN 25:29",
-          "end_ref": "01025034",
-          "end_ref_usfm": "GEN 25:34"
-        },
-        {
-          "start_ref": "01026034",
-          "start_ref_usfm": "GEN 26:34",
-          "end_ref": "01026035",
-          "end_ref_usfm": "GEN 26:35"
-        },
-        {
-          "start_ref": "10008011",
-          "start_ref_usfm": "2SA 8:11",
-          "end_ref": "10008015",
-          "end_ref_usfm": "2SA 8:15"
-        },
-        {
-          "start_ref": "14021008",
-          "start_ref_usfm": "2CH 21:8",
-          "end_ref": "14021010",
-          "end_ref_usfm": "2CH 21:10"
-        },
-        {
-          "start_ref": "39001002",
-          "start_ref_usfm": "MAL 1:2",
-          "end_ref": "39001005",
-          "end_ref_usfm": "MAL 1:5"
-        },
-        {
-          "start_ref": "05002001",
-          "start_ref_usfm": "DEU 2:1",
-          "end_ref": "05002008",
-          "end_ref_usfm": "DEU 2:8"
-        },
-        {
-          "start_ref": "01027001",
-          "start_ref_usfm": "GEN 27:1",
-          "end_ref": "01027040",
-          "end_ref_usfm": "GEN 27:40"
-        },
-        {
-          "start_ref": "01028006",
-          "start_ref_usfm": "GEN 28:6",
-          "end_ref": "01028009",
-          "end_ref_usfm": "GEN 28:9"
-        },
-        {
-          "start_ref": "01033001",
-          "start_ref_usfm": "GEN 33:1",
-          "end_ref": "01033016",
-          "end_ref_usfm": "GEN 33:16"
-        },
-        {
-          "start_ref": "13018011",
-          "start_ref_usfm": "1CH 18:11",
-          "end_ref": "13018013",
-          "end_ref_usfm": "1CH 18:13"
-        },
-        {
-          "start_ref": "45009006",
-          "start_ref_usfm": "ROM 9:6",
-          "end_ref": "45009024",
-          "end_ref_usfm": "ROM 9:24"
-        },
-        {
-          "start_ref": "01025021",
-          "start_ref_usfm": "GEN 25:21",
-          "end_ref": "01025034",
-          "end_ref_usfm": "GEN 25:34"
-        },
-        {
-          "start_ref": "01027001",
-          "start_ref_usfm": "GEN 27:1",
-          "end_ref": "01027042",
-          "end_ref_usfm": "GEN 27:42"
-        },
-        {
-          "start_ref": "01032003",
-          "start_ref_usfm": "GEN 32:3",
-          "end_ref": "01032020",
-          "end_ref_usfm": "GEN 32:20"
-        },
-        {
-          "start_ref": "01035028",
-          "start_ref_usfm": "GEN 35:28",
-          "end_ref": "01035029",
-          "end_ref_usfm": "GEN 35:29"
-        },
-        {
-          "start_ref": "45009006",
-          "start_ref_usfm": "ROM 9:6",
-          "end_ref": "45009013",
-          "end_ref_usfm": "ROM 9:13"
-        }
-      ],
-      "resource": [
-        {
-          "reference_id": 11684,
-          "content_id": 12516,
-          "resource_code": "TyndaleStudyNotes",
-          "label": "Genesis 25:25",
-          "language": "eng"
-        }
-      ],
-      "acai": [
-        {
-          "id": "person:Esau",
-          "type": "person",
-          "preferred_label": "Esau",
-          "confidence": 0.7326,
-          "match_method": "scored"
-        },
-        {
-          "id": "place:Edom",
-          "type": "place",
-          "preferred_label": "Edom",
-          "confidence": 0.6622,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500519",
-    "reference_id": 203462,
-    "version": "1.0.2",
-    "title": "Esther",
-    "media_type": "Text",
-    "index_reference": "esther",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Esther was queen of Persia during the reign of Xerxes I (also called Ahasuerus), who ruled from 486 to 465 BC. She was part of the <em>Diaspora</em> (&quot;scattering&quot;), descended from Jews who had been scattered among the nations during the exile in Babylon. Her family had not returned to Judah, unlike some Jews (see <a href=\"https://ref.ly/Ezra1:1-Ezra2:70\">Ezra 1–2</a>), but chose to stay in Persia, like many others. Her cousin Mordecai&apos;s important role in the Persian government suggests her family had become wealthy and comfortable.</p><p>Esther was an orphan raised by her cousin Mordecai, a minor official in the Persian government in Susa. She became queen after King Xerxes removed Queen Vashti for refusing to attend a banquet when he commanded her to do so (<a href=\"https://ref.ly/Esth1:11-Esth1:12\">Esther 1:11–12</a>).</p><p>After Esther&apos;s coronation, she quietly gained Xerxes&apos; trust by telling him about an assassination plot (<a href=\"https://ref.ly/Esth2:21-Esth2:23\">Esther 2:21–23</a>). This later allowed her to save her people from a massacre planned by Haman, a high official to the king. Through her wise advice and brave actions, Esther exposed Haman. He was executed, and the Jewish people were saved. The Jewish Festival of Purim was created to celebrate these events.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Esth2:7-Esth2:20\">Esther 2:7–20</a>; <a href=\"https://ref.ly/Esth4:4-Esth5:8\">4:4–5:8</a>; <a href=\"https://ref.ly/Esth7:1-Esth9:32\">7:1–9:32</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "17002021",
-          "start_ref_usfm": "EST 2:21",
-          "end_ref": "17002023",
-          "end_ref_usfm": "EST 2:23"
-        },
-        {
-          "start_ref": "17001011",
-          "start_ref_usfm": "EST 1:11",
-          "end_ref": "17001012",
-          "end_ref_usfm": "EST 1:12"
-        },
-        {
-          "start_ref": "15001001",
-          "start_ref_usfm": "EZR 1:1",
-          "end_ref": "15002070",
-          "end_ref_usfm": "EZR 2:70"
-        },
-        {
-          "start_ref": "17002007",
-          "start_ref_usfm": "EST 2:7",
-          "end_ref": "17002020",
-          "end_ref_usfm": "EST 2:20"
-        },
-        {
-          "start_ref": "17004004",
-          "start_ref_usfm": "EST 4:4",
-          "end_ref": "17005008",
-          "end_ref_usfm": "EST 5:8"
-        },
-        {
-          "start_ref": "17007001",
-          "start_ref_usfm": "EST 7:1",
-          "end_ref": "17009032",
-          "end_ref_usfm": "EST 9:32"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Esther",
-          "type": "person",
-          "preferred_label": "Esther",
-          "confidence": 0.695,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500525",
-    "reference_id": 203468,
-    "version": "1.0.2",
-    "title": "Ezekiel",
-    "media_type": "Text",
-    "index_reference": "ezekiel",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Ezekiel was a priest and prophet. He was born around 623 BC. He likely grew up in Jerusalem and was married (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ezekiel 24:16–18</a>). In 597 BC, he went into exile in Babylon with Jehoiachin and lived by the Kebar River. He received his calling as a prophet in Babylon on July 31, 593 BC (<a href=\"https://ref.ly/Ezek1:1\">Ezekiel 1:1</a>). We learn about his personal life from the book named after him.</p><p>Ezekiel often used unusual actions to emphasize his prophetic messages from God. For example, he demonstrated the severe food shortage during Jerusalem&apos;s final siege by eating food cooked over dung (<a href=\"https://ref.ly/Ezek4:12\">Ezekiel 4:12</a>). Another time, he lay still for 430 days, with each day representing a year of Israel&apos;s and Judah&apos;s sin (<a href=\"https://ref.ly/Ezek4:4-Ezek4:7\">Ezekiel 4:4–7</a>). When Ezekiel&apos;s wife died suddenly, he was not allowed to mourn her publicly (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ezekiel 24:16–18</a>); her death served as a serious warning of what would happen in Judah (<a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">Ezekiel 24:15–27</a>). Ezekiel&apos;s unusual actions were meant to capture people&apos;s attention.</p><p>Initially, people rejected Ezekiel&apos;s messages. However, his prophecies were proven true, and the nation stopped worshiping false gods. He taught about holiness, purity, resurrection, and ritual law (religious rules and practices). His hopeful message encouraged exiles to stay faithful during their captivity. After their return, it inspired them to look forward to greater fulfillment.</p><p>We do not know how Ezekiel died, and he is not mentioned elsewhere in the Old Testament. The New Testament refers to Ezekiel&apos;s prophecies over sixty times, mostly in the book of Revelation. Ezekiel&apos;s prophetic vision looked beyond his near future to the final judgment (God&apos;s final decision about all people) and the great hope of heaven.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Ezek2:1-Ezek2:10\">Ezekiel 2:1–10</a>; <a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">24:15–27</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "26001001",
-          "start_ref_usfm": "EZK 1:1",
-          "end_ref": "26001001",
-          "end_ref_usfm": "EZK 1:1"
-        },
-        {
-          "start_ref": "26004012",
-          "start_ref_usfm": "EZK 4:12",
-          "end_ref": "26004012",
-          "end_ref_usfm": "EZK 4:12"
-        },
-        {
-          "start_ref": "26024016",
-          "start_ref_usfm": "EZK 24:16",
-          "end_ref": "26024018",
-          "end_ref_usfm": "EZK 24:18"
-        },
-        {
-          "start_ref": "26024015",
-          "start_ref_usfm": "EZK 24:15",
-          "end_ref": "26024027",
-          "end_ref_usfm": "EZK 24:27"
-        },
-        {
-          "start_ref": "26002001",
-          "start_ref_usfm": "EZK 2:1",
-          "end_ref": "26002010",
-          "end_ref_usfm": "EZK 2:10"
-        },
-        {
-          "start_ref": "26004004",
-          "start_ref_usfm": "EZK 4:4",
-          "end_ref": "26004007",
-          "end_ref_usfm": "EZK 4:7"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Ezekiel",
-          "type": "person",
-          "preferred_label": "Ezekiel",
-          "confidence": 0.6138,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:WifeOfEzekiel",
-          "type": "person",
-          "preferred_label": "Wife of Ezekiel",
-          "confidence": 0.6,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500516",
-    "reference_id": 203459,
-    "version": "1.0.2",
-    "title": "Ezra",
-    "media_type": "Text",
-    "index_reference": "ezra",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Ezra was a priest and scribe (teacher and copier of Scripture). He came from an important family of high priests descended from Zadok (<a href=\"https://ref.ly/Ezra7:1-Ezra7:5\">Ezra 7:1–5</a>, <a href=\"https://ref.ly/Ezra7:11-Ezra7:12\">11–12</a>; see also <a href=\"https://ref.ly/Neh8:2\">Nehemiah 8:2</a>, <a href=\"https://ref.ly/Neh8:9\">9</a>). He led in Judah after the Jews returned from exile. As a scribe, Ezra was more than a copyist; he was a dedicated student of God&apos;s laws (<a href=\"https://ref.ly/Ezra7:6\">Ezra 7:6</a>). He was qualified to teach, preach, and explain the Scriptures.</p><p>Ezra, an important official who helped the king with Jewish matters in the Persian Empire, visited Jerusalem around 458 BC. He brought items for the Temple and aimed to establish God&apos;s laws and the laws of Persia. One of his first actions was to address the issue of intermarriage with non-Jewish neighbors (<a href=\"https://ref.ly/Ezra9:1-Ezra10:44\">Ezra 9:1–10:44</a>). Later, after the city walls were rebuilt in 445 BC (<a href=\"https://ref.ly/Neh6:15\">Nehemiah 6:15</a>), Ezra led the community to follow God&apos;s law more closely (<a href=\"https://ref.ly/Neh8:13-Neh8:15\">Nehemiah 8:13–15</a>).</p><p>Ezra honored God by managing finances well. The Persian king trusted Ezra&apos;s judgment and let him request more money when needed (<a href=\"https://ref.ly/Ezra7:15-Ezra7:20\">Ezra 7:15–20</a>). Ezra gave financial responsibilities to others whenever possible and demanded strict financial honesty (<a href=\"https://ref.ly/Ezra8:24-Ezra8:30\">Ezra 8:24–30</a>). He identified some financial resources as sacred and belonging to God.</p><p>Ezra humbled himself before God when the people began their journey (<a href=\"https://ref.ly/Ezra8:21-Ezra8:23\">Ezra 8:21–23</a>), when he learned about the people&apos;s unholy marriages (<a href=\"https://ref.ly/Ezra9:5-Ezra9:15\">Ezra 9:5–15</a>), and when he gathered those required to divorce their pagan wives (<a href=\"https://ref.ly/Ezra10:6\">10:6</a>). He always recognized that God&apos;s gracious hand—not his own ability or wisdom—made good things happen (<a href=\"https://ref.ly/Ezra7:6\">Ezra 7:6</a>, <a href=\"https://ref.ly/Ezra7:9\">9</a>, <a href=\"https://ref.ly/Ezra7:28\">28</a>; <a href=\"https://ref.ly/Ezra8:18\">8:18</a>, <a href=\"https://ref.ly/Ezra8:22\">22</a>, <a href=\"https://ref.ly/Ezra8:31\">31</a>; <a href=\"https://ref.ly/Ezra9:8-Ezra9:9\">9:8–9</a>). He studied and lived by God&apos;s Word and taught others to follow what God revealed (<a href=\"https://ref.ly/Ezra7:10\">Ezra 7:10</a>). He was a teacher and servant-leader, not a self-important official who dominated others.</p><p>Ezra showed his devotion through prayer and fasting. This showed his strong desire to help people follow God. He set an example for life in the Jewish community after the exile, focusing on God&apos;s Word and worship as main priorities.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Ezra7:1-Ezra10:44\">Ezra 7:1–10:44</a>; <a href=\"https://ref.ly/Neh8:1-Neh8:18\">Nehemiah 8:1–18</a>; <a href=\"https://ref.ly/Neh12:1\">12:1</a>, <a href=\"https://ref.ly/Neh12:26\">26</a>, <a href=\"https://ref.ly/Neh12:36\">36</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "15007006",
-          "start_ref_usfm": "EZR 7:6",
-          "end_ref": "15007006",
-          "end_ref_usfm": "EZR 7:6"
-        },
-        {
-          "start_ref": "15007009",
-          "start_ref_usfm": "EZR 7:9",
-          "end_ref": "15007009",
-          "end_ref_usfm": "EZR 7:9"
-        },
-        {
-          "start_ref": "15007010",
-          "start_ref_usfm": "EZR 7:10",
-          "end_ref": "15007010",
-          "end_ref_usfm": "EZR 7:10"
-        },
-        {
-          "start_ref": "15007028",
-          "start_ref_usfm": "EZR 7:28",
-          "end_ref": "15007028",
-          "end_ref_usfm": "EZR 7:28"
-        },
-        {
-          "start_ref": "15008018",
-          "start_ref_usfm": "EZR 8:18",
-          "end_ref": "15008018",
-          "end_ref_usfm": "EZR 8:18"
-        },
-        {
-          "start_ref": "15008022",
-          "start_ref_usfm": "EZR 8:22",
-          "end_ref": "15008022",
-          "end_ref_usfm": "EZR 8:22"
-        },
-        {
-          "start_ref": "15008031",
-          "start_ref_usfm": "EZR 8:31",
-          "end_ref": "15008031",
-          "end_ref_usfm": "EZR 8:31"
-        },
-        {
-          "start_ref": "15010006",
-          "start_ref_usfm": "EZR 10:6",
-          "end_ref": "15010006",
-          "end_ref_usfm": "EZR 10:6"
-        },
-        {
-          "start_ref": "16006015",
-          "start_ref_usfm": "NEH 6:15",
-          "end_ref": "16006015",
-          "end_ref_usfm": "NEH 6:15"
-        },
-        {
-          "start_ref": "16008002",
-          "start_ref_usfm": "NEH 8:2",
-          "end_ref": "16008002",
-          "end_ref_usfm": "NEH 8:2"
-        },
-        {
-          "start_ref": "16008009",
-          "start_ref_usfm": "NEH 8:9",
-          "end_ref": "16008009",
-          "end_ref_usfm": "NEH 8:9"
-        },
-        {
-          "start_ref": "16012001",
-          "start_ref_usfm": "NEH 12:1",
-          "end_ref": "16012001",
-          "end_ref_usfm": "NEH 12:1"
-        },
-        {
-          "start_ref": "16012026",
-          "start_ref_usfm": "NEH 12:26",
-          "end_ref": "16012026",
-          "end_ref_usfm": "NEH 12:26"
-        },
-        {
-          "start_ref": "16012036",
-          "start_ref_usfm": "NEH 12:36",
-          "end_ref": "16012036",
-          "end_ref_usfm": "NEH 12:36"
-        },
-        {
-          "start_ref": "15007001",
-          "start_ref_usfm": "EZR 7:1",
-          "end_ref": "15007005",
-          "end_ref_usfm": "EZR 7:5"
-        },
-        {
-          "start_ref": "15009001",
-          "start_ref_usfm": "EZR 9:1",
-          "end_ref": "15010044",
-          "end_ref_usfm": "EZR 10:44"
-        },
-        {
-          "start_ref": "15007001",
-          "start_ref_usfm": "EZR 7:1",
-          "end_ref": "15010044",
-          "end_ref_usfm": "EZR 10:44"
-        },
-        {
-          "start_ref": "15007011",
-          "start_ref_usfm": "EZR 7:11",
-          "end_ref": "15007012",
-          "end_ref_usfm": "EZR 7:12"
-        },
-        {
-          "start_ref": "15008024",
-          "start_ref_usfm": "EZR 8:24",
-          "end_ref": "15008030",
-          "end_ref_usfm": "EZR 8:30"
-        },
-        {
-          "start_ref": "15009008",
-          "start_ref_usfm": "EZR 9:8",
-          "end_ref": "15009009",
-          "end_ref_usfm": "EZR 9:9"
-        },
-        {
-          "start_ref": "15009005",
-          "start_ref_usfm": "EZR 9:5",
-          "end_ref": "15009015",
-          "end_ref_usfm": "EZR 9:15"
-        },
-        {
-          "start_ref": "16008013",
-          "start_ref_usfm": "NEH 8:13",
-          "end_ref": "16008015",
-          "end_ref_usfm": "NEH 8:15"
-        },
-        {
-          "start_ref": "15007015",
-          "start_ref_usfm": "EZR 7:15",
-          "end_ref": "15007020",
-          "end_ref_usfm": "EZR 7:20"
-        },
-        {
-          "start_ref": "15008021",
-          "start_ref_usfm": "EZR 8:21",
-          "end_ref": "15008023",
-          "end_ref_usfm": "EZR 8:23"
-        },
-        {
-          "start_ref": "16008001",
-          "start_ref_usfm": "NEH 8:1",
-          "end_ref": "16008018",
-          "end_ref_usfm": "NEH 8:18"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Ezra",
-          "type": "person",
-          "preferred_label": "Ezra",
-          "confidence": 0.6607,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Ezra.2",
-          "type": "person",
-          "preferred_label": "Ezra",
-          "confidence": 0.6028,
-          "match_method": "scored"
-        }
-      ]
-    }
-  }
+{
+"content_id": "500467",
+"reference_id": 203410,
+"version": "1.0.2",
+"title": "Egypt",
+"media_type": "Text",
+"index_reference": "egypt",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Egypt was a great and ancient civilization when Joseph rose to power and Jacob’s family traveled there for food (<a href=\"https://ref.ly/Gen39:1-Gen41:57\">Genesis 39–41</a>; <a href=\"https://ref.ly/Gen42:1-Gen46:34\">42–46</a>; compare <a href=\"https://ref.ly/Gen12:10-Gen12:20\">12:10–20</a>). Egypt was well protected from enemies because of where it was located. The Mediterranean Sea to the north had no harbors. The rough Sinai Peninsula lay to the east, and a huge desert stretched to the west. This natural protection made Egypt a safe place for people from other lands during times when there was no rain.</p><p>People call Egypt &quot;the gift of the Nile&quot; because no other river has been so essential to a nation&apos;s history. Egyptians referred to it as &quot;the River.&quot; The Nile is more than the longest river in the world. Without its water, civilization in Egypt would not have existed. The Nile is Egypt&apos;s lifeline, and Egyptians worshiped it for the life and fertility it provided. The river&apos;s yearly floods brought new, fertile soil for crops. The river provided fish and birds for food, along with clean water for drinking and washing. It also served as the main route for travel, trade, and communication. During droughts, when nearby nations faced famine, the Nile gave Egypt a steady supply of fresh water. The Nile shaped every part of life in Egypt and made Egypt what it was.</p><p>Egypt played an important role in biblical events. Abraham lived there during a famine (<a href=\"https://ref.ly/Gen12:10-Gen12:20\">Genesis 12:10–20</a>). Joseph was sold into slavery in Egypt and became a leader, similar to a prime minister (<a href=\"https://ref.ly/Gen37:1-Gen41:57\">Genesis 37–41</a>). Joseph’s family later moved to the eastern delta region of Goshen during another famine (<a href=\"https://ref.ly/Gen42:1-Gen50:26\">Genesis 42–50</a>). Their descendants were eventually enslaved (<a href=\"https://ref.ly/Exod1:1-Exod1:22\">Exodus 1</a>). God&apos;s rescue of his people during the exodus from Egypt became a key story for the Jewish people (<a href=\"https://ref.ly/Exod2:1-Exod15:27\">Exodus 2–15</a>).</p><p>Later, when Israel was ruled by kings, Egypt often joined the fight for international power (for example, <a href=\"https://ref.ly/1Kgs14:25-1Kgs14:28\">1 Kings 14:25–28</a>). After the Babylonians destroyed Jerusalem in 586 BC, some Jews moved to Egypt to escape Babylon’s control (<a href=\"https://ref.ly/Jer43:6-Jer43:7\">Jeremiah 43:6–7</a>).</p><p>At the start of the New Testament, Egypt became a safe place for Joseph, Mary, and Jesus. They escaped there to avoid Herod the Great&apos;s attempts to kill Jesus (<a href=\"https://ref.ly/Matt2:13-Matt2:23\">Matthew 2:13–23</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen12:10-Gen12:20\">Genesis 12:10–20</a>; <a href=\"https://ref.ly/Gen37:1-Gen50:26\">37:1–50:26</a>; <a href=\"https://ref.ly/Exod1:1-Exod15:21\">Exodus 1:1–15:21</a>; <a href=\"https://ref.ly/1Kgs14:25-1Kgs14:28\">1 Kings 14:25–28</a>; <a href=\"https://ref.ly/Isa19:1-Isa19:25\">Isaiah 19:1–25</a>; <a href=\"https://ref.ly/Jer43:1-Jer43:13\">Jeremiah 43</a>; <a href=\"https://ref.ly/Jer46:7-Jer46:8\">46:7–8</a>; <a href=\"https://ref.ly/Ezek29:1-Ezek29:21\">Ezekiel 29:1–21</a>; <a href=\"https://ref.ly/Amos8:8\">Amos 8:8</a>; <a href=\"https://ref.ly/Amos9:5\">9:5</a>; <a href=\"https://ref.ly/Zech10:11\">Zechariah 10:11</a>; <a href=\"https://ref.ly/Matt2:13-Matt2:23\">Matthew 2:13–23</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "30008008",
+"start_ref_usfm": "AMO 8:8",
+"end_ref": "30008008",
+"end_ref_usfm": "AMO 8:8"
+},
+{
+"start_ref": "30009005",
+"start_ref_usfm": "AMO 9:5",
+"end_ref": "30009005",
+"end_ref_usfm": "AMO 9:5"
+},
+{
+"start_ref": "38010011",
+"start_ref_usfm": "ZEC 10:11",
+"end_ref": "38010011",
+"end_ref_usfm": "ZEC 10:11"
+},
+{
+"start_ref": "01012010",
+"start_ref_usfm": "GEN 12:10",
+"end_ref": "01012020",
+"end_ref_usfm": "GEN 12:20"
+},
+{
+"start_ref": "24043006",
+"start_ref_usfm": "JER 43:6",
+"end_ref": "24043007",
+"end_ref_usfm": "JER 43:7"
+},
+{
+"start_ref": "40002013",
+"start_ref_usfm": "MAT 2:13",
+"end_ref": "40002023",
+"end_ref_usfm": "MAT 2:23"
+},
+{
+"start_ref": "11014025",
+"start_ref_usfm": "1KI 14:25",
+"end_ref": "11014028",
+"end_ref_usfm": "1KI 14:28"
+},
+{
+"start_ref": "23019001",
+"start_ref_usfm": "ISA 19:1",
+"end_ref": "23019025",
+"end_ref_usfm": "ISA 19:25"
+},
+{
+"start_ref": "01037001",
+"start_ref_usfm": "GEN 37:1",
+"end_ref": "01050026",
+"end_ref_usfm": "GEN 50:26"
+},
+{
+"start_ref": "24046007",
+"start_ref_usfm": "JER 46:7",
+"end_ref": "24046008",
+"end_ref_usfm": "JER 46:8"
+},
+{
+"start_ref": "26029001",
+"start_ref_usfm": "EZK 29:1",
+"end_ref": "26029021",
+"end_ref_usfm": "EZK 29:21"
+},
+{
+"start_ref": "02001001",
+"start_ref_usfm": "EXO 1:1",
+"end_ref": "02001022",
+"end_ref_usfm": "EXO 1:22"
+},
+{
+"start_ref": "01039001",
+"start_ref_usfm": "GEN 39:1",
+"end_ref": "01041057",
+"end_ref_usfm": "GEN 41:57"
+},
+{
+"start_ref": "01042001",
+"start_ref_usfm": "GEN 42:1",
+"end_ref": "01046034",
+"end_ref_usfm": "GEN 46:34"
+},
+{
+"start_ref": "01037001",
+"start_ref_usfm": "GEN 37:1",
+"end_ref": "01041057",
+"end_ref_usfm": "GEN 41:57"
+},
+{
+"start_ref": "01042001",
+"start_ref_usfm": "GEN 42:1",
+"end_ref": "01050026",
+"end_ref_usfm": "GEN 50:26"
+},
+{
+"start_ref": "02002001",
+"start_ref_usfm": "EXO 2:1",
+"end_ref": "02015027",
+"end_ref_usfm": "EXO 15:27"
+},
+{
+"start_ref": "02001001",
+"start_ref_usfm": "EXO 1:1",
+"end_ref": "02015021",
+"end_ref_usfm": "EXO 15:21"
+},
+{
+"start_ref": "24043001",
+"start_ref_usfm": "JER 43:1",
+"end_ref": "24043013",
+"end_ref_usfm": "JER 43:13"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.7031,
+"match_method": "scored"
+},
+{
+"id": "place:Syene",
+"type": "place",
+"preferred_label": "Syene",
+"confidence": 0.6004,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500472",
+"reference_id": 203415,
+"version": "1.0.2",
+"title": "Eleazar",
+"media_type": "Text",
+"index_reference": "eleazar",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Eleazar was the third son of Aaron, the first high priest (<a href=\"https://ref.ly/Exod6:23\">Exodus 6:23</a>). Eleazar&apos;s two older brothers, Nadab and Abihu, angered God by offering incense differently than God commanded (<a href=\"https://ref.ly/Lev10:1-Lev10:7\">Leviticus 10:1–7</a>). Because they disobeyed, God killed them. As the next oldest son, Eleazar was next in line to become high priest. He performed priestly duties during his father&apos;s life and assisted his father and Moses when some Levites rebelled, seeking equal status with Aaron&apos;s priestly family (<a href=\"https://ref.ly/Num16:36-Num16:40\">Numbers 16:36–40</a>).</p><p>Aaron died in the wilderness shortly before the Israelites entered the Promised Land. He could not enter because he and Moses had disobeyed God by striking the rock at Meribah (<a href=\"https://ref.ly/Num20:1-Num20:13\">Numbers 20:1–13</a>). Before Aaron died, he, Moses, and Eleazar went up on Mount Hor. There, Moses took the priestly garments from Aaron and gave them to his son (<a href=\"https://ref.ly/Num20:22-Num20:29\">Numbers 20:22–29</a>).</p><p>After this, Eleazar served as high priest for the rest of his life, including during the time when the Israelites took control of the land of Canaan. When it was time to divide the land among the tribes, Eleazar and Joshua used sacred lots to decide where each tribe would settle (<a href=\"https://ref.ly/Josh14:1-Josh14:5\">Joshua 14:1–5</a>). When Eleazar died, his son Phinehas became high priest. Phinehas had shown his faithfulness to the covenant when Israel started worshiping the gods of Moab (<a href=\"https://ref.ly/Num25:1-Num25:18\">Numbers 25</a>). Eleazar&apos;s descendants included: </p><ul><li><p>Zadok, the faithful priest who replaced Abiathar (<a href=\"https://ref.ly/1Kgs2:26-1Kgs2:27\">1 Kings 2:26–27</a>, <a href=\"https://ref.ly/1Kgs2:35\">35</a>; see <a href=\"https://ref.ly/1Chr6:3-1Chr6:8\">1 Chronicles 6:3–8</a>, <a href=\"https://ref.ly/1Chr6:50-1Chr6:53\">50–53</a>)</p></li><li><p>Ezra, who played a key role in rebuilding Judea after the Exile (see <a href=\"https://ref.ly/Ezra7:1-Ezra7:5\">Ezra 7:1–5</a>)</p></li></ul><p>In Ezekiel&apos;s ideal temple, only Eleazar&apos;s descendants through Zadok would be allowed to serve (<a href=\"https://ref.ly/Ezek44:15\">Ezekiel 44:15</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Exod6:23-Exod6:25\">Exodus 6:23–25</a>; <a href=\"https://ref.ly/Lev10:6-Lev10:7\">Leviticus 10:6–7</a>; <a href=\"https://ref.ly/Num3:1-Num3:4\">Numbers 3:1–4</a>; <a href=\"https://ref.ly/Num16:36-Num16:40\">Numbers 16:36–40</a>; <a href=\"https://ref.ly/Num20:22-Num20:26\">Numbers 20:22–26</a>; <a href=\"https://ref.ly/Num26:1-Num26:4\">Numbers 26:1–4</a>; <a href=\"https://ref.ly/Josh14:1\">Joshua 14:1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02006023",
+"start_ref_usfm": "EXO 6:23",
+"end_ref": "02006023",
+"end_ref_usfm": "EXO 6:23"
+},
+{
+"start_ref": "06014001",
+"start_ref_usfm": "JOS 14:1",
+"end_ref": "06014001",
+"end_ref_usfm": "JOS 14:1"
+},
+{
+"start_ref": "11002035",
+"start_ref_usfm": "1KI 2:35",
+"end_ref": "11002035",
+"end_ref_usfm": "1KI 2:35"
+},
+{
+"start_ref": "26044015",
+"start_ref_usfm": "EZK 44:15",
+"end_ref": "26044015",
+"end_ref_usfm": "EZK 44:15"
+},
+{
+"start_ref": "11002026",
+"start_ref_usfm": "1KI 2:26",
+"end_ref": "11002027",
+"end_ref_usfm": "1KI 2:27"
+},
+{
+"start_ref": "04025001",
+"start_ref_usfm": "NUM 25:1",
+"end_ref": "04025018",
+"end_ref_usfm": "NUM 25:18"
+},
+{
+"start_ref": "13006003",
+"start_ref_usfm": "1CH 6:3",
+"end_ref": "13006008",
+"end_ref_usfm": "1CH 6:8"
+},
+{
+"start_ref": "03010001",
+"start_ref_usfm": "LEV 10:1",
+"end_ref": "03010007",
+"end_ref_usfm": "LEV 10:7"
+},
+{
+"start_ref": "04003001",
+"start_ref_usfm": "NUM 3:1",
+"end_ref": "04003004",
+"end_ref_usfm": "NUM 3:4"
+},
+{
+"start_ref": "13006050",
+"start_ref_usfm": "1CH 6:50",
+"end_ref": "13006053",
+"end_ref_usfm": "1CH 6:53"
+},
+{
+"start_ref": "15007001",
+"start_ref_usfm": "EZR 7:1",
+"end_ref": "15007005",
+"end_ref_usfm": "EZR 7:5"
+},
+{
+"start_ref": "02006023",
+"start_ref_usfm": "EXO 6:23",
+"end_ref": "02006025",
+"end_ref_usfm": "EXO 6:25"
+},
+{
+"start_ref": "04016036",
+"start_ref_usfm": "NUM 16:36",
+"end_ref": "04016040",
+"end_ref_usfm": "NUM 16:40"
+},
+{
+"start_ref": "03010006",
+"start_ref_usfm": "LEV 10:6",
+"end_ref": "03010007",
+"end_ref_usfm": "LEV 10:7"
+},
+{
+"start_ref": "04020022",
+"start_ref_usfm": "NUM 20:22",
+"end_ref": "04020029",
+"end_ref_usfm": "NUM 20:29"
+},
+{
+"start_ref": "04020001",
+"start_ref_usfm": "NUM 20:1",
+"end_ref": "04020013",
+"end_ref_usfm": "NUM 20:13"
+},
+{
+"start_ref": "04026001",
+"start_ref_usfm": "NUM 26:1",
+"end_ref": "04026004",
+"end_ref_usfm": "NUM 26:4"
+},
+{
+"start_ref": "06014001",
+"start_ref_usfm": "JOS 14:1",
+"end_ref": "06014005",
+"end_ref_usfm": "JOS 14:5"
+},
+{
+"start_ref": "04020022",
+"start_ref_usfm": "NUM 20:22",
+"end_ref": "04020026",
+"end_ref_usfm": "NUM 20:26"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Eleazar.2",
+"type": "person",
+"preferred_label": "Eleazar",
+"confidence": 0.6884,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500483",
+"reference_id": 203426,
+"version": "1.0.2",
+"title": "Eli",
+"media_type": "Text",
+"index_reference": "eli",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Eli was Israel’s chief priest at the tabernacle in Shiloh, the central place of worship during the time of the judges. Eli likely descended from Ithamar, Aaron’s youngest son (see <a href=\"https://ref.ly/1Kgs2:27\">1 Kings 2:27</a>; <a href=\"https://ref.ly/1Chr18:16\">1 Chronicles 18:16</a>; <a href=\"https://ref.ly/1Chr24:3\">24:3</a>). Eli was sincere and devout, but he struggled to discipline his wicked sons, Hophni and Phinehas.</p><p>When Eli met Hannah at the tabernacle, he wrongly thought she was drunk because she prayed silently for a child. After realizing his mistake, Eli blessed Hannah. God answered her prayer by giving her a son named Samuel.</p><p>Samuel gained favor with the Lord and the people (<a href=\"https://ref.ly/1Sam2:26\">1 Samuel 2:26</a>). But Eli&apos;s sons were disrespectful and dishonest (<a href=\"https://ref.ly/1Sam2:12\">1 Samuel 2:12</a>). They stole from offerings and seduced women serving at the tabernacle. When Eli scolded them, they ignored him. God sent a prophet to criticize Eli&apos;s weakness and his sons&apos; wrongdoing, announcing that God would remove the priesthood from Eli&apos;s family (<a href=\"https://ref.ly/1Sam2:27-1Sam2:36\">1 Samuel 2:27–36</a>). This message was confirmed when God spoke to Samuel one night, telling him that he would soon punish Eli&apos;s family (<a href=\"https://ref.ly/1Sam3:1-1Sam3:14\">1 Samuel 3:1–14</a>). </p><p>Soon after, Israel&apos;s army lost a battle to the Philistines, the ark of the covenant was captured, and Eli&apos;s sons died (<a href=\"https://ref.ly/1Sam4:1-1Sam4:11\">1 Samuel 4:1–11</a>). When Eli, who was ninety-eight years old, heard the news, he fell backward, broke his neck, and died (<a href=\"https://ref.ly/1Sam4:12-1Sam4:18\">1 Samuel 4:12–18</a>). His daughter-in-law went into labor and died while giving birth to Eli&apos;s grandson, named Ichabod (meaning &quot;where is the glory?,&quot; because the glory had left Israel (<a href=\"https://ref.ly/1Sam4:19-1Sam4:22\">1 Samuel 4:19–22</a>).</p><p>Eli&apos;s family continued serving as priests until King David died. Abiathar was the last of Eli&apos;s descendants to serve as chief priest. Solomon removed Abiathar from being priest because Abiathar had supported Adonijah, who tried to become king instead of Solomon. Solomon then made Zadok the chief priest (<a href=\"https://ref.ly/1Kgs2:27\">1 Kings 2:27</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Sam1:9-1Sam1:18\">1 Samuel 1:9–18</a>, <a href=\"https://ref.ly/1Sam1:25-1Sam1:28\">25–28</a>; <a href=\"https://ref.ly/1Sam2:11-1Sam4:22\">1 Samuel 2:11–4:22</a>; <a href=\"https://ref.ly/1Kgs2:27\">1 Kings 2:27</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09002012",
+"start_ref_usfm": "1SA 2:12",
+"end_ref": "09002012",
+"end_ref_usfm": "1SA 2:12"
+},
+{
+"start_ref": "09002026",
+"start_ref_usfm": "1SA 2:26",
+"end_ref": "09002026",
+"end_ref_usfm": "1SA 2:26"
+},
+{
+"start_ref": "11002027",
+"start_ref_usfm": "1KI 2:27",
+"end_ref": "11002027",
+"end_ref_usfm": "1KI 2:27"
+},
+{
+"start_ref": "13018016",
+"start_ref_usfm": "1CH 18:16",
+"end_ref": "13018016",
+"end_ref_usfm": "1CH 18:16"
+},
+{
+"start_ref": "13024003",
+"start_ref_usfm": "1CH 24:3",
+"end_ref": "13024003",
+"end_ref_usfm": "1CH 24:3"
+},
+{
+"start_ref": "09004001",
+"start_ref_usfm": "1SA 4:1",
+"end_ref": "09004011",
+"end_ref_usfm": "1SA 4:11"
+},
+{
+"start_ref": "09004019",
+"start_ref_usfm": "1SA 4:19",
+"end_ref": "09004022",
+"end_ref_usfm": "1SA 4:22"
+},
+{
+"start_ref": "09002027",
+"start_ref_usfm": "1SA 2:27",
+"end_ref": "09002036",
+"end_ref_usfm": "1SA 2:36"
+},
+{
+"start_ref": "09003001",
+"start_ref_usfm": "1SA 3:1",
+"end_ref": "09003014",
+"end_ref_usfm": "1SA 3:14"
+},
+{
+"start_ref": "09004012",
+"start_ref_usfm": "1SA 4:12",
+"end_ref": "09004018",
+"end_ref_usfm": "1SA 4:18"
+},
+{
+"start_ref": "09001009",
+"start_ref_usfm": "1SA 1:9",
+"end_ref": "09001018",
+"end_ref_usfm": "1SA 1:18"
+},
+{
+"start_ref": "09001025",
+"start_ref_usfm": "1SA 1:25",
+"end_ref": "09001028",
+"end_ref_usfm": "1SA 1:28"
+},
+{
+"start_ref": "09002011",
+"start_ref_usfm": "1SA 2:11",
+"end_ref": "09004022",
+"end_ref_usfm": "1SA 4:22"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Eli",
+"type": "person",
+"preferred_label": "Eli",
+"confidence": 0.7302,
+"match_method": "scored"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.6779,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500502",
+"reference_id": 203445,
+"version": "1.0.2",
+"title": "Elijah",
+"media_type": "Text",
+"index_reference": "elijah",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Elijah from Tishbe was a prophet in Israel during the reigns of Ahab and Ahaziah, from 874 to 852 BC. His name means “my God is Yahweh.” He showed that the Lord is the one true God and urged Israel to return to the Lord.</p><p>Under Ahab and Jezebel, Israel started worshiping Baal, a Canaanite god of fertility, storms, and rain. As a result, God sent a drought to Israel (<a href=\"https://ref.ly/1Kgs17:1\">1 Kings 17:1</a>). Elijah hid until the drought ended, and God took care of him. During this time, he stayed with a widow in Zarephath, a town in Jezebel’s home region of Sidon. The widow’s son died, but Elijah prayed for him, and he came back to life (<a href=\"https://ref.ly/1Kgs17:8-1Kgs17:24\">1 Kings 17:8–24</a>).</p><p>In the third year of drought, Elijah challenged Baal&apos;s prophets to a contest on Mount Carmel to show who the true God was (<a href=\"https://ref.ly/1Kgs18:1-1Kgs18:40\">1 Kings 18:1–40</a>). The prophets of Baal called on Baal without success, becoming frantic to make him appear, while Elijah mocked Baal. When it was Elijah&apos;s turn, he poured water over his sacrifice and prayed a simple, powerful prayer. Fire immediately consumed the offering. In response, the people of Israel worshiped the Lord and, following Elijah&apos;s direction, killed Baal&apos;s prophets. Then Elijah prayed for rain, and the drought ended (<a href=\"https://ref.ly/1Kgs18:41-1Kgs18:46\">1 Kings 18:41–46</a>).</p><p>Despite God&apos;s great power, Ahab and Jezebel continued to mislead Israel. Jezebel was angry because her prophets were killed (<a href=\"https://ref.ly/1Kgs19:1-1Kgs19:2\">1 Kings 19:1–2</a>). She threatened Elijah, who escaped to the desert and asked God to end his life. Instead, an angel fed him until he reached Mount Sinai. Elijah complained that he was the only prophet left and that his life was in danger. God encouraged him with a gentle voice, shared good news, and sent him back to serve (<a href=\"https://ref.ly/1Kgs19:3-1Kgs19:18\">1 Kings 19:3–18</a>).</p><p>Elijah was very dedicated to the true God. He trained an assistant named Elisha. At the end of Elijah&apos;s life on Earth, he did not die but was taken to heaven in a chariot of fire (<a href=\"https://ref.ly/2Kgs2:11-2Kgs2:12\">2 Kings 2:11–12</a>). Elisha took on Elijah&apos;s role as a prophet and continued to challenge false worship in Israel (see <a href=\"https://ref.ly/2Kgs2:1-2Kgs9:13\">2 Kings 2:1–9:13</a>; <a href=\"https://ref.ly/2Kgs13:14-2Kgs13:25\">13:14–25</a>).</p><p>The Old Testament ends with the hope that Elijah will return before the day of the Lord (<a href=\"https://ref.ly/Mal4:5-Mal4:6\">Malachi 4:5–6</a>). John the Baptist partly fulfilled this expectation (see <a href=\"https://ref.ly/Matt11:7-Matt11:14\">Matthew 11:7–14</a>; <a href=\"https://ref.ly/Matt17:10-Matt17:13\">17:10–13</a>; <a href=\"https://ref.ly/Luke1:17\">Luke 1:17</a>). Elijah appeared with Moses during Jesus&apos; transfiguration (when Jesus&apos;s appearance changed to show his divine glory; <a href=\"https://ref.ly/Matt17:1-Matt17:9\">Matthew 17:1–9</a>). In <a href=\"https://ref.ly/Rev11:3-Rev11:12\">Revelation 11:3–12</a>, one of the two witnesses seems to be either Elijah himself or someone like him. Elijah’s life shows God’s kindness and the power of prayer (<a href=\"https://ref.ly/Luke4:25-Luke4:26\">Luke 4:25–26</a>; <a href=\"https://ref.ly/Rom11:2-Rom11:6\">Romans 11:2–6</a>; <a href=\"https://ref.ly/Jas5:17-Jas5:18\">James 5:17–18</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Kgs17:1-1Kgs19:21\">1 Kings 17:1–19:21</a>; <a href=\"https://ref.ly/1Kgs21:1-1Kgs21:29\">21:1–29</a>; <a href=\"https://ref.ly/2Kgs1:1-2Kgs2:25\">2 Kings 1:1–2:25</a>; <a href=\"https://ref.ly/2Kgs9:36\">9:36</a>; <a href=\"https://ref.ly/2Kgs10:10\">10:10</a>, <a href=\"https://ref.ly/2Kgs10:17\">17</a>; <a href=\"https://ref.ly/2Chr21:12-2Chr21:15\">2 Chronicles 21:12–15</a>; <a href=\"https://ref.ly/Mal4:5-Mal4:6\">Malachi 4:5–6</a>; <a href=\"https://ref.ly/Matt11:14\">Matthew 11:14</a>; <a href=\"https://ref.ly/Matt16:14\">16:14</a>; <a href=\"https://ref.ly/Matt17:1-Matt17:13\">17:1–13</a>; <a href=\"https://ref.ly/Matt27:45-Matt27:49\">27:45–49</a>; <a href=\"https://ref.ly/Mark6:15\">Mark 6:15</a>; <a href=\"https://ref.ly/Mark8:28\">8:28</a>; <a href=\"https://ref.ly/Mark9:2-Mark9:13\">9:2–13</a>; <a href=\"https://ref.ly/Mark15:33-Mark15:36\">15:33–36</a>; <a href=\"https://ref.ly/Luke1:17\">Luke 1:17</a>; <a href=\"https://ref.ly/Luke4:26\">4:26</a>; <a href=\"https://ref.ly/Luke9:28-Luke9:36\">9:28–36</a>; <a href=\"https://ref.ly/John1:19-John1:28\">John 1:19–28</a>; <a href=\"https://ref.ly/Rom11:1-Rom11:6\">Romans 11:1–6</a>; <a href=\"https://ref.ly/Jas5:17\">James 5:17</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11017001",
+"start_ref_usfm": "1KI 17:1",
+"end_ref": "11017001",
+"end_ref_usfm": "1KI 17:1"
+},
+{
+"start_ref": "12009036",
+"start_ref_usfm": "2KI 9:36",
+"end_ref": "12009036",
+"end_ref_usfm": "2KI 9:36"
+},
+{
+"start_ref": "12010010",
+"start_ref_usfm": "2KI 10:10",
+"end_ref": "12010010",
+"end_ref_usfm": "2KI 10:10"
+},
+{
+"start_ref": "12010017",
+"start_ref_usfm": "2KI 10:17",
+"end_ref": "12010017",
+"end_ref_usfm": "2KI 10:17"
+},
+{
+"start_ref": "40011014",
+"start_ref_usfm": "MAT 11:14",
+"end_ref": "40011014",
+"end_ref_usfm": "MAT 11:14"
+},
+{
+"start_ref": "40016014",
+"start_ref_usfm": "MAT 16:14",
+"end_ref": "40016014",
+"end_ref_usfm": "MAT 16:14"
+},
+{
+"start_ref": "41006015",
+"start_ref_usfm": "MRK 6:15",
+"end_ref": "41006015",
+"end_ref_usfm": "MRK 6:15"
+},
+{
+"start_ref": "41008028",
+"start_ref_usfm": "MRK 8:28",
+"end_ref": "41008028",
+"end_ref_usfm": "MRK 8:28"
+},
+{
+"start_ref": "42001017",
+"start_ref_usfm": "LUK 1:17",
+"end_ref": "42001017",
+"end_ref_usfm": "LUK 1:17"
+},
+{
+"start_ref": "42004026",
+"start_ref_usfm": "LUK 4:26",
+"end_ref": "42004026",
+"end_ref_usfm": "LUK 4:26"
+},
+{
+"start_ref": "59005017",
+"start_ref_usfm": "JAS 5:17",
+"end_ref": "59005017",
+"end_ref_usfm": "JAS 5:17"
+},
+{
+"start_ref": "40017001",
+"start_ref_usfm": "MAT 17:1",
+"end_ref": "40017013",
+"end_ref_usfm": "MAT 17:13"
+},
+{
+"start_ref": "41009002",
+"start_ref_usfm": "MRK 9:2",
+"end_ref": "41009013",
+"end_ref_usfm": "MRK 9:13"
+},
+{
+"start_ref": "11018041",
+"start_ref_usfm": "1KI 18:41",
+"end_ref": "11018046",
+"end_ref_usfm": "1KI 18:46"
+},
+{
+"start_ref": "11021001",
+"start_ref_usfm": "1KI 21:1",
+"end_ref": "11021029",
+"end_ref_usfm": "1KI 21:29"
+},
+{
+"start_ref": "41015033",
+"start_ref_usfm": "MRK 15:33",
+"end_ref": "41015036",
+"end_ref_usfm": "MRK 15:36"
+},
+{
+"start_ref": "14021012",
+"start_ref_usfm": "2CH 21:12",
+"end_ref": "14021015",
+"end_ref_usfm": "2CH 21:15"
+},
+{
+"start_ref": "39004005",
+"start_ref_usfm": "MAL 4:5",
+"end_ref": "39004006",
+"end_ref_usfm": "MAL 4:6"
+},
+{
+"start_ref": "40017010",
+"start_ref_usfm": "MAT 17:10",
+"end_ref": "40017013",
+"end_ref_usfm": "MAT 17:13"
+},
+{
+"start_ref": "42004025",
+"start_ref_usfm": "LUK 4:25",
+"end_ref": "42004026",
+"end_ref_usfm": "LUK 4:26"
+},
+{
+"start_ref": "42009028",
+"start_ref_usfm": "LUK 9:28",
+"end_ref": "42009036",
+"end_ref_usfm": "LUK 9:36"
+},
+{
+"start_ref": "66011003",
+"start_ref_usfm": "REV 11:3",
+"end_ref": "66011012",
+"end_ref_usfm": "REV 11:12"
+},
+{
+"start_ref": "11017001",
+"start_ref_usfm": "1KI 17:1",
+"end_ref": "11019021",
+"end_ref_usfm": "1KI 19:21"
+},
+{
+"start_ref": "40027045",
+"start_ref_usfm": "MAT 27:45",
+"end_ref": "40027049",
+"end_ref_usfm": "MAT 27:49"
+},
+{
+"start_ref": "11017008",
+"start_ref_usfm": "1KI 17:8",
+"end_ref": "11017024",
+"end_ref_usfm": "1KI 17:24"
+},
+{
+"start_ref": "12013014",
+"start_ref_usfm": "2KI 13:14",
+"end_ref": "12013025",
+"end_ref_usfm": "2KI 13:25"
+},
+{
+"start_ref": "43001019",
+"start_ref_usfm": "JHN 1:19",
+"end_ref": "43001028",
+"end_ref_usfm": "JHN 1:28"
+},
+{
+"start_ref": "11019001",
+"start_ref_usfm": "1KI 19:1",
+"end_ref": "11019002",
+"end_ref_usfm": "1KI 19:2"
+},
+{
+"start_ref": "40017001",
+"start_ref_usfm": "MAT 17:1",
+"end_ref": "40017009",
+"end_ref_usfm": "MAT 17:9"
+},
+{
+"start_ref": "11019003",
+"start_ref_usfm": "1KI 19:3",
+"end_ref": "11019018",
+"end_ref_usfm": "1KI 19:18"
+},
+{
+"start_ref": "11018001",
+"start_ref_usfm": "1KI 18:1",
+"end_ref": "11018040",
+"end_ref_usfm": "1KI 18:40"
+},
+{
+"start_ref": "12002011",
+"start_ref_usfm": "2KI 2:11",
+"end_ref": "12002012",
+"end_ref_usfm": "2KI 2:12"
+},
+{
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12009013",
+"end_ref_usfm": "2KI 9:13"
+},
+{
+"start_ref": "40011007",
+"start_ref_usfm": "MAT 11:7",
+"end_ref": "40011014",
+"end_ref_usfm": "MAT 11:14"
+},
+{
+"start_ref": "45011002",
+"start_ref_usfm": "ROM 11:2",
+"end_ref": "45011006",
+"end_ref_usfm": "ROM 11:6"
+},
+{
+"start_ref": "59005017",
+"start_ref_usfm": "JAS 5:17",
+"end_ref": "59005018",
+"end_ref_usfm": "JAS 5:18"
+},
+{
+"start_ref": "12001001",
+"start_ref_usfm": "2KI 1:1",
+"end_ref": "12002025",
+"end_ref_usfm": "2KI 2:25"
+},
+{
+"start_ref": "45011001",
+"start_ref_usfm": "ROM 11:1",
+"end_ref": "45011006",
+"end_ref_usfm": "ROM 11:6"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.6771,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500504",
+"reference_id": 203447,
+"version": "1.0.2",
+"title": "Elisha",
+"media_type": "Text",
+"index_reference": "elisha",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Elisha the prophet followed and succeeded Elijah in the northern kingdom of Israel during the late 800s BC. At that time, the leaders and people of the northern kingdom turned away from God and worshiped the Canaanite god Baal. Ahab and Jezebel were devoted worshipers of this false god, as were their descendants who followed them on the throne. Elisha&apos;s ministry lasted from 853 to 798 BC. It began as King Ahab&apos;s reign was ending. He played a key role in God&apos;s plan to remove Israel&apos;s idol-worshiping leaders.</p><p>Elisha began his work as a follower of Elijah and was chosen by God to replace him (<a href=\"https://ref.ly/1Kgs19:15-1Kgs19:21\">1 Kings 19:15–21</a>; <a href=\"https://ref.ly/2Kgs2:1-2Kgs2:18\">2 Kings 2:1–18</a>). After Elijah went up to heaven, Elisha&apos;s miracles showed that God&apos;s great power was with him.</p><p>Elisha’s miracles often involved water. He made the bad water of a spring near Jericho clean and made an ax head float (<a href=\"https://ref.ly/2Kgs2:19-2Kgs2:22\">2 Kings 2:19–22</a>; <a href=\"https://ref.ly/2Kgs6:1-2Kgs6:7\">6:1–7</a>). When King Joram ran out of water in enemy territory, Elisha accurately predicted that plenty of water would appear (<a href=\"https://ref.ly/2Kgs3:4-2Kgs3:20\">2 Kings 3:4–20</a>). People believed Baal controlled water, so these miracles showed that the Lord, not Baal, was truly in control.</p><p>Elisha showed God&apos;s power by helping people in real ways. He helped a poor woman by miraculously filling her jars with olive oil (<a href=\"https://ref.ly/2Kgs4:1-2Kgs4:7\">2 Kings 4:1–7</a>). He told a woman from Shunem she would have a son and later brought her son back to life (<a href=\"https://ref.ly/2Kgs4:8-2Kgs4:37\">2 Kings 4:8–37</a>). He healed an Aramean general named Naaman of leprosy (<a href=\"https://ref.ly/2Kgs5:1-2Kgs5:19\">2 Kings 5:1–19</a>). He also provided food for those in need (<a href=\"https://ref.ly/2Kgs4:38-2Kgs4:44\">2 Kings 4:38–44</a>).</p><p>Elisha played a role in God&apos;s plan to judge the northern kingdom. He anointed Jehu of Israel and Hazael of Aram (<a href=\"https://ref.ly/2Kgs8:7-2Kgs8:15\">2 Kings 8:7–15</a>; <a href=\"https://ref.ly/2Kgs9:1-2Kgs9:13\">9:1–13</a>). He poured sacred oil on their heads to show God had chosen them. They violently ended the rule of Israel&apos;s leaders who promoted Baal worship (see <a href=\"https://ref.ly/1Kgs19:15-1Kgs19:18\">1 Kings 19:15–18</a>).</p><p>Elisha&apos;s miracles foreshadowed Jesus&apos; work because Jesus: </p><ul><li><p>Healed people with leprosy (<a href=\"https://ref.ly/Matt8:1-Matt8:4\">Matthew 8:1–4</a>)</p></li><li><p>Brought the dead back to life (<a href=\"https://ref.ly/Mark5:21-Mark5:43\">Mark 5:21–43</a>; <a href=\"https://ref.ly/Luke7:11-Luke7:17\">Luke 7:11–17</a>; <a href=\"https://ref.ly/John11:1-John11:44\">John 11:1–44</a>)</p></li><li><p>Provided food in miraculous ways (<a href=\"https://ref.ly/Matt14:13-Matt14:21\">Matthew 14:13–21</a>; <a href=\"https://ref.ly/Matt15:32-Matt15:38\">15:32–38</a>)</p></li></ul><p>Jesus spoke about healing Naaman to show that God&apos;s mercy extends beyond Israelites to gentiles (<a href=\"https://ref.ly/Luke4:27\">Luke 4:27</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Kgs19:15-1Kgs19:21\">1 Kings 19:15–21</a>; <a href=\"https://ref.ly/2Kgs2:1-2Kgs9:13\">2 Kings 2:1–9:13</a>; <a href=\"https://ref.ly/2Kgs13:14-2Kgs13:21\">13:14–21</a>; <a href=\"https://ref.ly/Luke4:27\">Luke 4:27</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42004027",
+"start_ref_usfm": "LUK 4:27",
+"end_ref": "42004027",
+"end_ref_usfm": "LUK 4:27"
+},
+{
+"start_ref": "42007011",
+"start_ref_usfm": "LUK 7:11",
+"end_ref": "42007017",
+"end_ref_usfm": "LUK 7:17"
+},
+{
+"start_ref": "40014013",
+"start_ref_usfm": "MAT 14:13",
+"end_ref": "40014021",
+"end_ref_usfm": "MAT 14:21"
+},
+{
+"start_ref": "12009001",
+"start_ref_usfm": "2KI 9:1",
+"end_ref": "12009013",
+"end_ref_usfm": "2KI 9:13"
+},
+{
+"start_ref": "40008001",
+"start_ref_usfm": "MAT 8:1",
+"end_ref": "40008004",
+"end_ref_usfm": "MAT 8:4"
+},
+{
+"start_ref": "12004001",
+"start_ref_usfm": "2KI 4:1",
+"end_ref": "12004007",
+"end_ref_usfm": "2KI 4:7"
+},
+{
+"start_ref": "12002019",
+"start_ref_usfm": "2KI 2:19",
+"end_ref": "12002022",
+"end_ref_usfm": "2KI 2:22"
+},
+{
+"start_ref": "40015032",
+"start_ref_usfm": "MAT 15:32",
+"end_ref": "40015038",
+"end_ref_usfm": "MAT 15:38"
+},
+{
+"start_ref": "12005001",
+"start_ref_usfm": "2KI 5:1",
+"end_ref": "12005019",
+"end_ref_usfm": "2KI 5:19"
+},
+{
+"start_ref": "12004008",
+"start_ref_usfm": "2KI 4:8",
+"end_ref": "12004037",
+"end_ref_usfm": "2KI 4:37"
+},
+{
+"start_ref": "12008007",
+"start_ref_usfm": "2KI 8:7",
+"end_ref": "12008015",
+"end_ref_usfm": "2KI 8:15"
+},
+{
+"start_ref": "41005021",
+"start_ref_usfm": "MRK 5:21",
+"end_ref": "41005043",
+"end_ref_usfm": "MRK 5:43"
+},
+{
+"start_ref": "43011001",
+"start_ref_usfm": "JHN 11:1",
+"end_ref": "43011044",
+"end_ref_usfm": "JHN 11:44"
+},
+{
+"start_ref": "12006001",
+"start_ref_usfm": "2KI 6:1",
+"end_ref": "12006007",
+"end_ref_usfm": "2KI 6:7"
+},
+{
+"start_ref": "11019015",
+"start_ref_usfm": "1KI 19:15",
+"end_ref": "11019018",
+"end_ref_usfm": "1KI 19:18"
+},
+{
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12002018",
+"end_ref_usfm": "2KI 2:18"
+},
+{
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12009013",
+"end_ref_usfm": "2KI 9:13"
+},
+{
+"start_ref": "11019015",
+"start_ref_usfm": "1KI 19:15",
+"end_ref": "11019021",
+"end_ref_usfm": "1KI 19:21"
+},
+{
+"start_ref": "12003004",
+"start_ref_usfm": "2KI 3:4",
+"end_ref": "12003020",
+"end_ref_usfm": "2KI 3:20"
+},
+{
+"start_ref": "12004038",
+"start_ref_usfm": "2KI 4:38",
+"end_ref": "12004044",
+"end_ref_usfm": "2KI 4:44"
+},
+{
+"start_ref": "12013014",
+"start_ref_usfm": "2KI 13:14",
+"end_ref": "12013021",
+"end_ref_usfm": "2KI 13:21"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Elisha",
+"type": "person",
+"preferred_label": "Elisha",
+"confidence": 0.6646,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500569",
+"reference_id": 203512,
+"version": "1.0.2",
+"title": "Ephesus",
+"media_type": "Text",
+"index_reference": "ephesus",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Ephesus was at the crossroads of major trade routes, both north-south and east-west. It was famous as the &quot;guardian&quot; of the temple of Artemis (<a href=\"https://ref.ly/Acts19:35\">Acts 19:35</a>). As guardian, Ephesus was officially recognized as the caretaker and protector of the temple. This was an important title that brought honor and economic benefits to the city. </p><p>Ionian Greeks founded Ephesus around 1044 BC on a natural harbor where the Cayster River flowed into a gulf of the Aegean Sea. Today, the ancient city&apos;s site is far inland. The city came under Roman rule in 41 BC. During the time of the apostles, Ephesus was wealthy, serving as a commercial and religious center. It was the most important city in the Roman province of Asia.</p><p>The worship of Artemis in Ephesus was almost as old as the city. The temple of Artemis, one of the seven wonders of the ancient world, was crucial to Ephesus&apos;s wealth and trade. Pilgrims visiting for Artemis worship created many business opportunities for idol makers and other vendors.</p><p>When Paul arrived on his third missionary journey in AD 53, Ephesus had been a city for over a thousand years (<a href=\"https://ref.ly/Acts19:1-Acts19:41\">Acts 19</a>). The people were deeply devoted to their patron goddess and her temple. As more people accepted Paul&apos;s message, this reduced business for those who made and sold statues of Artemis. This made them angry, and they started a riot that almost killed Paul (<a href=\"https://ref.ly/Acts19:24\">Acts 19:24</a>, <a href=\"https://ref.ly/Acts19:28-Acts19:31\">28–31</a>).</p><p>The church of Ephesus grew strong under Paul&apos;s teaching and leadership. People who learned from Paul in Ephesus started churches in nearby communities, like Colossae (see <span data-bnType=\"resourceReference\" data-resourceId=\"26427\" data-resourceType=\"TyndaleStudyNotesBookIntros\">Colossians Book Introduction</span>, “Setting”). However, Paul warned the Ephesian church leaders about the threat of false teachers (<a href=\"https://ref.ly/Acts20:29-Acts20:31\">Acts 20:29–31</a>).</p><p>The apostle John likely settled in Ephesus around AD 70. From there, he was exiled to the island of Patmos (<a href=\"https://ref.ly/Rev1:9\">Revelation 1:9</a>). John likely wrote Revelation while living on Patmos, probably in the AD 90s. By then, the Christian community&apos;s love and good works, praised in the letter to the Ephesians, had mostly faded (<a href=\"https://ref.ly/Rev2:4\">Revelation 2:4</a>). IAccording to the early Christian writer Irenaeus, John came back to Ephesus after his time on Patmos. He lived there until his death, which happened during the time when Trajan was emperor from AD 98 to 117. Tradition says that Mary, the mother of Jesus, also spent her final days in Ephesus under John&apos;s care (see <a href=\"https://ref.ly/John19:25-John19:27\">John 19:25–27</a>).</p><p>The Goths burned the Temple of Artemis in AD 262. The Goths were people from northern Europe who fought against the Roman Empire. By the time of the third ecumenical council (also called the Council of Ephesus) in Ephesus in AD 431, Artemis was no longer influential among the Ephesians. This change supports Paul&apos;s message that &quot;<span>man-made god</span>s&quot; like Artemis &quot;<span>are no gods at all</span>&quot; (<a href=\"https://ref.ly/Acts19:26\">Acts 19:26</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts18:19-Acts19:41\">Acts 18:19–19:41</a>; <a href=\"https://ref.ly/Acts20:16-Acts20:38\">20:16–38</a>; <a href=\"https://ref.ly/Eph1:1\">Ephesians 1:1</a>; <a href=\"https://ref.ly/Rev2:1-Rev2:7\">Revelation 2:1–7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44019024",
+"start_ref_usfm": "ACT 19:24",
+"end_ref": "44019024",
+"end_ref_usfm": "ACT 19:24"
+},
+{
+"start_ref": "44019026",
+"start_ref_usfm": "ACT 19:26",
+"end_ref": "44019026",
+"end_ref_usfm": "ACT 19:26"
+},
+{
+"start_ref": "44019035",
+"start_ref_usfm": "ACT 19:35",
+"end_ref": "44019035",
+"end_ref_usfm": "ACT 19:35"
+},
+{
+"start_ref": "49001001",
+"start_ref_usfm": "EPH 1:1",
+"end_ref": "49001001",
+"end_ref_usfm": "EPH 1:1"
+},
+{
+"start_ref": "66001009",
+"start_ref_usfm": "REV 1:9",
+"end_ref": "66001009",
+"end_ref_usfm": "REV 1:9"
+},
+{
+"start_ref": "66002004",
+"start_ref_usfm": "REV 2:4",
+"end_ref": "66002004",
+"end_ref_usfm": "REV 2:4"
+},
+{
+"start_ref": "44019001",
+"start_ref_usfm": "ACT 19:1",
+"end_ref": "44019041",
+"end_ref_usfm": "ACT 19:41"
+},
+{
+"start_ref": "43019025",
+"start_ref_usfm": "JHN 19:25",
+"end_ref": "43019027",
+"end_ref_usfm": "JHN 19:27"
+},
+{
+"start_ref": "66002001",
+"start_ref_usfm": "REV 2:1",
+"end_ref": "66002007",
+"end_ref_usfm": "REV 2:7"
+},
+{
+"start_ref": "44019028",
+"start_ref_usfm": "ACT 19:28",
+"end_ref": "44019031",
+"end_ref_usfm": "ACT 19:31"
+},
+{
+"start_ref": "44020029",
+"start_ref_usfm": "ACT 20:29",
+"end_ref": "44020031",
+"end_ref_usfm": "ACT 20:31"
+},
+{
+"start_ref": "44018019",
+"start_ref_usfm": "ACT 18:19",
+"end_ref": "44019041",
+"end_ref_usfm": "ACT 19:41"
+},
+{
+"start_ref": "44020016",
+"start_ref_usfm": "ACT 20:16",
+"end_ref": "44020038",
+"end_ref_usfm": "ACT 20:38"
+}
+],
+"resource": [
+{
+"reference_id": 26427,
+"content_id": 27336,
+"resource_code": "TyndaleStudyNotesBookIntros",
+"label": "Colossians",
+"language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Ephesus",
+"type": "place",
+"preferred_label": "Ephesus",
+"confidence": 0.6605,
+"match_method": "scored"
+},
+{
+"id": "group:Ephesus",
+"type": "group",
+"preferred_label": "Ephesians",
+"confidence": 0.614,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500460",
+"reference_id": 203403,
+"version": "1.0.2",
+"title": "Esau",
+"media_type": "Text",
+"index_reference": "esau",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Esau was the son of Isaac and Rebekah and Jacob&apos;s older twin brother (<a href=\"https://ref.ly/Gen25:24-Gen25:26\">Genesis 25:24–26</a>). He was named Esau because he was hairy at birth. His descendants became known as Edomites. &quot;Edom&quot; means &quot;red,&quot; referring to: </p><ul><li><p>Esau&apos;s reddish color at birth (<a href=\"https://ref.ly/Gen25:25\">Genesis 25:25</a>)</p></li><li><p>The red lentil stew he got from Jacob (<a href=\"https://ref.ly/Gen25:30\">Genesis 25:30</a>)</p></li><li><p>The reddish color of the land where he settled (see <span data-bnType=\"resourceReference\" data-resourceId=\"11684\" data-resourceType=\"TyndaleStudyNotes\">study note on Genesis 25:25</span>)</p></li></ul><p>Esau was a skilled hunter who brought flavorful wild meat to his father. Isaac preferred its strong taste over the mild meat Jacob provided from the family flocks. One day, Esau came home very hungry after an unsuccessful hunt. Jacob convinced Esau to give up his rights and privileges of being firstborn in exchange for food (<a href=\"https://ref.ly/Gen25:29-Gen25:34\">Genesis 25:29–34</a>). Esau did not value his birthright and was driven by his physical desires (see <a href=\"https://ref.ly/Heb12:16\">Hebrews 12:16</a>).</p><p> He also married two local women who were not descendants of Abraham (<a href=\"https://ref.ly/Gen26:34-Gen26:35\">Genesis 26:34–35</a>). This may have influenced Rebekah&apos;s favoritism toward Jacob and her plan to take Isaac&apos;s blessing meant for Esau (<a href=\"https://ref.ly/Gen27:1-Gen27:40\">Genesis 27:1–40</a>). Esau&apos;s anger upon discovering his brother&apos;s deception caused Jacob to flee to Haran. The brothers reunited twenty years later when Esau showed gracious forgiveness (<a href=\"https://ref.ly/Gen33:1-Gen33:16\">Genesis 33:1–16</a>).</p><p>Esau was born with Jacob holding his heel. People saw this as a sign that Esau&apos;s descendants would serve Jacob&apos;s descendants. The Edomites began serving the Israelites during David&apos;s time (<a href=\"https://ref.ly/2Sam8:11-2Sam8:15\">2 Samuel 8:11–15</a>; <a href=\"https://ref.ly/1Chr18:11-1Chr18:13\">1 Chronicles 18:11–13</a>) and continued until Jehoram&apos;s reign (<a href=\"https://ref.ly/2Kgs8:20-2Kgs8:22\">2 Kings 8:20–22</a>; <a href=\"https://ref.ly/2Chr21:8-2Chr21:10\">2 Chronicles 21:8–10</a>). After a rebellion in 845 BC, the Edomites briefly gained independence but were conquered again by Amaziah, who ruled from 796 to 767 BC. They regained their freedom in 735 BC and stayed independent from Judah.</p><p>In the New Testament, Esau symbolizes Abraham&apos;s descendants who did not have faith and were rejected by God for his promised blessings (see <a href=\"https://ref.ly/Rom9:6-Rom9:24\">Romans 9:6–24</a>). Herod the Great was an Edomite.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen25:21-Gen25:34\">Genesis 25:21–34</a>; <a href=\"https://ref.ly/Gen26:34-Gen26:35\">26:34–35</a>; <a href=\"https://ref.ly/Gen27:1-Gen27:42\">27:1–42</a>; <a href=\"https://ref.ly/Gen28:6-Gen28:9\">28:6–9</a>; <a href=\"https://ref.ly/Gen32:3-Gen32:20\">32:3–20</a>; <a href=\"https://ref.ly/Gen33:1-Gen33:16\">33:1–16</a>; <a href=\"https://ref.ly/Gen35:28-Gen35:29\">35:28–29</a>; <a href=\"https://ref.ly/Gen36:1-Gen36:43\">36:1–43</a>; <a href=\"https://ref.ly/Deut2:1-Deut2:8\">Deuteronomy 2:1–8</a>, <a href=\"https://ref.ly/Deut2:12\">12</a>, <a href=\"https://ref.ly/Deut2:22\">22</a>, <a href=\"https://ref.ly/Deut2:29\">29</a>; <a href=\"https://ref.ly/Josh24:4\">Joshua 24:4</a>; <a href=\"https://ref.ly/Mal1:2-Mal1:5\">Malachi 1:2–5</a>; <a href=\"https://ref.ly/Rom9:6-Rom9:13\">Romans 9:6–13</a>; <a href=\"https://ref.ly/Heb11:20\">Hebrews 11:20</a>; <a href=\"https://ref.ly/Heb12:16-Heb12:17\">12:16–17</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01025025",
+"start_ref_usfm": "GEN 25:25",
+"end_ref": "01025025",
+"end_ref_usfm": "GEN 25:25"
+},
+{
+"start_ref": "01025030",
+"start_ref_usfm": "GEN 25:30",
+"end_ref": "01025030",
+"end_ref_usfm": "GEN 25:30"
+},
+{
+"start_ref": "05002012",
+"start_ref_usfm": "DEU 2:12",
+"end_ref": "05002012",
+"end_ref_usfm": "DEU 2:12"
+},
+{
+"start_ref": "05002022",
+"start_ref_usfm": "DEU 2:22",
+"end_ref": "05002022",
+"end_ref_usfm": "DEU 2:22"
+},
+{
+"start_ref": "05002029",
+"start_ref_usfm": "DEU 2:29",
+"end_ref": "05002029",
+"end_ref_usfm": "DEU 2:29"
+},
+{
+"start_ref": "06024004",
+"start_ref_usfm": "JOS 24:4",
+"end_ref": "06024004",
+"end_ref_usfm": "JOS 24:4"
+},
+{
+"start_ref": "58011020",
+"start_ref_usfm": "HEB 11:20",
+"end_ref": "58011020",
+"end_ref_usfm": "HEB 11:20"
+},
+{
+"start_ref": "58012016",
+"start_ref_usfm": "HEB 12:16",
+"end_ref": "58012016",
+"end_ref_usfm": "HEB 12:16"
+},
+{
+"start_ref": "58012016",
+"start_ref_usfm": "HEB 12:16",
+"end_ref": "58012017",
+"end_ref_usfm": "HEB 12:17"
+},
+{
+"start_ref": "01036001",
+"start_ref_usfm": "GEN 36:1",
+"end_ref": "01036043",
+"end_ref_usfm": "GEN 36:43"
+},
+{
+"start_ref": "12008020",
+"start_ref_usfm": "2KI 8:20",
+"end_ref": "12008022",
+"end_ref_usfm": "2KI 8:22"
+},
+{
+"start_ref": "01025024",
+"start_ref_usfm": "GEN 25:24",
+"end_ref": "01025026",
+"end_ref_usfm": "GEN 25:26"
+},
+{
+"start_ref": "01025029",
+"start_ref_usfm": "GEN 25:29",
+"end_ref": "01025034",
+"end_ref_usfm": "GEN 25:34"
+},
+{
+"start_ref": "01026034",
+"start_ref_usfm": "GEN 26:34",
+"end_ref": "01026035",
+"end_ref_usfm": "GEN 26:35"
+},
+{
+"start_ref": "10008011",
+"start_ref_usfm": "2SA 8:11",
+"end_ref": "10008015",
+"end_ref_usfm": "2SA 8:15"
+},
+{
+"start_ref": "14021008",
+"start_ref_usfm": "2CH 21:8",
+"end_ref": "14021010",
+"end_ref_usfm": "2CH 21:10"
+},
+{
+"start_ref": "39001002",
+"start_ref_usfm": "MAL 1:2",
+"end_ref": "39001005",
+"end_ref_usfm": "MAL 1:5"
+},
+{
+"start_ref": "05002001",
+"start_ref_usfm": "DEU 2:1",
+"end_ref": "05002008",
+"end_ref_usfm": "DEU 2:8"
+},
+{
+"start_ref": "01027001",
+"start_ref_usfm": "GEN 27:1",
+"end_ref": "01027040",
+"end_ref_usfm": "GEN 27:40"
+},
+{
+"start_ref": "01028006",
+"start_ref_usfm": "GEN 28:6",
+"end_ref": "01028009",
+"end_ref_usfm": "GEN 28:9"
+},
+{
+"start_ref": "01033001",
+"start_ref_usfm": "GEN 33:1",
+"end_ref": "01033016",
+"end_ref_usfm": "GEN 33:16"
+},
+{
+"start_ref": "13018011",
+"start_ref_usfm": "1CH 18:11",
+"end_ref": "13018013",
+"end_ref_usfm": "1CH 18:13"
+},
+{
+"start_ref": "45009006",
+"start_ref_usfm": "ROM 9:6",
+"end_ref": "45009024",
+"end_ref_usfm": "ROM 9:24"
+},
+{
+"start_ref": "01025021",
+"start_ref_usfm": "GEN 25:21",
+"end_ref": "01025034",
+"end_ref_usfm": "GEN 25:34"
+},
+{
+"start_ref": "01027001",
+"start_ref_usfm": "GEN 27:1",
+"end_ref": "01027042",
+"end_ref_usfm": "GEN 27:42"
+},
+{
+"start_ref": "01032003",
+"start_ref_usfm": "GEN 32:3",
+"end_ref": "01032020",
+"end_ref_usfm": "GEN 32:20"
+},
+{
+"start_ref": "01035028",
+"start_ref_usfm": "GEN 35:28",
+"end_ref": "01035029",
+"end_ref_usfm": "GEN 35:29"
+},
+{
+"start_ref": "45009006",
+"start_ref_usfm": "ROM 9:6",
+"end_ref": "45009013",
+"end_ref_usfm": "ROM 9:13"
+}
+],
+"resource": [
+{
+"reference_id": 11684,
+"content_id": 12516,
+"resource_code": "TyndaleStudyNotes",
+"label": "Genesis 25:25",
+"language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Esau",
+"type": "person",
+"preferred_label": "Esau",
+"confidence": 0.7326,
+"match_method": "scored"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
+"confidence": 0.6622,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500519",
+"reference_id": 203462,
+"version": "1.0.2",
+"title": "Esther",
+"media_type": "Text",
+"index_reference": "esther",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Esther was queen of Persia during the reign of Xerxes I (also called Ahasuerus), who ruled from 486 to 465 BC. She was part of the <em>Diaspora</em> (&quot;scattering&quot;), descended from Jews who had been scattered among the nations during the exile in Babylon. Her family had not returned to Judah, unlike some Jews (see <a href=\"https://ref.ly/Ezra1:1-Ezra2:70\">Ezra 1–2</a>), but chose to stay in Persia, like many others. Her cousin Mordecai&apos;s important role in the Persian government suggests her family had become wealthy and comfortable.</p><p>Esther was an orphan raised by her cousin Mordecai, a minor official in the Persian government in Susa. She became queen after King Xerxes removed Queen Vashti for refusing to attend a banquet when he commanded her to do so (<a href=\"https://ref.ly/Esth1:11-Esth1:12\">Esther 1:11–12</a>).</p><p>After Esther&apos;s coronation, she quietly gained Xerxes&apos; trust by telling him about an assassination plot (<a href=\"https://ref.ly/Esth2:21-Esth2:23\">Esther 2:21–23</a>). This later allowed her to save her people from a massacre planned by Haman, a high official to the king. Through her wise advice and brave actions, Esther exposed Haman. He was executed, and the Jewish people were saved. The Jewish Festival of Purim was created to celebrate these events.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Esth2:7-Esth2:20\">Esther 2:7–20</a>; <a href=\"https://ref.ly/Esth4:4-Esth5:8\">4:4–5:8</a>; <a href=\"https://ref.ly/Esth7:1-Esth9:32\">7:1–9:32</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "17002021",
+"start_ref_usfm": "EST 2:21",
+"end_ref": "17002023",
+"end_ref_usfm": "EST 2:23"
+},
+{
+"start_ref": "17001011",
+"start_ref_usfm": "EST 1:11",
+"end_ref": "17001012",
+"end_ref_usfm": "EST 1:12"
+},
+{
+"start_ref": "15001001",
+"start_ref_usfm": "EZR 1:1",
+"end_ref": "15002070",
+"end_ref_usfm": "EZR 2:70"
+},
+{
+"start_ref": "17002007",
+"start_ref_usfm": "EST 2:7",
+"end_ref": "17002020",
+"end_ref_usfm": "EST 2:20"
+},
+{
+"start_ref": "17004004",
+"start_ref_usfm": "EST 4:4",
+"end_ref": "17005008",
+"end_ref_usfm": "EST 5:8"
+},
+{
+"start_ref": "17007001",
+"start_ref_usfm": "EST 7:1",
+"end_ref": "17009032",
+"end_ref_usfm": "EST 9:32"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Esther",
+"type": "person",
+"preferred_label": "Esther",
+"confidence": 0.695,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500525",
+"reference_id": 203468,
+"version": "1.0.2",
+"title": "Ezekiel",
+"media_type": "Text",
+"index_reference": "ezekiel",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Ezekiel was a priest and prophet. He was born around 623 BC. He likely grew up in Jerusalem and was married (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ezekiel 24:16–18</a>). In 597 BC, he went into exile in Babylon with Jehoiachin and lived by the Kebar River. He received his calling as a prophet in Babylon on July 31, 593 BC (<a href=\"https://ref.ly/Ezek1:1\">Ezekiel 1:1</a>). We learn about his personal life from the book named after him.</p><p>Ezekiel often used unusual actions to emphasize his prophetic messages from God. For example, he demonstrated the severe food shortage during Jerusalem&apos;s final siege by eating food cooked over dung (<a href=\"https://ref.ly/Ezek4:12\">Ezekiel 4:12</a>). Another time, he lay still for 430 days, with each day representing a year of Israel&apos;s and Judah&apos;s sin (<a href=\"https://ref.ly/Ezek4:4-Ezek4:7\">Ezekiel 4:4–7</a>). When Ezekiel&apos;s wife died suddenly, he was not allowed to mourn her publicly (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ezekiel 24:16–18</a>); her death served as a serious warning of what would happen in Judah (<a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">Ezekiel 24:15–27</a>). Ezekiel&apos;s unusual actions were meant to capture people&apos;s attention.</p><p>Initially, people rejected Ezekiel&apos;s messages. However, his prophecies were proven true, and the nation stopped worshiping false gods. He taught about holiness, purity, resurrection, and ritual law (religious rules and practices). His hopeful message encouraged exiles to stay faithful during their captivity. After their return, it inspired them to look forward to greater fulfillment.</p><p>We do not know how Ezekiel died, and he is not mentioned elsewhere in the Old Testament. The New Testament refers to Ezekiel&apos;s prophecies over sixty times, mostly in the book of Revelation. Ezekiel&apos;s prophetic vision looked beyond his near future to the final judgment (God&apos;s final decision about all people) and the great hope of heaven.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Ezek2:1-Ezek2:10\">Ezekiel 2:1–10</a>; <a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">24:15–27</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "26001001",
+"start_ref_usfm": "EZK 1:1",
+"end_ref": "26001001",
+"end_ref_usfm": "EZK 1:1"
+},
+{
+"start_ref": "26004012",
+"start_ref_usfm": "EZK 4:12",
+"end_ref": "26004012",
+"end_ref_usfm": "EZK 4:12"
+},
+{
+"start_ref": "26024016",
+"start_ref_usfm": "EZK 24:16",
+"end_ref": "26024018",
+"end_ref_usfm": "EZK 24:18"
+},
+{
+"start_ref": "26024015",
+"start_ref_usfm": "EZK 24:15",
+"end_ref": "26024027",
+"end_ref_usfm": "EZK 24:27"
+},
+{
+"start_ref": "26002001",
+"start_ref_usfm": "EZK 2:1",
+"end_ref": "26002010",
+"end_ref_usfm": "EZK 2:10"
+},
+{
+"start_ref": "26004004",
+"start_ref_usfm": "EZK 4:4",
+"end_ref": "26004007",
+"end_ref_usfm": "EZK 4:7"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Ezekiel",
+"type": "person",
+"preferred_label": "Ezekiel",
+"confidence": 0.6138,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500516",
+"reference_id": 203459,
+"version": "1.0.2",
+"title": "Ezra",
+"media_type": "Text",
+"index_reference": "ezra",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Ezra was a priest and scribe (teacher and copier of Scripture). He came from an important family of high priests descended from Zadok (<a href=\"https://ref.ly/Ezra7:1-Ezra7:5\">Ezra 7:1–5</a>, <a href=\"https://ref.ly/Ezra7:11-Ezra7:12\">11–12</a>; see also <a href=\"https://ref.ly/Neh8:2\">Nehemiah 8:2</a>, <a href=\"https://ref.ly/Neh8:9\">9</a>). He led in Judah after the Jews returned from exile. As a scribe, Ezra was more than a copyist; he was a dedicated student of God&apos;s laws (<a href=\"https://ref.ly/Ezra7:6\">Ezra 7:6</a>). He was qualified to teach, preach, and explain the Scriptures.</p><p>Ezra, an important official who helped the king with Jewish matters in the Persian Empire, visited Jerusalem around 458 BC. He brought items for the Temple and aimed to establish God&apos;s laws and the laws of Persia. One of his first actions was to address the issue of intermarriage with non-Jewish neighbors (<a href=\"https://ref.ly/Ezra9:1-Ezra10:44\">Ezra 9:1–10:44</a>). Later, after the city walls were rebuilt in 445 BC (<a href=\"https://ref.ly/Neh6:15\">Nehemiah 6:15</a>), Ezra led the community to follow God&apos;s law more closely (<a href=\"https://ref.ly/Neh8:13-Neh8:15\">Nehemiah 8:13–15</a>).</p><p>Ezra honored God by managing finances well. The Persian king trusted Ezra&apos;s judgment and let him request more money when needed (<a href=\"https://ref.ly/Ezra7:15-Ezra7:20\">Ezra 7:15–20</a>). Ezra gave financial responsibilities to others whenever possible and demanded strict financial honesty (<a href=\"https://ref.ly/Ezra8:24-Ezra8:30\">Ezra 8:24–30</a>). He identified some financial resources as sacred and belonging to God.</p><p>Ezra humbled himself before God when the people began their journey (<a href=\"https://ref.ly/Ezra8:21-Ezra8:23\">Ezra 8:21–23</a>), when he learned about the people&apos;s unholy marriages (<a href=\"https://ref.ly/Ezra9:5-Ezra9:15\">Ezra 9:5–15</a>), and when he gathered those required to divorce their pagan wives (<a href=\"https://ref.ly/Ezra10:6\">10:6</a>). He always recognized that God&apos;s gracious hand—not his own ability or wisdom—made good things happen (<a href=\"https://ref.ly/Ezra7:6\">Ezra 7:6</a>, <a href=\"https://ref.ly/Ezra7:9\">9</a>, <a href=\"https://ref.ly/Ezra7:28\">28</a>; <a href=\"https://ref.ly/Ezra8:18\">8:18</a>, <a href=\"https://ref.ly/Ezra8:22\">22</a>, <a href=\"https://ref.ly/Ezra8:31\">31</a>; <a href=\"https://ref.ly/Ezra9:8-Ezra9:9\">9:8–9</a>). He studied and lived by God&apos;s Word and taught others to follow what God revealed (<a href=\"https://ref.ly/Ezra7:10\">Ezra 7:10</a>). He was a teacher and servant-leader, not a self-important official who dominated others.</p><p>Ezra showed his devotion through prayer and fasting. This showed his strong desire to help people follow God. He set an example for life in the Jewish community after the exile, focusing on God&apos;s Word and worship as main priorities.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Ezra7:1-Ezra10:44\">Ezra 7:1–10:44</a>; <a href=\"https://ref.ly/Neh8:1-Neh8:18\">Nehemiah 8:1–18</a>; <a href=\"https://ref.ly/Neh12:1\">12:1</a>, <a href=\"https://ref.ly/Neh12:26\">26</a>, <a href=\"https://ref.ly/Neh12:36\">36</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "15007006",
+"start_ref_usfm": "EZR 7:6",
+"end_ref": "15007006",
+"end_ref_usfm": "EZR 7:6"
+},
+{
+"start_ref": "15007009",
+"start_ref_usfm": "EZR 7:9",
+"end_ref": "15007009",
+"end_ref_usfm": "EZR 7:9"
+},
+{
+"start_ref": "15007010",
+"start_ref_usfm": "EZR 7:10",
+"end_ref": "15007010",
+"end_ref_usfm": "EZR 7:10"
+},
+{
+"start_ref": "15007028",
+"start_ref_usfm": "EZR 7:28",
+"end_ref": "15007028",
+"end_ref_usfm": "EZR 7:28"
+},
+{
+"start_ref": "15008018",
+"start_ref_usfm": "EZR 8:18",
+"end_ref": "15008018",
+"end_ref_usfm": "EZR 8:18"
+},
+{
+"start_ref": "15008022",
+"start_ref_usfm": "EZR 8:22",
+"end_ref": "15008022",
+"end_ref_usfm": "EZR 8:22"
+},
+{
+"start_ref": "15008031",
+"start_ref_usfm": "EZR 8:31",
+"end_ref": "15008031",
+"end_ref_usfm": "EZR 8:31"
+},
+{
+"start_ref": "15010006",
+"start_ref_usfm": "EZR 10:6",
+"end_ref": "15010006",
+"end_ref_usfm": "EZR 10:6"
+},
+{
+"start_ref": "16006015",
+"start_ref_usfm": "NEH 6:15",
+"end_ref": "16006015",
+"end_ref_usfm": "NEH 6:15"
+},
+{
+"start_ref": "16008002",
+"start_ref_usfm": "NEH 8:2",
+"end_ref": "16008002",
+"end_ref_usfm": "NEH 8:2"
+},
+{
+"start_ref": "16008009",
+"start_ref_usfm": "NEH 8:9",
+"end_ref": "16008009",
+"end_ref_usfm": "NEH 8:9"
+},
+{
+"start_ref": "16012001",
+"start_ref_usfm": "NEH 12:1",
+"end_ref": "16012001",
+"end_ref_usfm": "NEH 12:1"
+},
+{
+"start_ref": "16012026",
+"start_ref_usfm": "NEH 12:26",
+"end_ref": "16012026",
+"end_ref_usfm": "NEH 12:26"
+},
+{
+"start_ref": "16012036",
+"start_ref_usfm": "NEH 12:36",
+"end_ref": "16012036",
+"end_ref_usfm": "NEH 12:36"
+},
+{
+"start_ref": "15007001",
+"start_ref_usfm": "EZR 7:1",
+"end_ref": "15007005",
+"end_ref_usfm": "EZR 7:5"
+},
+{
+"start_ref": "15009001",
+"start_ref_usfm": "EZR 9:1",
+"end_ref": "15010044",
+"end_ref_usfm": "EZR 10:44"
+},
+{
+"start_ref": "15007001",
+"start_ref_usfm": "EZR 7:1",
+"end_ref": "15010044",
+"end_ref_usfm": "EZR 10:44"
+},
+{
+"start_ref": "15007011",
+"start_ref_usfm": "EZR 7:11",
+"end_ref": "15007012",
+"end_ref_usfm": "EZR 7:12"
+},
+{
+"start_ref": "15008024",
+"start_ref_usfm": "EZR 8:24",
+"end_ref": "15008030",
+"end_ref_usfm": "EZR 8:30"
+},
+{
+"start_ref": "15009008",
+"start_ref_usfm": "EZR 9:8",
+"end_ref": "15009009",
+"end_ref_usfm": "EZR 9:9"
+},
+{
+"start_ref": "15009005",
+"start_ref_usfm": "EZR 9:5",
+"end_ref": "15009015",
+"end_ref_usfm": "EZR 9:15"
+},
+{
+"start_ref": "16008013",
+"start_ref_usfm": "NEH 8:13",
+"end_ref": "16008015",
+"end_ref_usfm": "NEH 8:15"
+},
+{
+"start_ref": "15007015",
+"start_ref_usfm": "EZR 7:15",
+"end_ref": "15007020",
+"end_ref_usfm": "EZR 7:20"
+},
+{
+"start_ref": "15008021",
+"start_ref_usfm": "EZR 8:21",
+"end_ref": "15008023",
+"end_ref_usfm": "EZR 8:23"
+},
+{
+"start_ref": "16008001",
+"start_ref_usfm": "NEH 8:1",
+"end_ref": "16008018",
+"end_ref_usfm": "NEH 8:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Ezra",
+"type": "person",
+"preferred_label": "Ezra",
+"confidence": 0.6607,
+"match_method": "scored"
+},
+{
+"id": "person:Ezra.2",
+"type": "person",
+"preferred_label": "Ezra",
+"confidence": 0.6028,
+"match_method": "scored"
+}
+]
+}
+}
 ]

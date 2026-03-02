@@ -1,552 +1,545 @@
 [
-  {
-    "content_id": "658546",
-    "reference_id": 203469,
-    "version": "1.0.2",
-    "title": "Daniel",
-    "media_type": "Text",
-    "index_reference": "daniel",
-    "language": "por",
-    "review_level": "None",
-    "content": "<p>Daniel é um exemplo marcante de fé, sabedoria e perseverança durante tempos difíceis e de opressão. Sua vida e profecias mostram que Deus está no controle e triunfará no final, mesmo quando o mal parece poderoso.</p><p>Daniel pertencia à família real de Judá quando o exército babilônico atacou Jerusalém pela primeira vez em 605 a.C. (<a href=\"https://ref.ly/Dan1:3\">Dn 1.3</a>). Ele foi levado para Babilônia com Azarias, Hananias e Misael. O rei Nabucodonosor treinou esses jovens, juntamente com outros, para servirem em seu império em expansão. Daniel e seus amigos eram os alunos mais inteligentes e saudáveis, por isso ocuparam posições importantes na corte de Nabucodonosor.</p><p>Daniel trabalhou no tribunal por quase setenta anos (veja <a href=\"https://ref.ly/Dan1:21\">Dn 1.21</a>). Ele rapidamente ganhou uma reputação por sua inteligência e completa lealdade a Deus. Quando Nabucodonosor teve um sonho perturbador, Deus revelou seu significado a Daniel, que o explicou ao rei (<a href=\"https://ref.ly/Dan2:1-Dan2:49\">Dn 2</a>). Mais tarde, Daniel interpretou um segundo sonho sobre o orgulho do rei (<a href=\"https://ref.ly/Dan4:1-Dan4:37\">Dn 4</a>). Daniel instou Nabucodonosor a se arrepender, mas ele não o fez. Como resultado, Nabucodonosor temporariamente perdeu sua sanidade (<a href=\"https://ref.ly/Dan4:28-Dan4:37\">Dn 4.28–37</a>).</p><p>Daniel sempre demonstrou respeito ao rei babilônico. Nabucodonosor tinha grande respeito por Daniel devido ao seu bom caráter e comportamento. Isso levou Nabucodonosor a adorar o Senhor, embora não de forma exclusiva. A fidelidade e sabedoria de Daniel continuam a inspirar leitores em culturas hostis nos dias de hoje.</p><p>Mais tarde, Belsazar, o vice-regente da Babilônia, usou desrespeitosamente os vasos sagrados do Templo de Jerusalém durante um banquete em 539 a.C. De repente, uma mão sem corpo escreveu as palavras “Mene, Mene, Tekel e Parsin” na parede do palácio. Daniel interpretou essas palavras como uma previsão do fim iminente da Babilônia. Naquela mesma noite, os persas capturaram a capital e mataram Belsazar (<a href=\"https://ref.ly/Dan5:1-Dan5:31\">Dn 5.1–31</a>).</p><p>Em 539 a.C., sob o governo de Dario, o Medo, Daniel tornou-se administrador do reino (<a href=\"https://ref.ly/Dan6:2\">Dn 6.2</a>). A gestão eficaz de Daniel irritou seus inimigos políticos. Eles convenceram Dario a emitir um decreto que proibia a adoração de qualquer um, exceto o rei, com a punição de ser jogado na cova dos leões. Para manter suas crenças religiosas, Daniel desobedeceu à lei, mas foi milagrosamente poupado pelos leões. Depois, ele retornou à sua posição (<a href=\"https://ref.ly/Dan6:17-Dan6:28\">Dn 6.17–28</a>). As visões posteriores de Daniel são dessa época (<a href=\"https://ref.ly/Dan10:1\">Dn 10.1</a>, <a href=\"https://ref.ly/Dan10:4\">4</a>).</p><p>As profecias de Daniel são difíceis de entender em detalhes, mas sua mensagem é clara: forças malignas estão no poder agora, mas Deus está no controle e salvará seu povo. Jesus e os autores do Novo Testamento citaram Daniel, muitas vezes usando suas imagens ao discutir os tempos do fim (por exemplo, compare <a href=\"https://ref.ly/Dan7:1-Dan7:9\">Dn 7.1–9</a> e <a href=\"https://ref.ly/Rev13:1-Rev13:10\">Ap 13.1–10</a>; <a href=\"https://ref.ly/Dan7:13\">Dn 7.13</a> e <a href=\"https://ref.ly/Rev1:7\">Ap 1.7</a>; <a href=\"https://ref.ly/Dan9:27\">Dn 9.27</a> e <a href=\"https://ref.ly/Matt24:15\">Mt 24.15</a>). Daniel tinha certeza de que Deus Altíssimo venceria.</p><p><u>Passagens para Estudo Complementar</u></p><p><a href=\"https://ref.ly/Ezek14:14\">Ez 14.14</a>, <a href=\"https://ref.ly/Ezek14:20\">20</a>; <a href=\"https://ref.ly/Ezek28:3\">28.3</a>; <a href=\"https://ref.ly/Dan1:1-Dan12:13\">Dn 1.1–12.13</a>; <a href=\"https://ref.ly/Matt24:15\">Mt 24.15</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "26014014",
-          "start_ref_usfm": "EZK 14:14",
-          "end_ref": "26014014",
-          "end_ref_usfm": "EZK 14:14"
-        },
-        {
-          "start_ref": "26014020",
-          "start_ref_usfm": "EZK 14:20",
-          "end_ref": "26014020",
-          "end_ref_usfm": "EZK 14:20"
-        },
-        {
-          "start_ref": "26028003",
-          "start_ref_usfm": "EZK 28:3",
-          "end_ref": "26028003",
-          "end_ref_usfm": "EZK 28:3"
-        },
-        {
-          "start_ref": "27001003",
-          "start_ref_usfm": "DAN 1:3",
-          "end_ref": "27001003",
-          "end_ref_usfm": "DAN 1:3"
-        },
-        {
-          "start_ref": "27001021",
-          "start_ref_usfm": "DAN 1:21",
-          "end_ref": "27001021",
-          "end_ref_usfm": "DAN 1:21"
-        },
-        {
-          "start_ref": "27006002",
-          "start_ref_usfm": "DAN 6:2",
-          "end_ref": "27006002",
-          "end_ref_usfm": "DAN 6:2"
-        },
-        {
-          "start_ref": "27007013",
-          "start_ref_usfm": "DAN 7:13",
-          "end_ref": "27007013",
-          "end_ref_usfm": "DAN 7:13"
-        },
-        {
-          "start_ref": "27009027",
-          "start_ref_usfm": "DAN 9:27",
-          "end_ref": "27009027",
-          "end_ref_usfm": "DAN 9:27"
-        },
-        {
-          "start_ref": "27010001",
-          "start_ref_usfm": "DAN 10:1",
-          "end_ref": "27010001",
-          "end_ref_usfm": "DAN 10:1"
-        },
-        {
-          "start_ref": "27010004",
-          "start_ref_usfm": "DAN 10:4",
-          "end_ref": "27010004",
-          "end_ref_usfm": "DAN 10:4"
-        },
-        {
-          "start_ref": "40024015",
-          "start_ref_usfm": "MAT 24:15",
-          "end_ref": "40024015",
-          "end_ref_usfm": "MAT 24:15"
-        },
-        {
-          "start_ref": "66001007",
-          "start_ref_usfm": "REV 1:7",
-          "end_ref": "66001007",
-          "end_ref_usfm": "REV 1:7"
-        },
-        {
-          "start_ref": "27005001",
-          "start_ref_usfm": "DAN 5:1",
-          "end_ref": "27005031",
-          "end_ref_usfm": "DAN 5:31"
-        },
-        {
-          "start_ref": "27004001",
-          "start_ref_usfm": "DAN 4:1",
-          "end_ref": "27004037",
-          "end_ref_usfm": "DAN 4:37"
-        },
-        {
-          "start_ref": "27002001",
-          "start_ref_usfm": "DAN 2:1",
-          "end_ref": "27002049",
-          "end_ref_usfm": "DAN 2:49"
-        },
-        {
-          "start_ref": "27006017",
-          "start_ref_usfm": "DAN 6:17",
-          "end_ref": "27006028",
-          "end_ref_usfm": "DAN 6:28"
-        },
-        {
-          "start_ref": "66013001",
-          "start_ref_usfm": "REV 13:1",
-          "end_ref": "66013010",
-          "end_ref_usfm": "REV 13:10"
-        },
-        {
-          "start_ref": "27004028",
-          "start_ref_usfm": "DAN 4:28",
-          "end_ref": "27004037",
-          "end_ref_usfm": "DAN 4:37"
-        },
-        {
-          "start_ref": "27007001",
-          "start_ref_usfm": "DAN 7:1",
-          "end_ref": "27007009",
-          "end_ref_usfm": "DAN 7:9"
-        },
-        {
-          "start_ref": "27001001",
-          "start_ref_usfm": "DAN 1:1",
-          "end_ref": "27012013",
-          "end_ref_usfm": "DAN 12:13"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Daniel.3",
-          "type": "person",
-          "preferred_label": "Daniel",
-          "confidence": 0.6763,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "658510",
-    "reference_id": 203433,
-    "version": "1.0.2",
-    "title": "Davi",
-    "media_type": "Text",
-    "index_reference": "davi",
-    "language": "por",
-    "review_level": "None",
-    "content": "<p>Davi é uma das pessoas mais importantes na Bíblia. Seu reinado foi um período muito especial no plano de Deus para Israel. As ações de Davi como rei tiveram um grande e duradouro efeito no futuro de Israel.</p><p>Davi nasceu em Belém como o filho mais novo de Jessé. A história de sua família remonta a Judá (<a href=\"https://ref.ly/Ruth4:18-Ruth4:22\">Rt 4.18–22</a>; <a href=\"https://ref.ly/1Chr2:3-1Chr2:15\">1Cr 2.3–15</a>; <a href=\"https://ref.ly/Matt1:3-Matt1:6\">Mt 1.3–6</a>; <a href=\"https://ref.ly/Luke3:31-Luke3:33\">Lc 3.31–33</a>). Quando ele nasceu, os jebuseus ocupavam Jerusalém, e muitas partes da terra prometida ainda estavam sob controle estrangeiro, especialmente pelos filisteus. Deus usaria Davi para completar a conquista da terra.</p><p>Quando jovem, Davi era um simples pastor, cuidando das ovelhas de seu pai (<a href=\"https://ref.ly/1Sam16:11\">1Sm 16.11</a>; <a href=\"https://ref.ly/1Sam17:14-1Sam17:15\">17.14–15</a>). Sua vida mudou inesperadamente quando o profeta Samuel visitou Jessé e ungiu Davi como o futuro rei de Israel. No entanto, Davi não se tornou rei através de um golpe ou assassinato. Em vez disso, ele serviu fielmente ao Rei Saul. Davi primeiro entrou ao serviço de Saul como músico, tocando canções que acalmavam a mente perturbada de Saul (<a href=\"https://ref.ly/1Sam16:14-1Sam16:23\">1Sm 16.14–23</a>). Este papel prenunciou o trabalho de Davi como compositor de muitos salmos. O jovem Davi também ajudou Saul ao derrotar famosamente o campeão filisteu Golias em combate singular (<a href=\"https://ref.ly/1Sam17:32-1Sam17:51\">1Sm 17.32–51</a>). Esta vitória prenunciou o futuro de Davi como um líder militar bem-sucedido.</p><p>Davi era leal, mas Saul tornou-se muito desconfiado dele. Assim, Davi teve que fugir. Ele escapou com a ajuda dos filhos de Saul, Jônatas e Mical. Davi liderou um reino no exílio com um exército de seiscentos homens. O profeta Gade e o sacerdote Abiatar estavam com ele, oferecendo orientação do Senhor.</p><p>A paciência de Deus com Saul eventualmente se esgotou, e Saul morreu em batalha. Mesmo assim, Davi encontrou dificuldades para se tornar o governante de todo Israel. A tribo de Judá rapidamente o fez seu rei, mas as tribos do norte inicialmente escolheram Isbosete, filho de Saul, como seu líder. Isbosete era fraco e ineficaz; ele permaneceu no poder apenas por causa do líder militar de seu pai, Abner. No entanto, Isbosete insultou Abner, então o general ajudou a transferir o reino para Davi.</p><p>Como rei de um Israel unificado, Davi fortaleceu o reino. Ele e seus homens capturaram Jerusalém dos jebuseus e a fizeram sua capital. Ele expulsou os últimos filisteus da terra. Davi então trouxe a Arca da Aliança para Jerusalém. Ele desejava construir um templo permanente para Deus em Jerusalém para substituir o tabernáculo. Deus negou esse desejo, mas demonstrou amor por Davi ao fazer uma aliança (acordo especial) com ele, estabelecendo seus descendentes como uma família de reis (<a href=\"https://ref.ly/2Sam7:1-2Sam7:29\">2Sm 7</a>).</p><p>A vida de Davi logo piorou (veja <a href=\"https://ref.ly/2Sam11:1-2Sam12:31\">2Sm 11–12</a>). Quando ele deveria estar com seu exército, ele ficou no telhado do palácio. Ele viu uma bela mulher chamada Bate-Seba tomando banho e a desejou. Então, como outros reis poderosos daquela época que tomavam o que queriam, ele tomou Bate-Seba. Ela ficou grávida, e sua tentativa de esconder seu adultério falhou. Davi estava desesperado, então mandou matar o marido dela, Urias. No entanto, mesmo um grande rei como Davi não pode esconder segredos de Deus. Deus enviou seu profeta Natã para confrontar Davi. Davi se arrependeu do que havia feito (veja <a href=\"https://ref.ly/Ps32:1-Ps32:11\">Sl 32</a>, <a href=\"https://ref.ly/Ps51:1-Ps51:19\">51</a>). Mas suas ações afetaram sua família e seu reinado.</p><p>A partir de então, a família de Davi começou a enfrentar muitos problemas e conflitos. O filho de Davi, Amnom, estuprou sua meia-irmã Tamar (<a href=\"https://ref.ly/2Sam13:1-2Sam13:14\">2Sm 13.1–14</a>). Seu irmão Absalão então assassinou Amnom (<a href=\"https://ref.ly/2Sam13:20-2Sam13:29\">2Sm 13.20–29</a>). Absalão mais tarde iniciou uma guerra civil ao tentar se tornar rei no lugar de seu pai (<a href=\"https://ref.ly/2Sam15:1-2Sam18:33\">2Sm 15–18</a>). Outro filho, Adonias, tentou se tornar rei no lugar de Davi ao se declarar rei enquanto seu pai ainda estava vivo (<a href=\"https://ref.ly/1Kgs1:5-1Kgs1:10\">1Rs 1.5–10</a>). Mas Davi reuniu forças suficientes para garantir que Salomão fosse rei após ele (<a href=\"https://ref.ly/1Kgs1:28-1Kgs1:40\">1Rs 1.28–40</a>). Quando Davi morreu, Salomão se tornou rei. Salomão foi o primeiro de muitos reis da família de Davi (como prometido em <a href=\"https://ref.ly/2Sam7:1-2Sam7:29\">2Sm 7</a>).</p><p>A maioria dos reis que sucederam Davi não foi tão competente em liderar quanto ele. Seus descendentes raramente conduziam a nação a adorar a Deus de maneira fiel. O reino unido de Israel não perdurou além de Salomão. Nos séculos seguintes, os descendentes de Davi governaram apenas Judá, no sul. Eventualmente, o reino de Judá foi destruído. Um descendente de Davi nunca mais governou como rei em Israel.</p><p>E quanto à promessa feita a Davi de que &quot;seu trono estará seguro para sempre&quot; (<a href=\"https://ref.ly/2Sam7:16\">2Sm 7.16</a>)? O Novo Testamento se refere a Jesus. Ele foi um descendente de Davi, e Deus o declarou o Cristo, ou Messias — o rei ungido (veja <a href=\"https://ref.ly/Matt1:1\">Mt 1.1</a>; <a href=\"https://ref.ly/Matt9:27\">9.27</a>; <a href=\"https://ref.ly/Matt12:23\">12.23</a>; <a href=\"https://ref.ly/Mark10:47-Mark10:48\">Mc 10.47–48</a>; <a href=\"https://ref.ly/Mark11:10\">11.10</a>; <a href=\"https://ref.ly/Mark12:35-Mark12:37\">12.35–37</a>; <a href=\"https://ref.ly/Luke18:38-Luke18:39\">Lc 18.38–39</a>; <a href=\"https://ref.ly/Luke20:41-Luke20:44\">20.41–44</a>; <a href=\"https://ref.ly/John7:42\">Jo 7.42</a>; <a href=\"https://ref.ly/Rev5:5\">Ap 5.5</a>; <a href=\"https://ref.ly/Rev22:16\">22.16</a>). A vida e o governo de Davi prefiguram o reinado messiânico de Jesus Cristo, que durará para sempre (veja <a href=\"https://ref.ly/Luke1:32-Luke1:33\">Lc 1.32–33</a>; <a href=\"https://ref.ly/Rev11:15\">Ap 11.15</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Ruth4:13-Ruth4:22\">Rute 4.13–22</a>; <a href=\"https://ref.ly/1Sam16:1-1Sam17:58\">1 Samuel 16.1–17.58</a>; <a href=\"https://ref.ly/1Sam18:1-1Sam27:12\">18.1–27.12</a>; <a href=\"https://ref.ly/1Sam29:1-1Sam30:31\">29.1–30.31</a>; <a href=\"https://ref.ly/2Sam1:1-2Sam24:25\">2 Samuel 1.1–24.25</a>; <a href=\"https://ref.ly/1Kgs1:1-1Kgs2:12\">1 Reis 1.1–2.12</a>; <a href=\"https://ref.ly/1Chr11:1-1Chr29:30\">1 Crônicas 11.1–29.30</a>; <a href=\"https://ref.ly/Ps1:1-Ps32:11\">Salmo 1–32</a>, <a href=\"https://ref.ly/Ps34:1-Ps41:13\">34–41</a>, <a href=\"https://ref.ly/Ps51:1-Ps71:24\">51–71</a>, <a href=\"https://ref.ly/Ps86:1-Ps86:17\">86</a>, <a href=\"https://ref.ly/Ps91:1-Ps110:7\">91–110</a>, <a href=\"https://ref.ly/Ps122:1-Ps122:9\">122</a>, <a href=\"https://ref.ly/Ps124:1-Ps124:8\">124</a>, <a href=\"https://ref.ly/Ps131:1-Ps131:3\">131</a>, <a href=\"https://ref.ly/Ps133:1-Ps133:3\">133</a>, <a href=\"https://ref.ly/Ps138:1-Ps145:21\">138–145</a>; <a href=\"https://ref.ly/Matt1:1\">Mateus 1.1</a>; <a href=\"https://ref.ly/Matt9:27\">9.27</a>; <a href=\"https://ref.ly/Matt22:41-Matt22:46\">22.41–46</a>; <a href=\"https://ref.ly/Mark12:35-Mark12:37\">Marcos 12.35–37</a>; <a href=\"https://ref.ly/Luke20:41-Luke20:44\">Lucas 20.41–44</a>; <a href=\"https://ref.ly/John7:40-John7:44\">João 7.40–44</a>; <a href=\"https://ref.ly/Acts2:22-Acts2:37\">Atos 2.22–37</a>; <a href=\"https://ref.ly/Acts13:20-Acts13:43\">13.20–43</a>; <a href=\"https://ref.ly/Rom1:3\">Romanos 1.3</a>; <a href=\"https://ref.ly/Rev22:16\">Apocalipse 22.16</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "09016011",
-          "start_ref_usfm": "1SA 16:11",
-          "end_ref": "09016011",
-          "end_ref_usfm": "1SA 16:11"
-        },
-        {
-          "start_ref": "10007016",
-          "start_ref_usfm": "2SA 7:16",
-          "end_ref": "10007016",
-          "end_ref_usfm": "2SA 7:16"
-        },
-        {
-          "start_ref": "40001001",
-          "start_ref_usfm": "MAT 1:1",
-          "end_ref": "40001001",
-          "end_ref_usfm": "MAT 1:1"
-        },
-        {
-          "start_ref": "40009027",
-          "start_ref_usfm": "MAT 9:27",
-          "end_ref": "40009027",
-          "end_ref_usfm": "MAT 9:27"
-        },
-        {
-          "start_ref": "40012023",
-          "start_ref_usfm": "MAT 12:23",
-          "end_ref": "40012023",
-          "end_ref_usfm": "MAT 12:23"
-        },
-        {
-          "start_ref": "41011010",
-          "start_ref_usfm": "MRK 11:10",
-          "end_ref": "41011010",
-          "end_ref_usfm": "MRK 11:10"
-        },
-        {
-          "start_ref": "43007042",
-          "start_ref_usfm": "JHN 7:42",
-          "end_ref": "43007042",
-          "end_ref_usfm": "JHN 7:42"
-        },
-        {
-          "start_ref": "45001003",
-          "start_ref_usfm": "ROM 1:3",
-          "end_ref": "45001003",
-          "end_ref_usfm": "ROM 1:3"
-        },
-        {
-          "start_ref": "66005005",
-          "start_ref_usfm": "REV 5:5",
-          "end_ref": "66005005",
-          "end_ref_usfm": "REV 5:5"
-        },
-        {
-          "start_ref": "66011015",
-          "start_ref_usfm": "REV 11:15",
-          "end_ref": "66011015",
-          "end_ref_usfm": "REV 11:15"
-        },
-        {
-          "start_ref": "66022016",
-          "start_ref_usfm": "REV 22:16",
-          "end_ref": "66022016",
-          "end_ref_usfm": "REV 22:16"
-        },
-        {
-          "start_ref": "41012035",
-          "start_ref_usfm": "MRK 12:35",
-          "end_ref": "41012037",
-          "end_ref_usfm": "MRK 12:37"
-        },
-        {
-          "start_ref": "08004018",
-          "start_ref_usfm": "RUT 4:18",
-          "end_ref": "08004022",
-          "end_ref_usfm": "RUT 4:22"
-        },
-        {
-          "start_ref": "42001032",
-          "start_ref_usfm": "LUK 1:32",
-          "end_ref": "42001033",
-          "end_ref_usfm": "LUK 1:33"
-        },
-        {
-          "start_ref": "19051001",
-          "start_ref_usfm": "PSA 51:1",
-          "end_ref": "19051019",
-          "end_ref_usfm": "PSA 51:19"
-        },
-        {
-          "start_ref": "19032001",
-          "start_ref_usfm": "PSA 32:1",
-          "end_ref": "19032011",
-          "end_ref_usfm": "PSA 32:11"
-        },
-        {
-          "start_ref": "13002003",
-          "start_ref_usfm": "1CH 2:3",
-          "end_ref": "13002015",
-          "end_ref_usfm": "1CH 2:15"
-        },
-        {
-          "start_ref": "40001003",
-          "start_ref_usfm": "MAT 1:3",
-          "end_ref": "40001006",
-          "end_ref_usfm": "MAT 1:6"
-        },
-        {
-          "start_ref": "42003031",
-          "start_ref_usfm": "LUK 3:31",
-          "end_ref": "42003033",
-          "end_ref_usfm": "LUK 3:33"
-        },
-        {
-          "start_ref": "09029001",
-          "start_ref_usfm": "1SA 29:1",
-          "end_ref": "09030031",
-          "end_ref_usfm": "1SA 30:31"
-        },
-        {
-          "start_ref": "10007001",
-          "start_ref_usfm": "2SA 7:1",
-          "end_ref": "10007029",
-          "end_ref_usfm": "2SA 7:29"
-        },
-        {
-          "start_ref": "19051001",
-          "start_ref_usfm": "PSA 51:1",
-          "end_ref": "19071024",
-          "end_ref_usfm": "PSA 71:24"
-        },
-        {
-          "start_ref": "42018038",
-          "start_ref_usfm": "LUK 18:38",
-          "end_ref": "42018039",
-          "end_ref_usfm": "LUK 18:39"
-        },
-        {
-          "start_ref": "42020041",
-          "start_ref_usfm": "LUK 20:41",
-          "end_ref": "42020044",
-          "end_ref_usfm": "LUK 20:44"
-        },
-        {
-          "start_ref": "09016014",
-          "start_ref_usfm": "1SA 16:14",
-          "end_ref": "09016023",
-          "end_ref_usfm": "1SA 16:23"
-        },
-        {
-          "start_ref": "10011001",
-          "start_ref_usfm": "2SA 11:1",
-          "end_ref": "10012031",
-          "end_ref_usfm": "2SA 12:31"
-        },
-        {
-          "start_ref": "40022041",
-          "start_ref_usfm": "MAT 22:41",
-          "end_ref": "40022046",
-          "end_ref_usfm": "MAT 22:46"
-        },
-        {
-          "start_ref": "19086001",
-          "start_ref_usfm": "PSA 86:1",
-          "end_ref": "19086017",
-          "end_ref_usfm": "PSA 86:17"
-        },
-        {
-          "start_ref": "19133001",
-          "start_ref_usfm": "PSA 133:1",
-          "end_ref": "19133003",
-          "end_ref_usfm": "PSA 133:3"
-        },
-        {
-          "start_ref": "19124001",
-          "start_ref_usfm": "PSA 124:1",
-          "end_ref": "19124008",
-          "end_ref_usfm": "PSA 124:8"
-        },
-        {
-          "start_ref": "19122001",
-          "start_ref_usfm": "PSA 122:1",
-          "end_ref": "19122009",
-          "end_ref_usfm": "PSA 122:9"
-        },
-        {
-          "start_ref": "19131001",
-          "start_ref_usfm": "PSA 131:1",
-          "end_ref": "19131003",
-          "end_ref_usfm": "PSA 131:3"
-        },
-        {
-          "start_ref": "11001005",
-          "start_ref_usfm": "1KI 1:5",
-          "end_ref": "11001010",
-          "end_ref_usfm": "1KI 1:10"
-        },
-        {
-          "start_ref": "11001001",
-          "start_ref_usfm": "1KI 1:1",
-          "end_ref": "11002012",
-          "end_ref_usfm": "1KI 2:12"
-        },
-        {
-          "start_ref": "41010047",
-          "start_ref_usfm": "MRK 10:47",
-          "end_ref": "41010048",
-          "end_ref_usfm": "MRK 10:48"
-        },
-        {
-          "start_ref": "19138001",
-          "start_ref_usfm": "PSA 138:1",
-          "end_ref": "19145021",
-          "end_ref_usfm": "PSA 145:21"
-        },
-        {
-          "start_ref": "09016001",
-          "start_ref_usfm": "1SA 16:1",
-          "end_ref": "09017058",
-          "end_ref_usfm": "1SA 17:58"
-        },
-        {
-          "start_ref": "43007040",
-          "start_ref_usfm": "JHN 7:40",
-          "end_ref": "43007044",
-          "end_ref_usfm": "JHN 7:44"
-        },
-        {
-          "start_ref": "09017014",
-          "start_ref_usfm": "1SA 17:14",
-          "end_ref": "09017015",
-          "end_ref_usfm": "1SA 17:15"
-        },
-        {
-          "start_ref": "09017032",
-          "start_ref_usfm": "1SA 17:32",
-          "end_ref": "09017051",
-          "end_ref_usfm": "1SA 17:51"
-        },
-        {
-          "start_ref": "10013001",
-          "start_ref_usfm": "2SA 13:1",
-          "end_ref": "10013014",
-          "end_ref_usfm": "2SA 13:14"
-        },
-        {
-          "start_ref": "10013020",
-          "start_ref_usfm": "2SA 13:20",
-          "end_ref": "10013029",
-          "end_ref_usfm": "2SA 13:29"
-        },
-        {
-          "start_ref": "10015001",
-          "start_ref_usfm": "2SA 15:1",
-          "end_ref": "10018033",
-          "end_ref_usfm": "2SA 18:33"
-        },
-        {
-          "start_ref": "11001028",
-          "start_ref_usfm": "1KI 1:28",
-          "end_ref": "11001040",
-          "end_ref_usfm": "1KI 1:40"
-        },
-        {
-          "start_ref": "08004013",
-          "start_ref_usfm": "RUT 4:13",
-          "end_ref": "08004022",
-          "end_ref_usfm": "RUT 4:22"
-        },
-        {
-          "start_ref": "09018001",
-          "start_ref_usfm": "1SA 18:1",
-          "end_ref": "09027012",
-          "end_ref_usfm": "1SA 27:12"
-        },
-        {
-          "start_ref": "10001001",
-          "start_ref_usfm": "2SA 1:1",
-          "end_ref": "10024025",
-          "end_ref_usfm": "2SA 24:25"
-        },
-        {
-          "start_ref": "13011001",
-          "start_ref_usfm": "1CH 11:1",
-          "end_ref": "13029030",
-          "end_ref_usfm": "1CH 29:30"
-        },
-        {
-          "start_ref": "19001001",
-          "start_ref_usfm": "PSA 1:1",
-          "end_ref": "19032011",
-          "end_ref_usfm": "PSA 32:11"
-        },
-        {
-          "start_ref": "19034001",
-          "start_ref_usfm": "PSA 34:1",
-          "end_ref": "19041013",
-          "end_ref_usfm": "PSA 41:13"
-        },
-        {
-          "start_ref": "19091001",
-          "start_ref_usfm": "PSA 91:1",
-          "end_ref": "19110007",
-          "end_ref_usfm": "PSA 110:7"
-        },
-        {
-          "start_ref": "44002022",
-          "start_ref_usfm": "ACT 2:22",
-          "end_ref": "44002037",
-          "end_ref_usfm": "ACT 2:37"
-        },
-        {
-          "start_ref": "44013020",
-          "start_ref_usfm": "ACT 13:20",
-          "end_ref": "44013043",
-          "end_ref_usfm": "ACT 13:43"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:David",
-          "type": "person",
-          "preferred_label": "Davi",
-          "confidence": 0.685,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "658499",
-    "reference_id": 203422,
-    "version": "1.0.2",
-    "title": "Débora",
-    "media_type": "Text",
-    "index_reference": "débora",
-    "language": "por",
-    "review_level": "None",
-    "content": "<p>A profetisa Débora foi uma das primeiras juízas de Israel. Ela era uma mulher de integridade e devoção ao Senhor. Como profetisa, recebia mensagens divinas. Como juíza, resolvia disputas legais. As pessoas frequentemente a chamavam de &quot;uma mãe em Israel&quot; (veja <a href=\"https://ref.ly/Judg5:7\">Jz 5.7</a>).</p><p>Durante o tempo de Débora, as pessoas estavam cometendo mais erros. Elas deixaram de seguir os caminhos de Deus, e as tribos de Israel não estavam unidas. Israel estava fazendo &quot;o mal aos olhos do Senhor&quot; (<a href=\"https://ref.ly/Judg4:1\">Jz 4.1</a>). Então, Deus entregou Israel a um opressor, Jabim de Canaã. Mais uma vez, Israel clamou ao Senhor por ajuda (<a href=\"https://ref.ly/Judg4:3\">Jz 4.3</a>).</p><p>Deus chamou Baraque para lutar contra Sísera, o comandante do exército de Jabim, através de Débora. No entanto, Baraque não estava entusiasmado ou corajoso. Ele insistiu que Débora o acompanhasse. Débora concordou, mas avisou que uma mulher receberia a glória pela vitória, não Baraque. Isso se concretizou quando Baraque derrotou Sísera e seu exército, mas Jael, a mulher que matou Sísera, recebeu a glória. Baraque demonstrou pouca coragem ou liderança. Isso foi muito diferente da coragem e liderança de Débora e Jael. As ações de Débora levaram a quarenta anos de paz para Israel (<a href=\"https://ref.ly/Judg5:31\">Jz 5.31</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Judg4:1-Judg5:31\">Juízes 4.1–5.31</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "07004001",
-          "start_ref_usfm": "JDG 4:1",
-          "end_ref": "07004001",
-          "end_ref_usfm": "JDG 4:1"
-        },
-        {
-          "start_ref": "07004003",
-          "start_ref_usfm": "JDG 4:3",
-          "end_ref": "07004003",
-          "end_ref_usfm": "JDG 4:3"
-        },
-        {
-          "start_ref": "07005007",
-          "start_ref_usfm": "JDG 5:7",
-          "end_ref": "07005007",
-          "end_ref_usfm": "JDG 5:7"
-        },
-        {
-          "start_ref": "07005031",
-          "start_ref_usfm": "JDG 5:31",
-          "end_ref": "07005031",
-          "end_ref_usfm": "JDG 5:31"
-        },
-        {
-          "start_ref": "07004001",
-          "start_ref_usfm": "JDG 4:1",
-          "end_ref": "07005031",
-          "end_ref_usfm": "JDG 5:31"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Deborah.2",
-          "type": "person",
-          "preferred_label": "Débora",
-          "confidence": 0.6655,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Barak",
-          "type": "person",
-          "preferred_label": "Baraque",
-          "confidence": 0.5073,
-          "match_method": "scored"
-        }
-      ]
-    }
-  }
+{
+"content_id": "658546",
+"reference_id": 203469,
+"version": "1.0.2",
+"title": "Daniel",
+"media_type": "Text",
+"index_reference": "daniel",
+"language": "por",
+"review_level": "None",
+"content": "<p>Daniel é um exemplo marcante de fé, sabedoria e perseverança durante tempos difíceis e de opressão. Sua vida e profecias mostram que Deus está no controle e triunfará no final, mesmo quando o mal parece poderoso.</p><p>Daniel pertencia à família real de Judá quando o exército babilônico atacou Jerusalém pela primeira vez em 605 a.C. (<a href=\"https://ref.ly/Dan1:3\">Dn 1.3</a>). Ele foi levado para Babilônia com Azarias, Hananias e Misael. O rei Nabucodonosor treinou esses jovens, juntamente com outros, para servirem em seu império em expansão. Daniel e seus amigos eram os alunos mais inteligentes e saudáveis, por isso ocuparam posições importantes na corte de Nabucodonosor.</p><p>Daniel trabalhou no tribunal por quase setenta anos (veja <a href=\"https://ref.ly/Dan1:21\">Dn 1.21</a>). Ele rapidamente ganhou uma reputação por sua inteligência e completa lealdade a Deus. Quando Nabucodonosor teve um sonho perturbador, Deus revelou seu significado a Daniel, que o explicou ao rei (<a href=\"https://ref.ly/Dan2:1-Dan2:49\">Dn 2</a>). Mais tarde, Daniel interpretou um segundo sonho sobre o orgulho do rei (<a href=\"https://ref.ly/Dan4:1-Dan4:37\">Dn 4</a>). Daniel instou Nabucodonosor a se arrepender, mas ele não o fez. Como resultado, Nabucodonosor temporariamente perdeu sua sanidade (<a href=\"https://ref.ly/Dan4:28-Dan4:37\">Dn 4.28–37</a>).</p><p>Daniel sempre demonstrou respeito ao rei babilônico. Nabucodonosor tinha grande respeito por Daniel devido ao seu bom caráter e comportamento. Isso levou Nabucodonosor a adorar o Senhor, embora não de forma exclusiva. A fidelidade e sabedoria de Daniel continuam a inspirar leitores em culturas hostis nos dias de hoje.</p><p>Mais tarde, Belsazar, o vice-regente da Babilônia, usou desrespeitosamente os vasos sagrados do Templo de Jerusalém durante um banquete em 539 a.C. De repente, uma mão sem corpo escreveu as palavras “Mene, Mene, Tekel e Parsin” na parede do palácio. Daniel interpretou essas palavras como uma previsão do fim iminente da Babilônia. Naquela mesma noite, os persas capturaram a capital e mataram Belsazar (<a href=\"https://ref.ly/Dan5:1-Dan5:31\">Dn 5.1–31</a>).</p><p>Em 539 a.C., sob o governo de Dario, o Medo, Daniel tornou-se administrador do reino (<a href=\"https://ref.ly/Dan6:2\">Dn 6.2</a>). A gestão eficaz de Daniel irritou seus inimigos políticos. Eles convenceram Dario a emitir um decreto que proibia a adoração de qualquer um, exceto o rei, com a punição de ser jogado na cova dos leões. Para manter suas crenças religiosas, Daniel desobedeceu à lei, mas foi milagrosamente poupado pelos leões. Depois, ele retornou à sua posição (<a href=\"https://ref.ly/Dan6:17-Dan6:28\">Dn 6.17–28</a>). As visões posteriores de Daniel são dessa época (<a href=\"https://ref.ly/Dan10:1\">Dn 10.1</a>, <a href=\"https://ref.ly/Dan10:4\">4</a>).</p><p>As profecias de Daniel são difíceis de entender em detalhes, mas sua mensagem é clara: forças malignas estão no poder agora, mas Deus está no controle e salvará seu povo. Jesus e os autores do Novo Testamento citaram Daniel, muitas vezes usando suas imagens ao discutir os tempos do fim (por exemplo, compare <a href=\"https://ref.ly/Dan7:1-Dan7:9\">Dn 7.1–9</a> e <a href=\"https://ref.ly/Rev13:1-Rev13:10\">Ap 13.1–10</a>; <a href=\"https://ref.ly/Dan7:13\">Dn 7.13</a> e <a href=\"https://ref.ly/Rev1:7\">Ap 1.7</a>; <a href=\"https://ref.ly/Dan9:27\">Dn 9.27</a> e <a href=\"https://ref.ly/Matt24:15\">Mt 24.15</a>). Daniel tinha certeza de que Deus Altíssimo venceria.</p><p><u>Passagens para Estudo Complementar</u></p><p><a href=\"https://ref.ly/Ezek14:14\">Ez 14.14</a>, <a href=\"https://ref.ly/Ezek14:20\">20</a>; <a href=\"https://ref.ly/Ezek28:3\">28.3</a>; <a href=\"https://ref.ly/Dan1:1-Dan12:13\">Dn 1.1–12.13</a>; <a href=\"https://ref.ly/Matt24:15\">Mt 24.15</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "26014014",
+"start_ref_usfm": "EZK 14:14",
+"end_ref": "26014014",
+"end_ref_usfm": "EZK 14:14"
+},
+{
+"start_ref": "26014020",
+"start_ref_usfm": "EZK 14:20",
+"end_ref": "26014020",
+"end_ref_usfm": "EZK 14:20"
+},
+{
+"start_ref": "26028003",
+"start_ref_usfm": "EZK 28:3",
+"end_ref": "26028003",
+"end_ref_usfm": "EZK 28:3"
+},
+{
+"start_ref": "27001003",
+"start_ref_usfm": "DAN 1:3",
+"end_ref": "27001003",
+"end_ref_usfm": "DAN 1:3"
+},
+{
+"start_ref": "27001021",
+"start_ref_usfm": "DAN 1:21",
+"end_ref": "27001021",
+"end_ref_usfm": "DAN 1:21"
+},
+{
+"start_ref": "27006002",
+"start_ref_usfm": "DAN 6:2",
+"end_ref": "27006002",
+"end_ref_usfm": "DAN 6:2"
+},
+{
+"start_ref": "27007013",
+"start_ref_usfm": "DAN 7:13",
+"end_ref": "27007013",
+"end_ref_usfm": "DAN 7:13"
+},
+{
+"start_ref": "27009027",
+"start_ref_usfm": "DAN 9:27",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
+},
+{
+"start_ref": "27010001",
+"start_ref_usfm": "DAN 10:1",
+"end_ref": "27010001",
+"end_ref_usfm": "DAN 10:1"
+},
+{
+"start_ref": "27010004",
+"start_ref_usfm": "DAN 10:4",
+"end_ref": "27010004",
+"end_ref_usfm": "DAN 10:4"
+},
+{
+"start_ref": "40024015",
+"start_ref_usfm": "MAT 24:15",
+"end_ref": "40024015",
+"end_ref_usfm": "MAT 24:15"
+},
+{
+"start_ref": "66001007",
+"start_ref_usfm": "REV 1:7",
+"end_ref": "66001007",
+"end_ref_usfm": "REV 1:7"
+},
+{
+"start_ref": "27005001",
+"start_ref_usfm": "DAN 5:1",
+"end_ref": "27005031",
+"end_ref_usfm": "DAN 5:31"
+},
+{
+"start_ref": "27004001",
+"start_ref_usfm": "DAN 4:1",
+"end_ref": "27004037",
+"end_ref_usfm": "DAN 4:37"
+},
+{
+"start_ref": "27002001",
+"start_ref_usfm": "DAN 2:1",
+"end_ref": "27002049",
+"end_ref_usfm": "DAN 2:49"
+},
+{
+"start_ref": "27006017",
+"start_ref_usfm": "DAN 6:17",
+"end_ref": "27006028",
+"end_ref_usfm": "DAN 6:28"
+},
+{
+"start_ref": "66013001",
+"start_ref_usfm": "REV 13:1",
+"end_ref": "66013010",
+"end_ref_usfm": "REV 13:10"
+},
+{
+"start_ref": "27004028",
+"start_ref_usfm": "DAN 4:28",
+"end_ref": "27004037",
+"end_ref_usfm": "DAN 4:37"
+},
+{
+"start_ref": "27007001",
+"start_ref_usfm": "DAN 7:1",
+"end_ref": "27007009",
+"end_ref_usfm": "DAN 7:9"
+},
+{
+"start_ref": "27001001",
+"start_ref_usfm": "DAN 1:1",
+"end_ref": "27012013",
+"end_ref_usfm": "DAN 12:13"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Daniel.3",
+"type": "person",
+"preferred_label": "Daniel",
+"confidence": 0.6763,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "658510",
+"reference_id": 203433,
+"version": "1.0.2",
+"title": "Davi",
+"media_type": "Text",
+"index_reference": "davi",
+"language": "por",
+"review_level": "None",
+"content": "<p>Davi é uma das pessoas mais importantes na Bíblia. Seu reinado foi um período muito especial no plano de Deus para Israel. As ações de Davi como rei tiveram um grande e duradouro efeito no futuro de Israel.</p><p>Davi nasceu em Belém como o filho mais novo de Jessé. A história de sua família remonta a Judá (<a href=\"https://ref.ly/Ruth4:18-Ruth4:22\">Rt 4.18–22</a>; <a href=\"https://ref.ly/1Chr2:3-1Chr2:15\">1Cr 2.3–15</a>; <a href=\"https://ref.ly/Matt1:3-Matt1:6\">Mt 1.3–6</a>; <a href=\"https://ref.ly/Luke3:31-Luke3:33\">Lc 3.31–33</a>). Quando ele nasceu, os jebuseus ocupavam Jerusalém, e muitas partes da terra prometida ainda estavam sob controle estrangeiro, especialmente pelos filisteus. Deus usaria Davi para completar a conquista da terra.</p><p>Quando jovem, Davi era um simples pastor, cuidando das ovelhas de seu pai (<a href=\"https://ref.ly/1Sam16:11\">1Sm 16.11</a>; <a href=\"https://ref.ly/1Sam17:14-1Sam17:15\">17.14–15</a>). Sua vida mudou inesperadamente quando o profeta Samuel visitou Jessé e ungiu Davi como o futuro rei de Israel. No entanto, Davi não se tornou rei através de um golpe ou assassinato. Em vez disso, ele serviu fielmente ao Rei Saul. Davi primeiro entrou ao serviço de Saul como músico, tocando canções que acalmavam a mente perturbada de Saul (<a href=\"https://ref.ly/1Sam16:14-1Sam16:23\">1Sm 16.14–23</a>). Este papel prenunciou o trabalho de Davi como compositor de muitos salmos. O jovem Davi também ajudou Saul ao derrotar famosamente o campeão filisteu Golias em combate singular (<a href=\"https://ref.ly/1Sam17:32-1Sam17:51\">1Sm 17.32–51</a>). Esta vitória prenunciou o futuro de Davi como um líder militar bem-sucedido.</p><p>Davi era leal, mas Saul tornou-se muito desconfiado dele. Assim, Davi teve que fugir. Ele escapou com a ajuda dos filhos de Saul, Jônatas e Mical. Davi liderou um reino no exílio com um exército de seiscentos homens. O profeta Gade e o sacerdote Abiatar estavam com ele, oferecendo orientação do Senhor.</p><p>A paciência de Deus com Saul eventualmente se esgotou, e Saul morreu em batalha. Mesmo assim, Davi encontrou dificuldades para se tornar o governante de todo Israel. A tribo de Judá rapidamente o fez seu rei, mas as tribos do norte inicialmente escolheram Isbosete, filho de Saul, como seu líder. Isbosete era fraco e ineficaz; ele permaneceu no poder apenas por causa do líder militar de seu pai, Abner. No entanto, Isbosete insultou Abner, então o general ajudou a transferir o reino para Davi.</p><p>Como rei de um Israel unificado, Davi fortaleceu o reino. Ele e seus homens capturaram Jerusalém dos jebuseus e a fizeram sua capital. Ele expulsou os últimos filisteus da terra. Davi então trouxe a Arca da Aliança para Jerusalém. Ele desejava construir um templo permanente para Deus em Jerusalém para substituir o tabernáculo. Deus negou esse desejo, mas demonstrou amor por Davi ao fazer uma aliança (acordo especial) com ele, estabelecendo seus descendentes como uma família de reis (<a href=\"https://ref.ly/2Sam7:1-2Sam7:29\">2Sm 7</a>).</p><p>A vida de Davi logo piorou (veja <a href=\"https://ref.ly/2Sam11:1-2Sam12:31\">2Sm 11–12</a>). Quando ele deveria estar com seu exército, ele ficou no telhado do palácio. Ele viu uma bela mulher chamada Bate-Seba tomando banho e a desejou. Então, como outros reis poderosos daquela época que tomavam o que queriam, ele tomou Bate-Seba. Ela ficou grávida, e sua tentativa de esconder seu adultério falhou. Davi estava desesperado, então mandou matar o marido dela, Urias. No entanto, mesmo um grande rei como Davi não pode esconder segredos de Deus. Deus enviou seu profeta Natã para confrontar Davi. Davi se arrependeu do que havia feito (veja <a href=\"https://ref.ly/Ps32:1-Ps32:11\">Sl 32</a>, <a href=\"https://ref.ly/Ps51:1-Ps51:19\">51</a>). Mas suas ações afetaram sua família e seu reinado.</p><p>A partir de então, a família de Davi começou a enfrentar muitos problemas e conflitos. O filho de Davi, Amnom, estuprou sua meia-irmã Tamar (<a href=\"https://ref.ly/2Sam13:1-2Sam13:14\">2Sm 13.1–14</a>). Seu irmão Absalão então assassinou Amnom (<a href=\"https://ref.ly/2Sam13:20-2Sam13:29\">2Sm 13.20–29</a>). Absalão mais tarde iniciou uma guerra civil ao tentar se tornar rei no lugar de seu pai (<a href=\"https://ref.ly/2Sam15:1-2Sam18:33\">2Sm 15–18</a>). Outro filho, Adonias, tentou se tornar rei no lugar de Davi ao se declarar rei enquanto seu pai ainda estava vivo (<a href=\"https://ref.ly/1Kgs1:5-1Kgs1:10\">1Rs 1.5–10</a>). Mas Davi reuniu forças suficientes para garantir que Salomão fosse rei após ele (<a href=\"https://ref.ly/1Kgs1:28-1Kgs1:40\">1Rs 1.28–40</a>). Quando Davi morreu, Salomão se tornou rei. Salomão foi o primeiro de muitos reis da família de Davi (como prometido em <a href=\"https://ref.ly/2Sam7:1-2Sam7:29\">2Sm 7</a>).</p><p>A maioria dos reis que sucederam Davi não foi tão competente em liderar quanto ele. Seus descendentes raramente conduziam a nação a adorar a Deus de maneira fiel. O reino unido de Israel não perdurou além de Salomão. Nos séculos seguintes, os descendentes de Davi governaram apenas Judá, no sul. Eventualmente, o reino de Judá foi destruído. Um descendente de Davi nunca mais governou como rei em Israel.</p><p>E quanto à promessa feita a Davi de que &quot;seu trono estará seguro para sempre&quot; (<a href=\"https://ref.ly/2Sam7:16\">2Sm 7.16</a>)? O Novo Testamento se refere a Jesus. Ele foi um descendente de Davi, e Deus o declarou o Cristo, ou Messias — o rei ungido (veja <a href=\"https://ref.ly/Matt1:1\">Mt 1.1</a>; <a href=\"https://ref.ly/Matt9:27\">9.27</a>; <a href=\"https://ref.ly/Matt12:23\">12.23</a>; <a href=\"https://ref.ly/Mark10:47-Mark10:48\">Mc 10.47–48</a>; <a href=\"https://ref.ly/Mark11:10\">11.10</a>; <a href=\"https://ref.ly/Mark12:35-Mark12:37\">12.35–37</a>; <a href=\"https://ref.ly/Luke18:38-Luke18:39\">Lc 18.38–39</a>; <a href=\"https://ref.ly/Luke20:41-Luke20:44\">20.41–44</a>; <a href=\"https://ref.ly/John7:42\">Jo 7.42</a>; <a href=\"https://ref.ly/Rev5:5\">Ap 5.5</a>; <a href=\"https://ref.ly/Rev22:16\">22.16</a>). A vida e o governo de Davi prefiguram o reinado messiânico de Jesus Cristo, que durará para sempre (veja <a href=\"https://ref.ly/Luke1:32-Luke1:33\">Lc 1.32–33</a>; <a href=\"https://ref.ly/Rev11:15\">Ap 11.15</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Ruth4:13-Ruth4:22\">Rute 4.13–22</a>; <a href=\"https://ref.ly/1Sam16:1-1Sam17:58\">1 Samuel 16.1–17.58</a>; <a href=\"https://ref.ly/1Sam18:1-1Sam27:12\">18.1–27.12</a>; <a href=\"https://ref.ly/1Sam29:1-1Sam30:31\">29.1–30.31</a>; <a href=\"https://ref.ly/2Sam1:1-2Sam24:25\">2 Samuel 1.1–24.25</a>; <a href=\"https://ref.ly/1Kgs1:1-1Kgs2:12\">1 Reis 1.1–2.12</a>; <a href=\"https://ref.ly/1Chr11:1-1Chr29:30\">1 Crônicas 11.1–29.30</a>; <a href=\"https://ref.ly/Ps1:1-Ps32:11\">Salmo 1–32</a>, <a href=\"https://ref.ly/Ps34:1-Ps41:13\">34–41</a>, <a href=\"https://ref.ly/Ps51:1-Ps71:24\">51–71</a>, <a href=\"https://ref.ly/Ps86:1-Ps86:17\">86</a>, <a href=\"https://ref.ly/Ps91:1-Ps110:7\">91–110</a>, <a href=\"https://ref.ly/Ps122:1-Ps122:9\">122</a>, <a href=\"https://ref.ly/Ps124:1-Ps124:8\">124</a>, <a href=\"https://ref.ly/Ps131:1-Ps131:3\">131</a>, <a href=\"https://ref.ly/Ps133:1-Ps133:3\">133</a>, <a href=\"https://ref.ly/Ps138:1-Ps145:21\">138–145</a>; <a href=\"https://ref.ly/Matt1:1\">Mateus 1.1</a>; <a href=\"https://ref.ly/Matt9:27\">9.27</a>; <a href=\"https://ref.ly/Matt22:41-Matt22:46\">22.41–46</a>; <a href=\"https://ref.ly/Mark12:35-Mark12:37\">Marcos 12.35–37</a>; <a href=\"https://ref.ly/Luke20:41-Luke20:44\">Lucas 20.41–44</a>; <a href=\"https://ref.ly/John7:40-John7:44\">João 7.40–44</a>; <a href=\"https://ref.ly/Acts2:22-Acts2:37\">Atos 2.22–37</a>; <a href=\"https://ref.ly/Acts13:20-Acts13:43\">13.20–43</a>; <a href=\"https://ref.ly/Rom1:3\">Romanos 1.3</a>; <a href=\"https://ref.ly/Rev22:16\">Apocalipse 22.16</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09016011",
+"start_ref_usfm": "1SA 16:11",
+"end_ref": "09016011",
+"end_ref_usfm": "1SA 16:11"
+},
+{
+"start_ref": "10007016",
+"start_ref_usfm": "2SA 7:16",
+"end_ref": "10007016",
+"end_ref_usfm": "2SA 7:16"
+},
+{
+"start_ref": "40001001",
+"start_ref_usfm": "MAT 1:1",
+"end_ref": "40001001",
+"end_ref_usfm": "MAT 1:1"
+},
+{
+"start_ref": "40009027",
+"start_ref_usfm": "MAT 9:27",
+"end_ref": "40009027",
+"end_ref_usfm": "MAT 9:27"
+},
+{
+"start_ref": "40012023",
+"start_ref_usfm": "MAT 12:23",
+"end_ref": "40012023",
+"end_ref_usfm": "MAT 12:23"
+},
+{
+"start_ref": "41011010",
+"start_ref_usfm": "MRK 11:10",
+"end_ref": "41011010",
+"end_ref_usfm": "MRK 11:10"
+},
+{
+"start_ref": "43007042",
+"start_ref_usfm": "JHN 7:42",
+"end_ref": "43007042",
+"end_ref_usfm": "JHN 7:42"
+},
+{
+"start_ref": "45001003",
+"start_ref_usfm": "ROM 1:3",
+"end_ref": "45001003",
+"end_ref_usfm": "ROM 1:3"
+},
+{
+"start_ref": "66005005",
+"start_ref_usfm": "REV 5:5",
+"end_ref": "66005005",
+"end_ref_usfm": "REV 5:5"
+},
+{
+"start_ref": "66011015",
+"start_ref_usfm": "REV 11:15",
+"end_ref": "66011015",
+"end_ref_usfm": "REV 11:15"
+},
+{
+"start_ref": "66022016",
+"start_ref_usfm": "REV 22:16",
+"end_ref": "66022016",
+"end_ref_usfm": "REV 22:16"
+},
+{
+"start_ref": "41012035",
+"start_ref_usfm": "MRK 12:35",
+"end_ref": "41012037",
+"end_ref_usfm": "MRK 12:37"
+},
+{
+"start_ref": "08004018",
+"start_ref_usfm": "RUT 4:18",
+"end_ref": "08004022",
+"end_ref_usfm": "RUT 4:22"
+},
+{
+"start_ref": "42001032",
+"start_ref_usfm": "LUK 1:32",
+"end_ref": "42001033",
+"end_ref_usfm": "LUK 1:33"
+},
+{
+"start_ref": "19051001",
+"start_ref_usfm": "PSA 51:1",
+"end_ref": "19051019",
+"end_ref_usfm": "PSA 51:19"
+},
+{
+"start_ref": "19032001",
+"start_ref_usfm": "PSA 32:1",
+"end_ref": "19032011",
+"end_ref_usfm": "PSA 32:11"
+},
+{
+"start_ref": "13002003",
+"start_ref_usfm": "1CH 2:3",
+"end_ref": "13002015",
+"end_ref_usfm": "1CH 2:15"
+},
+{
+"start_ref": "40001003",
+"start_ref_usfm": "MAT 1:3",
+"end_ref": "40001006",
+"end_ref_usfm": "MAT 1:6"
+},
+{
+"start_ref": "42003031",
+"start_ref_usfm": "LUK 3:31",
+"end_ref": "42003033",
+"end_ref_usfm": "LUK 3:33"
+},
+{
+"start_ref": "09029001",
+"start_ref_usfm": "1SA 29:1",
+"end_ref": "09030031",
+"end_ref_usfm": "1SA 30:31"
+},
+{
+"start_ref": "10007001",
+"start_ref_usfm": "2SA 7:1",
+"end_ref": "10007029",
+"end_ref_usfm": "2SA 7:29"
+},
+{
+"start_ref": "19051001",
+"start_ref_usfm": "PSA 51:1",
+"end_ref": "19071024",
+"end_ref_usfm": "PSA 71:24"
+},
+{
+"start_ref": "42018038",
+"start_ref_usfm": "LUK 18:38",
+"end_ref": "42018039",
+"end_ref_usfm": "LUK 18:39"
+},
+{
+"start_ref": "42020041",
+"start_ref_usfm": "LUK 20:41",
+"end_ref": "42020044",
+"end_ref_usfm": "LUK 20:44"
+},
+{
+"start_ref": "09016014",
+"start_ref_usfm": "1SA 16:14",
+"end_ref": "09016023",
+"end_ref_usfm": "1SA 16:23"
+},
+{
+"start_ref": "10011001",
+"start_ref_usfm": "2SA 11:1",
+"end_ref": "10012031",
+"end_ref_usfm": "2SA 12:31"
+},
+{
+"start_ref": "40022041",
+"start_ref_usfm": "MAT 22:41",
+"end_ref": "40022046",
+"end_ref_usfm": "MAT 22:46"
+},
+{
+"start_ref": "19086001",
+"start_ref_usfm": "PSA 86:1",
+"end_ref": "19086017",
+"end_ref_usfm": "PSA 86:17"
+},
+{
+"start_ref": "19133001",
+"start_ref_usfm": "PSA 133:1",
+"end_ref": "19133003",
+"end_ref_usfm": "PSA 133:3"
+},
+{
+"start_ref": "19124001",
+"start_ref_usfm": "PSA 124:1",
+"end_ref": "19124008",
+"end_ref_usfm": "PSA 124:8"
+},
+{
+"start_ref": "19122001",
+"start_ref_usfm": "PSA 122:1",
+"end_ref": "19122009",
+"end_ref_usfm": "PSA 122:9"
+},
+{
+"start_ref": "19131001",
+"start_ref_usfm": "PSA 131:1",
+"end_ref": "19131003",
+"end_ref_usfm": "PSA 131:3"
+},
+{
+"start_ref": "11001005",
+"start_ref_usfm": "1KI 1:5",
+"end_ref": "11001010",
+"end_ref_usfm": "1KI 1:10"
+},
+{
+"start_ref": "11001001",
+"start_ref_usfm": "1KI 1:1",
+"end_ref": "11002012",
+"end_ref_usfm": "1KI 2:12"
+},
+{
+"start_ref": "41010047",
+"start_ref_usfm": "MRK 10:47",
+"end_ref": "41010048",
+"end_ref_usfm": "MRK 10:48"
+},
+{
+"start_ref": "19138001",
+"start_ref_usfm": "PSA 138:1",
+"end_ref": "19145021",
+"end_ref_usfm": "PSA 145:21"
+},
+{
+"start_ref": "09016001",
+"start_ref_usfm": "1SA 16:1",
+"end_ref": "09017058",
+"end_ref_usfm": "1SA 17:58"
+},
+{
+"start_ref": "43007040",
+"start_ref_usfm": "JHN 7:40",
+"end_ref": "43007044",
+"end_ref_usfm": "JHN 7:44"
+},
+{
+"start_ref": "09017014",
+"start_ref_usfm": "1SA 17:14",
+"end_ref": "09017015",
+"end_ref_usfm": "1SA 17:15"
+},
+{
+"start_ref": "09017032",
+"start_ref_usfm": "1SA 17:32",
+"end_ref": "09017051",
+"end_ref_usfm": "1SA 17:51"
+},
+{
+"start_ref": "10013001",
+"start_ref_usfm": "2SA 13:1",
+"end_ref": "10013014",
+"end_ref_usfm": "2SA 13:14"
+},
+{
+"start_ref": "10013020",
+"start_ref_usfm": "2SA 13:20",
+"end_ref": "10013029",
+"end_ref_usfm": "2SA 13:29"
+},
+{
+"start_ref": "10015001",
+"start_ref_usfm": "2SA 15:1",
+"end_ref": "10018033",
+"end_ref_usfm": "2SA 18:33"
+},
+{
+"start_ref": "11001028",
+"start_ref_usfm": "1KI 1:28",
+"end_ref": "11001040",
+"end_ref_usfm": "1KI 1:40"
+},
+{
+"start_ref": "08004013",
+"start_ref_usfm": "RUT 4:13",
+"end_ref": "08004022",
+"end_ref_usfm": "RUT 4:22"
+},
+{
+"start_ref": "09018001",
+"start_ref_usfm": "1SA 18:1",
+"end_ref": "09027012",
+"end_ref_usfm": "1SA 27:12"
+},
+{
+"start_ref": "10001001",
+"start_ref_usfm": "2SA 1:1",
+"end_ref": "10024025",
+"end_ref_usfm": "2SA 24:25"
+},
+{
+"start_ref": "13011001",
+"start_ref_usfm": "1CH 11:1",
+"end_ref": "13029030",
+"end_ref_usfm": "1CH 29:30"
+},
+{
+"start_ref": "19001001",
+"start_ref_usfm": "PSA 1:1",
+"end_ref": "19032011",
+"end_ref_usfm": "PSA 32:11"
+},
+{
+"start_ref": "19034001",
+"start_ref_usfm": "PSA 34:1",
+"end_ref": "19041013",
+"end_ref_usfm": "PSA 41:13"
+},
+{
+"start_ref": "19091001",
+"start_ref_usfm": "PSA 91:1",
+"end_ref": "19110007",
+"end_ref_usfm": "PSA 110:7"
+},
+{
+"start_ref": "44002022",
+"start_ref_usfm": "ACT 2:22",
+"end_ref": "44002037",
+"end_ref_usfm": "ACT 2:37"
+},
+{
+"start_ref": "44013020",
+"start_ref_usfm": "ACT 13:20",
+"end_ref": "44013043",
+"end_ref_usfm": "ACT 13:43"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "Davi",
+"confidence": 0.685,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "658499",
+"reference_id": 203422,
+"version": "1.0.2",
+"title": "Débora",
+"media_type": "Text",
+"index_reference": "débora",
+"language": "por",
+"review_level": "None",
+"content": "<p>A profetisa Débora foi uma das primeiras juízas de Israel. Ela era uma mulher de integridade e devoção ao Senhor. Como profetisa, recebia mensagens divinas. Como juíza, resolvia disputas legais. As pessoas frequentemente a chamavam de &quot;uma mãe em Israel&quot; (veja <a href=\"https://ref.ly/Judg5:7\">Jz 5.7</a>).</p><p>Durante o tempo de Débora, as pessoas estavam cometendo mais erros. Elas deixaram de seguir os caminhos de Deus, e as tribos de Israel não estavam unidas. Israel estava fazendo &quot;o mal aos olhos do Senhor&quot; (<a href=\"https://ref.ly/Judg4:1\">Jz 4.1</a>). Então, Deus entregou Israel a um opressor, Jabim de Canaã. Mais uma vez, Israel clamou ao Senhor por ajuda (<a href=\"https://ref.ly/Judg4:3\">Jz 4.3</a>).</p><p>Deus chamou Baraque para lutar contra Sísera, o comandante do exército de Jabim, através de Débora. No entanto, Baraque não estava entusiasmado ou corajoso. Ele insistiu que Débora o acompanhasse. Débora concordou, mas avisou que uma mulher receberia a glória pela vitória, não Baraque. Isso se concretizou quando Baraque derrotou Sísera e seu exército, mas Jael, a mulher que matou Sísera, recebeu a glória. Baraque demonstrou pouca coragem ou liderança. Isso foi muito diferente da coragem e liderança de Débora e Jael. As ações de Débora levaram a quarenta anos de paz para Israel (<a href=\"https://ref.ly/Judg5:31\">Jz 5.31</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Judg4:1-Judg5:31\">Juízes 4.1–5.31</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07004001",
+"start_ref_usfm": "JDG 4:1",
+"end_ref": "07004001",
+"end_ref_usfm": "JDG 4:1"
+},
+{
+"start_ref": "07004003",
+"start_ref_usfm": "JDG 4:3",
+"end_ref": "07004003",
+"end_ref_usfm": "JDG 4:3"
+},
+{
+"start_ref": "07005007",
+"start_ref_usfm": "JDG 5:7",
+"end_ref": "07005007",
+"end_ref_usfm": "JDG 5:7"
+},
+{
+"start_ref": "07005031",
+"start_ref_usfm": "JDG 5:31",
+"end_ref": "07005031",
+"end_ref_usfm": "JDG 5:31"
+},
+{
+"start_ref": "07004001",
+"start_ref_usfm": "JDG 4:1",
+"end_ref": "07005031",
+"end_ref_usfm": "JDG 5:31"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Deborah.2",
+"type": "person",
+"preferred_label": "Débora",
+"confidence": 0.6655,
+"match_method": "scored"
+}
+]
+}
+}
 ]

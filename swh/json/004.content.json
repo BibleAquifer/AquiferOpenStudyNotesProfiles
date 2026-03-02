@@ -1,1292 +1,1270 @@
 [
-  {
-    "content_id": "734412",
-    "reference_id": 203512,
-    "version": "1.0.2",
-    "title": "Efeso",
-    "media_type": "Text",
-    "index_reference": "efeso",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p> Efeso ilikuwa kwenye njia panda za njia kuu za biashara, zote kaskazini-kusini na mashariki-magharibi. Ilikuwa maarufu kama &quot;mlezi&quot; wa hekalu la Artemi (<a href=\"https://ref.ly/Acts19:35\">Matendo 19:35</a>). Kama mlezi, Efeso ilitambuliwa rasmi kama mlinzi na mtunzaji wa hekalu. Hii ilikuwa ni cheo muhimu kilicholeta heshima na faida za kiuchumi kwa mji huo.</p><p>Wagiriki wa Ionia walianzisha Efeso karibu mwaka wa 1044  Kbala ya Krsito (KK) kwenye bandari ya asili ambapo Mto Cayster uliingia kwenye ghuba ya Bahari ya Aegean. Leo, eneo la jiji la kale liko mbali na pwani. Jiji lilikuja chini ya utawala wa Kirumi mnamo 41 KK. Wakati wa mitume, Efeso ilikuwa tajiri, ikihudumu kama kituo cha kibiashara na kidini. Ilikuwa jiji muhimu zaidi katika jimbo la Kirumi la Asia.</p><p>Ibada ya Artemi huko Efeso ilihusiana sana na historia ya mji huo. Hekalu la Artemi, mojawapo ya maajabu saba ya ulimwengu wa kale, lilikuwa muhimu kwa utajiri na biashara ya Efeso. Mahujaji waliokuja kwa ajili ya ibada ya Artemi walileta fursa nyingi za biashara kwa watengenezaji wa sanamu na wauzaji wengine.</p><p>Wakati Paulo alipofika katika safari yake ya tatu ya umisionari mnamo mwaka wa 53 Baada ya Kristo (BK), Efeso ulikuwa mji wenye historia ya zaidi ya miaka elfu moja (<a href=\"https://ref.ly/Acts19:1-Acts19:41\">Matendo 19</a>). Watu walikuwa wamejitolea sana kwa mungu wao mlinzi na hekalu lake. Kadiri watu zaidi walivyokubali ujumbe wa Paulo, biashara ya wale waliotengeneza na kuuza sanamu za Artemi ilipungua. Hii iliwakasirisha, na wakaanzisha ghasia ambazo karibu ziliua Paulo (<a href=\"https://ref.ly/Acts19:24\">Matendo 19:24</a>, <a href=\"https://ref.ly/Acts19:28-Acts19:31\">28–31</a>).</p><p>Kanisa la Efeso lilikuwa imara chini ya mafundisho na uongozi wa Paulo. Watu waliokuwa wamejifunza kutoka kwa Paulo huko Efeso walianzisha makanisa katika jamii za karibu, kama Kolosai (tazama <span data-bnType=\"resourceReference\" data-resourceId=\"26427\" data-resourceType=\"TyndaleStudyNotesBookIntros\">Utangulizi wa Kitabu cha Wakolosai</span>, “Mazingira”). Hata hivyo, Paulo aliwaonya viongozi wa kanisa la Efeso kuhusu tishio la walimu wa uongo (<a href=\"https://ref.ly/Acts20:29-Acts20:31\">Matendo 20:29–31</a>).</p><p>Mtume Yohana alihamia Efeso karibu mwaka wa 70 BK. Kutoka hapo, alifukuzwa kwenda kisiwa cha Patmo (<a href=\"https://ref.ly/Rev1:9\">Ufunuo 1:9</a>). Yohana aliandika Ufunuo alipokuwa akiishi Patmo, labda katika miaka ya 90 BK. Kufikia wakati huo, upendo na kazi nzuri za Jamii ya Wakrsito, zilizopongezwa katika barua kwa Waefeso, zilikuwa zimepungua (<a href=\"https://ref.ly/Rev2:4\">Ufunuo 2:4</a>). Kulingana na mwandishi wa Kikristo wa mapema Irenaeus, Yohana alirudi Efeso baada ya muda wake Patmo. Aliishi huko hadi kifo chake, ambacho kilitokea wakati Trajan alikuwa mfalme kutoka mwaka 98 hadi 117 BK. Mapokeo yanasema kwamba Maria, mama wa Yesu, pia alitumia siku zake za mwisho Efeso chini ya uangalizi wa Yohana (tazama <a href=\"https://ref.ly/John19:25-John19:27\">Yohana 19:25–27</a>).</p><p>Wagothi walichoma hekalu la Artemi mnamo AD 262. Wagothi walikuwa watu kutoka kaskazini mwa Ulaya ambao walipigana dhidi ya Dola la Kirumi. Kufikia wakati wa baraza la tatu la kiekumeni (pia linaitwa Baraza la Efeso) huko Efeso mnamo AD 431, Artemi hakuwa na ushawishi tena miongoni mwa Waefeso. Mabadiliko haya yanaunga mkono ujumbe wa Paulo kwamba &quot;Mungu waliofanywa na Adamu&quot; kama Artemi &quot;si miungu hata kidogo&quot; (<a href=\"https://ref.ly/Acts19:26\">Matendo 19:26</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Acts18:19-Acts19:41\">Matendo 18:19–19:41</a>; <a href=\"https://ref.ly/Acts20:16-Acts20:38\">20:16–38</a>; <a href=\"https://ref.ly/Eph1:1\">Waefeso 1:1</a>; <a href=\"https://ref.ly/Rev2:1-Rev2:7\">Ufunuo 2:1–7</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44019024",
-          "start_ref_usfm": "ACT 19:24",
-          "end_ref": "44019024",
-          "end_ref_usfm": "ACT 19:24"
-        },
-        {
-          "start_ref": "44019026",
-          "start_ref_usfm": "ACT 19:26",
-          "end_ref": "44019026",
-          "end_ref_usfm": "ACT 19:26"
-        },
-        {
-          "start_ref": "44019035",
-          "start_ref_usfm": "ACT 19:35",
-          "end_ref": "44019035",
-          "end_ref_usfm": "ACT 19:35"
-        },
-        {
-          "start_ref": "49001001",
-          "start_ref_usfm": "EPH 1:1",
-          "end_ref": "49001001",
-          "end_ref_usfm": "EPH 1:1"
-        },
-        {
-          "start_ref": "66001009",
-          "start_ref_usfm": "REV 1:9",
-          "end_ref": "66001009",
-          "end_ref_usfm": "REV 1:9"
-        },
-        {
-          "start_ref": "66002004",
-          "start_ref_usfm": "REV 2:4",
-          "end_ref": "66002004",
-          "end_ref_usfm": "REV 2:4"
-        },
-        {
-          "start_ref": "44019001",
-          "start_ref_usfm": "ACT 19:1",
-          "end_ref": "44019041",
-          "end_ref_usfm": "ACT 19:41"
-        },
-        {
-          "start_ref": "43019025",
-          "start_ref_usfm": "JHN 19:25",
-          "end_ref": "43019027",
-          "end_ref_usfm": "JHN 19:27"
-        },
-        {
-          "start_ref": "66002001",
-          "start_ref_usfm": "REV 2:1",
-          "end_ref": "66002007",
-          "end_ref_usfm": "REV 2:7"
-        },
-        {
-          "start_ref": "44019028",
-          "start_ref_usfm": "ACT 19:28",
-          "end_ref": "44019031",
-          "end_ref_usfm": "ACT 19:31"
-        },
-        {
-          "start_ref": "44020029",
-          "start_ref_usfm": "ACT 20:29",
-          "end_ref": "44020031",
-          "end_ref_usfm": "ACT 20:31"
-        },
-        {
-          "start_ref": "44018019",
-          "start_ref_usfm": "ACT 18:19",
-          "end_ref": "44019041",
-          "end_ref_usfm": "ACT 19:41"
-        },
-        {
-          "start_ref": "44020016",
-          "start_ref_usfm": "ACT 20:16",
-          "end_ref": "44020038",
-          "end_ref_usfm": "ACT 20:38"
-        }
-      ],
-      "resource": [
-        {
-          "reference_id": 26427,
-          "content_id": 649892,
-          "resource_code": "TyndaleStudyNotesBookIntros",
-          "label": "Wakolosai",
-          "language": "swh"
-        }
-      ],
-      "acai": [
-        {
-          "id": "place:Ephesus",
-          "type": "place",
-          "preferred_label": "Efeso",
-          "confidence": 0.6605,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "734315",
-    "reference_id": 203415,
-    "version": "1.0.2",
-    "title": "Eleazari",
-    "media_type": "Text",
-    "index_reference": "eleazari",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p>Eleazari alikuwa mwana wa tatu wa Aroni, kuhani mkuu wa kwanza (<a href=\"https://ref.ly/Exod6:23\">Kutoka 6:23</a>). Ndugu zake wawili wakubwa, Nadabu na Abihu, walimkasirisha Mungu kwa kutoa uvumba tofauti na alivyoamuru Mungu (<a href=\"https://ref.ly/Lev10:1-Lev10:7\">Mambo ya Walawi 10:1–7</a>). Kwa sababu ya kutotii kwao, Mungu aliwaua. Kama mwana aliyefuata kwa umri, Eleazari alikuwa mstari wa mbele kuwa kuhani mkuu. Alitekeleza majukumu ya kikuhani wakati wa maisha ya baba yake na kumsaidia baba yake na Mose wakati baadhi ya Walawi walipofanya uasi, wakitaka hadhi sawa na familia ya kikuhani ya Aroni (<a href=\"https://ref.ly/Num16:36-Num16:40\">Hesabu 16:36–40</a>).</p><p>Aroni alifariki katika nyika muda mfupi kabla ya Waisraeli kuingia katika Nchi ya Ahadi. Hakuweza kuingia kwa sababu yeye na Mose walimwasi Mungu kwa kupiga mwamba huko Meriba (<a href=\"https://ref.ly/Num20:1-Num20:13\">Hesabu 20:1–13</a>). Kabla ya Aroni kufa, yeye, Mose, na Eleazari walipanda juu ya Mlima Wahori. Huko, Mose aliondoa mavazi ya kikuhani kutoka kwa Aroni na kumpa mwanawe (<a href=\"https://ref.ly/Num20:22-Num20:29\">Hesabu 20:22–29</a>).</p><p>Baada ya hili, Eleazari alihudumu kama kuhani mkuu maisha yake yote, ikiwa ni pamoja na wakati Waisraeli walipokuwa wakichukua udhibiti wa nchi ya Kanaani. Wakati ilipofika kugawanya nchi kati ya makabila, Eleazari na Yoshua walitumia kura takatifu kuamua ni wapi kila kabila lingekaa (<a href=\"https://ref.ly/Josh14:1-Josh14:5\">Yoshua 14:1–5</a>). Baada ya Eleazari kufariki, mwanawe Finehasi akawa kuhani mkuu. Finehasi alionyesha uaminifu wake kwa agano wakati Waisraeli walipoanza kuabudu miungu ya Moabu (<a href=\"https://ref.ly/Num25:1-Num25:18\">Hesabu 25</a>). Wazao wa Eleazari walijumuisha:</p><ul><li><p>Sadoki, kuhani mwaminifu aliyemrithi Abiathari (<a href=\"https://ref.ly/1Kgs2:26-1Kgs2:27\">1 Wafalme 2:26–27</a>, <a href=\"https://ref.ly/1Kgs2:35\">35</a>; tazama <a href=\"https://ref.ly/1Chr6:3-1Chr6:8\">1 Mambo ya Nyakati 6:3–8</a>, <a href=\"https://ref.ly/1Chr6:50-1Chr6:53\">50–53</a>)</p></li><li><p>Ezra, ambaye alichukua jukumu muhimu katika kujenga upya Yudea baada ya Uhamisho (tazama <a href=\"https://ref.ly/Ezra7:1-Ezra7:5\">Ezra 7:1–5</a>),</p></li></ul><p>Kwenye hekalu bora la Ezekieli, ni wazao wa Eleazari kupitia Sadoki pekee ndio wangeruhusiwa kuhudumu (<a href=\"https://ref.ly/Ezek44:15\">Ezekieli 44:15</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Exod6:23-Exod6:25\">Kutoka 6:23–25</a>; <a href=\"https://ref.ly/Lev10:6-Lev10:7\">Walawi 10:6–7</a>; <a href=\"https://ref.ly/Num3:1-Num3:4\">Hesabu 3:1–4</a>; <a href=\"https://ref.ly/Num16:36-Num16:40\">Hesabu 16:36–40</a>; <a href=\"https://ref.ly/Num20:22-Num20:26\">Hesabu 20:22–26</a>; <a href=\"https://ref.ly/Num26:1-Num26:4\">Hesabu 26:1–4</a>; <a href=\"https://ref.ly/Josh14:1\">Yoshua 14:1</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "02006023",
-          "start_ref_usfm": "EXO 6:23",
-          "end_ref": "02006023",
-          "end_ref_usfm": "EXO 6:23"
-        },
-        {
-          "start_ref": "06014001",
-          "start_ref_usfm": "JOS 14:1",
-          "end_ref": "06014001",
-          "end_ref_usfm": "JOS 14:1"
-        },
-        {
-          "start_ref": "11002035",
-          "start_ref_usfm": "1KI 2:35",
-          "end_ref": "11002035",
-          "end_ref_usfm": "1KI 2:35"
-        },
-        {
-          "start_ref": "26044015",
-          "start_ref_usfm": "EZK 44:15",
-          "end_ref": "26044015",
-          "end_ref_usfm": "EZK 44:15"
-        },
-        {
-          "start_ref": "11002026",
-          "start_ref_usfm": "1KI 2:26",
-          "end_ref": "11002027",
-          "end_ref_usfm": "1KI 2:27"
-        },
-        {
-          "start_ref": "04025001",
-          "start_ref_usfm": "NUM 25:1",
-          "end_ref": "04025018",
-          "end_ref_usfm": "NUM 25:18"
-        },
-        {
-          "start_ref": "13006003",
-          "start_ref_usfm": "1CH 6:3",
-          "end_ref": "13006008",
-          "end_ref_usfm": "1CH 6:8"
-        },
-        {
-          "start_ref": "03010001",
-          "start_ref_usfm": "LEV 10:1",
-          "end_ref": "03010007",
-          "end_ref_usfm": "LEV 10:7"
-        },
-        {
-          "start_ref": "04003001",
-          "start_ref_usfm": "NUM 3:1",
-          "end_ref": "04003004",
-          "end_ref_usfm": "NUM 3:4"
-        },
-        {
-          "start_ref": "13006050",
-          "start_ref_usfm": "1CH 6:50",
-          "end_ref": "13006053",
-          "end_ref_usfm": "1CH 6:53"
-        },
-        {
-          "start_ref": "15007001",
-          "start_ref_usfm": "EZR 7:1",
-          "end_ref": "15007005",
-          "end_ref_usfm": "EZR 7:5"
-        },
-        {
-          "start_ref": "02006023",
-          "start_ref_usfm": "EXO 6:23",
-          "end_ref": "02006025",
-          "end_ref_usfm": "EXO 6:25"
-        },
-        {
-          "start_ref": "04016036",
-          "start_ref_usfm": "NUM 16:36",
-          "end_ref": "04016040",
-          "end_ref_usfm": "NUM 16:40"
-        },
-        {
-          "start_ref": "03010006",
-          "start_ref_usfm": "LEV 10:6",
-          "end_ref": "03010007",
-          "end_ref_usfm": "LEV 10:7"
-        },
-        {
-          "start_ref": "04020022",
-          "start_ref_usfm": "NUM 20:22",
-          "end_ref": "04020029",
-          "end_ref_usfm": "NUM 20:29"
-        },
-        {
-          "start_ref": "04020001",
-          "start_ref_usfm": "NUM 20:1",
-          "end_ref": "04020013",
-          "end_ref_usfm": "NUM 20:13"
-        },
-        {
-          "start_ref": "04026001",
-          "start_ref_usfm": "NUM 26:1",
-          "end_ref": "04026004",
-          "end_ref_usfm": "NUM 26:4"
-        },
-        {
-          "start_ref": "06014001",
-          "start_ref_usfm": "JOS 14:1",
-          "end_ref": "06014005",
-          "end_ref_usfm": "JOS 14:5"
-        },
-        {
-          "start_ref": "04020022",
-          "start_ref_usfm": "NUM 20:22",
-          "end_ref": "04020026",
-          "end_ref_usfm": "NUM 20:26"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Eleazar.2",
-          "type": "person",
-          "preferred_label": "Eleazari",
-          "confidence": 0.6884,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "734326",
-    "reference_id": 203426,
-    "version": "1.0.2",
-    "title": "Eli",
-    "media_type": "Text",
-    "index_reference": "eli",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p>Eli alikuwa jemadari kuhani wa Israeli katika hema huko Shilo, mahali pa kati pa ibada wakati wa Waamuzi. Inawezekana Eli alitokana na Ithamari, mwana mdogo wa Aroni (tazama <a href=\"https://ref.ly/1Kgs2:27\">1 Wafalme 2:27</a>; <a href=\"https://ref.ly/1Chr18:16\">1 Mambo ya Nyakati 18:16</a>; <a href=\"https://ref.ly/1Chr24:3\">24:3</a>). Eli alikuwa mkweli na mcha Mungu, lakini alishindwa kuwaadhibu wanawe waovu, Hofni na Finehasi.</p><p>Wakati Eli alipokutana na Hana kwenye hema, alidhani kimakosa kwamba alikuwa amelewa kwa sababu alikuwa akiomba kimya kimya kwa ajili ya mtoto. Baada ya kugundua kosa lake, Eli alimbariki Hana. Mungu alijibu maombi yake kwa kumpa mtoto wa kiume aliyeitwa Samweli.</p><p>Samweli alipata kibali kwa Bwana na watu (<a href=\"https://ref.ly/1Sam2:26\">1 Samweli 2:26</a>). Lakini wana wa Eli hawakuwa na heshima na walikuwa walaghai (<a href=\"https://ref.ly/1Sam2:12\">1 Samweli 2:12</a>). Walikuwa wakiiba kutoka kwa sadaka na kuwashawishi wanawake wanaohudumu kwenye hema. Eli alipowakaripia, walimpuuza. Mungu alimtuma nabii kumkosoa Eli kwa udhaifu wake na makosa ya wanawe, akitangaza kwamba Mungu angeondoa ukuhani kutoka kwa familia ya Eli (<a href=\"https://ref.ly/1Sam2:27-1Sam2:36\">1 Samweli 2:27–36</a>). Ujumbe huu ulithibitishwa wakati Mungu alizungumza na Samweli usiku mmoja, akimwambia kwamba angeadhibu familia ya Eli hivi karibuni (<a href=\"https://ref.ly/1Sam3:1-1Sam3:14\">1 Samweli 3:1–14</a>).</p><p>Muda mfupi baadaye, jeshi la Israeli lilishindwa na Wafilisti, Sanduku la Agano likatekwa, na wana wa Eli wakafa (<a href=\"https://ref.ly/1Sam4:1-1Sam4:11\">1 Samweli 4:1–11</a>). Eli, akiwa na umri wa miaka tisini na minane, aliposikia habari hizo, alianguka nyuma, akavunja shingo yake, na akafa (<a href=\"https://ref.ly/1Sam4:12-1Sam4:18\">1 Samweli 4:12–18</a>). Binti-mkwe wake alipata utungu na akafa alipokuwa akimzaa mjukuu wa Eli, aliyeitwa Ikabodi (maana yake “utukufu uko wapi?,” kwa sababu utukufu ulikuwa umewaacha Israeli. (<a href=\"https://ref.ly/1Sam4:19-1Sam4:22\">1 Samweli 4:19–22</a>).</p><p>Familia ya Eli iliendelea kuhudumu kama makuhani hadi Mfalme Daudi alipofariki. Abiathari alikuwa wa mwisho kati ya wazao wa Eli kuhudumu kama jemadari kuhani. Solomoni alimwondoa Abiathari kutoka nafasi ya kuhani kwa sababu Abiathari alikuwa amemuunga mkono Adonia, ambaye alijaribu kuwa mfalme badala ya Solomoni. Solomoni kisha akamteua Sadoki kuwa jemadari kuhani (<a href=\"https://ref.ly/1Kgs2:27\">1 Wafalme 2:27</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/1Sam1:9-1Sam1:18\">1 Samweli 1:9–18</a>, <a href=\"https://ref.ly/1Sam1:25-1Sam1:28\">25–28</a>; <a href=\"https://ref.ly/1Sam2:11-1Sam4:22\">1 Samweli 2:11–4:22</a>; <a href=\"https://ref.ly/1Kgs2:27\">1 Wafalme 2:27</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "09002012",
-          "start_ref_usfm": "1SA 2:12",
-          "end_ref": "09002012",
-          "end_ref_usfm": "1SA 2:12"
-        },
-        {
-          "start_ref": "09002026",
-          "start_ref_usfm": "1SA 2:26",
-          "end_ref": "09002026",
-          "end_ref_usfm": "1SA 2:26"
-        },
-        {
-          "start_ref": "11002027",
-          "start_ref_usfm": "1KI 2:27",
-          "end_ref": "11002027",
-          "end_ref_usfm": "1KI 2:27"
-        },
-        {
-          "start_ref": "13018016",
-          "start_ref_usfm": "1CH 18:16",
-          "end_ref": "13018016",
-          "end_ref_usfm": "1CH 18:16"
-        },
-        {
-          "start_ref": "13024003",
-          "start_ref_usfm": "1CH 24:3",
-          "end_ref": "13024003",
-          "end_ref_usfm": "1CH 24:3"
-        },
-        {
-          "start_ref": "09004001",
-          "start_ref_usfm": "1SA 4:1",
-          "end_ref": "09004011",
-          "end_ref_usfm": "1SA 4:11"
-        },
-        {
-          "start_ref": "09004019",
-          "start_ref_usfm": "1SA 4:19",
-          "end_ref": "09004022",
-          "end_ref_usfm": "1SA 4:22"
-        },
-        {
-          "start_ref": "09002027",
-          "start_ref_usfm": "1SA 2:27",
-          "end_ref": "09002036",
-          "end_ref_usfm": "1SA 2:36"
-        },
-        {
-          "start_ref": "09003001",
-          "start_ref_usfm": "1SA 3:1",
-          "end_ref": "09003014",
-          "end_ref_usfm": "1SA 3:14"
-        },
-        {
-          "start_ref": "09004012",
-          "start_ref_usfm": "1SA 4:12",
-          "end_ref": "09004018",
-          "end_ref_usfm": "1SA 4:18"
-        },
-        {
-          "start_ref": "09001009",
-          "start_ref_usfm": "1SA 1:9",
-          "end_ref": "09001018",
-          "end_ref_usfm": "1SA 1:18"
-        },
-        {
-          "start_ref": "09001025",
-          "start_ref_usfm": "1SA 1:25",
-          "end_ref": "09001028",
-          "end_ref_usfm": "1SA 1:28"
-        },
-        {
-          "start_ref": "09002011",
-          "start_ref_usfm": "1SA 2:11",
-          "end_ref": "09004022",
-          "end_ref_usfm": "1SA 4:22"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Eli",
-          "type": "person",
-          "preferred_label": "Eli",
-          "confidence": 0.7302,
-          "match_method": "scored"
-        },
-        {
-          "id": "deity:Lord",
-          "type": "deity",
-          "preferred_label": "BWANA",
-          "confidence": 0.6779,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Samuel",
-          "type": "person",
-          "preferred_label": "Samweli",
-          "confidence": 0.5084,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "734347",
-    "reference_id": 203447,
-    "version": "1.0.2",
-    "title": "Elisha",
-    "media_type": "Text",
-    "index_reference": "elisha",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p>Elisha, nabii, alimfuata na kumrithi Eliya katika ufalme wa kaskazini wa Israeli mwishoni mwa miaka ya 800 KK. Wakati huo, viongozi na watu wa ufalme wa kaskazini walimwacha Mungu na kumwabudu mungu wa Kikanaani, Baali. Ahabu na Yezebeli walikuwa waabudu waaminifu wa huyu mungu wa uongo, kama walivyokuwa wazao wao waliowafuata kwenye kiti cha enzi. Huduma ya Elisha ilidumu kutoka 853 hadi 798 KK, ikianza wakati utawala wa Mfalme Ahabu ulikuwa unamalizika. Alikuwa na jukumu muhimu katika mpango wa Mungu wa kuwaondoa viongozi wa Israeli waliokuwa waabudu sanamu.</p><p>Elisha alianza kazi yake kama mfuasi wa Eliya na aliteuliwa na Mungu kumrithi (<a href=\"https://ref.ly/1Kgs19:15-1Kgs19:21\">1 Wafalme 19:15–21</a>; <a href=\"https://ref.ly/2Kgs2:1-2Kgs2:18\">2 Wafalme 2:1–18</a>). Baada ya Eliya kupaa kwenda mbinguni, miujiza ya Elisha ilithibitisha kwamba nguvu kuu za Mungu zilikuwa pamoja naye.</p><p>Miujiza ya Elisha mara nyingi ilihusisha maji. Alifanya maji mabaya ya chemchemi karibu na Yeriko kuwa safi na kufanya kichwa cha shoka kuelea (<a href=\"https://ref.ly/2Kgs2:19-2Kgs2:22\">2 Wafalme 2:19–22</a>; <a href=\"https://ref.ly/2Kgs6:1-2Kgs6:7\">6:1–7</a>). Wakati Mfalme Yoramu alipokosa maji katika eneo la adui, Elisha alitabiri kwa usahihi kwamba maji mengi yangetokea (<a href=\"https://ref.ly/2Kgs3:4-2Kgs3:20\">2 Wafalme 3:4–20</a>). Watu waliamini Baali ndiye aliyedhibiti maji, hivyo miujiza hii ilionyesha kwamba Bwana, si Baali, ndiye alikuwa kweli mwenye udhibiti.</p><p>Elisha alionyesha nguvu za Mungu kwa kuwasaidia watu kwa njia za kipekee. Alimsaidia mwanamke maskini kwa kujaza mitungi yake kwa miujiza na mafuta ya zeituni (<a href=\"https://ref.ly/2Kgs4:1-2Kgs4:7\">2 Wafalme 4:1–7</a>). Alimwambia mwanamke kutoka Shunemu kwamba angepata mtoto wa kiume na baadaye alimfufua mtoto huyo (<a href=\"https://ref.ly/2Kgs4:8-2Kgs4:37\">2 Wafalme 4:8–37</a>). Alimponya jemadari Mwaramu aitwaye Naamani kutokana na ukoma (<a href=\"https://ref.ly/2Kgs5:1-2Kgs5:19\">2 Wafalme 5:1–19</a>). Pia alitoa chakula kwa wale waliokuwa na uhitaji (<a href=\"https://ref.ly/2Kgs4:38-2Kgs4:44\">2 Wafalme 4:38–44</a>).</p><p>Elisha alicheza jukumu muhimu katika mpango wa Mungu wa kuhukumu ufalme wa kaskazini. Alimpaka mafuta Yehu wa Israeli na Hazaeli wa Aramu (<a href=\"https://ref.ly/2Kgs8:7-2Kgs8:15\">2 Wafalme 8:7–15</a>; <a href=\"https://ref.ly/2Kgs9:1-2Kgs9:13\">9:1–13</a>). Alimimina mafuta matakatifu juu ya vichwa vyao kuonyesha kwamba Mungu alikuwa amewachagua. Walimaliza kwa nguvu utawala wa viongozi wa Israeli waliokuwa wamepandikiza ibada ya Baali (tazama <a href=\"https://ref.ly/1Kgs19:15-1Kgs19:18\">1 Wafalme 19:15–18</a>).</p><p>Miujiza ya Elisha ilitabiri kazi ya Yesu kwa sababu Yesu:</p><ul><li><p>Aliponya wantu ambao waliumwa na ukoma (<a href=\"https://ref.ly/Matt8:1-Matt8:4\">Mathayo 8:1–4</a>)</p></li><li><p>Aliwafufua wafu (<a href=\"https://ref.ly/Mark5:21-Mark5:43\">Marko 5:21–43</a>; <a href=\"https://ref.ly/Luke7:11-Luke7:17\">Luka 7:11–17</a>; <a href=\"https://ref.ly/John11:1-John11:44\">Yohana 11:1–44</a>)</p></li><li><p>Alitoa chakula kwa njia za kimuujiza (<a href=\"https://ref.ly/Matt14:13-Matt14:21\">Mathayo 14:13–21</a>; <a href=\"https://ref.ly/Matt15:32-Matt15:38\">15:32–38</a>)</p></li></ul><p>Yesu alizungumza kuhusu uponyaji wa Naamani ili kuonyesha kwamba rehema za Mungu zinaenea zaidi ya Waisraeli hadi kwa watu wa mataifa mengine (<a href=\"https://ref.ly/Luke4:27\">Luka 4:27</a>).</p><p><u>Sehemu za Kusoma Zaidi</u></p><p><a href=\"https://ref.ly/1Kgs19:15-1Kgs19:21\">1 Wafalme 19:15–21</a>; <a href=\"https://ref.ly/2Kgs2:1-2Kgs9:13\">2 Wafalme 2:1–9:13</a>; <a href=\"https://ref.ly/2Kgs13:14-2Kgs13:21\">13:14–21</a>; <a href=\"https://ref.ly/Luke4:27\">Luka 4:27</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "42004027",
-          "start_ref_usfm": "LUK 4:27",
-          "end_ref": "42004027",
-          "end_ref_usfm": "LUK 4:27"
-        },
-        {
-          "start_ref": "42007011",
-          "start_ref_usfm": "LUK 7:11",
-          "end_ref": "42007017",
-          "end_ref_usfm": "LUK 7:17"
-        },
-        {
-          "start_ref": "40014013",
-          "start_ref_usfm": "MAT 14:13",
-          "end_ref": "40014021",
-          "end_ref_usfm": "MAT 14:21"
-        },
-        {
-          "start_ref": "12009001",
-          "start_ref_usfm": "2KI 9:1",
-          "end_ref": "12009013",
-          "end_ref_usfm": "2KI 9:13"
-        },
-        {
-          "start_ref": "40008001",
-          "start_ref_usfm": "MAT 8:1",
-          "end_ref": "40008004",
-          "end_ref_usfm": "MAT 8:4"
-        },
-        {
-          "start_ref": "12004001",
-          "start_ref_usfm": "2KI 4:1",
-          "end_ref": "12004007",
-          "end_ref_usfm": "2KI 4:7"
-        },
-        {
-          "start_ref": "12002019",
-          "start_ref_usfm": "2KI 2:19",
-          "end_ref": "12002022",
-          "end_ref_usfm": "2KI 2:22"
-        },
-        {
-          "start_ref": "40015032",
-          "start_ref_usfm": "MAT 15:32",
-          "end_ref": "40015038",
-          "end_ref_usfm": "MAT 15:38"
-        },
-        {
-          "start_ref": "12005001",
-          "start_ref_usfm": "2KI 5:1",
-          "end_ref": "12005019",
-          "end_ref_usfm": "2KI 5:19"
-        },
-        {
-          "start_ref": "12004008",
-          "start_ref_usfm": "2KI 4:8",
-          "end_ref": "12004037",
-          "end_ref_usfm": "2KI 4:37"
-        },
-        {
-          "start_ref": "12008007",
-          "start_ref_usfm": "2KI 8:7",
-          "end_ref": "12008015",
-          "end_ref_usfm": "2KI 8:15"
-        },
-        {
-          "start_ref": "41005021",
-          "start_ref_usfm": "MRK 5:21",
-          "end_ref": "41005043",
-          "end_ref_usfm": "MRK 5:43"
-        },
-        {
-          "start_ref": "43011001",
-          "start_ref_usfm": "JHN 11:1",
-          "end_ref": "43011044",
-          "end_ref_usfm": "JHN 11:44"
-        },
-        {
-          "start_ref": "12006001",
-          "start_ref_usfm": "2KI 6:1",
-          "end_ref": "12006007",
-          "end_ref_usfm": "2KI 6:7"
-        },
-        {
-          "start_ref": "11019015",
-          "start_ref_usfm": "1KI 19:15",
-          "end_ref": "11019018",
-          "end_ref_usfm": "1KI 19:18"
-        },
-        {
-          "start_ref": "12002001",
-          "start_ref_usfm": "2KI 2:1",
-          "end_ref": "12002018",
-          "end_ref_usfm": "2KI 2:18"
-        },
-        {
-          "start_ref": "12002001",
-          "start_ref_usfm": "2KI 2:1",
-          "end_ref": "12009013",
-          "end_ref_usfm": "2KI 9:13"
-        },
-        {
-          "start_ref": "11019015",
-          "start_ref_usfm": "1KI 19:15",
-          "end_ref": "11019021",
-          "end_ref_usfm": "1KI 19:21"
-        },
-        {
-          "start_ref": "12003004",
-          "start_ref_usfm": "2KI 3:4",
-          "end_ref": "12003020",
-          "end_ref_usfm": "2KI 3:20"
-        },
-        {
-          "start_ref": "12004038",
-          "start_ref_usfm": "2KI 4:38",
-          "end_ref": "12004044",
-          "end_ref_usfm": "2KI 4:44"
-        },
-        {
-          "start_ref": "12013014",
-          "start_ref_usfm": "2KI 13:14",
-          "end_ref": "12013021",
-          "end_ref_usfm": "2KI 13:21"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Elisha",
-          "type": "person",
-          "preferred_label": "Elisha",
-          "confidence": 0.6646,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "734345",
-    "reference_id": 203445,
-    "version": "1.0.2",
-    "title": "Eliya",
-    "media_type": "Text",
-    "index_reference": "eliya",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p>Eliya kutoka Mtishbi alikuwa nabii katika Israeli wakati wa utawala wa Ahabu na Ahazia, kuanzia 874 hadi 852 Kabla ya Kristo (KK). Jina lake linamaanisha &quot;Mungu wangu ni Yahweh.&quot; Alionyesha kwamba Bwana ndiye Mubgu wa kweli na akahimiza Israeli kumrudia Bwana.</p><p>Chini ya utawala wa Ahabu na Yezebeli, Waisraeli walianza kumwabudu Baali, mungu wa Wakanaani anayehusishwa na uzazi, dhoruba, na mvua. Kwa sababu hiyo, Mungu alileta ukame katika Israeli (<a href=\"https://ref.ly/1Kgs17:1\">1 Wafalme 17:1</a>). Eliya alijificha hadi ukame ulipomalizika, na Mungu alimlinda. Katika kipindi hiki, alikaa na mjane huko Sarepta, mji ulioko katika eneo la nyumbani kwa Yezebeli la Sidoni. Mwana wa mjane alikufa, lakini Eliya alimuombea, na akafufuka (<a href=\"https://ref.ly/1Kgs17:8-1Kgs17:24\">1 Wafalme 17:8–24</a>).</p><p>Katika mwaka wa tatu wa ukame, Eliya aliwatia changamoto manabii wa Baali kwenye shindano kwenye Mlima Karmeli ili kuonyesha nani alikuwa Mungu wa kweli (<a href=\"https://ref.ly/1Kgs18:1-1Kgs18:40\">1 Wafalme 18:1–40</a>). Manabii wa Baali walimwita Baali bila mafanikio, wakihangaika kumfanya aonekane, huku Eliya akimdhihaki Baali. Ilipofika zamu ya Eliya, alimimina maji juu ya dhabihu yake na akaomba sala rahisi, yenye nguvu. Moto mara moja uliteketeza sadaka hiyo. Watu wa Israeli walimwabudu Bwana na, kufuatia maelekezo ya Eliya, waliwaua manabii wa Baali. Kisha Eliya akaomba mvua, na ukame ukaisha (<a href=\"https://ref.ly/1Kgs18:41-1Kgs18:46\">1 Wafalme 18:41–46</a>).</p><p>Licha ya nguvu kuu za Mungu, Ahabu na Yezebeli waliendelea kupotosha Israeli. Yezebeli alikasirika kwa sababu manabii wake waliuawa (<a href=\"https://ref.ly/1Kgs19:1-1Kgs19:2\">1 Wafalme 19:1–2</a>). Alimtishia Eliya, ambaye alikimbilia jangwani na kumwomba Mungu amalize maisha yake. Badala yake, malaika walimlisha hadi alipofika Mlima Sinai. Eliya alilalamika kwamba alikuwa nabii pekee aliyebaki na kwamba maisha yake yalikuwa hatarini. Mungu alimtia moyo kwa sauti ya upole, akampa Habari Njema, na kumtuma arudi kutumikia (<a href=\"https://ref.ly/1Kgs19:3-1Kgs19:18\">1 Wafalme 19:3–18</a>).</p><p>Eliya alikuwa amejitolea sana kwa Mungu wa kweli. Alimfundisha msaidizi wake aliyeitwa Elisha. Mwisho wa maisha ya Eliya duniani, hakufa bali alichukuliwa mbinguni kwa gari la moto (<a href=\"https://ref.ly/2Kgs2:11-2Kgs2:12\">2 Wafalme 2:11–12</a>). Elisha alichukua jukumu la Eliya kama nabii na aliendelea kupinga ibada ya uongo katika Israeli (tazama <a href=\"https://ref.ly/2Kgs2:1-2Kgs9:13\">2 Wafalme 2:1–9:13</a>; <a href=\"https://ref.ly/2Kgs13:14-2Kgs13:25\">13:14–25</a>).</p><p>Agano la Kale linahitimishwa na tumaini kwamba Eliya atarudi kabla ya Siku ya Bwana (<a href=\"https://ref.ly/Mal4:5-Mal4:6\">Malaki 4:5–6</a>). Yohana Mbatizaji alitimiza sehemu ya matarajio haya (tazama <a href=\"https://ref.ly/Matt11:7-Matt11:14\">Mathayo 11:7–14</a>; <a href=\"https://ref.ly/Matt17:10-Matt17:13\">17:10–13</a>; <a href=\"https://ref.ly/Luke1:17\">Luka 1:17</a>). Eliya alionekana pamoja na Mose wakati wa kubadilika kwa Yesu (wakati sura ya Yesu ilibadilika kuonyesha utukufu wake wa kimungu; <a href=\"https://ref.ly/Matt17:1-Matt17:9\">Mathayo 17:1–9</a>). Katika <a href=\"https://ref.ly/Rev11:3-Rev11:12\">Ufunuo 11:3–12</a>, mmoja wa mashahidi wawili anaonekana kuwa ama Eliya mwenyewe au mtu kama yeye. Maisha ya Eliya yanaonyesha wema wa Mungu na nguvu ya maombi (<a href=\"https://ref.ly/Luke4:25-Luke4:26\">Luka 4:25–26</a>; <a href=\"https://ref.ly/Rom11:2-Rom11:6\">Warumi 11:2–6</a>; <a href=\"https://ref.ly/Jas5:17-Jas5:18\">Yakobo 5:17–18</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/1Kgs17:1-1Kgs19:21\">1 Wafalme 17:1–19:21</a>; <a href=\"https://ref.ly/1Kgs21:1-1Kgs21:29\">21:1–29</a>; <a href=\"https://ref.ly/2Kgs1:1-2Kgs2:25\">2 Wafalme 1:1–2:25</a>; <a href=\"https://ref.ly/2Kgs9:36\">9:36</a>; <a href=\"https://ref.ly/2Kgs10:10\">10:10</a>, <a href=\"https://ref.ly/2Kgs10:17\">17</a>; <a href=\"https://ref.ly/2Chr21:12-2Chr21:15\">2 Mambo ya Nyakati 21:12–15</a>; <a href=\"https://ref.ly/Mal4:5-Mal4:6\">Malaki 4:5–6</a>; <a href=\"https://ref.ly/Matt11:14\">Mathayo 11:14</a>; <a href=\"https://ref.ly/Matt16:14\">16:14</a>; <a href=\"https://ref.ly/Matt17:1-Matt17:13\">17:1–13</a>; <a href=\"https://ref.ly/Matt27:45-Matt27:49\">27:45–49</a>; <a href=\"https://ref.ly/Mark6:15\">Marko 6:15</a>; <a href=\"https://ref.ly/Mark8:28\">8:28</a>; <a href=\"https://ref.ly/Mark9:2-Mark9:13\">9:2–13</a>; <a href=\"https://ref.ly/Mark15:33-Mark15:36\">15:33–36</a>; <a href=\"https://ref.ly/Luke1:17\">Luka 1:17</a>; <a href=\"https://ref.ly/Luke4:26\">4:26</a>; <a href=\"https://ref.ly/Luke9:28-Luke9:36\">9:28–36</a>; <a href=\"https://ref.ly/John1:19-John1:28\">Yohana 1:19–28</a>; <a href=\"https://ref.ly/Rom11:1-Rom11:6\">Warumi 11:1–6</a>; <a href=\"https://ref.ly/Jas5:17\">Yakobo 5:17</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "11017001",
-          "start_ref_usfm": "1KI 17:1",
-          "end_ref": "11017001",
-          "end_ref_usfm": "1KI 17:1"
-        },
-        {
-          "start_ref": "12009036",
-          "start_ref_usfm": "2KI 9:36",
-          "end_ref": "12009036",
-          "end_ref_usfm": "2KI 9:36"
-        },
-        {
-          "start_ref": "12010010",
-          "start_ref_usfm": "2KI 10:10",
-          "end_ref": "12010010",
-          "end_ref_usfm": "2KI 10:10"
-        },
-        {
-          "start_ref": "12010017",
-          "start_ref_usfm": "2KI 10:17",
-          "end_ref": "12010017",
-          "end_ref_usfm": "2KI 10:17"
-        },
-        {
-          "start_ref": "40011014",
-          "start_ref_usfm": "MAT 11:14",
-          "end_ref": "40011014",
-          "end_ref_usfm": "MAT 11:14"
-        },
-        {
-          "start_ref": "40016014",
-          "start_ref_usfm": "MAT 16:14",
-          "end_ref": "40016014",
-          "end_ref_usfm": "MAT 16:14"
-        },
-        {
-          "start_ref": "41006015",
-          "start_ref_usfm": "MRK 6:15",
-          "end_ref": "41006015",
-          "end_ref_usfm": "MRK 6:15"
-        },
-        {
-          "start_ref": "41008028",
-          "start_ref_usfm": "MRK 8:28",
-          "end_ref": "41008028",
-          "end_ref_usfm": "MRK 8:28"
-        },
-        {
-          "start_ref": "42001017",
-          "start_ref_usfm": "LUK 1:17",
-          "end_ref": "42001017",
-          "end_ref_usfm": "LUK 1:17"
-        },
-        {
-          "start_ref": "42004026",
-          "start_ref_usfm": "LUK 4:26",
-          "end_ref": "42004026",
-          "end_ref_usfm": "LUK 4:26"
-        },
-        {
-          "start_ref": "59005017",
-          "start_ref_usfm": "JAS 5:17",
-          "end_ref": "59005017",
-          "end_ref_usfm": "JAS 5:17"
-        },
-        {
-          "start_ref": "40017001",
-          "start_ref_usfm": "MAT 17:1",
-          "end_ref": "40017013",
-          "end_ref_usfm": "MAT 17:13"
-        },
-        {
-          "start_ref": "41009002",
-          "start_ref_usfm": "MRK 9:2",
-          "end_ref": "41009013",
-          "end_ref_usfm": "MRK 9:13"
-        },
-        {
-          "start_ref": "11018041",
-          "start_ref_usfm": "1KI 18:41",
-          "end_ref": "11018046",
-          "end_ref_usfm": "1KI 18:46"
-        },
-        {
-          "start_ref": "11021001",
-          "start_ref_usfm": "1KI 21:1",
-          "end_ref": "11021029",
-          "end_ref_usfm": "1KI 21:29"
-        },
-        {
-          "start_ref": "41015033",
-          "start_ref_usfm": "MRK 15:33",
-          "end_ref": "41015036",
-          "end_ref_usfm": "MRK 15:36"
-        },
-        {
-          "start_ref": "14021012",
-          "start_ref_usfm": "2CH 21:12",
-          "end_ref": "14021015",
-          "end_ref_usfm": "2CH 21:15"
-        },
-        {
-          "start_ref": "39004005",
-          "start_ref_usfm": "MAL 4:5",
-          "end_ref": "39004006",
-          "end_ref_usfm": "MAL 4:6"
-        },
-        {
-          "start_ref": "40017010",
-          "start_ref_usfm": "MAT 17:10",
-          "end_ref": "40017013",
-          "end_ref_usfm": "MAT 17:13"
-        },
-        {
-          "start_ref": "42004025",
-          "start_ref_usfm": "LUK 4:25",
-          "end_ref": "42004026",
-          "end_ref_usfm": "LUK 4:26"
-        },
-        {
-          "start_ref": "42009028",
-          "start_ref_usfm": "LUK 9:28",
-          "end_ref": "42009036",
-          "end_ref_usfm": "LUK 9:36"
-        },
-        {
-          "start_ref": "66011003",
-          "start_ref_usfm": "REV 11:3",
-          "end_ref": "66011012",
-          "end_ref_usfm": "REV 11:12"
-        },
-        {
-          "start_ref": "11017001",
-          "start_ref_usfm": "1KI 17:1",
-          "end_ref": "11019021",
-          "end_ref_usfm": "1KI 19:21"
-        },
-        {
-          "start_ref": "40027045",
-          "start_ref_usfm": "MAT 27:45",
-          "end_ref": "40027049",
-          "end_ref_usfm": "MAT 27:49"
-        },
-        {
-          "start_ref": "11017008",
-          "start_ref_usfm": "1KI 17:8",
-          "end_ref": "11017024",
-          "end_ref_usfm": "1KI 17:24"
-        },
-        {
-          "start_ref": "12013014",
-          "start_ref_usfm": "2KI 13:14",
-          "end_ref": "12013025",
-          "end_ref_usfm": "2KI 13:25"
-        },
-        {
-          "start_ref": "43001019",
-          "start_ref_usfm": "JHN 1:19",
-          "end_ref": "43001028",
-          "end_ref_usfm": "JHN 1:28"
-        },
-        {
-          "start_ref": "11019001",
-          "start_ref_usfm": "1KI 19:1",
-          "end_ref": "11019002",
-          "end_ref_usfm": "1KI 19:2"
-        },
-        {
-          "start_ref": "40017001",
-          "start_ref_usfm": "MAT 17:1",
-          "end_ref": "40017009",
-          "end_ref_usfm": "MAT 17:9"
-        },
-        {
-          "start_ref": "11019003",
-          "start_ref_usfm": "1KI 19:3",
-          "end_ref": "11019018",
-          "end_ref_usfm": "1KI 19:18"
-        },
-        {
-          "start_ref": "11018001",
-          "start_ref_usfm": "1KI 18:1",
-          "end_ref": "11018040",
-          "end_ref_usfm": "1KI 18:40"
-        },
-        {
-          "start_ref": "12002011",
-          "start_ref_usfm": "2KI 2:11",
-          "end_ref": "12002012",
-          "end_ref_usfm": "2KI 2:12"
-        },
-        {
-          "start_ref": "12002001",
-          "start_ref_usfm": "2KI 2:1",
-          "end_ref": "12009013",
-          "end_ref_usfm": "2KI 9:13"
-        },
-        {
-          "start_ref": "40011007",
-          "start_ref_usfm": "MAT 11:7",
-          "end_ref": "40011014",
-          "end_ref_usfm": "MAT 11:14"
-        },
-        {
-          "start_ref": "45011002",
-          "start_ref_usfm": "ROM 11:2",
-          "end_ref": "45011006",
-          "end_ref_usfm": "ROM 11:6"
-        },
-        {
-          "start_ref": "59005017",
-          "start_ref_usfm": "JAS 5:17",
-          "end_ref": "59005018",
-          "end_ref_usfm": "JAS 5:18"
-        },
-        {
-          "start_ref": "12001001",
-          "start_ref_usfm": "2KI 1:1",
-          "end_ref": "12002025",
-          "end_ref_usfm": "2KI 2:25"
-        },
-        {
-          "start_ref": "45011001",
-          "start_ref_usfm": "ROM 11:1",
-          "end_ref": "45011006",
-          "end_ref_usfm": "ROM 11:6"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Elijah",
-          "type": "person",
-          "preferred_label": "Eliya",
-          "confidence": 0.6771,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Elisha",
-          "type": "person",
-          "preferred_label": "Elisha",
-          "confidence": 0.5235,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "734303",
-    "reference_id": 203403,
-    "version": "1.0.2",
-    "title": "Esau",
-    "media_type": "Text",
-    "index_reference": "esau",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p>Esau alikuwa mwana wa Isaka na Rebeka na kaka pacha mkubwa wa Yakobo (<a href=\"https://ref.ly/Gen25:24-Gen25:26\">Mwanzo 25:24–26</a>). Alipewa jina Esau kwa sababu alikuwa na manyoya mengi alipozaliwa. Wazao wake walijulikana kama Waedomu. &quot;Edomu&quot; inamaanisha &quot;nyekundu,&quot; ikirejelea:</p><ul><li><p>Rangi nyekundu ya Esau alipozaliwa (<a href=\"https://ref.ly/Gen25:25\">Mwanzo 25:25</a>)</p></li><li><p>Kitoweo cha dengu nyekundu alichopata kutoka kwa Yakobo (<a href=\"https://ref.ly/Gen25:30\">Mwanzo 25:30</a>)</p></li><li><p>Rangi nyekundu ya ardhi alikoishi (tazama <span data-bnType=\"resourceReference\" data-resourceId=\"11684\" data-resourceType=\"TyndaleStudyNotes\">maelezo ya somo kwenye Mwanzo 25:25</span>)</p></li></ul><p>Esau alikuwa mwindaji stadi ambaye alileta nyama ya porini yenye ladha kwa baba yake. Isaka alipendelea ladha yake kali kuliko nyama laini ambayo Yakobo alitoa kutoka kwa mifugo ya familia. Siku moja, Esau alirudi nyumbani akiwa na njaa sana baada ya uwindaji usiofanikiwa. Yakobo alimshawishi Esau kuacha haki na marupurupu yake ya kuwa mzaliwa wa kwanza kwa kubadilishana na chakula (<a href=\"https://ref.ly/Gen25:29-Gen25:34\">Mwanzo 25:29–34</a>). Esau hakuthamini haki yake ya uzaliwa na aliongozwa na tamaa zake za kimwili (tazama <a href=\"https://ref.ly/Heb12:16\">Waebrania 12:16</a>).</p><p>Pia alioa wanawake wawili wa eneo hilo ambao hawakuwa wazao wa Abrahamu (<a href=\"https://ref.ly/Gen26:34-Gen26:35\">Mwanzo 26:34–35</a>). Hii inaweza kuwa ilimshawishi Rebeka kumpendelea Yakobo na mpango wake wa kuchukua baraka ya Isaka iliyokusudiwa Esau (<a href=\"https://ref.ly/Gen27:1-Gen27:40\">Mwanzo 27:1–40</a>). Hasira ya Esau alipogundua udanganyifu wa kaka yake ilimfanya Yakobo kukimbilia Harani. Ndugu hao walikutana tena baada ya miaka ishirini wakati Esau alipoonyesha msamaha wa neema (<a href=\"https://ref.ly/Gen33:1-Gen33:16\">Mwanzo 33:1–16</a>).</p><p>Esau alizaliwa huku Yakobo akimshika kisigino. Watu waliona hii kama ishara kwamba wazao wa Esau wangetumikia wazao wa Yakobo. Waedomu walianza kuwatumikia Waisraeli wakati wa utawala wa Daudi (<a href=\"https://ref.ly/2Sam8:11-2Sam8:15\">2 Samweli 8:11–15</a>; <a href=\"https://ref.ly/1Chr18:11-1Chr18:13\">1 Mambo ya Nyakati 18:11–13</a>) na waliendelea hadi utawala wa Yehoramu (<a href=\"https://ref.ly/2Kgs8:20-2Kgs8:22\">2 Wafalme 8:20–22</a>; <a href=\"https://ref.ly/2Chr21:8-2Chr21:10\">2 Mambo ya Nyakati 21:8–10</a>). Baada ya uasi mnamo 845 Kabla ya Krsito (KK), Waedomu walipata uhuru kwa muda mfupi lakini walishindwa tena na Amazia, ambaye alitawala kutoka 796 hadi 767 KK. Walipata uhuru wao tena mnamo 735 KK na wakabaki huru kutoka Yuda.</p><p>Kwenye Agano Jipya, Esau anawakilisha wazao wa Abrahamu ambao hawakuwa na imani na walikataliwa na Mungu kwa baraka zake za ahadi (tazama <a href=\"https://ref.ly/Rom9:6-Rom9:24\">Warumi 9:6–24</a>). Herode Mkuu alikuwa Mwedomu.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen25:21-Gen25:34\">Mwanzo 25:21–34</a>; <a href=\"https://ref.ly/Gen26:34-Gen26:35\">26:34–35</a>; <a href=\"https://ref.ly/Gen27:1-Gen27:42\">27:1–42</a>; <a href=\"https://ref.ly/Gen28:6-Gen28:9\">28:6–9</a>; <a href=\"https://ref.ly/Gen32:3-Gen32:20\">32:3–20</a>; <a href=\"https://ref.ly/Gen33:1-Gen33:16\">33:1–16</a>; <a href=\"https://ref.ly/Gen35:28-Gen35:29\">35:28–29</a>; <a href=\"https://ref.ly/Gen36:1-Gen36:43\">36:1–43</a>; <a href=\"https://ref.ly/Deut2:1-Deut2:8\">Kumbukumbu la Torati 2:1–8</a>, <a href=\"https://ref.ly/Deut2:12\">12</a>, <a href=\"https://ref.ly/Deut2:22\">22</a>, <a href=\"https://ref.ly/Deut2:29\">29</a>; <a href=\"https://ref.ly/Josh24:4\">Yoshua 24:4</a>; <a href=\"https://ref.ly/Mal1:2-Mal1:5\">Malaki 1:2–5</a>; <a href=\"https://ref.ly/Rom9:6-Rom9:13\">Warumi 9:6–13</a>; <a href=\"https://ref.ly/Heb11:20\">Waebrania 11:20</a>; <a href=\"https://ref.ly/Heb12:16-Heb12:17\">12:16–17</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01025025",
-          "start_ref_usfm": "GEN 25:25",
-          "end_ref": "01025025",
-          "end_ref_usfm": "GEN 25:25"
-        },
-        {
-          "start_ref": "01025030",
-          "start_ref_usfm": "GEN 25:30",
-          "end_ref": "01025030",
-          "end_ref_usfm": "GEN 25:30"
-        },
-        {
-          "start_ref": "05002012",
-          "start_ref_usfm": "DEU 2:12",
-          "end_ref": "05002012",
-          "end_ref_usfm": "DEU 2:12"
-        },
-        {
-          "start_ref": "05002022",
-          "start_ref_usfm": "DEU 2:22",
-          "end_ref": "05002022",
-          "end_ref_usfm": "DEU 2:22"
-        },
-        {
-          "start_ref": "05002029",
-          "start_ref_usfm": "DEU 2:29",
-          "end_ref": "05002029",
-          "end_ref_usfm": "DEU 2:29"
-        },
-        {
-          "start_ref": "06024004",
-          "start_ref_usfm": "JOS 24:4",
-          "end_ref": "06024004",
-          "end_ref_usfm": "JOS 24:4"
-        },
-        {
-          "start_ref": "58011020",
-          "start_ref_usfm": "HEB 11:20",
-          "end_ref": "58011020",
-          "end_ref_usfm": "HEB 11:20"
-        },
-        {
-          "start_ref": "58012016",
-          "start_ref_usfm": "HEB 12:16",
-          "end_ref": "58012016",
-          "end_ref_usfm": "HEB 12:16"
-        },
-        {
-          "start_ref": "58012016",
-          "start_ref_usfm": "HEB 12:16",
-          "end_ref": "58012017",
-          "end_ref_usfm": "HEB 12:17"
-        },
-        {
-          "start_ref": "01036001",
-          "start_ref_usfm": "GEN 36:1",
-          "end_ref": "01036043",
-          "end_ref_usfm": "GEN 36:43"
-        },
-        {
-          "start_ref": "12008020",
-          "start_ref_usfm": "2KI 8:20",
-          "end_ref": "12008022",
-          "end_ref_usfm": "2KI 8:22"
-        },
-        {
-          "start_ref": "01025024",
-          "start_ref_usfm": "GEN 25:24",
-          "end_ref": "01025026",
-          "end_ref_usfm": "GEN 25:26"
-        },
-        {
-          "start_ref": "01025029",
-          "start_ref_usfm": "GEN 25:29",
-          "end_ref": "01025034",
-          "end_ref_usfm": "GEN 25:34"
-        },
-        {
-          "start_ref": "01026034",
-          "start_ref_usfm": "GEN 26:34",
-          "end_ref": "01026035",
-          "end_ref_usfm": "GEN 26:35"
-        },
-        {
-          "start_ref": "10008011",
-          "start_ref_usfm": "2SA 8:11",
-          "end_ref": "10008015",
-          "end_ref_usfm": "2SA 8:15"
-        },
-        {
-          "start_ref": "14021008",
-          "start_ref_usfm": "2CH 21:8",
-          "end_ref": "14021010",
-          "end_ref_usfm": "2CH 21:10"
-        },
-        {
-          "start_ref": "39001002",
-          "start_ref_usfm": "MAL 1:2",
-          "end_ref": "39001005",
-          "end_ref_usfm": "MAL 1:5"
-        },
-        {
-          "start_ref": "05002001",
-          "start_ref_usfm": "DEU 2:1",
-          "end_ref": "05002008",
-          "end_ref_usfm": "DEU 2:8"
-        },
-        {
-          "start_ref": "01027001",
-          "start_ref_usfm": "GEN 27:1",
-          "end_ref": "01027040",
-          "end_ref_usfm": "GEN 27:40"
-        },
-        {
-          "start_ref": "01028006",
-          "start_ref_usfm": "GEN 28:6",
-          "end_ref": "01028009",
-          "end_ref_usfm": "GEN 28:9"
-        },
-        {
-          "start_ref": "01033001",
-          "start_ref_usfm": "GEN 33:1",
-          "end_ref": "01033016",
-          "end_ref_usfm": "GEN 33:16"
-        },
-        {
-          "start_ref": "13018011",
-          "start_ref_usfm": "1CH 18:11",
-          "end_ref": "13018013",
-          "end_ref_usfm": "1CH 18:13"
-        },
-        {
-          "start_ref": "45009006",
-          "start_ref_usfm": "ROM 9:6",
-          "end_ref": "45009024",
-          "end_ref_usfm": "ROM 9:24"
-        },
-        {
-          "start_ref": "01025021",
-          "start_ref_usfm": "GEN 25:21",
-          "end_ref": "01025034",
-          "end_ref_usfm": "GEN 25:34"
-        },
-        {
-          "start_ref": "01027001",
-          "start_ref_usfm": "GEN 27:1",
-          "end_ref": "01027042",
-          "end_ref_usfm": "GEN 27:42"
-        },
-        {
-          "start_ref": "01032003",
-          "start_ref_usfm": "GEN 32:3",
-          "end_ref": "01032020",
-          "end_ref_usfm": "GEN 32:20"
-        },
-        {
-          "start_ref": "01035028",
-          "start_ref_usfm": "GEN 35:28",
-          "end_ref": "01035029",
-          "end_ref_usfm": "GEN 35:29"
-        },
-        {
-          "start_ref": "45009006",
-          "start_ref_usfm": "ROM 9:6",
-          "end_ref": "45009013",
-          "end_ref_usfm": "ROM 9:13"
-        }
-      ],
-      "resource": [
-        {
-          "reference_id": 11684,
-          "content_id": 734708,
-          "resource_code": "TyndaleStudyNotes",
-          "label": "Mwanzo 25:25",
-          "language": "swh"
-        }
-      ],
-      "acai": [
-        {
-          "id": "person:Esau",
-          "type": "person",
-          "preferred_label": "Esau",
-          "confidence": 0.7326,
-          "match_method": "scored"
-        },
-        {
-          "id": "place:Edom",
-          "type": "place",
-          "preferred_label": "Edomu",
-          "confidence": 0.6622,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "734362",
-    "reference_id": 203462,
-    "version": "1.0.2",
-    "title": "Esta",
-    "media_type": "Text",
-    "index_reference": "esta",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p>Esta alikuwa malkia wa Uajemi wakati wa utawala wa Xerxes I (pia anajulikana kama Ahasuero), ambaye alitawala kutoka 486 hadi 465 Kabla ya Kristo (KK). Alikuwa sehemu ya <em>Diaspora</em> (&quot;kutawanyika&quot;), akitokana na Wayahudi ambao walikuwa wametawanyika miongoni mwa mataifa wakati wa uhamisho huko Babuloni. Familia yake haikurudi Yuda, tofauti na baadhi ya Wayahudi (tazama <a href=\"https://ref.ly/Ezra1:1-Ezra2:70\">Ezra 1–2</a>), lakini walichagua kubaki Uajemi, kama wengi wengine. Jukumu muhimu la binamu yake Mordekai katika serikali ya Kiajemi linaonyesha kuwa familia yake ilikuwa imepata utajiri na kustarehe.</p><p>Esta alikuwa yatima aliyekuzwa na binamu yake Mordekai, afisa mdogo katika serikali ya Uajemi huko Shushani. Alifanywa malkia baada ya Mfalme Ahasuero kumwondoa Malkia Vashti kwa kukataa kuhudhuria karamu alipoamriwa kufanya hivyo (<a href=\"https://ref.ly/Esth1:11-Esth1:12\">Esta 1:11–12</a>).</p><p>Baada ya Esta kutawazwa, alifanikiwa kupata uaminifu wa Xerxes kwa kumjulisha kuhusu njama ya mauaji (<a href=\"https://ref.ly/Esth2:21-Esth2:23\">Esta 2:21–23</a>). Hii ilimwezesha baadaye kuwaokoa watu wake kutokana na mauaji yaliyopangwa na Hamani, afisa mkuu wa mfalme. Kupitia ushauri wake wa busara na vitendo vyake vya ujasiri, Esta alifichua Hamani. Alinyongwa, na watu wa Kiyahudi waliokolewa. Sikukuu ya Kiyahudi ya Purimu iliandaliwa ili kusherehekea matukio haya.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Esth2:7-Esth2:20\">Esta 2:7–20</a>; <a href=\"https://ref.ly/Esth4:4-Esth5:8\">4:4–5:8</a>; <a href=\"https://ref.ly/Esth7:1-Esth9:32\">7:1–9:32</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "17002021",
-          "start_ref_usfm": "EST 2:21",
-          "end_ref": "17002023",
-          "end_ref_usfm": "EST 2:23"
-        },
-        {
-          "start_ref": "17001011",
-          "start_ref_usfm": "EST 1:11",
-          "end_ref": "17001012",
-          "end_ref_usfm": "EST 1:12"
-        },
-        {
-          "start_ref": "15001001",
-          "start_ref_usfm": "EZR 1:1",
-          "end_ref": "15002070",
-          "end_ref_usfm": "EZR 2:70"
-        },
-        {
-          "start_ref": "17002007",
-          "start_ref_usfm": "EST 2:7",
-          "end_ref": "17002020",
-          "end_ref_usfm": "EST 2:20"
-        },
-        {
-          "start_ref": "17004004",
-          "start_ref_usfm": "EST 4:4",
-          "end_ref": "17005008",
-          "end_ref_usfm": "EST 5:8"
-        },
-        {
-          "start_ref": "17007001",
-          "start_ref_usfm": "EST 7:1",
-          "end_ref": "17009032",
-          "end_ref_usfm": "EST 9:32"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Esther",
-          "type": "person",
-          "preferred_label": "Esther",
-          "confidence": 0.515,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "734368",
-    "reference_id": 203468,
-    "version": "1.0.2",
-    "title": "Ezekieli",
-    "media_type": "Text",
-    "index_reference": "ezekieli",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p>Ezekieli alikuwa kuhani na nabii. Alizaliwa karibu mwaka wa 623 Kabla ya Kristo (KK). Inawezekana alikulia Yerusalemu na alikuwa ameoa (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ezekieli 24:16–18</a>). Mnamo 597 KK, alipelekwa uhamishoni Babeli pamoja na Yekonia na aliishi kando ya Mto Kebari. Alipokea wito wake kama nabii huko Babeli mnamo Julai 31, 593 KK (<a href=\"https://ref.ly/Ezek1:1\">Ezekieli 1:1</a>). Tunajifunza kuhusu maisha yake binafsi kutoka kwenye kitabu kilichopewa jina lake.</p><p>Ezekieli mara nyingi alitumia vitendo visivyo vya kawaida kusisitiza ujumbe wake wa kinabii kutoka kwa Mungu. Kwa mfano, alionyesha uhaba mkubwa wa chakula wakati wa kuzingirwa kwa mwisho wa Yerusalemu kwa kula chakula kilichopikwa juu ya mavi (<a href=\"https://ref.ly/Ezek4:12\">Ezekieli 4:12</a>). Wakati mwingine, alilala bila kusonga kwa siku 430, kila siku ikiwakilisha mwaka wa dhambi za Israeli na Yuda (<a href=\"https://ref.ly/Ezek4:4-Ezek4:7\">Ezekieli 4:4–7</a>). Mke wa Ezekieli alipokufa ghafla, hakuruhusiwa kumlilia hadharani (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ezekieli 24:16–18</a>); kifo chake kilikuwa onyo kali la kile ambacho kingetokea Yuda (<a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">Ezekieli 24:15–27</a>). Vitendo visivyo vya kawaida vya Ezekieli vililenga kuvutia umakini wa watu.</p><p>Hapo awali, watu walikataa ujumbe wa Ezekieli. Hata hivyo, unabii wake ulithibitishwa kuwa wa kweli, na taifa likaacha kuabudu miungu ya uongo. Alifundisha kuhusu utakatifu, usafi, ufufuo, na sheria za ibada (kanuni na desturi za kidini). Ujumbe wake wa matumaini uliwahimiza watu waliohamishwa kubaki waaminifu wakati wa utumwa wao. Baada ya kurudi kwao, uliwahamasisha kutazamia utimilifu mkubwa zaidi.</p><p>Hatufahamu jinsi Ezekieli alivyokufa, na hatatajwi mahali pengine katika Agano la Kale. Agano Jipya linarejelea unabii wa Ezekieli zaidi ya mara sitini, hasa katika kitabu cha Ufunuo. Maono ya kinabii ya Ezekieli yalielekea zaidi ya wakati wake wa karibu hadi kwenye hukumu ya mwisho (uamuzi wa mwisho wa Mungu kuhusu watu wote) na tumaini kuu la mbinguni.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Ezek2:1-Ezek2:10\">Ezekieli 2:1–10</a>; <a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">24:15–27</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "26001001",
-          "start_ref_usfm": "EZK 1:1",
-          "end_ref": "26001001",
-          "end_ref_usfm": "EZK 1:1"
-        },
-        {
-          "start_ref": "26004012",
-          "start_ref_usfm": "EZK 4:12",
-          "end_ref": "26004012",
-          "end_ref_usfm": "EZK 4:12"
-        },
-        {
-          "start_ref": "26024016",
-          "start_ref_usfm": "EZK 24:16",
-          "end_ref": "26024018",
-          "end_ref_usfm": "EZK 24:18"
-        },
-        {
-          "start_ref": "26024015",
-          "start_ref_usfm": "EZK 24:15",
-          "end_ref": "26024027",
-          "end_ref_usfm": "EZK 24:27"
-        },
-        {
-          "start_ref": "26002001",
-          "start_ref_usfm": "EZK 2:1",
-          "end_ref": "26002010",
-          "end_ref_usfm": "EZK 2:10"
-        },
-        {
-          "start_ref": "26004004",
-          "start_ref_usfm": "EZK 4:4",
-          "end_ref": "26004007",
-          "end_ref_usfm": "EZK 4:7"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Ezekiel",
-          "type": "person",
-          "preferred_label": "Ezekieli",
-          "confidence": 0.6138,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "734359",
-    "reference_id": 203459,
-    "version": "1.0.2",
-    "title": "Ezra",
-    "media_type": "Text",
-    "index_reference": "ezra",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p>Ezra alikuwa kuhani na mwandishi (mwalimu na mnakili wa Maandiko). Alitoka katika familia muhimu ya makuhani wakuu waliotokana na Sadoki (<a href=\"https://ref.ly/Ezra7:1-Ezra7:5\">Ezra 7:1–5</a>, <a href=\"https://ref.ly/Ezra7:11-Ezra7:12\">11–12</a>; tazama pia <a href=\"https://ref.ly/Neh8:2\">Nehemia 8:2</a>, <a href=\"https://ref.ly/Neh8:9\">9</a>). Aliongoza huko Yuda baada ya Wayahudi kurudi kutoka uhamishoni. Kama mwandishi, Ezra alikuwa zaidi ya mnakili; alikuwa mwanafunzi aliyejitolea wa sheria za Mungu (<a href=\"https://ref.ly/Ezra7:6\">Ezra 7:6</a>). Alikuwa na sifa za kufundisha, kuhubiri, na kueleza Maandiko.</p><p>Ezra, afisa muhimu aliyemsaidia mfalme katika masuala ya Kiyahudi ndani ya Milki ya Uajemi, alitembelea Yerusalemu karibu mwaka wa 458 Kabla ya (KK). Alileta vitu kwa ajili ya hekalu na alilenga kuanzisha sheria za Mungu pamoja na sheria za Uajemi. Mojawapo ya hatua zake za kwanza ilikuwa kushughulikia suala la ndoa na majirani wasio Wayahudi (<a href=\"https://ref.ly/Ezra9:1-Ezra10:44\">Ezra 9:1–10:44</a>). Baadaye, baada ya kuta za mji kujengwa upya mwaka wa 445 KK (<a href=\"https://ref.ly/Neh6:15\">Nehemia 6:15</a>), Ezra aliongoza jamii kufuata sheria za Mungu kwa umakini zaidi (<a href=\"https://ref.ly/Neh8:13-Neh8:15\">Nehemia 8:13–15</a>).</p><p>Ezra alimheshimu Mungu kwa kusimamia fedha kwa uangalifu. Mfalme wa Uajemi aliamini maamuzi ya Ezra na kumruhusu aombe pesa zaidi inapohitajika (<a href=\"https://ref.ly/Ezra7:15-Ezra7:20\">Ezra 7:15–20</a>). Ezra alikabidhi majukumu ya kifedha kwa wengine inapowezekana na alisisitiza uaminifu wa hali ya juu katika masuala ya kifedha (<a href=\"https://ref.ly/Ezra8:24-Ezra8:30\">Ezra 8:24–30</a>). Alitambua baadhi ya rasilimali za kifedha kama takatifu na mali ya Mungu.</p><p>Ezra alijinyenyekeza mbele ya Mungu wakati watu walipoanza safari yao (<a href=\"https://ref.ly/Ezra8:21-Ezra8:23\">Ezra 8:21–23</a>), alipogundua kuhusu ndoa zisizo takatifu za watu (<a href=\"https://ref.ly/Ezra9:5-Ezra9:15\">Ezra 9:5–15</a>), na alipokusanya wale waliotakiwa kuwataliki wake zao wapagani (<a href=\"https://ref.ly/Ezra10:6\">10:6</a>). Daima alitambua kwamba mkono wa neema wa Mungu—sio uwezo wake mwenyewe au hekima—ulifanya mambo mazuri kutokea (<a href=\"https://ref.ly/Ezra7:6\">Ezra 7:6</a>, <a href=\"https://ref.ly/Ezra7:9\">9</a>, <a href=\"https://ref.ly/Ezra7:28\">28</a>; <a href=\"https://ref.ly/Ezra8:18\">8:18</a>, <a href=\"https://ref.ly/Ezra8:22\">22</a>, <a href=\"https://ref.ly/Ezra8:31\">31</a>; <a href=\"https://ref.ly/Ezra9:8-Ezra9:9\">9:8–9</a>). Alisoma na kuishi kwa Neno la Mungu na kuwafundisha wengine kufuata kile Mungu alichofunua (<a href=\"https://ref.ly/Ezra7:10\">Ezra 7:10</a>). Alikuwa mwalimu na kiongozi-mtumikiaji, sio afisa mwenye kujiona ambaye aliwatawala wengine.</p><p>Ezra alionyesha kujitolea kwake kupitia maombi na kufunga, akionyesha tamaa yake kubwa ya kusaidia watu kumfuata Mungu. Aliweka mfano wa maisha katika jamii ya Kiyahudi baada ya uhamisho, akilenga Neno la Mungu na ibada kama vipaumbele vya msingi.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Ezra7:1-Ezra10:44\">Ezra 7:1–10:44</a>; <a href=\"https://ref.ly/Neh8:1-Neh8:18\">Nehemia 8:1–18</a>; <a href=\"https://ref.ly/Neh12:1\">12:1</a>, <a href=\"https://ref.ly/Neh12:26\">26</a>, <a href=\"https://ref.ly/Neh12:36\">36</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "15007006",
-          "start_ref_usfm": "EZR 7:6",
-          "end_ref": "15007006",
-          "end_ref_usfm": "EZR 7:6"
-        },
-        {
-          "start_ref": "15007009",
-          "start_ref_usfm": "EZR 7:9",
-          "end_ref": "15007009",
-          "end_ref_usfm": "EZR 7:9"
-        },
-        {
-          "start_ref": "15007010",
-          "start_ref_usfm": "EZR 7:10",
-          "end_ref": "15007010",
-          "end_ref_usfm": "EZR 7:10"
-        },
-        {
-          "start_ref": "15007028",
-          "start_ref_usfm": "EZR 7:28",
-          "end_ref": "15007028",
-          "end_ref_usfm": "EZR 7:28"
-        },
-        {
-          "start_ref": "15008018",
-          "start_ref_usfm": "EZR 8:18",
-          "end_ref": "15008018",
-          "end_ref_usfm": "EZR 8:18"
-        },
-        {
-          "start_ref": "15008022",
-          "start_ref_usfm": "EZR 8:22",
-          "end_ref": "15008022",
-          "end_ref_usfm": "EZR 8:22"
-        },
-        {
-          "start_ref": "15008031",
-          "start_ref_usfm": "EZR 8:31",
-          "end_ref": "15008031",
-          "end_ref_usfm": "EZR 8:31"
-        },
-        {
-          "start_ref": "15010006",
-          "start_ref_usfm": "EZR 10:6",
-          "end_ref": "15010006",
-          "end_ref_usfm": "EZR 10:6"
-        },
-        {
-          "start_ref": "16006015",
-          "start_ref_usfm": "NEH 6:15",
-          "end_ref": "16006015",
-          "end_ref_usfm": "NEH 6:15"
-        },
-        {
-          "start_ref": "16008002",
-          "start_ref_usfm": "NEH 8:2",
-          "end_ref": "16008002",
-          "end_ref_usfm": "NEH 8:2"
-        },
-        {
-          "start_ref": "16008009",
-          "start_ref_usfm": "NEH 8:9",
-          "end_ref": "16008009",
-          "end_ref_usfm": "NEH 8:9"
-        },
-        {
-          "start_ref": "16012001",
-          "start_ref_usfm": "NEH 12:1",
-          "end_ref": "16012001",
-          "end_ref_usfm": "NEH 12:1"
-        },
-        {
-          "start_ref": "16012026",
-          "start_ref_usfm": "NEH 12:26",
-          "end_ref": "16012026",
-          "end_ref_usfm": "NEH 12:26"
-        },
-        {
-          "start_ref": "16012036",
-          "start_ref_usfm": "NEH 12:36",
-          "end_ref": "16012036",
-          "end_ref_usfm": "NEH 12:36"
-        },
-        {
-          "start_ref": "15007001",
-          "start_ref_usfm": "EZR 7:1",
-          "end_ref": "15007005",
-          "end_ref_usfm": "EZR 7:5"
-        },
-        {
-          "start_ref": "15009001",
-          "start_ref_usfm": "EZR 9:1",
-          "end_ref": "15010044",
-          "end_ref_usfm": "EZR 10:44"
-        },
-        {
-          "start_ref": "15007001",
-          "start_ref_usfm": "EZR 7:1",
-          "end_ref": "15010044",
-          "end_ref_usfm": "EZR 10:44"
-        },
-        {
-          "start_ref": "15007011",
-          "start_ref_usfm": "EZR 7:11",
-          "end_ref": "15007012",
-          "end_ref_usfm": "EZR 7:12"
-        },
-        {
-          "start_ref": "15008024",
-          "start_ref_usfm": "EZR 8:24",
-          "end_ref": "15008030",
-          "end_ref_usfm": "EZR 8:30"
-        },
-        {
-          "start_ref": "15009008",
-          "start_ref_usfm": "EZR 9:8",
-          "end_ref": "15009009",
-          "end_ref_usfm": "EZR 9:9"
-        },
-        {
-          "start_ref": "15009005",
-          "start_ref_usfm": "EZR 9:5",
-          "end_ref": "15009015",
-          "end_ref_usfm": "EZR 9:15"
-        },
-        {
-          "start_ref": "16008013",
-          "start_ref_usfm": "NEH 8:13",
-          "end_ref": "16008015",
-          "end_ref_usfm": "NEH 8:15"
-        },
-        {
-          "start_ref": "15007015",
-          "start_ref_usfm": "EZR 7:15",
-          "end_ref": "15007020",
-          "end_ref_usfm": "EZR 7:20"
-        },
-        {
-          "start_ref": "15008021",
-          "start_ref_usfm": "EZR 8:21",
-          "end_ref": "15008023",
-          "end_ref_usfm": "EZR 8:23"
-        },
-        {
-          "start_ref": "16008001",
-          "start_ref_usfm": "NEH 8:1",
-          "end_ref": "16008018",
-          "end_ref_usfm": "NEH 8:18"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Ezra",
-          "type": "person",
-          "preferred_label": "Ezra",
-          "confidence": 0.6607,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Ezra.2",
-          "type": "person",
-          "preferred_label": "Ezra",
-          "confidence": 0.6028,
-          "match_method": "scored"
-        }
-      ]
-    }
-  }
+{
+"content_id": "734412",
+"reference_id": 203512,
+"version": "1.0.2",
+"title": "Efeso",
+"media_type": "Text",
+"index_reference": "efeso",
+"language": "swh",
+"review_level": "None",
+"content": "<p> Efeso ilikuwa kwenye njia panda za njia kuu za biashara, zote kaskazini-kusini na mashariki-magharibi. Ilikuwa maarufu kama &quot;mlezi&quot; wa hekalu la Artemi (<a href=\"https://ref.ly/Acts19:35\">Matendo 19:35</a>). Kama mlezi, Efeso ilitambuliwa rasmi kama mlinzi na mtunzaji wa hekalu. Hii ilikuwa ni cheo muhimu kilicholeta heshima na faida za kiuchumi kwa mji huo.</p><p>Wagiriki wa Ionia walianzisha Efeso karibu mwaka wa 1044  Kbala ya Krsito (KK) kwenye bandari ya asili ambapo Mto Cayster uliingia kwenye ghuba ya Bahari ya Aegean. Leo, eneo la jiji la kale liko mbali na pwani. Jiji lilikuja chini ya utawala wa Kirumi mnamo 41 KK. Wakati wa mitume, Efeso ilikuwa tajiri, ikihudumu kama kituo cha kibiashara na kidini. Ilikuwa jiji muhimu zaidi katika jimbo la Kirumi la Asia.</p><p>Ibada ya Artemi huko Efeso ilihusiana sana na historia ya mji huo. Hekalu la Artemi, mojawapo ya maajabu saba ya ulimwengu wa kale, lilikuwa muhimu kwa utajiri na biashara ya Efeso. Mahujaji waliokuja kwa ajili ya ibada ya Artemi walileta fursa nyingi za biashara kwa watengenezaji wa sanamu na wauzaji wengine.</p><p>Wakati Paulo alipofika katika safari yake ya tatu ya umisionari mnamo mwaka wa 53 Baada ya Kristo (BK), Efeso ulikuwa mji wenye historia ya zaidi ya miaka elfu moja (<a href=\"https://ref.ly/Acts19:1-Acts19:41\">Matendo 19</a>). Watu walikuwa wamejitolea sana kwa mungu wao mlinzi na hekalu lake. Kadiri watu zaidi walivyokubali ujumbe wa Paulo, biashara ya wale waliotengeneza na kuuza sanamu za Artemi ilipungua. Hii iliwakasirisha, na wakaanzisha ghasia ambazo karibu ziliua Paulo (<a href=\"https://ref.ly/Acts19:24\">Matendo 19:24</a>, <a href=\"https://ref.ly/Acts19:28-Acts19:31\">28–31</a>).</p><p>Kanisa la Efeso lilikuwa imara chini ya mafundisho na uongozi wa Paulo. Watu waliokuwa wamejifunza kutoka kwa Paulo huko Efeso walianzisha makanisa katika jamii za karibu, kama Kolosai (tazama <span data-bnType=\"resourceReference\" data-resourceId=\"26427\" data-resourceType=\"TyndaleStudyNotesBookIntros\">Utangulizi wa Kitabu cha Wakolosai</span>, “Mazingira”). Hata hivyo, Paulo aliwaonya viongozi wa kanisa la Efeso kuhusu tishio la walimu wa uongo (<a href=\"https://ref.ly/Acts20:29-Acts20:31\">Matendo 20:29–31</a>).</p><p>Mtume Yohana alihamia Efeso karibu mwaka wa 70 BK. Kutoka hapo, alifukuzwa kwenda kisiwa cha Patmo (<a href=\"https://ref.ly/Rev1:9\">Ufunuo 1:9</a>). Yohana aliandika Ufunuo alipokuwa akiishi Patmo, labda katika miaka ya 90 BK. Kufikia wakati huo, upendo na kazi nzuri za Jamii ya Wakrsito, zilizopongezwa katika barua kwa Waefeso, zilikuwa zimepungua (<a href=\"https://ref.ly/Rev2:4\">Ufunuo 2:4</a>). Kulingana na mwandishi wa Kikristo wa mapema Irenaeus, Yohana alirudi Efeso baada ya muda wake Patmo. Aliishi huko hadi kifo chake, ambacho kilitokea wakati Trajan alikuwa mfalme kutoka mwaka 98 hadi 117 BK. Mapokeo yanasema kwamba Maria, mama wa Yesu, pia alitumia siku zake za mwisho Efeso chini ya uangalizi wa Yohana (tazama <a href=\"https://ref.ly/John19:25-John19:27\">Yohana 19:25–27</a>).</p><p>Wagothi walichoma hekalu la Artemi mnamo AD 262. Wagothi walikuwa watu kutoka kaskazini mwa Ulaya ambao walipigana dhidi ya Dola la Kirumi. Kufikia wakati wa baraza la tatu la kiekumeni (pia linaitwa Baraza la Efeso) huko Efeso mnamo AD 431, Artemi hakuwa na ushawishi tena miongoni mwa Waefeso. Mabadiliko haya yanaunga mkono ujumbe wa Paulo kwamba &quot;Mungu waliofanywa na Adamu&quot; kama Artemi &quot;si miungu hata kidogo&quot; (<a href=\"https://ref.ly/Acts19:26\">Matendo 19:26</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Acts18:19-Acts19:41\">Matendo 18:19–19:41</a>; <a href=\"https://ref.ly/Acts20:16-Acts20:38\">20:16–38</a>; <a href=\"https://ref.ly/Eph1:1\">Waefeso 1:1</a>; <a href=\"https://ref.ly/Rev2:1-Rev2:7\">Ufunuo 2:1–7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44019024",
+"start_ref_usfm": "ACT 19:24",
+"end_ref": "44019024",
+"end_ref_usfm": "ACT 19:24"
+},
+{
+"start_ref": "44019026",
+"start_ref_usfm": "ACT 19:26",
+"end_ref": "44019026",
+"end_ref_usfm": "ACT 19:26"
+},
+{
+"start_ref": "44019035",
+"start_ref_usfm": "ACT 19:35",
+"end_ref": "44019035",
+"end_ref_usfm": "ACT 19:35"
+},
+{
+"start_ref": "49001001",
+"start_ref_usfm": "EPH 1:1",
+"end_ref": "49001001",
+"end_ref_usfm": "EPH 1:1"
+},
+{
+"start_ref": "66001009",
+"start_ref_usfm": "REV 1:9",
+"end_ref": "66001009",
+"end_ref_usfm": "REV 1:9"
+},
+{
+"start_ref": "66002004",
+"start_ref_usfm": "REV 2:4",
+"end_ref": "66002004",
+"end_ref_usfm": "REV 2:4"
+},
+{
+"start_ref": "44019001",
+"start_ref_usfm": "ACT 19:1",
+"end_ref": "44019041",
+"end_ref_usfm": "ACT 19:41"
+},
+{
+"start_ref": "43019025",
+"start_ref_usfm": "JHN 19:25",
+"end_ref": "43019027",
+"end_ref_usfm": "JHN 19:27"
+},
+{
+"start_ref": "66002001",
+"start_ref_usfm": "REV 2:1",
+"end_ref": "66002007",
+"end_ref_usfm": "REV 2:7"
+},
+{
+"start_ref": "44019028",
+"start_ref_usfm": "ACT 19:28",
+"end_ref": "44019031",
+"end_ref_usfm": "ACT 19:31"
+},
+{
+"start_ref": "44020029",
+"start_ref_usfm": "ACT 20:29",
+"end_ref": "44020031",
+"end_ref_usfm": "ACT 20:31"
+},
+{
+"start_ref": "44018019",
+"start_ref_usfm": "ACT 18:19",
+"end_ref": "44019041",
+"end_ref_usfm": "ACT 19:41"
+},
+{
+"start_ref": "44020016",
+"start_ref_usfm": "ACT 20:16",
+"end_ref": "44020038",
+"end_ref_usfm": "ACT 20:38"
+}
+],
+"resource": [
+{
+"reference_id": 26427,
+"content_id": 649892,
+"resource_code": "TyndaleStudyNotesBookIntros",
+"label": "Wakolosai",
+"language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Ephesus",
+"type": "place",
+"preferred_label": "Efeso",
+"confidence": 0.6605,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "734315",
+"reference_id": 203415,
+"version": "1.0.2",
+"title": "Eleazari",
+"media_type": "Text",
+"index_reference": "eleazari",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Eleazari alikuwa mwana wa tatu wa Aroni, kuhani mkuu wa kwanza (<a href=\"https://ref.ly/Exod6:23\">Kutoka 6:23</a>). Ndugu zake wawili wakubwa, Nadabu na Abihu, walimkasirisha Mungu kwa kutoa uvumba tofauti na alivyoamuru Mungu (<a href=\"https://ref.ly/Lev10:1-Lev10:7\">Mambo ya Walawi 10:1–7</a>). Kwa sababu ya kutotii kwao, Mungu aliwaua. Kama mwana aliyefuata kwa umri, Eleazari alikuwa mstari wa mbele kuwa kuhani mkuu. Alitekeleza majukumu ya kikuhani wakati wa maisha ya baba yake na kumsaidia baba yake na Mose wakati baadhi ya Walawi walipofanya uasi, wakitaka hadhi sawa na familia ya kikuhani ya Aroni (<a href=\"https://ref.ly/Num16:36-Num16:40\">Hesabu 16:36–40</a>).</p><p>Aroni alifariki katika nyika muda mfupi kabla ya Waisraeli kuingia katika Nchi ya Ahadi. Hakuweza kuingia kwa sababu yeye na Mose walimwasi Mungu kwa kupiga mwamba huko Meriba (<a href=\"https://ref.ly/Num20:1-Num20:13\">Hesabu 20:1–13</a>). Kabla ya Aroni kufa, yeye, Mose, na Eleazari walipanda juu ya Mlima Wahori. Huko, Mose aliondoa mavazi ya kikuhani kutoka kwa Aroni na kumpa mwanawe (<a href=\"https://ref.ly/Num20:22-Num20:29\">Hesabu 20:22–29</a>).</p><p>Baada ya hili, Eleazari alihudumu kama kuhani mkuu maisha yake yote, ikiwa ni pamoja na wakati Waisraeli walipokuwa wakichukua udhibiti wa nchi ya Kanaani. Wakati ilipofika kugawanya nchi kati ya makabila, Eleazari na Yoshua walitumia kura takatifu kuamua ni wapi kila kabila lingekaa (<a href=\"https://ref.ly/Josh14:1-Josh14:5\">Yoshua 14:1–5</a>). Baada ya Eleazari kufariki, mwanawe Finehasi akawa kuhani mkuu. Finehasi alionyesha uaminifu wake kwa agano wakati Waisraeli walipoanza kuabudu miungu ya Moabu (<a href=\"https://ref.ly/Num25:1-Num25:18\">Hesabu 25</a>). Wazao wa Eleazari walijumuisha:</p><ul><li><p>Sadoki, kuhani mwaminifu aliyemrithi Abiathari (<a href=\"https://ref.ly/1Kgs2:26-1Kgs2:27\">1 Wafalme 2:26–27</a>, <a href=\"https://ref.ly/1Kgs2:35\">35</a>; tazama <a href=\"https://ref.ly/1Chr6:3-1Chr6:8\">1 Mambo ya Nyakati 6:3–8</a>, <a href=\"https://ref.ly/1Chr6:50-1Chr6:53\">50–53</a>)</p></li><li><p>Ezra, ambaye alichukua jukumu muhimu katika kujenga upya Yudea baada ya Uhamisho (tazama <a href=\"https://ref.ly/Ezra7:1-Ezra7:5\">Ezra 7:1–5</a>),</p></li></ul><p>Kwenye hekalu bora la Ezekieli, ni wazao wa Eleazari kupitia Sadoki pekee ndio wangeruhusiwa kuhudumu (<a href=\"https://ref.ly/Ezek44:15\">Ezekieli 44:15</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Exod6:23-Exod6:25\">Kutoka 6:23–25</a>; <a href=\"https://ref.ly/Lev10:6-Lev10:7\">Walawi 10:6–7</a>; <a href=\"https://ref.ly/Num3:1-Num3:4\">Hesabu 3:1–4</a>; <a href=\"https://ref.ly/Num16:36-Num16:40\">Hesabu 16:36–40</a>; <a href=\"https://ref.ly/Num20:22-Num20:26\">Hesabu 20:22–26</a>; <a href=\"https://ref.ly/Num26:1-Num26:4\">Hesabu 26:1–4</a>; <a href=\"https://ref.ly/Josh14:1\">Yoshua 14:1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02006023",
+"start_ref_usfm": "EXO 6:23",
+"end_ref": "02006023",
+"end_ref_usfm": "EXO 6:23"
+},
+{
+"start_ref": "06014001",
+"start_ref_usfm": "JOS 14:1",
+"end_ref": "06014001",
+"end_ref_usfm": "JOS 14:1"
+},
+{
+"start_ref": "11002035",
+"start_ref_usfm": "1KI 2:35",
+"end_ref": "11002035",
+"end_ref_usfm": "1KI 2:35"
+},
+{
+"start_ref": "26044015",
+"start_ref_usfm": "EZK 44:15",
+"end_ref": "26044015",
+"end_ref_usfm": "EZK 44:15"
+},
+{
+"start_ref": "11002026",
+"start_ref_usfm": "1KI 2:26",
+"end_ref": "11002027",
+"end_ref_usfm": "1KI 2:27"
+},
+{
+"start_ref": "04025001",
+"start_ref_usfm": "NUM 25:1",
+"end_ref": "04025018",
+"end_ref_usfm": "NUM 25:18"
+},
+{
+"start_ref": "13006003",
+"start_ref_usfm": "1CH 6:3",
+"end_ref": "13006008",
+"end_ref_usfm": "1CH 6:8"
+},
+{
+"start_ref": "03010001",
+"start_ref_usfm": "LEV 10:1",
+"end_ref": "03010007",
+"end_ref_usfm": "LEV 10:7"
+},
+{
+"start_ref": "04003001",
+"start_ref_usfm": "NUM 3:1",
+"end_ref": "04003004",
+"end_ref_usfm": "NUM 3:4"
+},
+{
+"start_ref": "13006050",
+"start_ref_usfm": "1CH 6:50",
+"end_ref": "13006053",
+"end_ref_usfm": "1CH 6:53"
+},
+{
+"start_ref": "15007001",
+"start_ref_usfm": "EZR 7:1",
+"end_ref": "15007005",
+"end_ref_usfm": "EZR 7:5"
+},
+{
+"start_ref": "02006023",
+"start_ref_usfm": "EXO 6:23",
+"end_ref": "02006025",
+"end_ref_usfm": "EXO 6:25"
+},
+{
+"start_ref": "04016036",
+"start_ref_usfm": "NUM 16:36",
+"end_ref": "04016040",
+"end_ref_usfm": "NUM 16:40"
+},
+{
+"start_ref": "03010006",
+"start_ref_usfm": "LEV 10:6",
+"end_ref": "03010007",
+"end_ref_usfm": "LEV 10:7"
+},
+{
+"start_ref": "04020022",
+"start_ref_usfm": "NUM 20:22",
+"end_ref": "04020029",
+"end_ref_usfm": "NUM 20:29"
+},
+{
+"start_ref": "04020001",
+"start_ref_usfm": "NUM 20:1",
+"end_ref": "04020013",
+"end_ref_usfm": "NUM 20:13"
+},
+{
+"start_ref": "04026001",
+"start_ref_usfm": "NUM 26:1",
+"end_ref": "04026004",
+"end_ref_usfm": "NUM 26:4"
+},
+{
+"start_ref": "06014001",
+"start_ref_usfm": "JOS 14:1",
+"end_ref": "06014005",
+"end_ref_usfm": "JOS 14:5"
+},
+{
+"start_ref": "04020022",
+"start_ref_usfm": "NUM 20:22",
+"end_ref": "04020026",
+"end_ref_usfm": "NUM 20:26"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Eleazar.2",
+"type": "person",
+"preferred_label": "Eleazari",
+"confidence": 0.6884,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "734326",
+"reference_id": 203426,
+"version": "1.0.2",
+"title": "Eli",
+"media_type": "Text",
+"index_reference": "eli",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Eli alikuwa jemadari kuhani wa Israeli katika hema huko Shilo, mahali pa kati pa ibada wakati wa Waamuzi. Inawezekana Eli alitokana na Ithamari, mwana mdogo wa Aroni (tazama <a href=\"https://ref.ly/1Kgs2:27\">1 Wafalme 2:27</a>; <a href=\"https://ref.ly/1Chr18:16\">1 Mambo ya Nyakati 18:16</a>; <a href=\"https://ref.ly/1Chr24:3\">24:3</a>). Eli alikuwa mkweli na mcha Mungu, lakini alishindwa kuwaadhibu wanawe waovu, Hofni na Finehasi.</p><p>Wakati Eli alipokutana na Hana kwenye hema, alidhani kimakosa kwamba alikuwa amelewa kwa sababu alikuwa akiomba kimya kimya kwa ajili ya mtoto. Baada ya kugundua kosa lake, Eli alimbariki Hana. Mungu alijibu maombi yake kwa kumpa mtoto wa kiume aliyeitwa Samweli.</p><p>Samweli alipata kibali kwa Bwana na watu (<a href=\"https://ref.ly/1Sam2:26\">1 Samweli 2:26</a>). Lakini wana wa Eli hawakuwa na heshima na walikuwa walaghai (<a href=\"https://ref.ly/1Sam2:12\">1 Samweli 2:12</a>). Walikuwa wakiiba kutoka kwa sadaka na kuwashawishi wanawake wanaohudumu kwenye hema. Eli alipowakaripia, walimpuuza. Mungu alimtuma nabii kumkosoa Eli kwa udhaifu wake na makosa ya wanawe, akitangaza kwamba Mungu angeondoa ukuhani kutoka kwa familia ya Eli (<a href=\"https://ref.ly/1Sam2:27-1Sam2:36\">1 Samweli 2:27–36</a>). Ujumbe huu ulithibitishwa wakati Mungu alizungumza na Samweli usiku mmoja, akimwambia kwamba angeadhibu familia ya Eli hivi karibuni (<a href=\"https://ref.ly/1Sam3:1-1Sam3:14\">1 Samweli 3:1–14</a>).</p><p>Muda mfupi baadaye, jeshi la Israeli lilishindwa na Wafilisti, Sanduku la Agano likatekwa, na wana wa Eli wakafa (<a href=\"https://ref.ly/1Sam4:1-1Sam4:11\">1 Samweli 4:1–11</a>). Eli, akiwa na umri wa miaka tisini na minane, aliposikia habari hizo, alianguka nyuma, akavunja shingo yake, na akafa (<a href=\"https://ref.ly/1Sam4:12-1Sam4:18\">1 Samweli 4:12–18</a>). Binti-mkwe wake alipata utungu na akafa alipokuwa akimzaa mjukuu wa Eli, aliyeitwa Ikabodi (maana yake “utukufu uko wapi?,” kwa sababu utukufu ulikuwa umewaacha Israeli. (<a href=\"https://ref.ly/1Sam4:19-1Sam4:22\">1 Samweli 4:19–22</a>).</p><p>Familia ya Eli iliendelea kuhudumu kama makuhani hadi Mfalme Daudi alipofariki. Abiathari alikuwa wa mwisho kati ya wazao wa Eli kuhudumu kama jemadari kuhani. Solomoni alimwondoa Abiathari kutoka nafasi ya kuhani kwa sababu Abiathari alikuwa amemuunga mkono Adonia, ambaye alijaribu kuwa mfalme badala ya Solomoni. Solomoni kisha akamteua Sadoki kuwa jemadari kuhani (<a href=\"https://ref.ly/1Kgs2:27\">1 Wafalme 2:27</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/1Sam1:9-1Sam1:18\">1 Samweli 1:9–18</a>, <a href=\"https://ref.ly/1Sam1:25-1Sam1:28\">25–28</a>; <a href=\"https://ref.ly/1Sam2:11-1Sam4:22\">1 Samweli 2:11–4:22</a>; <a href=\"https://ref.ly/1Kgs2:27\">1 Wafalme 2:27</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09002012",
+"start_ref_usfm": "1SA 2:12",
+"end_ref": "09002012",
+"end_ref_usfm": "1SA 2:12"
+},
+{
+"start_ref": "09002026",
+"start_ref_usfm": "1SA 2:26",
+"end_ref": "09002026",
+"end_ref_usfm": "1SA 2:26"
+},
+{
+"start_ref": "11002027",
+"start_ref_usfm": "1KI 2:27",
+"end_ref": "11002027",
+"end_ref_usfm": "1KI 2:27"
+},
+{
+"start_ref": "13018016",
+"start_ref_usfm": "1CH 18:16",
+"end_ref": "13018016",
+"end_ref_usfm": "1CH 18:16"
+},
+{
+"start_ref": "13024003",
+"start_ref_usfm": "1CH 24:3",
+"end_ref": "13024003",
+"end_ref_usfm": "1CH 24:3"
+},
+{
+"start_ref": "09004001",
+"start_ref_usfm": "1SA 4:1",
+"end_ref": "09004011",
+"end_ref_usfm": "1SA 4:11"
+},
+{
+"start_ref": "09004019",
+"start_ref_usfm": "1SA 4:19",
+"end_ref": "09004022",
+"end_ref_usfm": "1SA 4:22"
+},
+{
+"start_ref": "09002027",
+"start_ref_usfm": "1SA 2:27",
+"end_ref": "09002036",
+"end_ref_usfm": "1SA 2:36"
+},
+{
+"start_ref": "09003001",
+"start_ref_usfm": "1SA 3:1",
+"end_ref": "09003014",
+"end_ref_usfm": "1SA 3:14"
+},
+{
+"start_ref": "09004012",
+"start_ref_usfm": "1SA 4:12",
+"end_ref": "09004018",
+"end_ref_usfm": "1SA 4:18"
+},
+{
+"start_ref": "09001009",
+"start_ref_usfm": "1SA 1:9",
+"end_ref": "09001018",
+"end_ref_usfm": "1SA 1:18"
+},
+{
+"start_ref": "09001025",
+"start_ref_usfm": "1SA 1:25",
+"end_ref": "09001028",
+"end_ref_usfm": "1SA 1:28"
+},
+{
+"start_ref": "09002011",
+"start_ref_usfm": "1SA 2:11",
+"end_ref": "09004022",
+"end_ref_usfm": "1SA 4:22"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Eli",
+"type": "person",
+"preferred_label": "Eli",
+"confidence": 0.7302,
+"match_method": "scored"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "BWANA",
+"confidence": 0.6779,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "734347",
+"reference_id": 203447,
+"version": "1.0.2",
+"title": "Elisha",
+"media_type": "Text",
+"index_reference": "elisha",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Elisha, nabii, alimfuata na kumrithi Eliya katika ufalme wa kaskazini wa Israeli mwishoni mwa miaka ya 800 KK. Wakati huo, viongozi na watu wa ufalme wa kaskazini walimwacha Mungu na kumwabudu mungu wa Kikanaani, Baali. Ahabu na Yezebeli walikuwa waabudu waaminifu wa huyu mungu wa uongo, kama walivyokuwa wazao wao waliowafuata kwenye kiti cha enzi. Huduma ya Elisha ilidumu kutoka 853 hadi 798 KK, ikianza wakati utawala wa Mfalme Ahabu ulikuwa unamalizika. Alikuwa na jukumu muhimu katika mpango wa Mungu wa kuwaondoa viongozi wa Israeli waliokuwa waabudu sanamu.</p><p>Elisha alianza kazi yake kama mfuasi wa Eliya na aliteuliwa na Mungu kumrithi (<a href=\"https://ref.ly/1Kgs19:15-1Kgs19:21\">1 Wafalme 19:15–21</a>; <a href=\"https://ref.ly/2Kgs2:1-2Kgs2:18\">2 Wafalme 2:1–18</a>). Baada ya Eliya kupaa kwenda mbinguni, miujiza ya Elisha ilithibitisha kwamba nguvu kuu za Mungu zilikuwa pamoja naye.</p><p>Miujiza ya Elisha mara nyingi ilihusisha maji. Alifanya maji mabaya ya chemchemi karibu na Yeriko kuwa safi na kufanya kichwa cha shoka kuelea (<a href=\"https://ref.ly/2Kgs2:19-2Kgs2:22\">2 Wafalme 2:19–22</a>; <a href=\"https://ref.ly/2Kgs6:1-2Kgs6:7\">6:1–7</a>). Wakati Mfalme Yoramu alipokosa maji katika eneo la adui, Elisha alitabiri kwa usahihi kwamba maji mengi yangetokea (<a href=\"https://ref.ly/2Kgs3:4-2Kgs3:20\">2 Wafalme 3:4–20</a>). Watu waliamini Baali ndiye aliyedhibiti maji, hivyo miujiza hii ilionyesha kwamba Bwana, si Baali, ndiye alikuwa kweli mwenye udhibiti.</p><p>Elisha alionyesha nguvu za Mungu kwa kuwasaidia watu kwa njia za kipekee. Alimsaidia mwanamke maskini kwa kujaza mitungi yake kwa miujiza na mafuta ya zeituni (<a href=\"https://ref.ly/2Kgs4:1-2Kgs4:7\">2 Wafalme 4:1–7</a>). Alimwambia mwanamke kutoka Shunemu kwamba angepata mtoto wa kiume na baadaye alimfufua mtoto huyo (<a href=\"https://ref.ly/2Kgs4:8-2Kgs4:37\">2 Wafalme 4:8–37</a>). Alimponya jemadari Mwaramu aitwaye Naamani kutokana na ukoma (<a href=\"https://ref.ly/2Kgs5:1-2Kgs5:19\">2 Wafalme 5:1–19</a>). Pia alitoa chakula kwa wale waliokuwa na uhitaji (<a href=\"https://ref.ly/2Kgs4:38-2Kgs4:44\">2 Wafalme 4:38–44</a>).</p><p>Elisha alicheza jukumu muhimu katika mpango wa Mungu wa kuhukumu ufalme wa kaskazini. Alimpaka mafuta Yehu wa Israeli na Hazaeli wa Aramu (<a href=\"https://ref.ly/2Kgs8:7-2Kgs8:15\">2 Wafalme 8:7–15</a>; <a href=\"https://ref.ly/2Kgs9:1-2Kgs9:13\">9:1–13</a>). Alimimina mafuta matakatifu juu ya vichwa vyao kuonyesha kwamba Mungu alikuwa amewachagua. Walimaliza kwa nguvu utawala wa viongozi wa Israeli waliokuwa wamepandikiza ibada ya Baali (tazama <a href=\"https://ref.ly/1Kgs19:15-1Kgs19:18\">1 Wafalme 19:15–18</a>).</p><p>Miujiza ya Elisha ilitabiri kazi ya Yesu kwa sababu Yesu:</p><ul><li><p>Aliponya wantu ambao waliumwa na ukoma (<a href=\"https://ref.ly/Matt8:1-Matt8:4\">Mathayo 8:1–4</a>)</p></li><li><p>Aliwafufua wafu (<a href=\"https://ref.ly/Mark5:21-Mark5:43\">Marko 5:21–43</a>; <a href=\"https://ref.ly/Luke7:11-Luke7:17\">Luka 7:11–17</a>; <a href=\"https://ref.ly/John11:1-John11:44\">Yohana 11:1–44</a>)</p></li><li><p>Alitoa chakula kwa njia za kimuujiza (<a href=\"https://ref.ly/Matt14:13-Matt14:21\">Mathayo 14:13–21</a>; <a href=\"https://ref.ly/Matt15:32-Matt15:38\">15:32–38</a>)</p></li></ul><p>Yesu alizungumza kuhusu uponyaji wa Naamani ili kuonyesha kwamba rehema za Mungu zinaenea zaidi ya Waisraeli hadi kwa watu wa mataifa mengine (<a href=\"https://ref.ly/Luke4:27\">Luka 4:27</a>).</p><p><u>Sehemu za Kusoma Zaidi</u></p><p><a href=\"https://ref.ly/1Kgs19:15-1Kgs19:21\">1 Wafalme 19:15–21</a>; <a href=\"https://ref.ly/2Kgs2:1-2Kgs9:13\">2 Wafalme 2:1–9:13</a>; <a href=\"https://ref.ly/2Kgs13:14-2Kgs13:21\">13:14–21</a>; <a href=\"https://ref.ly/Luke4:27\">Luka 4:27</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42004027",
+"start_ref_usfm": "LUK 4:27",
+"end_ref": "42004027",
+"end_ref_usfm": "LUK 4:27"
+},
+{
+"start_ref": "42007011",
+"start_ref_usfm": "LUK 7:11",
+"end_ref": "42007017",
+"end_ref_usfm": "LUK 7:17"
+},
+{
+"start_ref": "40014013",
+"start_ref_usfm": "MAT 14:13",
+"end_ref": "40014021",
+"end_ref_usfm": "MAT 14:21"
+},
+{
+"start_ref": "12009001",
+"start_ref_usfm": "2KI 9:1",
+"end_ref": "12009013",
+"end_ref_usfm": "2KI 9:13"
+},
+{
+"start_ref": "40008001",
+"start_ref_usfm": "MAT 8:1",
+"end_ref": "40008004",
+"end_ref_usfm": "MAT 8:4"
+},
+{
+"start_ref": "12004001",
+"start_ref_usfm": "2KI 4:1",
+"end_ref": "12004007",
+"end_ref_usfm": "2KI 4:7"
+},
+{
+"start_ref": "12002019",
+"start_ref_usfm": "2KI 2:19",
+"end_ref": "12002022",
+"end_ref_usfm": "2KI 2:22"
+},
+{
+"start_ref": "40015032",
+"start_ref_usfm": "MAT 15:32",
+"end_ref": "40015038",
+"end_ref_usfm": "MAT 15:38"
+},
+{
+"start_ref": "12005001",
+"start_ref_usfm": "2KI 5:1",
+"end_ref": "12005019",
+"end_ref_usfm": "2KI 5:19"
+},
+{
+"start_ref": "12004008",
+"start_ref_usfm": "2KI 4:8",
+"end_ref": "12004037",
+"end_ref_usfm": "2KI 4:37"
+},
+{
+"start_ref": "12008007",
+"start_ref_usfm": "2KI 8:7",
+"end_ref": "12008015",
+"end_ref_usfm": "2KI 8:15"
+},
+{
+"start_ref": "41005021",
+"start_ref_usfm": "MRK 5:21",
+"end_ref": "41005043",
+"end_ref_usfm": "MRK 5:43"
+},
+{
+"start_ref": "43011001",
+"start_ref_usfm": "JHN 11:1",
+"end_ref": "43011044",
+"end_ref_usfm": "JHN 11:44"
+},
+{
+"start_ref": "12006001",
+"start_ref_usfm": "2KI 6:1",
+"end_ref": "12006007",
+"end_ref_usfm": "2KI 6:7"
+},
+{
+"start_ref": "11019015",
+"start_ref_usfm": "1KI 19:15",
+"end_ref": "11019018",
+"end_ref_usfm": "1KI 19:18"
+},
+{
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12002018",
+"end_ref_usfm": "2KI 2:18"
+},
+{
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12009013",
+"end_ref_usfm": "2KI 9:13"
+},
+{
+"start_ref": "11019015",
+"start_ref_usfm": "1KI 19:15",
+"end_ref": "11019021",
+"end_ref_usfm": "1KI 19:21"
+},
+{
+"start_ref": "12003004",
+"start_ref_usfm": "2KI 3:4",
+"end_ref": "12003020",
+"end_ref_usfm": "2KI 3:20"
+},
+{
+"start_ref": "12004038",
+"start_ref_usfm": "2KI 4:38",
+"end_ref": "12004044",
+"end_ref_usfm": "2KI 4:44"
+},
+{
+"start_ref": "12013014",
+"start_ref_usfm": "2KI 13:14",
+"end_ref": "12013021",
+"end_ref_usfm": "2KI 13:21"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Elisha",
+"type": "person",
+"preferred_label": "Elisha",
+"confidence": 0.6646,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "734345",
+"reference_id": 203445,
+"version": "1.0.2",
+"title": "Eliya",
+"media_type": "Text",
+"index_reference": "eliya",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Eliya kutoka Mtishbi alikuwa nabii katika Israeli wakati wa utawala wa Ahabu na Ahazia, kuanzia 874 hadi 852 Kabla ya Kristo (KK). Jina lake linamaanisha &quot;Mungu wangu ni Yahweh.&quot; Alionyesha kwamba Bwana ndiye Mubgu wa kweli na akahimiza Israeli kumrudia Bwana.</p><p>Chini ya utawala wa Ahabu na Yezebeli, Waisraeli walianza kumwabudu Baali, mungu wa Wakanaani anayehusishwa na uzazi, dhoruba, na mvua. Kwa sababu hiyo, Mungu alileta ukame katika Israeli (<a href=\"https://ref.ly/1Kgs17:1\">1 Wafalme 17:1</a>). Eliya alijificha hadi ukame ulipomalizika, na Mungu alimlinda. Katika kipindi hiki, alikaa na mjane huko Sarepta, mji ulioko katika eneo la nyumbani kwa Yezebeli la Sidoni. Mwana wa mjane alikufa, lakini Eliya alimuombea, na akafufuka (<a href=\"https://ref.ly/1Kgs17:8-1Kgs17:24\">1 Wafalme 17:8–24</a>).</p><p>Katika mwaka wa tatu wa ukame, Eliya aliwatia changamoto manabii wa Baali kwenye shindano kwenye Mlima Karmeli ili kuonyesha nani alikuwa Mungu wa kweli (<a href=\"https://ref.ly/1Kgs18:1-1Kgs18:40\">1 Wafalme 18:1–40</a>). Manabii wa Baali walimwita Baali bila mafanikio, wakihangaika kumfanya aonekane, huku Eliya akimdhihaki Baali. Ilipofika zamu ya Eliya, alimimina maji juu ya dhabihu yake na akaomba sala rahisi, yenye nguvu. Moto mara moja uliteketeza sadaka hiyo. Watu wa Israeli walimwabudu Bwana na, kufuatia maelekezo ya Eliya, waliwaua manabii wa Baali. Kisha Eliya akaomba mvua, na ukame ukaisha (<a href=\"https://ref.ly/1Kgs18:41-1Kgs18:46\">1 Wafalme 18:41–46</a>).</p><p>Licha ya nguvu kuu za Mungu, Ahabu na Yezebeli waliendelea kupotosha Israeli. Yezebeli alikasirika kwa sababu manabii wake waliuawa (<a href=\"https://ref.ly/1Kgs19:1-1Kgs19:2\">1 Wafalme 19:1–2</a>). Alimtishia Eliya, ambaye alikimbilia jangwani na kumwomba Mungu amalize maisha yake. Badala yake, malaika walimlisha hadi alipofika Mlima Sinai. Eliya alilalamika kwamba alikuwa nabii pekee aliyebaki na kwamba maisha yake yalikuwa hatarini. Mungu alimtia moyo kwa sauti ya upole, akampa Habari Njema, na kumtuma arudi kutumikia (<a href=\"https://ref.ly/1Kgs19:3-1Kgs19:18\">1 Wafalme 19:3–18</a>).</p><p>Eliya alikuwa amejitolea sana kwa Mungu wa kweli. Alimfundisha msaidizi wake aliyeitwa Elisha. Mwisho wa maisha ya Eliya duniani, hakufa bali alichukuliwa mbinguni kwa gari la moto (<a href=\"https://ref.ly/2Kgs2:11-2Kgs2:12\">2 Wafalme 2:11–12</a>). Elisha alichukua jukumu la Eliya kama nabii na aliendelea kupinga ibada ya uongo katika Israeli (tazama <a href=\"https://ref.ly/2Kgs2:1-2Kgs9:13\">2 Wafalme 2:1–9:13</a>; <a href=\"https://ref.ly/2Kgs13:14-2Kgs13:25\">13:14–25</a>).</p><p>Agano la Kale linahitimishwa na tumaini kwamba Eliya atarudi kabla ya Siku ya Bwana (<a href=\"https://ref.ly/Mal4:5-Mal4:6\">Malaki 4:5–6</a>). Yohana Mbatizaji alitimiza sehemu ya matarajio haya (tazama <a href=\"https://ref.ly/Matt11:7-Matt11:14\">Mathayo 11:7–14</a>; <a href=\"https://ref.ly/Matt17:10-Matt17:13\">17:10–13</a>; <a href=\"https://ref.ly/Luke1:17\">Luka 1:17</a>). Eliya alionekana pamoja na Mose wakati wa kubadilika kwa Yesu (wakati sura ya Yesu ilibadilika kuonyesha utukufu wake wa kimungu; <a href=\"https://ref.ly/Matt17:1-Matt17:9\">Mathayo 17:1–9</a>). Katika <a href=\"https://ref.ly/Rev11:3-Rev11:12\">Ufunuo 11:3–12</a>, mmoja wa mashahidi wawili anaonekana kuwa ama Eliya mwenyewe au mtu kama yeye. Maisha ya Eliya yanaonyesha wema wa Mungu na nguvu ya maombi (<a href=\"https://ref.ly/Luke4:25-Luke4:26\">Luka 4:25–26</a>; <a href=\"https://ref.ly/Rom11:2-Rom11:6\">Warumi 11:2–6</a>; <a href=\"https://ref.ly/Jas5:17-Jas5:18\">Yakobo 5:17–18</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/1Kgs17:1-1Kgs19:21\">1 Wafalme 17:1–19:21</a>; <a href=\"https://ref.ly/1Kgs21:1-1Kgs21:29\">21:1–29</a>; <a href=\"https://ref.ly/2Kgs1:1-2Kgs2:25\">2 Wafalme 1:1–2:25</a>; <a href=\"https://ref.ly/2Kgs9:36\">9:36</a>; <a href=\"https://ref.ly/2Kgs10:10\">10:10</a>, <a href=\"https://ref.ly/2Kgs10:17\">17</a>; <a href=\"https://ref.ly/2Chr21:12-2Chr21:15\">2 Mambo ya Nyakati 21:12–15</a>; <a href=\"https://ref.ly/Mal4:5-Mal4:6\">Malaki 4:5–6</a>; <a href=\"https://ref.ly/Matt11:14\">Mathayo 11:14</a>; <a href=\"https://ref.ly/Matt16:14\">16:14</a>; <a href=\"https://ref.ly/Matt17:1-Matt17:13\">17:1–13</a>; <a href=\"https://ref.ly/Matt27:45-Matt27:49\">27:45–49</a>; <a href=\"https://ref.ly/Mark6:15\">Marko 6:15</a>; <a href=\"https://ref.ly/Mark8:28\">8:28</a>; <a href=\"https://ref.ly/Mark9:2-Mark9:13\">9:2–13</a>; <a href=\"https://ref.ly/Mark15:33-Mark15:36\">15:33–36</a>; <a href=\"https://ref.ly/Luke1:17\">Luka 1:17</a>; <a href=\"https://ref.ly/Luke4:26\">4:26</a>; <a href=\"https://ref.ly/Luke9:28-Luke9:36\">9:28–36</a>; <a href=\"https://ref.ly/John1:19-John1:28\">Yohana 1:19–28</a>; <a href=\"https://ref.ly/Rom11:1-Rom11:6\">Warumi 11:1–6</a>; <a href=\"https://ref.ly/Jas5:17\">Yakobo 5:17</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11017001",
+"start_ref_usfm": "1KI 17:1",
+"end_ref": "11017001",
+"end_ref_usfm": "1KI 17:1"
+},
+{
+"start_ref": "12009036",
+"start_ref_usfm": "2KI 9:36",
+"end_ref": "12009036",
+"end_ref_usfm": "2KI 9:36"
+},
+{
+"start_ref": "12010010",
+"start_ref_usfm": "2KI 10:10",
+"end_ref": "12010010",
+"end_ref_usfm": "2KI 10:10"
+},
+{
+"start_ref": "12010017",
+"start_ref_usfm": "2KI 10:17",
+"end_ref": "12010017",
+"end_ref_usfm": "2KI 10:17"
+},
+{
+"start_ref": "40011014",
+"start_ref_usfm": "MAT 11:14",
+"end_ref": "40011014",
+"end_ref_usfm": "MAT 11:14"
+},
+{
+"start_ref": "40016014",
+"start_ref_usfm": "MAT 16:14",
+"end_ref": "40016014",
+"end_ref_usfm": "MAT 16:14"
+},
+{
+"start_ref": "41006015",
+"start_ref_usfm": "MRK 6:15",
+"end_ref": "41006015",
+"end_ref_usfm": "MRK 6:15"
+},
+{
+"start_ref": "41008028",
+"start_ref_usfm": "MRK 8:28",
+"end_ref": "41008028",
+"end_ref_usfm": "MRK 8:28"
+},
+{
+"start_ref": "42001017",
+"start_ref_usfm": "LUK 1:17",
+"end_ref": "42001017",
+"end_ref_usfm": "LUK 1:17"
+},
+{
+"start_ref": "42004026",
+"start_ref_usfm": "LUK 4:26",
+"end_ref": "42004026",
+"end_ref_usfm": "LUK 4:26"
+},
+{
+"start_ref": "59005017",
+"start_ref_usfm": "JAS 5:17",
+"end_ref": "59005017",
+"end_ref_usfm": "JAS 5:17"
+},
+{
+"start_ref": "40017001",
+"start_ref_usfm": "MAT 17:1",
+"end_ref": "40017013",
+"end_ref_usfm": "MAT 17:13"
+},
+{
+"start_ref": "41009002",
+"start_ref_usfm": "MRK 9:2",
+"end_ref": "41009013",
+"end_ref_usfm": "MRK 9:13"
+},
+{
+"start_ref": "11018041",
+"start_ref_usfm": "1KI 18:41",
+"end_ref": "11018046",
+"end_ref_usfm": "1KI 18:46"
+},
+{
+"start_ref": "11021001",
+"start_ref_usfm": "1KI 21:1",
+"end_ref": "11021029",
+"end_ref_usfm": "1KI 21:29"
+},
+{
+"start_ref": "41015033",
+"start_ref_usfm": "MRK 15:33",
+"end_ref": "41015036",
+"end_ref_usfm": "MRK 15:36"
+},
+{
+"start_ref": "14021012",
+"start_ref_usfm": "2CH 21:12",
+"end_ref": "14021015",
+"end_ref_usfm": "2CH 21:15"
+},
+{
+"start_ref": "39004005",
+"start_ref_usfm": "MAL 4:5",
+"end_ref": "39004006",
+"end_ref_usfm": "MAL 4:6"
+},
+{
+"start_ref": "40017010",
+"start_ref_usfm": "MAT 17:10",
+"end_ref": "40017013",
+"end_ref_usfm": "MAT 17:13"
+},
+{
+"start_ref": "42004025",
+"start_ref_usfm": "LUK 4:25",
+"end_ref": "42004026",
+"end_ref_usfm": "LUK 4:26"
+},
+{
+"start_ref": "42009028",
+"start_ref_usfm": "LUK 9:28",
+"end_ref": "42009036",
+"end_ref_usfm": "LUK 9:36"
+},
+{
+"start_ref": "66011003",
+"start_ref_usfm": "REV 11:3",
+"end_ref": "66011012",
+"end_ref_usfm": "REV 11:12"
+},
+{
+"start_ref": "11017001",
+"start_ref_usfm": "1KI 17:1",
+"end_ref": "11019021",
+"end_ref_usfm": "1KI 19:21"
+},
+{
+"start_ref": "40027045",
+"start_ref_usfm": "MAT 27:45",
+"end_ref": "40027049",
+"end_ref_usfm": "MAT 27:49"
+},
+{
+"start_ref": "11017008",
+"start_ref_usfm": "1KI 17:8",
+"end_ref": "11017024",
+"end_ref_usfm": "1KI 17:24"
+},
+{
+"start_ref": "12013014",
+"start_ref_usfm": "2KI 13:14",
+"end_ref": "12013025",
+"end_ref_usfm": "2KI 13:25"
+},
+{
+"start_ref": "43001019",
+"start_ref_usfm": "JHN 1:19",
+"end_ref": "43001028",
+"end_ref_usfm": "JHN 1:28"
+},
+{
+"start_ref": "11019001",
+"start_ref_usfm": "1KI 19:1",
+"end_ref": "11019002",
+"end_ref_usfm": "1KI 19:2"
+},
+{
+"start_ref": "40017001",
+"start_ref_usfm": "MAT 17:1",
+"end_ref": "40017009",
+"end_ref_usfm": "MAT 17:9"
+},
+{
+"start_ref": "11019003",
+"start_ref_usfm": "1KI 19:3",
+"end_ref": "11019018",
+"end_ref_usfm": "1KI 19:18"
+},
+{
+"start_ref": "11018001",
+"start_ref_usfm": "1KI 18:1",
+"end_ref": "11018040",
+"end_ref_usfm": "1KI 18:40"
+},
+{
+"start_ref": "12002011",
+"start_ref_usfm": "2KI 2:11",
+"end_ref": "12002012",
+"end_ref_usfm": "2KI 2:12"
+},
+{
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12009013",
+"end_ref_usfm": "2KI 9:13"
+},
+{
+"start_ref": "40011007",
+"start_ref_usfm": "MAT 11:7",
+"end_ref": "40011014",
+"end_ref_usfm": "MAT 11:14"
+},
+{
+"start_ref": "45011002",
+"start_ref_usfm": "ROM 11:2",
+"end_ref": "45011006",
+"end_ref_usfm": "ROM 11:6"
+},
+{
+"start_ref": "59005017",
+"start_ref_usfm": "JAS 5:17",
+"end_ref": "59005018",
+"end_ref_usfm": "JAS 5:18"
+},
+{
+"start_ref": "12001001",
+"start_ref_usfm": "2KI 1:1",
+"end_ref": "12002025",
+"end_ref_usfm": "2KI 2:25"
+},
+{
+"start_ref": "45011001",
+"start_ref_usfm": "ROM 11:1",
+"end_ref": "45011006",
+"end_ref_usfm": "ROM 11:6"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Eliya",
+"confidence": 0.6771,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "734303",
+"reference_id": 203403,
+"version": "1.0.2",
+"title": "Esau",
+"media_type": "Text",
+"index_reference": "esau",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Esau alikuwa mwana wa Isaka na Rebeka na kaka pacha mkubwa wa Yakobo (<a href=\"https://ref.ly/Gen25:24-Gen25:26\">Mwanzo 25:24–26</a>). Alipewa jina Esau kwa sababu alikuwa na manyoya mengi alipozaliwa. Wazao wake walijulikana kama Waedomu. &quot;Edomu&quot; inamaanisha &quot;nyekundu,&quot; ikirejelea:</p><ul><li><p>Rangi nyekundu ya Esau alipozaliwa (<a href=\"https://ref.ly/Gen25:25\">Mwanzo 25:25</a>)</p></li><li><p>Kitoweo cha dengu nyekundu alichopata kutoka kwa Yakobo (<a href=\"https://ref.ly/Gen25:30\">Mwanzo 25:30</a>)</p></li><li><p>Rangi nyekundu ya ardhi alikoishi (tazama <span data-bnType=\"resourceReference\" data-resourceId=\"11684\" data-resourceType=\"TyndaleStudyNotes\">maelezo ya somo kwenye Mwanzo 25:25</span>)</p></li></ul><p>Esau alikuwa mwindaji stadi ambaye alileta nyama ya porini yenye ladha kwa baba yake. Isaka alipendelea ladha yake kali kuliko nyama laini ambayo Yakobo alitoa kutoka kwa mifugo ya familia. Siku moja, Esau alirudi nyumbani akiwa na njaa sana baada ya uwindaji usiofanikiwa. Yakobo alimshawishi Esau kuacha haki na marupurupu yake ya kuwa mzaliwa wa kwanza kwa kubadilishana na chakula (<a href=\"https://ref.ly/Gen25:29-Gen25:34\">Mwanzo 25:29–34</a>). Esau hakuthamini haki yake ya uzaliwa na aliongozwa na tamaa zake za kimwili (tazama <a href=\"https://ref.ly/Heb12:16\">Waebrania 12:16</a>).</p><p>Pia alioa wanawake wawili wa eneo hilo ambao hawakuwa wazao wa Abrahamu (<a href=\"https://ref.ly/Gen26:34-Gen26:35\">Mwanzo 26:34–35</a>). Hii inaweza kuwa ilimshawishi Rebeka kumpendelea Yakobo na mpango wake wa kuchukua baraka ya Isaka iliyokusudiwa Esau (<a href=\"https://ref.ly/Gen27:1-Gen27:40\">Mwanzo 27:1–40</a>). Hasira ya Esau alipogundua udanganyifu wa kaka yake ilimfanya Yakobo kukimbilia Harani. Ndugu hao walikutana tena baada ya miaka ishirini wakati Esau alipoonyesha msamaha wa neema (<a href=\"https://ref.ly/Gen33:1-Gen33:16\">Mwanzo 33:1–16</a>).</p><p>Esau alizaliwa huku Yakobo akimshika kisigino. Watu waliona hii kama ishara kwamba wazao wa Esau wangetumikia wazao wa Yakobo. Waedomu walianza kuwatumikia Waisraeli wakati wa utawala wa Daudi (<a href=\"https://ref.ly/2Sam8:11-2Sam8:15\">2 Samweli 8:11–15</a>; <a href=\"https://ref.ly/1Chr18:11-1Chr18:13\">1 Mambo ya Nyakati 18:11–13</a>) na waliendelea hadi utawala wa Yehoramu (<a href=\"https://ref.ly/2Kgs8:20-2Kgs8:22\">2 Wafalme 8:20–22</a>; <a href=\"https://ref.ly/2Chr21:8-2Chr21:10\">2 Mambo ya Nyakati 21:8–10</a>). Baada ya uasi mnamo 845 Kabla ya Krsito (KK), Waedomu walipata uhuru kwa muda mfupi lakini walishindwa tena na Amazia, ambaye alitawala kutoka 796 hadi 767 KK. Walipata uhuru wao tena mnamo 735 KK na wakabaki huru kutoka Yuda.</p><p>Kwenye Agano Jipya, Esau anawakilisha wazao wa Abrahamu ambao hawakuwa na imani na walikataliwa na Mungu kwa baraka zake za ahadi (tazama <a href=\"https://ref.ly/Rom9:6-Rom9:24\">Warumi 9:6–24</a>). Herode Mkuu alikuwa Mwedomu.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen25:21-Gen25:34\">Mwanzo 25:21–34</a>; <a href=\"https://ref.ly/Gen26:34-Gen26:35\">26:34–35</a>; <a href=\"https://ref.ly/Gen27:1-Gen27:42\">27:1–42</a>; <a href=\"https://ref.ly/Gen28:6-Gen28:9\">28:6–9</a>; <a href=\"https://ref.ly/Gen32:3-Gen32:20\">32:3–20</a>; <a href=\"https://ref.ly/Gen33:1-Gen33:16\">33:1–16</a>; <a href=\"https://ref.ly/Gen35:28-Gen35:29\">35:28–29</a>; <a href=\"https://ref.ly/Gen36:1-Gen36:43\">36:1–43</a>; <a href=\"https://ref.ly/Deut2:1-Deut2:8\">Kumbukumbu la Torati 2:1–8</a>, <a href=\"https://ref.ly/Deut2:12\">12</a>, <a href=\"https://ref.ly/Deut2:22\">22</a>, <a href=\"https://ref.ly/Deut2:29\">29</a>; <a href=\"https://ref.ly/Josh24:4\">Yoshua 24:4</a>; <a href=\"https://ref.ly/Mal1:2-Mal1:5\">Malaki 1:2–5</a>; <a href=\"https://ref.ly/Rom9:6-Rom9:13\">Warumi 9:6–13</a>; <a href=\"https://ref.ly/Heb11:20\">Waebrania 11:20</a>; <a href=\"https://ref.ly/Heb12:16-Heb12:17\">12:16–17</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01025025",
+"start_ref_usfm": "GEN 25:25",
+"end_ref": "01025025",
+"end_ref_usfm": "GEN 25:25"
+},
+{
+"start_ref": "01025030",
+"start_ref_usfm": "GEN 25:30",
+"end_ref": "01025030",
+"end_ref_usfm": "GEN 25:30"
+},
+{
+"start_ref": "05002012",
+"start_ref_usfm": "DEU 2:12",
+"end_ref": "05002012",
+"end_ref_usfm": "DEU 2:12"
+},
+{
+"start_ref": "05002022",
+"start_ref_usfm": "DEU 2:22",
+"end_ref": "05002022",
+"end_ref_usfm": "DEU 2:22"
+},
+{
+"start_ref": "05002029",
+"start_ref_usfm": "DEU 2:29",
+"end_ref": "05002029",
+"end_ref_usfm": "DEU 2:29"
+},
+{
+"start_ref": "06024004",
+"start_ref_usfm": "JOS 24:4",
+"end_ref": "06024004",
+"end_ref_usfm": "JOS 24:4"
+},
+{
+"start_ref": "58011020",
+"start_ref_usfm": "HEB 11:20",
+"end_ref": "58011020",
+"end_ref_usfm": "HEB 11:20"
+},
+{
+"start_ref": "58012016",
+"start_ref_usfm": "HEB 12:16",
+"end_ref": "58012016",
+"end_ref_usfm": "HEB 12:16"
+},
+{
+"start_ref": "58012016",
+"start_ref_usfm": "HEB 12:16",
+"end_ref": "58012017",
+"end_ref_usfm": "HEB 12:17"
+},
+{
+"start_ref": "01036001",
+"start_ref_usfm": "GEN 36:1",
+"end_ref": "01036043",
+"end_ref_usfm": "GEN 36:43"
+},
+{
+"start_ref": "12008020",
+"start_ref_usfm": "2KI 8:20",
+"end_ref": "12008022",
+"end_ref_usfm": "2KI 8:22"
+},
+{
+"start_ref": "01025024",
+"start_ref_usfm": "GEN 25:24",
+"end_ref": "01025026",
+"end_ref_usfm": "GEN 25:26"
+},
+{
+"start_ref": "01025029",
+"start_ref_usfm": "GEN 25:29",
+"end_ref": "01025034",
+"end_ref_usfm": "GEN 25:34"
+},
+{
+"start_ref": "01026034",
+"start_ref_usfm": "GEN 26:34",
+"end_ref": "01026035",
+"end_ref_usfm": "GEN 26:35"
+},
+{
+"start_ref": "10008011",
+"start_ref_usfm": "2SA 8:11",
+"end_ref": "10008015",
+"end_ref_usfm": "2SA 8:15"
+},
+{
+"start_ref": "14021008",
+"start_ref_usfm": "2CH 21:8",
+"end_ref": "14021010",
+"end_ref_usfm": "2CH 21:10"
+},
+{
+"start_ref": "39001002",
+"start_ref_usfm": "MAL 1:2",
+"end_ref": "39001005",
+"end_ref_usfm": "MAL 1:5"
+},
+{
+"start_ref": "05002001",
+"start_ref_usfm": "DEU 2:1",
+"end_ref": "05002008",
+"end_ref_usfm": "DEU 2:8"
+},
+{
+"start_ref": "01027001",
+"start_ref_usfm": "GEN 27:1",
+"end_ref": "01027040",
+"end_ref_usfm": "GEN 27:40"
+},
+{
+"start_ref": "01028006",
+"start_ref_usfm": "GEN 28:6",
+"end_ref": "01028009",
+"end_ref_usfm": "GEN 28:9"
+},
+{
+"start_ref": "01033001",
+"start_ref_usfm": "GEN 33:1",
+"end_ref": "01033016",
+"end_ref_usfm": "GEN 33:16"
+},
+{
+"start_ref": "13018011",
+"start_ref_usfm": "1CH 18:11",
+"end_ref": "13018013",
+"end_ref_usfm": "1CH 18:13"
+},
+{
+"start_ref": "45009006",
+"start_ref_usfm": "ROM 9:6",
+"end_ref": "45009024",
+"end_ref_usfm": "ROM 9:24"
+},
+{
+"start_ref": "01025021",
+"start_ref_usfm": "GEN 25:21",
+"end_ref": "01025034",
+"end_ref_usfm": "GEN 25:34"
+},
+{
+"start_ref": "01027001",
+"start_ref_usfm": "GEN 27:1",
+"end_ref": "01027042",
+"end_ref_usfm": "GEN 27:42"
+},
+{
+"start_ref": "01032003",
+"start_ref_usfm": "GEN 32:3",
+"end_ref": "01032020",
+"end_ref_usfm": "GEN 32:20"
+},
+{
+"start_ref": "01035028",
+"start_ref_usfm": "GEN 35:28",
+"end_ref": "01035029",
+"end_ref_usfm": "GEN 35:29"
+},
+{
+"start_ref": "45009006",
+"start_ref_usfm": "ROM 9:6",
+"end_ref": "45009013",
+"end_ref_usfm": "ROM 9:13"
+}
+],
+"resource": [
+{
+"reference_id": 11684,
+"content_id": 734708,
+"resource_code": "TyndaleStudyNotes",
+"label": "Mwanzo 25:25",
+"language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Esau",
+"type": "person",
+"preferred_label": "Esau",
+"confidence": 0.7326,
+"match_method": "scored"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edomu",
+"confidence": 0.6622,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "734362",
+"reference_id": 203462,
+"version": "1.0.2",
+"title": "Esta",
+"media_type": "Text",
+"index_reference": "esta",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Esta alikuwa malkia wa Uajemi wakati wa utawala wa Xerxes I (pia anajulikana kama Ahasuero), ambaye alitawala kutoka 486 hadi 465 Kabla ya Kristo (KK). Alikuwa sehemu ya <em>Diaspora</em> (&quot;kutawanyika&quot;), akitokana na Wayahudi ambao walikuwa wametawanyika miongoni mwa mataifa wakati wa uhamisho huko Babuloni. Familia yake haikurudi Yuda, tofauti na baadhi ya Wayahudi (tazama <a href=\"https://ref.ly/Ezra1:1-Ezra2:70\">Ezra 1–2</a>), lakini walichagua kubaki Uajemi, kama wengi wengine. Jukumu muhimu la binamu yake Mordekai katika serikali ya Kiajemi linaonyesha kuwa familia yake ilikuwa imepata utajiri na kustarehe.</p><p>Esta alikuwa yatima aliyekuzwa na binamu yake Mordekai, afisa mdogo katika serikali ya Uajemi huko Shushani. Alifanywa malkia baada ya Mfalme Ahasuero kumwondoa Malkia Vashti kwa kukataa kuhudhuria karamu alipoamriwa kufanya hivyo (<a href=\"https://ref.ly/Esth1:11-Esth1:12\">Esta 1:11–12</a>).</p><p>Baada ya Esta kutawazwa, alifanikiwa kupata uaminifu wa Xerxes kwa kumjulisha kuhusu njama ya mauaji (<a href=\"https://ref.ly/Esth2:21-Esth2:23\">Esta 2:21–23</a>). Hii ilimwezesha baadaye kuwaokoa watu wake kutokana na mauaji yaliyopangwa na Hamani, afisa mkuu wa mfalme. Kupitia ushauri wake wa busara na vitendo vyake vya ujasiri, Esta alifichua Hamani. Alinyongwa, na watu wa Kiyahudi waliokolewa. Sikukuu ya Kiyahudi ya Purimu iliandaliwa ili kusherehekea matukio haya.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Esth2:7-Esth2:20\">Esta 2:7–20</a>; <a href=\"https://ref.ly/Esth4:4-Esth5:8\">4:4–5:8</a>; <a href=\"https://ref.ly/Esth7:1-Esth9:32\">7:1–9:32</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "17002021",
+"start_ref_usfm": "EST 2:21",
+"end_ref": "17002023",
+"end_ref_usfm": "EST 2:23"
+},
+{
+"start_ref": "17001011",
+"start_ref_usfm": "EST 1:11",
+"end_ref": "17001012",
+"end_ref_usfm": "EST 1:12"
+},
+{
+"start_ref": "15001001",
+"start_ref_usfm": "EZR 1:1",
+"end_ref": "15002070",
+"end_ref_usfm": "EZR 2:70"
+},
+{
+"start_ref": "17002007",
+"start_ref_usfm": "EST 2:7",
+"end_ref": "17002020",
+"end_ref_usfm": "EST 2:20"
+},
+{
+"start_ref": "17004004",
+"start_ref_usfm": "EST 4:4",
+"end_ref": "17005008",
+"end_ref_usfm": "EST 5:8"
+},
+{
+"start_ref": "17007001",
+"start_ref_usfm": "EST 7:1",
+"end_ref": "17009032",
+"end_ref_usfm": "EST 9:32"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "734368",
+"reference_id": 203468,
+"version": "1.0.2",
+"title": "Ezekieli",
+"media_type": "Text",
+"index_reference": "ezekieli",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Ezekieli alikuwa kuhani na nabii. Alizaliwa karibu mwaka wa 623 Kabla ya Kristo (KK). Inawezekana alikulia Yerusalemu na alikuwa ameoa (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ezekieli 24:16–18</a>). Mnamo 597 KK, alipelekwa uhamishoni Babeli pamoja na Yekonia na aliishi kando ya Mto Kebari. Alipokea wito wake kama nabii huko Babeli mnamo Julai 31, 593 KK (<a href=\"https://ref.ly/Ezek1:1\">Ezekieli 1:1</a>). Tunajifunza kuhusu maisha yake binafsi kutoka kwenye kitabu kilichopewa jina lake.</p><p>Ezekieli mara nyingi alitumia vitendo visivyo vya kawaida kusisitiza ujumbe wake wa kinabii kutoka kwa Mungu. Kwa mfano, alionyesha uhaba mkubwa wa chakula wakati wa kuzingirwa kwa mwisho wa Yerusalemu kwa kula chakula kilichopikwa juu ya mavi (<a href=\"https://ref.ly/Ezek4:12\">Ezekieli 4:12</a>). Wakati mwingine, alilala bila kusonga kwa siku 430, kila siku ikiwakilisha mwaka wa dhambi za Israeli na Yuda (<a href=\"https://ref.ly/Ezek4:4-Ezek4:7\">Ezekieli 4:4–7</a>). Mke wa Ezekieli alipokufa ghafla, hakuruhusiwa kumlilia hadharani (<a href=\"https://ref.ly/Ezek24:16-Ezek24:18\">Ezekieli 24:16–18</a>); kifo chake kilikuwa onyo kali la kile ambacho kingetokea Yuda (<a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">Ezekieli 24:15–27</a>). Vitendo visivyo vya kawaida vya Ezekieli vililenga kuvutia umakini wa watu.</p><p>Hapo awali, watu walikataa ujumbe wa Ezekieli. Hata hivyo, unabii wake ulithibitishwa kuwa wa kweli, na taifa likaacha kuabudu miungu ya uongo. Alifundisha kuhusu utakatifu, usafi, ufufuo, na sheria za ibada (kanuni na desturi za kidini). Ujumbe wake wa matumaini uliwahimiza watu waliohamishwa kubaki waaminifu wakati wa utumwa wao. Baada ya kurudi kwao, uliwahamasisha kutazamia utimilifu mkubwa zaidi.</p><p>Hatufahamu jinsi Ezekieli alivyokufa, na hatatajwi mahali pengine katika Agano la Kale. Agano Jipya linarejelea unabii wa Ezekieli zaidi ya mara sitini, hasa katika kitabu cha Ufunuo. Maono ya kinabii ya Ezekieli yalielekea zaidi ya wakati wake wa karibu hadi kwenye hukumu ya mwisho (uamuzi wa mwisho wa Mungu kuhusu watu wote) na tumaini kuu la mbinguni.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Ezek2:1-Ezek2:10\">Ezekieli 2:1–10</a>; <a href=\"https://ref.ly/Ezek24:15-Ezek24:27\">24:15–27</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "26001001",
+"start_ref_usfm": "EZK 1:1",
+"end_ref": "26001001",
+"end_ref_usfm": "EZK 1:1"
+},
+{
+"start_ref": "26004012",
+"start_ref_usfm": "EZK 4:12",
+"end_ref": "26004012",
+"end_ref_usfm": "EZK 4:12"
+},
+{
+"start_ref": "26024016",
+"start_ref_usfm": "EZK 24:16",
+"end_ref": "26024018",
+"end_ref_usfm": "EZK 24:18"
+},
+{
+"start_ref": "26024015",
+"start_ref_usfm": "EZK 24:15",
+"end_ref": "26024027",
+"end_ref_usfm": "EZK 24:27"
+},
+{
+"start_ref": "26002001",
+"start_ref_usfm": "EZK 2:1",
+"end_ref": "26002010",
+"end_ref_usfm": "EZK 2:10"
+},
+{
+"start_ref": "26004004",
+"start_ref_usfm": "EZK 4:4",
+"end_ref": "26004007",
+"end_ref_usfm": "EZK 4:7"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Ezekiel",
+"type": "person",
+"preferred_label": "Ezekieli",
+"confidence": 0.6138,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "734359",
+"reference_id": 203459,
+"version": "1.0.2",
+"title": "Ezra",
+"media_type": "Text",
+"index_reference": "ezra",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Ezra alikuwa kuhani na mwandishi (mwalimu na mnakili wa Maandiko). Alitoka katika familia muhimu ya makuhani wakuu waliotokana na Sadoki (<a href=\"https://ref.ly/Ezra7:1-Ezra7:5\">Ezra 7:1–5</a>, <a href=\"https://ref.ly/Ezra7:11-Ezra7:12\">11–12</a>; tazama pia <a href=\"https://ref.ly/Neh8:2\">Nehemia 8:2</a>, <a href=\"https://ref.ly/Neh8:9\">9</a>). Aliongoza huko Yuda baada ya Wayahudi kurudi kutoka uhamishoni. Kama mwandishi, Ezra alikuwa zaidi ya mnakili; alikuwa mwanafunzi aliyejitolea wa sheria za Mungu (<a href=\"https://ref.ly/Ezra7:6\">Ezra 7:6</a>). Alikuwa na sifa za kufundisha, kuhubiri, na kueleza Maandiko.</p><p>Ezra, afisa muhimu aliyemsaidia mfalme katika masuala ya Kiyahudi ndani ya Milki ya Uajemi, alitembelea Yerusalemu karibu mwaka wa 458 Kabla ya (KK). Alileta vitu kwa ajili ya hekalu na alilenga kuanzisha sheria za Mungu pamoja na sheria za Uajemi. Mojawapo ya hatua zake za kwanza ilikuwa kushughulikia suala la ndoa na majirani wasio Wayahudi (<a href=\"https://ref.ly/Ezra9:1-Ezra10:44\">Ezra 9:1–10:44</a>). Baadaye, baada ya kuta za mji kujengwa upya mwaka wa 445 KK (<a href=\"https://ref.ly/Neh6:15\">Nehemia 6:15</a>), Ezra aliongoza jamii kufuata sheria za Mungu kwa umakini zaidi (<a href=\"https://ref.ly/Neh8:13-Neh8:15\">Nehemia 8:13–15</a>).</p><p>Ezra alimheshimu Mungu kwa kusimamia fedha kwa uangalifu. Mfalme wa Uajemi aliamini maamuzi ya Ezra na kumruhusu aombe pesa zaidi inapohitajika (<a href=\"https://ref.ly/Ezra7:15-Ezra7:20\">Ezra 7:15–20</a>). Ezra alikabidhi majukumu ya kifedha kwa wengine inapowezekana na alisisitiza uaminifu wa hali ya juu katika masuala ya kifedha (<a href=\"https://ref.ly/Ezra8:24-Ezra8:30\">Ezra 8:24–30</a>). Alitambua baadhi ya rasilimali za kifedha kama takatifu na mali ya Mungu.</p><p>Ezra alijinyenyekeza mbele ya Mungu wakati watu walipoanza safari yao (<a href=\"https://ref.ly/Ezra8:21-Ezra8:23\">Ezra 8:21–23</a>), alipogundua kuhusu ndoa zisizo takatifu za watu (<a href=\"https://ref.ly/Ezra9:5-Ezra9:15\">Ezra 9:5–15</a>), na alipokusanya wale waliotakiwa kuwataliki wake zao wapagani (<a href=\"https://ref.ly/Ezra10:6\">10:6</a>). Daima alitambua kwamba mkono wa neema wa Mungu—sio uwezo wake mwenyewe au hekima—ulifanya mambo mazuri kutokea (<a href=\"https://ref.ly/Ezra7:6\">Ezra 7:6</a>, <a href=\"https://ref.ly/Ezra7:9\">9</a>, <a href=\"https://ref.ly/Ezra7:28\">28</a>; <a href=\"https://ref.ly/Ezra8:18\">8:18</a>, <a href=\"https://ref.ly/Ezra8:22\">22</a>, <a href=\"https://ref.ly/Ezra8:31\">31</a>; <a href=\"https://ref.ly/Ezra9:8-Ezra9:9\">9:8–9</a>). Alisoma na kuishi kwa Neno la Mungu na kuwafundisha wengine kufuata kile Mungu alichofunua (<a href=\"https://ref.ly/Ezra7:10\">Ezra 7:10</a>). Alikuwa mwalimu na kiongozi-mtumikiaji, sio afisa mwenye kujiona ambaye aliwatawala wengine.</p><p>Ezra alionyesha kujitolea kwake kupitia maombi na kufunga, akionyesha tamaa yake kubwa ya kusaidia watu kumfuata Mungu. Aliweka mfano wa maisha katika jamii ya Kiyahudi baada ya uhamisho, akilenga Neno la Mungu na ibada kama vipaumbele vya msingi.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Ezra7:1-Ezra10:44\">Ezra 7:1–10:44</a>; <a href=\"https://ref.ly/Neh8:1-Neh8:18\">Nehemia 8:1–18</a>; <a href=\"https://ref.ly/Neh12:1\">12:1</a>, <a href=\"https://ref.ly/Neh12:26\">26</a>, <a href=\"https://ref.ly/Neh12:36\">36</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "15007006",
+"start_ref_usfm": "EZR 7:6",
+"end_ref": "15007006",
+"end_ref_usfm": "EZR 7:6"
+},
+{
+"start_ref": "15007009",
+"start_ref_usfm": "EZR 7:9",
+"end_ref": "15007009",
+"end_ref_usfm": "EZR 7:9"
+},
+{
+"start_ref": "15007010",
+"start_ref_usfm": "EZR 7:10",
+"end_ref": "15007010",
+"end_ref_usfm": "EZR 7:10"
+},
+{
+"start_ref": "15007028",
+"start_ref_usfm": "EZR 7:28",
+"end_ref": "15007028",
+"end_ref_usfm": "EZR 7:28"
+},
+{
+"start_ref": "15008018",
+"start_ref_usfm": "EZR 8:18",
+"end_ref": "15008018",
+"end_ref_usfm": "EZR 8:18"
+},
+{
+"start_ref": "15008022",
+"start_ref_usfm": "EZR 8:22",
+"end_ref": "15008022",
+"end_ref_usfm": "EZR 8:22"
+},
+{
+"start_ref": "15008031",
+"start_ref_usfm": "EZR 8:31",
+"end_ref": "15008031",
+"end_ref_usfm": "EZR 8:31"
+},
+{
+"start_ref": "15010006",
+"start_ref_usfm": "EZR 10:6",
+"end_ref": "15010006",
+"end_ref_usfm": "EZR 10:6"
+},
+{
+"start_ref": "16006015",
+"start_ref_usfm": "NEH 6:15",
+"end_ref": "16006015",
+"end_ref_usfm": "NEH 6:15"
+},
+{
+"start_ref": "16008002",
+"start_ref_usfm": "NEH 8:2",
+"end_ref": "16008002",
+"end_ref_usfm": "NEH 8:2"
+},
+{
+"start_ref": "16008009",
+"start_ref_usfm": "NEH 8:9",
+"end_ref": "16008009",
+"end_ref_usfm": "NEH 8:9"
+},
+{
+"start_ref": "16012001",
+"start_ref_usfm": "NEH 12:1",
+"end_ref": "16012001",
+"end_ref_usfm": "NEH 12:1"
+},
+{
+"start_ref": "16012026",
+"start_ref_usfm": "NEH 12:26",
+"end_ref": "16012026",
+"end_ref_usfm": "NEH 12:26"
+},
+{
+"start_ref": "16012036",
+"start_ref_usfm": "NEH 12:36",
+"end_ref": "16012036",
+"end_ref_usfm": "NEH 12:36"
+},
+{
+"start_ref": "15007001",
+"start_ref_usfm": "EZR 7:1",
+"end_ref": "15007005",
+"end_ref_usfm": "EZR 7:5"
+},
+{
+"start_ref": "15009001",
+"start_ref_usfm": "EZR 9:1",
+"end_ref": "15010044",
+"end_ref_usfm": "EZR 10:44"
+},
+{
+"start_ref": "15007001",
+"start_ref_usfm": "EZR 7:1",
+"end_ref": "15010044",
+"end_ref_usfm": "EZR 10:44"
+},
+{
+"start_ref": "15007011",
+"start_ref_usfm": "EZR 7:11",
+"end_ref": "15007012",
+"end_ref_usfm": "EZR 7:12"
+},
+{
+"start_ref": "15008024",
+"start_ref_usfm": "EZR 8:24",
+"end_ref": "15008030",
+"end_ref_usfm": "EZR 8:30"
+},
+{
+"start_ref": "15009008",
+"start_ref_usfm": "EZR 9:8",
+"end_ref": "15009009",
+"end_ref_usfm": "EZR 9:9"
+},
+{
+"start_ref": "15009005",
+"start_ref_usfm": "EZR 9:5",
+"end_ref": "15009015",
+"end_ref_usfm": "EZR 9:15"
+},
+{
+"start_ref": "16008013",
+"start_ref_usfm": "NEH 8:13",
+"end_ref": "16008015",
+"end_ref_usfm": "NEH 8:15"
+},
+{
+"start_ref": "15007015",
+"start_ref_usfm": "EZR 7:15",
+"end_ref": "15007020",
+"end_ref_usfm": "EZR 7:20"
+},
+{
+"start_ref": "15008021",
+"start_ref_usfm": "EZR 8:21",
+"end_ref": "15008023",
+"end_ref_usfm": "EZR 8:23"
+},
+{
+"start_ref": "16008001",
+"start_ref_usfm": "NEH 8:1",
+"end_ref": "16008018",
+"end_ref_usfm": "NEH 8:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Ezra",
+"type": "person",
+"preferred_label": "Ezra",
+"confidence": 0.6607,
+"match_method": "scored"
+},
+{
+"id": "person:Ezra.2",
+"type": "person",
+"preferred_label": "Ezra",
+"confidence": 0.6028,
+"match_method": "scored"
+}
+]
+}
+}
 ]

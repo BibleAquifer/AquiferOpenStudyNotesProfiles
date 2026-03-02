@@ -1,1108 +1,1055 @@
 [
-  {
-    "content_id": "734331",
-    "reference_id": 203431,
-    "version": "1.0.2",
-    "title": "Waamaleki",
-    "media_type": "Text",
-    "index_reference": "waamaleki",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p>Waamaleki walikuwa wazao wa Amaleki, mjukuu wa Esau (<a href=\"https://ref.ly/Gen36:12\">Mwanzo 36:12</a>; <a href=\"https://ref.ly/1Chr1:36\">1 Mambo ya Nyakati 1:36</a>). Walikuwa wachungaji wa kuhamahama. Eneo lao katika Negebu lilienea kutoka kusini mwa Beer-Sheba kuelekea kusini mashariki, kufikia Elathi na Esion-geberi. Inawezekana walivamia magharibi katika tambarare za pwani, mashariki katika jangwa la Arabah, na pengine katika maeneo ya Waarabu.</p><p>Waamaleki walikuwa maadui wakubwa wa Israeli. Israeli walikutana kwanza na wapiganaji wa Waamaleki huko Refidimu karibu na Sinai walipowashambulia Israeli (<a href=\"https://ref.ly/Exod17:8-Exod17:16\">Kutoka 17:8–16</a>). Yoshua na jeshi la Israeli waliwashinda Waamaleki katika vita hivi. Baadaye, Waamaleki walizuia jaribio la Israeli la kuingia nchi ya ahadi bila idhini (<a href=\"https://ref.ly/Num14:39-Num14:45\">Hesabu 14:39–45</a>). </p><p>Kutokana na uadui wao, Mose aliwaagiza Waisraeli kuwaangamiza (<a href=\"https://ref.ly/Deut25:17-Deut25:19\">Kumbukumbu la Torati 25:17–19</a>). Hata hivyo, Waamaleki waliendelea kuishi katika Negebu (tazama <a href=\"https://ref.ly/Judg3:12-Judg3:14\">Waamuzi 3:12–14</a>; <a href=\"https://ref.ly/Judg6:33\">6:33</a>; <a href=\"https://ref.ly/1Sam14:47-1Sam14:48\">1 Samweli 14:47–48</a>; <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">15:1–35</a>). Waliosalia walibaki kuwa maadui wa Israeli (<a href=\"https://ref.ly/1Sam27:8\">1 Samweli 27:8</a>; <a href=\"https://ref.ly/1Sam30:1-1Sam30:20\">30:1–20</a>; <a href=\"https://ref.ly/2Sam8:11-2Sam8:12\">2 Samweli 8:11–12</a>; <a href=\"https://ref.ly/Ps83:1-Ps83:8\">Zaburi 83:1–8</a>). Kundi hili lililosalia hatimaye liliangamizwa wakati wa utawala wa Mfalme Hezekia (<a href=\"https://ref.ly/1Chr4:42-1Chr4:43\">1 Mambo ya Nyakati 4:42–43</a>). Katika kitabu cha Esta, Hamani, mzao wa Mfalme Agagi, alionyesha uadui wao hadi mwisho (<a href=\"https://ref.ly/Esth3:1-Esth3:15\">Esta 3</a>; tazama <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">1 Samweli 15</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/1Sam30:1-1Sam30:31\">1 Samweli 30:1–31</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01036012",
-          "start_ref_usfm": "GEN 36:12",
-          "end_ref": "01036012",
-          "end_ref_usfm": "GEN 36:12"
-        },
-        {
-          "start_ref": "07006033",
-          "start_ref_usfm": "JDG 6:33",
-          "end_ref": "07006033",
-          "end_ref_usfm": "JDG 6:33"
-        },
-        {
-          "start_ref": "09027008",
-          "start_ref_usfm": "1SA 27:8",
-          "end_ref": "09027008",
-          "end_ref_usfm": "1SA 27:8"
-        },
-        {
-          "start_ref": "13001036",
-          "start_ref_usfm": "1CH 1:36",
-          "end_ref": "13001036",
-          "end_ref_usfm": "1CH 1:36"
-        },
-        {
-          "start_ref": "02017008",
-          "start_ref_usfm": "EXO 17:8",
-          "end_ref": "02017016",
-          "end_ref_usfm": "EXO 17:16"
-        },
-        {
-          "start_ref": "09015001",
-          "start_ref_usfm": "1SA 15:1",
-          "end_ref": "09015035",
-          "end_ref_usfm": "1SA 15:35"
-        },
-        {
-          "start_ref": "04014039",
-          "start_ref_usfm": "NUM 14:39",
-          "end_ref": "04014045",
-          "end_ref_usfm": "NUM 14:45"
-        },
-        {
-          "start_ref": "05025017",
-          "start_ref_usfm": "DEU 25:17",
-          "end_ref": "05025019",
-          "end_ref_usfm": "DEU 25:19"
-        },
-        {
-          "start_ref": "07003012",
-          "start_ref_usfm": "JDG 3:12",
-          "end_ref": "07003014",
-          "end_ref_usfm": "JDG 3:14"
-        },
-        {
-          "start_ref": "09014047",
-          "start_ref_usfm": "1SA 14:47",
-          "end_ref": "09014048",
-          "end_ref_usfm": "1SA 14:48"
-        },
-        {
-          "start_ref": "09030001",
-          "start_ref_usfm": "1SA 30:1",
-          "end_ref": "09030020",
-          "end_ref_usfm": "1SA 30:20"
-        },
-        {
-          "start_ref": "10008011",
-          "start_ref_usfm": "2SA 8:11",
-          "end_ref": "10008012",
-          "end_ref_usfm": "2SA 8:12"
-        },
-        {
-          "start_ref": "17003001",
-          "start_ref_usfm": "EST 3:1",
-          "end_ref": "17003015",
-          "end_ref_usfm": "EST 3:15"
-        },
-        {
-          "start_ref": "09030001",
-          "start_ref_usfm": "1SA 30:1",
-          "end_ref": "09030031",
-          "end_ref_usfm": "1SA 30:31"
-        },
-        {
-          "start_ref": "13004042",
-          "start_ref_usfm": "1CH 4:42",
-          "end_ref": "13004043",
-          "end_ref_usfm": "1CH 4:43"
-        },
-        {
-          "start_ref": "19083001",
-          "start_ref_usfm": "PSA 83:1",
-          "end_ref": "19083008",
-          "end_ref_usfm": "PSA 83:8"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "place:Amalek",
-          "type": "place",
-          "preferred_label": "Amaleki",
-          "confidence": 0.6518,
-          "match_method": "scored"
-        },
-        {
-          "id": "group:Amalek",
-          "type": "group",
-          "preferred_label": "Amalekites",
-          "confidence": 0.5662,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Amalek",
-          "type": "person",
-          "preferred_label": "Amaleki",
-          "confidence": 0.5493,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "734346",
-    "reference_id": 203446,
-    "version": "1.0.2",
-    "title": "Waaramu",
-    "media_type": "Text",
-    "index_reference": "waaramu",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p>Waaramu walikuwa sehemu ya familia ya watu waliotokana na mwana wa Noa, Shemu (<a href=\"https://ref.ly/Gen10:22-Gen10:23\">Mwanzo 10:22–23</a>; linganisha <a href=\"https://ref.ly/Gen22:20-Gen22:21\">Mwanzo 22:20–21</a>). Bethueli na Labani walijulikana kama Waaramu (<a href=\"https://ref.ly/Gen25:20\">Mwanzo 25:20</a>; <a href=\"https://ref.ly/Gen28:1-Gen28:7\">28:1–7</a>). Yakobo aliishi nao katika eneo la Waaramu kwa takriban miaka ishirini (<a href=\"https://ref.ly/Gen28:1-Gen31:55\">Mwanzo 28–31</a>; <a href=\"https://ref.ly/Hos12:12\">Hosea 12:12</a>), na watu wa Israeli walikumbuka kwamba mababu zao walikuwa kitamaduni Waaramu (<a href=\"https://ref.ly/Deut26:5\">Kumbukumbu la Torati 26:5</a>).</p><p>Waaramu walijitokeza katika historia wakati wa Abrahamu. Waliishi karibu na katikati ya Eufrati na walienea mashariki, magharibi, na kaskazini. Kufikia karibu mwaka 1100 Kabla ya Krsito (KK), makabila ya Waaramu yalikuwa yameenea kote Siria na kaskazini mwa Transyordani (ardhi ya mashariki ya Mto wa Yordani). Walianzisha miji mikuu yenye nguvu kama Soba na Dameski, ambayo ilikabiliana na Waisraeli kuanzia wakati wa Daudi (tazama <a href=\"https://ref.ly/2Sam8:3-2Sam8:8\">2 Samweli 8:3–8</a>; <a href=\"https://ref.ly/2Sam10:6-2Sam10:19\">10:6–19</a>).</p><p>Baada ya Solomoni kufa, Israeli iligawanyika katika falme za kaskazini na kusini. Wakati huu, mji wa Waaramu wa Dameski ulikuwa na nguvu sana. Watawala wa Dameski mara nyingi walitumia fursa ya mapigano kati ya falme mbili za Israeli. Wakati wa vita kati ya Israeli na Yuda kutoka 890 hadi 880 KK, Mfalme Asa wa Israeli alimuomba Ben-Hadadi I wa Dameski msaada (<a href=\"https://ref.ly/1Kgs15:18-1Kgs15:19\">1 Wafalme 15:18–19</a>).</p><p>Takriban miaka thelathini baadaye, mwanzoni mwa miaka ya 850 KK, -hadadi alivamia Israeli, lakini Ahabu alimshinda huko Samaria (<a href=\"https://ref.ly/1Kgs20:1-1Kgs20:21\">1 Wafalme 20:1–21</a>) na tena huko Afeki mwaka uliofuata (<a href=\"https://ref.ly/1Kgs20:22-1Kgs20:34\">20:22–34</a>). Baada ya miaka mitatu ya amani, Israeli na Dameski walipigana tena mwaka 853 KK, na Ahabu aliuawa vitani (<a href=\"https://ref.ly/1Kgs22:29-1Kgs22:37\">1 Wafalme 22:29–37</a>). Aramu wa Dameski aliendelea kusababisha hasara kwa Israeli katika miongo iliyofuata (tazama <a href=\"https://ref.ly/2Kgs8:28-2Kgs8:29\">2 Wafalme 8:28–29</a>; <a href=\"https://ref.ly/2Kgs12:17-2Kgs12:18\">12:17–18</a>; <a href=\"https://ref.ly/2Kgs13:1-2Kgs13:7\">13:1–7</a>).</p><p>Katika kipindi hiki, miji huru ya Waaramu ilianza kuhisi shinikizo kutoka kwa Ashuru. Ashuru ilishinda Dameski kwanza karibu mwaka wa 838 KK na kuilazimisha kulipa kodi mwaka wa 803 KK. Hii ilidhoofisha Dameski, ikimruhusu Yehoashi, mfalme wa Israeli kutoka 798 hadi 782 KK, kuwashinda Waaramu na kuwafukuza kutoka katika eneo la Israeli karibu mwaka wa 795 KK (<a href=\"https://ref.ly/2Kgs13:14-2Kgs13:25\">2 Wafalme 13:14–25</a>). Baadaye, Yeroboamu wa Pili, ambaye alitawala kutoka 793 hadi 753 KK, alilazimisha Dameski kulipa kodi (tazama <a href=\"https://ref.ly/2Kgs14:28\">2 Wafalme 14:28</a>).</p><p>Karibu mwaka wa 738 KK, Waaramu wa Dameski waliungana na Israeli kushinda Yuda. Waliteka ardhi nyingi, lakini kuzingira kwao Yerusalemu hakukufaulu (<a href=\"https://ref.ly/2Kgs16:5\">2 Wafalme 16:5</a>; tazama pia <a href=\"https://ref.ly/2Chr28:5\">2 Mambo ya Nyakati 28:5</a>). Wakati wa mafanikio haya ya Dameski, manabii Isaya na Amosi walitabiri uharibifu wa mji huo (<a href=\"https://ref.ly/Isa8:4\">Isaya 8:4</a>; <a href=\"https://ref.ly/Isa17:1\">17:1</a>; <a href=\"https://ref.ly/Amos1:3-Amos1:5\">Amosi 1:3–5</a>). Badala ya kumtumaini Mungu, Mfalme Ahazi wa Yuda alitafuta ulinzi kutoka kwa Waashuri. Waashuri walijibu zawadi zake kwa kushambulia Dameski na kuwafukuza watu wake mwaka wa 733 na 732 KK (<a href=\"https://ref.ly/2Kgs16:7-2Kgs16:11\">2 Wafalme 16:7–11</a>). Dameski ilikoma kuwa mji huru wa kisiasa.</p><p>Lugha ya Waaramu, Kiaramu, ikawa lugha kuu ya diplomasia na utawala katika eneo la Mashariki ya Karibu (tazama, kwa mfano, <a href=\"https://ref.ly/2Kgs18:26\">2 Wafalme 18:26</a>). Wakati wa uhamisho huko Babuloni, Wayahudi walianza kutumia Kiaramu; sehemu za Ezra na Danieli ziko katika Kiaramu. Kiaramu kilikuwa lugha ya kawaida kutoka Misri hadi India wakati wa kipindi cha Uajemi na kilizungumzwa sana katika Palestina wakati wa Yesu (tazama <a href=\"https://ref.ly/Mark5:41\">Marko 5:41</a>; <a href=\"https://ref.ly/1Cor16:22\">1 Wakorintho 16:22</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen10:22-Gen10:23\">Mwanzo 10:22–23</a>; <a href=\"https://ref.ly/Gen22:20-Gen22:21\">22:20–21</a>; <a href=\"https://ref.ly/Gen25:20\">25:20</a>; <a href=\"https://ref.ly/Gen28:1-Gen28:7\">28:1–7</a>; <a href=\"https://ref.ly/Deut26:5\">Kumbukumbu la Torati 26:5</a>; <a href=\"https://ref.ly/2Sam8:3-2Sam8:4\">2 Samweli 8:3–4</a>; <a href=\"https://ref.ly/2Sam10:17-2Sam10:19\">10:17–19</a>; <a href=\"https://ref.ly/1Kgs15:18\">1 Wafalme 15:18</a>; <a href=\"https://ref.ly/1Kgs20:1-1Kgs20:34\">1 Wafalme 20:1–34</a>; <a href=\"https://ref.ly/1Kgs22:29-1Kgs22:37\">22:29–37</a>; <a href=\"https://ref.ly/2Kgs13:25\">2 Wafalme 13:25</a>; <a href=\"https://ref.ly/2Kgs16:9-2Kgs16:13\">16:9–13</a>; <a href=\"https://ref.ly/2Kgs17:24-2Kgs17:34\">17:24–34</a>; <a href=\"https://ref.ly/Hos12:12\">Hosea 12:12</a>; <a href=\"https://ref.ly/Amos1:5\">Amosi 1:5</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01025020",
-          "start_ref_usfm": "GEN 25:20",
-          "end_ref": "01025020",
-          "end_ref_usfm": "GEN 25:20"
-        },
-        {
-          "start_ref": "05026005",
-          "start_ref_usfm": "DEU 26:5",
-          "end_ref": "05026005",
-          "end_ref_usfm": "DEU 26:5"
-        },
-        {
-          "start_ref": "11015018",
-          "start_ref_usfm": "1KI 15:18",
-          "end_ref": "11015018",
-          "end_ref_usfm": "1KI 15:18"
-        },
-        {
-          "start_ref": "12013025",
-          "start_ref_usfm": "2KI 13:25",
-          "end_ref": "12013025",
-          "end_ref_usfm": "2KI 13:25"
-        },
-        {
-          "start_ref": "12014028",
-          "start_ref_usfm": "2KI 14:28",
-          "end_ref": "12014028",
-          "end_ref_usfm": "2KI 14:28"
-        },
-        {
-          "start_ref": "12016005",
-          "start_ref_usfm": "2KI 16:5",
-          "end_ref": "12016005",
-          "end_ref_usfm": "2KI 16:5"
-        },
-        {
-          "start_ref": "12018026",
-          "start_ref_usfm": "2KI 18:26",
-          "end_ref": "12018026",
-          "end_ref_usfm": "2KI 18:26"
-        },
-        {
-          "start_ref": "14028005",
-          "start_ref_usfm": "2CH 28:5",
-          "end_ref": "14028005",
-          "end_ref_usfm": "2CH 28:5"
-        },
-        {
-          "start_ref": "23008004",
-          "start_ref_usfm": "ISA 8:4",
-          "end_ref": "23008004",
-          "end_ref_usfm": "ISA 8:4"
-        },
-        {
-          "start_ref": "23017001",
-          "start_ref_usfm": "ISA 17:1",
-          "end_ref": "23017001",
-          "end_ref_usfm": "ISA 17:1"
-        },
-        {
-          "start_ref": "28012012",
-          "start_ref_usfm": "HOS 12:12",
-          "end_ref": "28012012",
-          "end_ref_usfm": "HOS 12:12"
-        },
-        {
-          "start_ref": "30001005",
-          "start_ref_usfm": "AMO 1:5",
-          "end_ref": "30001005",
-          "end_ref_usfm": "AMO 1:5"
-        },
-        {
-          "start_ref": "41005041",
-          "start_ref_usfm": "MRK 5:41",
-          "end_ref": "41005041",
-          "end_ref_usfm": "MRK 5:41"
-        },
-        {
-          "start_ref": "46016022",
-          "start_ref_usfm": "1CO 16:22",
-          "end_ref": "46016022",
-          "end_ref_usfm": "1CO 16:22"
-        },
-        {
-          "start_ref": "01010022",
-          "start_ref_usfm": "GEN 10:22",
-          "end_ref": "01010023",
-          "end_ref_usfm": "GEN 10:23"
-        },
-        {
-          "start_ref": "11015018",
-          "start_ref_usfm": "1KI 15:18",
-          "end_ref": "11015019",
-          "end_ref_usfm": "1KI 15:19"
-        },
-        {
-          "start_ref": "12012017",
-          "start_ref_usfm": "2KI 12:17",
-          "end_ref": "12012018",
-          "end_ref_usfm": "2KI 12:18"
-        },
-        {
-          "start_ref": "30001003",
-          "start_ref_usfm": "AMO 1:3",
-          "end_ref": "30001005",
-          "end_ref_usfm": "AMO 1:5"
-        },
-        {
-          "start_ref": "11020001",
-          "start_ref_usfm": "1KI 20:1",
-          "end_ref": "11020034",
-          "end_ref_usfm": "1KI 20:34"
-        },
-        {
-          "start_ref": "12013001",
-          "start_ref_usfm": "2KI 13:1",
-          "end_ref": "12013007",
-          "end_ref_usfm": "2KI 13:7"
-        },
-        {
-          "start_ref": "12013014",
-          "start_ref_usfm": "2KI 13:14",
-          "end_ref": "12013025",
-          "end_ref_usfm": "2KI 13:25"
-        },
-        {
-          "start_ref": "01022020",
-          "start_ref_usfm": "GEN 22:20",
-          "end_ref": "01022021",
-          "end_ref_usfm": "GEN 22:21"
-        },
-        {
-          "start_ref": "01028001",
-          "start_ref_usfm": "GEN 28:1",
-          "end_ref": "01028007",
-          "end_ref_usfm": "GEN 28:7"
-        },
-        {
-          "start_ref": "10008003",
-          "start_ref_usfm": "2SA 8:3",
-          "end_ref": "10008004",
-          "end_ref_usfm": "2SA 8:4"
-        },
-        {
-          "start_ref": "10010017",
-          "start_ref_usfm": "2SA 10:17",
-          "end_ref": "10010019",
-          "end_ref_usfm": "2SA 10:19"
-        },
-        {
-          "start_ref": "11022029",
-          "start_ref_usfm": "1KI 22:29",
-          "end_ref": "11022037",
-          "end_ref_usfm": "1KI 22:37"
-        },
-        {
-          "start_ref": "12017024",
-          "start_ref_usfm": "2KI 17:24",
-          "end_ref": "12017034",
-          "end_ref_usfm": "2KI 17:34"
-        },
-        {
-          "start_ref": "12008028",
-          "start_ref_usfm": "2KI 8:28",
-          "end_ref": "12008029",
-          "end_ref_usfm": "2KI 8:29"
-        },
-        {
-          "start_ref": "01028001",
-          "start_ref_usfm": "GEN 28:1",
-          "end_ref": "01031055",
-          "end_ref_usfm": "GEN 31:55"
-        },
-        {
-          "start_ref": "10008003",
-          "start_ref_usfm": "2SA 8:3",
-          "end_ref": "10008008",
-          "end_ref_usfm": "2SA 8:8"
-        },
-        {
-          "start_ref": "10010006",
-          "start_ref_usfm": "2SA 10:6",
-          "end_ref": "10010019",
-          "end_ref_usfm": "2SA 10:19"
-        },
-        {
-          "start_ref": "11020001",
-          "start_ref_usfm": "1KI 20:1",
-          "end_ref": "11020021",
-          "end_ref_usfm": "1KI 20:21"
-        },
-        {
-          "start_ref": "11020022",
-          "start_ref_usfm": "1KI 20:22",
-          "end_ref": "11020034",
-          "end_ref_usfm": "1KI 20:34"
-        },
-        {
-          "start_ref": "12016007",
-          "start_ref_usfm": "2KI 16:7",
-          "end_ref": "12016011",
-          "end_ref_usfm": "2KI 16:11"
-        },
-        {
-          "start_ref": "12016009",
-          "start_ref_usfm": "2KI 16:9",
-          "end_ref": "12016013",
-          "end_ref_usfm": "2KI 16:13"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Aram",
-          "type": "person",
-          "preferred_label": "Aramu",
-          "confidence": 0.5264,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Aram.2",
-          "type": "person",
-          "preferred_label": "Aramu",
-          "confidence": 0.5249,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "734416",
-    "reference_id": 203516,
-    "version": "1.0.2",
-    "title": "Wafalme wa Kirumi",
-    "media_type": "Text",
-    "index_reference": "wafalme wa kirumi",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<ol><li><p><em>Augusto </em>(Octavian) alitawala kutoka mwaka wa 27 Kabla ya Kristo (KK) hadi 14 Baada ya Kristo (BK). Alikuwa mfalme wa kwanza wa Kirumi baada ya kumshinda Marko Antony katika Vita vya Actium mbamo mwaka 31 KK. Alitawala kwa busara na alisimamia ufalme vizuri. Alipokea jina la &quot;Augusto&quot; mwaka 27 KK, akianzisha desturi ya kumwabudu mfalme.</p><p><em>Tazama </em><a href=\"https://ref.ly/Luke2:1\"><em>Luka 2:1</em></a>.</p></li><li><p><em>Tiberio </em>alitawala kuanzia mwaka wa 14 BK hadi 37. Alikuwa mwana wa kambo wa Augusto. Augusto alimchagua Tiberio kuwa mfalme baada yake. Tiberio alikuwa mtawala mwenye busara na mnyenyekevu, na alimteua Pontio Pilato kuwa gavana wa Yudea.</p><p><em>Tazama </em><a href=\"https://ref.ly/Luke3:1\"><em>Luka 3:1</em></a><em>; </em><a href=\"https://ref.ly/John19:12\"><em>Yohana 19:12</em></a>.</p></li><li><p>(Gayo) <em>Caligula</em> alitawala kuanzia mwaka wa 37 BK hadi 41. Alikuwa mwana wa jenerali wa Augusto, Germanicus. Alipata jina la utani Caligula, linalomaanisha &quot;Kiatu Kidogo,&quot; kutokana na mavazi yake ya kijeshi. Alipoteza uwezo wake wa kufikiri kwa uwazi, alitumia pesa zote za ufalme kwa upotevu, alitawala kwa ukatili juu ya watu wake, na hatimaye aliuawa na maadui zake.</p></li><li><p><em>Klaudio</em> alitawala kuanzia mwaka wa 41 BK hadi 54. Alikuwa mpwa wa Tiberio. Aliteuliwa kuwa mfalme baada ya walinzi wa kifalme (Praetorian Guard) kumchagua kufuatia kifo cha Caligula. Alikuwa rafiki wa Herode Agripa I. Klaudio alisitisha mateso ya Wayahudi huko Aleksandria, lakini baadaye aliwafukuza Wayahudi kutoka Rumi karibu mwaka wa 49 BK. Alimuoa mama yake Nero, Agrippina, ambaye alimuua kwa sumu.</p><p><em>Tazama </em><a href=\"https://ref.ly/Acts18:2\"><em>Matendo 18:2</em></a>. </p></li><li><p><em>Nero</em> alitawala kuanzia mwaka wa 54 BK hadi 68. Alimrithi Klaudio na kuwa mfalme baada ya kifo chake. Alitumia muda mwingi kwa ajili ya starehe zake binafsi. Paulo alimwomba, akiwafundisha Wakristo wa Kirumi kumtii Nero. Baadaye, Nero alimuua mke wake na mama yake. Alikuwa wa kwanza kuwatesa Wakristo.</p><p><em>Tazama </em><a href=\"https://ref.ly/Acts25:11\"><em>Matendo 25:11</em></a><em>; </em><a href=\"https://ref.ly/Rom13:1-Rom13:7\"><em>Warumi 13:1–7</em></a>.</p></li><li><p><em>Vespasian</em> alitawala kuanzia mwaka wa 69 BK hadi 79. Alikuwa jenerali aliyefanikiwa na mwana wa mtoza ushuru. Alianzisha Vita vya Kiyahudi kwa kuvamia Galilaya mwaka wa 67 BK. Kama mfalme, aliboresha fedha za Rumi, alipanga upya majeshi, na alijulikana kwa haki yake. Pia alianza ujenzi wa Colosseum. Alifariki kutokana na ugonjwa.</p></li><li><p><em>Tito</em> alitawala kuanzia mwaka wa 79 BK hadi 81. Alikuwa mwana wa Vespasian. Alihitimisha Vita vya Kiyahudi kwa kuharibu Yerusalemu mbamo mwaka wa 70 BK. Kama mfalme, alikamilisha Colosseum na kutoa msaada wa maafa baada ya Mlima Vesuvius kulipuka mbamo mwaka wa 79BK na moto kutokea Roma mbamo mwaka wa 80 BK. Alifariki kutokana na homa.</p></li><li><p><em>Domitian</em> alitawala kuanzia mwaka wa 81 BK hadi 96. Alikuwa mwana mdogo wa Vespasian. Alikuwa akifunikwa na kaka yake Tito na alitamani mamlaka. Kama mfalme, alikuwa msimamizi mwenye uwezo. Alijenga upya maeneo yaliyoharibiwa ya Rumi na kujitangaza kuwa Mungu. Aliweka kodi mpya na, katika miaka yake ya baadaye, aliwatesa Wakristo kwa ukali. Hatimaye aliuawa na maadui zake.</p></li></ol><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Rev17:9-Rev17:11\">Ufunuo 17:9–11</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "42002001",
-          "start_ref_usfm": "LUK 2:1",
-          "end_ref": "42002001",
-          "end_ref_usfm": "LUK 2:1"
-        },
-        {
-          "start_ref": "42003001",
-          "start_ref_usfm": "LUK 3:1",
-          "end_ref": "42003001",
-          "end_ref_usfm": "LUK 3:1"
-        },
-        {
-          "start_ref": "43019012",
-          "start_ref_usfm": "JHN 19:12",
-          "end_ref": "43019012",
-          "end_ref_usfm": "JHN 19:12"
-        },
-        {
-          "start_ref": "44018002",
-          "start_ref_usfm": "ACT 18:2",
-          "end_ref": "44018002",
-          "end_ref_usfm": "ACT 18:2"
-        },
-        {
-          "start_ref": "44025011",
-          "start_ref_usfm": "ACT 25:11",
-          "end_ref": "44025011",
-          "end_ref_usfm": "ACT 25:11"
-        },
-        {
-          "start_ref": "45013001",
-          "start_ref_usfm": "ROM 13:1",
-          "end_ref": "45013007",
-          "end_ref_usfm": "ROM 13:7"
-        },
-        {
-          "start_ref": "66017009",
-          "start_ref_usfm": "REV 17:9",
-          "end_ref": "66017011",
-          "end_ref_usfm": "REV 17:11"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "734321",
-    "reference_id": 203421,
-    "version": "1.0.2",
-    "title": "Wafilisti",
-    "media_type": "Text",
-    "index_reference": "wafilisti",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p>Wafilisti waliishi kwenye uwanda wa pwani ya kusini mashariki mwa Bahari ya Mediterania. Walikuwa sehemu ya kundi kubwa la wasafiri wa baharini kutoka eneo la Aegean, ambao Wamisri waliwaita &quot;Watu wa Baharini.&quot; Karibu mwaka wa 1200 Kabla ya Kristo (KK), walikaa kwenye uwanda wa chini wa pwani ya Palestina na kuanzisha miji mitano:</p><ol><li><p>Ashdodi</p></li><li><p>Ashkeloni</p></li><li><p>Ekroni</p></li><li><p>Gaza</p></li><li><p>Gathi</p></li></ol><p>Wafilisti hawakuwa rahisi kushinda; walikuwa na ujuzi katika siasa na teknolojia. Walikuwa pia wapiganaji hodari. Teknolojia yao ya chuma iliwafanya kuwa maadui karibu wasioshindika (tazama <a href=\"https://ref.ly/1Sam13:19-1Sam13:22\">1 Samweli 13:19–22</a>). Mara nyingi walipigana na Waisraeli wakati wa Waamuzi, karibu mwaka wa 1350 hadi 1050 KK, na wakati wa ufalme wa kwanza ulio unganishwa, kutoka takriban mwaka wa 1050 hadi 970 KK. Sauli alikufa akipigana na Wafilisti (<a href=\"https://ref.ly/1Sam31:1-1Sam31:13\">1 Samweli 31:1–13</a>). Hata hivyo, Daudi aliwashinda kabla hajawa mfalme (<a href=\"https://ref.ly/1Sam18:20-1Sam18:30\">1 Samweli 18:20–30</a>; <a href=\"https://ref.ly/1Sam19:8\">19:8</a>; <a href=\"https://ref.ly/1Sam23:1-1Sam23:5\">23:1–5</a>) na aliendelea kuwashinda wakati wa utawala wake (<a href=\"https://ref.ly/2Sam5:17-2Sam5:25\">2 Samweli 5:17–25</a>; <a href=\"https://ref.ly/2Sam8:1\">8:1</a>; <a href=\"https://ref.ly/2Sam21:15\">21:15–22</a>). Ingawa Wafilisti hawakuwahi kutoweka kabisa wakati Israeli ilikuwepo kama taifa (<a href=\"https://ref.ly/2Kgs18:8\">2 Wafalme 18:8</a>; <a href=\"https://ref.ly/2Chr17:11\">2 Mambo ya Nyakati 17:11</a>; <a href=\"https://ref.ly/2Chr21:16-2Chr21:17\">21:16–17</a>; <a href=\"https://ref.ly/2Chr26:6-2Chr26:7\">26:6–7</a>; <a href=\"https://ref.ly/2Chr28:18\">28:18</a>), Daudi alimaliza tishio lao kwa ufanisi.</p><p>Kwenye 1 Samweli, Mungu alitumia Wafilisti kuondoa familia ya Eli yenye dhambi (<a href=\"https://ref.ly/1Sam4:10-1Sam4:22\">1 Samweli 4:10–22</a>). Wafilisti pia walichangia katika kujenga nguvu za kijeshi na kisiasa za Daudi (<a href=\"https://ref.ly/1Sam17:32-1Sam17:58\">1 Samweli 17:32–58</a>; <a href=\"https://ref.ly/1Sam18:20-1Sam18:30\">18:20–30</a>). Walimvuruga Sauli alipokuwa karibu kumkamata Daudi (<a href=\"https://ref.ly/1Sam23:26-1Sam23:28\">1 Samweli 23:26–28</a>). Walimpa Daudi hifadhi dhidi ya Sauli (<a href=\"https://ref.ly/1Sam21:10-1Sam21:15\">1 Samweli 21:10–15</a>; <a href=\"https://ref.ly/1Sam27:1-1Sam27:12\">27:1–12</a>). Walimzuia Daudi kupigana na watu wake mwenyewe (<a href=\"https://ref.ly/1Sam29:1-1Sam29:11\">1 Samweli 29:1–11</a>). Waliua Sauli na wanawe (<a href=\"https://ref.ly/1Sam31:1-1Sam31:13\">1 Samweli 31:1–13</a>), jambo lililomuwezesha Daudi kuwa mfalme. Hata hivyo, mwishowe, Wafilisti walipata hukumu ya Mungu (tazama <a href=\"https://ref.ly/Ezek25:15-Ezek25:17\">Ezekieli 25:15–17</a>; <a href=\"https://ref.ly/Amos1:6-Amos1:8\">Amosi 1:6–8</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen10:13-Gen10:14\">Mwanzo 10:13–14</a>; <a href=\"https://ref.ly/Judg3:1-Judg3:3\">Waamuzi 3:1–3</a>; <a href=\"https://ref.ly/Judg13:1-Judg16:31\">Waamuzi 13:1–16:31</a>; <a href=\"https://ref.ly/1Sam5:1-1Sam6:18\">1 Samweli 5:1–6:18</a>; <a href=\"https://ref.ly/1Sam13:16-1Sam14:23\">13:16–14:23</a>; <a href=\"https://ref.ly/1Sam21:10-1Sam21:15\">21:10–15</a>; <a href=\"https://ref.ly/1Sam23:1-1Sam23:5\">23:1–5</a>, <a href=\"https://ref.ly/1Sam23:26-1Sam23:28\">26–28</a>; <a href=\"https://ref.ly/1Sam31:1-1Sam31:10\">31:1–10</a>; <a href=\"https://ref.ly/2Sam5:17-2Sam5:25\">2 Samweli 5:17–25</a>; <a href=\"https://ref.ly/2Sam8:1\">8:1</a>; <a href=\"https://ref.ly/2Sam21:15-2Sam21:22\">21:15–22</a>; <a href=\"https://ref.ly/2Kgs18:8\">2 Wafalme 18:8</a>; <a href=\"https://ref.ly/2Chr17:10-2Chr17:11\">2 Mambo ya Nyakati 17:10–11</a>; <a href=\"https://ref.ly/2Chr21:16-2Chr21:17\">21:16–17</a>; <a href=\"https://ref.ly/2Chr26:6-2Chr26:7\">26:6–7</a>; <a href=\"https://ref.ly/2Chr28:18-2Chr28:19\">28:18–19</a>; <a href=\"https://ref.ly/Isa2:6\">Isaya 2:6</a>; <a href=\"https://ref.ly/Ezek25:15-Ezek25:17\">Ezekieli 25:15–17</a>; <a href=\"https://ref.ly/Amos1:6-Amos1:8\">Amosi 1:6–8</a>; <a href=\"https://ref.ly/Amos9:7\">9:7</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "09019008",
-          "start_ref_usfm": "1SA 19:8",
-          "end_ref": "09019008",
-          "end_ref_usfm": "1SA 19:8"
-        },
-        {
-          "start_ref": "10008001",
-          "start_ref_usfm": "2SA 8:1",
-          "end_ref": "10008001",
-          "end_ref_usfm": "2SA 8:1"
-        },
-        {
-          "start_ref": "10021015",
-          "start_ref_usfm": "2SA 21:15",
-          "end_ref": "10021015",
-          "end_ref_usfm": "2SA 21:15"
-        },
-        {
-          "start_ref": "12018008",
-          "start_ref_usfm": "2KI 18:8",
-          "end_ref": "12018008",
-          "end_ref_usfm": "2KI 18:8"
-        },
-        {
-          "start_ref": "14017011",
-          "start_ref_usfm": "2CH 17:11",
-          "end_ref": "14017011",
-          "end_ref_usfm": "2CH 17:11"
-        },
-        {
-          "start_ref": "14028018",
-          "start_ref_usfm": "2CH 28:18",
-          "end_ref": "14028018",
-          "end_ref_usfm": "2CH 28:18"
-        },
-        {
-          "start_ref": "23002006",
-          "start_ref_usfm": "ISA 2:6",
-          "end_ref": "23002006",
-          "end_ref_usfm": "ISA 2:6"
-        },
-        {
-          "start_ref": "30009007",
-          "start_ref_usfm": "AMO 9:7",
-          "end_ref": "30009007",
-          "end_ref_usfm": "AMO 9:7"
-        },
-        {
-          "start_ref": "09021010",
-          "start_ref_usfm": "1SA 21:10",
-          "end_ref": "09021015",
-          "end_ref_usfm": "1SA 21:15"
-        },
-        {
-          "start_ref": "09031001",
-          "start_ref_usfm": "1SA 31:1",
-          "end_ref": "09031013",
-          "end_ref_usfm": "1SA 31:13"
-        },
-        {
-          "start_ref": "09013019",
-          "start_ref_usfm": "1SA 13:19",
-          "end_ref": "09013022",
-          "end_ref_usfm": "1SA 13:22"
-        },
-        {
-          "start_ref": "01010013",
-          "start_ref_usfm": "GEN 10:13",
-          "end_ref": "01010014",
-          "end_ref_usfm": "GEN 10:14"
-        },
-        {
-          "start_ref": "07013001",
-          "start_ref_usfm": "JDG 13:1",
-          "end_ref": "07016031",
-          "end_ref_usfm": "JDG 16:31"
-        },
-        {
-          "start_ref": "09027001",
-          "start_ref_usfm": "1SA 27:1",
-          "end_ref": "09027012",
-          "end_ref_usfm": "1SA 27:12"
-        },
-        {
-          "start_ref": "14021016",
-          "start_ref_usfm": "2CH 21:16",
-          "end_ref": "14021017",
-          "end_ref_usfm": "2CH 21:17"
-        },
-        {
-          "start_ref": "26025015",
-          "start_ref_usfm": "EZK 25:15",
-          "end_ref": "26025017",
-          "end_ref_usfm": "EZK 25:17"
-        },
-        {
-          "start_ref": "09029001",
-          "start_ref_usfm": "1SA 29:1",
-          "end_ref": "09029011",
-          "end_ref_usfm": "1SA 29:11"
-        },
-        {
-          "start_ref": "09023001",
-          "start_ref_usfm": "1SA 23:1",
-          "end_ref": "09023005",
-          "end_ref_usfm": "1SA 23:5"
-        },
-        {
-          "start_ref": "10005017",
-          "start_ref_usfm": "2SA 5:17",
-          "end_ref": "10005025",
-          "end_ref_usfm": "2SA 5:25"
-        },
-        {
-          "start_ref": "14026006",
-          "start_ref_usfm": "2CH 26:6",
-          "end_ref": "14026007",
-          "end_ref_usfm": "2CH 26:7"
-        },
-        {
-          "start_ref": "10021015",
-          "start_ref_usfm": "2SA 21:15",
-          "end_ref": "10021022",
-          "end_ref_usfm": "2SA 21:22"
-        },
-        {
-          "start_ref": "14017010",
-          "start_ref_usfm": "2CH 17:10",
-          "end_ref": "14017011",
-          "end_ref_usfm": "2CH 17:11"
-        },
-        {
-          "start_ref": "07003001",
-          "start_ref_usfm": "JDG 3:1",
-          "end_ref": "07003003",
-          "end_ref_usfm": "JDG 3:3"
-        },
-        {
-          "start_ref": "09018020",
-          "start_ref_usfm": "1SA 18:20",
-          "end_ref": "09018030",
-          "end_ref_usfm": "1SA 18:30"
-        },
-        {
-          "start_ref": "09004010",
-          "start_ref_usfm": "1SA 4:10",
-          "end_ref": "09004022",
-          "end_ref_usfm": "1SA 4:22"
-        },
-        {
-          "start_ref": "09017032",
-          "start_ref_usfm": "1SA 17:32",
-          "end_ref": "09017058",
-          "end_ref_usfm": "1SA 17:58"
-        },
-        {
-          "start_ref": "09023026",
-          "start_ref_usfm": "1SA 23:26",
-          "end_ref": "09023028",
-          "end_ref_usfm": "1SA 23:28"
-        },
-        {
-          "start_ref": "30001006",
-          "start_ref_usfm": "AMO 1:6",
-          "end_ref": "30001008",
-          "end_ref_usfm": "AMO 1:8"
-        },
-        {
-          "start_ref": "09005001",
-          "start_ref_usfm": "1SA 5:1",
-          "end_ref": "09006018",
-          "end_ref_usfm": "1SA 6:18"
-        },
-        {
-          "start_ref": "09013016",
-          "start_ref_usfm": "1SA 13:16",
-          "end_ref": "09014023",
-          "end_ref_usfm": "1SA 14:23"
-        },
-        {
-          "start_ref": "09031001",
-          "start_ref_usfm": "1SA 31:1",
-          "end_ref": "09031010",
-          "end_ref_usfm": "1SA 31:10"
-        },
-        {
-          "start_ref": "14028018",
-          "start_ref_usfm": "2CH 28:18",
-          "end_ref": "14028019",
-          "end_ref_usfm": "2CH 28:19"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "group:Philistine",
-          "type": "group",
-          "preferred_label": "Wafilisti",
-          "confidence": 0.7619,
-          "match_method": "scored"
-        },
-        {
-          "id": "place:Philistine",
-          "type": "place",
-          "preferred_label": "Wafilisti",
-          "confidence": 0.6119,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Philistine",
-          "type": "person",
-          "preferred_label": "Wafilisti",
-          "confidence": 0.6013,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "734372",
-    "reference_id": 203472,
-    "version": "1.0.2",
-    "title": "Wagiriki",
-    "media_type": "Text",
-    "index_reference": "wagiriki",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p>Ustaarabu wa Kigiriki ulikuwa na umuhimu mkubwa katika ulimwengu wa kale. Utamaduni wa Kigiriki uliathiri sana ulimwengu wakati wa kuzaliwa kwa Yesu na uandishi wa Agano Jipya.</p><h3>Ustaarabu wa Wamikenai (1450 hadi 1200 Kabla ya Krsito (KK)</h3><p>Wamikenai waliishi wakati wa &quot;enzi ya mashujaa,&quot; kati ya 1450 na 1200 KK. Kipindi hiki kiliitwa &quot;enzi ya mashujaa&quot; kwa sababu hadithi nyingi maarufu za Kigiriki kuhusu mashujaa na vita vikubwa zilifanyika wakati huo. Hadithi hizi baadaye ziliandikwa na Homer katika mashairi yake marefu. Ustaarabu wao ulikuwa umejikita Mycenae, takriban maili thelathini kusini mwa Korintho. Wamikenai walifanya biashara kwa upana na walikuwa hodari sana katika vita. Miungu ya Kigiriki na hadithi zinazojulikana kutoka maandiko ya baadaye zilianza katika Ugiriki ya Wamikenai. Nyaraka za Wamikenai ziliandikwa kwa Linear B, maandishi yanayotumia silabi.</p><p>Ustaarabu wa Mycenaean ulimalizika kwa vurugu karibu 1200 KK kutokana na uvamizi wa Wadorian wa Kigiriki. Karne zilizofuata zinajulikana kama &quot;Enzi za Giza za Kigiriki.&quot; Katika kipindi hiki, watu waliacha kutumia maandiko ya Linear B, na hakuna rekodi za maandishi zilizopo.</p><h3>Enzi za Kale, Miji Huru (850–546 KK)</h3><p>Hatimaye, miji na vijiji vya Kigiriki viliandaliwa kuwa miji-huru iliyodhibiti maeneo makubwa. Katika kipindi hiki, Wagiriki walianza kushirikiana zaidi na walikuwa na utambulisho wa pamoja. Kwa mfano, waliandaa Michezo ya Olimpiki ya kwanza mwaka wa 776 KK.</p><p>Biashara na maeneo ya karibu ilipokua, Wagiriki walikutana na Wafinisia na wakachukua mfumo wao wa uandishi. Homer aliandika <em>Iliad</em> na <em>Odyssey</em>, ambazo zinasimulia hadithi na hekaya za ustaarabu wa awali wa Mycenaean na miungu yao. </p><p>Miji mingi ilitegemea viongozi wenye nguvu waliitwa madikteta. Viongozi hawa walisaidia kuweka utaratibu na amani katika miji yao. (Neno la Kigiriki kwa watawala hawa ni <em>tyrannos</em>.) Maeneo mengi yaliandika sheria zao za msingi katika hati iliyoitwa katiba. Hii ilisaidia kuunda sheria wazi za utawala. Katika Athene, kundi dogo la watu wenye nguvu linaloitwa Baraza la Areopago lilitawala mji. Aina hii ya serikali iliitwa oligarchy. Baadaye, kiongozi aliyeitwa Solon alifanya mabadiliko muhimu katika jinsi Athene ilivyotawaliwa. Mabadiliko haya yalisaidia Athene kuwa demokrasia, ambapo raia wangeweza kupiga kura na kusaidia kufanya maamuzi.</p><h3>Vita vya Kiajemi, Kipindi cha Kawaida (546 hadi 336 KK)</h3><p>Mnamo mwaka wa 546 KK, Koreshi Mkuu wa Uajemi alitwaa udhibiti wa makoloni ya Kigiriki katika Asia Ndogo. Karibu 500 KK, Ionia ilijaribu kuasi lakini ilishindwa. Hii ilisababisha Dario I kuvamia bara la Ugiriki mnamo 492 KK. Katika vita vilivyofuata, Wagiriki mara nyingi walikuwa na idadi ndogo lakini walitumia ujuzi na mikakati bora kuwashinda Waajemi. Katika Vita vya Marathon mnamo 490 KK, Wagiriki waliwashinda Waajemi kwa uamuzi. Miaka kumi baadaye, jeshi la Waajemi chini ya Xerxes lilivuka Hellespont, na meli yao kubwa iliingia katika maji ya Kigiriki. Waajemi walichoma Athene, lakini hatimaye, Wagiriki walishinda, na Xerxes aliondoka.</p><p>Baada ya Vita vya Kiajemi kumalizika, Athene ilijengwa upya na kuingia katika kipindi cha ukuu. Pericles aliongoza Athene kuunda demokrasia ya kweli. Walijenga miundo mikubwa kwenye Acropolis. Athene ikawa tajiri, na nguvu zake za baharini ziliongezeka. Hii ilikuwa enzi ya dhahabu ya mafanikio makubwa katika sanaa, mawazo, fasihi, na usanifu.</p><h3>Ufalme wa Makedonia, Ustaarabu wa Hellenistic (336–146 KK)</h3><p>Filipo II wa Makedonia alitaka kujenga ufalme. Alishinda Athene na Thebes mwaka wa 338 KK na kuunganisha Ugiriki chini ya Ufalme wa Makedonia. Baada ya Filipo kuuawa mwaka wa 336 KK, mwanawe Alexander akawa mtawala. Mwaka wa 335 KK, Alexander aliharibu Thebes, ambayo ilikuwa imeasi. Kisha akashinda haraka Babuloni na Uajemi (tazama <a href=\"https://ref.ly/Dan8:5-Dan8:8\">Danieli 8:5–8</a>). Alexander alipokufa ghafla mwaka wa 323 KK, maeneo yake makubwa yaligawanywa kati ya majenerali wanne. Baada ya migogoro fulani, maeneo makuu matatu yaliundwa:</p><ol><li><p>Misri</p></li><li><p>Asia Ndogo, Syria, na Babyloni</p></li><li><p>Makedonia na Akaya</p></li></ol><p>Vita vya Iskanda vilieneza utamaduni na ushawishi wa Kigiriki katika ulimwengu wa kale. Mgongano huu kati ya utamaduni wa Kigiriki na Uyahudi ulisababisha uasi wa Maccabea huko Yudea katika miaka ya 160 KK.</p><h3>Utawala wa Kirumi (168 KK hadi 330 BK)</h3><p>Warumi walianza kupanua nguvu zao katika Ugiriki mnamo 198 KK. Mnamo 168 KK, Warumi waliwashinda Wamakedonia katika Vita vya Pydna. Kufikia mwaka wa 148 KK, Warumi walikuwa wameunganisha Makedonia kama jimbo. Kisha, mnamo mwaka 146 KK, Warumi waliharibu Korintho. Ugiriki sasa ilikuwa chini ya udhibiti wa Kirumi na ilibaki hivyo hadi Mfalme Constantine alipofanya Byzantium kuwa mji mkuu wa Dola la Kirumi mnamo mwaka wa 330 Baada ya Kristo (BK). Utamaduni wa Kigiriki na utawala wa Kirumi uliweka msingi wa maisha ya Yesu na mwanzo wa Ukristo.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Dan8:5-Dan8:8\">Danieli 8:5–8</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "27008005",
-          "start_ref_usfm": "DAN 8:5",
-          "end_ref": "27008008",
-          "end_ref_usfm": "DAN 8:8"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "group:Greek",
-          "type": "group",
-          "preferred_label": "Greeks",
-          "confidence": 0.8643,
-          "match_method": "embedding"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "734301",
-    "reference_id": 203401,
-    "version": "1.0.2",
-    "title": "Wahiti",
-    "media_type": "Text",
-    "index_reference": "wahiti",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p>Kwa miaka mingi, ni Biblia pekee iliyowataja watu wa Wahiti. Baadhi ya wasomi walitilia shaka iwapo simulizi za kihistoria za Biblia kuhusu Wahiti zilikuwa sahihi. Walidhani Wahiti hawakuwa watu halisi. Hata hivyo, wanakiolojia na wanahistoria wamegundua taarifa kuhusu wao.</p><p>Wahiti walikuwa na ufalme uliokuwa katikati ya Asia Ndogo, na mji mkuu wao ulikuwa Hattusha (sasa ni Baghazkoy). Ufalme huo ulikua zaidi kwa sababu miji mingi ilisaini makubaliano ya kufuata utawala wake. Miji hii haikuwa rasmi sehemu ya eneo la ufalme, lakini ililazimika kutii maagizo ya ufalme. Majeshi ya Wahiti yalikuwa na nguvu za kutosha kupambana na majeshi ya Wamisri chini ya Rameses II mwenye kiburi, ambaye alitawala kuanzia 1279 hadi 1213 Kabla ya Krsito (KK). Wahiti walipigana na Rameses II huko Kadesh kwenye Orontes karibu na 1274 KK. Hakuna upande ulioshinda vita hiyo. Wakati wa Abrahamu na baba wengine wa mapema wa Israeli, watu wa Wahiti walidhibiti miji katika Kanaani, kama Hebroni.</p><p>Mhiti, babu wa Wahiti, ni mwana wa pili wa Kanaani katika &quot;jedwali la mataifa&quot; (<a href=\"https://ref.ly/Gen10:15\">Mwanzo 10:15</a>; tazama pia <a href=\"https://ref.ly/1Chr1:13\">1 Mambo ya Nyakati 1:13</a> na maelezo ya chini hapo). Marejeo mengi ya wana wa Mhiti yanapatikana katika hadithi ya Abrahamu kununua pango la Makpela (<a href=\"https://ref.ly/Gen23:1-Gen23:20\">Mwanzo 23</a>). Baadaye, Mungu aliwaagiza Waisraeli kuwaangamiza Wahiti wote katika Nchi ya Ahadi (<a href=\"https://ref.ly/Deut7:1-Deut7:2\">Kumbukumbu la Torati 7:1–2</a>). Hata hivyo, Waisraeli hawakumtii Mungu kikamilifu (<a href=\"https://ref.ly/1Kgs9:20-1Kgs9:21\">1 Wafalme 9:20–21</a>). Baadhi ya mashujaa bora wa Daudi walikuwa Wahiti (<a href=\"https://ref.ly/1Sam26:6\">1 Samweli 26:6</a>; <a href=\"https://ref.ly/2Sam11:1-2Sam12:31\">2 Samweli 11–12</a>). Solomoni alifanya biashara na wafalme wa Wahiti (<a href=\"https://ref.ly/1Kgs10:29-1Kgs11:1\">1 Wafalme 10:29–11:1</a>). Biblia inaonyesha kwamba Wahiti walikuwa watu muhimu.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen23:3-Gen23:20\">Mwanzo 23:3–20</a>; <a href=\"https://ref.ly/Gen26:34-Gen26:35\">26:34–35</a>; <a href=\"https://ref.ly/Gen27:46-Gen28:2\">27:46–28:2</a>; <a href=\"https://ref.ly/Deut7:1\">Kumbukumbu la Torati 7:1</a>; <a href=\"https://ref.ly/1Sam26:6\">1 Samweli 26:6</a>; <a href=\"https://ref.ly/2Sam11:2-2Sam11:27\">2 Samweli 11:2–27</a>; <a href=\"https://ref.ly/1Kgs9:20\">1 Wafalme 9:20</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01010015",
-          "start_ref_usfm": "GEN 10:15",
-          "end_ref": "01010015",
-          "end_ref_usfm": "GEN 10:15"
-        },
-        {
-          "start_ref": "05007001",
-          "start_ref_usfm": "DEU 7:1",
-          "end_ref": "05007001",
-          "end_ref_usfm": "DEU 7:1"
-        },
-        {
-          "start_ref": "09026006",
-          "start_ref_usfm": "1SA 26:6",
-          "end_ref": "09026006",
-          "end_ref_usfm": "1SA 26:6"
-        },
-        {
-          "start_ref": "11009020",
-          "start_ref_usfm": "1KI 9:20",
-          "end_ref": "11009020",
-          "end_ref_usfm": "1KI 9:20"
-        },
-        {
-          "start_ref": "13001013",
-          "start_ref_usfm": "1CH 1:13",
-          "end_ref": "13001013",
-          "end_ref_usfm": "1CH 1:13"
-        },
-        {
-          "start_ref": "01023001",
-          "start_ref_usfm": "GEN 23:1",
-          "end_ref": "01023020",
-          "end_ref_usfm": "GEN 23:20"
-        },
-        {
-          "start_ref": "05007001",
-          "start_ref_usfm": "DEU 7:1",
-          "end_ref": "05007002",
-          "end_ref_usfm": "DEU 7:2"
-        },
-        {
-          "start_ref": "01026034",
-          "start_ref_usfm": "GEN 26:34",
-          "end_ref": "01026035",
-          "end_ref_usfm": "GEN 26:35"
-        },
-        {
-          "start_ref": "10011001",
-          "start_ref_usfm": "2SA 11:1",
-          "end_ref": "10012031",
-          "end_ref_usfm": "2SA 12:31"
-        },
-        {
-          "start_ref": "11009020",
-          "start_ref_usfm": "1KI 9:20",
-          "end_ref": "11009021",
-          "end_ref_usfm": "1KI 9:21"
-        },
-        {
-          "start_ref": "01027046",
-          "start_ref_usfm": "GEN 27:46",
-          "end_ref": "01028002",
-          "end_ref_usfm": "GEN 28:2"
-        },
-        {
-          "start_ref": "10011002",
-          "start_ref_usfm": "2SA 11:2",
-          "end_ref": "10011027",
-          "end_ref_usfm": "2SA 11:27"
-        },
-        {
-          "start_ref": "11010029",
-          "start_ref_usfm": "1KI 10:29",
-          "end_ref": "11011001",
-          "end_ref_usfm": "1KI 11:1"
-        },
-        {
-          "start_ref": "01023003",
-          "start_ref_usfm": "GEN 23:3",
-          "end_ref": "01023020",
-          "end_ref_usfm": "GEN 23:20"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Heth",
-          "type": "person",
-          "preferred_label": "Mhiti",
-          "confidence": 0.5785,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "734360",
-    "reference_id": 203460,
-    "version": "1.0.2",
-    "title": "Wamedi na Waajemi",
-    "media_type": "Text",
-    "index_reference": "wamedi na waajemi",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<h3>Wamedi (takriban 850–549 Kabla ya Kristo (KK)</h3><p>Wamedi wa awali hawakuacha rekodi zilizoandikwa. Maandishi kutoka kwa Shalmanesa III wa Ashuru, ambaye alitawala kutoka 858 hadi 824 KK, yanataja kwamba Wamedi walikaa karibu na Akmetha, mji mkuu wao, kufikia katikati ya miaka ya 800 KK. Akmetha sasa inajulikana kama Hamadan, Iran. Wamedi walijulikana kwa ufugaji wa farasi, hivyo Shalmanesa alivamia ardhi yao ili kuiba farasi wengi wazuri. Wamedi walikuwa chini ya udhibiti wa Waashuru hadi mwishoni mwa miaka ya 600 KK, walipokuwa huru wakati Ashuru ilidhoofika.</p><h3>Waajemi (takriban 700–549 KK)</h3><p>Karibu mwaka wa 700 KK, Achaemenes alianzisha ufalme mdogo wa Kiajemi. Alitawala kutoka takriban 700 hadi 675 KK. Mwanawe, Teispes, alitawala kutoka 675 hadi 640 KK chini ya udhibiti wa Wamedi. Wamedi walikuwa wakikusanya nguvu ili kuwangusha Ashuru. Hata hivyo, matatizo kwa Wamedi baadaye yalimuweka huru Teispes kutoka kwa udhibiti wao. Cambyses, aliyeishi kutoka 600 hadi 559 KK, alikuwa mwana wa Koreshi I na mjukuu wa Teispes. Alioa binti wa mfalme wa Wamedi, Astyages. Mwana wao, Koreshi II, alitawala Uajemi kutoka 559 hadi 530 KK, kuanzia mwaka wa 559 KK.</p><h3>Ufalme wa Wamedi na Waajemi (549–331 KK)</h3><p>Koreshi II alimshinda babu yake, Astyages wa Umedi, mwaka wa 549 KK. Aliunda Akmetha huko Umedi kama mji mkuu wake na akaweka kumbukumbu zake huko (tazama <a href=\"https://ref.ly/Ezra6:1-Ezra6:5\">Ezra 6:1–5</a>). Akiwa na baba Mpersia na mama Mmedi, Koreshi II aliwakilisha muungano wa Umedi na Uajemi.</p><p>Koreshi alionyesha wema na ukarimu kwa maadui waliokuwa wameshindwa. Kama kiongozi wa kijeshi mwenye ujuzi, alivamia Asia Ndogo, akamshinda Croesus, mfalme wa Lidia, na kudhibiti miji ya Kigiriki katika eneo hilo. Mnamo 539 KK, aliteka Babuloni bila karibu upinzani wowote na akaruhusu watu waliohamishwa kurudi nyumbani kujenga upya mahekalu yao (tazama <a href=\"https://ref.ly/Ezra1:1-Ezra1:4\">Ezra 1:1–4</a>).</p><p>Mwana wa Koreshi, Cambyses II, aliteka Misri na kutawala kuanzia 529 hadi 522 KK. Hata hivyo, ufalme karibu ulisambaratika alipofanya kitendo cha kujiua. Dario I, mwana wa Hystaspes, ambaye alikuwa gavana wa Parthia, alimfuata Cambyses na kutawala kuanzia 521 hadi 486 KK. Dario alikuwa kiongozi mwenye nguvu na ufanisi. Alikomesha maasi ya ndani na kupanga upya ufalme katika majimbo ishirini.</p><p>Kila mkoa ulikuwa chini ya gavana, aliyeitwa satrap au &quot;mlinzi wa ufalme.&quot; Wakaguzi, waliokuwa wakijulikana kama &quot;masikio ya mfalme,&quot; walifuatilia vitendo vya satrap. Dario alihamishia mji mkuu wa Uajemi hadi Persepolis, ambapo hatimaye walijenga jumba kubwa la kifalme. Dario alifuata Zoroaster na kumwabudu Ahura Mazda, Mungu mkuu wa Zoroastrianism. Xerxes na Artashasta, ambao walikuja baada yake, pia walifuata imani hii.</p><p>Katika miaka ya baadaye ya utawala wa Dario, Wagiriki walimshinda katika Marathon mwaka wa 491 KK.</p><p>Mwana wa Dario, Khshayarsha, anayejulikana pia kama Xerxes kwa Kigiriki na Ahasuero kwa Kiebrania, alimrithi. Wakati wa utawala wa Xerxes kutoka 486 hadi 465 KK, Wagiriki walishinda meli ya Waajemi huko Salami mnamo 480 KK.</p><p>Watu wanamlaumu Dario III kwa kuanguka kwa ufalme kutokana na woga wake. Alitawala kuanzia 336 hadi 330 KK. Alexander Mkuu alishinda majeshi yake huko Issus mnamo 333 KK na hatimaye huko Gaugamela, karibu na Erbil ya kisasa (Arbela), mnamo 331 KK.</p><h3>Uajemi na Biblia</h3><p>Tajwa la kwanza la Uajemi katika historia ya Israeli linapatikana katika <a href=\"https://ref.ly/Isa44:28-Isa45:13\">Isaya 44:28–45:13</a>. Unabii huu ulitolewa kwa Isaya zaidi ya miaka 150 kabla ya Koreshi kuiteka Babuloni na kuruhusu Wayahudi waliokuwa uhamishoni kurudi Yerusalemu. Marejeo mengine ya kibiblia kuhusu Uajemi yanaonekana baadaye katika historia ya Agano la Kale, kama vile katika Ezra, Nehemia, na Esta, na katika maandiko ya manabii wakati na baada ya uhamisho, kama Danieli, Sefania, na Hagai. Maandiko yanaonyesha Uajemi kama mtawala mkali lakini kwa kiasi kikubwa mwema aliyeruhusu Wayahudi kujitawala na kuabudu kwa uhuru. Hata hivyo, jamii ya Yudea daima ilikumbuka kuwa walikuwa chini ya utawala wa kigeni.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Ezra4:5-Ezra4:7\">Ezra 4:5–7</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "15001001",
-          "start_ref_usfm": "EZR 1:1",
-          "end_ref": "15001004",
-          "end_ref_usfm": "EZR 1:4"
-        },
-        {
-          "start_ref": "15006001",
-          "start_ref_usfm": "EZR 6:1",
-          "end_ref": "15006005",
-          "end_ref_usfm": "EZR 6:5"
-        },
-        {
-          "start_ref": "23044028",
-          "start_ref_usfm": "ISA 44:28",
-          "end_ref": "23045013",
-          "end_ref_usfm": "ISA 45:13"
-        },
-        {
-          "start_ref": "15004005",
-          "start_ref_usfm": "EZR 4:5",
-          "end_ref": "15004007",
-          "end_ref_usfm": "EZR 4:7"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "734383",
-    "reference_id": 203483,
-    "version": "1.0.2",
-    "title": "Wanawake Wanaoitwa Maria",
-    "media_type": "Text",
-    "index_reference": "wanawake wanaoitwa maria",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p>Injili zinawataja Maria wengine wanne kando na mama wa Yesu:</p><ol><li><p><em>Maria Magdalene, </em>ambaye huenda alitoka Magdala huko Galilaya, alikombolewa kutoka kwa pepo wachafu na Yesu (<a href=\"https://ref.ly/Mark16:9\">Marko 16:9</a>). Alikuwa mfuasi mwaminifu na alisaidia Yesu na wanafunzi wake kifedha (<a href=\"https://ref.ly/Luke8:1-Luke8:3\">Luka 8:1–3</a>; tazama pia <a href=\"https://ref.ly/Matt27:55-Matt27:56\">Mathayo 27:55–56</a>; <a href=\"https://ref.ly/Mark15:40-Mark15:41\">Marko 15:40–41</a>). Alishuhudia kifo cha Yesu msalabani na mazishi yake (<a href=\"https://ref.ly/Matt27:55-Matt27:61\">Mathayo 27:55–61</a>; <a href=\"https://ref.ly/Mark15:40-Mark15:47\">Marko 15:40–47</a>; <a href=\"https://ref.ly/John19:25\">Yohana 19:25</a>; linganisha <a href=\"https://ref.ly/Luke23:49\">Luka 23:49</a>, <a href=\"https://ref.ly/Luke23:55-Luke23:56\">55–56</a>). Alienda kaburini mapema Jumapili asubuhi na manukato ya mazishi. Alikuwa miongoni mwa wa kwanza kusikia kwamba Yesu alikuwa amefufuka kutoka kwa wafu (<a href=\"https://ref.ly/Matt28:1-Matt28:8\">Mathayo 28:1–8</a>; <a href=\"https://ref.ly/Mark16:1-Mark16:8\">Marko 16:1–8</a>; <a href=\"https://ref.ly/Luke24:1-Luke24:11\">Luka 24:1–11</a>, <a href=\"https://ref.ly/Luke24:22-Luke24:24\">22–24</a>). Pia alikuwa wa kwanza kumwona Yesu aliyefufuka (<a href=\"https://ref.ly/Matt28:9-Matt28:10\">Mathayo 28:9–10</a>; <a href=\"https://ref.ly/Mark16:9-Mark16:11\">Marko 16:9–11</a>; <a href=\"https://ref.ly/John20:1-John20:2\">Yohana 20:1–2</a>, <a href=\"https://ref.ly/John20:11-John20:18\">11–18</a>).</p></li><li><p><em>Maria, mama wa Yakobo mdogo</em> (sio mtume) na Yosefu, alikuwa miongoni mwa wanawake waliokuwepo wakati wa kifo cha Yesu msalabani na mazishi yake (<a href=\"https://ref.ly/Matt27:55-Matt27:61\">Mathayo 27:55–61</a>; <a href=\"https://ref.ly/Mark15:40-Mark15:47\">Marko 15:40–47</a>; tazama pia <a href=\"https://ref.ly/Luke23:49\">Luka 23:49</a>, <a href=\"https://ref.ly/Luke23:55\">55</a>). Kama Maria Magdalene, alikuwa miongoni mwa wa kwanza kusikia kwamba Yesu alikuwa amefufuka kutoka kwa wafu (<a href=\"https://ref.ly/Matt28:1-Matt28:8\">Mathayo 28:1–8</a>; <a href=\"https://ref.ly/Mark16:1-Mark16:8\">Marko 16:1–8</a>; <a href=\"https://ref.ly/Luke24:1-Luke24:11\">Luka 24:1–11</a>). Alikuwa pia mmoja wa wa kwanza kumuona Yesu aliyefufuka (<a href=\"https://ref.ly/Matt28:9-Matt28:10\">Mathayo 28:9–10</a>).</p></li><li><p><em>Maria wa Bethania</em> alikuwa dada wa Martha na Lazaro. Yesu aliipenda sana familia yao (<a href=\"https://ref.ly/John11:5\">Yohana 11:5</a>). Yesu alimsifu Maria kwa hamu yake ya kujifunza kutoka kwake (<a href=\"https://ref.ly/Luke10:38-Luke10:42\">Luka 10:38–42</a>). Baada ya Yesu kumfufua kaka yake kutoka kwa wafu (<a href=\"https://ref.ly/John11:32-John11:45\">Yohana 11:32–45</a>), Maria alipaka miguu ya Yesu mafuta ya thamani kubwa. Yesu alimkinga alipokosolewa na wengine kwa kusema ilikuwa ni upotevu (<a href=\"https://ref.ly/John12:1-John12:11\">Yohana 12:1–11</a>; linganisha <a href=\"https://ref.ly/Matt26:6-Matt26:13\">Mathayo 26:6–13</a>; <a href=\"https://ref.ly/Mark14:3-Mark14:9\">Marko 14:3–9</a>).</p></li><li><p><em>Maria, mke wa Klopa,</em> alikuwa miongoni mwa wanawake waliokuwa wakimwangalia Yesu alipokufa msalabani (<a href=\"https://ref.ly/John19:25\">Yohana 19:25</a>). Agano Jipya halimtaji yeye wala Klopa sehemu nyingine yoyote.</p></li></ol><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt27:55-Matt27:61\">Mathayo 27:55–61</a>; <a href=\"https://ref.ly/Matt28:1\">28:1</a>; <a href=\"https://ref.ly/Mark15:40-Mark15:47\">Marko 15:40–47</a>; <a href=\"https://ref.ly/Mark16:1-Mark16:11\">16:1–11</a>; <a href=\"https://ref.ly/Luke8:2-Luke8:3\">Luka 8:2–3</a>; <a href=\"https://ref.ly/Luke10:38-Luke10:42\">10:38–42</a>; <a href=\"https://ref.ly/Luke24:1-Luke24:10\">24:1–10</a>; <a href=\"https://ref.ly/John11:1-John11:6\">Yohana 11:1–6</a>, <a href=\"https://ref.ly/John11:17-John11:24\">17–24</a>; <a href=\"https://ref.ly/John12:3-John12:8\">12:3–8</a>; <a href=\"https://ref.ly/John19:25\">19:25</a>; <a href=\"https://ref.ly/John20:1-John20:2\">20:1–2</a>, <a href=\"https://ref.ly/John20:11-John20:18\">11–18</a>; <a href=\"https://ref.ly/Acts12:12\">Matendo 12:12</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "40028001",
-          "start_ref_usfm": "MAT 28:1",
-          "end_ref": "40028001",
-          "end_ref_usfm": "MAT 28:1"
-        },
-        {
-          "start_ref": "41016009",
-          "start_ref_usfm": "MRK 16:9",
-          "end_ref": "41016009",
-          "end_ref_usfm": "MRK 16:9"
-        },
-        {
-          "start_ref": "42023049",
-          "start_ref_usfm": "LUK 23:49",
-          "end_ref": "42023049",
-          "end_ref_usfm": "LUK 23:49"
-        },
-        {
-          "start_ref": "42023055",
-          "start_ref_usfm": "LUK 23:55",
-          "end_ref": "42023055",
-          "end_ref_usfm": "LUK 23:55"
-        },
-        {
-          "start_ref": "43011005",
-          "start_ref_usfm": "JHN 11:5",
-          "end_ref": "43011005",
-          "end_ref_usfm": "JHN 11:5"
-        },
-        {
-          "start_ref": "43019025",
-          "start_ref_usfm": "JHN 19:25",
-          "end_ref": "43019025",
-          "end_ref_usfm": "JHN 19:25"
-        },
-        {
-          "start_ref": "44012012",
-          "start_ref_usfm": "ACT 12:12",
-          "end_ref": "44012012",
-          "end_ref_usfm": "ACT 12:12"
-        },
-        {
-          "start_ref": "41015040",
-          "start_ref_usfm": "MRK 15:40",
-          "end_ref": "41015047",
-          "end_ref_usfm": "MRK 15:47"
-        },
-        {
-          "start_ref": "41016001",
-          "start_ref_usfm": "MRK 16:1",
-          "end_ref": "41016008",
-          "end_ref_usfm": "MRK 16:8"
-        },
-        {
-          "start_ref": "40026006",
-          "start_ref_usfm": "MAT 26:6",
-          "end_ref": "40026013",
-          "end_ref_usfm": "MAT 26:13"
-        },
-        {
-          "start_ref": "41014003",
-          "start_ref_usfm": "MRK 14:3",
-          "end_ref": "41014009",
-          "end_ref_usfm": "MRK 14:9"
-        },
-        {
-          "start_ref": "40027055",
-          "start_ref_usfm": "MAT 27:55",
-          "end_ref": "40027056",
-          "end_ref_usfm": "MAT 27:56"
-        },
-        {
-          "start_ref": "42008002",
-          "start_ref_usfm": "LUK 8:2",
-          "end_ref": "42008003",
-          "end_ref_usfm": "LUK 8:3"
-        },
-        {
-          "start_ref": "43020011",
-          "start_ref_usfm": "JHN 20:11",
-          "end_ref": "43020018",
-          "end_ref_usfm": "JHN 20:18"
-        },
-        {
-          "start_ref": "42010038",
-          "start_ref_usfm": "LUK 10:38",
-          "end_ref": "42010042",
-          "end_ref_usfm": "LUK 10:42"
-        },
-        {
-          "start_ref": "43012001",
-          "start_ref_usfm": "JHN 12:1",
-          "end_ref": "43012011",
-          "end_ref_usfm": "JHN 12:11"
-        },
-        {
-          "start_ref": "43020001",
-          "start_ref_usfm": "JHN 20:1",
-          "end_ref": "43020002",
-          "end_ref_usfm": "JHN 20:2"
-        },
-        {
-          "start_ref": "42023055",
-          "start_ref_usfm": "LUK 23:55",
-          "end_ref": "42023056",
-          "end_ref_usfm": "LUK 23:56"
-        },
-        {
-          "start_ref": "41015040",
-          "start_ref_usfm": "MRK 15:40",
-          "end_ref": "41015041",
-          "end_ref_usfm": "MRK 15:41"
-        },
-        {
-          "start_ref": "42008001",
-          "start_ref_usfm": "LUK 8:1",
-          "end_ref": "42008003",
-          "end_ref_usfm": "LUK 8:3"
-        },
-        {
-          "start_ref": "41016001",
-          "start_ref_usfm": "MRK 16:1",
-          "end_ref": "41016011",
-          "end_ref_usfm": "MRK 16:11"
-        },
-        {
-          "start_ref": "40028001",
-          "start_ref_usfm": "MAT 28:1",
-          "end_ref": "40028008",
-          "end_ref_usfm": "MAT 28:8"
-        },
-        {
-          "start_ref": "40027055",
-          "start_ref_usfm": "MAT 27:55",
-          "end_ref": "40027061",
-          "end_ref_usfm": "MAT 27:61"
-        },
-        {
-          "start_ref": "42024001",
-          "start_ref_usfm": "LUK 24:1",
-          "end_ref": "42024011",
-          "end_ref_usfm": "LUK 24:11"
-        },
-        {
-          "start_ref": "42024022",
-          "start_ref_usfm": "LUK 24:22",
-          "end_ref": "42024024",
-          "end_ref_usfm": "LUK 24:24"
-        },
-        {
-          "start_ref": "40028009",
-          "start_ref_usfm": "MAT 28:9",
-          "end_ref": "40028010",
-          "end_ref_usfm": "MAT 28:10"
-        },
-        {
-          "start_ref": "41016009",
-          "start_ref_usfm": "MRK 16:9",
-          "end_ref": "41016011",
-          "end_ref_usfm": "MRK 16:11"
-        },
-        {
-          "start_ref": "43011032",
-          "start_ref_usfm": "JHN 11:32",
-          "end_ref": "43011045",
-          "end_ref_usfm": "JHN 11:45"
-        },
-        {
-          "start_ref": "42024001",
-          "start_ref_usfm": "LUK 24:1",
-          "end_ref": "42024010",
-          "end_ref_usfm": "LUK 24:10"
-        },
-        {
-          "start_ref": "43011001",
-          "start_ref_usfm": "JHN 11:1",
-          "end_ref": "43011006",
-          "end_ref_usfm": "JHN 11:6"
-        },
-        {
-          "start_ref": "43011017",
-          "start_ref_usfm": "JHN 11:17",
-          "end_ref": "43011024",
-          "end_ref_usfm": "JHN 11:24"
-        },
-        {
-          "start_ref": "43012003",
-          "start_ref_usfm": "JHN 12:3",
-          "end_ref": "43012008",
-          "end_ref_usfm": "JHN 12:8"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "734392",
-    "reference_id": 203492,
-    "version": "1.0.2",
-    "title": "Wasamaria",
-    "media_type": "Text",
-    "index_reference": "wasamaria",
-    "language": "swh",
-    "review_level": "None",
-    "content": "<p>Samaria ilikuwa eneo kaskazini mwa Yudea, likiwa katikati ya mji wa kale wa Shekemu, ambao unaitwa Sikari katika Agano Jipya. Baada ya ushindi wa Israeli mbamo mwaka wa 722 Kabla ya Kristo (KK), miji ya Samaria na Shekemu iliharibiwa. Watu kutoka sehemu mbalimbali za ufalme wa Ashuru walijaza tena eneo hilo (<a href=\"https://ref.ly/2Kgs17:21-2Kgs17:41\">2 Wafalme 17:21–41</a>). Wakazi hawa wapya walileta desturi nyingi za kipagani, na kufanya uchafu wa kidini wa ardhi hiyo kujulikana sana. Kwa muda, imani ya Kiyahudi katika Mungu mmoja ikawa imani kuu, lakini baadhi ya mambo kuhusu jinsi watu walivyotekeleza imani yao yalibadilika. Wasamaria walikubali tu Pentateuki (vitabu vitano vya kwanza vya Agano la Kale) kama Maandiko. Pia waliabudu katika hekalu jipya kwenye Mlima Gerizimu juu ya Shekemu.</p><p>Wasamaria na Wayahudi walikuwa na historia ndefu ya migogoro, iliyoanza baada ya Wayahudi kurudi kutoka uhamishoni (tazama <a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">Ezra 4:1–5</a>; <a href=\"https://ref.ly/Neh4:1-Neh4:23\">Nehemia 4:1–23</a>). Alexander Mkuu na baadaye majenerali wa Kigiriki walifanya Shekemu kuwa kituo muhimu kwa sababu walipata washirika wa kupinga Wayahudi huko. Mbamo 128 KK, Wayahudi waliharibu Shekemu na kuchoma hekalu la Wasamaria kwenye Mlima Gerizimu. Mbamo mwaka wa 6 Baada ya Kristo (BK) hadi 9, Wasamaria walijaribu kurudisha heshima kwa kudhalilisha hekalu la Yerusalemu kwa kutawanya mifupa ya binadamu kutoka kwenye makaburi wakati wa Pasaka. Kufikia wakati wa Yesu, mvutano kati ya Yudea na Samaria ulikuwa bado mkali.</p><p>Wakati wa Yesu, Wayahudi waliepuka kusafiri kupitia Samaria kwa sababu waliwaona watu wake kama wenye uhasama na wasio safi. Yesu alipokuwa akisafiri kupitia Samaria na kukutana na mwanamke Msamaria, mvutano wa uhusiano huu ulikuwa dhahiri. Mtu anayeishi katika karne ya kwanza hangetarajia Yesu na mwanamke huyo kutambuana, achilia mbali kuzungumza. Hata hivyo, Yesu alivuka mipaka ya utambulisho wake wa kikabila na kumwalika hata mwanamke Msamaria mwenye sifa mbaya kuamini.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/2Kgs17:21-2Kgs17:41\">2 Wafalme 17:21–41</a>; <a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">Ezra 4:1–5</a>; <a href=\"https://ref.ly/Neh4:1-Neh4:23\">Nehemia 4:1–23</a>; <a href=\"https://ref.ly/John4:1-John4:42\">Yohana 4:1–42</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "15004001",
-          "start_ref_usfm": "EZR 4:1",
-          "end_ref": "15004005",
-          "end_ref_usfm": "EZR 4:5"
-        },
-        {
-          "start_ref": "43004001",
-          "start_ref_usfm": "JHN 4:1",
-          "end_ref": "43004042",
-          "end_ref_usfm": "JHN 4:42"
-        },
-        {
-          "start_ref": "16004001",
-          "start_ref_usfm": "NEH 4:1",
-          "end_ref": "16004023",
-          "end_ref_usfm": "NEH 4:23"
-        },
-        {
-          "start_ref": "12017021",
-          "start_ref_usfm": "2KI 17:21",
-          "end_ref": "12017041",
-          "end_ref_usfm": "2KI 17:41"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "group:Samaritan",
-          "type": "group",
-          "preferred_label": "Samaritans",
-          "confidence": 0.5636,
-          "match_method": "scored"
-        }
-      ]
-    }
-  }
+{
+"content_id": "734331",
+"reference_id": 203431,
+"version": "1.0.2",
+"title": "Waamaleki",
+"media_type": "Text",
+"index_reference": "waamaleki",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Waamaleki walikuwa wazao wa Amaleki, mjukuu wa Esau (<a href=\"https://ref.ly/Gen36:12\">Mwanzo 36:12</a>; <a href=\"https://ref.ly/1Chr1:36\">1 Mambo ya Nyakati 1:36</a>). Walikuwa wachungaji wa kuhamahama. Eneo lao katika Negebu lilienea kutoka kusini mwa Beer-Sheba kuelekea kusini mashariki, kufikia Elathi na Esion-geberi. Inawezekana walivamia magharibi katika tambarare za pwani, mashariki katika jangwa la Arabah, na pengine katika maeneo ya Waarabu.</p><p>Waamaleki walikuwa maadui wakubwa wa Israeli. Israeli walikutana kwanza na wapiganaji wa Waamaleki huko Refidimu karibu na Sinai walipowashambulia Israeli (<a href=\"https://ref.ly/Exod17:8-Exod17:16\">Kutoka 17:8–16</a>). Yoshua na jeshi la Israeli waliwashinda Waamaleki katika vita hivi. Baadaye, Waamaleki walizuia jaribio la Israeli la kuingia nchi ya ahadi bila idhini (<a href=\"https://ref.ly/Num14:39-Num14:45\">Hesabu 14:39–45</a>). </p><p>Kutokana na uadui wao, Mose aliwaagiza Waisraeli kuwaangamiza (<a href=\"https://ref.ly/Deut25:17-Deut25:19\">Kumbukumbu la Torati 25:17–19</a>). Hata hivyo, Waamaleki waliendelea kuishi katika Negebu (tazama <a href=\"https://ref.ly/Judg3:12-Judg3:14\">Waamuzi 3:12–14</a>; <a href=\"https://ref.ly/Judg6:33\">6:33</a>; <a href=\"https://ref.ly/1Sam14:47-1Sam14:48\">1 Samweli 14:47–48</a>; <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">15:1–35</a>). Waliosalia walibaki kuwa maadui wa Israeli (<a href=\"https://ref.ly/1Sam27:8\">1 Samweli 27:8</a>; <a href=\"https://ref.ly/1Sam30:1-1Sam30:20\">30:1–20</a>; <a href=\"https://ref.ly/2Sam8:11-2Sam8:12\">2 Samweli 8:11–12</a>; <a href=\"https://ref.ly/Ps83:1-Ps83:8\">Zaburi 83:1–8</a>). Kundi hili lililosalia hatimaye liliangamizwa wakati wa utawala wa Mfalme Hezekia (<a href=\"https://ref.ly/1Chr4:42-1Chr4:43\">1 Mambo ya Nyakati 4:42–43</a>). Katika kitabu cha Esta, Hamani, mzao wa Mfalme Agagi, alionyesha uadui wao hadi mwisho (<a href=\"https://ref.ly/Esth3:1-Esth3:15\">Esta 3</a>; tazama <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">1 Samweli 15</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/1Sam30:1-1Sam30:31\">1 Samweli 30:1–31</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01036012",
+"start_ref_usfm": "GEN 36:12",
+"end_ref": "01036012",
+"end_ref_usfm": "GEN 36:12"
+},
+{
+"start_ref": "07006033",
+"start_ref_usfm": "JDG 6:33",
+"end_ref": "07006033",
+"end_ref_usfm": "JDG 6:33"
+},
+{
+"start_ref": "09027008",
+"start_ref_usfm": "1SA 27:8",
+"end_ref": "09027008",
+"end_ref_usfm": "1SA 27:8"
+},
+{
+"start_ref": "13001036",
+"start_ref_usfm": "1CH 1:36",
+"end_ref": "13001036",
+"end_ref_usfm": "1CH 1:36"
+},
+{
+"start_ref": "02017008",
+"start_ref_usfm": "EXO 17:8",
+"end_ref": "02017016",
+"end_ref_usfm": "EXO 17:16"
+},
+{
+"start_ref": "09015001",
+"start_ref_usfm": "1SA 15:1",
+"end_ref": "09015035",
+"end_ref_usfm": "1SA 15:35"
+},
+{
+"start_ref": "04014039",
+"start_ref_usfm": "NUM 14:39",
+"end_ref": "04014045",
+"end_ref_usfm": "NUM 14:45"
+},
+{
+"start_ref": "05025017",
+"start_ref_usfm": "DEU 25:17",
+"end_ref": "05025019",
+"end_ref_usfm": "DEU 25:19"
+},
+{
+"start_ref": "07003012",
+"start_ref_usfm": "JDG 3:12",
+"end_ref": "07003014",
+"end_ref_usfm": "JDG 3:14"
+},
+{
+"start_ref": "09014047",
+"start_ref_usfm": "1SA 14:47",
+"end_ref": "09014048",
+"end_ref_usfm": "1SA 14:48"
+},
+{
+"start_ref": "09030001",
+"start_ref_usfm": "1SA 30:1",
+"end_ref": "09030020",
+"end_ref_usfm": "1SA 30:20"
+},
+{
+"start_ref": "10008011",
+"start_ref_usfm": "2SA 8:11",
+"end_ref": "10008012",
+"end_ref_usfm": "2SA 8:12"
+},
+{
+"start_ref": "17003001",
+"start_ref_usfm": "EST 3:1",
+"end_ref": "17003015",
+"end_ref_usfm": "EST 3:15"
+},
+{
+"start_ref": "09030001",
+"start_ref_usfm": "1SA 30:1",
+"end_ref": "09030031",
+"end_ref_usfm": "1SA 30:31"
+},
+{
+"start_ref": "13004042",
+"start_ref_usfm": "1CH 4:42",
+"end_ref": "13004043",
+"end_ref_usfm": "1CH 4:43"
+},
+{
+"start_ref": "19083001",
+"start_ref_usfm": "PSA 83:1",
+"end_ref": "19083008",
+"end_ref_usfm": "PSA 83:8"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "734346",
+"reference_id": 203446,
+"version": "1.0.2",
+"title": "Waaramu",
+"media_type": "Text",
+"index_reference": "waaramu",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Waaramu walikuwa sehemu ya familia ya watu waliotokana na mwana wa Noa, Shemu (<a href=\"https://ref.ly/Gen10:22-Gen10:23\">Mwanzo 10:22–23</a>; linganisha <a href=\"https://ref.ly/Gen22:20-Gen22:21\">Mwanzo 22:20–21</a>). Bethueli na Labani walijulikana kama Waaramu (<a href=\"https://ref.ly/Gen25:20\">Mwanzo 25:20</a>; <a href=\"https://ref.ly/Gen28:1-Gen28:7\">28:1–7</a>). Yakobo aliishi nao katika eneo la Waaramu kwa takriban miaka ishirini (<a href=\"https://ref.ly/Gen28:1-Gen31:55\">Mwanzo 28–31</a>; <a href=\"https://ref.ly/Hos12:12\">Hosea 12:12</a>), na watu wa Israeli walikumbuka kwamba mababu zao walikuwa kitamaduni Waaramu (<a href=\"https://ref.ly/Deut26:5\">Kumbukumbu la Torati 26:5</a>).</p><p>Waaramu walijitokeza katika historia wakati wa Abrahamu. Waliishi karibu na katikati ya Eufrati na walienea mashariki, magharibi, na kaskazini. Kufikia karibu mwaka 1100 Kabla ya Krsito (KK), makabila ya Waaramu yalikuwa yameenea kote Siria na kaskazini mwa Transyordani (ardhi ya mashariki ya Mto wa Yordani). Walianzisha miji mikuu yenye nguvu kama Soba na Dameski, ambayo ilikabiliana na Waisraeli kuanzia wakati wa Daudi (tazama <a href=\"https://ref.ly/2Sam8:3-2Sam8:8\">2 Samweli 8:3–8</a>; <a href=\"https://ref.ly/2Sam10:6-2Sam10:19\">10:6–19</a>).</p><p>Baada ya Solomoni kufa, Israeli iligawanyika katika falme za kaskazini na kusini. Wakati huu, mji wa Waaramu wa Dameski ulikuwa na nguvu sana. Watawala wa Dameski mara nyingi walitumia fursa ya mapigano kati ya falme mbili za Israeli. Wakati wa vita kati ya Israeli na Yuda kutoka 890 hadi 880 KK, Mfalme Asa wa Israeli alimuomba Ben-Hadadi I wa Dameski msaada (<a href=\"https://ref.ly/1Kgs15:18-1Kgs15:19\">1 Wafalme 15:18–19</a>).</p><p>Takriban miaka thelathini baadaye, mwanzoni mwa miaka ya 850 KK, -hadadi alivamia Israeli, lakini Ahabu alimshinda huko Samaria (<a href=\"https://ref.ly/1Kgs20:1-1Kgs20:21\">1 Wafalme 20:1–21</a>) na tena huko Afeki mwaka uliofuata (<a href=\"https://ref.ly/1Kgs20:22-1Kgs20:34\">20:22–34</a>). Baada ya miaka mitatu ya amani, Israeli na Dameski walipigana tena mwaka 853 KK, na Ahabu aliuawa vitani (<a href=\"https://ref.ly/1Kgs22:29-1Kgs22:37\">1 Wafalme 22:29–37</a>). Aramu wa Dameski aliendelea kusababisha hasara kwa Israeli katika miongo iliyofuata (tazama <a href=\"https://ref.ly/2Kgs8:28-2Kgs8:29\">2 Wafalme 8:28–29</a>; <a href=\"https://ref.ly/2Kgs12:17-2Kgs12:18\">12:17–18</a>; <a href=\"https://ref.ly/2Kgs13:1-2Kgs13:7\">13:1–7</a>).</p><p>Katika kipindi hiki, miji huru ya Waaramu ilianza kuhisi shinikizo kutoka kwa Ashuru. Ashuru ilishinda Dameski kwanza karibu mwaka wa 838 KK na kuilazimisha kulipa kodi mwaka wa 803 KK. Hii ilidhoofisha Dameski, ikimruhusu Yehoashi, mfalme wa Israeli kutoka 798 hadi 782 KK, kuwashinda Waaramu na kuwafukuza kutoka katika eneo la Israeli karibu mwaka wa 795 KK (<a href=\"https://ref.ly/2Kgs13:14-2Kgs13:25\">2 Wafalme 13:14–25</a>). Baadaye, Yeroboamu wa Pili, ambaye alitawala kutoka 793 hadi 753 KK, alilazimisha Dameski kulipa kodi (tazama <a href=\"https://ref.ly/2Kgs14:28\">2 Wafalme 14:28</a>).</p><p>Karibu mwaka wa 738 KK, Waaramu wa Dameski waliungana na Israeli kushinda Yuda. Waliteka ardhi nyingi, lakini kuzingira kwao Yerusalemu hakukufaulu (<a href=\"https://ref.ly/2Kgs16:5\">2 Wafalme 16:5</a>; tazama pia <a href=\"https://ref.ly/2Chr28:5\">2 Mambo ya Nyakati 28:5</a>). Wakati wa mafanikio haya ya Dameski, manabii Isaya na Amosi walitabiri uharibifu wa mji huo (<a href=\"https://ref.ly/Isa8:4\">Isaya 8:4</a>; <a href=\"https://ref.ly/Isa17:1\">17:1</a>; <a href=\"https://ref.ly/Amos1:3-Amos1:5\">Amosi 1:3–5</a>). Badala ya kumtumaini Mungu, Mfalme Ahazi wa Yuda alitafuta ulinzi kutoka kwa Waashuri. Waashuri walijibu zawadi zake kwa kushambulia Dameski na kuwafukuza watu wake mwaka wa 733 na 732 KK (<a href=\"https://ref.ly/2Kgs16:7-2Kgs16:11\">2 Wafalme 16:7–11</a>). Dameski ilikoma kuwa mji huru wa kisiasa.</p><p>Lugha ya Waaramu, Kiaramu, ikawa lugha kuu ya diplomasia na utawala katika eneo la Mashariki ya Karibu (tazama, kwa mfano, <a href=\"https://ref.ly/2Kgs18:26\">2 Wafalme 18:26</a>). Wakati wa uhamisho huko Babuloni, Wayahudi walianza kutumia Kiaramu; sehemu za Ezra na Danieli ziko katika Kiaramu. Kiaramu kilikuwa lugha ya kawaida kutoka Misri hadi India wakati wa kipindi cha Uajemi na kilizungumzwa sana katika Palestina wakati wa Yesu (tazama <a href=\"https://ref.ly/Mark5:41\">Marko 5:41</a>; <a href=\"https://ref.ly/1Cor16:22\">1 Wakorintho 16:22</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen10:22-Gen10:23\">Mwanzo 10:22–23</a>; <a href=\"https://ref.ly/Gen22:20-Gen22:21\">22:20–21</a>; <a href=\"https://ref.ly/Gen25:20\">25:20</a>; <a href=\"https://ref.ly/Gen28:1-Gen28:7\">28:1–7</a>; <a href=\"https://ref.ly/Deut26:5\">Kumbukumbu la Torati 26:5</a>; <a href=\"https://ref.ly/2Sam8:3-2Sam8:4\">2 Samweli 8:3–4</a>; <a href=\"https://ref.ly/2Sam10:17-2Sam10:19\">10:17–19</a>; <a href=\"https://ref.ly/1Kgs15:18\">1 Wafalme 15:18</a>; <a href=\"https://ref.ly/1Kgs20:1-1Kgs20:34\">1 Wafalme 20:1–34</a>; <a href=\"https://ref.ly/1Kgs22:29-1Kgs22:37\">22:29–37</a>; <a href=\"https://ref.ly/2Kgs13:25\">2 Wafalme 13:25</a>; <a href=\"https://ref.ly/2Kgs16:9-2Kgs16:13\">16:9–13</a>; <a href=\"https://ref.ly/2Kgs17:24-2Kgs17:34\">17:24–34</a>; <a href=\"https://ref.ly/Hos12:12\">Hosea 12:12</a>; <a href=\"https://ref.ly/Amos1:5\">Amosi 1:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01025020",
+"start_ref_usfm": "GEN 25:20",
+"end_ref": "01025020",
+"end_ref_usfm": "GEN 25:20"
+},
+{
+"start_ref": "05026005",
+"start_ref_usfm": "DEU 26:5",
+"end_ref": "05026005",
+"end_ref_usfm": "DEU 26:5"
+},
+{
+"start_ref": "11015018",
+"start_ref_usfm": "1KI 15:18",
+"end_ref": "11015018",
+"end_ref_usfm": "1KI 15:18"
+},
+{
+"start_ref": "12013025",
+"start_ref_usfm": "2KI 13:25",
+"end_ref": "12013025",
+"end_ref_usfm": "2KI 13:25"
+},
+{
+"start_ref": "12014028",
+"start_ref_usfm": "2KI 14:28",
+"end_ref": "12014028",
+"end_ref_usfm": "2KI 14:28"
+},
+{
+"start_ref": "12016005",
+"start_ref_usfm": "2KI 16:5",
+"end_ref": "12016005",
+"end_ref_usfm": "2KI 16:5"
+},
+{
+"start_ref": "12018026",
+"start_ref_usfm": "2KI 18:26",
+"end_ref": "12018026",
+"end_ref_usfm": "2KI 18:26"
+},
+{
+"start_ref": "14028005",
+"start_ref_usfm": "2CH 28:5",
+"end_ref": "14028005",
+"end_ref_usfm": "2CH 28:5"
+},
+{
+"start_ref": "23008004",
+"start_ref_usfm": "ISA 8:4",
+"end_ref": "23008004",
+"end_ref_usfm": "ISA 8:4"
+},
+{
+"start_ref": "23017001",
+"start_ref_usfm": "ISA 17:1",
+"end_ref": "23017001",
+"end_ref_usfm": "ISA 17:1"
+},
+{
+"start_ref": "28012012",
+"start_ref_usfm": "HOS 12:12",
+"end_ref": "28012012",
+"end_ref_usfm": "HOS 12:12"
+},
+{
+"start_ref": "30001005",
+"start_ref_usfm": "AMO 1:5",
+"end_ref": "30001005",
+"end_ref_usfm": "AMO 1:5"
+},
+{
+"start_ref": "41005041",
+"start_ref_usfm": "MRK 5:41",
+"end_ref": "41005041",
+"end_ref_usfm": "MRK 5:41"
+},
+{
+"start_ref": "46016022",
+"start_ref_usfm": "1CO 16:22",
+"end_ref": "46016022",
+"end_ref_usfm": "1CO 16:22"
+},
+{
+"start_ref": "01010022",
+"start_ref_usfm": "GEN 10:22",
+"end_ref": "01010023",
+"end_ref_usfm": "GEN 10:23"
+},
+{
+"start_ref": "11015018",
+"start_ref_usfm": "1KI 15:18",
+"end_ref": "11015019",
+"end_ref_usfm": "1KI 15:19"
+},
+{
+"start_ref": "12012017",
+"start_ref_usfm": "2KI 12:17",
+"end_ref": "12012018",
+"end_ref_usfm": "2KI 12:18"
+},
+{
+"start_ref": "30001003",
+"start_ref_usfm": "AMO 1:3",
+"end_ref": "30001005",
+"end_ref_usfm": "AMO 1:5"
+},
+{
+"start_ref": "11020001",
+"start_ref_usfm": "1KI 20:1",
+"end_ref": "11020034",
+"end_ref_usfm": "1KI 20:34"
+},
+{
+"start_ref": "12013001",
+"start_ref_usfm": "2KI 13:1",
+"end_ref": "12013007",
+"end_ref_usfm": "2KI 13:7"
+},
+{
+"start_ref": "12013014",
+"start_ref_usfm": "2KI 13:14",
+"end_ref": "12013025",
+"end_ref_usfm": "2KI 13:25"
+},
+{
+"start_ref": "01022020",
+"start_ref_usfm": "GEN 22:20",
+"end_ref": "01022021",
+"end_ref_usfm": "GEN 22:21"
+},
+{
+"start_ref": "01028001",
+"start_ref_usfm": "GEN 28:1",
+"end_ref": "01028007",
+"end_ref_usfm": "GEN 28:7"
+},
+{
+"start_ref": "10008003",
+"start_ref_usfm": "2SA 8:3",
+"end_ref": "10008004",
+"end_ref_usfm": "2SA 8:4"
+},
+{
+"start_ref": "10010017",
+"start_ref_usfm": "2SA 10:17",
+"end_ref": "10010019",
+"end_ref_usfm": "2SA 10:19"
+},
+{
+"start_ref": "11022029",
+"start_ref_usfm": "1KI 22:29",
+"end_ref": "11022037",
+"end_ref_usfm": "1KI 22:37"
+},
+{
+"start_ref": "12017024",
+"start_ref_usfm": "2KI 17:24",
+"end_ref": "12017034",
+"end_ref_usfm": "2KI 17:34"
+},
+{
+"start_ref": "12008028",
+"start_ref_usfm": "2KI 8:28",
+"end_ref": "12008029",
+"end_ref_usfm": "2KI 8:29"
+},
+{
+"start_ref": "01028001",
+"start_ref_usfm": "GEN 28:1",
+"end_ref": "01031055",
+"end_ref_usfm": "GEN 31:55"
+},
+{
+"start_ref": "10008003",
+"start_ref_usfm": "2SA 8:3",
+"end_ref": "10008008",
+"end_ref_usfm": "2SA 8:8"
+},
+{
+"start_ref": "10010006",
+"start_ref_usfm": "2SA 10:6",
+"end_ref": "10010019",
+"end_ref_usfm": "2SA 10:19"
+},
+{
+"start_ref": "11020001",
+"start_ref_usfm": "1KI 20:1",
+"end_ref": "11020021",
+"end_ref_usfm": "1KI 20:21"
+},
+{
+"start_ref": "11020022",
+"start_ref_usfm": "1KI 20:22",
+"end_ref": "11020034",
+"end_ref_usfm": "1KI 20:34"
+},
+{
+"start_ref": "12016007",
+"start_ref_usfm": "2KI 16:7",
+"end_ref": "12016011",
+"end_ref_usfm": "2KI 16:11"
+},
+{
+"start_ref": "12016009",
+"start_ref_usfm": "2KI 16:9",
+"end_ref": "12016013",
+"end_ref_usfm": "2KI 16:13"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "734416",
+"reference_id": 203516,
+"version": "1.0.2",
+"title": "Wafalme wa Kirumi",
+"media_type": "Text",
+"index_reference": "wafalme wa kirumi",
+"language": "swh",
+"review_level": "None",
+"content": "<ol><li><p><em>Augusto </em>(Octavian) alitawala kutoka mwaka wa 27 Kabla ya Kristo (KK) hadi 14 Baada ya Kristo (BK). Alikuwa mfalme wa kwanza wa Kirumi baada ya kumshinda Marko Antony katika Vita vya Actium mbamo mwaka 31 KK. Alitawala kwa busara na alisimamia ufalme vizuri. Alipokea jina la &quot;Augusto&quot; mwaka 27 KK, akianzisha desturi ya kumwabudu mfalme.</p><p><em>Tazama </em><a href=\"https://ref.ly/Luke2:1\"><em>Luka 2:1</em></a>.</p></li><li><p><em>Tiberio </em>alitawala kuanzia mwaka wa 14 BK hadi 37. Alikuwa mwana wa kambo wa Augusto. Augusto alimchagua Tiberio kuwa mfalme baada yake. Tiberio alikuwa mtawala mwenye busara na mnyenyekevu, na alimteua Pontio Pilato kuwa gavana wa Yudea.</p><p><em>Tazama </em><a href=\"https://ref.ly/Luke3:1\"><em>Luka 3:1</em></a><em>; </em><a href=\"https://ref.ly/John19:12\"><em>Yohana 19:12</em></a>.</p></li><li><p>(Gayo) <em>Caligula</em> alitawala kuanzia mwaka wa 37 BK hadi 41. Alikuwa mwana wa jenerali wa Augusto, Germanicus. Alipata jina la utani Caligula, linalomaanisha &quot;Kiatu Kidogo,&quot; kutokana na mavazi yake ya kijeshi. Alipoteza uwezo wake wa kufikiri kwa uwazi, alitumia pesa zote za ufalme kwa upotevu, alitawala kwa ukatili juu ya watu wake, na hatimaye aliuawa na maadui zake.</p></li><li><p><em>Klaudio</em> alitawala kuanzia mwaka wa 41 BK hadi 54. Alikuwa mpwa wa Tiberio. Aliteuliwa kuwa mfalme baada ya walinzi wa kifalme (Praetorian Guard) kumchagua kufuatia kifo cha Caligula. Alikuwa rafiki wa Herode Agripa I. Klaudio alisitisha mateso ya Wayahudi huko Aleksandria, lakini baadaye aliwafukuza Wayahudi kutoka Rumi karibu mwaka wa 49 BK. Alimuoa mama yake Nero, Agrippina, ambaye alimuua kwa sumu.</p><p><em>Tazama </em><a href=\"https://ref.ly/Acts18:2\"><em>Matendo 18:2</em></a>. </p></li><li><p><em>Nero</em> alitawala kuanzia mwaka wa 54 BK hadi 68. Alimrithi Klaudio na kuwa mfalme baada ya kifo chake. Alitumia muda mwingi kwa ajili ya starehe zake binafsi. Paulo alimwomba, akiwafundisha Wakristo wa Kirumi kumtii Nero. Baadaye, Nero alimuua mke wake na mama yake. Alikuwa wa kwanza kuwatesa Wakristo.</p><p><em>Tazama </em><a href=\"https://ref.ly/Acts25:11\"><em>Matendo 25:11</em></a><em>; </em><a href=\"https://ref.ly/Rom13:1-Rom13:7\"><em>Warumi 13:1–7</em></a>.</p></li><li><p><em>Vespasian</em> alitawala kuanzia mwaka wa 69 BK hadi 79. Alikuwa jenerali aliyefanikiwa na mwana wa mtoza ushuru. Alianzisha Vita vya Kiyahudi kwa kuvamia Galilaya mwaka wa 67 BK. Kama mfalme, aliboresha fedha za Rumi, alipanga upya majeshi, na alijulikana kwa haki yake. Pia alianza ujenzi wa Colosseum. Alifariki kutokana na ugonjwa.</p></li><li><p><em>Tito</em> alitawala kuanzia mwaka wa 79 BK hadi 81. Alikuwa mwana wa Vespasian. Alihitimisha Vita vya Kiyahudi kwa kuharibu Yerusalemu mbamo mwaka wa 70 BK. Kama mfalme, alikamilisha Colosseum na kutoa msaada wa maafa baada ya Mlima Vesuvius kulipuka mbamo mwaka wa 79BK na moto kutokea Roma mbamo mwaka wa 80 BK. Alifariki kutokana na homa.</p></li><li><p><em>Domitian</em> alitawala kuanzia mwaka wa 81 BK hadi 96. Alikuwa mwana mdogo wa Vespasian. Alikuwa akifunikwa na kaka yake Tito na alitamani mamlaka. Kama mfalme, alikuwa msimamizi mwenye uwezo. Alijenga upya maeneo yaliyoharibiwa ya Rumi na kujitangaza kuwa Mungu. Aliweka kodi mpya na, katika miaka yake ya baadaye, aliwatesa Wakristo kwa ukali. Hatimaye aliuawa na maadui zake.</p></li></ol><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Rev17:9-Rev17:11\">Ufunuo 17:9–11</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42002001",
+"start_ref_usfm": "LUK 2:1",
+"end_ref": "42002001",
+"end_ref_usfm": "LUK 2:1"
+},
+{
+"start_ref": "42003001",
+"start_ref_usfm": "LUK 3:1",
+"end_ref": "42003001",
+"end_ref_usfm": "LUK 3:1"
+},
+{
+"start_ref": "43019012",
+"start_ref_usfm": "JHN 19:12",
+"end_ref": "43019012",
+"end_ref_usfm": "JHN 19:12"
+},
+{
+"start_ref": "44018002",
+"start_ref_usfm": "ACT 18:2",
+"end_ref": "44018002",
+"end_ref_usfm": "ACT 18:2"
+},
+{
+"start_ref": "44025011",
+"start_ref_usfm": "ACT 25:11",
+"end_ref": "44025011",
+"end_ref_usfm": "ACT 25:11"
+},
+{
+"start_ref": "45013001",
+"start_ref_usfm": "ROM 13:1",
+"end_ref": "45013007",
+"end_ref_usfm": "ROM 13:7"
+},
+{
+"start_ref": "66017009",
+"start_ref_usfm": "REV 17:9",
+"end_ref": "66017011",
+"end_ref_usfm": "REV 17:11"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "734321",
+"reference_id": 203421,
+"version": "1.0.2",
+"title": "Wafilisti",
+"media_type": "Text",
+"index_reference": "wafilisti",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Wafilisti waliishi kwenye uwanda wa pwani ya kusini mashariki mwa Bahari ya Mediterania. Walikuwa sehemu ya kundi kubwa la wasafiri wa baharini kutoka eneo la Aegean, ambao Wamisri waliwaita &quot;Watu wa Baharini.&quot; Karibu mwaka wa 1200 Kabla ya Kristo (KK), walikaa kwenye uwanda wa chini wa pwani ya Palestina na kuanzisha miji mitano:</p><ol><li><p>Ashdodi</p></li><li><p>Ashkeloni</p></li><li><p>Ekroni</p></li><li><p>Gaza</p></li><li><p>Gathi</p></li></ol><p>Wafilisti hawakuwa rahisi kushinda; walikuwa na ujuzi katika siasa na teknolojia. Walikuwa pia wapiganaji hodari. Teknolojia yao ya chuma iliwafanya kuwa maadui karibu wasioshindika (tazama <a href=\"https://ref.ly/1Sam13:19-1Sam13:22\">1 Samweli 13:19–22</a>). Mara nyingi walipigana na Waisraeli wakati wa Waamuzi, karibu mwaka wa 1350 hadi 1050 KK, na wakati wa ufalme wa kwanza ulio unganishwa, kutoka takriban mwaka wa 1050 hadi 970 KK. Sauli alikufa akipigana na Wafilisti (<a href=\"https://ref.ly/1Sam31:1-1Sam31:13\">1 Samweli 31:1–13</a>). Hata hivyo, Daudi aliwashinda kabla hajawa mfalme (<a href=\"https://ref.ly/1Sam18:20-1Sam18:30\">1 Samweli 18:20–30</a>; <a href=\"https://ref.ly/1Sam19:8\">19:8</a>; <a href=\"https://ref.ly/1Sam23:1-1Sam23:5\">23:1–5</a>) na aliendelea kuwashinda wakati wa utawala wake (<a href=\"https://ref.ly/2Sam5:17-2Sam5:25\">2 Samweli 5:17–25</a>; <a href=\"https://ref.ly/2Sam8:1\">8:1</a>; <a href=\"https://ref.ly/2Sam21:15\">21:15–22</a>). Ingawa Wafilisti hawakuwahi kutoweka kabisa wakati Israeli ilikuwepo kama taifa (<a href=\"https://ref.ly/2Kgs18:8\">2 Wafalme 18:8</a>; <a href=\"https://ref.ly/2Chr17:11\">2 Mambo ya Nyakati 17:11</a>; <a href=\"https://ref.ly/2Chr21:16-2Chr21:17\">21:16–17</a>; <a href=\"https://ref.ly/2Chr26:6-2Chr26:7\">26:6–7</a>; <a href=\"https://ref.ly/2Chr28:18\">28:18</a>), Daudi alimaliza tishio lao kwa ufanisi.</p><p>Kwenye 1 Samweli, Mungu alitumia Wafilisti kuondoa familia ya Eli yenye dhambi (<a href=\"https://ref.ly/1Sam4:10-1Sam4:22\">1 Samweli 4:10–22</a>). Wafilisti pia walichangia katika kujenga nguvu za kijeshi na kisiasa za Daudi (<a href=\"https://ref.ly/1Sam17:32-1Sam17:58\">1 Samweli 17:32–58</a>; <a href=\"https://ref.ly/1Sam18:20-1Sam18:30\">18:20–30</a>). Walimvuruga Sauli alipokuwa karibu kumkamata Daudi (<a href=\"https://ref.ly/1Sam23:26-1Sam23:28\">1 Samweli 23:26–28</a>). Walimpa Daudi hifadhi dhidi ya Sauli (<a href=\"https://ref.ly/1Sam21:10-1Sam21:15\">1 Samweli 21:10–15</a>; <a href=\"https://ref.ly/1Sam27:1-1Sam27:12\">27:1–12</a>). Walimzuia Daudi kupigana na watu wake mwenyewe (<a href=\"https://ref.ly/1Sam29:1-1Sam29:11\">1 Samweli 29:1–11</a>). Waliua Sauli na wanawe (<a href=\"https://ref.ly/1Sam31:1-1Sam31:13\">1 Samweli 31:1–13</a>), jambo lililomuwezesha Daudi kuwa mfalme. Hata hivyo, mwishowe, Wafilisti walipata hukumu ya Mungu (tazama <a href=\"https://ref.ly/Ezek25:15-Ezek25:17\">Ezekieli 25:15–17</a>; <a href=\"https://ref.ly/Amos1:6-Amos1:8\">Amosi 1:6–8</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen10:13-Gen10:14\">Mwanzo 10:13–14</a>; <a href=\"https://ref.ly/Judg3:1-Judg3:3\">Waamuzi 3:1–3</a>; <a href=\"https://ref.ly/Judg13:1-Judg16:31\">Waamuzi 13:1–16:31</a>; <a href=\"https://ref.ly/1Sam5:1-1Sam6:18\">1 Samweli 5:1–6:18</a>; <a href=\"https://ref.ly/1Sam13:16-1Sam14:23\">13:16–14:23</a>; <a href=\"https://ref.ly/1Sam21:10-1Sam21:15\">21:10–15</a>; <a href=\"https://ref.ly/1Sam23:1-1Sam23:5\">23:1–5</a>, <a href=\"https://ref.ly/1Sam23:26-1Sam23:28\">26–28</a>; <a href=\"https://ref.ly/1Sam31:1-1Sam31:10\">31:1–10</a>; <a href=\"https://ref.ly/2Sam5:17-2Sam5:25\">2 Samweli 5:17–25</a>; <a href=\"https://ref.ly/2Sam8:1\">8:1</a>; <a href=\"https://ref.ly/2Sam21:15-2Sam21:22\">21:15–22</a>; <a href=\"https://ref.ly/2Kgs18:8\">2 Wafalme 18:8</a>; <a href=\"https://ref.ly/2Chr17:10-2Chr17:11\">2 Mambo ya Nyakati 17:10–11</a>; <a href=\"https://ref.ly/2Chr21:16-2Chr21:17\">21:16–17</a>; <a href=\"https://ref.ly/2Chr26:6-2Chr26:7\">26:6–7</a>; <a href=\"https://ref.ly/2Chr28:18-2Chr28:19\">28:18–19</a>; <a href=\"https://ref.ly/Isa2:6\">Isaya 2:6</a>; <a href=\"https://ref.ly/Ezek25:15-Ezek25:17\">Ezekieli 25:15–17</a>; <a href=\"https://ref.ly/Amos1:6-Amos1:8\">Amosi 1:6–8</a>; <a href=\"https://ref.ly/Amos9:7\">9:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09019008",
+"start_ref_usfm": "1SA 19:8",
+"end_ref": "09019008",
+"end_ref_usfm": "1SA 19:8"
+},
+{
+"start_ref": "10008001",
+"start_ref_usfm": "2SA 8:1",
+"end_ref": "10008001",
+"end_ref_usfm": "2SA 8:1"
+},
+{
+"start_ref": "10021015",
+"start_ref_usfm": "2SA 21:15",
+"end_ref": "10021015",
+"end_ref_usfm": "2SA 21:15"
+},
+{
+"start_ref": "12018008",
+"start_ref_usfm": "2KI 18:8",
+"end_ref": "12018008",
+"end_ref_usfm": "2KI 18:8"
+},
+{
+"start_ref": "14017011",
+"start_ref_usfm": "2CH 17:11",
+"end_ref": "14017011",
+"end_ref_usfm": "2CH 17:11"
+},
+{
+"start_ref": "14028018",
+"start_ref_usfm": "2CH 28:18",
+"end_ref": "14028018",
+"end_ref_usfm": "2CH 28:18"
+},
+{
+"start_ref": "23002006",
+"start_ref_usfm": "ISA 2:6",
+"end_ref": "23002006",
+"end_ref_usfm": "ISA 2:6"
+},
+{
+"start_ref": "30009007",
+"start_ref_usfm": "AMO 9:7",
+"end_ref": "30009007",
+"end_ref_usfm": "AMO 9:7"
+},
+{
+"start_ref": "09021010",
+"start_ref_usfm": "1SA 21:10",
+"end_ref": "09021015",
+"end_ref_usfm": "1SA 21:15"
+},
+{
+"start_ref": "09031001",
+"start_ref_usfm": "1SA 31:1",
+"end_ref": "09031013",
+"end_ref_usfm": "1SA 31:13"
+},
+{
+"start_ref": "09013019",
+"start_ref_usfm": "1SA 13:19",
+"end_ref": "09013022",
+"end_ref_usfm": "1SA 13:22"
+},
+{
+"start_ref": "01010013",
+"start_ref_usfm": "GEN 10:13",
+"end_ref": "01010014",
+"end_ref_usfm": "GEN 10:14"
+},
+{
+"start_ref": "07013001",
+"start_ref_usfm": "JDG 13:1",
+"end_ref": "07016031",
+"end_ref_usfm": "JDG 16:31"
+},
+{
+"start_ref": "09027001",
+"start_ref_usfm": "1SA 27:1",
+"end_ref": "09027012",
+"end_ref_usfm": "1SA 27:12"
+},
+{
+"start_ref": "14021016",
+"start_ref_usfm": "2CH 21:16",
+"end_ref": "14021017",
+"end_ref_usfm": "2CH 21:17"
+},
+{
+"start_ref": "26025015",
+"start_ref_usfm": "EZK 25:15",
+"end_ref": "26025017",
+"end_ref_usfm": "EZK 25:17"
+},
+{
+"start_ref": "09029001",
+"start_ref_usfm": "1SA 29:1",
+"end_ref": "09029011",
+"end_ref_usfm": "1SA 29:11"
+},
+{
+"start_ref": "09023001",
+"start_ref_usfm": "1SA 23:1",
+"end_ref": "09023005",
+"end_ref_usfm": "1SA 23:5"
+},
+{
+"start_ref": "10005017",
+"start_ref_usfm": "2SA 5:17",
+"end_ref": "10005025",
+"end_ref_usfm": "2SA 5:25"
+},
+{
+"start_ref": "14026006",
+"start_ref_usfm": "2CH 26:6",
+"end_ref": "14026007",
+"end_ref_usfm": "2CH 26:7"
+},
+{
+"start_ref": "10021015",
+"start_ref_usfm": "2SA 21:15",
+"end_ref": "10021022",
+"end_ref_usfm": "2SA 21:22"
+},
+{
+"start_ref": "14017010",
+"start_ref_usfm": "2CH 17:10",
+"end_ref": "14017011",
+"end_ref_usfm": "2CH 17:11"
+},
+{
+"start_ref": "07003001",
+"start_ref_usfm": "JDG 3:1",
+"end_ref": "07003003",
+"end_ref_usfm": "JDG 3:3"
+},
+{
+"start_ref": "09018020",
+"start_ref_usfm": "1SA 18:20",
+"end_ref": "09018030",
+"end_ref_usfm": "1SA 18:30"
+},
+{
+"start_ref": "09004010",
+"start_ref_usfm": "1SA 4:10",
+"end_ref": "09004022",
+"end_ref_usfm": "1SA 4:22"
+},
+{
+"start_ref": "09017032",
+"start_ref_usfm": "1SA 17:32",
+"end_ref": "09017058",
+"end_ref_usfm": "1SA 17:58"
+},
+{
+"start_ref": "09023026",
+"start_ref_usfm": "1SA 23:26",
+"end_ref": "09023028",
+"end_ref_usfm": "1SA 23:28"
+},
+{
+"start_ref": "30001006",
+"start_ref_usfm": "AMO 1:6",
+"end_ref": "30001008",
+"end_ref_usfm": "AMO 1:8"
+},
+{
+"start_ref": "09005001",
+"start_ref_usfm": "1SA 5:1",
+"end_ref": "09006018",
+"end_ref_usfm": "1SA 6:18"
+},
+{
+"start_ref": "09013016",
+"start_ref_usfm": "1SA 13:16",
+"end_ref": "09014023",
+"end_ref_usfm": "1SA 14:23"
+},
+{
+"start_ref": "09031001",
+"start_ref_usfm": "1SA 31:1",
+"end_ref": "09031010",
+"end_ref_usfm": "1SA 31:10"
+},
+{
+"start_ref": "14028018",
+"start_ref_usfm": "2CH 28:18",
+"end_ref": "14028019",
+"end_ref_usfm": "2CH 28:19"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Wafilisti",
+"confidence": 0.7619,
+"match_method": "scored"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Wafilisti",
+"confidence": 0.6119,
+"match_method": "scored"
+},
+{
+"id": "person:Philistine",
+"type": "person",
+"preferred_label": "Wafilisti",
+"confidence": 0.6013,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "734372",
+"reference_id": 203472,
+"version": "1.0.2",
+"title": "Wagiriki",
+"media_type": "Text",
+"index_reference": "wagiriki",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Ustaarabu wa Kigiriki ulikuwa na umuhimu mkubwa katika ulimwengu wa kale. Utamaduni wa Kigiriki uliathiri sana ulimwengu wakati wa kuzaliwa kwa Yesu na uandishi wa Agano Jipya.</p><h3>Ustaarabu wa Wamikenai (1450 hadi 1200 Kabla ya Krsito (KK)</h3><p>Wamikenai waliishi wakati wa &quot;enzi ya mashujaa,&quot; kati ya 1450 na 1200 KK. Kipindi hiki kiliitwa &quot;enzi ya mashujaa&quot; kwa sababu hadithi nyingi maarufu za Kigiriki kuhusu mashujaa na vita vikubwa zilifanyika wakati huo. Hadithi hizi baadaye ziliandikwa na Homer katika mashairi yake marefu. Ustaarabu wao ulikuwa umejikita Mycenae, takriban maili thelathini kusini mwa Korintho. Wamikenai walifanya biashara kwa upana na walikuwa hodari sana katika vita. Miungu ya Kigiriki na hadithi zinazojulikana kutoka maandiko ya baadaye zilianza katika Ugiriki ya Wamikenai. Nyaraka za Wamikenai ziliandikwa kwa Linear B, maandishi yanayotumia silabi.</p><p>Ustaarabu wa Mycenaean ulimalizika kwa vurugu karibu 1200 KK kutokana na uvamizi wa Wadorian wa Kigiriki. Karne zilizofuata zinajulikana kama &quot;Enzi za Giza za Kigiriki.&quot; Katika kipindi hiki, watu waliacha kutumia maandiko ya Linear B, na hakuna rekodi za maandishi zilizopo.</p><h3>Enzi za Kale, Miji Huru (850–546 KK)</h3><p>Hatimaye, miji na vijiji vya Kigiriki viliandaliwa kuwa miji-huru iliyodhibiti maeneo makubwa. Katika kipindi hiki, Wagiriki walianza kushirikiana zaidi na walikuwa na utambulisho wa pamoja. Kwa mfano, waliandaa Michezo ya Olimpiki ya kwanza mwaka wa 776 KK.</p><p>Biashara na maeneo ya karibu ilipokua, Wagiriki walikutana na Wafinisia na wakachukua mfumo wao wa uandishi. Homer aliandika <em>Iliad</em> na <em>Odyssey</em>, ambazo zinasimulia hadithi na hekaya za ustaarabu wa awali wa Mycenaean na miungu yao. </p><p>Miji mingi ilitegemea viongozi wenye nguvu waliitwa madikteta. Viongozi hawa walisaidia kuweka utaratibu na amani katika miji yao. (Neno la Kigiriki kwa watawala hawa ni <em>tyrannos</em>.) Maeneo mengi yaliandika sheria zao za msingi katika hati iliyoitwa katiba. Hii ilisaidia kuunda sheria wazi za utawala. Katika Athene, kundi dogo la watu wenye nguvu linaloitwa Baraza la Areopago lilitawala mji. Aina hii ya serikali iliitwa oligarchy. Baadaye, kiongozi aliyeitwa Solon alifanya mabadiliko muhimu katika jinsi Athene ilivyotawaliwa. Mabadiliko haya yalisaidia Athene kuwa demokrasia, ambapo raia wangeweza kupiga kura na kusaidia kufanya maamuzi.</p><h3>Vita vya Kiajemi, Kipindi cha Kawaida (546 hadi 336 KK)</h3><p>Mnamo mwaka wa 546 KK, Koreshi Mkuu wa Uajemi alitwaa udhibiti wa makoloni ya Kigiriki katika Asia Ndogo. Karibu 500 KK, Ionia ilijaribu kuasi lakini ilishindwa. Hii ilisababisha Dario I kuvamia bara la Ugiriki mnamo 492 KK. Katika vita vilivyofuata, Wagiriki mara nyingi walikuwa na idadi ndogo lakini walitumia ujuzi na mikakati bora kuwashinda Waajemi. Katika Vita vya Marathon mnamo 490 KK, Wagiriki waliwashinda Waajemi kwa uamuzi. Miaka kumi baadaye, jeshi la Waajemi chini ya Xerxes lilivuka Hellespont, na meli yao kubwa iliingia katika maji ya Kigiriki. Waajemi walichoma Athene, lakini hatimaye, Wagiriki walishinda, na Xerxes aliondoka.</p><p>Baada ya Vita vya Kiajemi kumalizika, Athene ilijengwa upya na kuingia katika kipindi cha ukuu. Pericles aliongoza Athene kuunda demokrasia ya kweli. Walijenga miundo mikubwa kwenye Acropolis. Athene ikawa tajiri, na nguvu zake za baharini ziliongezeka. Hii ilikuwa enzi ya dhahabu ya mafanikio makubwa katika sanaa, mawazo, fasihi, na usanifu.</p><h3>Ufalme wa Makedonia, Ustaarabu wa Hellenistic (336–146 KK)</h3><p>Filipo II wa Makedonia alitaka kujenga ufalme. Alishinda Athene na Thebes mwaka wa 338 KK na kuunganisha Ugiriki chini ya Ufalme wa Makedonia. Baada ya Filipo kuuawa mwaka wa 336 KK, mwanawe Alexander akawa mtawala. Mwaka wa 335 KK, Alexander aliharibu Thebes, ambayo ilikuwa imeasi. Kisha akashinda haraka Babuloni na Uajemi (tazama <a href=\"https://ref.ly/Dan8:5-Dan8:8\">Danieli 8:5–8</a>). Alexander alipokufa ghafla mwaka wa 323 KK, maeneo yake makubwa yaligawanywa kati ya majenerali wanne. Baada ya migogoro fulani, maeneo makuu matatu yaliundwa:</p><ol><li><p>Misri</p></li><li><p>Asia Ndogo, Syria, na Babyloni</p></li><li><p>Makedonia na Akaya</p></li></ol><p>Vita vya Iskanda vilieneza utamaduni na ushawishi wa Kigiriki katika ulimwengu wa kale. Mgongano huu kati ya utamaduni wa Kigiriki na Uyahudi ulisababisha uasi wa Maccabea huko Yudea katika miaka ya 160 KK.</p><h3>Utawala wa Kirumi (168 KK hadi 330 BK)</h3><p>Warumi walianza kupanua nguvu zao katika Ugiriki mnamo 198 KK. Mnamo 168 KK, Warumi waliwashinda Wamakedonia katika Vita vya Pydna. Kufikia mwaka wa 148 KK, Warumi walikuwa wameunganisha Makedonia kama jimbo. Kisha, mnamo mwaka 146 KK, Warumi waliharibu Korintho. Ugiriki sasa ilikuwa chini ya udhibiti wa Kirumi na ilibaki hivyo hadi Mfalme Constantine alipofanya Byzantium kuwa mji mkuu wa Dola la Kirumi mnamo mwaka wa 330 Baada ya Kristo (BK). Utamaduni wa Kigiriki na utawala wa Kirumi uliweka msingi wa maisha ya Yesu na mwanzo wa Ukristo.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Dan8:5-Dan8:8\">Danieli 8:5–8</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "27008005",
+"start_ref_usfm": "DAN 8:5",
+"end_ref": "27008008",
+"end_ref_usfm": "DAN 8:8"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "734301",
+"reference_id": 203401,
+"version": "1.0.2",
+"title": "Wahiti",
+"media_type": "Text",
+"index_reference": "wahiti",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Kwa miaka mingi, ni Biblia pekee iliyowataja watu wa Wahiti. Baadhi ya wasomi walitilia shaka iwapo simulizi za kihistoria za Biblia kuhusu Wahiti zilikuwa sahihi. Walidhani Wahiti hawakuwa watu halisi. Hata hivyo, wanakiolojia na wanahistoria wamegundua taarifa kuhusu wao.</p><p>Wahiti walikuwa na ufalme uliokuwa katikati ya Asia Ndogo, na mji mkuu wao ulikuwa Hattusha (sasa ni Baghazkoy). Ufalme huo ulikua zaidi kwa sababu miji mingi ilisaini makubaliano ya kufuata utawala wake. Miji hii haikuwa rasmi sehemu ya eneo la ufalme, lakini ililazimika kutii maagizo ya ufalme. Majeshi ya Wahiti yalikuwa na nguvu za kutosha kupambana na majeshi ya Wamisri chini ya Rameses II mwenye kiburi, ambaye alitawala kuanzia 1279 hadi 1213 Kabla ya Krsito (KK). Wahiti walipigana na Rameses II huko Kadesh kwenye Orontes karibu na 1274 KK. Hakuna upande ulioshinda vita hiyo. Wakati wa Abrahamu na baba wengine wa mapema wa Israeli, watu wa Wahiti walidhibiti miji katika Kanaani, kama Hebroni.</p><p>Mhiti, babu wa Wahiti, ni mwana wa pili wa Kanaani katika &quot;jedwali la mataifa&quot; (<a href=\"https://ref.ly/Gen10:15\">Mwanzo 10:15</a>; tazama pia <a href=\"https://ref.ly/1Chr1:13\">1 Mambo ya Nyakati 1:13</a> na maelezo ya chini hapo). Marejeo mengi ya wana wa Mhiti yanapatikana katika hadithi ya Abrahamu kununua pango la Makpela (<a href=\"https://ref.ly/Gen23:1-Gen23:20\">Mwanzo 23</a>). Baadaye, Mungu aliwaagiza Waisraeli kuwaangamiza Wahiti wote katika Nchi ya Ahadi (<a href=\"https://ref.ly/Deut7:1-Deut7:2\">Kumbukumbu la Torati 7:1–2</a>). Hata hivyo, Waisraeli hawakumtii Mungu kikamilifu (<a href=\"https://ref.ly/1Kgs9:20-1Kgs9:21\">1 Wafalme 9:20–21</a>). Baadhi ya mashujaa bora wa Daudi walikuwa Wahiti (<a href=\"https://ref.ly/1Sam26:6\">1 Samweli 26:6</a>; <a href=\"https://ref.ly/2Sam11:1-2Sam12:31\">2 Samweli 11–12</a>). Solomoni alifanya biashara na wafalme wa Wahiti (<a href=\"https://ref.ly/1Kgs10:29-1Kgs11:1\">1 Wafalme 10:29–11:1</a>). Biblia inaonyesha kwamba Wahiti walikuwa watu muhimu.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Gen23:3-Gen23:20\">Mwanzo 23:3–20</a>; <a href=\"https://ref.ly/Gen26:34-Gen26:35\">26:34–35</a>; <a href=\"https://ref.ly/Gen27:46-Gen28:2\">27:46–28:2</a>; <a href=\"https://ref.ly/Deut7:1\">Kumbukumbu la Torati 7:1</a>; <a href=\"https://ref.ly/1Sam26:6\">1 Samweli 26:6</a>; <a href=\"https://ref.ly/2Sam11:2-2Sam11:27\">2 Samweli 11:2–27</a>; <a href=\"https://ref.ly/1Kgs9:20\">1 Wafalme 9:20</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01010015",
+"start_ref_usfm": "GEN 10:15",
+"end_ref": "01010015",
+"end_ref_usfm": "GEN 10:15"
+},
+{
+"start_ref": "05007001",
+"start_ref_usfm": "DEU 7:1",
+"end_ref": "05007001",
+"end_ref_usfm": "DEU 7:1"
+},
+{
+"start_ref": "09026006",
+"start_ref_usfm": "1SA 26:6",
+"end_ref": "09026006",
+"end_ref_usfm": "1SA 26:6"
+},
+{
+"start_ref": "11009020",
+"start_ref_usfm": "1KI 9:20",
+"end_ref": "11009020",
+"end_ref_usfm": "1KI 9:20"
+},
+{
+"start_ref": "13001013",
+"start_ref_usfm": "1CH 1:13",
+"end_ref": "13001013",
+"end_ref_usfm": "1CH 1:13"
+},
+{
+"start_ref": "01023001",
+"start_ref_usfm": "GEN 23:1",
+"end_ref": "01023020",
+"end_ref_usfm": "GEN 23:20"
+},
+{
+"start_ref": "05007001",
+"start_ref_usfm": "DEU 7:1",
+"end_ref": "05007002",
+"end_ref_usfm": "DEU 7:2"
+},
+{
+"start_ref": "01026034",
+"start_ref_usfm": "GEN 26:34",
+"end_ref": "01026035",
+"end_ref_usfm": "GEN 26:35"
+},
+{
+"start_ref": "10011001",
+"start_ref_usfm": "2SA 11:1",
+"end_ref": "10012031",
+"end_ref_usfm": "2SA 12:31"
+},
+{
+"start_ref": "11009020",
+"start_ref_usfm": "1KI 9:20",
+"end_ref": "11009021",
+"end_ref_usfm": "1KI 9:21"
+},
+{
+"start_ref": "01027046",
+"start_ref_usfm": "GEN 27:46",
+"end_ref": "01028002",
+"end_ref_usfm": "GEN 28:2"
+},
+{
+"start_ref": "10011002",
+"start_ref_usfm": "2SA 11:2",
+"end_ref": "10011027",
+"end_ref_usfm": "2SA 11:27"
+},
+{
+"start_ref": "11010029",
+"start_ref_usfm": "1KI 10:29",
+"end_ref": "11011001",
+"end_ref_usfm": "1KI 11:1"
+},
+{
+"start_ref": "01023003",
+"start_ref_usfm": "GEN 23:3",
+"end_ref": "01023020",
+"end_ref_usfm": "GEN 23:20"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Kadesh",
+"type": "place",
+"preferred_label": "Wahiti",
+"confidence": 1.0,
+"match_method": "embedding"
+}
+]
+}
+},
+{
+"content_id": "734360",
+"reference_id": 203460,
+"version": "1.0.2",
+"title": "Wamedi na Waajemi",
+"media_type": "Text",
+"index_reference": "wamedi na waajemi",
+"language": "swh",
+"review_level": "None",
+"content": "<h3>Wamedi (takriban 850–549 Kabla ya Kristo (KK)</h3><p>Wamedi wa awali hawakuacha rekodi zilizoandikwa. Maandishi kutoka kwa Shalmanesa III wa Ashuru, ambaye alitawala kutoka 858 hadi 824 KK, yanataja kwamba Wamedi walikaa karibu na Akmetha, mji mkuu wao, kufikia katikati ya miaka ya 800 KK. Akmetha sasa inajulikana kama Hamadan, Iran. Wamedi walijulikana kwa ufugaji wa farasi, hivyo Shalmanesa alivamia ardhi yao ili kuiba farasi wengi wazuri. Wamedi walikuwa chini ya udhibiti wa Waashuru hadi mwishoni mwa miaka ya 600 KK, walipokuwa huru wakati Ashuru ilidhoofika.</p><h3>Waajemi (takriban 700–549 KK)</h3><p>Karibu mwaka wa 700 KK, Achaemenes alianzisha ufalme mdogo wa Kiajemi. Alitawala kutoka takriban 700 hadi 675 KK. Mwanawe, Teispes, alitawala kutoka 675 hadi 640 KK chini ya udhibiti wa Wamedi. Wamedi walikuwa wakikusanya nguvu ili kuwangusha Ashuru. Hata hivyo, matatizo kwa Wamedi baadaye yalimuweka huru Teispes kutoka kwa udhibiti wao. Cambyses, aliyeishi kutoka 600 hadi 559 KK, alikuwa mwana wa Koreshi I na mjukuu wa Teispes. Alioa binti wa mfalme wa Wamedi, Astyages. Mwana wao, Koreshi II, alitawala Uajemi kutoka 559 hadi 530 KK, kuanzia mwaka wa 559 KK.</p><h3>Ufalme wa Wamedi na Waajemi (549–331 KK)</h3><p>Koreshi II alimshinda babu yake, Astyages wa Umedi, mwaka wa 549 KK. Aliunda Akmetha huko Umedi kama mji mkuu wake na akaweka kumbukumbu zake huko (tazama <a href=\"https://ref.ly/Ezra6:1-Ezra6:5\">Ezra 6:1–5</a>). Akiwa na baba Mpersia na mama Mmedi, Koreshi II aliwakilisha muungano wa Umedi na Uajemi.</p><p>Koreshi alionyesha wema na ukarimu kwa maadui waliokuwa wameshindwa. Kama kiongozi wa kijeshi mwenye ujuzi, alivamia Asia Ndogo, akamshinda Croesus, mfalme wa Lidia, na kudhibiti miji ya Kigiriki katika eneo hilo. Mnamo 539 KK, aliteka Babuloni bila karibu upinzani wowote na akaruhusu watu waliohamishwa kurudi nyumbani kujenga upya mahekalu yao (tazama <a href=\"https://ref.ly/Ezra1:1-Ezra1:4\">Ezra 1:1–4</a>).</p><p>Mwana wa Koreshi, Cambyses II, aliteka Misri na kutawala kuanzia 529 hadi 522 KK. Hata hivyo, ufalme karibu ulisambaratika alipofanya kitendo cha kujiua. Dario I, mwana wa Hystaspes, ambaye alikuwa gavana wa Parthia, alimfuata Cambyses na kutawala kuanzia 521 hadi 486 KK. Dario alikuwa kiongozi mwenye nguvu na ufanisi. Alikomesha maasi ya ndani na kupanga upya ufalme katika majimbo ishirini.</p><p>Kila mkoa ulikuwa chini ya gavana, aliyeitwa satrap au &quot;mlinzi wa ufalme.&quot; Wakaguzi, waliokuwa wakijulikana kama &quot;masikio ya mfalme,&quot; walifuatilia vitendo vya satrap. Dario alihamishia mji mkuu wa Uajemi hadi Persepolis, ambapo hatimaye walijenga jumba kubwa la kifalme. Dario alifuata Zoroaster na kumwabudu Ahura Mazda, Mungu mkuu wa Zoroastrianism. Xerxes na Artashasta, ambao walikuja baada yake, pia walifuata imani hii.</p><p>Katika miaka ya baadaye ya utawala wa Dario, Wagiriki walimshinda katika Marathon mwaka wa 491 KK.</p><p>Mwana wa Dario, Khshayarsha, anayejulikana pia kama Xerxes kwa Kigiriki na Ahasuero kwa Kiebrania, alimrithi. Wakati wa utawala wa Xerxes kutoka 486 hadi 465 KK, Wagiriki walishinda meli ya Waajemi huko Salami mnamo 480 KK.</p><p>Watu wanamlaumu Dario III kwa kuanguka kwa ufalme kutokana na woga wake. Alitawala kuanzia 336 hadi 330 KK. Alexander Mkuu alishinda majeshi yake huko Issus mnamo 333 KK na hatimaye huko Gaugamela, karibu na Erbil ya kisasa (Arbela), mnamo 331 KK.</p><h3>Uajemi na Biblia</h3><p>Tajwa la kwanza la Uajemi katika historia ya Israeli linapatikana katika <a href=\"https://ref.ly/Isa44:28-Isa45:13\">Isaya 44:28–45:13</a>. Unabii huu ulitolewa kwa Isaya zaidi ya miaka 150 kabla ya Koreshi kuiteka Babuloni na kuruhusu Wayahudi waliokuwa uhamishoni kurudi Yerusalemu. Marejeo mengine ya kibiblia kuhusu Uajemi yanaonekana baadaye katika historia ya Agano la Kale, kama vile katika Ezra, Nehemia, na Esta, na katika maandiko ya manabii wakati na baada ya uhamisho, kama Danieli, Sefania, na Hagai. Maandiko yanaonyesha Uajemi kama mtawala mkali lakini kwa kiasi kikubwa mwema aliyeruhusu Wayahudi kujitawala na kuabudu kwa uhuru. Hata hivyo, jamii ya Yudea daima ilikumbuka kuwa walikuwa chini ya utawala wa kigeni.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Ezra4:5-Ezra4:7\">Ezra 4:5–7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "15001001",
+"start_ref_usfm": "EZR 1:1",
+"end_ref": "15001004",
+"end_ref_usfm": "EZR 1:4"
+},
+{
+"start_ref": "15006001",
+"start_ref_usfm": "EZR 6:1",
+"end_ref": "15006005",
+"end_ref_usfm": "EZR 6:5"
+},
+{
+"start_ref": "23044028",
+"start_ref_usfm": "ISA 44:28",
+"end_ref": "23045013",
+"end_ref_usfm": "ISA 45:13"
+},
+{
+"start_ref": "15004005",
+"start_ref_usfm": "EZR 4:5",
+"end_ref": "15004007",
+"end_ref_usfm": "EZR 4:7"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "734383",
+"reference_id": 203483,
+"version": "1.0.2",
+"title": "Wanawake Wanaoitwa Maria",
+"media_type": "Text",
+"index_reference": "wanawake wanaoitwa maria",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Injili zinawataja Maria wengine wanne kando na mama wa Yesu:</p><ol><li><p><em>Maria Magdalene, </em>ambaye huenda alitoka Magdala huko Galilaya, alikombolewa kutoka kwa pepo wachafu na Yesu (<a href=\"https://ref.ly/Mark16:9\">Marko 16:9</a>). Alikuwa mfuasi mwaminifu na alisaidia Yesu na wanafunzi wake kifedha (<a href=\"https://ref.ly/Luke8:1-Luke8:3\">Luka 8:1–3</a>; tazama pia <a href=\"https://ref.ly/Matt27:55-Matt27:56\">Mathayo 27:55–56</a>; <a href=\"https://ref.ly/Mark15:40-Mark15:41\">Marko 15:40–41</a>). Alishuhudia kifo cha Yesu msalabani na mazishi yake (<a href=\"https://ref.ly/Matt27:55-Matt27:61\">Mathayo 27:55–61</a>; <a href=\"https://ref.ly/Mark15:40-Mark15:47\">Marko 15:40–47</a>; <a href=\"https://ref.ly/John19:25\">Yohana 19:25</a>; linganisha <a href=\"https://ref.ly/Luke23:49\">Luka 23:49</a>, <a href=\"https://ref.ly/Luke23:55-Luke23:56\">55–56</a>). Alienda kaburini mapema Jumapili asubuhi na manukato ya mazishi. Alikuwa miongoni mwa wa kwanza kusikia kwamba Yesu alikuwa amefufuka kutoka kwa wafu (<a href=\"https://ref.ly/Matt28:1-Matt28:8\">Mathayo 28:1–8</a>; <a href=\"https://ref.ly/Mark16:1-Mark16:8\">Marko 16:1–8</a>; <a href=\"https://ref.ly/Luke24:1-Luke24:11\">Luka 24:1–11</a>, <a href=\"https://ref.ly/Luke24:22-Luke24:24\">22–24</a>). Pia alikuwa wa kwanza kumwona Yesu aliyefufuka (<a href=\"https://ref.ly/Matt28:9-Matt28:10\">Mathayo 28:9–10</a>; <a href=\"https://ref.ly/Mark16:9-Mark16:11\">Marko 16:9–11</a>; <a href=\"https://ref.ly/John20:1-John20:2\">Yohana 20:1–2</a>, <a href=\"https://ref.ly/John20:11-John20:18\">11–18</a>).</p></li><li><p><em>Maria, mama wa Yakobo mdogo</em> (sio mtume) na Yosefu, alikuwa miongoni mwa wanawake waliokuwepo wakati wa kifo cha Yesu msalabani na mazishi yake (<a href=\"https://ref.ly/Matt27:55-Matt27:61\">Mathayo 27:55–61</a>; <a href=\"https://ref.ly/Mark15:40-Mark15:47\">Marko 15:40–47</a>; tazama pia <a href=\"https://ref.ly/Luke23:49\">Luka 23:49</a>, <a href=\"https://ref.ly/Luke23:55\">55</a>). Kama Maria Magdalene, alikuwa miongoni mwa wa kwanza kusikia kwamba Yesu alikuwa amefufuka kutoka kwa wafu (<a href=\"https://ref.ly/Matt28:1-Matt28:8\">Mathayo 28:1–8</a>; <a href=\"https://ref.ly/Mark16:1-Mark16:8\">Marko 16:1–8</a>; <a href=\"https://ref.ly/Luke24:1-Luke24:11\">Luka 24:1–11</a>). Alikuwa pia mmoja wa wa kwanza kumuona Yesu aliyefufuka (<a href=\"https://ref.ly/Matt28:9-Matt28:10\">Mathayo 28:9–10</a>).</p></li><li><p><em>Maria wa Bethania</em> alikuwa dada wa Martha na Lazaro. Yesu aliipenda sana familia yao (<a href=\"https://ref.ly/John11:5\">Yohana 11:5</a>). Yesu alimsifu Maria kwa hamu yake ya kujifunza kutoka kwake (<a href=\"https://ref.ly/Luke10:38-Luke10:42\">Luka 10:38–42</a>). Baada ya Yesu kumfufua kaka yake kutoka kwa wafu (<a href=\"https://ref.ly/John11:32-John11:45\">Yohana 11:32–45</a>), Maria alipaka miguu ya Yesu mafuta ya thamani kubwa. Yesu alimkinga alipokosolewa na wengine kwa kusema ilikuwa ni upotevu (<a href=\"https://ref.ly/John12:1-John12:11\">Yohana 12:1–11</a>; linganisha <a href=\"https://ref.ly/Matt26:6-Matt26:13\">Mathayo 26:6–13</a>; <a href=\"https://ref.ly/Mark14:3-Mark14:9\">Marko 14:3–9</a>).</p></li><li><p><em>Maria, mke wa Klopa,</em> alikuwa miongoni mwa wanawake waliokuwa wakimwangalia Yesu alipokufa msalabani (<a href=\"https://ref.ly/John19:25\">Yohana 19:25</a>). Agano Jipya halimtaji yeye wala Klopa sehemu nyingine yoyote.</p></li></ol><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt27:55-Matt27:61\">Mathayo 27:55–61</a>; <a href=\"https://ref.ly/Matt28:1\">28:1</a>; <a href=\"https://ref.ly/Mark15:40-Mark15:47\">Marko 15:40–47</a>; <a href=\"https://ref.ly/Mark16:1-Mark16:11\">16:1–11</a>; <a href=\"https://ref.ly/Luke8:2-Luke8:3\">Luka 8:2–3</a>; <a href=\"https://ref.ly/Luke10:38-Luke10:42\">10:38–42</a>; <a href=\"https://ref.ly/Luke24:1-Luke24:10\">24:1–10</a>; <a href=\"https://ref.ly/John11:1-John11:6\">Yohana 11:1–6</a>, <a href=\"https://ref.ly/John11:17-John11:24\">17–24</a>; <a href=\"https://ref.ly/John12:3-John12:8\">12:3–8</a>; <a href=\"https://ref.ly/John19:25\">19:25</a>; <a href=\"https://ref.ly/John20:1-John20:2\">20:1–2</a>, <a href=\"https://ref.ly/John20:11-John20:18\">11–18</a>; <a href=\"https://ref.ly/Acts12:12\">Matendo 12:12</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40028001",
+"start_ref_usfm": "MAT 28:1",
+"end_ref": "40028001",
+"end_ref_usfm": "MAT 28:1"
+},
+{
+"start_ref": "41016009",
+"start_ref_usfm": "MRK 16:9",
+"end_ref": "41016009",
+"end_ref_usfm": "MRK 16:9"
+},
+{
+"start_ref": "42023049",
+"start_ref_usfm": "LUK 23:49",
+"end_ref": "42023049",
+"end_ref_usfm": "LUK 23:49"
+},
+{
+"start_ref": "42023055",
+"start_ref_usfm": "LUK 23:55",
+"end_ref": "42023055",
+"end_ref_usfm": "LUK 23:55"
+},
+{
+"start_ref": "43011005",
+"start_ref_usfm": "JHN 11:5",
+"end_ref": "43011005",
+"end_ref_usfm": "JHN 11:5"
+},
+{
+"start_ref": "43019025",
+"start_ref_usfm": "JHN 19:25",
+"end_ref": "43019025",
+"end_ref_usfm": "JHN 19:25"
+},
+{
+"start_ref": "44012012",
+"start_ref_usfm": "ACT 12:12",
+"end_ref": "44012012",
+"end_ref_usfm": "ACT 12:12"
+},
+{
+"start_ref": "41015040",
+"start_ref_usfm": "MRK 15:40",
+"end_ref": "41015047",
+"end_ref_usfm": "MRK 15:47"
+},
+{
+"start_ref": "41016001",
+"start_ref_usfm": "MRK 16:1",
+"end_ref": "41016008",
+"end_ref_usfm": "MRK 16:8"
+},
+{
+"start_ref": "40026006",
+"start_ref_usfm": "MAT 26:6",
+"end_ref": "40026013",
+"end_ref_usfm": "MAT 26:13"
+},
+{
+"start_ref": "41014003",
+"start_ref_usfm": "MRK 14:3",
+"end_ref": "41014009",
+"end_ref_usfm": "MRK 14:9"
+},
+{
+"start_ref": "40027055",
+"start_ref_usfm": "MAT 27:55",
+"end_ref": "40027056",
+"end_ref_usfm": "MAT 27:56"
+},
+{
+"start_ref": "42008002",
+"start_ref_usfm": "LUK 8:2",
+"end_ref": "42008003",
+"end_ref_usfm": "LUK 8:3"
+},
+{
+"start_ref": "43020011",
+"start_ref_usfm": "JHN 20:11",
+"end_ref": "43020018",
+"end_ref_usfm": "JHN 20:18"
+},
+{
+"start_ref": "42010038",
+"start_ref_usfm": "LUK 10:38",
+"end_ref": "42010042",
+"end_ref_usfm": "LUK 10:42"
+},
+{
+"start_ref": "43012001",
+"start_ref_usfm": "JHN 12:1",
+"end_ref": "43012011",
+"end_ref_usfm": "JHN 12:11"
+},
+{
+"start_ref": "43020001",
+"start_ref_usfm": "JHN 20:1",
+"end_ref": "43020002",
+"end_ref_usfm": "JHN 20:2"
+},
+{
+"start_ref": "42023055",
+"start_ref_usfm": "LUK 23:55",
+"end_ref": "42023056",
+"end_ref_usfm": "LUK 23:56"
+},
+{
+"start_ref": "41015040",
+"start_ref_usfm": "MRK 15:40",
+"end_ref": "41015041",
+"end_ref_usfm": "MRK 15:41"
+},
+{
+"start_ref": "42008001",
+"start_ref_usfm": "LUK 8:1",
+"end_ref": "42008003",
+"end_ref_usfm": "LUK 8:3"
+},
+{
+"start_ref": "41016001",
+"start_ref_usfm": "MRK 16:1",
+"end_ref": "41016011",
+"end_ref_usfm": "MRK 16:11"
+},
+{
+"start_ref": "40028001",
+"start_ref_usfm": "MAT 28:1",
+"end_ref": "40028008",
+"end_ref_usfm": "MAT 28:8"
+},
+{
+"start_ref": "40027055",
+"start_ref_usfm": "MAT 27:55",
+"end_ref": "40027061",
+"end_ref_usfm": "MAT 27:61"
+},
+{
+"start_ref": "42024001",
+"start_ref_usfm": "LUK 24:1",
+"end_ref": "42024011",
+"end_ref_usfm": "LUK 24:11"
+},
+{
+"start_ref": "42024022",
+"start_ref_usfm": "LUK 24:22",
+"end_ref": "42024024",
+"end_ref_usfm": "LUK 24:24"
+},
+{
+"start_ref": "40028009",
+"start_ref_usfm": "MAT 28:9",
+"end_ref": "40028010",
+"end_ref_usfm": "MAT 28:10"
+},
+{
+"start_ref": "41016009",
+"start_ref_usfm": "MRK 16:9",
+"end_ref": "41016011",
+"end_ref_usfm": "MRK 16:11"
+},
+{
+"start_ref": "43011032",
+"start_ref_usfm": "JHN 11:32",
+"end_ref": "43011045",
+"end_ref_usfm": "JHN 11:45"
+},
+{
+"start_ref": "42024001",
+"start_ref_usfm": "LUK 24:1",
+"end_ref": "42024010",
+"end_ref_usfm": "LUK 24:10"
+},
+{
+"start_ref": "43011001",
+"start_ref_usfm": "JHN 11:1",
+"end_ref": "43011006",
+"end_ref_usfm": "JHN 11:6"
+},
+{
+"start_ref": "43011017",
+"start_ref_usfm": "JHN 11:17",
+"end_ref": "43011024",
+"end_ref_usfm": "JHN 11:24"
+},
+{
+"start_ref": "43012003",
+"start_ref_usfm": "JHN 12:3",
+"end_ref": "43012008",
+"end_ref_usfm": "JHN 12:8"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "734392",
+"reference_id": 203492,
+"version": "1.0.2",
+"title": "Wasamaria",
+"media_type": "Text",
+"index_reference": "wasamaria",
+"language": "swh",
+"review_level": "None",
+"content": "<p>Samaria ilikuwa eneo kaskazini mwa Yudea, likiwa katikati ya mji wa kale wa Shekemu, ambao unaitwa Sikari katika Agano Jipya. Baada ya ushindi wa Israeli mbamo mwaka wa 722 Kabla ya Kristo (KK), miji ya Samaria na Shekemu iliharibiwa. Watu kutoka sehemu mbalimbali za ufalme wa Ashuru walijaza tena eneo hilo (<a href=\"https://ref.ly/2Kgs17:21-2Kgs17:41\">2 Wafalme 17:21–41</a>). Wakazi hawa wapya walileta desturi nyingi za kipagani, na kufanya uchafu wa kidini wa ardhi hiyo kujulikana sana. Kwa muda, imani ya Kiyahudi katika Mungu mmoja ikawa imani kuu, lakini baadhi ya mambo kuhusu jinsi watu walivyotekeleza imani yao yalibadilika. Wasamaria walikubali tu Pentateuki (vitabu vitano vya kwanza vya Agano la Kale) kama Maandiko. Pia waliabudu katika hekalu jipya kwenye Mlima Gerizimu juu ya Shekemu.</p><p>Wasamaria na Wayahudi walikuwa na historia ndefu ya migogoro, iliyoanza baada ya Wayahudi kurudi kutoka uhamishoni (tazama <a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">Ezra 4:1–5</a>; <a href=\"https://ref.ly/Neh4:1-Neh4:23\">Nehemia 4:1–23</a>). Alexander Mkuu na baadaye majenerali wa Kigiriki walifanya Shekemu kuwa kituo muhimu kwa sababu walipata washirika wa kupinga Wayahudi huko. Mbamo 128 KK, Wayahudi waliharibu Shekemu na kuchoma hekalu la Wasamaria kwenye Mlima Gerizimu. Mbamo mwaka wa 6 Baada ya Kristo (BK) hadi 9, Wasamaria walijaribu kurudisha heshima kwa kudhalilisha hekalu la Yerusalemu kwa kutawanya mifupa ya binadamu kutoka kwenye makaburi wakati wa Pasaka. Kufikia wakati wa Yesu, mvutano kati ya Yudea na Samaria ulikuwa bado mkali.</p><p>Wakati wa Yesu, Wayahudi waliepuka kusafiri kupitia Samaria kwa sababu waliwaona watu wake kama wenye uhasama na wasio safi. Yesu alipokuwa akisafiri kupitia Samaria na kukutana na mwanamke Msamaria, mvutano wa uhusiano huu ulikuwa dhahiri. Mtu anayeishi katika karne ya kwanza hangetarajia Yesu na mwanamke huyo kutambuana, achilia mbali kuzungumza. Hata hivyo, Yesu alivuka mipaka ya utambulisho wake wa kikabila na kumwalika hata mwanamke Msamaria mwenye sifa mbaya kuamini.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/2Kgs17:21-2Kgs17:41\">2 Wafalme 17:21–41</a>; <a href=\"https://ref.ly/Ezra4:1-Ezra4:5\">Ezra 4:1–5</a>; <a href=\"https://ref.ly/Neh4:1-Neh4:23\">Nehemia 4:1–23</a>; <a href=\"https://ref.ly/John4:1-John4:42\">Yohana 4:1–42</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "15004001",
+"start_ref_usfm": "EZR 4:1",
+"end_ref": "15004005",
+"end_ref_usfm": "EZR 4:5"
+},
+{
+"start_ref": "43004001",
+"start_ref_usfm": "JHN 4:1",
+"end_ref": "43004042",
+"end_ref_usfm": "JHN 4:42"
+},
+{
+"start_ref": "16004001",
+"start_ref_usfm": "NEH 4:1",
+"end_ref": "16004023",
+"end_ref_usfm": "NEH 4:23"
+},
+{
+"start_ref": "12017021",
+"start_ref_usfm": "2KI 17:21",
+"end_ref": "12017041",
+"end_ref_usfm": "2KI 17:41"
+}
+],
+"resource": [],
+"acai": []
+}
+}
 ]

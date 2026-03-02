@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesProfiles",
-"date_created": "2026-02-25",
+"date_created": "2026-02-27",
 "language": "por",
 "localizations": [
 "eng",
@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-25T21:15:48.315340"
+"dateCreated": "2026-02-27T17:22:21.082819"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesProfiles": {
-"timestamp": "2026-02-25T21:15:48.315340"
+"timestamp": "2026-02-27T17:22:21.082819"
 }
 }
 },
@@ -95,7 +95,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 124430,
+"size": 104660,
 "scope": {
 "a": [
 "A Igreja Romana",
@@ -120,7 +120,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 36269,
+"size": 31147,
 "scope": {
 "b": [
 "Babilônia",
@@ -133,7 +133,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 18887,
+"size": 16001,
 "scope": {
 "c": [
 "Calebe",
@@ -144,7 +144,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 28000,
+"size": 23434,
 "scope": {
 "d": [
 "Daniel",
@@ -155,7 +155,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 81697,
+"size": 68385,
 "scope": {
 "e": [
 "Éfeso",
@@ -175,7 +175,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 19355,
+"size": 16189,
 "scope": {
 "f": [
 "Faraó",
@@ -186,7 +186,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 4410,
+"size": 3952,
 "scope": {
 "g": [
 "Gideão"
@@ -195,7 +195,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 20583,
+"size": 18013,
 "scope": {
 "h": [
 "Herodes Agripa I",
@@ -208,7 +208,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 35176,
+"size": 28696,
 "scope": {
 "i": [
 "Imperadores Romanos",
@@ -220,7 +220,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 159796,
+"size": 131514,
 "scope": {
 "j": [
 "Jacó",
@@ -245,7 +245,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 27364,
+"size": 22620,
 "scope": {
 "l": [
 "Lia",
@@ -257,7 +257,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 78406,
+"size": 65936,
 "scope": {
 "m": [
 "Macabeus",
@@ -275,7 +275,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 29243,
+"size": 24377,
 "scope": {
 "n": [
 "Nabucodonosor II",
@@ -288,7 +288,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 61276,
+"size": 51620,
 "scope": {
 "o": [
 "O Alto Conselho Judaico",
@@ -304,7 +304,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 31056,
+"size": 26490,
 "scope": {
 "p": [
 "Paulo (Saul)",
@@ -315,7 +315,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 42981,
+"size": 37311,
 "scope": {
 "r": [
 "Raabe",
@@ -330,7 +330,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 86036,
+"size": 70500,
 "scope": {
 "s": [
 "Salomão",
@@ -346,7 +346,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 43930,
+"size": 36376,
 "scope": {
 "t": [
 "Tiago, Filho de Zebedeu",
@@ -359,7 +359,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 5124,
+"size": 4330,
 "scope": {
 "u": [
 "Uzias"
@@ -368,7 +368,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 3161,
+"size": 2927,
 "scope": {
 "x": [
 "Xerxes I"
@@ -377,7 +377,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 11608,
+"size": 9740,
 "scope": {
 "z": [
 "Zadoque",
@@ -387,23 +387,23 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 64492
+"size": 64192
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 20900
+"size": 20842
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 10776
+"size": 10741
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 14735
+"size": 14705
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 41395
+"size": 41312
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
@@ -415,15 +415,15 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 13184
+"size": 13031
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 15881
+"size": 15852
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 73686
+"size": 73379
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
@@ -431,31 +431,31 @@
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 40716
+"size": 40127
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 14870
+"size": 14746
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 31599
+"size": 31338
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 17712
+"size": 17668
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 25799
+"size": 25764
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 38605
+"size": 38443
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 21038
+"size": 20824
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",

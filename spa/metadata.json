@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesProfiles",
-"date_created": "2026-02-25",
+"date_created": "2026-02-27",
 "language": "spa",
 "localizations": [
 "eng",
@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-25T21:15:48.820892"
+"dateCreated": "2026-02-27T17:22:22.433921"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesProfiles": {
-"timestamp": "2026-02-25T21:15:48.820892"
+"timestamp": "2026-02-27T17:22:22.433921"
 }
 }
 },
@@ -95,7 +95,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 122164,
+"size": 103076,
 "scope": {
 "a": [
 "Aarón",
@@ -119,7 +119,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 37161,
+"size": 32111,
 "scope": {
 "b": [
 "Babilonia",
@@ -132,7 +132,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 19271,
+"size": 16385,
 "scope": {
 "c": [
 "Caleb",
@@ -143,7 +143,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 28653,
+"size": 24087,
 "scope": {
 "d": [
 "Daniel",
@@ -154,7 +154,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 102205,
+"size": 86063,
 "scope": {
 "e": [
 "Efeso",
@@ -177,7 +177,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 19707,
+"size": 16541,
 "scope": {
 "f": [
 "Faraón",
@@ -188,7 +188,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 4565,
+"size": 4107,
 "scope": {
 "g": [
 "Gedeón"
@@ -197,7 +197,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 21290,
+"size": 18720,
 "scope": {
 "h": [
 "Herodes Agripa I",
@@ -210,7 +210,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 30667,
+"size": 24645,
 "scope": {
 "i": [
 "Isaac",
@@ -221,7 +221,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 186370,
+"size": 154250,
 "scope": {
 "j": [
 "Jacob",
@@ -249,7 +249,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 82433,
+"size": 69723,
 "scope": {
 "l": [
 "La Iglesia romana",
@@ -268,7 +268,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 80030,
+"size": 67560,
 "scope": {
 "m": [
 "Macabeos",
@@ -286,7 +286,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 29782,
+"size": 24916,
 "scope": {
 "n": [
 "Nabucodonosor II",
@@ -299,7 +299,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 31558,
+"size": 26992,
 "scope": {
 "p": [
 "Pablo (Saúl)",
@@ -310,7 +310,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 44001,
+"size": 38331,
 "scope": {
 "r": [
 "Rahab",
@@ -325,7 +325,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 95353,
+"size": 78463,
 "scope": {
 "s": [
 "Sadoc",
@@ -342,7 +342,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 25142,
+"size": 21192,
 "scope": {
 "t": [
 "Timoteo",
@@ -353,7 +353,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 5239,
+"size": 4445,
 "scope": {
 "u": [
 "Uzzías"
@@ -362,7 +362,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 3576,
+"size": 3062,
 "scope": {
 "z": [
 "Zorobabel"
@@ -371,23 +371,23 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 64087
+"size": 63785
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 21875
+"size": 21783
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 11148
+"size": 11113
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 15317
+"size": 15248
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 52575
+"size": 52490
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
@@ -399,23 +399,23 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 13848
+"size": 13757
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 13035
+"size": 13008
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 87582
+"size": 86975
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 43378
+"size": 42878
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 42067
+"size": 41400
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
@@ -423,15 +423,15 @@
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 18054
+"size": 18024
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 26700
+"size": 26603
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 43328
+"size": 43117
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",

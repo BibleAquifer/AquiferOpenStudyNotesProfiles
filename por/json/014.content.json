@@ -1,1170 +1,1132 @@
 [
-  {
-    "content_id": "658559",
-    "reference_id": 203482,
-    "version": "1.0.2",
-    "title": "O Alto Conselho Judaico",
-    "media_type": "Text",
-    "index_reference": "o alto conselho judaico",
-    "language": "por",
-    "review_level": "None",
-    "content": "<p>O alto conselho de líderes judeus em Jerusalém possuía um poder significativo no governo do povo judeu. É tradicionalmente chamado de Sinédrio, uma transliteração da palavra grega <em>sunedrion</em>, que significa &quot;conselho&quot;.</p><p>A tradição judaica afirma que o Sinédrio começou quando Moisés escolheu setenta anciãos (<a href=\"https://ref.ly/Num11:16\">Nm 11.16</a>). No entanto, a referência mais antiga está nas <em>Antiguidades</em> de Josefo 12.3.3, da época de Antíoco, o Grande, de 223 a 187 a.C. O Sinédrio provavelmente começou como um grupo autônomo de líderes sob o domínio persa (veja <a href=\"https://ref.ly/Ezra5:5-Ezra5:10\">Ed 5.5–10</a>; <a href=\"https://ref.ly/Neh2:16\">Ne 2.16</a>). A classe sacerdotal, liderada pelo sumo sacerdote, controlava o conselho superior. Governantes romanos e os fariseus influenciaram esses sacerdotes em diferentes graus. Herodes, o Grande, teve uma forte influência sobre as atividades do Sinédrio.</p><p>O Sinédrio lidava com questões legais e religiosas do Judaísmo. Isso incluía tomar decisões judiciais não resolvidas em tribunais menores, conhecidos como &quot;sinédrios locais&quot;, além de gerenciar a justiça criminal e prisões (veja <a href=\"https://ref.ly/Acts9:1-Acts9:2\">At 9.1–2</a>). Eles também tomavam decisões oficiais sobre questões judaicas, embora essas decisões não fossem executáveis. O Sinédrio não podia executar criminosos por conta própria (<a href=\"https://ref.ly/John18:31\">Jo 18.31</a>), mas podia fazê-lo com a aprovação romana.</p><p>A destruição de Jerusalém em 70 d.C. encerrou o papel do conselho superior como líder do judaísmo.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Matt26:57-Matt26:68\">Mateus 26.57–68</a>; <a href=\"https://ref.ly/Mark14:53-Mark14:65\">Marcos 14.53–65</a>; <a href=\"https://ref.ly/Mark15:1\">15.1</a>,<a href=\"https://ref.ly/Mark15:43\">43</a>; <a href=\"https://ref.ly/Luke22:66-Luke22:71\">Lucas 22.66–71</a>; <a href=\"https://ref.ly/Luke23:50-Luke23:54\">23.50–54</a>; <a href=\"https://ref.ly/John11:47-John11:53\">João 11.47–53</a>; <a href=\"https://ref.ly/Acts5:21-Acts5:41\">Atos 5.21–41</a>; <a href=\"https://ref.ly/Acts6:11-Acts8:1\">6.11–8.1</a>; <a href=\"https://ref.ly/Acts22:30-Acts23:10\">22.30–23.10</a>; <a href=\"https://ref.ly/Acts23:26-Acts23:30\">23.26–30</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "04011016",
-          "start_ref_usfm": "NUM 11:16",
-          "end_ref": "04011016",
-          "end_ref_usfm": "NUM 11:16"
-        },
-        {
-          "start_ref": "16002016",
-          "start_ref_usfm": "NEH 2:16",
-          "end_ref": "16002016",
-          "end_ref_usfm": "NEH 2:16"
-        },
-        {
-          "start_ref": "41015001",
-          "start_ref_usfm": "MRK 15:1",
-          "end_ref": "41015001",
-          "end_ref_usfm": "MRK 15:1"
-        },
-        {
-          "start_ref": "41015043",
-          "start_ref_usfm": "MRK 15:43",
-          "end_ref": "41015043",
-          "end_ref_usfm": "MRK 15:43"
-        },
-        {
-          "start_ref": "43018031",
-          "start_ref_usfm": "JHN 18:31",
-          "end_ref": "43018031",
-          "end_ref_usfm": "JHN 18:31"
-        },
-        {
-          "start_ref": "40026057",
-          "start_ref_usfm": "MAT 26:57",
-          "end_ref": "40026068",
-          "end_ref_usfm": "MAT 26:68"
-        },
-        {
-          "start_ref": "41014053",
-          "start_ref_usfm": "MRK 14:53",
-          "end_ref": "41014065",
-          "end_ref_usfm": "MRK 14:65"
-        },
-        {
-          "start_ref": "44022030",
-          "start_ref_usfm": "ACT 22:30",
-          "end_ref": "44023010",
-          "end_ref_usfm": "ACT 23:10"
-        },
-        {
-          "start_ref": "44009001",
-          "start_ref_usfm": "ACT 9:1",
-          "end_ref": "44009002",
-          "end_ref_usfm": "ACT 9:2"
-        },
-        {
-          "start_ref": "44023026",
-          "start_ref_usfm": "ACT 23:26",
-          "end_ref": "44023030",
-          "end_ref_usfm": "ACT 23:30"
-        },
-        {
-          "start_ref": "42022066",
-          "start_ref_usfm": "LUK 22:66",
-          "end_ref": "42022071",
-          "end_ref_usfm": "LUK 22:71"
-        },
-        {
-          "start_ref": "15005005",
-          "start_ref_usfm": "EZR 5:5",
-          "end_ref": "15005010",
-          "end_ref_usfm": "EZR 5:10"
-        },
-        {
-          "start_ref": "42023050",
-          "start_ref_usfm": "LUK 23:50",
-          "end_ref": "42023054",
-          "end_ref_usfm": "LUK 23:54"
-        },
-        {
-          "start_ref": "43011047",
-          "start_ref_usfm": "JHN 11:47",
-          "end_ref": "43011053",
-          "end_ref_usfm": "JHN 11:53"
-        },
-        {
-          "start_ref": "44005021",
-          "start_ref_usfm": "ACT 5:21",
-          "end_ref": "44005041",
-          "end_ref_usfm": "ACT 5:41"
-        },
-        {
-          "start_ref": "44006011",
-          "start_ref_usfm": "ACT 6:11",
-          "end_ref": "44008001",
-          "end_ref_usfm": "ACT 8:1"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "658548",
-    "reference_id": 203471,
-    "version": "1.0.2",
-    "title": "O Filho do Homem",
-    "media_type": "Text",
-    "index_reference": "o filho do homem",
-    "language": "por",
-    "review_level": "None",
-    "content": "<p>A expressão hebraica e aramaica “filho do homem” significa “ser humano”. No entanto, a figura em <a href=\"https://ref.ly/Dan7:13-Dan7:14\">Deuteronômio 7.13–14</a>, que é “como o Filho do Homem”, parece ser mais do que apenas um ser humano. Sua identidade exata não é revelada, mas seu papel é claro. O Altíssimo o escolheu para governar um reino eterno e universal sobre todas as nações. Ele também representa seu povo, o povo santo do Altíssimo. Eles compartilharão o reino deste filho do homem sobre todos os povos e nações (veja <a href=\"https://ref.ly/Dan7:22\">Dn 7.22</a>).</p><p>A cena ao redor deste filho do homem revela suas características divinas. A descrição &quot;vindo com as nuvens do céu&quot; em <a href=\"https://ref.ly/Dan7:13\">Daniel 7.13</a> indica que ele vem do céu (compare <a href=\"https://ref.ly/Ps68:4\">Sl 68.4</a>; <a href=\"https://ref.ly/Ps97:2\">97.2</a>; <a href=\"https://ref.ly/Nah1:3\">Na 1.3</a>). No livro de Êxodo, o Senhor Deus se cobriu com uma nuvem (<a href=\"https://ref.ly/Exod19:9\">Êx 19.9</a>). O povo de Deus subirá nas nuvens quando Jesus retornar (<a href=\"https://ref.ly/1Thess4:17\">1Ts 4.17</a>), assim como ele foi levado por uma nuvem quando subiu ao céu (<a href=\"https://ref.ly/Acts1:9\">At 1.9</a>). Este filho do homem recebe seu reino com humildade e santidade, não o tomando arrogantemente. Ele é o oposto em caráter ao pequeno chifre (<a href=\"https://ref.ly/Dan7:8\">Dn 7.8</a>).</p><p>Jesus se chama de Filho do Homem (<a href=\"https://ref.ly/Matt24:30\">Mt 24.30</a>; <a href=\"https://ref.ly/Matt26:24\">26.24</a>; <a href=\"https://ref.ly/Mark13:26\">Mc 13.26</a>; <a href=\"https://ref.ly/Luke21:27\">Lc 21.27</a>; <a href=\"https://ref.ly/John12:34\">Jo 12.34</a>; veja também <a href=\"https://ref.ly/Acts7:56\">At 7.56</a>; <a href=\"https://ref.ly/Heb2:6\">Hb 2.6</a>; <a href=\"https://ref.ly/Rev1:13\">Ap 1.13</a>; <a href=\"https://ref.ly/Rev14:14\">14.14</a>). <a href=\"https://ref.ly/Rev1:7\">Apocalipse 1.7</a> também conecta essa figura a Jesus Cristo, que foi transpassado por nossos pecados. Deus Pai deu a Jesus toda autoridade e poder para governar tudo e alcançar pessoas de todas as nações e reinos (<a href=\"https://ref.ly/Dan7:14\">Dn 7.14</a>; <a href=\"https://ref.ly/Matt28:18\">Mt 28.18</a>; <a href=\"https://ref.ly/Matt28:19-Matt28:20\">19–20</a>). Deus chamou Abraão para criar uma grande nação através de seu povo e abençoar todas as nações por meio dele (<a href=\"https://ref.ly/Gen12:1-Gen12:3\">Gn 12.1–3</a>). Jesus cumpriu essa promessa.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Dan7:13-Dan7:14\">Deuteronômio 7.13–14</a>; <a href=\"https://ref.ly/Matt24:30\">Mateus 24.30</a>; <a href=\"https://ref.ly/Matt26:24\">26.24</a>; <a href=\"https://ref.ly/Mark13:26\">Marcos 13.26</a>; <a href=\"https://ref.ly/Luke21:27\">Lucas 21.27</a>; <a href=\"https://ref.ly/John12:34\">João 12.34</a>; <a href=\"https://ref.ly/Rev1:13\">Apocalipse 1.13</a>; <a href=\"https://ref.ly/Rev14:14\">14.14</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "02019009",
-          "start_ref_usfm": "EXO 19:9",
-          "end_ref": "02019009",
-          "end_ref_usfm": "EXO 19:9"
-        },
-        {
-          "start_ref": "19068004",
-          "start_ref_usfm": "PSA 68:4",
-          "end_ref": "19068004",
-          "end_ref_usfm": "PSA 68:4"
-        },
-        {
-          "start_ref": "19097002",
-          "start_ref_usfm": "PSA 97:2",
-          "end_ref": "19097002",
-          "end_ref_usfm": "PSA 97:2"
-        },
-        {
-          "start_ref": "27007008",
-          "start_ref_usfm": "DAN 7:8",
-          "end_ref": "27007008",
-          "end_ref_usfm": "DAN 7:8"
-        },
-        {
-          "start_ref": "27007013",
-          "start_ref_usfm": "DAN 7:13",
-          "end_ref": "27007013",
-          "end_ref_usfm": "DAN 7:13"
-        },
-        {
-          "start_ref": "27007014",
-          "start_ref_usfm": "DAN 7:14",
-          "end_ref": "27007014",
-          "end_ref_usfm": "DAN 7:14"
-        },
-        {
-          "start_ref": "27007022",
-          "start_ref_usfm": "DAN 7:22",
-          "end_ref": "27007022",
-          "end_ref_usfm": "DAN 7:22"
-        },
-        {
-          "start_ref": "34001003",
-          "start_ref_usfm": "NAM 1:3",
-          "end_ref": "34001003",
-          "end_ref_usfm": "NAM 1:3"
-        },
-        {
-          "start_ref": "40024030",
-          "start_ref_usfm": "MAT 24:30",
-          "end_ref": "40024030",
-          "end_ref_usfm": "MAT 24:30"
-        },
-        {
-          "start_ref": "40026024",
-          "start_ref_usfm": "MAT 26:24",
-          "end_ref": "40026024",
-          "end_ref_usfm": "MAT 26:24"
-        },
-        {
-          "start_ref": "40028018",
-          "start_ref_usfm": "MAT 28:18",
-          "end_ref": "40028018",
-          "end_ref_usfm": "MAT 28:18"
-        },
-        {
-          "start_ref": "41013026",
-          "start_ref_usfm": "MRK 13:26",
-          "end_ref": "41013026",
-          "end_ref_usfm": "MRK 13:26"
-        },
-        {
-          "start_ref": "42021027",
-          "start_ref_usfm": "LUK 21:27",
-          "end_ref": "42021027",
-          "end_ref_usfm": "LUK 21:27"
-        },
-        {
-          "start_ref": "43012034",
-          "start_ref_usfm": "JHN 12:34",
-          "end_ref": "43012034",
-          "end_ref_usfm": "JHN 12:34"
-        },
-        {
-          "start_ref": "44001009",
-          "start_ref_usfm": "ACT 1:9",
-          "end_ref": "44001009",
-          "end_ref_usfm": "ACT 1:9"
-        },
-        {
-          "start_ref": "44007056",
-          "start_ref_usfm": "ACT 7:56",
-          "end_ref": "44007056",
-          "end_ref_usfm": "ACT 7:56"
-        },
-        {
-          "start_ref": "52004017",
-          "start_ref_usfm": "1TH 4:17",
-          "end_ref": "52004017",
-          "end_ref_usfm": "1TH 4:17"
-        },
-        {
-          "start_ref": "58002006",
-          "start_ref_usfm": "HEB 2:6",
-          "end_ref": "58002006",
-          "end_ref_usfm": "HEB 2:6"
-        },
-        {
-          "start_ref": "66001007",
-          "start_ref_usfm": "REV 1:7",
-          "end_ref": "66001007",
-          "end_ref_usfm": "REV 1:7"
-        },
-        {
-          "start_ref": "66001013",
-          "start_ref_usfm": "REV 1:13",
-          "end_ref": "66001013",
-          "end_ref_usfm": "REV 1:13"
-        },
-        {
-          "start_ref": "66014014",
-          "start_ref_usfm": "REV 14:14",
-          "end_ref": "66014014",
-          "end_ref_usfm": "REV 14:14"
-        },
-        {
-          "start_ref": "01012001",
-          "start_ref_usfm": "GEN 12:1",
-          "end_ref": "01012003",
-          "end_ref_usfm": "GEN 12:3"
-        },
-        {
-          "start_ref": "27007013",
-          "start_ref_usfm": "DAN 7:13",
-          "end_ref": "27007014",
-          "end_ref_usfm": "DAN 7:14"
-        },
-        {
-          "start_ref": "40028019",
-          "start_ref_usfm": "MAT 28:19",
-          "end_ref": "40028020",
-          "end_ref_usfm": "MAT 28:20"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "658508",
-    "reference_id": 203431,
-    "version": "1.0.2",
-    "title": "Os amalequitas",
-    "media_type": "Text",
-    "index_reference": "os amalequitas",
-    "language": "por",
-    "review_level": "None",
-    "content": "<p>Os amalequitas eram descendentes de Amaleque, um neto de Esaú (<a href=\"https://ref.ly/Gen36:12\">Gn 36.12</a>; <a href=\"https://ref.ly/1Chr1:36\">1Cr 1.36</a>). Eles eram pastores nômades. Seu território no Neguebe se estendia do sul de Berseba até o sudeste, alcançando Elate e Eziom-Geber. Eles provavelmente invadiam a oeste na planície costeira, a leste nos desertos de Arabá, e possivelmente na Arábia.</p><p>Os amalequitas eram inimigos poderosos de Israel. Israel encontrou pela primeira vez os guerreiros amalequitas em Refidim, perto do Sinai, quando atacaram Israel (<a href=\"https://ref.ly/Exod17:8-Exod17:16\">Êx 17.8–16</a>). Josué e o exército israelita derrotaram os amalequitas nesta batalha. Mais tarde, os amalequitas impediram a tentativa desobediente de Israel de entrar na Terra Prometida (<a href=\"https://ref.ly/Num14:39-Num14:45\">Nm 14.39–45</a>).</p><p>Devido à sua hostilidade, Moisés instruiu Israel a destruí-los (<a href=\"https://ref.ly/Deut25:17-Deut25:19\">Dt 25.17–19</a>). No entanto, os amalequitas continuaram a viver no Neguebe (veja <a href=\"https://ref.ly/Judg3:12-Judg3:14\">Jz 3.12–14</a>; <a href=\"https://ref.ly/Judg6:33\">6.33</a>; <a href=\"https://ref.ly/1Sam14:47-1Sam14:48\">1Sm 14.47–48</a>; <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">15.1–35</a>). Aqueles que sobreviveram permaneceram inimigos de Israel (<a href=\"https://ref.ly/1Sam27:8\">1Sm 27.8</a>; <a href=\"https://ref.ly/1Sam30:1-1Sam30:20\">30.1–20</a>; <a href=\"https://ref.ly/2Sam8:11-2Sam8:12\">2Sm 8.11–12</a>; <a href=\"https://ref.ly/Ps83:1-Ps83:8\">Sl 83.1–8</a>). Este grupo remanescente foi finalmente destruído durante o reinado do Rei Ezequias (<a href=\"https://ref.ly/1Chr4:42-1Chr4:43\">1Cr 4.42–43</a>). No livro de Ester, Hamã, um descendente do Rei Agague, demonstrou sua hostilidade até o fim (<a href=\"https://ref.ly/Esth3:1-Esth3:15\">Et 3</a>; veja <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">1Sm 15</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/1Sam30:1-1Sam30:31\">1 Samuel 30.1–31</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01036012",
-          "start_ref_usfm": "GEN 36:12",
-          "end_ref": "01036012",
-          "end_ref_usfm": "GEN 36:12"
-        },
-        {
-          "start_ref": "07006033",
-          "start_ref_usfm": "JDG 6:33",
-          "end_ref": "07006033",
-          "end_ref_usfm": "JDG 6:33"
-        },
-        {
-          "start_ref": "09027008",
-          "start_ref_usfm": "1SA 27:8",
-          "end_ref": "09027008",
-          "end_ref_usfm": "1SA 27:8"
-        },
-        {
-          "start_ref": "13001036",
-          "start_ref_usfm": "1CH 1:36",
-          "end_ref": "13001036",
-          "end_ref_usfm": "1CH 1:36"
-        },
-        {
-          "start_ref": "02017008",
-          "start_ref_usfm": "EXO 17:8",
-          "end_ref": "02017016",
-          "end_ref_usfm": "EXO 17:16"
-        },
-        {
-          "start_ref": "09015001",
-          "start_ref_usfm": "1SA 15:1",
-          "end_ref": "09015035",
-          "end_ref_usfm": "1SA 15:35"
-        },
-        {
-          "start_ref": "04014039",
-          "start_ref_usfm": "NUM 14:39",
-          "end_ref": "04014045",
-          "end_ref_usfm": "NUM 14:45"
-        },
-        {
-          "start_ref": "05025017",
-          "start_ref_usfm": "DEU 25:17",
-          "end_ref": "05025019",
-          "end_ref_usfm": "DEU 25:19"
-        },
-        {
-          "start_ref": "07003012",
-          "start_ref_usfm": "JDG 3:12",
-          "end_ref": "07003014",
-          "end_ref_usfm": "JDG 3:14"
-        },
-        {
-          "start_ref": "09014047",
-          "start_ref_usfm": "1SA 14:47",
-          "end_ref": "09014048",
-          "end_ref_usfm": "1SA 14:48"
-        },
-        {
-          "start_ref": "09030001",
-          "start_ref_usfm": "1SA 30:1",
-          "end_ref": "09030020",
-          "end_ref_usfm": "1SA 30:20"
-        },
-        {
-          "start_ref": "10008011",
-          "start_ref_usfm": "2SA 8:11",
-          "end_ref": "10008012",
-          "end_ref_usfm": "2SA 8:12"
-        },
-        {
-          "start_ref": "17003001",
-          "start_ref_usfm": "EST 3:1",
-          "end_ref": "17003015",
-          "end_ref_usfm": "EST 3:15"
-        },
-        {
-          "start_ref": "09030001",
-          "start_ref_usfm": "1SA 30:1",
-          "end_ref": "09030031",
-          "end_ref_usfm": "1SA 30:31"
-        },
-        {
-          "start_ref": "13004042",
-          "start_ref_usfm": "1CH 4:42",
-          "end_ref": "13004043",
-          "end_ref_usfm": "1CH 4:43"
-        },
-        {
-          "start_ref": "19083001",
-          "start_ref_usfm": "PSA 83:1",
-          "end_ref": "19083008",
-          "end_ref_usfm": "PSA 83:8"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "place:Amalek",
-          "type": "place",
-          "preferred_label": "Ameleque",
-          "confidence": 0.5573,
-          "match_method": "scored"
-        },
-        {
-          "id": "group:Amalek",
-          "type": "group",
-          "preferred_label": "Amalekites",
-          "confidence": 0.5077,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "658555",
-    "reference_id": 203478,
-    "version": "1.0.2",
-    "title": "Os Fariseus",
-    "media_type": "Text",
-    "index_reference": "os fariseus",
-    "language": "por",
-    "review_level": "None",
-    "content": "<p>Os fariseus eram um dos três principais grupos judaicos, juntamente com os saduceus e os essênios. Ao contrário de alguns outros grupos, os fariseus não tentaram ganhar poder político. Eles surgiram como parte de um grupo chamado <em>hasidim</em> (os piedosos), que se opunha à mistura da cultura e religião grega com o judaísmo no segundo século a.C.</p><p>Os fariseus tentaram tornar a lei do Antigo Testamento prática para os judeus que desejavam obedecê-la. Eles se concentraram tanto na lei escrita de Moisés (chamada de <em>torah</em>) quanto nas tradições orais que afirmavam que Moisés transmitiu. Seu objetivo era proteger a lei escrita de quaisquer violações. Eles eram conhecidos por serem devotos e cumpridores da lei.</p><p>Os fariseus transmitiam suas interpretações da lei oralmente de uma geração para outra, criando uma tradição sobre questões legais. Eles tornaram a lei relevante ao estabelecer diretrizes específicas para muitas situações. Acreditavam que, se todos seguissem a lei, a nação estaria livre do pecado e Deus governaria todas as nações. Esse objetivo futuro motivava seu foco na obediência. As tradições dos fariseus mais tarde se tornaram os escritos rabínicos conhecidos como <em>Mishnah</em> e <em>Talmud</em>.</p><p>Os fariseus eram um grupo pequeno, mas tinham muita influência em Israel (veja <a href=\"https://ref.ly/Matt15:12-Matt15:14\">Mt 15.12–14</a>; veja também Josefo, <em>Guerra</em> 2.8.14; <em>Antiguidades</em> 13.10.5). Eles influenciavam principalmente as comunidades locais das sinagogas. Os saduceus, no entanto, eram mais influentes no culto do templo em Jerusalém e no Sinédrio, o conselho superior judaico.</p><p>Ao contrário dos saduceus, os fariseus acreditavam firmemente na ressurreição dos mortos (veja <a href=\"https://ref.ly/Acts23:6-Acts23:8\">At 23.6–8</a>). Após a destruição de Jerusalém em 70 d.C., os fariseus lideraram e guiaram o povo de Israel.</p><p>Havia frequentemente conflito entre Jesus e os fariseus. Jesus os acusava de hipocrisia (dizer uma coisa, mas fazer outra) e de priorizar regras humanas sobre os padrões justos de Deus. Ele se opunha a eles porque afastavam as pessoas do plano de redenção de Deus. Embora fossem líderes religiosos de Israel, Jesus os criticava como hipócritas por distorcerem ensinamentos e práticas (veja <a href=\"https://ref.ly/Matt23:1-Matt23:39\">Mt 23</a>). Os fariseus se opunham a Jesus. Eles o rejeitaram e seu trabalho principalmente porque ele ignorava suas tradições (veja, por exemplo, <a href=\"https://ref.ly/Matt15:1-Matt15:20\">Mt 15.1–20</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Matt3:7\">Mateus 3.7</a>; <a href=\"https://ref.ly/Matt5:20\">5.20</a>; <a href=\"https://ref.ly/Matt9:10-Matt9:14\">9.10–14</a>,<a href=\"https://ref.ly/Matt9:34\">34</a>; <a href=\"https://ref.ly/Matt12:1-Matt12:14\">12.1–14</a>,<a href=\"https://ref.ly/Matt12:22-Matt12:24\">22–24</a>,<a href=\"https://ref.ly/Matt12:38-Matt12:40\">38–40</a>; <a href=\"https://ref.ly/Matt15:1-Matt15:14\">15.1–14</a>; <a href=\"https://ref.ly/Matt16:1-Matt16:12\">16.1–12</a>; <a href=\"https://ref.ly/Matt19:3\">19.3</a>; <a href=\"https://ref.ly/Matt21:45\">21.45</a>; <a href=\"https://ref.ly/Matt22:15\">22.15</a>,<a href=\"https://ref.ly/Matt22:34\">34</a>; <a href=\"https://ref.ly/Matt23:1-Matt23:7\">23.1–7</a>,<a href=\"https://ref.ly/Matt23:13-Matt23:31\">13–31</a>; <a href=\"https://ref.ly/Matt27:62-Matt27:64\">27.62–64</a>; <a href=\"https://ref.ly/Mark2:23-Mark2:25\">Marcos 2.23–25</a>; <a href=\"https://ref.ly/Mark3:1-Mark3:6\">3.1–6</a>; <a href=\"https://ref.ly/Mark7:1-Mark7:13\">7.1–13</a>; <a href=\"https://ref.ly/Mark8:11-Mark8:12\">8.11–12</a>; <a href=\"https://ref.ly/Mark12:13-Mark12:17\">12.13–17</a>; <a href=\"https://ref.ly/Luke5:17-Luke5:21\">Lucas 5.17–21</a>,<a href=\"https://ref.ly/Luke5:29-Luke5:32\">29–32</a>; <a href=\"https://ref.ly/Luke6:6-Luke6:11\">6.6–11</a>; <a href=\"https://ref.ly/Luke7:28-Luke7:30\">7.28–30</a>,<a href=\"https://ref.ly/Luke7:36-Luke7:49\">36–49</a>; <a href=\"https://ref.ly/Luke11:37-Luke11:54\">11.37–54</a>; <a href=\"https://ref.ly/Luke12:1-Luke12:3\">12.1–3</a>; <a href=\"https://ref.ly/Luke13:31\">13.31</a>; <a href=\"https://ref.ly/Luke14:1-Luke14:6\">14.1–6</a>; <a href=\"https://ref.ly/Luke15:1-Luke15:2\">15.1–2</a>; <a href=\"https://ref.ly/Luke16:13-Luke16:15\">16.13–15</a>; <a href=\"https://ref.ly/Luke17:20-Luke17:21\">17.20–21</a>; <a href=\"https://ref.ly/Luke18:9-Luke18:14\">18.9–14</a>; <a href=\"https://ref.ly/Luke19:38-Luke19:40\">19.38–40</a>; <a href=\"https://ref.ly/John1:24-John1:25\">João 1.24–25</a>; <a href=\"https://ref.ly/John3:1\">3.1</a>; <a href=\"https://ref.ly/John7:31-John7:32\">7.31–32</a>,<a href=\"https://ref.ly/John7:45-John7:52\">45–52</a>; <a href=\"https://ref.ly/John8:3-John8:10\">8.3–10</a>,<a href=\"https://ref.ly/John8:13\">13</a>; <a href=\"https://ref.ly/John9:13-John9:34\">9.13–34</a>,<a href=\"https://ref.ly/John9:40\">40</a>; <a href=\"https://ref.ly/John11:46-John11:57\">11.46–57</a>; <a href=\"https://ref.ly/John12:17-John12:19\">12.17–19</a>,<a href=\"https://ref.ly/John12:42\">42</a>; <a href=\"https://ref.ly/John18:3\">18.3</a>; <a href=\"https://ref.ly/Acts5:27-Acts5:40\">Atos 5.27–40</a>; <a href=\"https://ref.ly/Acts15:5\">15.5</a>; <a href=\"https://ref.ly/Acts23:6-Acts23:10\">23.6–10</a>; <a href=\"https://ref.ly/Acts26:4-Acts26:5\">26.4–5</a>; <a href=\"https://ref.ly/Phil3:5-Phil3:7\">Fp 3.5–7</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "40003007",
-          "start_ref_usfm": "MAT 3:7",
-          "end_ref": "40003007",
-          "end_ref_usfm": "MAT 3:7"
-        },
-        {
-          "start_ref": "40005020",
-          "start_ref_usfm": "MAT 5:20",
-          "end_ref": "40005020",
-          "end_ref_usfm": "MAT 5:20"
-        },
-        {
-          "start_ref": "40009034",
-          "start_ref_usfm": "MAT 9:34",
-          "end_ref": "40009034",
-          "end_ref_usfm": "MAT 9:34"
-        },
-        {
-          "start_ref": "40019003",
-          "start_ref_usfm": "MAT 19:3",
-          "end_ref": "40019003",
-          "end_ref_usfm": "MAT 19:3"
-        },
-        {
-          "start_ref": "40021045",
-          "start_ref_usfm": "MAT 21:45",
-          "end_ref": "40021045",
-          "end_ref_usfm": "MAT 21:45"
-        },
-        {
-          "start_ref": "40022015",
-          "start_ref_usfm": "MAT 22:15",
-          "end_ref": "40022015",
-          "end_ref_usfm": "MAT 22:15"
-        },
-        {
-          "start_ref": "40022034",
-          "start_ref_usfm": "MAT 22:34",
-          "end_ref": "40022034",
-          "end_ref_usfm": "MAT 22:34"
-        },
-        {
-          "start_ref": "42013031",
-          "start_ref_usfm": "LUK 13:31",
-          "end_ref": "42013031",
-          "end_ref_usfm": "LUK 13:31"
-        },
-        {
-          "start_ref": "43003001",
-          "start_ref_usfm": "JHN 3:1",
-          "end_ref": "43003001",
-          "end_ref_usfm": "JHN 3:1"
-        },
-        {
-          "start_ref": "43008013",
-          "start_ref_usfm": "JHN 8:13",
-          "end_ref": "43008013",
-          "end_ref_usfm": "JHN 8:13"
-        },
-        {
-          "start_ref": "43009040",
-          "start_ref_usfm": "JHN 9:40",
-          "end_ref": "43009040",
-          "end_ref_usfm": "JHN 9:40"
-        },
-        {
-          "start_ref": "43012042",
-          "start_ref_usfm": "JHN 12:42",
-          "end_ref": "43012042",
-          "end_ref_usfm": "JHN 12:42"
-        },
-        {
-          "start_ref": "43018003",
-          "start_ref_usfm": "JHN 18:3",
-          "end_ref": "43018003",
-          "end_ref_usfm": "JHN 18:3"
-        },
-        {
-          "start_ref": "44015005",
-          "start_ref_usfm": "ACT 15:5",
-          "end_ref": "44015005",
-          "end_ref_usfm": "ACT 15:5"
-        },
-        {
-          "start_ref": "40016001",
-          "start_ref_usfm": "MAT 16:1",
-          "end_ref": "40016012",
-          "end_ref_usfm": "MAT 16:12"
-        },
-        {
-          "start_ref": "41012013",
-          "start_ref_usfm": "MRK 12:13",
-          "end_ref": "41012017",
-          "end_ref_usfm": "MRK 12:17"
-        },
-        {
-          "start_ref": "44026004",
-          "start_ref_usfm": "ACT 26:4",
-          "end_ref": "44026005",
-          "end_ref_usfm": "ACT 26:5"
-        },
-        {
-          "start_ref": "44005027",
-          "start_ref_usfm": "ACT 5:27",
-          "end_ref": "44005040",
-          "end_ref_usfm": "ACT 5:40"
-        },
-        {
-          "start_ref": "40015001",
-          "start_ref_usfm": "MAT 15:1",
-          "end_ref": "40015020",
-          "end_ref_usfm": "MAT 15:20"
-        },
-        {
-          "start_ref": "41003001",
-          "start_ref_usfm": "MRK 3:1",
-          "end_ref": "41003006",
-          "end_ref_usfm": "MRK 3:6"
-        },
-        {
-          "start_ref": "41007001",
-          "start_ref_usfm": "MRK 7:1",
-          "end_ref": "41007013",
-          "end_ref_usfm": "MRK 7:13"
-        },
-        {
-          "start_ref": "42017020",
-          "start_ref_usfm": "LUK 17:20",
-          "end_ref": "42017021",
-          "end_ref_usfm": "LUK 17:21"
-        },
-        {
-          "start_ref": "40023001",
-          "start_ref_usfm": "MAT 23:1",
-          "end_ref": "40023039",
-          "end_ref_usfm": "MAT 23:39"
-        },
-        {
-          "start_ref": "40012001",
-          "start_ref_usfm": "MAT 12:1",
-          "end_ref": "40012014",
-          "end_ref_usfm": "MAT 12:14"
-        },
-        {
-          "start_ref": "41008011",
-          "start_ref_usfm": "MRK 8:11",
-          "end_ref": "41008012",
-          "end_ref_usfm": "MRK 8:12"
-        },
-        {
-          "start_ref": "40012022",
-          "start_ref_usfm": "MAT 12:22",
-          "end_ref": "40012024",
-          "end_ref_usfm": "MAT 12:24"
-        },
-        {
-          "start_ref": "40012038",
-          "start_ref_usfm": "MAT 12:38",
-          "end_ref": "40012040",
-          "end_ref_usfm": "MAT 12:40"
-        },
-        {
-          "start_ref": "42018009",
-          "start_ref_usfm": "LUK 18:9",
-          "end_ref": "42018014",
-          "end_ref_usfm": "LUK 18:14"
-        },
-        {
-          "start_ref": "44023006",
-          "start_ref_usfm": "ACT 23:6",
-          "end_ref": "44023008",
-          "end_ref_usfm": "ACT 23:8"
-        },
-        {
-          "start_ref": "42006006",
-          "start_ref_usfm": "LUK 6:6",
-          "end_ref": "42006011",
-          "end_ref_usfm": "LUK 6:11"
-        },
-        {
-          "start_ref": "42015001",
-          "start_ref_usfm": "LUK 15:1",
-          "end_ref": "42015002",
-          "end_ref_usfm": "LUK 15:2"
-        },
-        {
-          "start_ref": "43012017",
-          "start_ref_usfm": "JHN 12:17",
-          "end_ref": "43012019",
-          "end_ref_usfm": "JHN 12:19"
-        },
-        {
-          "start_ref": "43007045",
-          "start_ref_usfm": "JHN 7:45",
-          "end_ref": "43007052",
-          "end_ref_usfm": "JHN 7:52"
-        },
-        {
-          "start_ref": "42005029",
-          "start_ref_usfm": "LUK 5:29",
-          "end_ref": "42005032",
-          "end_ref_usfm": "LUK 5:32"
-        },
-        {
-          "start_ref": "43001024",
-          "start_ref_usfm": "JHN 1:24",
-          "end_ref": "43001025",
-          "end_ref_usfm": "JHN 1:25"
-        },
-        {
-          "start_ref": "42011037",
-          "start_ref_usfm": "LUK 11:37",
-          "end_ref": "42011054",
-          "end_ref_usfm": "LUK 11:54"
-        },
-        {
-          "start_ref": "43009013",
-          "start_ref_usfm": "JHN 9:13",
-          "end_ref": "43009034",
-          "end_ref_usfm": "JHN 9:34"
-        },
-        {
-          "start_ref": "43011046",
-          "start_ref_usfm": "JHN 11:46",
-          "end_ref": "43011057",
-          "end_ref_usfm": "JHN 11:57"
-        },
-        {
-          "start_ref": "40027062",
-          "start_ref_usfm": "MAT 27:62",
-          "end_ref": "40027064",
-          "end_ref_usfm": "MAT 27:64"
-        },
-        {
-          "start_ref": "44023006",
-          "start_ref_usfm": "ACT 23:6",
-          "end_ref": "44023010",
-          "end_ref_usfm": "ACT 23:10"
-        },
-        {
-          "start_ref": "42014001",
-          "start_ref_usfm": "LUK 14:1",
-          "end_ref": "42014006",
-          "end_ref_usfm": "LUK 14:6"
-        },
-        {
-          "start_ref": "40015012",
-          "start_ref_usfm": "MAT 15:12",
-          "end_ref": "40015014",
-          "end_ref_usfm": "MAT 15:14"
-        },
-        {
-          "start_ref": "40009010",
-          "start_ref_usfm": "MAT 9:10",
-          "end_ref": "40009014",
-          "end_ref_usfm": "MAT 9:14"
-        },
-        {
-          "start_ref": "40015001",
-          "start_ref_usfm": "MAT 15:1",
-          "end_ref": "40015014",
-          "end_ref_usfm": "MAT 15:14"
-        },
-        {
-          "start_ref": "40023001",
-          "start_ref_usfm": "MAT 23:1",
-          "end_ref": "40023007",
-          "end_ref_usfm": "MAT 23:7"
-        },
-        {
-          "start_ref": "40023013",
-          "start_ref_usfm": "MAT 23:13",
-          "end_ref": "40023031",
-          "end_ref_usfm": "MAT 23:31"
-        },
-        {
-          "start_ref": "41002023",
-          "start_ref_usfm": "MRK 2:23",
-          "end_ref": "41002025",
-          "end_ref_usfm": "MRK 2:25"
-        },
-        {
-          "start_ref": "42005017",
-          "start_ref_usfm": "LUK 5:17",
-          "end_ref": "42005021",
-          "end_ref_usfm": "LUK 5:21"
-        },
-        {
-          "start_ref": "42007028",
-          "start_ref_usfm": "LUK 7:28",
-          "end_ref": "42007030",
-          "end_ref_usfm": "LUK 7:30"
-        },
-        {
-          "start_ref": "42007036",
-          "start_ref_usfm": "LUK 7:36",
-          "end_ref": "42007049",
-          "end_ref_usfm": "LUK 7:49"
-        },
-        {
-          "start_ref": "42012001",
-          "start_ref_usfm": "LUK 12:1",
-          "end_ref": "42012003",
-          "end_ref_usfm": "LUK 12:3"
-        },
-        {
-          "start_ref": "42016013",
-          "start_ref_usfm": "LUK 16:13",
-          "end_ref": "42016015",
-          "end_ref_usfm": "LUK 16:15"
-        },
-        {
-          "start_ref": "42019038",
-          "start_ref_usfm": "LUK 19:38",
-          "end_ref": "42019040",
-          "end_ref_usfm": "LUK 19:40"
-        },
-        {
-          "start_ref": "43007031",
-          "start_ref_usfm": "JHN 7:31",
-          "end_ref": "43007032",
-          "end_ref_usfm": "JHN 7:32"
-        },
-        {
-          "start_ref": "43008003",
-          "start_ref_usfm": "JHN 8:3",
-          "end_ref": "43008010",
-          "end_ref_usfm": "JHN 8:10"
-        },
-        {
-          "start_ref": "50003005",
-          "start_ref_usfm": "PHP 3:5",
-          "end_ref": "50003007",
-          "end_ref_usfm": "PHP 3:7"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "group:Pharisee",
-          "type": "group",
-          "preferred_label": "Pharisees",
-          "confidence": 0.5341,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "658498",
-    "reference_id": 203421,
-    "version": "1.0.2",
-    "title": "Os Filisteus",
-    "media_type": "Text",
-    "index_reference": "os filisteus",
-    "language": "por",
-    "review_level": "None",
-    "content": "<p>Os filisteus viviam na planície costeira sudeste do Mediterrâneo. Eles faziam parte de um grupo maior de viajantes marítimos da região do Egeu, chamados de &quot;povos do mar&quot; pelos egípcios. Por volta de 1200 a.C., eles se estabeleceram na planície costeira inferior da Palestina e fundaram cinco cidades:</p><ol><li><p>Asdode</p></li><li><p>Asquelom</p></li><li><p>Ecrom</p></li><li><p>Gaza</p></li><li><p>Portão</p></li></ol><p>Os filisteus não eram simples; eles eram habilidosos em política e tecnologia. Eles também eram guerreiros fortes. Sua tecnologia de ferro os tornava inimigos quase imbatíveis (veja <a href=\"https://ref.ly/1Sam13:19-1Sam13:22\">1Sm 13.19–22</a>). Eles frequentemente lutavam contra os israelitas durante o tempo dos juízes, por volta de 1350 a 1050 a.C., e no início da monarquia unida, de cerca de 1050 a 970 a.C. Saul morreu lutando contra os filisteus (<a href=\"https://ref.ly/1Sam31:1-1Sam31:13\">1Sm 31.1–13</a>). No entanto, Davi os derrotou antes de se tornar rei (<a href=\"https://ref.ly/1Sam18:20-1Sam18:30\">1Sm 18.20–30</a>; <a href=\"https://ref.ly/1Sam19:8\">19.8</a>; <a href=\"https://ref.ly/1Sam23:1-1Sam23:5\">23.1–5</a>) e continuou a vencer contra eles durante seu reinado (<a href=\"https://ref.ly/2Sam5:17-2Sam5:25\">2Sm 5.17–25</a>; <a href=\"https://ref.ly/2Sam8:1\">8.1</a>; <a href=\"https://ref.ly/2Sam21:15\">21.15–22</a>). Embora os filisteus nunca tenham desaparecido completamente enquanto Israel existiu como nação (<a href=\"https://ref.ly/2Kgs18:8\">2Rs 18.8</a>; <a href=\"https://ref.ly/2Chr17:11\">2Cr 17.11</a>; <a href=\"https://ref.ly/2Chr21:16-2Chr21:17\">21.16–17</a>; <a href=\"https://ref.ly/2Chr26:6-2Chr26:7\">26.6–7</a>; <a href=\"https://ref.ly/2Chr28:18\">28.18</a>), Davi efetivamente encerrou sua ameaça.</p><p>Em 1 Samuel, Deus usou os filisteus para remover a família pecaminosa de Eli (<a href=\"https://ref.ly/1Sam4:10-1Sam4:22\">1Sm 4.10–22</a>). Os filisteus também ajudaram a construir a carreira militar e política de Davi (<a href=\"https://ref.ly/1Sam17:32-1Sam17:58\">1Sm 17.32–58</a>; <a href=\"https://ref.ly/1Sam18:20-1Sam18:30\">18.20–30</a>). Eles distraíram Saul quando ele estava perto de capturar Davi (<a href=\"https://ref.ly/1Sam23:26-1Sam23:28\">1Sm 23.26–28</a>). Eles deram refúgio a Davi ao fugir de Saul (<a href=\"https://ref.ly/1Sam21:10-1Sam21:15\">1Sm 21.10–15</a>; <a href=\"https://ref.ly/1Sam27:1-1Sam27:12\">27.1–12</a>). Eles impediram Davi de lutar contra seu próprio povo (<a href=\"https://ref.ly/1Sam29:1-1Sam29:11\">1Sm 29.1–11</a>). Eles mataram Saul e seus filhos (<a href=\"https://ref.ly/1Sam31:1-1Sam31:13\">1Sm 31.1–13</a>). Isso possibilitou que Davi se tornasse rei. No entanto, no final, os filisteus experimentaram o julgamento de Deus (veja <a href=\"https://ref.ly/Ezek25:15-Ezek25:17\">Ez 25.15–17</a>; <a href=\"https://ref.ly/Amos1:6-Amos1:8\">Am 1.6–8</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen10:13-Gen10:14\">Gênesis 10.13–14</a>; <a href=\"https://ref.ly/Judg3:1-Judg3:3\">Juízes 3.1–3</a>; <a href=\"https://ref.ly/Judg13:1-Judg16:31\">Juízes 13.1–16.31</a>; <a href=\"https://ref.ly/1Sam5:1-1Sam6:18\">1 Samuel 5.1–6.18</a>; <a href=\"https://ref.ly/1Sam13:16-1Sam14:23\">13.16–14.23</a>; <a href=\"https://ref.ly/1Sam21:10-1Sam21:15\">21.10–15</a>; <a href=\"https://ref.ly/1Sam23:1-1Sam23:5\">23.1–5</a>,<a href=\"https://ref.ly/1Sam23:26-1Sam23:28\">26–28</a>; <a href=\"https://ref.ly/1Sam31:1-1Sam31:10\">31.1–10</a>; <a href=\"https://ref.ly/2Sam5:17-2Sam5:25\">2 Samuel 5.17–25</a>; <a href=\"https://ref.ly/2Sam8:1\">8.1</a>; <a href=\"https://ref.ly/2Sam21:15-2Sam21:22\">21.15–22</a>; <a href=\"https://ref.ly/2Kgs18:8\">2 Reis 18.8</a>; <a href=\"https://ref.ly/2Chr17:10-2Chr17:11\">2 Crônicas 17.10–11</a>; <a href=\"https://ref.ly/2Chr21:16-2Chr21:17\">21.16–17</a>; <a href=\"https://ref.ly/2Chr26:6-2Chr26:7\">26.6–7</a>; <a href=\"https://ref.ly/2Chr28:18-2Chr28:19\">28.18–19</a>; <a href=\"https://ref.ly/Isa2:6\">Is 2.6</a>; <a href=\"https://ref.ly/Ezek25:15-Ezek25:17\">Ezequiel 25.15–17</a>; <a href=\"https://ref.ly/Amos1:6-Amos1:8\">Amós 1.6–8</a>; <a href=\"https://ref.ly/Amos9:7\">9.7</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "09019008",
-          "start_ref_usfm": "1SA 19:8",
-          "end_ref": "09019008",
-          "end_ref_usfm": "1SA 19:8"
-        },
-        {
-          "start_ref": "10008001",
-          "start_ref_usfm": "2SA 8:1",
-          "end_ref": "10008001",
-          "end_ref_usfm": "2SA 8:1"
-        },
-        {
-          "start_ref": "10021015",
-          "start_ref_usfm": "2SA 21:15",
-          "end_ref": "10021015",
-          "end_ref_usfm": "2SA 21:15"
-        },
-        {
-          "start_ref": "12018008",
-          "start_ref_usfm": "2KI 18:8",
-          "end_ref": "12018008",
-          "end_ref_usfm": "2KI 18:8"
-        },
-        {
-          "start_ref": "14017011",
-          "start_ref_usfm": "2CH 17:11",
-          "end_ref": "14017011",
-          "end_ref_usfm": "2CH 17:11"
-        },
-        {
-          "start_ref": "14028018",
-          "start_ref_usfm": "2CH 28:18",
-          "end_ref": "14028018",
-          "end_ref_usfm": "2CH 28:18"
-        },
-        {
-          "start_ref": "23002006",
-          "start_ref_usfm": "ISA 2:6",
-          "end_ref": "23002006",
-          "end_ref_usfm": "ISA 2:6"
-        },
-        {
-          "start_ref": "30009007",
-          "start_ref_usfm": "AMO 9:7",
-          "end_ref": "30009007",
-          "end_ref_usfm": "AMO 9:7"
-        },
-        {
-          "start_ref": "09021010",
-          "start_ref_usfm": "1SA 21:10",
-          "end_ref": "09021015",
-          "end_ref_usfm": "1SA 21:15"
-        },
-        {
-          "start_ref": "09031001",
-          "start_ref_usfm": "1SA 31:1",
-          "end_ref": "09031013",
-          "end_ref_usfm": "1SA 31:13"
-        },
-        {
-          "start_ref": "09013019",
-          "start_ref_usfm": "1SA 13:19",
-          "end_ref": "09013022",
-          "end_ref_usfm": "1SA 13:22"
-        },
-        {
-          "start_ref": "01010013",
-          "start_ref_usfm": "GEN 10:13",
-          "end_ref": "01010014",
-          "end_ref_usfm": "GEN 10:14"
-        },
-        {
-          "start_ref": "07013001",
-          "start_ref_usfm": "JDG 13:1",
-          "end_ref": "07016031",
-          "end_ref_usfm": "JDG 16:31"
-        },
-        {
-          "start_ref": "09027001",
-          "start_ref_usfm": "1SA 27:1",
-          "end_ref": "09027012",
-          "end_ref_usfm": "1SA 27:12"
-        },
-        {
-          "start_ref": "14021016",
-          "start_ref_usfm": "2CH 21:16",
-          "end_ref": "14021017",
-          "end_ref_usfm": "2CH 21:17"
-        },
-        {
-          "start_ref": "26025015",
-          "start_ref_usfm": "EZK 25:15",
-          "end_ref": "26025017",
-          "end_ref_usfm": "EZK 25:17"
-        },
-        {
-          "start_ref": "09029001",
-          "start_ref_usfm": "1SA 29:1",
-          "end_ref": "09029011",
-          "end_ref_usfm": "1SA 29:11"
-        },
-        {
-          "start_ref": "09023001",
-          "start_ref_usfm": "1SA 23:1",
-          "end_ref": "09023005",
-          "end_ref_usfm": "1SA 23:5"
-        },
-        {
-          "start_ref": "10005017",
-          "start_ref_usfm": "2SA 5:17",
-          "end_ref": "10005025",
-          "end_ref_usfm": "2SA 5:25"
-        },
-        {
-          "start_ref": "14026006",
-          "start_ref_usfm": "2CH 26:6",
-          "end_ref": "14026007",
-          "end_ref_usfm": "2CH 26:7"
-        },
-        {
-          "start_ref": "10021015",
-          "start_ref_usfm": "2SA 21:15",
-          "end_ref": "10021022",
-          "end_ref_usfm": "2SA 21:22"
-        },
-        {
-          "start_ref": "14017010",
-          "start_ref_usfm": "2CH 17:10",
-          "end_ref": "14017011",
-          "end_ref_usfm": "2CH 17:11"
-        },
-        {
-          "start_ref": "07003001",
-          "start_ref_usfm": "JDG 3:1",
-          "end_ref": "07003003",
-          "end_ref_usfm": "JDG 3:3"
-        },
-        {
-          "start_ref": "09018020",
-          "start_ref_usfm": "1SA 18:20",
-          "end_ref": "09018030",
-          "end_ref_usfm": "1SA 18:30"
-        },
-        {
-          "start_ref": "09004010",
-          "start_ref_usfm": "1SA 4:10",
-          "end_ref": "09004022",
-          "end_ref_usfm": "1SA 4:22"
-        },
-        {
-          "start_ref": "09017032",
-          "start_ref_usfm": "1SA 17:32",
-          "end_ref": "09017058",
-          "end_ref_usfm": "1SA 17:58"
-        },
-        {
-          "start_ref": "09023026",
-          "start_ref_usfm": "1SA 23:26",
-          "end_ref": "09023028",
-          "end_ref_usfm": "1SA 23:28"
-        },
-        {
-          "start_ref": "30001006",
-          "start_ref_usfm": "AMO 1:6",
-          "end_ref": "30001008",
-          "end_ref_usfm": "AMO 1:8"
-        },
-        {
-          "start_ref": "09005001",
-          "start_ref_usfm": "1SA 5:1",
-          "end_ref": "09006018",
-          "end_ref_usfm": "1SA 6:18"
-        },
-        {
-          "start_ref": "09013016",
-          "start_ref_usfm": "1SA 13:16",
-          "end_ref": "09014023",
-          "end_ref_usfm": "1SA 14:23"
-        },
-        {
-          "start_ref": "09031001",
-          "start_ref_usfm": "1SA 31:1",
-          "end_ref": "09031010",
-          "end_ref_usfm": "1SA 31:10"
-        },
-        {
-          "start_ref": "14028018",
-          "start_ref_usfm": "2CH 28:18",
-          "end_ref": "14028019",
-          "end_ref_usfm": "2CH 28:19"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "group:Philistine",
-          "type": "group",
-          "preferred_label": "Filisteu",
-          "confidence": 0.6719,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Philistine",
-          "type": "person",
-          "preferred_label": "Filisteu",
-          "confidence": 0.5113,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "658549",
-    "reference_id": 203472,
-    "version": "1.0.2",
-    "title": "Os Gregos",
-    "media_type": "Text",
-    "index_reference": "os gregos",
-    "language": "por",
-    "review_level": "None",
-    "content": "<p>A civilização grega foi importante no mundo antigo. A cultura grega teve uma grande influência no mundo durante o nascimento de Jesus e a escrita do Novo Testamento.</p><h3>Civilização Micênica (1450 a 1200 a.C.)</h3><p>Os micênicos viveram durante a &quot;era heróica&quot;, entre 1450 e 1200 a.C. Este período foi chamado de &quot;era heróica&quot; porque foi quando muitas histórias gregas famosas sobre heróis e grandes batalhas ocorreram. Essas histórias foram posteriormente escritas por Homero em seus longos poemas. Sua civilização estava baseada em Micenas, cerca de quarenta e oito quilômetros ao sul de Corinto. Os micênicos comerciavam amplamente e eram muito habilidosos na guerra. Os deuses gregos e mitos conhecidos de escritos posteriores começaram na Grécia micênica. Documentos micênicos foram escritos em Linear B, um sistema de escrita usando sílabas.</p><p>A civilização micênica terminou violentamente por volta de 1200 a.C. devido aos invasores gregos dóricos. Os séculos seguintes são conhecidos como os &quot;Séculos negros da Grécia&quot;. Durante esse período, as pessoas pararam de usar a escrita Linear B, e não há registros escritos.</p><h3>Idade Arcaica, Cidades-Estado (850–546 a.C.)</h3><p>Com o tempo, as cidades e vilarejos gregos se organizaram em cidades-estado que controlavam grandes áreas. Durante esse período, os gregos começaram a cooperar mais e compartilharam uma identidade comum. Por exemplo, realizaram os primeiros Jogos Olímpicos em 776 a.C.</p><p>À medida que o comércio com regiões próximas crescia, os gregos encontraram os fenícios e adotaram seu sistema de escrita. Homero escreveu a <em>Ilíada</em> e a <em>Odisseia</em>, que narram as histórias e mitos da antiga civilização micênica e seus deuses.</p><p>Muitas cidades-estado dependiam de líderes poderosos chamados tiranos. Esses líderes ajudavam a manter a ordem e a paz em suas cidades. (A palavra grega para esses governantes é <em>tyrannos</em>.) Muitas áreas escreveram suas leis básicas em um documento chamado constituição, o que ajudou a criar regras claras para governar. Em Atenas, um pequeno grupo de pessoas poderosas chamado Conselho do Areópago governava a cidade. Esse tipo de governo era chamado de oligarquia. Mais tarde, um líder chamado Sólon fez mudanças importantes na forma como Atenas era governada. Essas mudanças ajudaram Atenas a se tornar uma democracia, onde os cidadãos podiam votar e ajudar a tomar decisões.</p><h3>Guerras Persas, Período Clássico (546 a 336 a.C.)</h3><p>Em 546 a.C., Ciro, o Grande da Pérsia, assumiu o controle das colônias gregas na Ásia Menor. Por volta de 500 a.C., a Jônia tentou se revoltar, mas falhou. Isso levou Dario I a invadir o continente grego em 492 a.C. Durante as guerras seguintes, os gregos frequentemente estavam em menor número, mas usaram melhor habilidade e estratégia para superar os persas. Na Batalha de Maratona em 490 a.C., os gregos derrotaram os persas de forma decisiva. Dez anos depois, o exército persa sob o comando de Xerxes cruzou o Helesponto, e sua grande frota entrou em águas gregas. Os persas queimaram Atenas, mas, eventualmente, os gregos venceram, e Xerxes se retirou.</p><p>Após o fim das Guerras Persas, Atenas foi reconstruída e entrou em um período de grandeza. Péricles liderou Atenas na criação de uma democracia plena. Eles construíram grandes estruturas na Acrópole. Atenas se tornou rica, e seu poder marítimo aumentou. Esta foi uma era de ouro com grandes conquistas em arte, pensamento, literatura e arquitetura.</p><h3>Império Macedônico, Civilização Helenística (336–146 a.C.)</h3><p>Filipe II da Macedônia queria construir um império. Ele derrotou Atenas e Tebas em 338 a.C. e uniu a Grécia sob o Império Macedônio. Após o assassinato de Filipe em 336 a.C., seu filho Alexandre tornou-se o governante. Em 335 a.C., Alexandre destruiu Tebas, que havia se rebelado. Ele então rapidamente conquistou Babilônia e a Pérsia (veja <a href=\"https://ref.ly/Dan8:5-Dan8:8\">Dn 8.5–8</a>). Quando Alexandre morreu repentinamente em 323 a.C., seus vastos territórios foram divididos entre quatro generais. Após algum conflito, três grandes regiões se formaram:</p><ol><li><p>Egito</p></li><li><p>Ásia Menor, Síria e Babilônia</p></li><li><p>Macedônia e Acaia</p></li></ol><p>As conquistas de Alexandre espalharam a cultura e a influência grega pelo mundo antigo. Esse confronto entre a cultura grega e o judaísmo levou à revolta dos Macabeus na Judeia nos anos 160 a.C.</p><h3>Domínio Romano (168 a.C. a 330 d.C.)</h3><p>Roma começou a expandir seu poder na Grécia em 198 a.C. Em 168 a.C., Roma derrotou os macedônios na Batalha de Pidna. Em 148 a.C., Roma anexou a Macedônia como uma província. Então, em 146 a.C., Roma destruiu Corinto. A Grécia estava agora firmemente sob controle romano e permaneceu assim até que o Imperador Constantino fez de Bizâncio a capital do Império Romano em 330 d.C. A cultura grega e o domínio romano prepararam o cenário para a vida de Jesus e o início do Cristianismo.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Dan8:5-Dan8:8\">Deuteronômio 8.5–8</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "27008005",
-          "start_ref_usfm": "DAN 8:5",
-          "end_ref": "27008008",
-          "end_ref_usfm": "DAN 8:8"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "group:Greek",
-          "type": "group",
-          "preferred_label": "Greeks",
-          "confidence": 0.8947,
-          "match_method": "embedding"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "658537",
-    "reference_id": 203460,
-    "version": "1.0.2",
-    "title": "Os Medos e Persas",
-    "media_type": "Text",
-    "index_reference": "os medos e persas",
-    "language": "por",
-    "review_level": "None",
-    "content": "<h3>Os Medos (aproximadamente 850–549 a.C.)</h3><p>Os primeiros medos não deixaram registros escritos. Uma inscrição de Salmaneser III da Assíria, que governou de 858 a 824 a.C., afirma que os medos se estabeleceram em torno de Ecbátana, sua capital, em meados dos anos 800 a.C. Ecbátana agora é chamada de Hamadan, Irã. Os medos eram famosos por criar cavalos, então Salmaneser invadiu suas terras para roubar muitos cavalos de qualidade. Os medos estiveram sob controle assírio até o final dos anos 600 a.C., quando se tornaram independentes à medida que a Assíria enfraqueceu.</p><h3>Os Persas (cerca de 700–549 a.C.)</h3><p>Por volta de 700 a.C., Aquêmenes fundou um pequeno reino persa. Ele governou de cerca de 700 a 675 a.C. Seu filho, Teispes, governou de 675 a 640 a.C. sob o controle dos Medos. Os Medos estavam reunindo forças para derrubar a Assíria. No entanto, problemas para os Medos mais tarde libertaram Teispes de seu controle. Cambises, que viveu de 600 a 559 a.C., era filho de Ciro I e neto de Teispes. Ele se casou com a filha do rei Medo, Astíages. O filho deles, Ciro II, governou a Pérsia de 559 a 530 a.C., começando em 559 a.C.</p><h3>O Império Medo-Persa (549–331 a.C.)</h3><p>Ciro II derrotou seu avô, Astíages da Média, em 549 a.C. Ele estabeleceu Ecbátana na Média como sua capital e montou seus arquivos lá (veja <a href=\"https://ref.ly/Ezra6:1-Ezra6:5\">Ed 6.1–5</a>). Com um pai persa e uma mãe meda, Ciro II representava a união da Média e da Pérsia.</p><p>Ciro demonstrou bondade e generosidade para com os inimigos derrotados. Como um líder militar habilidoso, ele invadiu a Ásia Menor, derrotou Creso, o rei da Lídia, e controlou as cidades gregas na região. Em 539 a.C., ele capturou Babilônia com quase nenhuma resistência e permitiu que os exilados retornassem para casa para reconstruir seus templos (veja <a href=\"https://ref.ly/Ezra1:1-Ezra1:4\">Ed 1.1–4</a>).</p><p>O filho de Ciro, Cambises II, conquistou o Egito e governou de 529 a 522 a.C. No entanto, o império quase desmoronou quando ele cometeu suicídio. Dario I, filho de Histaspes, que era o governador da Pártia, sucedeu Cambises e governou de 521 a 486 a.C. Dario foi um líder enérgico e eficiente. Ele conteve revoltas internas e organizou o império em vinte províncias.</p><p>Cada província estava sob um governador, chamado sátrapa ou &quot;protetor do reino&quot;. Inspetores, conhecidos como &quot;os ouvidos do rei&quot;, monitoravam as ações dos sátrapas. Dario mudou a capital principal da Pérsia para Persépolis, onde eventualmente foi construído um grande complexo de palácios. Dario seguiu Zoroastro e adorava Ahura Mazda, o principal deus do Zoroastrismo. Xerxes e Artaxerxes, que vieram depois dele, também seguiram essa fé.</p><p>Nos últimos anos do governo de Dario, os gregos o derrotaram em Maratona em 491 a.C.</p><p>O filho de Dario, Khshayarsha, também conhecido como Xerxes em grego e Assuero em hebraico, o sucedeu. Durante o reinado de Xerxes, de 486 a 465 a.C., os gregos derrotaram a frota persa em Salamina em 480 a.C.</p><p>As pessoas atribuem a queda do império à covardia de Dario III, que governou de 336 a 330 a.C. Alexandre, o Grande, derrotou seus exércitos em Isso em 333 a.C. e, finalmente, em Gaugamela, perto da moderna Erbil (Arbela), em 331 a.C.</p><h3>Pérsia e a Bíblia</h3><p>A primeira menção da Pérsia na história de Israel está em <a href=\"https://ref.ly/Isa44:28-Isa45:13\">Is 44.28–45.13</a>. Esta profecia foi dada a Isaías mais de 150 anos antes de Ciro tomar Babilônia e permitir que os judeus exilados retornassem a Jerusalém. Outras referências bíblicas à Pérsia aparecem mais tarde na história do Antigo Testamento, como em Esdras, Neemias e Ester, e nos escritos de profetas durante e após o exílio, como Daniel, Sofonias e Ageu. As Escrituras retratam a Pérsia como um governante rigoroso, mas geralmente bondoso, que permitiu que os judeus se autogovernassem e adorassem livremente. No entanto, a comunidade judaica sempre se lembrava de que estava sob domínio estrangeiro.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Ezra4:5-Ezra4:7\">Esdras 4.5–7</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "15001001",
-          "start_ref_usfm": "EZR 1:1",
-          "end_ref": "15001004",
-          "end_ref_usfm": "EZR 1:4"
-        },
-        {
-          "start_ref": "15006001",
-          "start_ref_usfm": "EZR 6:1",
-          "end_ref": "15006005",
-          "end_ref_usfm": "EZR 6:5"
-        },
-        {
-          "start_ref": "23044028",
-          "start_ref_usfm": "ISA 44:28",
-          "end_ref": "23045013",
-          "end_ref_usfm": "ISA 45:13"
-        },
-        {
-          "start_ref": "15004005",
-          "start_ref_usfm": "EZR 4:5",
-          "end_ref": "15004007",
-          "end_ref_usfm": "EZR 4:7"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "658558",
-    "reference_id": 203481,
-    "version": "1.0.2",
-    "title": "Os Saduceus",
-    "media_type": "Text",
-    "index_reference": "os saduceus",
-    "language": "por",
-    "review_level": "None",
-    "content": "<p>Os saduceus eram um importante grupo judaico composto por sacerdotes e suas famílias. Eles se diferenciavam dos fariseus, outro grupo judaico, porque os fariseus eram pessoas comuns (&quot;leigas&quot;) que não eram sacerdotes. Provavelmente, eles viviam perto de Jerusalém e controlavam o sistema do templo (<a href=\"https://ref.ly/Acts4:1-Acts4:2\">At 4.1–2</a>; <a href=\"https://ref.ly/Acts5:17\">5.17</a>). Esses líderes poderosos e ricos (aristocratas) atuavam como mediadores entre Roma e Israel (veja Josefo, <em>Antiguidades</em> 13.10.6; <em>Guerra</em> 2.10.5). Eles não tinham muito favor ou influência com o povo (Josefo, <em>Antiguidades</em> 18.1.4).</p><p>O termo <em>Sadduceu</em> provavelmente vem de <em>Zadoque,</em> o sumo sacerdote durante os reinados do Rei Davi e do Rei Salomão (<a href=\"https://ref.ly/2Sam8:17\">2Sm 8.17</a>; <a href=\"https://ref.ly/2Sam15:24\">15.24</a>; <a href=\"https://ref.ly/1Kgs1:8\">1Rs 1.8</a>;<a href=\"https://ref.ly/1Kgs1:32-1Kgs1:48\"> 32–48</a>). Ambas as palavras compartilham a mesma raiz hebraica. A menção histórica mais antiga dos saduceus é durante o reinado de João Hircano, de 135 a 104 a.C., um descendente dos Macabeus (Josefo, <em>Antiguidades</em> 13.10.6), mas eles claramente existiam antes.</p><p>Suas visões sobre Deus frequentemente diferem das dos fariseus (<a href=\"https://ref.ly/Acts23:8\">At 23.8</a>; veja também <a href=\"https://ref.ly/Acts4:1-Acts4:2\">At 4.1–2</a>). Os saduceus davam autoridade primária ao Pentateuco. Eles rejeitavam a tradição oral valorizada pelos fariseus. Ao contrário dos fariseus, os saduceus não acreditavam em:</p><ul><li><p>a ressurreição dos mortos (veja <a href=\"https://ref.ly/Matt22:23-Matt22:33\">Mt 22.23–33</a>),</p></li><li><p>seres angelicais (veja <a href=\"https://ref.ly/Acts23:8\">At 23.8</a>), ou</p></li><li><p>o conceito de julgamento final.</p></li></ul><p>No entanto, os fariseus acreditavam fortemente na ressurreição (voltar à vida após a morte). Eles até apoiaram Paulo contra os saduceus quando ele estava sendo julgado por perturbar o templo (<a href=\"https://ref.ly/Acts23:6-Acts23:10\">At 23.6–10</a>).</p><p>Apesar de suas diferenças, os fariseus e saduceus se uniram contra Jesus. Os fariseus se opuseram a Jesus porque ele não seguia suas tradições orais. Os saduceus se opuseram a ele porque ele acreditava em anjos, demônios, julgamento final e ressurreição.</p><p>Quando o templo foi destruído em 70 d.C., os saduceus desapareceram. Eles não deixaram registros escritos. Todo o nosso conhecimento sobre os saduceus vem de seus oponentes, por isso temos uma compreensão limitada deles.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Matt3:7\">Mateus 3.7</a>; <a href=\"https://ref.ly/Matt16:1-Matt16:12\">16.1–12</a>; <a href=\"https://ref.ly/Matt22:23-Matt22:33\">22.23–33</a>; <a href=\"https://ref.ly/Mark12:18-Mark12:27\">Marcos 12.18–27</a>; <a href=\"https://ref.ly/Luke20:27-Luke20:40\">Lucas 20.27–40</a>; <a href=\"https://ref.ly/Acts4:1-Acts4:2\">Atos 4.1–2</a>; <a href=\"https://ref.ly/Acts5:17-Acts5:18\">5.17–18</a>; <a href=\"https://ref.ly/Acts23:6-Acts23:10\">23.6–10</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "10008017",
-          "start_ref_usfm": "2SA 8:17",
-          "end_ref": "10008017",
-          "end_ref_usfm": "2SA 8:17"
-        },
-        {
-          "start_ref": "10015024",
-          "start_ref_usfm": "2SA 15:24",
-          "end_ref": "10015024",
-          "end_ref_usfm": "2SA 15:24"
-        },
-        {
-          "start_ref": "11001008",
-          "start_ref_usfm": "1KI 1:8",
-          "end_ref": "11001008",
-          "end_ref_usfm": "1KI 1:8"
-        },
-        {
-          "start_ref": "40003007",
-          "start_ref_usfm": "MAT 3:7",
-          "end_ref": "40003007",
-          "end_ref_usfm": "MAT 3:7"
-        },
-        {
-          "start_ref": "44005017",
-          "start_ref_usfm": "ACT 5:17",
-          "end_ref": "44005017",
-          "end_ref_usfm": "ACT 5:17"
-        },
-        {
-          "start_ref": "44023008",
-          "start_ref_usfm": "ACT 23:8",
-          "end_ref": "44023008",
-          "end_ref_usfm": "ACT 23:8"
-        },
-        {
-          "start_ref": "40016001",
-          "start_ref_usfm": "MAT 16:1",
-          "end_ref": "40016012",
-          "end_ref_usfm": "MAT 16:12"
-        },
-        {
-          "start_ref": "41012018",
-          "start_ref_usfm": "MRK 12:18",
-          "end_ref": "41012027",
-          "end_ref_usfm": "MRK 12:27"
-        },
-        {
-          "start_ref": "40022023",
-          "start_ref_usfm": "MAT 22:23",
-          "end_ref": "40022033",
-          "end_ref_usfm": "MAT 22:33"
-        },
-        {
-          "start_ref": "42020027",
-          "start_ref_usfm": "LUK 20:27",
-          "end_ref": "42020040",
-          "end_ref_usfm": "LUK 20:40"
-        },
-        {
-          "start_ref": "44005017",
-          "start_ref_usfm": "ACT 5:17",
-          "end_ref": "44005018",
-          "end_ref_usfm": "ACT 5:18"
-        },
-        {
-          "start_ref": "44004001",
-          "start_ref_usfm": "ACT 4:1",
-          "end_ref": "44004002",
-          "end_ref_usfm": "ACT 4:2"
-        },
-        {
-          "start_ref": "44023006",
-          "start_ref_usfm": "ACT 23:6",
-          "end_ref": "44023010",
-          "end_ref_usfm": "ACT 23:10"
-        },
-        {
-          "start_ref": "11001032",
-          "start_ref_usfm": "1KI 1:32",
-          "end_ref": "11001048",
-          "end_ref_usfm": "1KI 1:48"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "group:Sadducee",
-          "type": "group",
-          "preferred_label": "Sadducees",
-          "confidence": 0.5325,
-          "match_method": "scored"
-        }
-      ]
-    }
-  }
+{
+"content_id": "658559",
+"reference_id": 203482,
+"version": "1.0.2",
+"title": "O Alto Conselho Judaico",
+"media_type": "Text",
+"index_reference": "o alto conselho judaico",
+"language": "por",
+"review_level": "None",
+"content": "<p>O alto conselho de líderes judeus em Jerusalém possuía um poder significativo no governo do povo judeu. É tradicionalmente chamado de Sinédrio, uma transliteração da palavra grega <em>sunedrion</em>, que significa &quot;conselho&quot;.</p><p>A tradição judaica afirma que o Sinédrio começou quando Moisés escolheu setenta anciãos (<a href=\"https://ref.ly/Num11:16\">Nm 11.16</a>). No entanto, a referência mais antiga está nas <em>Antiguidades</em> de Josefo 12.3.3, da época de Antíoco, o Grande, de 223 a 187 a.C. O Sinédrio provavelmente começou como um grupo autônomo de líderes sob o domínio persa (veja <a href=\"https://ref.ly/Ezra5:5-Ezra5:10\">Ed 5.5–10</a>; <a href=\"https://ref.ly/Neh2:16\">Ne 2.16</a>). A classe sacerdotal, liderada pelo sumo sacerdote, controlava o conselho superior. Governantes romanos e os fariseus influenciaram esses sacerdotes em diferentes graus. Herodes, o Grande, teve uma forte influência sobre as atividades do Sinédrio.</p><p>O Sinédrio lidava com questões legais e religiosas do Judaísmo. Isso incluía tomar decisões judiciais não resolvidas em tribunais menores, conhecidos como &quot;sinédrios locais&quot;, além de gerenciar a justiça criminal e prisões (veja <a href=\"https://ref.ly/Acts9:1-Acts9:2\">At 9.1–2</a>). Eles também tomavam decisões oficiais sobre questões judaicas, embora essas decisões não fossem executáveis. O Sinédrio não podia executar criminosos por conta própria (<a href=\"https://ref.ly/John18:31\">Jo 18.31</a>), mas podia fazê-lo com a aprovação romana.</p><p>A destruição de Jerusalém em 70 d.C. encerrou o papel do conselho superior como líder do judaísmo.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Matt26:57-Matt26:68\">Mateus 26.57–68</a>; <a href=\"https://ref.ly/Mark14:53-Mark14:65\">Marcos 14.53–65</a>; <a href=\"https://ref.ly/Mark15:1\">15.1</a>,<a href=\"https://ref.ly/Mark15:43\">43</a>; <a href=\"https://ref.ly/Luke22:66-Luke22:71\">Lucas 22.66–71</a>; <a href=\"https://ref.ly/Luke23:50-Luke23:54\">23.50–54</a>; <a href=\"https://ref.ly/John11:47-John11:53\">João 11.47–53</a>; <a href=\"https://ref.ly/Acts5:21-Acts5:41\">Atos 5.21–41</a>; <a href=\"https://ref.ly/Acts6:11-Acts8:1\">6.11–8.1</a>; <a href=\"https://ref.ly/Acts22:30-Acts23:10\">22.30–23.10</a>; <a href=\"https://ref.ly/Acts23:26-Acts23:30\">23.26–30</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04011016",
+"start_ref_usfm": "NUM 11:16",
+"end_ref": "04011016",
+"end_ref_usfm": "NUM 11:16"
+},
+{
+"start_ref": "16002016",
+"start_ref_usfm": "NEH 2:16",
+"end_ref": "16002016",
+"end_ref_usfm": "NEH 2:16"
+},
+{
+"start_ref": "41015001",
+"start_ref_usfm": "MRK 15:1",
+"end_ref": "41015001",
+"end_ref_usfm": "MRK 15:1"
+},
+{
+"start_ref": "41015043",
+"start_ref_usfm": "MRK 15:43",
+"end_ref": "41015043",
+"end_ref_usfm": "MRK 15:43"
+},
+{
+"start_ref": "43018031",
+"start_ref_usfm": "JHN 18:31",
+"end_ref": "43018031",
+"end_ref_usfm": "JHN 18:31"
+},
+{
+"start_ref": "40026057",
+"start_ref_usfm": "MAT 26:57",
+"end_ref": "40026068",
+"end_ref_usfm": "MAT 26:68"
+},
+{
+"start_ref": "41014053",
+"start_ref_usfm": "MRK 14:53",
+"end_ref": "41014065",
+"end_ref_usfm": "MRK 14:65"
+},
+{
+"start_ref": "44022030",
+"start_ref_usfm": "ACT 22:30",
+"end_ref": "44023010",
+"end_ref_usfm": "ACT 23:10"
+},
+{
+"start_ref": "44009001",
+"start_ref_usfm": "ACT 9:1",
+"end_ref": "44009002",
+"end_ref_usfm": "ACT 9:2"
+},
+{
+"start_ref": "44023026",
+"start_ref_usfm": "ACT 23:26",
+"end_ref": "44023030",
+"end_ref_usfm": "ACT 23:30"
+},
+{
+"start_ref": "42022066",
+"start_ref_usfm": "LUK 22:66",
+"end_ref": "42022071",
+"end_ref_usfm": "LUK 22:71"
+},
+{
+"start_ref": "15005005",
+"start_ref_usfm": "EZR 5:5",
+"end_ref": "15005010",
+"end_ref_usfm": "EZR 5:10"
+},
+{
+"start_ref": "42023050",
+"start_ref_usfm": "LUK 23:50",
+"end_ref": "42023054",
+"end_ref_usfm": "LUK 23:54"
+},
+{
+"start_ref": "43011047",
+"start_ref_usfm": "JHN 11:47",
+"end_ref": "43011053",
+"end_ref_usfm": "JHN 11:53"
+},
+{
+"start_ref": "44005021",
+"start_ref_usfm": "ACT 5:21",
+"end_ref": "44005041",
+"end_ref_usfm": "ACT 5:41"
+},
+{
+"start_ref": "44006011",
+"start_ref_usfm": "ACT 6:11",
+"end_ref": "44008001",
+"end_ref_usfm": "ACT 8:1"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "658548",
+"reference_id": 203471,
+"version": "1.0.2",
+"title": "O Filho do Homem",
+"media_type": "Text",
+"index_reference": "o filho do homem",
+"language": "por",
+"review_level": "None",
+"content": "<p>A expressão hebraica e aramaica “filho do homem” significa “ser humano”. No entanto, a figura em <a href=\"https://ref.ly/Dan7:13-Dan7:14\">Deuteronômio 7.13–14</a>, que é “como o Filho do Homem”, parece ser mais do que apenas um ser humano. Sua identidade exata não é revelada, mas seu papel é claro. O Altíssimo o escolheu para governar um reino eterno e universal sobre todas as nações. Ele também representa seu povo, o povo santo do Altíssimo. Eles compartilharão o reino deste filho do homem sobre todos os povos e nações (veja <a href=\"https://ref.ly/Dan7:22\">Dn 7.22</a>).</p><p>A cena ao redor deste filho do homem revela suas características divinas. A descrição &quot;vindo com as nuvens do céu&quot; em <a href=\"https://ref.ly/Dan7:13\">Daniel 7.13</a> indica que ele vem do céu (compare <a href=\"https://ref.ly/Ps68:4\">Sl 68.4</a>; <a href=\"https://ref.ly/Ps97:2\">97.2</a>; <a href=\"https://ref.ly/Nah1:3\">Na 1.3</a>). No livro de Êxodo, o Senhor Deus se cobriu com uma nuvem (<a href=\"https://ref.ly/Exod19:9\">Êx 19.9</a>). O povo de Deus subirá nas nuvens quando Jesus retornar (<a href=\"https://ref.ly/1Thess4:17\">1Ts 4.17</a>), assim como ele foi levado por uma nuvem quando subiu ao céu (<a href=\"https://ref.ly/Acts1:9\">At 1.9</a>). Este filho do homem recebe seu reino com humildade e santidade, não o tomando arrogantemente. Ele é o oposto em caráter ao pequeno chifre (<a href=\"https://ref.ly/Dan7:8\">Dn 7.8</a>).</p><p>Jesus se chama de Filho do Homem (<a href=\"https://ref.ly/Matt24:30\">Mt 24.30</a>; <a href=\"https://ref.ly/Matt26:24\">26.24</a>; <a href=\"https://ref.ly/Mark13:26\">Mc 13.26</a>; <a href=\"https://ref.ly/Luke21:27\">Lc 21.27</a>; <a href=\"https://ref.ly/John12:34\">Jo 12.34</a>; veja também <a href=\"https://ref.ly/Acts7:56\">At 7.56</a>; <a href=\"https://ref.ly/Heb2:6\">Hb 2.6</a>; <a href=\"https://ref.ly/Rev1:13\">Ap 1.13</a>; <a href=\"https://ref.ly/Rev14:14\">14.14</a>). <a href=\"https://ref.ly/Rev1:7\">Apocalipse 1.7</a> também conecta essa figura a Jesus Cristo, que foi transpassado por nossos pecados. Deus Pai deu a Jesus toda autoridade e poder para governar tudo e alcançar pessoas de todas as nações e reinos (<a href=\"https://ref.ly/Dan7:14\">Dn 7.14</a>; <a href=\"https://ref.ly/Matt28:18\">Mt 28.18</a>; <a href=\"https://ref.ly/Matt28:19-Matt28:20\">19–20</a>). Deus chamou Abraão para criar uma grande nação através de seu povo e abençoar todas as nações por meio dele (<a href=\"https://ref.ly/Gen12:1-Gen12:3\">Gn 12.1–3</a>). Jesus cumpriu essa promessa.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Dan7:13-Dan7:14\">Deuteronômio 7.13–14</a>; <a href=\"https://ref.ly/Matt24:30\">Mateus 24.30</a>; <a href=\"https://ref.ly/Matt26:24\">26.24</a>; <a href=\"https://ref.ly/Mark13:26\">Marcos 13.26</a>; <a href=\"https://ref.ly/Luke21:27\">Lucas 21.27</a>; <a href=\"https://ref.ly/John12:34\">João 12.34</a>; <a href=\"https://ref.ly/Rev1:13\">Apocalipse 1.13</a>; <a href=\"https://ref.ly/Rev14:14\">14.14</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02019009",
+"start_ref_usfm": "EXO 19:9",
+"end_ref": "02019009",
+"end_ref_usfm": "EXO 19:9"
+},
+{
+"start_ref": "19068004",
+"start_ref_usfm": "PSA 68:4",
+"end_ref": "19068004",
+"end_ref_usfm": "PSA 68:4"
+},
+{
+"start_ref": "19097002",
+"start_ref_usfm": "PSA 97:2",
+"end_ref": "19097002",
+"end_ref_usfm": "PSA 97:2"
+},
+{
+"start_ref": "27007008",
+"start_ref_usfm": "DAN 7:8",
+"end_ref": "27007008",
+"end_ref_usfm": "DAN 7:8"
+},
+{
+"start_ref": "27007013",
+"start_ref_usfm": "DAN 7:13",
+"end_ref": "27007013",
+"end_ref_usfm": "DAN 7:13"
+},
+{
+"start_ref": "27007014",
+"start_ref_usfm": "DAN 7:14",
+"end_ref": "27007014",
+"end_ref_usfm": "DAN 7:14"
+},
+{
+"start_ref": "27007022",
+"start_ref_usfm": "DAN 7:22",
+"end_ref": "27007022",
+"end_ref_usfm": "DAN 7:22"
+},
+{
+"start_ref": "34001003",
+"start_ref_usfm": "NAM 1:3",
+"end_ref": "34001003",
+"end_ref_usfm": "NAM 1:3"
+},
+{
+"start_ref": "40024030",
+"start_ref_usfm": "MAT 24:30",
+"end_ref": "40024030",
+"end_ref_usfm": "MAT 24:30"
+},
+{
+"start_ref": "40026024",
+"start_ref_usfm": "MAT 26:24",
+"end_ref": "40026024",
+"end_ref_usfm": "MAT 26:24"
+},
+{
+"start_ref": "40028018",
+"start_ref_usfm": "MAT 28:18",
+"end_ref": "40028018",
+"end_ref_usfm": "MAT 28:18"
+},
+{
+"start_ref": "41013026",
+"start_ref_usfm": "MRK 13:26",
+"end_ref": "41013026",
+"end_ref_usfm": "MRK 13:26"
+},
+{
+"start_ref": "42021027",
+"start_ref_usfm": "LUK 21:27",
+"end_ref": "42021027",
+"end_ref_usfm": "LUK 21:27"
+},
+{
+"start_ref": "43012034",
+"start_ref_usfm": "JHN 12:34",
+"end_ref": "43012034",
+"end_ref_usfm": "JHN 12:34"
+},
+{
+"start_ref": "44001009",
+"start_ref_usfm": "ACT 1:9",
+"end_ref": "44001009",
+"end_ref_usfm": "ACT 1:9"
+},
+{
+"start_ref": "44007056",
+"start_ref_usfm": "ACT 7:56",
+"end_ref": "44007056",
+"end_ref_usfm": "ACT 7:56"
+},
+{
+"start_ref": "52004017",
+"start_ref_usfm": "1TH 4:17",
+"end_ref": "52004017",
+"end_ref_usfm": "1TH 4:17"
+},
+{
+"start_ref": "58002006",
+"start_ref_usfm": "HEB 2:6",
+"end_ref": "58002006",
+"end_ref_usfm": "HEB 2:6"
+},
+{
+"start_ref": "66001007",
+"start_ref_usfm": "REV 1:7",
+"end_ref": "66001007",
+"end_ref_usfm": "REV 1:7"
+},
+{
+"start_ref": "66001013",
+"start_ref_usfm": "REV 1:13",
+"end_ref": "66001013",
+"end_ref_usfm": "REV 1:13"
+},
+{
+"start_ref": "66014014",
+"start_ref_usfm": "REV 14:14",
+"end_ref": "66014014",
+"end_ref_usfm": "REV 14:14"
+},
+{
+"start_ref": "01012001",
+"start_ref_usfm": "GEN 12:1",
+"end_ref": "01012003",
+"end_ref_usfm": "GEN 12:3"
+},
+{
+"start_ref": "27007013",
+"start_ref_usfm": "DAN 7:13",
+"end_ref": "27007014",
+"end_ref_usfm": "DAN 7:14"
+},
+{
+"start_ref": "40028019",
+"start_ref_usfm": "MAT 28:19",
+"end_ref": "40028020",
+"end_ref_usfm": "MAT 28:20"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "658508",
+"reference_id": 203431,
+"version": "1.0.2",
+"title": "Os amalequitas",
+"media_type": "Text",
+"index_reference": "os amalequitas",
+"language": "por",
+"review_level": "None",
+"content": "<p>Os amalequitas eram descendentes de Amaleque, um neto de Esaú (<a href=\"https://ref.ly/Gen36:12\">Gn 36.12</a>; <a href=\"https://ref.ly/1Chr1:36\">1Cr 1.36</a>). Eles eram pastores nômades. Seu território no Neguebe se estendia do sul de Berseba até o sudeste, alcançando Elate e Eziom-Geber. Eles provavelmente invadiam a oeste na planície costeira, a leste nos desertos de Arabá, e possivelmente na Arábia.</p><p>Os amalequitas eram inimigos poderosos de Israel. Israel encontrou pela primeira vez os guerreiros amalequitas em Refidim, perto do Sinai, quando atacaram Israel (<a href=\"https://ref.ly/Exod17:8-Exod17:16\">Êx 17.8–16</a>). Josué e o exército israelita derrotaram os amalequitas nesta batalha. Mais tarde, os amalequitas impediram a tentativa desobediente de Israel de entrar na Terra Prometida (<a href=\"https://ref.ly/Num14:39-Num14:45\">Nm 14.39–45</a>).</p><p>Devido à sua hostilidade, Moisés instruiu Israel a destruí-los (<a href=\"https://ref.ly/Deut25:17-Deut25:19\">Dt 25.17–19</a>). No entanto, os amalequitas continuaram a viver no Neguebe (veja <a href=\"https://ref.ly/Judg3:12-Judg3:14\">Jz 3.12–14</a>; <a href=\"https://ref.ly/Judg6:33\">6.33</a>; <a href=\"https://ref.ly/1Sam14:47-1Sam14:48\">1Sm 14.47–48</a>; <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">15.1–35</a>). Aqueles que sobreviveram permaneceram inimigos de Israel (<a href=\"https://ref.ly/1Sam27:8\">1Sm 27.8</a>; <a href=\"https://ref.ly/1Sam30:1-1Sam30:20\">30.1–20</a>; <a href=\"https://ref.ly/2Sam8:11-2Sam8:12\">2Sm 8.11–12</a>; <a href=\"https://ref.ly/Ps83:1-Ps83:8\">Sl 83.1–8</a>). Este grupo remanescente foi finalmente destruído durante o reinado do Rei Ezequias (<a href=\"https://ref.ly/1Chr4:42-1Chr4:43\">1Cr 4.42–43</a>). No livro de Ester, Hamã, um descendente do Rei Agague, demonstrou sua hostilidade até o fim (<a href=\"https://ref.ly/Esth3:1-Esth3:15\">Et 3</a>; veja <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">1Sm 15</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/1Sam30:1-1Sam30:31\">1 Samuel 30.1–31</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01036012",
+"start_ref_usfm": "GEN 36:12",
+"end_ref": "01036012",
+"end_ref_usfm": "GEN 36:12"
+},
+{
+"start_ref": "07006033",
+"start_ref_usfm": "JDG 6:33",
+"end_ref": "07006033",
+"end_ref_usfm": "JDG 6:33"
+},
+{
+"start_ref": "09027008",
+"start_ref_usfm": "1SA 27:8",
+"end_ref": "09027008",
+"end_ref_usfm": "1SA 27:8"
+},
+{
+"start_ref": "13001036",
+"start_ref_usfm": "1CH 1:36",
+"end_ref": "13001036",
+"end_ref_usfm": "1CH 1:36"
+},
+{
+"start_ref": "02017008",
+"start_ref_usfm": "EXO 17:8",
+"end_ref": "02017016",
+"end_ref_usfm": "EXO 17:16"
+},
+{
+"start_ref": "09015001",
+"start_ref_usfm": "1SA 15:1",
+"end_ref": "09015035",
+"end_ref_usfm": "1SA 15:35"
+},
+{
+"start_ref": "04014039",
+"start_ref_usfm": "NUM 14:39",
+"end_ref": "04014045",
+"end_ref_usfm": "NUM 14:45"
+},
+{
+"start_ref": "05025017",
+"start_ref_usfm": "DEU 25:17",
+"end_ref": "05025019",
+"end_ref_usfm": "DEU 25:19"
+},
+{
+"start_ref": "07003012",
+"start_ref_usfm": "JDG 3:12",
+"end_ref": "07003014",
+"end_ref_usfm": "JDG 3:14"
+},
+{
+"start_ref": "09014047",
+"start_ref_usfm": "1SA 14:47",
+"end_ref": "09014048",
+"end_ref_usfm": "1SA 14:48"
+},
+{
+"start_ref": "09030001",
+"start_ref_usfm": "1SA 30:1",
+"end_ref": "09030020",
+"end_ref_usfm": "1SA 30:20"
+},
+{
+"start_ref": "10008011",
+"start_ref_usfm": "2SA 8:11",
+"end_ref": "10008012",
+"end_ref_usfm": "2SA 8:12"
+},
+{
+"start_ref": "17003001",
+"start_ref_usfm": "EST 3:1",
+"end_ref": "17003015",
+"end_ref_usfm": "EST 3:15"
+},
+{
+"start_ref": "09030001",
+"start_ref_usfm": "1SA 30:1",
+"end_ref": "09030031",
+"end_ref_usfm": "1SA 30:31"
+},
+{
+"start_ref": "13004042",
+"start_ref_usfm": "1CH 4:42",
+"end_ref": "13004043",
+"end_ref_usfm": "1CH 4:43"
+},
+{
+"start_ref": "19083001",
+"start_ref_usfm": "PSA 83:1",
+"end_ref": "19083008",
+"end_ref_usfm": "PSA 83:8"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Amalek",
+"type": "place",
+"preferred_label": "Ameleque",
+"confidence": 0.5573,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "658555",
+"reference_id": 203478,
+"version": "1.0.2",
+"title": "Os Fariseus",
+"media_type": "Text",
+"index_reference": "os fariseus",
+"language": "por",
+"review_level": "None",
+"content": "<p>Os fariseus eram um dos três principais grupos judaicos, juntamente com os saduceus e os essênios. Ao contrário de alguns outros grupos, os fariseus não tentaram ganhar poder político. Eles surgiram como parte de um grupo chamado <em>hasidim</em> (os piedosos), que se opunha à mistura da cultura e religião grega com o judaísmo no segundo século a.C.</p><p>Os fariseus tentaram tornar a lei do Antigo Testamento prática para os judeus que desejavam obedecê-la. Eles se concentraram tanto na lei escrita de Moisés (chamada de <em>torah</em>) quanto nas tradições orais que afirmavam que Moisés transmitiu. Seu objetivo era proteger a lei escrita de quaisquer violações. Eles eram conhecidos por serem devotos e cumpridores da lei.</p><p>Os fariseus transmitiam suas interpretações da lei oralmente de uma geração para outra, criando uma tradição sobre questões legais. Eles tornaram a lei relevante ao estabelecer diretrizes específicas para muitas situações. Acreditavam que, se todos seguissem a lei, a nação estaria livre do pecado e Deus governaria todas as nações. Esse objetivo futuro motivava seu foco na obediência. As tradições dos fariseus mais tarde se tornaram os escritos rabínicos conhecidos como <em>Mishnah</em> e <em>Talmud</em>.</p><p>Os fariseus eram um grupo pequeno, mas tinham muita influência em Israel (veja <a href=\"https://ref.ly/Matt15:12-Matt15:14\">Mt 15.12–14</a>; veja também Josefo, <em>Guerra</em> 2.8.14; <em>Antiguidades</em> 13.10.5). Eles influenciavam principalmente as comunidades locais das sinagogas. Os saduceus, no entanto, eram mais influentes no culto do templo em Jerusalém e no Sinédrio, o conselho superior judaico.</p><p>Ao contrário dos saduceus, os fariseus acreditavam firmemente na ressurreição dos mortos (veja <a href=\"https://ref.ly/Acts23:6-Acts23:8\">At 23.6–8</a>). Após a destruição de Jerusalém em 70 d.C., os fariseus lideraram e guiaram o povo de Israel.</p><p>Havia frequentemente conflito entre Jesus e os fariseus. Jesus os acusava de hipocrisia (dizer uma coisa, mas fazer outra) e de priorizar regras humanas sobre os padrões justos de Deus. Ele se opunha a eles porque afastavam as pessoas do plano de redenção de Deus. Embora fossem líderes religiosos de Israel, Jesus os criticava como hipócritas por distorcerem ensinamentos e práticas (veja <a href=\"https://ref.ly/Matt23:1-Matt23:39\">Mt 23</a>). Os fariseus se opunham a Jesus. Eles o rejeitaram e seu trabalho principalmente porque ele ignorava suas tradições (veja, por exemplo, <a href=\"https://ref.ly/Matt15:1-Matt15:20\">Mt 15.1–20</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Matt3:7\">Mateus 3.7</a>; <a href=\"https://ref.ly/Matt5:20\">5.20</a>; <a href=\"https://ref.ly/Matt9:10-Matt9:14\">9.10–14</a>,<a href=\"https://ref.ly/Matt9:34\">34</a>; <a href=\"https://ref.ly/Matt12:1-Matt12:14\">12.1–14</a>,<a href=\"https://ref.ly/Matt12:22-Matt12:24\">22–24</a>,<a href=\"https://ref.ly/Matt12:38-Matt12:40\">38–40</a>; <a href=\"https://ref.ly/Matt15:1-Matt15:14\">15.1–14</a>; <a href=\"https://ref.ly/Matt16:1-Matt16:12\">16.1–12</a>; <a href=\"https://ref.ly/Matt19:3\">19.3</a>; <a href=\"https://ref.ly/Matt21:45\">21.45</a>; <a href=\"https://ref.ly/Matt22:15\">22.15</a>,<a href=\"https://ref.ly/Matt22:34\">34</a>; <a href=\"https://ref.ly/Matt23:1-Matt23:7\">23.1–7</a>,<a href=\"https://ref.ly/Matt23:13-Matt23:31\">13–31</a>; <a href=\"https://ref.ly/Matt27:62-Matt27:64\">27.62–64</a>; <a href=\"https://ref.ly/Mark2:23-Mark2:25\">Marcos 2.23–25</a>; <a href=\"https://ref.ly/Mark3:1-Mark3:6\">3.1–6</a>; <a href=\"https://ref.ly/Mark7:1-Mark7:13\">7.1–13</a>; <a href=\"https://ref.ly/Mark8:11-Mark8:12\">8.11–12</a>; <a href=\"https://ref.ly/Mark12:13-Mark12:17\">12.13–17</a>; <a href=\"https://ref.ly/Luke5:17-Luke5:21\">Lucas 5.17–21</a>,<a href=\"https://ref.ly/Luke5:29-Luke5:32\">29–32</a>; <a href=\"https://ref.ly/Luke6:6-Luke6:11\">6.6–11</a>; <a href=\"https://ref.ly/Luke7:28-Luke7:30\">7.28–30</a>,<a href=\"https://ref.ly/Luke7:36-Luke7:49\">36–49</a>; <a href=\"https://ref.ly/Luke11:37-Luke11:54\">11.37–54</a>; <a href=\"https://ref.ly/Luke12:1-Luke12:3\">12.1–3</a>; <a href=\"https://ref.ly/Luke13:31\">13.31</a>; <a href=\"https://ref.ly/Luke14:1-Luke14:6\">14.1–6</a>; <a href=\"https://ref.ly/Luke15:1-Luke15:2\">15.1–2</a>; <a href=\"https://ref.ly/Luke16:13-Luke16:15\">16.13–15</a>; <a href=\"https://ref.ly/Luke17:20-Luke17:21\">17.20–21</a>; <a href=\"https://ref.ly/Luke18:9-Luke18:14\">18.9–14</a>; <a href=\"https://ref.ly/Luke19:38-Luke19:40\">19.38–40</a>; <a href=\"https://ref.ly/John1:24-John1:25\">João 1.24–25</a>; <a href=\"https://ref.ly/John3:1\">3.1</a>; <a href=\"https://ref.ly/John7:31-John7:32\">7.31–32</a>,<a href=\"https://ref.ly/John7:45-John7:52\">45–52</a>; <a href=\"https://ref.ly/John8:3-John8:10\">8.3–10</a>,<a href=\"https://ref.ly/John8:13\">13</a>; <a href=\"https://ref.ly/John9:13-John9:34\">9.13–34</a>,<a href=\"https://ref.ly/John9:40\">40</a>; <a href=\"https://ref.ly/John11:46-John11:57\">11.46–57</a>; <a href=\"https://ref.ly/John12:17-John12:19\">12.17–19</a>,<a href=\"https://ref.ly/John12:42\">42</a>; <a href=\"https://ref.ly/John18:3\">18.3</a>; <a href=\"https://ref.ly/Acts5:27-Acts5:40\">Atos 5.27–40</a>; <a href=\"https://ref.ly/Acts15:5\">15.5</a>; <a href=\"https://ref.ly/Acts23:6-Acts23:10\">23.6–10</a>; <a href=\"https://ref.ly/Acts26:4-Acts26:5\">26.4–5</a>; <a href=\"https://ref.ly/Phil3:5-Phil3:7\">Fp 3.5–7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40003007",
+"start_ref_usfm": "MAT 3:7",
+"end_ref": "40003007",
+"end_ref_usfm": "MAT 3:7"
+},
+{
+"start_ref": "40005020",
+"start_ref_usfm": "MAT 5:20",
+"end_ref": "40005020",
+"end_ref_usfm": "MAT 5:20"
+},
+{
+"start_ref": "40009034",
+"start_ref_usfm": "MAT 9:34",
+"end_ref": "40009034",
+"end_ref_usfm": "MAT 9:34"
+},
+{
+"start_ref": "40019003",
+"start_ref_usfm": "MAT 19:3",
+"end_ref": "40019003",
+"end_ref_usfm": "MAT 19:3"
+},
+{
+"start_ref": "40021045",
+"start_ref_usfm": "MAT 21:45",
+"end_ref": "40021045",
+"end_ref_usfm": "MAT 21:45"
+},
+{
+"start_ref": "40022015",
+"start_ref_usfm": "MAT 22:15",
+"end_ref": "40022015",
+"end_ref_usfm": "MAT 22:15"
+},
+{
+"start_ref": "40022034",
+"start_ref_usfm": "MAT 22:34",
+"end_ref": "40022034",
+"end_ref_usfm": "MAT 22:34"
+},
+{
+"start_ref": "42013031",
+"start_ref_usfm": "LUK 13:31",
+"end_ref": "42013031",
+"end_ref_usfm": "LUK 13:31"
+},
+{
+"start_ref": "43003001",
+"start_ref_usfm": "JHN 3:1",
+"end_ref": "43003001",
+"end_ref_usfm": "JHN 3:1"
+},
+{
+"start_ref": "43008013",
+"start_ref_usfm": "JHN 8:13",
+"end_ref": "43008013",
+"end_ref_usfm": "JHN 8:13"
+},
+{
+"start_ref": "43009040",
+"start_ref_usfm": "JHN 9:40",
+"end_ref": "43009040",
+"end_ref_usfm": "JHN 9:40"
+},
+{
+"start_ref": "43012042",
+"start_ref_usfm": "JHN 12:42",
+"end_ref": "43012042",
+"end_ref_usfm": "JHN 12:42"
+},
+{
+"start_ref": "43018003",
+"start_ref_usfm": "JHN 18:3",
+"end_ref": "43018003",
+"end_ref_usfm": "JHN 18:3"
+},
+{
+"start_ref": "44015005",
+"start_ref_usfm": "ACT 15:5",
+"end_ref": "44015005",
+"end_ref_usfm": "ACT 15:5"
+},
+{
+"start_ref": "40016001",
+"start_ref_usfm": "MAT 16:1",
+"end_ref": "40016012",
+"end_ref_usfm": "MAT 16:12"
+},
+{
+"start_ref": "41012013",
+"start_ref_usfm": "MRK 12:13",
+"end_ref": "41012017",
+"end_ref_usfm": "MRK 12:17"
+},
+{
+"start_ref": "44026004",
+"start_ref_usfm": "ACT 26:4",
+"end_ref": "44026005",
+"end_ref_usfm": "ACT 26:5"
+},
+{
+"start_ref": "44005027",
+"start_ref_usfm": "ACT 5:27",
+"end_ref": "44005040",
+"end_ref_usfm": "ACT 5:40"
+},
+{
+"start_ref": "40015001",
+"start_ref_usfm": "MAT 15:1",
+"end_ref": "40015020",
+"end_ref_usfm": "MAT 15:20"
+},
+{
+"start_ref": "41003001",
+"start_ref_usfm": "MRK 3:1",
+"end_ref": "41003006",
+"end_ref_usfm": "MRK 3:6"
+},
+{
+"start_ref": "41007001",
+"start_ref_usfm": "MRK 7:1",
+"end_ref": "41007013",
+"end_ref_usfm": "MRK 7:13"
+},
+{
+"start_ref": "42017020",
+"start_ref_usfm": "LUK 17:20",
+"end_ref": "42017021",
+"end_ref_usfm": "LUK 17:21"
+},
+{
+"start_ref": "40023001",
+"start_ref_usfm": "MAT 23:1",
+"end_ref": "40023039",
+"end_ref_usfm": "MAT 23:39"
+},
+{
+"start_ref": "40012001",
+"start_ref_usfm": "MAT 12:1",
+"end_ref": "40012014",
+"end_ref_usfm": "MAT 12:14"
+},
+{
+"start_ref": "41008011",
+"start_ref_usfm": "MRK 8:11",
+"end_ref": "41008012",
+"end_ref_usfm": "MRK 8:12"
+},
+{
+"start_ref": "40012022",
+"start_ref_usfm": "MAT 12:22",
+"end_ref": "40012024",
+"end_ref_usfm": "MAT 12:24"
+},
+{
+"start_ref": "40012038",
+"start_ref_usfm": "MAT 12:38",
+"end_ref": "40012040",
+"end_ref_usfm": "MAT 12:40"
+},
+{
+"start_ref": "42018009",
+"start_ref_usfm": "LUK 18:9",
+"end_ref": "42018014",
+"end_ref_usfm": "LUK 18:14"
+},
+{
+"start_ref": "44023006",
+"start_ref_usfm": "ACT 23:6",
+"end_ref": "44023008",
+"end_ref_usfm": "ACT 23:8"
+},
+{
+"start_ref": "42006006",
+"start_ref_usfm": "LUK 6:6",
+"end_ref": "42006011",
+"end_ref_usfm": "LUK 6:11"
+},
+{
+"start_ref": "42015001",
+"start_ref_usfm": "LUK 15:1",
+"end_ref": "42015002",
+"end_ref_usfm": "LUK 15:2"
+},
+{
+"start_ref": "43012017",
+"start_ref_usfm": "JHN 12:17",
+"end_ref": "43012019",
+"end_ref_usfm": "JHN 12:19"
+},
+{
+"start_ref": "43007045",
+"start_ref_usfm": "JHN 7:45",
+"end_ref": "43007052",
+"end_ref_usfm": "JHN 7:52"
+},
+{
+"start_ref": "42005029",
+"start_ref_usfm": "LUK 5:29",
+"end_ref": "42005032",
+"end_ref_usfm": "LUK 5:32"
+},
+{
+"start_ref": "43001024",
+"start_ref_usfm": "JHN 1:24",
+"end_ref": "43001025",
+"end_ref_usfm": "JHN 1:25"
+},
+{
+"start_ref": "42011037",
+"start_ref_usfm": "LUK 11:37",
+"end_ref": "42011054",
+"end_ref_usfm": "LUK 11:54"
+},
+{
+"start_ref": "43009013",
+"start_ref_usfm": "JHN 9:13",
+"end_ref": "43009034",
+"end_ref_usfm": "JHN 9:34"
+},
+{
+"start_ref": "43011046",
+"start_ref_usfm": "JHN 11:46",
+"end_ref": "43011057",
+"end_ref_usfm": "JHN 11:57"
+},
+{
+"start_ref": "40027062",
+"start_ref_usfm": "MAT 27:62",
+"end_ref": "40027064",
+"end_ref_usfm": "MAT 27:64"
+},
+{
+"start_ref": "44023006",
+"start_ref_usfm": "ACT 23:6",
+"end_ref": "44023010",
+"end_ref_usfm": "ACT 23:10"
+},
+{
+"start_ref": "42014001",
+"start_ref_usfm": "LUK 14:1",
+"end_ref": "42014006",
+"end_ref_usfm": "LUK 14:6"
+},
+{
+"start_ref": "40015012",
+"start_ref_usfm": "MAT 15:12",
+"end_ref": "40015014",
+"end_ref_usfm": "MAT 15:14"
+},
+{
+"start_ref": "40009010",
+"start_ref_usfm": "MAT 9:10",
+"end_ref": "40009014",
+"end_ref_usfm": "MAT 9:14"
+},
+{
+"start_ref": "40015001",
+"start_ref_usfm": "MAT 15:1",
+"end_ref": "40015014",
+"end_ref_usfm": "MAT 15:14"
+},
+{
+"start_ref": "40023001",
+"start_ref_usfm": "MAT 23:1",
+"end_ref": "40023007",
+"end_ref_usfm": "MAT 23:7"
+},
+{
+"start_ref": "40023013",
+"start_ref_usfm": "MAT 23:13",
+"end_ref": "40023031",
+"end_ref_usfm": "MAT 23:31"
+},
+{
+"start_ref": "41002023",
+"start_ref_usfm": "MRK 2:23",
+"end_ref": "41002025",
+"end_ref_usfm": "MRK 2:25"
+},
+{
+"start_ref": "42005017",
+"start_ref_usfm": "LUK 5:17",
+"end_ref": "42005021",
+"end_ref_usfm": "LUK 5:21"
+},
+{
+"start_ref": "42007028",
+"start_ref_usfm": "LUK 7:28",
+"end_ref": "42007030",
+"end_ref_usfm": "LUK 7:30"
+},
+{
+"start_ref": "42007036",
+"start_ref_usfm": "LUK 7:36",
+"end_ref": "42007049",
+"end_ref_usfm": "LUK 7:49"
+},
+{
+"start_ref": "42012001",
+"start_ref_usfm": "LUK 12:1",
+"end_ref": "42012003",
+"end_ref_usfm": "LUK 12:3"
+},
+{
+"start_ref": "42016013",
+"start_ref_usfm": "LUK 16:13",
+"end_ref": "42016015",
+"end_ref_usfm": "LUK 16:15"
+},
+{
+"start_ref": "42019038",
+"start_ref_usfm": "LUK 19:38",
+"end_ref": "42019040",
+"end_ref_usfm": "LUK 19:40"
+},
+{
+"start_ref": "43007031",
+"start_ref_usfm": "JHN 7:31",
+"end_ref": "43007032",
+"end_ref_usfm": "JHN 7:32"
+},
+{
+"start_ref": "43008003",
+"start_ref_usfm": "JHN 8:3",
+"end_ref": "43008010",
+"end_ref_usfm": "JHN 8:10"
+},
+{
+"start_ref": "50003005",
+"start_ref_usfm": "PHP 3:5",
+"end_ref": "50003007",
+"end_ref_usfm": "PHP 3:7"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "658498",
+"reference_id": 203421,
+"version": "1.0.2",
+"title": "Os Filisteus",
+"media_type": "Text",
+"index_reference": "os filisteus",
+"language": "por",
+"review_level": "None",
+"content": "<p>Os filisteus viviam na planície costeira sudeste do Mediterrâneo. Eles faziam parte de um grupo maior de viajantes marítimos da região do Egeu, chamados de &quot;povos do mar&quot; pelos egípcios. Por volta de 1200 a.C., eles se estabeleceram na planície costeira inferior da Palestina e fundaram cinco cidades:</p><ol><li><p>Asdode</p></li><li><p>Asquelom</p></li><li><p>Ecrom</p></li><li><p>Gaza</p></li><li><p>Portão</p></li></ol><p>Os filisteus não eram simples; eles eram habilidosos em política e tecnologia. Eles também eram guerreiros fortes. Sua tecnologia de ferro os tornava inimigos quase imbatíveis (veja <a href=\"https://ref.ly/1Sam13:19-1Sam13:22\">1Sm 13.19–22</a>). Eles frequentemente lutavam contra os israelitas durante o tempo dos juízes, por volta de 1350 a 1050 a.C., e no início da monarquia unida, de cerca de 1050 a 970 a.C. Saul morreu lutando contra os filisteus (<a href=\"https://ref.ly/1Sam31:1-1Sam31:13\">1Sm 31.1–13</a>). No entanto, Davi os derrotou antes de se tornar rei (<a href=\"https://ref.ly/1Sam18:20-1Sam18:30\">1Sm 18.20–30</a>; <a href=\"https://ref.ly/1Sam19:8\">19.8</a>; <a href=\"https://ref.ly/1Sam23:1-1Sam23:5\">23.1–5</a>) e continuou a vencer contra eles durante seu reinado (<a href=\"https://ref.ly/2Sam5:17-2Sam5:25\">2Sm 5.17–25</a>; <a href=\"https://ref.ly/2Sam8:1\">8.1</a>; <a href=\"https://ref.ly/2Sam21:15\">21.15–22</a>). Embora os filisteus nunca tenham desaparecido completamente enquanto Israel existiu como nação (<a href=\"https://ref.ly/2Kgs18:8\">2Rs 18.8</a>; <a href=\"https://ref.ly/2Chr17:11\">2Cr 17.11</a>; <a href=\"https://ref.ly/2Chr21:16-2Chr21:17\">21.16–17</a>; <a href=\"https://ref.ly/2Chr26:6-2Chr26:7\">26.6–7</a>; <a href=\"https://ref.ly/2Chr28:18\">28.18</a>), Davi efetivamente encerrou sua ameaça.</p><p>Em 1 Samuel, Deus usou os filisteus para remover a família pecaminosa de Eli (<a href=\"https://ref.ly/1Sam4:10-1Sam4:22\">1Sm 4.10–22</a>). Os filisteus também ajudaram a construir a carreira militar e política de Davi (<a href=\"https://ref.ly/1Sam17:32-1Sam17:58\">1Sm 17.32–58</a>; <a href=\"https://ref.ly/1Sam18:20-1Sam18:30\">18.20–30</a>). Eles distraíram Saul quando ele estava perto de capturar Davi (<a href=\"https://ref.ly/1Sam23:26-1Sam23:28\">1Sm 23.26–28</a>). Eles deram refúgio a Davi ao fugir de Saul (<a href=\"https://ref.ly/1Sam21:10-1Sam21:15\">1Sm 21.10–15</a>; <a href=\"https://ref.ly/1Sam27:1-1Sam27:12\">27.1–12</a>). Eles impediram Davi de lutar contra seu próprio povo (<a href=\"https://ref.ly/1Sam29:1-1Sam29:11\">1Sm 29.1–11</a>). Eles mataram Saul e seus filhos (<a href=\"https://ref.ly/1Sam31:1-1Sam31:13\">1Sm 31.1–13</a>). Isso possibilitou que Davi se tornasse rei. No entanto, no final, os filisteus experimentaram o julgamento de Deus (veja <a href=\"https://ref.ly/Ezek25:15-Ezek25:17\">Ez 25.15–17</a>; <a href=\"https://ref.ly/Amos1:6-Amos1:8\">Am 1.6–8</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Gen10:13-Gen10:14\">Gênesis 10.13–14</a>; <a href=\"https://ref.ly/Judg3:1-Judg3:3\">Juízes 3.1–3</a>; <a href=\"https://ref.ly/Judg13:1-Judg16:31\">Juízes 13.1–16.31</a>; <a href=\"https://ref.ly/1Sam5:1-1Sam6:18\">1 Samuel 5.1–6.18</a>; <a href=\"https://ref.ly/1Sam13:16-1Sam14:23\">13.16–14.23</a>; <a href=\"https://ref.ly/1Sam21:10-1Sam21:15\">21.10–15</a>; <a href=\"https://ref.ly/1Sam23:1-1Sam23:5\">23.1–5</a>,<a href=\"https://ref.ly/1Sam23:26-1Sam23:28\">26–28</a>; <a href=\"https://ref.ly/1Sam31:1-1Sam31:10\">31.1–10</a>; <a href=\"https://ref.ly/2Sam5:17-2Sam5:25\">2 Samuel 5.17–25</a>; <a href=\"https://ref.ly/2Sam8:1\">8.1</a>; <a href=\"https://ref.ly/2Sam21:15-2Sam21:22\">21.15–22</a>; <a href=\"https://ref.ly/2Kgs18:8\">2 Reis 18.8</a>; <a href=\"https://ref.ly/2Chr17:10-2Chr17:11\">2 Crônicas 17.10–11</a>; <a href=\"https://ref.ly/2Chr21:16-2Chr21:17\">21.16–17</a>; <a href=\"https://ref.ly/2Chr26:6-2Chr26:7\">26.6–7</a>; <a href=\"https://ref.ly/2Chr28:18-2Chr28:19\">28.18–19</a>; <a href=\"https://ref.ly/Isa2:6\">Is 2.6</a>; <a href=\"https://ref.ly/Ezek25:15-Ezek25:17\">Ezequiel 25.15–17</a>; <a href=\"https://ref.ly/Amos1:6-Amos1:8\">Amós 1.6–8</a>; <a href=\"https://ref.ly/Amos9:7\">9.7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09019008",
+"start_ref_usfm": "1SA 19:8",
+"end_ref": "09019008",
+"end_ref_usfm": "1SA 19:8"
+},
+{
+"start_ref": "10008001",
+"start_ref_usfm": "2SA 8:1",
+"end_ref": "10008001",
+"end_ref_usfm": "2SA 8:1"
+},
+{
+"start_ref": "10021015",
+"start_ref_usfm": "2SA 21:15",
+"end_ref": "10021015",
+"end_ref_usfm": "2SA 21:15"
+},
+{
+"start_ref": "12018008",
+"start_ref_usfm": "2KI 18:8",
+"end_ref": "12018008",
+"end_ref_usfm": "2KI 18:8"
+},
+{
+"start_ref": "14017011",
+"start_ref_usfm": "2CH 17:11",
+"end_ref": "14017011",
+"end_ref_usfm": "2CH 17:11"
+},
+{
+"start_ref": "14028018",
+"start_ref_usfm": "2CH 28:18",
+"end_ref": "14028018",
+"end_ref_usfm": "2CH 28:18"
+},
+{
+"start_ref": "23002006",
+"start_ref_usfm": "ISA 2:6",
+"end_ref": "23002006",
+"end_ref_usfm": "ISA 2:6"
+},
+{
+"start_ref": "30009007",
+"start_ref_usfm": "AMO 9:7",
+"end_ref": "30009007",
+"end_ref_usfm": "AMO 9:7"
+},
+{
+"start_ref": "09021010",
+"start_ref_usfm": "1SA 21:10",
+"end_ref": "09021015",
+"end_ref_usfm": "1SA 21:15"
+},
+{
+"start_ref": "09031001",
+"start_ref_usfm": "1SA 31:1",
+"end_ref": "09031013",
+"end_ref_usfm": "1SA 31:13"
+},
+{
+"start_ref": "09013019",
+"start_ref_usfm": "1SA 13:19",
+"end_ref": "09013022",
+"end_ref_usfm": "1SA 13:22"
+},
+{
+"start_ref": "01010013",
+"start_ref_usfm": "GEN 10:13",
+"end_ref": "01010014",
+"end_ref_usfm": "GEN 10:14"
+},
+{
+"start_ref": "07013001",
+"start_ref_usfm": "JDG 13:1",
+"end_ref": "07016031",
+"end_ref_usfm": "JDG 16:31"
+},
+{
+"start_ref": "09027001",
+"start_ref_usfm": "1SA 27:1",
+"end_ref": "09027012",
+"end_ref_usfm": "1SA 27:12"
+},
+{
+"start_ref": "14021016",
+"start_ref_usfm": "2CH 21:16",
+"end_ref": "14021017",
+"end_ref_usfm": "2CH 21:17"
+},
+{
+"start_ref": "26025015",
+"start_ref_usfm": "EZK 25:15",
+"end_ref": "26025017",
+"end_ref_usfm": "EZK 25:17"
+},
+{
+"start_ref": "09029001",
+"start_ref_usfm": "1SA 29:1",
+"end_ref": "09029011",
+"end_ref_usfm": "1SA 29:11"
+},
+{
+"start_ref": "09023001",
+"start_ref_usfm": "1SA 23:1",
+"end_ref": "09023005",
+"end_ref_usfm": "1SA 23:5"
+},
+{
+"start_ref": "10005017",
+"start_ref_usfm": "2SA 5:17",
+"end_ref": "10005025",
+"end_ref_usfm": "2SA 5:25"
+},
+{
+"start_ref": "14026006",
+"start_ref_usfm": "2CH 26:6",
+"end_ref": "14026007",
+"end_ref_usfm": "2CH 26:7"
+},
+{
+"start_ref": "10021015",
+"start_ref_usfm": "2SA 21:15",
+"end_ref": "10021022",
+"end_ref_usfm": "2SA 21:22"
+},
+{
+"start_ref": "14017010",
+"start_ref_usfm": "2CH 17:10",
+"end_ref": "14017011",
+"end_ref_usfm": "2CH 17:11"
+},
+{
+"start_ref": "07003001",
+"start_ref_usfm": "JDG 3:1",
+"end_ref": "07003003",
+"end_ref_usfm": "JDG 3:3"
+},
+{
+"start_ref": "09018020",
+"start_ref_usfm": "1SA 18:20",
+"end_ref": "09018030",
+"end_ref_usfm": "1SA 18:30"
+},
+{
+"start_ref": "09004010",
+"start_ref_usfm": "1SA 4:10",
+"end_ref": "09004022",
+"end_ref_usfm": "1SA 4:22"
+},
+{
+"start_ref": "09017032",
+"start_ref_usfm": "1SA 17:32",
+"end_ref": "09017058",
+"end_ref_usfm": "1SA 17:58"
+},
+{
+"start_ref": "09023026",
+"start_ref_usfm": "1SA 23:26",
+"end_ref": "09023028",
+"end_ref_usfm": "1SA 23:28"
+},
+{
+"start_ref": "30001006",
+"start_ref_usfm": "AMO 1:6",
+"end_ref": "30001008",
+"end_ref_usfm": "AMO 1:8"
+},
+{
+"start_ref": "09005001",
+"start_ref_usfm": "1SA 5:1",
+"end_ref": "09006018",
+"end_ref_usfm": "1SA 6:18"
+},
+{
+"start_ref": "09013016",
+"start_ref_usfm": "1SA 13:16",
+"end_ref": "09014023",
+"end_ref_usfm": "1SA 14:23"
+},
+{
+"start_ref": "09031001",
+"start_ref_usfm": "1SA 31:1",
+"end_ref": "09031010",
+"end_ref_usfm": "1SA 31:10"
+},
+{
+"start_ref": "14028018",
+"start_ref_usfm": "2CH 28:18",
+"end_ref": "14028019",
+"end_ref_usfm": "2CH 28:19"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Filisteu",
+"confidence": 0.6719,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "658549",
+"reference_id": 203472,
+"version": "1.0.2",
+"title": "Os Gregos",
+"media_type": "Text",
+"index_reference": "os gregos",
+"language": "por",
+"review_level": "None",
+"content": "<p>A civilização grega foi importante no mundo antigo. A cultura grega teve uma grande influência no mundo durante o nascimento de Jesus e a escrita do Novo Testamento.</p><h3>Civilização Micênica (1450 a 1200 a.C.)</h3><p>Os micênicos viveram durante a &quot;era heróica&quot;, entre 1450 e 1200 a.C. Este período foi chamado de &quot;era heróica&quot; porque foi quando muitas histórias gregas famosas sobre heróis e grandes batalhas ocorreram. Essas histórias foram posteriormente escritas por Homero em seus longos poemas. Sua civilização estava baseada em Micenas, cerca de quarenta e oito quilômetros ao sul de Corinto. Os micênicos comerciavam amplamente e eram muito habilidosos na guerra. Os deuses gregos e mitos conhecidos de escritos posteriores começaram na Grécia micênica. Documentos micênicos foram escritos em Linear B, um sistema de escrita usando sílabas.</p><p>A civilização micênica terminou violentamente por volta de 1200 a.C. devido aos invasores gregos dóricos. Os séculos seguintes são conhecidos como os &quot;Séculos negros da Grécia&quot;. Durante esse período, as pessoas pararam de usar a escrita Linear B, e não há registros escritos.</p><h3>Idade Arcaica, Cidades-Estado (850–546 a.C.)</h3><p>Com o tempo, as cidades e vilarejos gregos se organizaram em cidades-estado que controlavam grandes áreas. Durante esse período, os gregos começaram a cooperar mais e compartilharam uma identidade comum. Por exemplo, realizaram os primeiros Jogos Olímpicos em 776 a.C.</p><p>À medida que o comércio com regiões próximas crescia, os gregos encontraram os fenícios e adotaram seu sistema de escrita. Homero escreveu a <em>Ilíada</em> e a <em>Odisseia</em>, que narram as histórias e mitos da antiga civilização micênica e seus deuses.</p><p>Muitas cidades-estado dependiam de líderes poderosos chamados tiranos. Esses líderes ajudavam a manter a ordem e a paz em suas cidades. (A palavra grega para esses governantes é <em>tyrannos</em>.) Muitas áreas escreveram suas leis básicas em um documento chamado constituição, o que ajudou a criar regras claras para governar. Em Atenas, um pequeno grupo de pessoas poderosas chamado Conselho do Areópago governava a cidade. Esse tipo de governo era chamado de oligarquia. Mais tarde, um líder chamado Sólon fez mudanças importantes na forma como Atenas era governada. Essas mudanças ajudaram Atenas a se tornar uma democracia, onde os cidadãos podiam votar e ajudar a tomar decisões.</p><h3>Guerras Persas, Período Clássico (546 a 336 a.C.)</h3><p>Em 546 a.C., Ciro, o Grande da Pérsia, assumiu o controle das colônias gregas na Ásia Menor. Por volta de 500 a.C., a Jônia tentou se revoltar, mas falhou. Isso levou Dario I a invadir o continente grego em 492 a.C. Durante as guerras seguintes, os gregos frequentemente estavam em menor número, mas usaram melhor habilidade e estratégia para superar os persas. Na Batalha de Maratona em 490 a.C., os gregos derrotaram os persas de forma decisiva. Dez anos depois, o exército persa sob o comando de Xerxes cruzou o Helesponto, e sua grande frota entrou em águas gregas. Os persas queimaram Atenas, mas, eventualmente, os gregos venceram, e Xerxes se retirou.</p><p>Após o fim das Guerras Persas, Atenas foi reconstruída e entrou em um período de grandeza. Péricles liderou Atenas na criação de uma democracia plena. Eles construíram grandes estruturas na Acrópole. Atenas se tornou rica, e seu poder marítimo aumentou. Esta foi uma era de ouro com grandes conquistas em arte, pensamento, literatura e arquitetura.</p><h3>Império Macedônico, Civilização Helenística (336–146 a.C.)</h3><p>Filipe II da Macedônia queria construir um império. Ele derrotou Atenas e Tebas em 338 a.C. e uniu a Grécia sob o Império Macedônio. Após o assassinato de Filipe em 336 a.C., seu filho Alexandre tornou-se o governante. Em 335 a.C., Alexandre destruiu Tebas, que havia se rebelado. Ele então rapidamente conquistou Babilônia e a Pérsia (veja <a href=\"https://ref.ly/Dan8:5-Dan8:8\">Dn 8.5–8</a>). Quando Alexandre morreu repentinamente em 323 a.C., seus vastos territórios foram divididos entre quatro generais. Após algum conflito, três grandes regiões se formaram:</p><ol><li><p>Egito</p></li><li><p>Ásia Menor, Síria e Babilônia</p></li><li><p>Macedônia e Acaia</p></li></ol><p>As conquistas de Alexandre espalharam a cultura e a influência grega pelo mundo antigo. Esse confronto entre a cultura grega e o judaísmo levou à revolta dos Macabeus na Judeia nos anos 160 a.C.</p><h3>Domínio Romano (168 a.C. a 330 d.C.)</h3><p>Roma começou a expandir seu poder na Grécia em 198 a.C. Em 168 a.C., Roma derrotou os macedônios na Batalha de Pidna. Em 148 a.C., Roma anexou a Macedônia como uma província. Então, em 146 a.C., Roma destruiu Corinto. A Grécia estava agora firmemente sob controle romano e permaneceu assim até que o Imperador Constantino fez de Bizâncio a capital do Império Romano em 330 d.C. A cultura grega e o domínio romano prepararam o cenário para a vida de Jesus e o início do Cristianismo.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Dan8:5-Dan8:8\">Deuteronômio 8.5–8</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "27008005",
+"start_ref_usfm": "DAN 8:5",
+"end_ref": "27008008",
+"end_ref_usfm": "DAN 8:8"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "658537",
+"reference_id": 203460,
+"version": "1.0.2",
+"title": "Os Medos e Persas",
+"media_type": "Text",
+"index_reference": "os medos e persas",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Os Medos (aproximadamente 850–549 a.C.)</h3><p>Os primeiros medos não deixaram registros escritos. Uma inscrição de Salmaneser III da Assíria, que governou de 858 a 824 a.C., afirma que os medos se estabeleceram em torno de Ecbátana, sua capital, em meados dos anos 800 a.C. Ecbátana agora é chamada de Hamadan, Irã. Os medos eram famosos por criar cavalos, então Salmaneser invadiu suas terras para roubar muitos cavalos de qualidade. Os medos estiveram sob controle assírio até o final dos anos 600 a.C., quando se tornaram independentes à medida que a Assíria enfraqueceu.</p><h3>Os Persas (cerca de 700–549 a.C.)</h3><p>Por volta de 700 a.C., Aquêmenes fundou um pequeno reino persa. Ele governou de cerca de 700 a 675 a.C. Seu filho, Teispes, governou de 675 a 640 a.C. sob o controle dos Medos. Os Medos estavam reunindo forças para derrubar a Assíria. No entanto, problemas para os Medos mais tarde libertaram Teispes de seu controle. Cambises, que viveu de 600 a 559 a.C., era filho de Ciro I e neto de Teispes. Ele se casou com a filha do rei Medo, Astíages. O filho deles, Ciro II, governou a Pérsia de 559 a 530 a.C., começando em 559 a.C.</p><h3>O Império Medo-Persa (549–331 a.C.)</h3><p>Ciro II derrotou seu avô, Astíages da Média, em 549 a.C. Ele estabeleceu Ecbátana na Média como sua capital e montou seus arquivos lá (veja <a href=\"https://ref.ly/Ezra6:1-Ezra6:5\">Ed 6.1–5</a>). Com um pai persa e uma mãe meda, Ciro II representava a união da Média e da Pérsia.</p><p>Ciro demonstrou bondade e generosidade para com os inimigos derrotados. Como um líder militar habilidoso, ele invadiu a Ásia Menor, derrotou Creso, o rei da Lídia, e controlou as cidades gregas na região. Em 539 a.C., ele capturou Babilônia com quase nenhuma resistência e permitiu que os exilados retornassem para casa para reconstruir seus templos (veja <a href=\"https://ref.ly/Ezra1:1-Ezra1:4\">Ed 1.1–4</a>).</p><p>O filho de Ciro, Cambises II, conquistou o Egito e governou de 529 a 522 a.C. No entanto, o império quase desmoronou quando ele cometeu suicídio. Dario I, filho de Histaspes, que era o governador da Pártia, sucedeu Cambises e governou de 521 a 486 a.C. Dario foi um líder enérgico e eficiente. Ele conteve revoltas internas e organizou o império em vinte províncias.</p><p>Cada província estava sob um governador, chamado sátrapa ou &quot;protetor do reino&quot;. Inspetores, conhecidos como &quot;os ouvidos do rei&quot;, monitoravam as ações dos sátrapas. Dario mudou a capital principal da Pérsia para Persépolis, onde eventualmente foi construído um grande complexo de palácios. Dario seguiu Zoroastro e adorava Ahura Mazda, o principal deus do Zoroastrismo. Xerxes e Artaxerxes, que vieram depois dele, também seguiram essa fé.</p><p>Nos últimos anos do governo de Dario, os gregos o derrotaram em Maratona em 491 a.C.</p><p>O filho de Dario, Khshayarsha, também conhecido como Xerxes em grego e Assuero em hebraico, o sucedeu. Durante o reinado de Xerxes, de 486 a 465 a.C., os gregos derrotaram a frota persa em Salamina em 480 a.C.</p><p>As pessoas atribuem a queda do império à covardia de Dario III, que governou de 336 a 330 a.C. Alexandre, o Grande, derrotou seus exércitos em Isso em 333 a.C. e, finalmente, em Gaugamela, perto da moderna Erbil (Arbela), em 331 a.C.</p><h3>Pérsia e a Bíblia</h3><p>A primeira menção da Pérsia na história de Israel está em <a href=\"https://ref.ly/Isa44:28-Isa45:13\">Is 44.28–45.13</a>. Esta profecia foi dada a Isaías mais de 150 anos antes de Ciro tomar Babilônia e permitir que os judeus exilados retornassem a Jerusalém. Outras referências bíblicas à Pérsia aparecem mais tarde na história do Antigo Testamento, como em Esdras, Neemias e Ester, e nos escritos de profetas durante e após o exílio, como Daniel, Sofonias e Ageu. As Escrituras retratam a Pérsia como um governante rigoroso, mas geralmente bondoso, que permitiu que os judeus se autogovernassem e adorassem livremente. No entanto, a comunidade judaica sempre se lembrava de que estava sob domínio estrangeiro.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Ezra4:5-Ezra4:7\">Esdras 4.5–7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "15001001",
+"start_ref_usfm": "EZR 1:1",
+"end_ref": "15001004",
+"end_ref_usfm": "EZR 1:4"
+},
+{
+"start_ref": "15006001",
+"start_ref_usfm": "EZR 6:1",
+"end_ref": "15006005",
+"end_ref_usfm": "EZR 6:5"
+},
+{
+"start_ref": "23044028",
+"start_ref_usfm": "ISA 44:28",
+"end_ref": "23045013",
+"end_ref_usfm": "ISA 45:13"
+},
+{
+"start_ref": "15004005",
+"start_ref_usfm": "EZR 4:5",
+"end_ref": "15004007",
+"end_ref_usfm": "EZR 4:7"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "658558",
+"reference_id": 203481,
+"version": "1.0.2",
+"title": "Os Saduceus",
+"media_type": "Text",
+"index_reference": "os saduceus",
+"language": "por",
+"review_level": "None",
+"content": "<p>Os saduceus eram um importante grupo judaico composto por sacerdotes e suas famílias. Eles se diferenciavam dos fariseus, outro grupo judaico, porque os fariseus eram pessoas comuns (&quot;leigas&quot;) que não eram sacerdotes. Provavelmente, eles viviam perto de Jerusalém e controlavam o sistema do templo (<a href=\"https://ref.ly/Acts4:1-Acts4:2\">At 4.1–2</a>; <a href=\"https://ref.ly/Acts5:17\">5.17</a>). Esses líderes poderosos e ricos (aristocratas) atuavam como mediadores entre Roma e Israel (veja Josefo, <em>Antiguidades</em> 13.10.6; <em>Guerra</em> 2.10.5). Eles não tinham muito favor ou influência com o povo (Josefo, <em>Antiguidades</em> 18.1.4).</p><p>O termo <em>Sadduceu</em> provavelmente vem de <em>Zadoque,</em> o sumo sacerdote durante os reinados do Rei Davi e do Rei Salomão (<a href=\"https://ref.ly/2Sam8:17\">2Sm 8.17</a>; <a href=\"https://ref.ly/2Sam15:24\">15.24</a>; <a href=\"https://ref.ly/1Kgs1:8\">1Rs 1.8</a>;<a href=\"https://ref.ly/1Kgs1:32-1Kgs1:48\"> 32–48</a>). Ambas as palavras compartilham a mesma raiz hebraica. A menção histórica mais antiga dos saduceus é durante o reinado de João Hircano, de 135 a 104 a.C., um descendente dos Macabeus (Josefo, <em>Antiguidades</em> 13.10.6), mas eles claramente existiam antes.</p><p>Suas visões sobre Deus frequentemente diferem das dos fariseus (<a href=\"https://ref.ly/Acts23:8\">At 23.8</a>; veja também <a href=\"https://ref.ly/Acts4:1-Acts4:2\">At 4.1–2</a>). Os saduceus davam autoridade primária ao Pentateuco. Eles rejeitavam a tradição oral valorizada pelos fariseus. Ao contrário dos fariseus, os saduceus não acreditavam em:</p><ul><li><p>a ressurreição dos mortos (veja <a href=\"https://ref.ly/Matt22:23-Matt22:33\">Mt 22.23–33</a>),</p></li><li><p>seres angelicais (veja <a href=\"https://ref.ly/Acts23:8\">At 23.8</a>), ou</p></li><li><p>o conceito de julgamento final.</p></li></ul><p>No entanto, os fariseus acreditavam fortemente na ressurreição (voltar à vida após a morte). Eles até apoiaram Paulo contra os saduceus quando ele estava sendo julgado por perturbar o templo (<a href=\"https://ref.ly/Acts23:6-Acts23:10\">At 23.6–10</a>).</p><p>Apesar de suas diferenças, os fariseus e saduceus se uniram contra Jesus. Os fariseus se opuseram a Jesus porque ele não seguia suas tradições orais. Os saduceus se opuseram a ele porque ele acreditava em anjos, demônios, julgamento final e ressurreição.</p><p>Quando o templo foi destruído em 70 d.C., os saduceus desapareceram. Eles não deixaram registros escritos. Todo o nosso conhecimento sobre os saduceus vem de seus oponentes, por isso temos uma compreensão limitada deles.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Matt3:7\">Mateus 3.7</a>; <a href=\"https://ref.ly/Matt16:1-Matt16:12\">16.1–12</a>; <a href=\"https://ref.ly/Matt22:23-Matt22:33\">22.23–33</a>; <a href=\"https://ref.ly/Mark12:18-Mark12:27\">Marcos 12.18–27</a>; <a href=\"https://ref.ly/Luke20:27-Luke20:40\">Lucas 20.27–40</a>; <a href=\"https://ref.ly/Acts4:1-Acts4:2\">Atos 4.1–2</a>; <a href=\"https://ref.ly/Acts5:17-Acts5:18\">5.17–18</a>; <a href=\"https://ref.ly/Acts23:6-Acts23:10\">23.6–10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "10008017",
+"start_ref_usfm": "2SA 8:17",
+"end_ref": "10008017",
+"end_ref_usfm": "2SA 8:17"
+},
+{
+"start_ref": "10015024",
+"start_ref_usfm": "2SA 15:24",
+"end_ref": "10015024",
+"end_ref_usfm": "2SA 15:24"
+},
+{
+"start_ref": "11001008",
+"start_ref_usfm": "1KI 1:8",
+"end_ref": "11001008",
+"end_ref_usfm": "1KI 1:8"
+},
+{
+"start_ref": "40003007",
+"start_ref_usfm": "MAT 3:7",
+"end_ref": "40003007",
+"end_ref_usfm": "MAT 3:7"
+},
+{
+"start_ref": "44005017",
+"start_ref_usfm": "ACT 5:17",
+"end_ref": "44005017",
+"end_ref_usfm": "ACT 5:17"
+},
+{
+"start_ref": "44023008",
+"start_ref_usfm": "ACT 23:8",
+"end_ref": "44023008",
+"end_ref_usfm": "ACT 23:8"
+},
+{
+"start_ref": "40016001",
+"start_ref_usfm": "MAT 16:1",
+"end_ref": "40016012",
+"end_ref_usfm": "MAT 16:12"
+},
+{
+"start_ref": "41012018",
+"start_ref_usfm": "MRK 12:18",
+"end_ref": "41012027",
+"end_ref_usfm": "MRK 12:27"
+},
+{
+"start_ref": "40022023",
+"start_ref_usfm": "MAT 22:23",
+"end_ref": "40022033",
+"end_ref_usfm": "MAT 22:33"
+},
+{
+"start_ref": "42020027",
+"start_ref_usfm": "LUK 20:27",
+"end_ref": "42020040",
+"end_ref_usfm": "LUK 20:40"
+},
+{
+"start_ref": "44005017",
+"start_ref_usfm": "ACT 5:17",
+"end_ref": "44005018",
+"end_ref_usfm": "ACT 5:18"
+},
+{
+"start_ref": "44004001",
+"start_ref_usfm": "ACT 4:1",
+"end_ref": "44004002",
+"end_ref_usfm": "ACT 4:2"
+},
+{
+"start_ref": "44023006",
+"start_ref_usfm": "ACT 23:6",
+"end_ref": "44023010",
+"end_ref_usfm": "ACT 23:10"
+},
+{
+"start_ref": "11001032",
+"start_ref_usfm": "1KI 1:32",
+"end_ref": "11001048",
+"end_ref_usfm": "1KI 1:48"
+}
+],
+"resource": [],
+"acai": []
+}
+}
 ]
