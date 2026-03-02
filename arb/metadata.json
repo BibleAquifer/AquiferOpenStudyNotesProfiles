@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesProfiles",
-"date_created": "2026-02-25",
+"date_created": "2026-02-27",
 "language": "arb",
 "localizations": [
 "eng",
@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-25T21:15:46.156201"
+"dateCreated": "2026-02-27T17:22:15.852982"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesProfiles": {
-"timestamp": "2026-02-25T21:15:46.156201"
+"timestamp": "2026-02-27T17:22:15.852982"
 }
 }
 },
@@ -95,7 +95,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 241438,
+"size": 207552,
 "scope": {
 "ا": [
 "آحَاز",
@@ -130,7 +130,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 22290,
+"size": 19674,
 "scope": {
 "ح": [
 "الحِثِّيِّين",
@@ -142,7 +142,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 57261,
+"size": 47701,
 "scope": {
 "س": [
 "السامريون",
@@ -154,7 +154,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 28150,
+"size": 23976,
 "scope": {
 "ش": [
 "الشّيطان",
@@ -165,7 +165,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 27962,
+"size": 23956,
 "scope": {
 "ص": [
 "الصدوقيون",
@@ -176,7 +176,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 37822,
+"size": 32100,
 "scope": {
 "ع": [
 "العَمَالِيق",
@@ -189,7 +189,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 51382,
+"size": 43156,
 "scope": {
 "ف": [
 "الفَرِّيسِيُّون",
@@ -202,7 +202,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 9222,
+"size": 7420,
 "scope": {
 "ق": [
 "القادة اليهود"
@@ -211,7 +211,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 123655,
+"size": 108345,
 "scope": {
 "م": [
 "المجلس الأعلى لليهود (السنهدرين)",
@@ -233,7 +233,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 8903,
+"size": 8781,
 "scope": {
 "ي": [
 "اليونانيون"
@@ -242,7 +242,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 81041,
+"size": 71353,
 "scope": {
 "ب": [
 "بابل",
@@ -258,7 +258,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 28176,
+"size": 24226,
 "scope": {
 "ت": [
 "تُومَا",
@@ -269,7 +269,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 5891,
+"size": 5433,
 "scope": {
 "ج": [
 "جِدْعُون"
@@ -278,7 +278,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 33610,
+"size": 29044,
 "scope": {
 "د": [
 "دانيآل",
@@ -289,7 +289,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 44998,
+"size": 39786,
 "scope": {
 "ر": [
 "راحاب",
@@ -303,7 +303,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 4188,
+"size": 3674,
 "scope": {
 "ز": [
 "زَرُبَّابِل"
@@ -312,7 +312,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 30252,
+"size": 26684,
 "scope": {
 "ك": [
 "كَالَب",
@@ -324,7 +324,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 21787,
+"size": 18845,
 "scope": {
 "ل": [
 "لوط",
@@ -335,7 +335,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 34360,
+"size": 29494,
 "scope": {
 "ن": [
 "نَبُوخَذْنَاصَّر الثاني",
@@ -348,7 +348,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 33748,
+"size": 30048,
 "scope": {
 "ه": [
 "هاجر",
@@ -362,7 +362,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 186914,
+"size": 157232,
 "scope": {
 "ي": [
 "يَثْرُون (رَعُوئِيل)",
@@ -387,31 +387,31 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 141416
+"size": 139793
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 16134
+"size": 14989
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 29189
+"size": 28895
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 15973
+"size": 15833
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 16771
+"size": 16734
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 22335
+"size": 21440
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 28000
+"size": 27309
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
@@ -419,55 +419,55 @@
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 76825
+"size": 76557
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 8894
+"size": 8834
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 53903
+"size": 51695
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 17109
+"size": 17042
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 5112
+"size": 5080
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 20277
+"size": 20210
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 29953
+"size": 29840
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 3372
+"size": 3319
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 19847
+"size": 20058
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 13413
+"size": 13350
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 19841
+"size": 19747
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 22746
+"size": 22679
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 99360
+"size": 98084
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",

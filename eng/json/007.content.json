@@ -1,616 +1,593 @@
 [
-  {
-    "content_id": "500453",
-    "reference_id": 203396,
-    "version": "1.0.2",
-    "title": "Hagar",
-    "media_type": "Text",
-    "index_reference": "hagar",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Hagar was the Egyptian servant of Sarai, Abram’s wife. When God told Abram to leave Mesopotamia, He promised Abram many descendants and a new land (<a href=\"https://ref.ly/Gen12:2\">Genesis 12:2</a>, <a href=\"https://ref.ly/Gen12:7\">7</a>). After ten years in Canaan without children, Sarai followed a Mesopotamian custom. She gave Hagar to Abram as a concubine (secondary wife). Any son from this union was considered the wife&apos;s child (see <a href=\"https://ref.ly/Gen30:1-Gen30:8\">Genesis 30:1–8</a>).</p><p>Hagar became pregnant and started disrespecting Sarai. Sarai reacted by treating her harshly, so Hagar ran away into the desert (<a href=\"https://ref.ly/Gen16:4-Gen16:6\">Genesis 16:4–6</a>). An angel of the Lord appeared to her at a desert well and told her to return to Abram&apos;s house and obey Sarai.</p><p>Hagar gave birth to a son named Ishmael when Abram was eighty-six years old (<a href=\"https://ref.ly/Gen16:1-Gen16:16\">Genesis 16:1–16</a>).</p><p>Fourteen years later, God gave Abraham and Sarah their promised son, Isaac. When Isaac was weaned, around age three, they held a traditional feast. During the event, Ishmael mocked Isaac (<a href=\"https://ref.ly/Gen21:9\">Genesis 21:9</a>), so Sarah insisted that Abraham send Hagar and Ishmael away. God supported this decision (<a href=\"https://ref.ly/Gen21:12\">Genesis 21:12</a>), so Hagar and Ishmael left to wander in the wilderness of Beersheba. When their water ran out, God miraculously saved them and promised Hagar that Ishmael would become the father of a great nation (<a href=\"https://ref.ly/Gen21:17-Gen21:19\">Genesis 21:17–19</a>).</p><p>Paul used an analogy in <a href=\"https://ref.ly/Gal4:22-Gal4:31\">Galatians 4:22–31</a> where Hagar symbolizes Mount Sinai, the place of the old covenant (God&apos;s special agreement with the Israelites). Sarah symbolizes the heavenly Jerusalem, the community of those who gain salvation through faith in Christ. Just as Isaac was Abraham’s son through faith in God&apos;s promise, Christians who are free from the law are spiritual children of Sarah.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen16:1-Gen16:16\">Genesis 16:1–16</a>; <a href=\"https://ref.ly/Gen21:9-Gen21:21\">21:9–21</a>; <a href=\"https://ref.ly/Gen25:12\">25:12</a>; <a href=\"https://ref.ly/Gal4:22-Gal4:31\">Galatians 4:22–31</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01012002",
-          "start_ref_usfm": "GEN 12:2",
-          "end_ref": "01012002",
-          "end_ref_usfm": "GEN 12:2"
-        },
-        {
-          "start_ref": "01012007",
-          "start_ref_usfm": "GEN 12:7",
-          "end_ref": "01012007",
-          "end_ref_usfm": "GEN 12:7"
-        },
-        {
-          "start_ref": "01021009",
-          "start_ref_usfm": "GEN 21:9",
-          "end_ref": "01021009",
-          "end_ref_usfm": "GEN 21:9"
-        },
-        {
-          "start_ref": "01021012",
-          "start_ref_usfm": "GEN 21:12",
-          "end_ref": "01021012",
-          "end_ref_usfm": "GEN 21:12"
-        },
-        {
-          "start_ref": "01025012",
-          "start_ref_usfm": "GEN 25:12",
-          "end_ref": "01025012",
-          "end_ref_usfm": "GEN 25:12"
-        },
-        {
-          "start_ref": "01016001",
-          "start_ref_usfm": "GEN 16:1",
-          "end_ref": "01016016",
-          "end_ref_usfm": "GEN 16:16"
-        },
-        {
-          "start_ref": "01021009",
-          "start_ref_usfm": "GEN 21:9",
-          "end_ref": "01021021",
-          "end_ref_usfm": "GEN 21:21"
-        },
-        {
-          "start_ref": "01021017",
-          "start_ref_usfm": "GEN 21:17",
-          "end_ref": "01021019",
-          "end_ref_usfm": "GEN 21:19"
-        },
-        {
-          "start_ref": "48004022",
-          "start_ref_usfm": "GAL 4:22",
-          "end_ref": "48004031",
-          "end_ref_usfm": "GAL 4:31"
-        },
-        {
-          "start_ref": "01030001",
-          "start_ref_usfm": "GEN 30:1",
-          "end_ref": "01030008",
-          "end_ref_usfm": "GEN 30:8"
-        },
-        {
-          "start_ref": "01016004",
-          "start_ref_usfm": "GEN 16:4",
-          "end_ref": "01016006",
-          "end_ref_usfm": "GEN 16:6"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Hagar",
-          "type": "person",
-          "preferred_label": "Hagar",
-          "confidence": 0.696,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500530",
-    "reference_id": 203473,
-    "version": "1.0.2",
-    "title": "Hellenistic Kingdoms",
-    "media_type": "Text",
-    "index_reference": "hellenistic kingdoms",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>For 300 years after Alexander&apos;s death in 323 BC, Greek kings ruled the lands he had conquered. During this time, Greek ways of life, beliefs, and customs spread throughout these lands. This spread of Greek culture is called Hellenization. It allowed both Jewish and Greek learning to thrive. </p><p>However, it also created problems for the Jewish people because Greek customs often went against Jewish beliefs. These problems became very serious in the 160s BC. Greek rulers tried to force the Jewish people to abandon their faith. Greek culture later mixed with Roman rule to prepare the way for the Messiah (God&apos;s chosen one), just as the prophet Daniel had said would happen. This era&apos;s history is accurately described in several of Daniel’s prophecies (see <a href=\"https://ref.ly/Dan7:6\">Daniel 7:6</a>; <a href=\"https://ref.ly/Dan8:8-Dan8:14\">8:8–14</a>, <a href=\"https://ref.ly/Dan8:21-Dan8:26\">21–26</a>; <a href=\"https://ref.ly/Dan11:4-Dan11:45\">11:4–45</a>).</p><h3>Successors (<em>Diadochoi</em>), 323 to 301 BC</h3><p>After Alexander died suddenly in 323 BC, his top generals fought for power and control. These generals were called <em>diadochoi</em>, meaning &quot;successors.&quot;</p><ol><li><p><em>Ptolemy I</em> was one of Alexander the Great&apos;s strongest and most capable Macedonian generals. He became the governor of Egypt in 323 BC, the year Alexander died, and he ruled Egypt successfully until his death in 285 BC.</p></li><li><p><em>Antigonus</em> was a high-ranking general in Alexander&apos;s army and acted as the active regent for much of Alexander&apos;s empire. In 315 BC, Antigonus invaded Syria and Palestine. However, his attempt to reunite the empire did not succeed, and he died in battle in 301 BC.</p></li><li><p><em>Seleucus I,</em> one of Alexander&apos;s high-ranking generals, became the governor of Babylon in 321 BC. When he learned about Antigonus&apos;s plans to reunite the empire, he sought protection from Ptolemy in Egypt in 316 BC. After regaining control of Babylon in 315 BC and Syria in 312 BC, he ruled until his death in 281 BC.</p></li><li><p><em>Lysimachus</em> became the governor of Thrace and Bithynia (in Asia Minor, modern-day Turkey) after Alexander died.</p></li><li><p><em>Cassander</em> served as the governor of Macedonia until 294 BC. Demetrius I, the son of Antigonus, then took control of Macedonia and Achaia. He founded the Antigonid dynasty, which ruled until the Romans took over Greece after the Battle of Pydna in 168 BC.</p></li></ol><p>Alexander&apos;s empire was divided into four kingdoms ruled by Macedonian Greeks: </p><ol><li><p>Egypt</p></li><li><p>Babylon and Syria</p></li><li><p>Macedonia and Achaia</p></li><li><p>Parts of Asia Minor</p></li></ol><p>During the 200s BC, the Ptolemies and the Seleucids fought many wars over Palestine. <a href=\"https://ref.ly/Dan11:1-Dan11:45\">Daniel 11</a> accurately describes this conflict.</p><h3>Ptolemies, 323 to 30 BC</h3><p>Ptolemy I and his descendants (known as the &quot;king of the south&quot; in <a href=\"https://ref.ly/Dan11:1-Dan11:45\">Daniel 11</a>) ruled Egypt for nearly three hundred years. After Ptolemy I took control of Judea in 319 BC, he moved some Jewish people to Alexandria. This city became a large and important Jewish community and a center for both Jewish and Greek learning. The Septuagint, the Greek translation of the Old Testament, was created in Alexandria during this time. Although the Ptolemies were worshiped as gods and spread Greek culture in Egypt, they were generally tolerant of the Jews and their belief in one God. The Ptolemaic dynasty ended with Cleopatra VII&apos;s death when Rome took control of Egypt in 30 BC.</p><h3>Seleucid Empire, 321 to 64 BC</h3><p>Seleucus I and his descendants (known as the &quot;king of the north&quot; in <a href=\"https://ref.ly/Dan11:1-Dan11:45\">Daniel 11</a>) ruled Syria and, for a time, Babylon until the Roman general Pompey took control of Syria in 64 BC. The Seleucids, like the Ptolemies, spread Greek culture and the worship of rulers in their territories. However, they were less tolerant of the Jews&apos; refusal to participate than the Ptolemies. </p><p>After the Seleucid king Antiochus III took control of Judea around 200 BC, he gave important jobs and authority to Jews who adopted Greek ways of living. His son, Antiochus IV, harshly persecuted the Jews. He executed those who observed the Sabbath, kept copies of the Torah, or refused to worship at the altar of Zeus (the main Greek god) that he set up in the temple in Jerusalem. This event is noted in Daniel as the &quot;<span>abomination of desolation</span>&quot; (<a href=\"https://ref.ly/Dan11:31\">Daniel 11:31</a>). This persecution led to the revolt of the Jewish priest Mattathias and his sons. The Jewish state gained some freedom to rule themselves for nearly one hundred years under their descendants, the Hasmoneans.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Dan11:4-Dan11:39\">Daniel 11:4–39</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "27007006",
-          "start_ref_usfm": "DAN 7:6",
-          "end_ref": "27007006",
-          "end_ref_usfm": "DAN 7:6"
-        },
-        {
-          "start_ref": "27011031",
-          "start_ref_usfm": "DAN 11:31",
-          "end_ref": "27011031",
-          "end_ref_usfm": "DAN 11:31"
-        },
-        {
-          "start_ref": "27008008",
-          "start_ref_usfm": "DAN 8:8",
-          "end_ref": "27008014",
-          "end_ref_usfm": "DAN 8:14"
-        },
-        {
-          "start_ref": "27008021",
-          "start_ref_usfm": "DAN 8:21",
-          "end_ref": "27008026",
-          "end_ref_usfm": "DAN 8:26"
-        },
-        {
-          "start_ref": "27011004",
-          "start_ref_usfm": "DAN 11:4",
-          "end_ref": "27011045",
-          "end_ref_usfm": "DAN 11:45"
-        },
-        {
-          "start_ref": "27011001",
-          "start_ref_usfm": "DAN 11:1",
-          "end_ref": "27011045",
-          "end_ref_usfm": "DAN 11:45"
-        },
-        {
-          "start_ref": "27011004",
-          "start_ref_usfm": "DAN 11:4",
-          "end_ref": "27011039",
-          "end_ref_usfm": "DAN 11:39"
-        }
-      ],
-      "resource": [],
-      "acai": []
-    }
-  },
-  {
-    "content_id": "500558",
-    "reference_id": 203501,
-    "version": "1.0.2",
-    "title": "Herod Agrippa I",
-    "media_type": "Text",
-    "index_reference": "herod agrippa i",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Herod Agrippa I was the grandson of Herod the Great, the nephew of Herod Antipas, and the brother of Herodias. Agrippa I ruled all of Palestine for a short time after Jesus&apos;s death, during the early days of the Christian movement, from AD 41 to 44.</p><p>While attending school in Rome, Agrippa lived recklessly and accumulated many debts. He once expressed a wish for his friend Gaius Caligula to be emperor instead of Tiberius. Someone reported this to Tiberius, who then imprisoned Agrippa. He stayed in prison until Tiberius died six months later.</p><p>When Caligula became emperor, he rewarded Agrippa by freeing him and giving him Philip the Tetrarch&apos;s lands and the northern part of Lysanias&apos;s territory, along with the title of king. This title made Herodias jealous, and her husband, Herod Antipas, was both critical and envious of Agrippa. Agrippa accused Antipas of conspiracy, leading to Antipas&apos;s banishment. Agrippa then took over all of Antipas&apos;s lands and property in AD 39.</p><p>When his friend Caligula died in AD 41, Agrippa gained favor with the new emperor, Claudius. Claudius then added Judea and Samaria to Agrippa&apos;s domain. This territory was once ruled by his grandfather, Herod the Great.</p><p>Agrippa actively persecuted early Christians. He is known for killing the apostle James and arresting Peter, actions that pleased the Jews (<a href=\"https://ref.ly/Acts12:1-Acts12:4\">Acts 12:1–4</a>). The Jews liked him more than any other Herod. Agrippa died suddenly in AD 44, soon after his subjects praised him as a god (<a href=\"https://ref.ly/Acts12:20-Acts12:23\">Acts 12:20–23</a>; see also Josephus, <em>Antiquities</em> 19.8.2; 19.9.1; <em>War</em> 2.11.5).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts12:1-Acts12:4\">Acts 12:1–4</a>, <a href=\"https://ref.ly/Acts12:18-Acts12:23\">18–23</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44012020",
-          "start_ref_usfm": "ACT 12:20",
-          "end_ref": "44012023",
-          "end_ref_usfm": "ACT 12:23"
-        },
-        {
-          "start_ref": "44012001",
-          "start_ref_usfm": "ACT 12:1",
-          "end_ref": "44012004",
-          "end_ref_usfm": "ACT 12:4"
-        },
-        {
-          "start_ref": "44012018",
-          "start_ref_usfm": "ACT 12:18",
-          "end_ref": "44012023",
-          "end_ref_usfm": "ACT 12:23"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Herod.3",
-          "type": "person",
-          "preferred_label": "Herod",
-          "confidence": 0.72,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500564",
-    "reference_id": 203507,
-    "version": "1.0.2",
-    "title": "Herod Agrippa II",
-    "media_type": "Text",
-    "index_reference": "herod agrippa ii",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Herod Agrippa II was the son of Herod Agrippa I. He became king after his father and ruled in Palestine from AD 50 to 100. He eventually controlled about the same area as his great-grandfather, Herod the Great. Agrippa II managed the temple treasury and could appoint the high priest. He was unpopular among Jews because of his inappropriate sexual relationship with his sister Bernice. The Romans asked for his advice on religious matters. This is likely why Festus invited him to hear the apostle Paul&apos;s defense at Caesarea in AD 59 (<a href=\"https://ref.ly/Acts25:13-Acts26:32\">Acts 25:13–26:32</a>).</p><p>In May AD 66, the Jewish war against the Romans began (Josephus, <em>War</em> 2.14.4). When Agrippa&apos;s attempt to stop the revolt failed, he became a strong ally of the Romans throughout the war from AD 66 to 70. During this time, Nero killed himself, the new emperor Galba was murdered, and Vespasian became the emperor. After pledging loyalty to Vespasian, Agrippa joined Titus, Vespasian&apos;s son, who led the war effort (Tacitus, <em>History</em> 5.81). After Jerusalem fell on August 6, AD 70, Agrippa likely attended the celebration of his people&apos;s defeat.</p><p>In AD 79, Vespasian died, and Titus became emperor. Little is known about Agrippa&apos;s rule after this. However, he wrote to the historian Josephus, praising him for <em>The Jewish War</em>, and he bought a copy of it (Josephus, <em>Life</em> 65; <em>Against Apion</em> 1.9.47–52).</p><p>The Talmud suggests Agrippa II had two wives (Babylonian Talmud, <em>Sukkah</em> 27a). However, Josephus does not mention any wives or children. Agrippa II died around AD 100, ending the Herod family of kings.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts25:13-Acts26:32\">Acts 25:13–26:32</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44025013",
-          "start_ref_usfm": "ACT 25:13",
-          "end_ref": "44026032",
-          "end_ref_usfm": "ACT 26:32"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Agrippa",
-          "type": "person",
-          "preferred_label": "Agrippa",
-          "confidence": 0.6936,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500541",
-    "reference_id": 203484,
-    "version": "1.0.2",
-    "title": "Herod Antipas",
-    "media_type": "Text",
-    "index_reference": "herod antipas",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Herod Antipas was the sixth son of Herod the Great. He ruled Galilee and Perea from 4 BC to AD 39. This was during Jesus&apos;s lifetime. He ruled areas where Jesus and John the Baptist focused their work.</p><p>Herod Antipas, like his father, founded cities. Sepphoris, his first project, became the largest city in Galilee. It served as Antipas’s capital until he built Tiberias, named after Emperor Tiberius, who ruled from AD 14 to 37. Tiberias was on the western shore of the Sea of Galilee. Antipas completed it in AD 23 and made it his capital.</p><p>Herod Antipas upset many Jews by divorcing his wife and marrying Herodias, who was his half-brother, Herod Philip&apos;s wife. This marriage broke the law of Moses because Herod&apos;s brother Philip was still alive (<a href=\"https://ref.ly/Lev18:16\">Leviticus 18:16</a>; <a href=\"https://ref.ly/Lev20:21\">20:21</a>). When John the Baptist strongly criticized this unlawful marriage, Antipas imprisoned him (<a href=\"https://ref.ly/Mark6:17-Mark6:18\">Mark 6:17–18</a>). Herod feared that John&apos;s criticism would cause an uprising against him (Antiquities 18.5.2). Later, at a banquet, Herodias&apos;s daughter impressed Herod with her dancing. This led him to make a reckless promise to give her anything she wanted. Herodias used this chance to have John beheaded (<a href=\"https://ref.ly/Matt14:1-Matt14:12\">Matthew 14:1–12</a>).</p><p>When Jesus was finally arrested, Pilate could find no fault in Jesus, so he sent him to Herod Antipas, who was in Jerusalem for Passover. Pilate may also have been attempting to improve his relationship with Antipas. Their relationship had been troubled since the massacre in Galilee (<a href=\"https://ref.ly/Luke13:1\">Luke 13:1</a>). Pilate had also brought shields with the image of Tiberius to Jerusalem. These were blasphemous to the Jews (Philo, On the Embassy to Gaius 299–304). These actions greatly disrespected God and his laws, which deeply offended the Jewish people. When Jesus was brought before Antipas, Herod only mocked him and sent him back to Pilate (<a href=\"https://ref.ly/Luke23:6-Luke23:11\">Luke 23:6–11</a>). The main political effect of this event was that Herod and Pilate&apos;s relationship improved (<a href=\"https://ref.ly/Luke23:12\">Luke 23:12</a>).</p><p>Herod Antipas was later defeated in war by King Aretas, whose daughter he had divorced. Jews saw this defeat as divine judgment. Later, in AD 39, Emperor Gaius removed Antipas from power. He exiled Antipas after Herod Agrippa I accused him of plotting against Rome.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt14:1-Matt14:12\">Matthew 14:1–12</a>; <a href=\"https://ref.ly/Mark1:14\">Mark 1:14</a>; <a href=\"https://ref.ly/Mark6:14-Mark6:29\">6:14–29</a>; <a href=\"https://ref.ly/Luke3:1\">Luke 3:1</a>, <a href=\"https://ref.ly/Luke3:19-Luke3:20\">19–20</a>; <a href=\"https://ref.ly/Luke9:7-Luke9:9\">9:7–9</a>; <a href=\"https://ref.ly/Luke13:31-Luke13:33\">13:31–33</a>; <a href=\"https://ref.ly/Luke23:7-Luke23:12\">23:7–12</a>, <a href=\"https://ref.ly/Luke23:15\">15</a>; <a href=\"https://ref.ly/Acts4:27\">Acts 4:27</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "03018016",
-          "start_ref_usfm": "LEV 18:16",
-          "end_ref": "03018016",
-          "end_ref_usfm": "LEV 18:16"
-        },
-        {
-          "start_ref": "03020021",
-          "start_ref_usfm": "LEV 20:21",
-          "end_ref": "03020021",
-          "end_ref_usfm": "LEV 20:21"
-        },
-        {
-          "start_ref": "41001014",
-          "start_ref_usfm": "MRK 1:14",
-          "end_ref": "41001014",
-          "end_ref_usfm": "MRK 1:14"
-        },
-        {
-          "start_ref": "41008015",
-          "start_ref_usfm": "MRK 8:15",
-          "end_ref": "41008015",
-          "end_ref_usfm": "MRK 8:15"
-        },
-        {
-          "start_ref": "42003001",
-          "start_ref_usfm": "LUK 3:1",
-          "end_ref": "42003001",
-          "end_ref_usfm": "LUK 3:1"
-        },
-        {
-          "start_ref": "42013001",
-          "start_ref_usfm": "LUK 13:1",
-          "end_ref": "42013001",
-          "end_ref_usfm": "LUK 13:1"
-        },
-        {
-          "start_ref": "42023012",
-          "start_ref_usfm": "LUK 23:12",
-          "end_ref": "42023012",
-          "end_ref_usfm": "LUK 23:12"
-        },
-        {
-          "start_ref": "42023015",
-          "start_ref_usfm": "LUK 23:15",
-          "end_ref": "42023015",
-          "end_ref_usfm": "LUK 23:15"
-        },
-        {
-          "start_ref": "44004027",
-          "start_ref_usfm": "ACT 4:27",
-          "end_ref": "44004027",
-          "end_ref_usfm": "ACT 4:27"
-        },
-        {
-          "start_ref": "40014001",
-          "start_ref_usfm": "MAT 14:1",
-          "end_ref": "40014012",
-          "end_ref_usfm": "MAT 14:12"
-        },
-        {
-          "start_ref": "41006014",
-          "start_ref_usfm": "MRK 6:14",
-          "end_ref": "41006029",
-          "end_ref_usfm": "MRK 6:29"
-        },
-        {
-          "start_ref": "42003019",
-          "start_ref_usfm": "LUK 3:19",
-          "end_ref": "42003020",
-          "end_ref_usfm": "LUK 3:20"
-        },
-        {
-          "start_ref": "40014001",
-          "start_ref_usfm": "MAT 14:1",
-          "end_ref": "40014002",
-          "end_ref_usfm": "MAT 14:2"
-        },
-        {
-          "start_ref": "41006014",
-          "start_ref_usfm": "MRK 6:14",
-          "end_ref": "41006016",
-          "end_ref_usfm": "MRK 6:16"
-        },
-        {
-          "start_ref": "42009007",
-          "start_ref_usfm": "LUK 9:7",
-          "end_ref": "42009009",
-          "end_ref_usfm": "LUK 9:9"
-        },
-        {
-          "start_ref": "42013031",
-          "start_ref_usfm": "LUK 13:31",
-          "end_ref": "42013033",
-          "end_ref_usfm": "LUK 13:33"
-        },
-        {
-          "start_ref": "42023007",
-          "start_ref_usfm": "LUK 23:7",
-          "end_ref": "42023012",
-          "end_ref_usfm": "LUK 23:12"
-        },
-        {
-          "start_ref": "41006017",
-          "start_ref_usfm": "MRK 6:17",
-          "end_ref": "41006018",
-          "end_ref_usfm": "MRK 6:18"
-        },
-        {
-          "start_ref": "42023006",
-          "start_ref_usfm": "LUK 23:6",
-          "end_ref": "42023011",
-          "end_ref_usfm": "LUK 23:11"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Herod.2",
-          "type": "person",
-          "preferred_label": "Herod Antipas",
-          "confidence": 0.7725,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500534",
-    "reference_id": 203477,
-    "version": "1.0.2",
-    "title": "Herod the Great",
-    "media_type": "Text",
-    "index_reference": "herod the great",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Herod the Great was the Roman-appointed king of Judea from 37 to 4 BC. Herod the Great was king when Jesus was born (<a href=\"https://ref.ly/Matt2:1\">Matthew 2:1</a>; <a href=\"https://ref.ly/Luke1:5\">Luke 1:5</a>). He was a strong military leader, a skilled politician, and a harsh ruler. He was born into an Idumean (Edomite) family with Roman connections. He gained power by making the Romans like him, and he kept this power by being cruel to anyone who opposed him.</p><p>Herod was famous for his large building projects. His greatest achievement was rebuilding and beautifying the Jerusalem Temple, which began around 20 BC (Josephus, <em>Antiquities</em> 15.8.1). This made it one of the most impressive buildings in the ancient world. He also built Caesarea and made it the Roman headquarters in Palestine. Herod earned the title &quot;the Great&quot; due to his reputation as an excellent builder.</p><p>Herod was known for his family problems and harsh treatment of opponents or perceived threats. He killed two of his wives and three of his sons when he suspected them of plotting against him. Caesar Augustus once said he would rather be Herod’s <em>swine</em> (pig) than his <em>son</em> (a play on words in Greek since the two words sound alike—<em>hus</em>, <em>huios</em>). When Jesus was born near the end of Herod’s reign and Herod heard him called a future “king,” he tried to have him killed. Unable to find the boy, Herod ordered the killing of all boys under two years old in the Bethlehem area (see <a href=\"https://ref.ly/Matt2:1-Matt2:20\">Matthew 2:1–20</a>). This act was typical of his cruelty and paranoia.</p><p>Herod was called &quot;king of the Jews,&quot; but the Jewish people did not accept him as their true king. He was not from King David&apos;s family line and was an Edomite, a descendant of Esau, not a Jew.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt2:1-Matt2:20\">Matthew 2:1–20</a>; <a href=\"https://ref.ly/Luke1:5\">Luke 1:5</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "40002001",
-          "start_ref_usfm": "MAT 2:1",
-          "end_ref": "40002001",
-          "end_ref_usfm": "MAT 2:1"
-        },
-        {
-          "start_ref": "42001005",
-          "start_ref_usfm": "LUK 1:5",
-          "end_ref": "42001005",
-          "end_ref_usfm": "LUK 1:5"
-        },
-        {
-          "start_ref": "40002001",
-          "start_ref_usfm": "MAT 2:1",
-          "end_ref": "40002020",
-          "end_ref_usfm": "MAT 2:20"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Herod",
-          "type": "person",
-          "preferred_label": "Herod",
-          "confidence": 0.7714,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500507",
-    "reference_id": 203450,
-    "version": "1.0.2",
-    "title": "Hezekiah",
-    "media_type": "Text",
-    "index_reference": "hezekiah",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Hezekiah was one of Judah’s best kings. He ruled from 728 to 686 BC. His father, Ahaz, stopped worshiping God. But Hezekiah encouraged true worship of God. He fixed the temple doors, had the Levites prepare themselves for holy service, and restarted religious ceremonies. He offered sacrifices, restored the priestly temple service, and invited people from Judah and Israel to celebrate Passover in Jerusalem (<a href=\"https://ref.ly/2Chr29:1-2Chr30:27\">2 Chronicles 29–30</a>). After the celebration, he destroyed pagan worship sites.</p><p>After Hezekiah began his rule, the Assyrians, led by Shalmaneser V and later Sargon II, defeated the northern kingdom. They deported its people and brought in foreigners in 722 BC. When Sargon II died in 705 BC, his son Sennacherib took power, causing widespread rebellion. Hezekiah stopped paying the tribute his father Ahaz had paid (<a href=\"https://ref.ly/2Kgs18:7\">2 Kings 18:7</a>; see <a href=\"https://ref.ly/2Kgs16:7\">16:7</a>). As a result, in 701 BC, Sennacherib invaded Judah. Hezekiah tried to appease the Assyrian ruler with a large tribute, but this failed. The Assyrian forces threatened Jerusalem and mocked Hezekiah&apos;s trust in the Lord (<a href=\"https://ref.ly/2Kgs18:17-2Kgs18:35\">2 Kings 18:17–35</a>). Hezekiah responded with mourning and prayer. The Lord, through the prophet Isaiah, assured Hezekiah that his prayers were heard and that Sennacherib would not conquer Jerusalem (<a href=\"https://ref.ly/2Kgs19:1-2Kgs19:34\">2 Kings 19:1–34</a>).</p><p>Around that time, Hezekiah became very ill (<a href=\"https://ref.ly/2Kgs20:1-2Kgs20:11\">2 Kings 20:1–11</a>). Isaiah told him to prepare for death, but Hezekiah prayed to the Lord for healing. The Lord promised him fifteen more years of life and deliverance from the Assyrians. After he recovered, Hezekiah unwisely hosted the Babylonian king Merodach-baladan in his palace. He showed him the temple treasures and sought support from Babylon instead of the Lord. Isaiah predicted that those treasures would be taken to Babylon (<a href=\"https://ref.ly/2Kgs20:12-2Kgs20:19\">2 Kings 20:12–19</a>).</p><p>After the Assyrian threat in 701 BC, Hezekiah enjoyed peaceful and successful years. He died in 686 BC, and his son Manasseh succeeded him.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/2Kgs18:1-2Kgs20:21\">2 Kings 18:1–20:21</a>; <a href=\"https://ref.ly/2Chr28:27-2Chr32:33\">2 Chronicles 28:27–32:33</a>; <a href=\"https://ref.ly/Isa36:1-Isa39:8\">Isaiah 36:1–39:8</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "12016007",
-          "start_ref_usfm": "2KI 16:7",
-          "end_ref": "12016007",
-          "end_ref_usfm": "2KI 16:7"
-        },
-        {
-          "start_ref": "12018007",
-          "start_ref_usfm": "2KI 18:7",
-          "end_ref": "12018007",
-          "end_ref_usfm": "2KI 18:7"
-        },
-        {
-          "start_ref": "12020012",
-          "start_ref_usfm": "2KI 20:12",
-          "end_ref": "12020019",
-          "end_ref_usfm": "2KI 20:19"
-        },
-        {
-          "start_ref": "12020001",
-          "start_ref_usfm": "2KI 20:1",
-          "end_ref": "12020011",
-          "end_ref_usfm": "2KI 20:11"
-        },
-        {
-          "start_ref": "12018001",
-          "start_ref_usfm": "2KI 18:1",
-          "end_ref": "12020021",
-          "end_ref_usfm": "2KI 20:21"
-        },
-        {
-          "start_ref": "23036001",
-          "start_ref_usfm": "ISA 36:1",
-          "end_ref": "23039008",
-          "end_ref_usfm": "ISA 39:8"
-        },
-        {
-          "start_ref": "14029001",
-          "start_ref_usfm": "2CH 29:1",
-          "end_ref": "14030027",
-          "end_ref_usfm": "2CH 30:27"
-        },
-        {
-          "start_ref": "12018017",
-          "start_ref_usfm": "2KI 18:17",
-          "end_ref": "12018035",
-          "end_ref_usfm": "2KI 18:35"
-        },
-        {
-          "start_ref": "12019001",
-          "start_ref_usfm": "2KI 19:1",
-          "end_ref": "12019034",
-          "end_ref_usfm": "2KI 19:34"
-        },
-        {
-          "start_ref": "14028027",
-          "start_ref_usfm": "2CH 28:27",
-          "end_ref": "14032033",
-          "end_ref_usfm": "2CH 32:33"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Hezekiah",
-          "type": "person",
-          "preferred_label": "Hezekiah",
-          "confidence": 0.7342,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500458",
-    "reference_id": 203401,
-    "version": "1.0.2",
-    "title": "Hittites",
-    "media_type": "Text",
-    "index_reference": "hittites",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>For many years, only the Bible mentioned the Hittite people. Some scholars questioned whether the Bible&apos;s historical accounts about the Hittites were accurate. They thought the Hittites were not a real people. However, archaeologists and historians have uncovered information about them. </p><p>The Hittites had an empire centered in Asia Minor, with their capital at Hattusha (modern Baghazkoy). The empire grew much larger because many cities signed agreements to follow its rule. These cities were not officially part of the empire&apos;s territory, but they had to do what the empire said. The Hittite armies were strong enough to challenge the Egyptian armies under the proud Rameses II, who ruled from 1279 to 1213 BC. The Hittites fought Rameses II at Kadesh on the Orontes around 1274 BC. Neither side won the battle. During the time of Abraham and the other early fathers of Israel, the Hittite people controlled cities in Canaan, such as Hebron.</p><p>Heth, the ancestor of the Hittites, is the second son of Canaan in the &quot;table of nations&quot; (<a href=\"https://ref.ly/Gen10:15\">Genesis 10:15</a>; see also <a href=\"https://ref.ly/1Chr1:13\">1 Chronicles 1:13</a> and the footnote there). Most mentions of Heth&apos;s sons are in the story of Abraham buying the cave of Machpelah (<a href=\"https://ref.ly/Gen23:1-Gen23:20\">Genesis 23</a>). Later, God told the Israelites to destroy all Hittites in the promised land (<a href=\"https://ref.ly/Deut7:1-Deut7:2\">Deuteronomy 7:1–2</a>). But the Israelites did not fully obey God (<a href=\"https://ref.ly/1Kgs9:20-1Kgs9:21\">1 Kings 9:20–21</a>). Some of David&apos;s best warriors were Hittites (<a href=\"https://ref.ly/1Sam26:6\">1 Samuel 26:6</a>; <a href=\"https://ref.ly/2Sam11:1-2Sam12:31\">2 Samuel 11–12</a>). Solomon traded with Hittite kings (<a href=\"https://ref.ly/1Kgs10:29-1Kgs11:1\">1 Kings 10:29–11:1</a>). The Bible shows that the Hittites were important people.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen23:3-Gen23:20\">Genesis 23:3–20</a>; <a href=\"https://ref.ly/Gen26:34-Gen26:35\">26:34–35</a>; <a href=\"https://ref.ly/Gen27:46-Gen28:2\">27:46–28:2</a>; <a href=\"https://ref.ly/Deut7:1\">Deuteronomy 7:1</a>; <a href=\"https://ref.ly/1Sam26:6\">1 Samuel 26:6</a>; <a href=\"https://ref.ly/2Sam11:2-2Sam11:27\">2 Samuel 11:2–27</a>; <a href=\"https://ref.ly/1Kgs9:20\">1 Kings 9:20</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01010015",
-          "start_ref_usfm": "GEN 10:15",
-          "end_ref": "01010015",
-          "end_ref_usfm": "GEN 10:15"
-        },
-        {
-          "start_ref": "05007001",
-          "start_ref_usfm": "DEU 7:1",
-          "end_ref": "05007001",
-          "end_ref_usfm": "DEU 7:1"
-        },
-        {
-          "start_ref": "09026006",
-          "start_ref_usfm": "1SA 26:6",
-          "end_ref": "09026006",
-          "end_ref_usfm": "1SA 26:6"
-        },
-        {
-          "start_ref": "11009020",
-          "start_ref_usfm": "1KI 9:20",
-          "end_ref": "11009020",
-          "end_ref_usfm": "1KI 9:20"
-        },
-        {
-          "start_ref": "13001013",
-          "start_ref_usfm": "1CH 1:13",
-          "end_ref": "13001013",
-          "end_ref_usfm": "1CH 1:13"
-        },
-        {
-          "start_ref": "01023001",
-          "start_ref_usfm": "GEN 23:1",
-          "end_ref": "01023020",
-          "end_ref_usfm": "GEN 23:20"
-        },
-        {
-          "start_ref": "05007001",
-          "start_ref_usfm": "DEU 7:1",
-          "end_ref": "05007002",
-          "end_ref_usfm": "DEU 7:2"
-        },
-        {
-          "start_ref": "01026034",
-          "start_ref_usfm": "GEN 26:34",
-          "end_ref": "01026035",
-          "end_ref_usfm": "GEN 26:35"
-        },
-        {
-          "start_ref": "10011001",
-          "start_ref_usfm": "2SA 11:1",
-          "end_ref": "10012031",
-          "end_ref_usfm": "2SA 12:31"
-        },
-        {
-          "start_ref": "11009020",
-          "start_ref_usfm": "1KI 9:20",
-          "end_ref": "11009021",
-          "end_ref_usfm": "1KI 9:21"
-        },
-        {
-          "start_ref": "01027046",
-          "start_ref_usfm": "GEN 27:46",
-          "end_ref": "01028002",
-          "end_ref_usfm": "GEN 28:2"
-        },
-        {
-          "start_ref": "10011002",
-          "start_ref_usfm": "2SA 11:2",
-          "end_ref": "10011027",
-          "end_ref_usfm": "2SA 11:27"
-        },
-        {
-          "start_ref": "11010029",
-          "start_ref_usfm": "1KI 10:29",
-          "end_ref": "11011001",
-          "end_ref_usfm": "1KI 11:1"
-        },
-        {
-          "start_ref": "01023003",
-          "start_ref_usfm": "GEN 23:3",
-          "end_ref": "01023020",
-          "end_ref_usfm": "GEN 23:20"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Heth",
-          "type": "person",
-          "preferred_label": "Heth",
-          "confidence": 0.6685,
-          "match_method": "scored"
-        },
-        {
-          "id": "group:Hittite",
-          "type": "group",
-          "preferred_label": "Hittites",
-          "confidence": 0.6609,
-          "match_method": "scored"
-        },
-        {
-          "id": "group:Hivites",
-          "type": "group",
-          "preferred_label": "Hivites",
-          "confidence": 0.5187,
-          "match_method": "scored"
-        }
-      ]
-    }
-  }
+{
+"content_id": "500453",
+"reference_id": 203396,
+"version": "1.0.2",
+"title": "Hagar",
+"media_type": "Text",
+"index_reference": "hagar",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Hagar was the Egyptian servant of Sarai, Abram’s wife. When God told Abram to leave Mesopotamia, He promised Abram many descendants and a new land (<a href=\"https://ref.ly/Gen12:2\">Genesis 12:2</a>, <a href=\"https://ref.ly/Gen12:7\">7</a>). After ten years in Canaan without children, Sarai followed a Mesopotamian custom. She gave Hagar to Abram as a concubine (secondary wife). Any son from this union was considered the wife&apos;s child (see <a href=\"https://ref.ly/Gen30:1-Gen30:8\">Genesis 30:1–8</a>).</p><p>Hagar became pregnant and started disrespecting Sarai. Sarai reacted by treating her harshly, so Hagar ran away into the desert (<a href=\"https://ref.ly/Gen16:4-Gen16:6\">Genesis 16:4–6</a>). An angel of the Lord appeared to her at a desert well and told her to return to Abram&apos;s house and obey Sarai.</p><p>Hagar gave birth to a son named Ishmael when Abram was eighty-six years old (<a href=\"https://ref.ly/Gen16:1-Gen16:16\">Genesis 16:1–16</a>).</p><p>Fourteen years later, God gave Abraham and Sarah their promised son, Isaac. When Isaac was weaned, around age three, they held a traditional feast. During the event, Ishmael mocked Isaac (<a href=\"https://ref.ly/Gen21:9\">Genesis 21:9</a>), so Sarah insisted that Abraham send Hagar and Ishmael away. God supported this decision (<a href=\"https://ref.ly/Gen21:12\">Genesis 21:12</a>), so Hagar and Ishmael left to wander in the wilderness of Beersheba. When their water ran out, God miraculously saved them and promised Hagar that Ishmael would become the father of a great nation (<a href=\"https://ref.ly/Gen21:17-Gen21:19\">Genesis 21:17–19</a>).</p><p>Paul used an analogy in <a href=\"https://ref.ly/Gal4:22-Gal4:31\">Galatians 4:22–31</a> where Hagar symbolizes Mount Sinai, the place of the old covenant (God&apos;s special agreement with the Israelites). Sarah symbolizes the heavenly Jerusalem, the community of those who gain salvation through faith in Christ. Just as Isaac was Abraham’s son through faith in God&apos;s promise, Christians who are free from the law are spiritual children of Sarah.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen16:1-Gen16:16\">Genesis 16:1–16</a>; <a href=\"https://ref.ly/Gen21:9-Gen21:21\">21:9–21</a>; <a href=\"https://ref.ly/Gen25:12\">25:12</a>; <a href=\"https://ref.ly/Gal4:22-Gal4:31\">Galatians 4:22–31</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01012002",
+"start_ref_usfm": "GEN 12:2",
+"end_ref": "01012002",
+"end_ref_usfm": "GEN 12:2"
+},
+{
+"start_ref": "01012007",
+"start_ref_usfm": "GEN 12:7",
+"end_ref": "01012007",
+"end_ref_usfm": "GEN 12:7"
+},
+{
+"start_ref": "01021009",
+"start_ref_usfm": "GEN 21:9",
+"end_ref": "01021009",
+"end_ref_usfm": "GEN 21:9"
+},
+{
+"start_ref": "01021012",
+"start_ref_usfm": "GEN 21:12",
+"end_ref": "01021012",
+"end_ref_usfm": "GEN 21:12"
+},
+{
+"start_ref": "01025012",
+"start_ref_usfm": "GEN 25:12",
+"end_ref": "01025012",
+"end_ref_usfm": "GEN 25:12"
+},
+{
+"start_ref": "01016001",
+"start_ref_usfm": "GEN 16:1",
+"end_ref": "01016016",
+"end_ref_usfm": "GEN 16:16"
+},
+{
+"start_ref": "01021009",
+"start_ref_usfm": "GEN 21:9",
+"end_ref": "01021021",
+"end_ref_usfm": "GEN 21:21"
+},
+{
+"start_ref": "01021017",
+"start_ref_usfm": "GEN 21:17",
+"end_ref": "01021019",
+"end_ref_usfm": "GEN 21:19"
+},
+{
+"start_ref": "48004022",
+"start_ref_usfm": "GAL 4:22",
+"end_ref": "48004031",
+"end_ref_usfm": "GAL 4:31"
+},
+{
+"start_ref": "01030001",
+"start_ref_usfm": "GEN 30:1",
+"end_ref": "01030008",
+"end_ref_usfm": "GEN 30:8"
+},
+{
+"start_ref": "01016004",
+"start_ref_usfm": "GEN 16:4",
+"end_ref": "01016006",
+"end_ref_usfm": "GEN 16:6"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Hagar",
+"type": "person",
+"preferred_label": "Hagar",
+"confidence": 0.696,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500530",
+"reference_id": 203473,
+"version": "1.0.2",
+"title": "Hellenistic Kingdoms",
+"media_type": "Text",
+"index_reference": "hellenistic kingdoms",
+"language": "eng",
+"review_level": "None",
+"content": "<p>For 300 years after Alexander&apos;s death in 323 BC, Greek kings ruled the lands he had conquered. During this time, Greek ways of life, beliefs, and customs spread throughout these lands. This spread of Greek culture is called Hellenization. It allowed both Jewish and Greek learning to thrive. </p><p>However, it also created problems for the Jewish people because Greek customs often went against Jewish beliefs. These problems became very serious in the 160s BC. Greek rulers tried to force the Jewish people to abandon their faith. Greek culture later mixed with Roman rule to prepare the way for the Messiah (God&apos;s chosen one), just as the prophet Daniel had said would happen. This era&apos;s history is accurately described in several of Daniel’s prophecies (see <a href=\"https://ref.ly/Dan7:6\">Daniel 7:6</a>; <a href=\"https://ref.ly/Dan8:8-Dan8:14\">8:8–14</a>, <a href=\"https://ref.ly/Dan8:21-Dan8:26\">21–26</a>; <a href=\"https://ref.ly/Dan11:4-Dan11:45\">11:4–45</a>).</p><h3>Successors (<em>Diadochoi</em>), 323 to 301 BC</h3><p>After Alexander died suddenly in 323 BC, his top generals fought for power and control. These generals were called <em>diadochoi</em>, meaning &quot;successors.&quot;</p><ol><li><p><em>Ptolemy I</em> was one of Alexander the Great&apos;s strongest and most capable Macedonian generals. He became the governor of Egypt in 323 BC, the year Alexander died, and he ruled Egypt successfully until his death in 285 BC.</p></li><li><p><em>Antigonus</em> was a high-ranking general in Alexander&apos;s army and acted as the active regent for much of Alexander&apos;s empire. In 315 BC, Antigonus invaded Syria and Palestine. However, his attempt to reunite the empire did not succeed, and he died in battle in 301 BC.</p></li><li><p><em>Seleucus I,</em> one of Alexander&apos;s high-ranking generals, became the governor of Babylon in 321 BC. When he learned about Antigonus&apos;s plans to reunite the empire, he sought protection from Ptolemy in Egypt in 316 BC. After regaining control of Babylon in 315 BC and Syria in 312 BC, he ruled until his death in 281 BC.</p></li><li><p><em>Lysimachus</em> became the governor of Thrace and Bithynia (in Asia Minor, modern-day Turkey) after Alexander died.</p></li><li><p><em>Cassander</em> served as the governor of Macedonia until 294 BC. Demetrius I, the son of Antigonus, then took control of Macedonia and Achaia. He founded the Antigonid dynasty, which ruled until the Romans took over Greece after the Battle of Pydna in 168 BC.</p></li></ol><p>Alexander&apos;s empire was divided into four kingdoms ruled by Macedonian Greeks: </p><ol><li><p>Egypt</p></li><li><p>Babylon and Syria</p></li><li><p>Macedonia and Achaia</p></li><li><p>Parts of Asia Minor</p></li></ol><p>During the 200s BC, the Ptolemies and the Seleucids fought many wars over Palestine. <a href=\"https://ref.ly/Dan11:1-Dan11:45\">Daniel 11</a> accurately describes this conflict.</p><h3>Ptolemies, 323 to 30 BC</h3><p>Ptolemy I and his descendants (known as the &quot;king of the south&quot; in <a href=\"https://ref.ly/Dan11:1-Dan11:45\">Daniel 11</a>) ruled Egypt for nearly three hundred years. After Ptolemy I took control of Judea in 319 BC, he moved some Jewish people to Alexandria. This city became a large and important Jewish community and a center for both Jewish and Greek learning. The Septuagint, the Greek translation of the Old Testament, was created in Alexandria during this time. Although the Ptolemies were worshiped as gods and spread Greek culture in Egypt, they were generally tolerant of the Jews and their belief in one God. The Ptolemaic dynasty ended with Cleopatra VII&apos;s death when Rome took control of Egypt in 30 BC.</p><h3>Seleucid Empire, 321 to 64 BC</h3><p>Seleucus I and his descendants (known as the &quot;king of the north&quot; in <a href=\"https://ref.ly/Dan11:1-Dan11:45\">Daniel 11</a>) ruled Syria and, for a time, Babylon until the Roman general Pompey took control of Syria in 64 BC. The Seleucids, like the Ptolemies, spread Greek culture and the worship of rulers in their territories. However, they were less tolerant of the Jews&apos; refusal to participate than the Ptolemies. </p><p>After the Seleucid king Antiochus III took control of Judea around 200 BC, he gave important jobs and authority to Jews who adopted Greek ways of living. His son, Antiochus IV, harshly persecuted the Jews. He executed those who observed the Sabbath, kept copies of the Torah, or refused to worship at the altar of Zeus (the main Greek god) that he set up in the temple in Jerusalem. This event is noted in Daniel as the &quot;<span>abomination of desolation</span>&quot; (<a href=\"https://ref.ly/Dan11:31\">Daniel 11:31</a>). This persecution led to the revolt of the Jewish priest Mattathias and his sons. The Jewish state gained some freedom to rule themselves for nearly one hundred years under their descendants, the Hasmoneans.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Dan11:4-Dan11:39\">Daniel 11:4–39</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "27007006",
+"start_ref_usfm": "DAN 7:6",
+"end_ref": "27007006",
+"end_ref_usfm": "DAN 7:6"
+},
+{
+"start_ref": "27011031",
+"start_ref_usfm": "DAN 11:31",
+"end_ref": "27011031",
+"end_ref_usfm": "DAN 11:31"
+},
+{
+"start_ref": "27008008",
+"start_ref_usfm": "DAN 8:8",
+"end_ref": "27008014",
+"end_ref_usfm": "DAN 8:14"
+},
+{
+"start_ref": "27008021",
+"start_ref_usfm": "DAN 8:21",
+"end_ref": "27008026",
+"end_ref_usfm": "DAN 8:26"
+},
+{
+"start_ref": "27011004",
+"start_ref_usfm": "DAN 11:4",
+"end_ref": "27011045",
+"end_ref_usfm": "DAN 11:45"
+},
+{
+"start_ref": "27011001",
+"start_ref_usfm": "DAN 11:1",
+"end_ref": "27011045",
+"end_ref_usfm": "DAN 11:45"
+},
+{
+"start_ref": "27011004",
+"start_ref_usfm": "DAN 11:4",
+"end_ref": "27011039",
+"end_ref_usfm": "DAN 11:39"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "500558",
+"reference_id": 203501,
+"version": "1.0.2",
+"title": "Herod Agrippa I",
+"media_type": "Text",
+"index_reference": "herod agrippa i",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Herod Agrippa I was the grandson of Herod the Great, the nephew of Herod Antipas, and the brother of Herodias. Agrippa I ruled all of Palestine for a short time after Jesus&apos;s death, during the early days of the Christian movement, from AD 41 to 44.</p><p>While attending school in Rome, Agrippa lived recklessly and accumulated many debts. He once expressed a wish for his friend Gaius Caligula to be emperor instead of Tiberius. Someone reported this to Tiberius, who then imprisoned Agrippa. He stayed in prison until Tiberius died six months later.</p><p>When Caligula became emperor, he rewarded Agrippa by freeing him and giving him Philip the Tetrarch&apos;s lands and the northern part of Lysanias&apos;s territory, along with the title of king. This title made Herodias jealous, and her husband, Herod Antipas, was both critical and envious of Agrippa. Agrippa accused Antipas of conspiracy, leading to Antipas&apos;s banishment. Agrippa then took over all of Antipas&apos;s lands and property in AD 39.</p><p>When his friend Caligula died in AD 41, Agrippa gained favor with the new emperor, Claudius. Claudius then added Judea and Samaria to Agrippa&apos;s domain. This territory was once ruled by his grandfather, Herod the Great.</p><p>Agrippa actively persecuted early Christians. He is known for killing the apostle James and arresting Peter, actions that pleased the Jews (<a href=\"https://ref.ly/Acts12:1-Acts12:4\">Acts 12:1–4</a>). The Jews liked him more than any other Herod. Agrippa died suddenly in AD 44, soon after his subjects praised him as a god (<a href=\"https://ref.ly/Acts12:20-Acts12:23\">Acts 12:20–23</a>; see also Josephus, <em>Antiquities</em> 19.8.2; 19.9.1; <em>War</em> 2.11.5).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts12:1-Acts12:4\">Acts 12:1–4</a>, <a href=\"https://ref.ly/Acts12:18-Acts12:23\">18–23</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44012020",
+"start_ref_usfm": "ACT 12:20",
+"end_ref": "44012023",
+"end_ref_usfm": "ACT 12:23"
+},
+{
+"start_ref": "44012001",
+"start_ref_usfm": "ACT 12:1",
+"end_ref": "44012004",
+"end_ref_usfm": "ACT 12:4"
+},
+{
+"start_ref": "44012018",
+"start_ref_usfm": "ACT 12:18",
+"end_ref": "44012023",
+"end_ref_usfm": "ACT 12:23"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Herod.3",
+"type": "person",
+"preferred_label": "Herod",
+"confidence": 0.72,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500564",
+"reference_id": 203507,
+"version": "1.0.2",
+"title": "Herod Agrippa II",
+"media_type": "Text",
+"index_reference": "herod agrippa ii",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Herod Agrippa II was the son of Herod Agrippa I. He became king after his father and ruled in Palestine from AD 50 to 100. He eventually controlled about the same area as his great-grandfather, Herod the Great. Agrippa II managed the temple treasury and could appoint the high priest. He was unpopular among Jews because of his inappropriate sexual relationship with his sister Bernice. The Romans asked for his advice on religious matters. This is likely why Festus invited him to hear the apostle Paul&apos;s defense at Caesarea in AD 59 (<a href=\"https://ref.ly/Acts25:13-Acts26:32\">Acts 25:13–26:32</a>).</p><p>In May AD 66, the Jewish war against the Romans began (Josephus, <em>War</em> 2.14.4). When Agrippa&apos;s attempt to stop the revolt failed, he became a strong ally of the Romans throughout the war from AD 66 to 70. During this time, Nero killed himself, the new emperor Galba was murdered, and Vespasian became the emperor. After pledging loyalty to Vespasian, Agrippa joined Titus, Vespasian&apos;s son, who led the war effort (Tacitus, <em>History</em> 5.81). After Jerusalem fell on August 6, AD 70, Agrippa likely attended the celebration of his people&apos;s defeat.</p><p>In AD 79, Vespasian died, and Titus became emperor. Little is known about Agrippa&apos;s rule after this. However, he wrote to the historian Josephus, praising him for <em>The Jewish War</em>, and he bought a copy of it (Josephus, <em>Life</em> 65; <em>Against Apion</em> 1.9.47–52).</p><p>The Talmud suggests Agrippa II had two wives (Babylonian Talmud, <em>Sukkah</em> 27a). However, Josephus does not mention any wives or children. Agrippa II died around AD 100, ending the Herod family of kings.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts25:13-Acts26:32\">Acts 25:13–26:32</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44025013",
+"start_ref_usfm": "ACT 25:13",
+"end_ref": "44026032",
+"end_ref_usfm": "ACT 26:32"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "500541",
+"reference_id": 203484,
+"version": "1.0.2",
+"title": "Herod Antipas",
+"media_type": "Text",
+"index_reference": "herod antipas",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Herod Antipas was the sixth son of Herod the Great. He ruled Galilee and Perea from 4 BC to AD 39. This was during Jesus&apos;s lifetime. He ruled areas where Jesus and John the Baptist focused their work.</p><p>Herod Antipas, like his father, founded cities. Sepphoris, his first project, became the largest city in Galilee. It served as Antipas’s capital until he built Tiberias, named after Emperor Tiberius, who ruled from AD 14 to 37. Tiberias was on the western shore of the Sea of Galilee. Antipas completed it in AD 23 and made it his capital.</p><p>Herod Antipas upset many Jews by divorcing his wife and marrying Herodias, who was his half-brother, Herod Philip&apos;s wife. This marriage broke the law of Moses because Herod&apos;s brother Philip was still alive (<a href=\"https://ref.ly/Lev18:16\">Leviticus 18:16</a>; <a href=\"https://ref.ly/Lev20:21\">20:21</a>). When John the Baptist strongly criticized this unlawful marriage, Antipas imprisoned him (<a href=\"https://ref.ly/Mark6:17-Mark6:18\">Mark 6:17–18</a>). Herod feared that John&apos;s criticism would cause an uprising against him (Antiquities 18.5.2). Later, at a banquet, Herodias&apos;s daughter impressed Herod with her dancing. This led him to make a reckless promise to give her anything she wanted. Herodias used this chance to have John beheaded (<a href=\"https://ref.ly/Matt14:1-Matt14:12\">Matthew 14:1–12</a>).</p><p>When Jesus was finally arrested, Pilate could find no fault in Jesus, so he sent him to Herod Antipas, who was in Jerusalem for Passover. Pilate may also have been attempting to improve his relationship with Antipas. Their relationship had been troubled since the massacre in Galilee (<a href=\"https://ref.ly/Luke13:1\">Luke 13:1</a>). Pilate had also brought shields with the image of Tiberius to Jerusalem. These were blasphemous to the Jews (Philo, On the Embassy to Gaius 299–304). These actions greatly disrespected God and his laws, which deeply offended the Jewish people. When Jesus was brought before Antipas, Herod only mocked him and sent him back to Pilate (<a href=\"https://ref.ly/Luke23:6-Luke23:11\">Luke 23:6–11</a>). The main political effect of this event was that Herod and Pilate&apos;s relationship improved (<a href=\"https://ref.ly/Luke23:12\">Luke 23:12</a>).</p><p>Herod Antipas was later defeated in war by King Aretas, whose daughter he had divorced. Jews saw this defeat as divine judgment. Later, in AD 39, Emperor Gaius removed Antipas from power. He exiled Antipas after Herod Agrippa I accused him of plotting against Rome.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt14:1-Matt14:12\">Matthew 14:1–12</a>; <a href=\"https://ref.ly/Mark1:14\">Mark 1:14</a>; <a href=\"https://ref.ly/Mark6:14-Mark6:29\">6:14–29</a>; <a href=\"https://ref.ly/Luke3:1\">Luke 3:1</a>, <a href=\"https://ref.ly/Luke3:19-Luke3:20\">19–20</a>; <a href=\"https://ref.ly/Luke9:7-Luke9:9\">9:7–9</a>; <a href=\"https://ref.ly/Luke13:31-Luke13:33\">13:31–33</a>; <a href=\"https://ref.ly/Luke23:7-Luke23:12\">23:7–12</a>, <a href=\"https://ref.ly/Luke23:15\">15</a>; <a href=\"https://ref.ly/Acts4:27\">Acts 4:27</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03018016",
+"start_ref_usfm": "LEV 18:16",
+"end_ref": "03018016",
+"end_ref_usfm": "LEV 18:16"
+},
+{
+"start_ref": "03020021",
+"start_ref_usfm": "LEV 20:21",
+"end_ref": "03020021",
+"end_ref_usfm": "LEV 20:21"
+},
+{
+"start_ref": "41001014",
+"start_ref_usfm": "MRK 1:14",
+"end_ref": "41001014",
+"end_ref_usfm": "MRK 1:14"
+},
+{
+"start_ref": "41008015",
+"start_ref_usfm": "MRK 8:15",
+"end_ref": "41008015",
+"end_ref_usfm": "MRK 8:15"
+},
+{
+"start_ref": "42003001",
+"start_ref_usfm": "LUK 3:1",
+"end_ref": "42003001",
+"end_ref_usfm": "LUK 3:1"
+},
+{
+"start_ref": "42013001",
+"start_ref_usfm": "LUK 13:1",
+"end_ref": "42013001",
+"end_ref_usfm": "LUK 13:1"
+},
+{
+"start_ref": "42023012",
+"start_ref_usfm": "LUK 23:12",
+"end_ref": "42023012",
+"end_ref_usfm": "LUK 23:12"
+},
+{
+"start_ref": "42023015",
+"start_ref_usfm": "LUK 23:15",
+"end_ref": "42023015",
+"end_ref_usfm": "LUK 23:15"
+},
+{
+"start_ref": "44004027",
+"start_ref_usfm": "ACT 4:27",
+"end_ref": "44004027",
+"end_ref_usfm": "ACT 4:27"
+},
+{
+"start_ref": "40014001",
+"start_ref_usfm": "MAT 14:1",
+"end_ref": "40014012",
+"end_ref_usfm": "MAT 14:12"
+},
+{
+"start_ref": "41006014",
+"start_ref_usfm": "MRK 6:14",
+"end_ref": "41006029",
+"end_ref_usfm": "MRK 6:29"
+},
+{
+"start_ref": "42003019",
+"start_ref_usfm": "LUK 3:19",
+"end_ref": "42003020",
+"end_ref_usfm": "LUK 3:20"
+},
+{
+"start_ref": "40014001",
+"start_ref_usfm": "MAT 14:1",
+"end_ref": "40014002",
+"end_ref_usfm": "MAT 14:2"
+},
+{
+"start_ref": "41006014",
+"start_ref_usfm": "MRK 6:14",
+"end_ref": "41006016",
+"end_ref_usfm": "MRK 6:16"
+},
+{
+"start_ref": "42009007",
+"start_ref_usfm": "LUK 9:7",
+"end_ref": "42009009",
+"end_ref_usfm": "LUK 9:9"
+},
+{
+"start_ref": "42013031",
+"start_ref_usfm": "LUK 13:31",
+"end_ref": "42013033",
+"end_ref_usfm": "LUK 13:33"
+},
+{
+"start_ref": "42023007",
+"start_ref_usfm": "LUK 23:7",
+"end_ref": "42023012",
+"end_ref_usfm": "LUK 23:12"
+},
+{
+"start_ref": "41006017",
+"start_ref_usfm": "MRK 6:17",
+"end_ref": "41006018",
+"end_ref_usfm": "MRK 6:18"
+},
+{
+"start_ref": "42023006",
+"start_ref_usfm": "LUK 23:6",
+"end_ref": "42023011",
+"end_ref_usfm": "LUK 23:11"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Herod.2",
+"type": "person",
+"preferred_label": "Herod Antipas",
+"confidence": 0.7725,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500534",
+"reference_id": 203477,
+"version": "1.0.2",
+"title": "Herod the Great",
+"media_type": "Text",
+"index_reference": "herod the great",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Herod the Great was the Roman-appointed king of Judea from 37 to 4 BC. Herod the Great was king when Jesus was born (<a href=\"https://ref.ly/Matt2:1\">Matthew 2:1</a>; <a href=\"https://ref.ly/Luke1:5\">Luke 1:5</a>). He was a strong military leader, a skilled politician, and a harsh ruler. He was born into an Idumean (Edomite) family with Roman connections. He gained power by making the Romans like him, and he kept this power by being cruel to anyone who opposed him.</p><p>Herod was famous for his large building projects. His greatest achievement was rebuilding and beautifying the Jerusalem Temple, which began around 20 BC (Josephus, <em>Antiquities</em> 15.8.1). This made it one of the most impressive buildings in the ancient world. He also built Caesarea and made it the Roman headquarters in Palestine. Herod earned the title &quot;the Great&quot; due to his reputation as an excellent builder.</p><p>Herod was known for his family problems and harsh treatment of opponents or perceived threats. He killed two of his wives and three of his sons when he suspected them of plotting against him. Caesar Augustus once said he would rather be Herod’s <em>swine</em> (pig) than his <em>son</em> (a play on words in Greek since the two words sound alike—<em>hus</em>, <em>huios</em>). When Jesus was born near the end of Herod’s reign and Herod heard him called a future “king,” he tried to have him killed. Unable to find the boy, Herod ordered the killing of all boys under two years old in the Bethlehem area (see <a href=\"https://ref.ly/Matt2:1-Matt2:20\">Matthew 2:1–20</a>). This act was typical of his cruelty and paranoia.</p><p>Herod was called &quot;king of the Jews,&quot; but the Jewish people did not accept him as their true king. He was not from King David&apos;s family line and was an Edomite, a descendant of Esau, not a Jew.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt2:1-Matt2:20\">Matthew 2:1–20</a>; <a href=\"https://ref.ly/Luke1:5\">Luke 1:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40002001",
+"start_ref_usfm": "MAT 2:1",
+"end_ref": "40002001",
+"end_ref_usfm": "MAT 2:1"
+},
+{
+"start_ref": "42001005",
+"start_ref_usfm": "LUK 1:5",
+"end_ref": "42001005",
+"end_ref_usfm": "LUK 1:5"
+},
+{
+"start_ref": "40002001",
+"start_ref_usfm": "MAT 2:1",
+"end_ref": "40002020",
+"end_ref_usfm": "MAT 2:20"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "500507",
+"reference_id": 203450,
+"version": "1.0.2",
+"title": "Hezekiah",
+"media_type": "Text",
+"index_reference": "hezekiah",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Hezekiah was one of Judah’s best kings. He ruled from 728 to 686 BC. His father, Ahaz, stopped worshiping God. But Hezekiah encouraged true worship of God. He fixed the temple doors, had the Levites prepare themselves for holy service, and restarted religious ceremonies. He offered sacrifices, restored the priestly temple service, and invited people from Judah and Israel to celebrate Passover in Jerusalem (<a href=\"https://ref.ly/2Chr29:1-2Chr30:27\">2 Chronicles 29–30</a>). After the celebration, he destroyed pagan worship sites.</p><p>After Hezekiah began his rule, the Assyrians, led by Shalmaneser V and later Sargon II, defeated the northern kingdom. They deported its people and brought in foreigners in 722 BC. When Sargon II died in 705 BC, his son Sennacherib took power, causing widespread rebellion. Hezekiah stopped paying the tribute his father Ahaz had paid (<a href=\"https://ref.ly/2Kgs18:7\">2 Kings 18:7</a>; see <a href=\"https://ref.ly/2Kgs16:7\">16:7</a>). As a result, in 701 BC, Sennacherib invaded Judah. Hezekiah tried to appease the Assyrian ruler with a large tribute, but this failed. The Assyrian forces threatened Jerusalem and mocked Hezekiah&apos;s trust in the Lord (<a href=\"https://ref.ly/2Kgs18:17-2Kgs18:35\">2 Kings 18:17–35</a>). Hezekiah responded with mourning and prayer. The Lord, through the prophet Isaiah, assured Hezekiah that his prayers were heard and that Sennacherib would not conquer Jerusalem (<a href=\"https://ref.ly/2Kgs19:1-2Kgs19:34\">2 Kings 19:1–34</a>).</p><p>Around that time, Hezekiah became very ill (<a href=\"https://ref.ly/2Kgs20:1-2Kgs20:11\">2 Kings 20:1–11</a>). Isaiah told him to prepare for death, but Hezekiah prayed to the Lord for healing. The Lord promised him fifteen more years of life and deliverance from the Assyrians. After he recovered, Hezekiah unwisely hosted the Babylonian king Merodach-baladan in his palace. He showed him the temple treasures and sought support from Babylon instead of the Lord. Isaiah predicted that those treasures would be taken to Babylon (<a href=\"https://ref.ly/2Kgs20:12-2Kgs20:19\">2 Kings 20:12–19</a>).</p><p>After the Assyrian threat in 701 BC, Hezekiah enjoyed peaceful and successful years. He died in 686 BC, and his son Manasseh succeeded him.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/2Kgs18:1-2Kgs20:21\">2 Kings 18:1–20:21</a>; <a href=\"https://ref.ly/2Chr28:27-2Chr32:33\">2 Chronicles 28:27–32:33</a>; <a href=\"https://ref.ly/Isa36:1-Isa39:8\">Isaiah 36:1–39:8</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "12016007",
+"start_ref_usfm": "2KI 16:7",
+"end_ref": "12016007",
+"end_ref_usfm": "2KI 16:7"
+},
+{
+"start_ref": "12018007",
+"start_ref_usfm": "2KI 18:7",
+"end_ref": "12018007",
+"end_ref_usfm": "2KI 18:7"
+},
+{
+"start_ref": "12020012",
+"start_ref_usfm": "2KI 20:12",
+"end_ref": "12020019",
+"end_ref_usfm": "2KI 20:19"
+},
+{
+"start_ref": "12020001",
+"start_ref_usfm": "2KI 20:1",
+"end_ref": "12020011",
+"end_ref_usfm": "2KI 20:11"
+},
+{
+"start_ref": "12018001",
+"start_ref_usfm": "2KI 18:1",
+"end_ref": "12020021",
+"end_ref_usfm": "2KI 20:21"
+},
+{
+"start_ref": "23036001",
+"start_ref_usfm": "ISA 36:1",
+"end_ref": "23039008",
+"end_ref_usfm": "ISA 39:8"
+},
+{
+"start_ref": "14029001",
+"start_ref_usfm": "2CH 29:1",
+"end_ref": "14030027",
+"end_ref_usfm": "2CH 30:27"
+},
+{
+"start_ref": "12018017",
+"start_ref_usfm": "2KI 18:17",
+"end_ref": "12018035",
+"end_ref_usfm": "2KI 18:35"
+},
+{
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019034",
+"end_ref_usfm": "2KI 19:34"
+},
+{
+"start_ref": "14028027",
+"start_ref_usfm": "2CH 28:27",
+"end_ref": "14032033",
+"end_ref_usfm": "2CH 32:33"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Hezekiah",
+"type": "person",
+"preferred_label": "Hezekiah",
+"confidence": 0.7342,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500458",
+"reference_id": 203401,
+"version": "1.0.2",
+"title": "Hittites",
+"media_type": "Text",
+"index_reference": "hittites",
+"language": "eng",
+"review_level": "None",
+"content": "<p>For many years, only the Bible mentioned the Hittite people. Some scholars questioned whether the Bible&apos;s historical accounts about the Hittites were accurate. They thought the Hittites were not a real people. However, archaeologists and historians have uncovered information about them. </p><p>The Hittites had an empire centered in Asia Minor, with their capital at Hattusha (modern Baghazkoy). The empire grew much larger because many cities signed agreements to follow its rule. These cities were not officially part of the empire&apos;s territory, but they had to do what the empire said. The Hittite armies were strong enough to challenge the Egyptian armies under the proud Rameses II, who ruled from 1279 to 1213 BC. The Hittites fought Rameses II at Kadesh on the Orontes around 1274 BC. Neither side won the battle. During the time of Abraham and the other early fathers of Israel, the Hittite people controlled cities in Canaan, such as Hebron.</p><p>Heth, the ancestor of the Hittites, is the second son of Canaan in the &quot;table of nations&quot; (<a href=\"https://ref.ly/Gen10:15\">Genesis 10:15</a>; see also <a href=\"https://ref.ly/1Chr1:13\">1 Chronicles 1:13</a> and the footnote there). Most mentions of Heth&apos;s sons are in the story of Abraham buying the cave of Machpelah (<a href=\"https://ref.ly/Gen23:1-Gen23:20\">Genesis 23</a>). Later, God told the Israelites to destroy all Hittites in the promised land (<a href=\"https://ref.ly/Deut7:1-Deut7:2\">Deuteronomy 7:1–2</a>). But the Israelites did not fully obey God (<a href=\"https://ref.ly/1Kgs9:20-1Kgs9:21\">1 Kings 9:20–21</a>). Some of David&apos;s best warriors were Hittites (<a href=\"https://ref.ly/1Sam26:6\">1 Samuel 26:6</a>; <a href=\"https://ref.ly/2Sam11:1-2Sam12:31\">2 Samuel 11–12</a>). Solomon traded with Hittite kings (<a href=\"https://ref.ly/1Kgs10:29-1Kgs11:1\">1 Kings 10:29–11:1</a>). The Bible shows that the Hittites were important people.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen23:3-Gen23:20\">Genesis 23:3–20</a>; <a href=\"https://ref.ly/Gen26:34-Gen26:35\">26:34–35</a>; <a href=\"https://ref.ly/Gen27:46-Gen28:2\">27:46–28:2</a>; <a href=\"https://ref.ly/Deut7:1\">Deuteronomy 7:1</a>; <a href=\"https://ref.ly/1Sam26:6\">1 Samuel 26:6</a>; <a href=\"https://ref.ly/2Sam11:2-2Sam11:27\">2 Samuel 11:2–27</a>; <a href=\"https://ref.ly/1Kgs9:20\">1 Kings 9:20</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01010015",
+"start_ref_usfm": "GEN 10:15",
+"end_ref": "01010015",
+"end_ref_usfm": "GEN 10:15"
+},
+{
+"start_ref": "05007001",
+"start_ref_usfm": "DEU 7:1",
+"end_ref": "05007001",
+"end_ref_usfm": "DEU 7:1"
+},
+{
+"start_ref": "09026006",
+"start_ref_usfm": "1SA 26:6",
+"end_ref": "09026006",
+"end_ref_usfm": "1SA 26:6"
+},
+{
+"start_ref": "11009020",
+"start_ref_usfm": "1KI 9:20",
+"end_ref": "11009020",
+"end_ref_usfm": "1KI 9:20"
+},
+{
+"start_ref": "13001013",
+"start_ref_usfm": "1CH 1:13",
+"end_ref": "13001013",
+"end_ref_usfm": "1CH 1:13"
+},
+{
+"start_ref": "01023001",
+"start_ref_usfm": "GEN 23:1",
+"end_ref": "01023020",
+"end_ref_usfm": "GEN 23:20"
+},
+{
+"start_ref": "05007001",
+"start_ref_usfm": "DEU 7:1",
+"end_ref": "05007002",
+"end_ref_usfm": "DEU 7:2"
+},
+{
+"start_ref": "01026034",
+"start_ref_usfm": "GEN 26:34",
+"end_ref": "01026035",
+"end_ref_usfm": "GEN 26:35"
+},
+{
+"start_ref": "10011001",
+"start_ref_usfm": "2SA 11:1",
+"end_ref": "10012031",
+"end_ref_usfm": "2SA 12:31"
+},
+{
+"start_ref": "11009020",
+"start_ref_usfm": "1KI 9:20",
+"end_ref": "11009021",
+"end_ref_usfm": "1KI 9:21"
+},
+{
+"start_ref": "01027046",
+"start_ref_usfm": "GEN 27:46",
+"end_ref": "01028002",
+"end_ref_usfm": "GEN 28:2"
+},
+{
+"start_ref": "10011002",
+"start_ref_usfm": "2SA 11:2",
+"end_ref": "10011027",
+"end_ref_usfm": "2SA 11:27"
+},
+{
+"start_ref": "11010029",
+"start_ref_usfm": "1KI 10:29",
+"end_ref": "11011001",
+"end_ref_usfm": "1KI 11:1"
+},
+{
+"start_ref": "01023003",
+"start_ref_usfm": "GEN 23:3",
+"end_ref": "01023020",
+"end_ref_usfm": "GEN 23:20"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.6685,
+"match_method": "scored"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"preferred_label": "Hittites",
+"confidence": 0.6609,
+"match_method": "scored"
+}
+]
+}
+}
 ]

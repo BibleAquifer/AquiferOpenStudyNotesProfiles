@@ -1,838 +1,704 @@
 [
-  {
-    "content_id": "726060",
-    "reference_id": 203431,
-    "version": "1.0.2",
-    "title": "العَمَالِيق",
-    "media_type": "Text",
-    "index_reference": "العَمَالِيق",
-    "language": "arb",
-    "review_level": "None",
-    "content": "<p>كان العَمَالِيق من نسل عَمَالِيق، حفيد عيسو (<a href=\"https://ref.ly/Gen36:12\">تكوين 36:12</a>؛ <a href=\"https://ref.ly/1Chr1:36\">1أخبار الأيام 1:36</a>). كانوا رعاة بدويين، وامتدت أراضيهم في الجَنُوب من جَنُوب بئر السبع إلى الجَنُوب الشرقي، وصولًا إلى <span>أَيْلَة</span> و<span>عِصْيُون جَابَر</span>. ويُحتمل أنهم شنوا غارات على السهل الساحلي غربًا، وبرية العربة شرقًا، وربما العربية أيضًا.</p><p>كان ال<span>عَمَالِيق </span>أعداء أقوياء لإسرائيل. التقى إسرائيل أول مرة بمحاربي عَمَالِيق في رفيديم بالقرب من سيناء عندما هاجموا إسرائيل (<a href=\"https://ref.ly/Exod17:8-Exod17:16\">خروج 17:8–16</a>). هزم يشوع وجيش إسرائيل العَمَالِيق في تلك المعركة. لاحقًا، أوقف العَمَالِيق محاولة إسرائيل (في عصيانها) لدخول أرض الموعد (<a href=\"https://ref.ly/Num14:39-Num14:45\">عدد 14:39–45</a>).</p><p>بسبب حقد العَمَالِيق وعداوتهم، أمر موسى إسرائيل بإهلاكهم [محو ذكرهم من تحت السماء] (<a href=\"https://ref.ly/Deut25:17-Deut25:19\">تثنية 25:17–19</a>). ومع ذلك، استمر العمالقة في العيش في الجَنُوب [النّقب] (انظر <a href=\"https://ref.ly/Judg3:12-Judg3:14\">قضاة 3:12–14</a>؛ <a href=\"https://ref.ly/Judg6:33\">6:33</a>؛ <a href=\"https://ref.ly/1Sam14:47-1Sam14:48\">1صموئيل 14:47–48</a>؛ <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">15:1–35</a>). أولئك الذين نجوا من العَمَالِيق ظلوا أعداء لإسرائيل (<a href=\"https://ref.ly/1Sam27:8\">1صموئيل 27:8</a>؛ <a href=\"https://ref.ly/1Sam30:1-1Sam30:20\">30:1–20</a>؛ <a href=\"https://ref.ly/2Sam8:11-2Sam8:12\">2صموئيل 8:11–12</a>؛ <a href=\"https://ref.ly/Ps83:1-Ps83:8\">مزمور 83:1–8</a>). وأُفنيت هذه المجموعة المتبقية في النهاية في أثناء حكم الملك حزقيّا (<a href=\"https://ref.ly/1Chr4:42-1Chr4:43\">1أخبار الأيام 4:42–43</a>). في سفر أستير، أظهر هامان، الذي كان من نسل الملك أجاج، عداوتهم إلى آخر لحظة (<a href=\"https://ref.ly/Esth3:1-Esth3:15\">أستير 3</a>؛ انظر <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">1صموئيل 15</a>).</p><p><u>مقاطع كتابية لدراسة أعمق</u></p><p><a href=\"https://ref.ly/1Sam30:1-1Sam30:31\">1صموئيل 30:1–31</a>.</p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01036012",
-          "start_ref_usfm": "GEN 36:12",
-          "end_ref": "01036012",
-          "end_ref_usfm": "GEN 36:12"
-        },
-        {
-          "start_ref": "07006033",
-          "start_ref_usfm": "JDG 6:33",
-          "end_ref": "07006033",
-          "end_ref_usfm": "JDG 6:33"
-        },
-        {
-          "start_ref": "09027008",
-          "start_ref_usfm": "1SA 27:8",
-          "end_ref": "09027008",
-          "end_ref_usfm": "1SA 27:8"
-        },
-        {
-          "start_ref": "13001036",
-          "start_ref_usfm": "1CH 1:36",
-          "end_ref": "13001036",
-          "end_ref_usfm": "1CH 1:36"
-        },
-        {
-          "start_ref": "02017008",
-          "start_ref_usfm": "EXO 17:8",
-          "end_ref": "02017016",
-          "end_ref_usfm": "EXO 17:16"
-        },
-        {
-          "start_ref": "09015001",
-          "start_ref_usfm": "1SA 15:1",
-          "end_ref": "09015035",
-          "end_ref_usfm": "1SA 15:35"
-        },
-        {
-          "start_ref": "04014039",
-          "start_ref_usfm": "NUM 14:39",
-          "end_ref": "04014045",
-          "end_ref_usfm": "NUM 14:45"
-        },
-        {
-          "start_ref": "05025017",
-          "start_ref_usfm": "DEU 25:17",
-          "end_ref": "05025019",
-          "end_ref_usfm": "DEU 25:19"
-        },
-        {
-          "start_ref": "07003012",
-          "start_ref_usfm": "JDG 3:12",
-          "end_ref": "07003014",
-          "end_ref_usfm": "JDG 3:14"
-        },
-        {
-          "start_ref": "09014047",
-          "start_ref_usfm": "1SA 14:47",
-          "end_ref": "09014048",
-          "end_ref_usfm": "1SA 14:48"
-        },
-        {
-          "start_ref": "09030001",
-          "start_ref_usfm": "1SA 30:1",
-          "end_ref": "09030020",
-          "end_ref_usfm": "1SA 30:20"
-        },
-        {
-          "start_ref": "10008011",
-          "start_ref_usfm": "2SA 8:11",
-          "end_ref": "10008012",
-          "end_ref_usfm": "2SA 8:12"
-        },
-        {
-          "start_ref": "17003001",
-          "start_ref_usfm": "EST 3:1",
-          "end_ref": "17003015",
-          "end_ref_usfm": "EST 3:15"
-        },
-        {
-          "start_ref": "09030001",
-          "start_ref_usfm": "1SA 30:1",
-          "end_ref": "09030031",
-          "end_ref_usfm": "1SA 30:31"
-        },
-        {
-          "start_ref": "13004042",
-          "start_ref_usfm": "1CH 4:42",
-          "end_ref": "13004043",
-          "end_ref_usfm": "1CH 4:43"
-        },
-        {
-          "start_ref": "19083001",
-          "start_ref_usfm": "PSA 83:1",
-          "end_ref": "19083008",
-          "end_ref_usfm": "PSA 83:8"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "place:Amalek",
-          "type": "place",
-          "preferred_label": "عَمَالِيقَ",
-          "confidence": 0.6608,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Amalek",
-          "type": "person",
-          "preferred_label": "عَمَالِيقَ",
-          "confidence": 0.5583,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "726055",
-    "reference_id": 203426,
-    "version": "1.0.2",
-    "title": "عالي",
-    "media_type": "Text",
-    "index_reference": "عالي",
-    "language": "arb",
-    "review_level": "None",
-    "content": "<p>كان عالي رئيس كهنة لإسرائيل في خيمة الاجتماع في شيلوه، التي كانت المركز الرئيس للعبادة في زمن القضاة. يرجح أن عالي كان من نسل <span>إِيثَامَار</span>، الابن الأصغر لهارون (انظر <a href=\"https://ref.ly/1Kgs2:27\">1ملوك 2:27</a>؛ <a href=\"https://ref.ly/1Chr18:16\">1أخبار الأيام 18:16</a>؛ <a href=\"https://ref.ly/1Chr24:3\">24:3</a>). كان عالي مخلصًا وتقيًّا، لكنه واجه صعوبة بالغة في تربيّة أبنائه الأشرار وتأديبهم، حُفْنِي وفِينَحَاس.</p><p>عندما التقى عالي بحنّة عند خيمة الاجتماع، ظنّ خطأً أنها كانت سكرى لأنها كانت تصلي في صمت من أجل أن يرزقها الله طفلًا. وبعد أن أدرك عالي خطأه، بارك حنّة. استجاب الله لصلاتها وأعطاها ابنًا أسمته صموئيل.</p><p>حَظِيَ صموئيل برضا الرب والناس (<a href=\"https://ref.ly/1Sam2:26\">1صموئيل 2:26</a>). أما أبناء عالي فكانوا مزدرين وغير أمناء (<a href=\"https://ref.ly/1Sam2:12\">1صموئيل 2:12</a>). كانوا يسرقون من التقدمات ويغوون النساء اللواتي يخدمن عند باب خيمة الاجتماع. عندما وبّخهم عالي، لم يبالوا به. أرسل الله نبيًا لينتقد ضعف عالي وشرور أبنائه، معلنًا أن الله سيزيل الكهنوت عن عائلة عالي (<a href=\"https://ref.ly/1Sam2:27-1Sam2:36\">1صموئيل 2:27–36</a>). تأيدت هذه الرسالة حين تكلم الله إلى صموئيل ذات ليلة، وأخبره أنه سيعاقب قريبًا عائلة عالي (<a href=\"https://ref.ly/1Sam3:1-1Sam3:14\">1 صموئيل 3:1–14</a>).</p><p>بعد<span> فترة وجيزة</span>، هُزم جيش إسرائيل في معركة أمام الفلسطينيين، الذين استولوا على تابوت العهد، <span>وماتَ ابْنا عَالي حُفْنِي وفِينَحَاس.</span> (<a href=\"https://ref.ly/1Sam4:1-1Sam4:11\">1 صموئيل 4:1–11</a>). عندما علم عالي، الذي كان يبلغ من العمر ثمانية وتسعين عامًا بخبر موت ابنيه سقط إلى الوراء وانكسرت رقبته فمات (<a href=\"https://ref.ly/1Sam4:12-1Sam4:18\">1 صموئيل 4:12–18</a>). حينها فاجأ مخاض الولادة زوجة ابنه-ا<span>مرَأَة فِينَحَاس</span>، وماتت في أثناء ولادة حفيد عالي، الذي أطلق عليه اسم إِيخَابُود (بمعنى &quot;أين المَجْد؟&quot;، لأن المجد قد زال عن إسرائيل) (<a href=\"https://ref.ly/1Sam4:19-1Sam4:22\">1صموئيل 4:19–22</a>).</p><p>استمرت عائلة عالي في خدمة الكهنوت حتى وفاة الملك داود. كان أبياثار آخر نسل عالي الذي خدم رئيسًا للكهنة. أزال سليمان أبياثار عن الكهنوت لأن أبياثار كان قد دعم أدونيّا، الذي حاول أن يصبح ملكًا بدلًا من سليمان. ثم عيّن سليمان صادوق رئيسًا للكهنة (<a href=\"https://ref.ly/1Kgs2:27\">1ملوك 2:27</a>).</p><p><span><u>مقاطع كتابية لدراسة أعمق</u></span></p><p><a href=\"https://ref.ly/1Sam1:9-1Sam1:18\">1صموئيل 1:9–18</a>، <a href=\"https://ref.ly/1Sam1:25-1Sam1:28\">25–28</a>؛ <a href=\"https://ref.ly/1Sam2:11-1Sam4:22\">1صموئيل 2:11–4:22</a>؛ <a href=\"https://ref.ly/1Kgs2:27\">1ملوك 2:27.</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "09002012",
-          "start_ref_usfm": "1SA 2:12",
-          "end_ref": "09002012",
-          "end_ref_usfm": "1SA 2:12"
-        },
-        {
-          "start_ref": "09002026",
-          "start_ref_usfm": "1SA 2:26",
-          "end_ref": "09002026",
-          "end_ref_usfm": "1SA 2:26"
-        },
-        {
-          "start_ref": "11002027",
-          "start_ref_usfm": "1KI 2:27",
-          "end_ref": "11002027",
-          "end_ref_usfm": "1KI 2:27"
-        },
-        {
-          "start_ref": "13018016",
-          "start_ref_usfm": "1CH 18:16",
-          "end_ref": "13018016",
-          "end_ref_usfm": "1CH 18:16"
-        },
-        {
-          "start_ref": "13024003",
-          "start_ref_usfm": "1CH 24:3",
-          "end_ref": "13024003",
-          "end_ref_usfm": "1CH 24:3"
-        },
-        {
-          "start_ref": "09004001",
-          "start_ref_usfm": "1SA 4:1",
-          "end_ref": "09004011",
-          "end_ref_usfm": "1SA 4:11"
-        },
-        {
-          "start_ref": "09004019",
-          "start_ref_usfm": "1SA 4:19",
-          "end_ref": "09004022",
-          "end_ref_usfm": "1SA 4:22"
-        },
-        {
-          "start_ref": "09002027",
-          "start_ref_usfm": "1SA 2:27",
-          "end_ref": "09002036",
-          "end_ref_usfm": "1SA 2:36"
-        },
-        {
-          "start_ref": "09003001",
-          "start_ref_usfm": "1SA 3:1",
-          "end_ref": "09003014",
-          "end_ref_usfm": "1SA 3:14"
-        },
-        {
-          "start_ref": "09004012",
-          "start_ref_usfm": "1SA 4:12",
-          "end_ref": "09004018",
-          "end_ref_usfm": "1SA 4:18"
-        },
-        {
-          "start_ref": "09001009",
-          "start_ref_usfm": "1SA 1:9",
-          "end_ref": "09001018",
-          "end_ref_usfm": "1SA 1:18"
-        },
-        {
-          "start_ref": "09001025",
-          "start_ref_usfm": "1SA 1:25",
-          "end_ref": "09001028",
-          "end_ref_usfm": "1SA 1:28"
-        },
-        {
-          "start_ref": "09002011",
-          "start_ref_usfm": "1SA 2:11",
-          "end_ref": "09004022",
-          "end_ref_usfm": "1SA 4:22"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Eli",
-          "type": "person",
-          "preferred_label": "عَالِي",
-          "confidence": 0.5502,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "726088",
-    "reference_id": 203459,
-    "version": "1.0.2",
-    "title": "عَزْرَا",
-    "media_type": "Text",
-    "index_reference": "عَزْرَا",
-    "language": "arb",
-    "review_level": "None",
-    "content": "<p>كان عزرا كاهنًا وكاتبًا (معلمًا وناسخًا للكتاب المقدس)، وينتمي إلى عائلة بارزة من رؤساء الكهنة المنحدرين من صادوق الكاهن (<a href=\"https://ref.ly/Ezra7:1-Ezra7:5\">عزرا 7:1–5،</a> <a href=\"https://ref.ly/Ezra7:11-Ezra7:12\">11–12</a>؛ انظر أيضًا <a href=\"https://ref.ly/Neh8:2\">نحميا 8:2</a>، <a href=\"https://ref.ly/Neh8:9\">9</a>). تولى عزرا زمام القيادة في يهوذا بعد عودة اليهود من السبي. ولم يكن عزرا بدوره كاتبًا مجرد ناسخ فحسب بل كان تلميذًا أمينًا لشريعة الله (<a href=\"https://ref.ly/Ezra7:6\">عزرا 7:6</a>). كان أهلًا للتعليم والوعظ وشرح الكتب (الأسفار) المقدسة.</p><p>عزرا، وهو مسؤول بارز ساعد الملك من جهة الشؤون اليهودية داخل الإمبراطورية الفارسية، زار أورشليم حوالي عام 458 قبل الميلاد. جلب معه أشياء للهيكل وكان يهدف إلى إقامة شريعة الله، ووضع قوانين فارس. كانت إحدى خطواته الأولى معالجة قضية الزواج المختلط مع الجيران غير اليهود (<a href=\"https://ref.ly/Ezra9:1-Ezra10:44\">عزرا 9:1–10:44</a>). ثم بعد إعادة بناء أسوار المدينة في عام 445 قبل الميلاد (<a href=\"https://ref.ly/Neh6:15\">نحميا 6:15</a>)، قاد عزرا المجتمع لاتباع كلام شريعة الله بأكثر تدقيق (<a href=\"https://ref.ly/Neh8:13-Neh8:15\">نحميا 8:13–15</a>).</p><p>لقد أكرم عزرا الله بحُسن إدارته للشؤون المالية. اعتمد الملك الفارسي على أراء عزرا وحكمته، وسمح له بطلب مال أكثر عند الحاجة (<a href=\"https://ref.ly/Ezra7:15-Ezra7:20\">عزرا 7:15–20</a>). وكلّّما أمكن أعطى عزرا مسؤوليات مالية  لآخرين، وطالبهم بنزاهة مالية صارمة (<a href=\"https://ref.ly/Ezra8:24-Ezra8:30\">عزرا 8:24–30</a>). كما قدّس بعض الموارد المالية للرب وخصّصها للرب وحده.</p><p>أظهر عزرا تواضعًا أمام الله عندما بدأ الشعب رحلتهم للعودة (<a href=\"https://ref.ly/Ezra8:21-Ezra8:23\">عزرا 8:21–23</a>)، وعندما علم عن زواج الشعب غير المقدس (<a href=\"https://ref.ly/Ezra9:5-Ezra9:15\">عزرا 9:5–15</a>)، وعندما جمع الذين كان عليهم تطليق زوجاتهم الوثنيات (<a href=\"https://ref.ly/Ezra10:6\">10:6</a>). كان دائمًا يعترف ب<span>يَد ٱلرَّبّ إِلَهِه</span>- وليس قدرته أو حكمته الشخصية - هي التي أحدثت كل الأمور الصالحة (<a href=\"https://ref.ly/Ezra7:6\">عزرا 7:6</a>، <a href=\"https://ref.ly/Ezra7:9\">9</a>، <a href=\"https://ref.ly/Ezra7:28\">28</a>؛ <a href=\"https://ref.ly/Ezra8:18\">8:18</a>، <a href=\"https://ref.ly/Ezra8:22\">22</a>، <a href=\"https://ref.ly/Ezra8:31\">31</a>؛ <a href=\"https://ref.ly/Ezra9:8-Ezra9:9\">9:8–9</a>). لقد هيأ عزرا قلبه لكلمة الله، وقد عمل بها، وكذلك علّم الشعب أن يهيء قلبه لإعلانات الله (<a href=\"https://ref.ly/Ezra7:10\">عزرا 7:10</a>). كان معلمًا وقائدًا خادمًا، وليس مسؤولًا متعجرفًا يسيطر على الآخرين.</p><p>أظهر عزرا تكريسه وأمانته للرب بالصلاة والصوم. وقد جسد هذا التكريس رغبته العميقة في مساعدة الشعب على اتباع الله. وكان مثالًا يحتذى به للحياة في المجتمع اليهودي بعد السبي، إذا كانت أولى أولياته هي كلمة الله والعبادة.</p><p><u>مقاطع كتابية لدراسة أعمق</u></p><p><a href=\"https://ref.ly/Ezra7:1-Ezra10:44\">عزرا 7:1–10:44</a>؛ <a href=\"https://ref.ly/Neh8:1-Neh8:18\">نحميا 8:1–18</a>؛ <a href=\"https://ref.ly/Neh12:1\">12:1</a>، <a href=\"https://ref.ly/Neh12:26\">26</a>، <a href=\"https://ref.ly/Neh12:36\">36</a>.</p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "15007006",
-          "start_ref_usfm": "EZR 7:6",
-          "end_ref": "15007006",
-          "end_ref_usfm": "EZR 7:6"
-        },
-        {
-          "start_ref": "15007009",
-          "start_ref_usfm": "EZR 7:9",
-          "end_ref": "15007009",
-          "end_ref_usfm": "EZR 7:9"
-        },
-        {
-          "start_ref": "15007010",
-          "start_ref_usfm": "EZR 7:10",
-          "end_ref": "15007010",
-          "end_ref_usfm": "EZR 7:10"
-        },
-        {
-          "start_ref": "15007028",
-          "start_ref_usfm": "EZR 7:28",
-          "end_ref": "15007028",
-          "end_ref_usfm": "EZR 7:28"
-        },
-        {
-          "start_ref": "15008018",
-          "start_ref_usfm": "EZR 8:18",
-          "end_ref": "15008018",
-          "end_ref_usfm": "EZR 8:18"
-        },
-        {
-          "start_ref": "15008022",
-          "start_ref_usfm": "EZR 8:22",
-          "end_ref": "15008022",
-          "end_ref_usfm": "EZR 8:22"
-        },
-        {
-          "start_ref": "15008031",
-          "start_ref_usfm": "EZR 8:31",
-          "end_ref": "15008031",
-          "end_ref_usfm": "EZR 8:31"
-        },
-        {
-          "start_ref": "15010006",
-          "start_ref_usfm": "EZR 10:6",
-          "end_ref": "15010006",
-          "end_ref_usfm": "EZR 10:6"
-        },
-        {
-          "start_ref": "16006015",
-          "start_ref_usfm": "NEH 6:15",
-          "end_ref": "16006015",
-          "end_ref_usfm": "NEH 6:15"
-        },
-        {
-          "start_ref": "16008002",
-          "start_ref_usfm": "NEH 8:2",
-          "end_ref": "16008002",
-          "end_ref_usfm": "NEH 8:2"
-        },
-        {
-          "start_ref": "16008009",
-          "start_ref_usfm": "NEH 8:9",
-          "end_ref": "16008009",
-          "end_ref_usfm": "NEH 8:9"
-        },
-        {
-          "start_ref": "16012001",
-          "start_ref_usfm": "NEH 12:1",
-          "end_ref": "16012001",
-          "end_ref_usfm": "NEH 12:1"
-        },
-        {
-          "start_ref": "16012026",
-          "start_ref_usfm": "NEH 12:26",
-          "end_ref": "16012026",
-          "end_ref_usfm": "NEH 12:26"
-        },
-        {
-          "start_ref": "16012036",
-          "start_ref_usfm": "NEH 12:36",
-          "end_ref": "16012036",
-          "end_ref_usfm": "NEH 12:36"
-        },
-        {
-          "start_ref": "15007001",
-          "start_ref_usfm": "EZR 7:1",
-          "end_ref": "15007005",
-          "end_ref_usfm": "EZR 7:5"
-        },
-        {
-          "start_ref": "15009001",
-          "start_ref_usfm": "EZR 9:1",
-          "end_ref": "15010044",
-          "end_ref_usfm": "EZR 10:44"
-        },
-        {
-          "start_ref": "15007001",
-          "start_ref_usfm": "EZR 7:1",
-          "end_ref": "15010044",
-          "end_ref_usfm": "EZR 10:44"
-        },
-        {
-          "start_ref": "15007011",
-          "start_ref_usfm": "EZR 7:11",
-          "end_ref": "15007012",
-          "end_ref_usfm": "EZR 7:12"
-        },
-        {
-          "start_ref": "15008024",
-          "start_ref_usfm": "EZR 8:24",
-          "end_ref": "15008030",
-          "end_ref_usfm": "EZR 8:30"
-        },
-        {
-          "start_ref": "15009008",
-          "start_ref_usfm": "EZR 9:8",
-          "end_ref": "15009009",
-          "end_ref_usfm": "EZR 9:9"
-        },
-        {
-          "start_ref": "15009005",
-          "start_ref_usfm": "EZR 9:5",
-          "end_ref": "15009015",
-          "end_ref_usfm": "EZR 9:15"
-        },
-        {
-          "start_ref": "16008013",
-          "start_ref_usfm": "NEH 8:13",
-          "end_ref": "16008015",
-          "end_ref_usfm": "NEH 8:15"
-        },
-        {
-          "start_ref": "15007015",
-          "start_ref_usfm": "EZR 7:15",
-          "end_ref": "15007020",
-          "end_ref_usfm": "EZR 7:20"
-        },
-        {
-          "start_ref": "15008021",
-          "start_ref_usfm": "EZR 8:21",
-          "end_ref": "15008023",
-          "end_ref_usfm": "EZR 8:23"
-        },
-        {
-          "start_ref": "16008001",
-          "start_ref_usfm": "NEH 8:1",
-          "end_ref": "16008018",
-          "end_ref_usfm": "NEH 8:18"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Ezra",
-          "type": "person",
-          "preferred_label": "عَزْرَا",
-          "confidence": 0.6607,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Azariah.6",
-          "type": "person",
-          "preferred_label": "عَزَرْيَا",
-          "confidence": 0.6028,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Ezra.2",
-          "type": "person",
-          "preferred_label": "عَزْرَا",
-          "confidence": 0.6028,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Azariah.19",
-          "type": "person",
-          "preferred_label": "عَزَرْيَا",
-          "confidence": 0.6028,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Azariah.7",
-          "type": "person",
-          "preferred_label": "عَزَرْيَا",
-          "confidence": 0.6028,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Zechariah.20",
-          "type": "person",
-          "preferred_label": "زَكَرِيَّا",
-          "confidence": 0.5263,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Zerahiah.2",
-          "type": "person",
-          "preferred_label": "زَرَحْيَا",
-          "confidence": 0.5263,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Zerahiah",
-          "type": "person",
-          "preferred_label": "زَرَحْيَا",
-          "confidence": 0.5263,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Azarel.5",
-          "type": "person",
-          "preferred_label": "عَزَرْئِيل",
-          "confidence": 0.5263,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Zechariah.18",
-          "type": "person",
-          "preferred_label": "زَكَرِيَّا",
-          "confidence": 0.5263,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Aziza",
-          "type": "person",
-          "preferred_label": "عَزِيزَا",
-          "confidence": 0.5263,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Zechariah.22",
-          "type": "person",
-          "preferred_label": "زَكَرِيَّا",
-          "confidence": 0.5263,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Zechariah.19",
-          "type": "person",
-          "preferred_label": "زَكَرِيَّا",
-          "confidence": 0.5263,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Zechariah.21",
-          "type": "person",
-          "preferred_label": "زَكَرِيَّا",
-          "confidence": 0.5263,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Azarel.4",
-          "type": "person",
-          "preferred_label": "عَزَرْئِيل",
-          "confidence": 0.5263,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "726085",
-    "reference_id": 203456,
-    "version": "1.0.2",
-    "title": "عُزِّيَّا",
-    "media_type": "Text",
-    "index_reference": "عُزِّيَّا",
-    "language": "arb",
-    "review_level": "None",
-    "content": "<p><span>عُزِّيَّا </span>كان ابن <span>أَمَصْيَا ويَكُلْيَا</span>. حكم يهوذا مدة 52 عامًا، من 792 إلى 740 قبل الميلاد (انظر <a href=\"https://ref.ly/2Kgs14:21-2Kgs14:22\">2ملوك 14:21–22</a>؛ <a href=\"https://ref.ly/2Kgs15:1-2Kgs15:2\">15:1–2</a>؛ <a href=\"https://ref.ly/2Chr26:1-2Chr26:3\">2أخبار الأيام 26:1–3</a>). اشترك مع والده في الحُكم في سن السادسة عشرة لمدة حوالي 25 عامًا. بعدما قُتل والده، انفرد عزّيّا بالحكم. كان ملكًا مقتدرًا، نشيطًا، ومنظمًا جيدًا وأرضى الرب في معظم فترة حكمه.</p><p>طيلة معظم فترة حكم عزّيّا، كان يربعام الثاني يحكم المملكة الشمالية لإسرائيل من 793 إلى 753 قبل الميلاد. كان كلا الملكين ناجحين، وحققا لإسرائيل ويهوذا مدة طويلة من الازدهار والرخاء. نجح عزّيّا في محاربة الفلسطينيين وبنى تحصينات كثيرة في أورشليم وفي جميع أنحاء يهوذا. لقد &quot;<span>كَانَ يَطْلُبُ ٱللهَ&quot;</span> (<a href=\"https://ref.ly/2Chr26:5\">2أخبار الأيام 26:5</a>)، وكلما فعل ذلك، باركه الرب كل تعبه، وأنجحه.</p><p>نشط أنبياء كثيرون في فترة حكم عزّيّا. فتنبأ عاموس وهوشع في أثناء حياته (<a href=\"https://ref.ly/Hos1:1\">هوشع 1:1</a>؛ <a href=\"https://ref.ly/Amos1:1\">عاموس 1:1</a>)، مع أنّ معظم رسائلهم كانت موجهة إلى المملكة الشمالية. تلقى النبي إشعياء دعوته في السنة التي توفي فيها عزّيّا (<a href=\"https://ref.ly/Isa1:1\">إشعياء 1:1</a>؛ <a href=\"https://ref.ly/Isa6:1\">6:1</a>).</p><p>تفاخر <span>عُزِّيَّا</span> بتعدد نجاحاته، مما أدى إلى سقوطه (<a href=\"https://ref.ly/2Chr26:16\">2أخبار الأيام 26:16</a>). تصرف وكأنه كاهن ودخل منطقة القدس داخل الهيكل <span>لِيُوقِدَ عَلَى مَذْبَحِ ٱلْبَخُور</span>. حاول الكهنة منعه من أن يخطئ ضد الرب، لكنه تجاهل تحذيراتهم بسخطٍ شديد. وبسبب عِصْيَان عُزِّيَّا، ضربه الله بالبرص، وكان عليه أن يعيش بقية حياته في عزلة. دُفن عزّيّا مع <span>آبَائِه</span>، ولكن على مسافة بعيدة بسبب برصه (<a href=\"https://ref.ly/2Chr26:23\">2أخبار الأيام 26:23</a>).</p><p><u>مقاطع كتابية لدراسة أعمق</u></p><p><a href=\"https://ref.ly/2Kgs14:21-2Kgs14:22\">2ملوك 14:21–22</a>؛ <a href=\"https://ref.ly/2Kgs15:1-2Kgs15:7\">15:1–7</a>؛ <a href=\"https://ref.ly/2Chr26:1-2Chr26:23\">2أخبار الأيام  26:1–23</a>؛ <a href=\"https://ref.ly/Isa1:1\">إشعياء 1:1</a>؛ <a href=\"https://ref.ly/Isa6:1\">6:1</a>؛ <a href=\"https://ref.ly/Hos1:1\">هوشع 1:1</a>؛ <a href=\"https://ref.ly/Amos1:1\">عاموس 1:1</a>؛ <a href=\"https://ref.ly/Zech14:5\">زكريّا 14:5</a>.</p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "14026005",
-          "start_ref_usfm": "2CH 26:5",
-          "end_ref": "14026005",
-          "end_ref_usfm": "2CH 26:5"
-        },
-        {
-          "start_ref": "14026016",
-          "start_ref_usfm": "2CH 26:16",
-          "end_ref": "14026016",
-          "end_ref_usfm": "2CH 26:16"
-        },
-        {
-          "start_ref": "14026023",
-          "start_ref_usfm": "2CH 26:23",
-          "end_ref": "14026023",
-          "end_ref_usfm": "2CH 26:23"
-        },
-        {
-          "start_ref": "23001001",
-          "start_ref_usfm": "ISA 1:1",
-          "end_ref": "23001001",
-          "end_ref_usfm": "ISA 1:1"
-        },
-        {
-          "start_ref": "23006001",
-          "start_ref_usfm": "ISA 6:1",
-          "end_ref": "23006001",
-          "end_ref_usfm": "ISA 6:1"
-        },
-        {
-          "start_ref": "28001001",
-          "start_ref_usfm": "HOS 1:1",
-          "end_ref": "28001001",
-          "end_ref_usfm": "HOS 1:1"
-        },
-        {
-          "start_ref": "30001001",
-          "start_ref_usfm": "AMO 1:1",
-          "end_ref": "30001001",
-          "end_ref_usfm": "AMO 1:1"
-        },
-        {
-          "start_ref": "38014005",
-          "start_ref_usfm": "ZEC 14:5",
-          "end_ref": "38014005",
-          "end_ref_usfm": "ZEC 14:5"
-        },
-        {
-          "start_ref": "12015001",
-          "start_ref_usfm": "2KI 15:1",
-          "end_ref": "12015007",
-          "end_ref_usfm": "2KI 15:7"
-        },
-        {
-          "start_ref": "12014021",
-          "start_ref_usfm": "2KI 14:21",
-          "end_ref": "12014022",
-          "end_ref_usfm": "2KI 14:22"
-        },
-        {
-          "start_ref": "14026001",
-          "start_ref_usfm": "2CH 26:1",
-          "end_ref": "14026023",
-          "end_ref_usfm": "2CH 26:23"
-        },
-        {
-          "start_ref": "12015001",
-          "start_ref_usfm": "2KI 15:1",
-          "end_ref": "12015002",
-          "end_ref_usfm": "2KI 15:2"
-        },
-        {
-          "start_ref": "14026001",
-          "start_ref_usfm": "2CH 26:1",
-          "end_ref": "14026003",
-          "end_ref_usfm": "2CH 26:3"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Uzziah",
-          "type": "person",
-          "preferred_label": "عزِّيَّا",
-          "confidence": 0.7127,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Azariah.9",
-          "type": "person",
-          "preferred_label": "عَزَرْيَا",
-          "confidence": 0.6216,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Maaseiah.3",
-          "type": "person",
-          "preferred_label": "مَعْسِيَّا",
-          "confidence": 0.5343,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Zechariah.13",
-          "type": "person",
-          "preferred_label": "زَكَرِيَّا",
-          "confidence": 0.5343,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "726032",
-    "reference_id": 203403,
-    "version": "1.0.2",
-    "title": "عِيسُو",
-    "media_type": "Text",
-    "index_reference": "عِيسُو",
-    "language": "arb",
-    "review_level": "None",
-    "content": "<p>عيسو هو ابن إسحاق ورفقة، والأخ التوأم الأكبر ليعقوب (<a href=\"https://ref.ly/Gen25:24-Gen25:26\">تكوين 25:24–26</a>). سُمّي عيسو لأنه كان مُشعرًا عند ولادته. أصبح نسله يعرف بالأدوميين. &quot;أدوم&quot; تعني &quot;أحمر&quot;، في إشارة إلى:</p><ul><li><p>لون عيسو الأحمر عند ولادته (<a href=\"https://ref.ly/Gen25:25\">تكوين 25:25</a>)</p></li><li><p>حِساء العدس الأحمر الذي حصل عليه من يعقوب (<a href=\"https://ref.ly/Gen25:30\">تكوين 25:30</a>)</p></li><li><p>لون الأرض المائل إلى الحُمرة التي أقام فيها (انظر <span data-bnType=\"resourceReference\" data-resourceId=\"11684\" data-resourceType=\"TyndaleStudyNotes\">ملاحظة الدراسة حول تكوين 25:25</span>)</p></li></ul><p>كان عيسو صيادًا ماهرًا يجلب لحمًا بريًّا شهي إلى أبيه. كان إسحاق يفضل طعم اللحم الدسم القوّي عن مذاق اللحم الخفيف الذي كان يعقوب يوفره من قطعان العائلة. في إحدى الأيام، عاد عيسو إلى البيت جائعًا جدًا بعد رحلة صيد غير ناجحة. أقنع يعقوب عيسو بالتخلي عن حقوقه وامتيازاته كونه البكر مقابل الطعام (<a href=\"https://ref.ly/Gen25:29-Gen25:34\">تكوين 25:29–34</a>). لم يكن عيسو يقدّر حقوق البكورية، إذ كانت رغباته وشهواته الجسدية هي ما تحرّكه (انظر <a href=\"https://ref.ly/Heb12:16\">عبرانيين 12:16</a>).</p><p>تزوج عيسو امرأتين من المنطقة التي يسكن فيه، ولم تكونا من نسل إبراهيم (<a href=\"https://ref.ly/Gen26:34-Gen26:35\">تكوين 26:34–35</a>). ربما هذا الأمر كان سبب تفضيل رفقة ليعقوب وتدبيرها لانتزاع بركة إسحاق التي كانت من نصيب عيسو (<a href=\"https://ref.ly/Gen27:1-Gen27:40\">تكوين 27:1–40</a>). حين اكتشف عيسو خداع أخيه له، غضب عيسو غضبًا شديدًا حتى إن يعقوب هرب من وجه عيسو إلى حاران. واجتمع الأخوان بعد عشرين عامًا عندما أظهر عيسو غفرانه لأخيه، وترأف به. (<a href=\"https://ref.ly/Gen33:1-Gen33:16\">تكوين 33:1–16</a>).</p><p>وُلد عيسو، ويعقوب مُمسِكًا بعقبه، ورأى الناس في تلك الحادثة إشارة إلى أن نسل عيسو سيكون عبيدًا لنسل يعقوب. في عهد داود بدأ الأدوميون في خدمة بني إسرائيل، أي عبيدًا لهم (<a href=\"https://ref.ly/2Sam8:11-2Sam8:15\">2 صموئيل 8:11–15</a>؛ <a href=\"https://ref.ly/1Chr18:11-1Chr18:13\">1 أخبار الأيام 18:11–13</a>) واستمر ذلك حتى عهد يهورام (<a href=\"https://ref.ly/2Kgs8:20-2Kgs8:22\">2 ملوك 8:20–22</a>؛ <a href=\"https://ref.ly/2Chr21:8-2Chr21:10\">2 أخبار الأيام 21:8–10</a>). بعد تمرد حدث في عام 845 قبل الميلاد، حصل الأدوميون على حريّة مؤقتة، لكنهم هُزموا مرة أخرى على يدّ أمصيا، الذي حكم من 796 إلى 767 قبل الميلاد. ثم استعادوا حريتهم في عام 735 قبل الميلاد وظلوا مستقلين بعيدًا عن يهوذا.</p><p>في العهد الجديد، يرمز عيسو إلى نسل إبراهيم الذين لم يؤمن بالله ومواعيده، وقد رفضهم الله نتيجة لبركات الموعد (انظر <a href=\"https://ref.ly/Rom9:6-Rom9:24\">رومية 9:6–24</a>). وقد كان هيرودس الكبير من الأدوميين.</p><p><u>مقاطع كتابية لدراسة أعمق</u></p><p><a href=\"https://ref.ly/Gen25:21-Gen25:34\">تكوين 25:21–34</a>؛ <a href=\"https://ref.ly/Gen26:34-Gen26:35\">26:34–35</a>؛ <a href=\"https://ref.ly/Gen27:1-Gen27:42\">27:1–42</a>؛ <a href=\"https://ref.ly/Gen28:6-Gen28:9\">28:6–9</a>؛ <a href=\"https://ref.ly/Gen32:3-Gen32:20\">32:3–20</a>؛ <a href=\"https://ref.ly/Gen33:1-Gen33:16\">33:1–16</a>؛ <a href=\"https://ref.ly/Gen35:28-Gen35:29\">35:28–29</a>؛ <a href=\"https://ref.ly/Gen36:1-Gen36:43\">36:1–43</a>؛ <a href=\"https://ref.ly/Deut2:1-Deut2:8\">تثنية 2:1–8</a>، <a href=\"https://ref.ly/Deut2:12\">12</a>، <a href=\"https://ref.ly/Deut2:22\">22</a>، <a href=\"https://ref.ly/Deut2:29\">29</a>؛ <a href=\"https://ref.ly/Josh24:4\">يشوع 24:4</a>؛ <a href=\"https://ref.ly/Mal1:2-Mal1:5\">ملاخي 1:2–5</a>؛ <a href=\"https://ref.ly/Rom9:6-Rom9:13\">رومية 9:6–13</a>؛ <a href=\"https://ref.ly/Heb11:20\">العبرانيين 11:20</a>؛ <a href=\"https://ref.ly/Heb12:16-Heb12:17\">12:16–17</a>.</p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01025025",
-          "start_ref_usfm": "GEN 25:25",
-          "end_ref": "01025025",
-          "end_ref_usfm": "GEN 25:25"
-        },
-        {
-          "start_ref": "01025030",
-          "start_ref_usfm": "GEN 25:30",
-          "end_ref": "01025030",
-          "end_ref_usfm": "GEN 25:30"
-        },
-        {
-          "start_ref": "05002012",
-          "start_ref_usfm": "DEU 2:12",
-          "end_ref": "05002012",
-          "end_ref_usfm": "DEU 2:12"
-        },
-        {
-          "start_ref": "05002022",
-          "start_ref_usfm": "DEU 2:22",
-          "end_ref": "05002022",
-          "end_ref_usfm": "DEU 2:22"
-        },
-        {
-          "start_ref": "05002029",
-          "start_ref_usfm": "DEU 2:29",
-          "end_ref": "05002029",
-          "end_ref_usfm": "DEU 2:29"
-        },
-        {
-          "start_ref": "06024004",
-          "start_ref_usfm": "JOS 24:4",
-          "end_ref": "06024004",
-          "end_ref_usfm": "JOS 24:4"
-        },
-        {
-          "start_ref": "58011020",
-          "start_ref_usfm": "HEB 11:20",
-          "end_ref": "58011020",
-          "end_ref_usfm": "HEB 11:20"
-        },
-        {
-          "start_ref": "58012016",
-          "start_ref_usfm": "HEB 12:16",
-          "end_ref": "58012016",
-          "end_ref_usfm": "HEB 12:16"
-        },
-        {
-          "start_ref": "58012016",
-          "start_ref_usfm": "HEB 12:16",
-          "end_ref": "58012017",
-          "end_ref_usfm": "HEB 12:17"
-        },
-        {
-          "start_ref": "01036001",
-          "start_ref_usfm": "GEN 36:1",
-          "end_ref": "01036043",
-          "end_ref_usfm": "GEN 36:43"
-        },
-        {
-          "start_ref": "12008020",
-          "start_ref_usfm": "2KI 8:20",
-          "end_ref": "12008022",
-          "end_ref_usfm": "2KI 8:22"
-        },
-        {
-          "start_ref": "01025024",
-          "start_ref_usfm": "GEN 25:24",
-          "end_ref": "01025026",
-          "end_ref_usfm": "GEN 25:26"
-        },
-        {
-          "start_ref": "01025029",
-          "start_ref_usfm": "GEN 25:29",
-          "end_ref": "01025034",
-          "end_ref_usfm": "GEN 25:34"
-        },
-        {
-          "start_ref": "01026034",
-          "start_ref_usfm": "GEN 26:34",
-          "end_ref": "01026035",
-          "end_ref_usfm": "GEN 26:35"
-        },
-        {
-          "start_ref": "10008011",
-          "start_ref_usfm": "2SA 8:11",
-          "end_ref": "10008015",
-          "end_ref_usfm": "2SA 8:15"
-        },
-        {
-          "start_ref": "14021008",
-          "start_ref_usfm": "2CH 21:8",
-          "end_ref": "14021010",
-          "end_ref_usfm": "2CH 21:10"
-        },
-        {
-          "start_ref": "39001002",
-          "start_ref_usfm": "MAL 1:2",
-          "end_ref": "39001005",
-          "end_ref_usfm": "MAL 1:5"
-        },
-        {
-          "start_ref": "05002001",
-          "start_ref_usfm": "DEU 2:1",
-          "end_ref": "05002008",
-          "end_ref_usfm": "DEU 2:8"
-        },
-        {
-          "start_ref": "01027001",
-          "start_ref_usfm": "GEN 27:1",
-          "end_ref": "01027040",
-          "end_ref_usfm": "GEN 27:40"
-        },
-        {
-          "start_ref": "01028006",
-          "start_ref_usfm": "GEN 28:6",
-          "end_ref": "01028009",
-          "end_ref_usfm": "GEN 28:9"
-        },
-        {
-          "start_ref": "01033001",
-          "start_ref_usfm": "GEN 33:1",
-          "end_ref": "01033016",
-          "end_ref_usfm": "GEN 33:16"
-        },
-        {
-          "start_ref": "13018011",
-          "start_ref_usfm": "1CH 18:11",
-          "end_ref": "13018013",
-          "end_ref_usfm": "1CH 18:13"
-        },
-        {
-          "start_ref": "45009006",
-          "start_ref_usfm": "ROM 9:6",
-          "end_ref": "45009024",
-          "end_ref_usfm": "ROM 9:24"
-        },
-        {
-          "start_ref": "01025021",
-          "start_ref_usfm": "GEN 25:21",
-          "end_ref": "01025034",
-          "end_ref_usfm": "GEN 25:34"
-        },
-        {
-          "start_ref": "01027001",
-          "start_ref_usfm": "GEN 27:1",
-          "end_ref": "01027042",
-          "end_ref_usfm": "GEN 27:42"
-        },
-        {
-          "start_ref": "01032003",
-          "start_ref_usfm": "GEN 32:3",
-          "end_ref": "01032020",
-          "end_ref_usfm": "GEN 32:20"
-        },
-        {
-          "start_ref": "01035028",
-          "start_ref_usfm": "GEN 35:28",
-          "end_ref": "01035029",
-          "end_ref_usfm": "GEN 35:29"
-        },
-        {
-          "start_ref": "45009006",
-          "start_ref_usfm": "ROM 9:6",
-          "end_ref": "45009013",
-          "end_ref_usfm": "ROM 9:13"
-        }
-      ],
-      "resource": [
-        {
-          "reference_id": 11684,
-          "content_id": 160437,
-          "resource_code": "TyndaleStudyNotes",
-          "label": "تكوين 25: 25",
-          "language": "arb"
-        }
-      ],
-      "acai": [
-        {
-          "id": "person:Esau",
-          "type": "person",
-          "preferred_label": "عِيسوَ",
-          "confidence": 0.6111,
-          "match_method": "scored"
-        },
-        {
-          "id": "place:Avith",
-          "type": "place",
-          "preferred_label": "عَوِيتَ",
-          "confidence": 0.5256,
-          "match_method": "scored"
-        }
-      ]
-    }
-  }
+{
+"content_id": "726060",
+"reference_id": 203431,
+"version": "1.0.2",
+"title": "العَمَالِيق",
+"media_type": "Text",
+"index_reference": "العَمَالِيق",
+"language": "arb",
+"review_level": "None",
+"content": "<p>كان العَمَالِيق من نسل عَمَالِيق، حفيد عيسو (<a href=\"https://ref.ly/Gen36:12\">تكوين 36:12</a>؛ <a href=\"https://ref.ly/1Chr1:36\">1أخبار الأيام 1:36</a>). كانوا رعاة بدويين، وامتدت أراضيهم في الجَنُوب من جَنُوب بئر السبع إلى الجَنُوب الشرقي، وصولًا إلى <span>أَيْلَة</span> و<span>عِصْيُون جَابَر</span>. ويُحتمل أنهم شنوا غارات على السهل الساحلي غربًا، وبرية العربة شرقًا، وربما العربية أيضًا.</p><p>كان ال<span>عَمَالِيق </span>أعداء أقوياء لإسرائيل. التقى إسرائيل أول مرة بمحاربي عَمَالِيق في رفيديم بالقرب من سيناء عندما هاجموا إسرائيل (<a href=\"https://ref.ly/Exod17:8-Exod17:16\">خروج 17:8–16</a>). هزم يشوع وجيش إسرائيل العَمَالِيق في تلك المعركة. لاحقًا، أوقف العَمَالِيق محاولة إسرائيل (في عصيانها) لدخول أرض الموعد (<a href=\"https://ref.ly/Num14:39-Num14:45\">عدد 14:39–45</a>).</p><p>بسبب حقد العَمَالِيق وعداوتهم، أمر موسى إسرائيل بإهلاكهم [محو ذكرهم من تحت السماء] (<a href=\"https://ref.ly/Deut25:17-Deut25:19\">تثنية 25:17–19</a>). ومع ذلك، استمر العمالقة في العيش في الجَنُوب [النّقب] (انظر <a href=\"https://ref.ly/Judg3:12-Judg3:14\">قضاة 3:12–14</a>؛ <a href=\"https://ref.ly/Judg6:33\">6:33</a>؛ <a href=\"https://ref.ly/1Sam14:47-1Sam14:48\">1صموئيل 14:47–48</a>؛ <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">15:1–35</a>). أولئك الذين نجوا من العَمَالِيق ظلوا أعداء لإسرائيل (<a href=\"https://ref.ly/1Sam27:8\">1صموئيل 27:8</a>؛ <a href=\"https://ref.ly/1Sam30:1-1Sam30:20\">30:1–20</a>؛ <a href=\"https://ref.ly/2Sam8:11-2Sam8:12\">2صموئيل 8:11–12</a>؛ <a href=\"https://ref.ly/Ps83:1-Ps83:8\">مزمور 83:1–8</a>). وأُفنيت هذه المجموعة المتبقية في النهاية في أثناء حكم الملك حزقيّا (<a href=\"https://ref.ly/1Chr4:42-1Chr4:43\">1أخبار الأيام 4:42–43</a>). في سفر أستير، أظهر هامان، الذي كان من نسل الملك أجاج، عداوتهم إلى آخر لحظة (<a href=\"https://ref.ly/Esth3:1-Esth3:15\">أستير 3</a>؛ انظر <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">1صموئيل 15</a>).</p><p><u>مقاطع كتابية لدراسة أعمق</u></p><p><a href=\"https://ref.ly/1Sam30:1-1Sam30:31\">1صموئيل 30:1–31</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01036012",
+"start_ref_usfm": "GEN 36:12",
+"end_ref": "01036012",
+"end_ref_usfm": "GEN 36:12"
+},
+{
+"start_ref": "07006033",
+"start_ref_usfm": "JDG 6:33",
+"end_ref": "07006033",
+"end_ref_usfm": "JDG 6:33"
+},
+{
+"start_ref": "09027008",
+"start_ref_usfm": "1SA 27:8",
+"end_ref": "09027008",
+"end_ref_usfm": "1SA 27:8"
+},
+{
+"start_ref": "13001036",
+"start_ref_usfm": "1CH 1:36",
+"end_ref": "13001036",
+"end_ref_usfm": "1CH 1:36"
+},
+{
+"start_ref": "02017008",
+"start_ref_usfm": "EXO 17:8",
+"end_ref": "02017016",
+"end_ref_usfm": "EXO 17:16"
+},
+{
+"start_ref": "09015001",
+"start_ref_usfm": "1SA 15:1",
+"end_ref": "09015035",
+"end_ref_usfm": "1SA 15:35"
+},
+{
+"start_ref": "04014039",
+"start_ref_usfm": "NUM 14:39",
+"end_ref": "04014045",
+"end_ref_usfm": "NUM 14:45"
+},
+{
+"start_ref": "05025017",
+"start_ref_usfm": "DEU 25:17",
+"end_ref": "05025019",
+"end_ref_usfm": "DEU 25:19"
+},
+{
+"start_ref": "07003012",
+"start_ref_usfm": "JDG 3:12",
+"end_ref": "07003014",
+"end_ref_usfm": "JDG 3:14"
+},
+{
+"start_ref": "09014047",
+"start_ref_usfm": "1SA 14:47",
+"end_ref": "09014048",
+"end_ref_usfm": "1SA 14:48"
+},
+{
+"start_ref": "09030001",
+"start_ref_usfm": "1SA 30:1",
+"end_ref": "09030020",
+"end_ref_usfm": "1SA 30:20"
+},
+{
+"start_ref": "10008011",
+"start_ref_usfm": "2SA 8:11",
+"end_ref": "10008012",
+"end_ref_usfm": "2SA 8:12"
+},
+{
+"start_ref": "17003001",
+"start_ref_usfm": "EST 3:1",
+"end_ref": "17003015",
+"end_ref_usfm": "EST 3:15"
+},
+{
+"start_ref": "09030001",
+"start_ref_usfm": "1SA 30:1",
+"end_ref": "09030031",
+"end_ref_usfm": "1SA 30:31"
+},
+{
+"start_ref": "13004042",
+"start_ref_usfm": "1CH 4:42",
+"end_ref": "13004043",
+"end_ref_usfm": "1CH 4:43"
+},
+{
+"start_ref": "19083001",
+"start_ref_usfm": "PSA 83:1",
+"end_ref": "19083008",
+"end_ref_usfm": "PSA 83:8"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Amalek",
+"type": "place",
+"preferred_label": "عَمَالِيقَ",
+"confidence": 0.6428,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "726055",
+"reference_id": 203426,
+"version": "1.0.2",
+"title": "عالي",
+"media_type": "Text",
+"index_reference": "عالي",
+"language": "arb",
+"review_level": "None",
+"content": "<p>كان عالي رئيس كهنة لإسرائيل في خيمة الاجتماع في شيلوه، التي كانت المركز الرئيس للعبادة في زمن القضاة. يرجح أن عالي كان من نسل <span>إِيثَامَار</span>، الابن الأصغر لهارون (انظر <a href=\"https://ref.ly/1Kgs2:27\">1ملوك 2:27</a>؛ <a href=\"https://ref.ly/1Chr18:16\">1أخبار الأيام 18:16</a>؛ <a href=\"https://ref.ly/1Chr24:3\">24:3</a>). كان عالي مخلصًا وتقيًّا، لكنه واجه صعوبة بالغة في تربيّة أبنائه الأشرار وتأديبهم، حُفْنِي وفِينَحَاس.</p><p>عندما التقى عالي بحنّة عند خيمة الاجتماع، ظنّ خطأً أنها كانت سكرى لأنها كانت تصلي في صمت من أجل أن يرزقها الله طفلًا. وبعد أن أدرك عالي خطأه، بارك حنّة. استجاب الله لصلاتها وأعطاها ابنًا أسمته صموئيل.</p><p>حَظِيَ صموئيل برضا الرب والناس (<a href=\"https://ref.ly/1Sam2:26\">1صموئيل 2:26</a>). أما أبناء عالي فكانوا مزدرين وغير أمناء (<a href=\"https://ref.ly/1Sam2:12\">1صموئيل 2:12</a>). كانوا يسرقون من التقدمات ويغوون النساء اللواتي يخدمن عند باب خيمة الاجتماع. عندما وبّخهم عالي، لم يبالوا به. أرسل الله نبيًا لينتقد ضعف عالي وشرور أبنائه، معلنًا أن الله سيزيل الكهنوت عن عائلة عالي (<a href=\"https://ref.ly/1Sam2:27-1Sam2:36\">1صموئيل 2:27–36</a>). تأيدت هذه الرسالة حين تكلم الله إلى صموئيل ذات ليلة، وأخبره أنه سيعاقب قريبًا عائلة عالي (<a href=\"https://ref.ly/1Sam3:1-1Sam3:14\">1 صموئيل 3:1–14</a>).</p><p>بعد<span> فترة وجيزة</span>، هُزم جيش إسرائيل في معركة أمام الفلسطينيين، الذين استولوا على تابوت العهد، <span>وماتَ ابْنا عَالي حُفْنِي وفِينَحَاس.</span> (<a href=\"https://ref.ly/1Sam4:1-1Sam4:11\">1 صموئيل 4:1–11</a>). عندما علم عالي، الذي كان يبلغ من العمر ثمانية وتسعين عامًا بخبر موت ابنيه سقط إلى الوراء وانكسرت رقبته فمات (<a href=\"https://ref.ly/1Sam4:12-1Sam4:18\">1 صموئيل 4:12–18</a>). حينها فاجأ مخاض الولادة زوجة ابنه-ا<span>مرَأَة فِينَحَاس</span>، وماتت في أثناء ولادة حفيد عالي، الذي أطلق عليه اسم إِيخَابُود (بمعنى &quot;أين المَجْد؟&quot;، لأن المجد قد زال عن إسرائيل) (<a href=\"https://ref.ly/1Sam4:19-1Sam4:22\">1صموئيل 4:19–22</a>).</p><p>استمرت عائلة عالي في خدمة الكهنوت حتى وفاة الملك داود. كان أبياثار آخر نسل عالي الذي خدم رئيسًا للكهنة. أزال سليمان أبياثار عن الكهنوت لأن أبياثار كان قد دعم أدونيّا، الذي حاول أن يصبح ملكًا بدلًا من سليمان. ثم عيّن سليمان صادوق رئيسًا للكهنة (<a href=\"https://ref.ly/1Kgs2:27\">1ملوك 2:27</a>).</p><p><span><u>مقاطع كتابية لدراسة أعمق</u></span></p><p><a href=\"https://ref.ly/1Sam1:9-1Sam1:18\">1صموئيل 1:9–18</a>، <a href=\"https://ref.ly/1Sam1:25-1Sam1:28\">25–28</a>؛ <a href=\"https://ref.ly/1Sam2:11-1Sam4:22\">1صموئيل 2:11–4:22</a>؛ <a href=\"https://ref.ly/1Kgs2:27\">1ملوك 2:27.</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09002012",
+"start_ref_usfm": "1SA 2:12",
+"end_ref": "09002012",
+"end_ref_usfm": "1SA 2:12"
+},
+{
+"start_ref": "09002026",
+"start_ref_usfm": "1SA 2:26",
+"end_ref": "09002026",
+"end_ref_usfm": "1SA 2:26"
+},
+{
+"start_ref": "11002027",
+"start_ref_usfm": "1KI 2:27",
+"end_ref": "11002027",
+"end_ref_usfm": "1KI 2:27"
+},
+{
+"start_ref": "13018016",
+"start_ref_usfm": "1CH 18:16",
+"end_ref": "13018016",
+"end_ref_usfm": "1CH 18:16"
+},
+{
+"start_ref": "13024003",
+"start_ref_usfm": "1CH 24:3",
+"end_ref": "13024003",
+"end_ref_usfm": "1CH 24:3"
+},
+{
+"start_ref": "09004001",
+"start_ref_usfm": "1SA 4:1",
+"end_ref": "09004011",
+"end_ref_usfm": "1SA 4:11"
+},
+{
+"start_ref": "09004019",
+"start_ref_usfm": "1SA 4:19",
+"end_ref": "09004022",
+"end_ref_usfm": "1SA 4:22"
+},
+{
+"start_ref": "09002027",
+"start_ref_usfm": "1SA 2:27",
+"end_ref": "09002036",
+"end_ref_usfm": "1SA 2:36"
+},
+{
+"start_ref": "09003001",
+"start_ref_usfm": "1SA 3:1",
+"end_ref": "09003014",
+"end_ref_usfm": "1SA 3:14"
+},
+{
+"start_ref": "09004012",
+"start_ref_usfm": "1SA 4:12",
+"end_ref": "09004018",
+"end_ref_usfm": "1SA 4:18"
+},
+{
+"start_ref": "09001009",
+"start_ref_usfm": "1SA 1:9",
+"end_ref": "09001018",
+"end_ref_usfm": "1SA 1:18"
+},
+{
+"start_ref": "09001025",
+"start_ref_usfm": "1SA 1:25",
+"end_ref": "09001028",
+"end_ref_usfm": "1SA 1:28"
+},
+{
+"start_ref": "09002011",
+"start_ref_usfm": "1SA 2:11",
+"end_ref": "09004022",
+"end_ref_usfm": "1SA 4:22"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "726088",
+"reference_id": 203459,
+"version": "1.0.2",
+"title": "عَزْرَا",
+"media_type": "Text",
+"index_reference": "عَزْرَا",
+"language": "arb",
+"review_level": "None",
+"content": "<p>كان عزرا كاهنًا وكاتبًا (معلمًا وناسخًا للكتاب المقدس)، وينتمي إلى عائلة بارزة من رؤساء الكهنة المنحدرين من صادوق الكاهن (<a href=\"https://ref.ly/Ezra7:1-Ezra7:5\">عزرا 7:1–5،</a> <a href=\"https://ref.ly/Ezra7:11-Ezra7:12\">11–12</a>؛ انظر أيضًا <a href=\"https://ref.ly/Neh8:2\">نحميا 8:2</a>، <a href=\"https://ref.ly/Neh8:9\">9</a>). تولى عزرا زمام القيادة في يهوذا بعد عودة اليهود من السبي. ولم يكن عزرا بدوره كاتبًا مجرد ناسخ فحسب بل كان تلميذًا أمينًا لشريعة الله (<a href=\"https://ref.ly/Ezra7:6\">عزرا 7:6</a>). كان أهلًا للتعليم والوعظ وشرح الكتب (الأسفار) المقدسة.</p><p>عزرا، وهو مسؤول بارز ساعد الملك من جهة الشؤون اليهودية داخل الإمبراطورية الفارسية، زار أورشليم حوالي عام 458 قبل الميلاد. جلب معه أشياء للهيكل وكان يهدف إلى إقامة شريعة الله، ووضع قوانين فارس. كانت إحدى خطواته الأولى معالجة قضية الزواج المختلط مع الجيران غير اليهود (<a href=\"https://ref.ly/Ezra9:1-Ezra10:44\">عزرا 9:1–10:44</a>). ثم بعد إعادة بناء أسوار المدينة في عام 445 قبل الميلاد (<a href=\"https://ref.ly/Neh6:15\">نحميا 6:15</a>)، قاد عزرا المجتمع لاتباع كلام شريعة الله بأكثر تدقيق (<a href=\"https://ref.ly/Neh8:13-Neh8:15\">نحميا 8:13–15</a>).</p><p>لقد أكرم عزرا الله بحُسن إدارته للشؤون المالية. اعتمد الملك الفارسي على أراء عزرا وحكمته، وسمح له بطلب مال أكثر عند الحاجة (<a href=\"https://ref.ly/Ezra7:15-Ezra7:20\">عزرا 7:15–20</a>). وكلّّما أمكن أعطى عزرا مسؤوليات مالية  لآخرين، وطالبهم بنزاهة مالية صارمة (<a href=\"https://ref.ly/Ezra8:24-Ezra8:30\">عزرا 8:24–30</a>). كما قدّس بعض الموارد المالية للرب وخصّصها للرب وحده.</p><p>أظهر عزرا تواضعًا أمام الله عندما بدأ الشعب رحلتهم للعودة (<a href=\"https://ref.ly/Ezra8:21-Ezra8:23\">عزرا 8:21–23</a>)، وعندما علم عن زواج الشعب غير المقدس (<a href=\"https://ref.ly/Ezra9:5-Ezra9:15\">عزرا 9:5–15</a>)، وعندما جمع الذين كان عليهم تطليق زوجاتهم الوثنيات (<a href=\"https://ref.ly/Ezra10:6\">10:6</a>). كان دائمًا يعترف ب<span>يَد ٱلرَّبّ إِلَهِه</span>- وليس قدرته أو حكمته الشخصية - هي التي أحدثت كل الأمور الصالحة (<a href=\"https://ref.ly/Ezra7:6\">عزرا 7:6</a>، <a href=\"https://ref.ly/Ezra7:9\">9</a>، <a href=\"https://ref.ly/Ezra7:28\">28</a>؛ <a href=\"https://ref.ly/Ezra8:18\">8:18</a>، <a href=\"https://ref.ly/Ezra8:22\">22</a>، <a href=\"https://ref.ly/Ezra8:31\">31</a>؛ <a href=\"https://ref.ly/Ezra9:8-Ezra9:9\">9:8–9</a>). لقد هيأ عزرا قلبه لكلمة الله، وقد عمل بها، وكذلك علّم الشعب أن يهيء قلبه لإعلانات الله (<a href=\"https://ref.ly/Ezra7:10\">عزرا 7:10</a>). كان معلمًا وقائدًا خادمًا، وليس مسؤولًا متعجرفًا يسيطر على الآخرين.</p><p>أظهر عزرا تكريسه وأمانته للرب بالصلاة والصوم. وقد جسد هذا التكريس رغبته العميقة في مساعدة الشعب على اتباع الله. وكان مثالًا يحتذى به للحياة في المجتمع اليهودي بعد السبي، إذا كانت أولى أولياته هي كلمة الله والعبادة.</p><p><u>مقاطع كتابية لدراسة أعمق</u></p><p><a href=\"https://ref.ly/Ezra7:1-Ezra10:44\">عزرا 7:1–10:44</a>؛ <a href=\"https://ref.ly/Neh8:1-Neh8:18\">نحميا 8:1–18</a>؛ <a href=\"https://ref.ly/Neh12:1\">12:1</a>، <a href=\"https://ref.ly/Neh12:26\">26</a>، <a href=\"https://ref.ly/Neh12:36\">36</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "15007006",
+"start_ref_usfm": "EZR 7:6",
+"end_ref": "15007006",
+"end_ref_usfm": "EZR 7:6"
+},
+{
+"start_ref": "15007009",
+"start_ref_usfm": "EZR 7:9",
+"end_ref": "15007009",
+"end_ref_usfm": "EZR 7:9"
+},
+{
+"start_ref": "15007010",
+"start_ref_usfm": "EZR 7:10",
+"end_ref": "15007010",
+"end_ref_usfm": "EZR 7:10"
+},
+{
+"start_ref": "15007028",
+"start_ref_usfm": "EZR 7:28",
+"end_ref": "15007028",
+"end_ref_usfm": "EZR 7:28"
+},
+{
+"start_ref": "15008018",
+"start_ref_usfm": "EZR 8:18",
+"end_ref": "15008018",
+"end_ref_usfm": "EZR 8:18"
+},
+{
+"start_ref": "15008022",
+"start_ref_usfm": "EZR 8:22",
+"end_ref": "15008022",
+"end_ref_usfm": "EZR 8:22"
+},
+{
+"start_ref": "15008031",
+"start_ref_usfm": "EZR 8:31",
+"end_ref": "15008031",
+"end_ref_usfm": "EZR 8:31"
+},
+{
+"start_ref": "15010006",
+"start_ref_usfm": "EZR 10:6",
+"end_ref": "15010006",
+"end_ref_usfm": "EZR 10:6"
+},
+{
+"start_ref": "16006015",
+"start_ref_usfm": "NEH 6:15",
+"end_ref": "16006015",
+"end_ref_usfm": "NEH 6:15"
+},
+{
+"start_ref": "16008002",
+"start_ref_usfm": "NEH 8:2",
+"end_ref": "16008002",
+"end_ref_usfm": "NEH 8:2"
+},
+{
+"start_ref": "16008009",
+"start_ref_usfm": "NEH 8:9",
+"end_ref": "16008009",
+"end_ref_usfm": "NEH 8:9"
+},
+{
+"start_ref": "16012001",
+"start_ref_usfm": "NEH 12:1",
+"end_ref": "16012001",
+"end_ref_usfm": "NEH 12:1"
+},
+{
+"start_ref": "16012026",
+"start_ref_usfm": "NEH 12:26",
+"end_ref": "16012026",
+"end_ref_usfm": "NEH 12:26"
+},
+{
+"start_ref": "16012036",
+"start_ref_usfm": "NEH 12:36",
+"end_ref": "16012036",
+"end_ref_usfm": "NEH 12:36"
+},
+{
+"start_ref": "15007001",
+"start_ref_usfm": "EZR 7:1",
+"end_ref": "15007005",
+"end_ref_usfm": "EZR 7:5"
+},
+{
+"start_ref": "15009001",
+"start_ref_usfm": "EZR 9:1",
+"end_ref": "15010044",
+"end_ref_usfm": "EZR 10:44"
+},
+{
+"start_ref": "15007001",
+"start_ref_usfm": "EZR 7:1",
+"end_ref": "15010044",
+"end_ref_usfm": "EZR 10:44"
+},
+{
+"start_ref": "15007011",
+"start_ref_usfm": "EZR 7:11",
+"end_ref": "15007012",
+"end_ref_usfm": "EZR 7:12"
+},
+{
+"start_ref": "15008024",
+"start_ref_usfm": "EZR 8:24",
+"end_ref": "15008030",
+"end_ref_usfm": "EZR 8:30"
+},
+{
+"start_ref": "15009008",
+"start_ref_usfm": "EZR 9:8",
+"end_ref": "15009009",
+"end_ref_usfm": "EZR 9:9"
+},
+{
+"start_ref": "15009005",
+"start_ref_usfm": "EZR 9:5",
+"end_ref": "15009015",
+"end_ref_usfm": "EZR 9:15"
+},
+{
+"start_ref": "16008013",
+"start_ref_usfm": "NEH 8:13",
+"end_ref": "16008015",
+"end_ref_usfm": "NEH 8:15"
+},
+{
+"start_ref": "15007015",
+"start_ref_usfm": "EZR 7:15",
+"end_ref": "15007020",
+"end_ref_usfm": "EZR 7:20"
+},
+{
+"start_ref": "15008021",
+"start_ref_usfm": "EZR 8:21",
+"end_ref": "15008023",
+"end_ref_usfm": "EZR 8:23"
+},
+{
+"start_ref": "16008001",
+"start_ref_usfm": "NEH 8:1",
+"end_ref": "16008018",
+"end_ref_usfm": "NEH 8:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Ezra",
+"type": "person",
+"preferred_label": "عَزْرَا",
+"confidence": 0.6607,
+"match_method": "scored"
+},
+{
+"id": "person:Ezra.2",
+"type": "person",
+"preferred_label": "عَزْرَا",
+"confidence": 0.6028,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "726085",
+"reference_id": 203456,
+"version": "1.0.2",
+"title": "عُزِّيَّا",
+"media_type": "Text",
+"index_reference": "عُزِّيَّا",
+"language": "arb",
+"review_level": "None",
+"content": "<p><span>عُزِّيَّا </span>كان ابن <span>أَمَصْيَا ويَكُلْيَا</span>. حكم يهوذا مدة 52 عامًا، من 792 إلى 740 قبل الميلاد (انظر <a href=\"https://ref.ly/2Kgs14:21-2Kgs14:22\">2ملوك 14:21–22</a>؛ <a href=\"https://ref.ly/2Kgs15:1-2Kgs15:2\">15:1–2</a>؛ <a href=\"https://ref.ly/2Chr26:1-2Chr26:3\">2أخبار الأيام 26:1–3</a>). اشترك مع والده في الحُكم في سن السادسة عشرة لمدة حوالي 25 عامًا. بعدما قُتل والده، انفرد عزّيّا بالحكم. كان ملكًا مقتدرًا، نشيطًا، ومنظمًا جيدًا وأرضى الرب في معظم فترة حكمه.</p><p>طيلة معظم فترة حكم عزّيّا، كان يربعام الثاني يحكم المملكة الشمالية لإسرائيل من 793 إلى 753 قبل الميلاد. كان كلا الملكين ناجحين، وحققا لإسرائيل ويهوذا مدة طويلة من الازدهار والرخاء. نجح عزّيّا في محاربة الفلسطينيين وبنى تحصينات كثيرة في أورشليم وفي جميع أنحاء يهوذا. لقد &quot;<span>كَانَ يَطْلُبُ ٱللهَ&quot;</span> (<a href=\"https://ref.ly/2Chr26:5\">2أخبار الأيام 26:5</a>)، وكلما فعل ذلك، باركه الرب كل تعبه، وأنجحه.</p><p>نشط أنبياء كثيرون في فترة حكم عزّيّا. فتنبأ عاموس وهوشع في أثناء حياته (<a href=\"https://ref.ly/Hos1:1\">هوشع 1:1</a>؛ <a href=\"https://ref.ly/Amos1:1\">عاموس 1:1</a>)، مع أنّ معظم رسائلهم كانت موجهة إلى المملكة الشمالية. تلقى النبي إشعياء دعوته في السنة التي توفي فيها عزّيّا (<a href=\"https://ref.ly/Isa1:1\">إشعياء 1:1</a>؛ <a href=\"https://ref.ly/Isa6:1\">6:1</a>).</p><p>تفاخر <span>عُزِّيَّا</span> بتعدد نجاحاته، مما أدى إلى سقوطه (<a href=\"https://ref.ly/2Chr26:16\">2أخبار الأيام 26:16</a>). تصرف وكأنه كاهن ودخل منطقة القدس داخل الهيكل <span>لِيُوقِدَ عَلَى مَذْبَحِ ٱلْبَخُور</span>. حاول الكهنة منعه من أن يخطئ ضد الرب، لكنه تجاهل تحذيراتهم بسخطٍ شديد. وبسبب عِصْيَان عُزِّيَّا، ضربه الله بالبرص، وكان عليه أن يعيش بقية حياته في عزلة. دُفن عزّيّا مع <span>آبَائِه</span>، ولكن على مسافة بعيدة بسبب برصه (<a href=\"https://ref.ly/2Chr26:23\">2أخبار الأيام 26:23</a>).</p><p><u>مقاطع كتابية لدراسة أعمق</u></p><p><a href=\"https://ref.ly/2Kgs14:21-2Kgs14:22\">2ملوك 14:21–22</a>؛ <a href=\"https://ref.ly/2Kgs15:1-2Kgs15:7\">15:1–7</a>؛ <a href=\"https://ref.ly/2Chr26:1-2Chr26:23\">2أخبار الأيام  26:1–23</a>؛ <a href=\"https://ref.ly/Isa1:1\">إشعياء 1:1</a>؛ <a href=\"https://ref.ly/Isa6:1\">6:1</a>؛ <a href=\"https://ref.ly/Hos1:1\">هوشع 1:1</a>؛ <a href=\"https://ref.ly/Amos1:1\">عاموس 1:1</a>؛ <a href=\"https://ref.ly/Zech14:5\">زكريّا 14:5</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "14026005",
+"start_ref_usfm": "2CH 26:5",
+"end_ref": "14026005",
+"end_ref_usfm": "2CH 26:5"
+},
+{
+"start_ref": "14026016",
+"start_ref_usfm": "2CH 26:16",
+"end_ref": "14026016",
+"end_ref_usfm": "2CH 26:16"
+},
+{
+"start_ref": "14026023",
+"start_ref_usfm": "2CH 26:23",
+"end_ref": "14026023",
+"end_ref_usfm": "2CH 26:23"
+},
+{
+"start_ref": "23001001",
+"start_ref_usfm": "ISA 1:1",
+"end_ref": "23001001",
+"end_ref_usfm": "ISA 1:1"
+},
+{
+"start_ref": "23006001",
+"start_ref_usfm": "ISA 6:1",
+"end_ref": "23006001",
+"end_ref_usfm": "ISA 6:1"
+},
+{
+"start_ref": "28001001",
+"start_ref_usfm": "HOS 1:1",
+"end_ref": "28001001",
+"end_ref_usfm": "HOS 1:1"
+},
+{
+"start_ref": "30001001",
+"start_ref_usfm": "AMO 1:1",
+"end_ref": "30001001",
+"end_ref_usfm": "AMO 1:1"
+},
+{
+"start_ref": "38014005",
+"start_ref_usfm": "ZEC 14:5",
+"end_ref": "38014005",
+"end_ref_usfm": "ZEC 14:5"
+},
+{
+"start_ref": "12015001",
+"start_ref_usfm": "2KI 15:1",
+"end_ref": "12015007",
+"end_ref_usfm": "2KI 15:7"
+},
+{
+"start_ref": "12014021",
+"start_ref_usfm": "2KI 14:21",
+"end_ref": "12014022",
+"end_ref_usfm": "2KI 14:22"
+},
+{
+"start_ref": "14026001",
+"start_ref_usfm": "2CH 26:1",
+"end_ref": "14026023",
+"end_ref_usfm": "2CH 26:23"
+},
+{
+"start_ref": "12015001",
+"start_ref_usfm": "2KI 15:1",
+"end_ref": "12015002",
+"end_ref_usfm": "2KI 15:2"
+},
+{
+"start_ref": "14026001",
+"start_ref_usfm": "2CH 26:1",
+"end_ref": "14026003",
+"end_ref_usfm": "2CH 26:3"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Uzziah",
+"type": "person",
+"preferred_label": "عزِّيَّا",
+"confidence": 0.7892,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "726032",
+"reference_id": 203403,
+"version": "1.0.2",
+"title": "عِيسُو",
+"media_type": "Text",
+"index_reference": "عِيسُو",
+"language": "arb",
+"review_level": "None",
+"content": "<p>عيسو هو ابن إسحاق ورفقة، والأخ التوأم الأكبر ليعقوب (<a href=\"https://ref.ly/Gen25:24-Gen25:26\">تكوين 25:24–26</a>). سُمّي عيسو لأنه كان مُشعرًا عند ولادته. أصبح نسله يعرف بالأدوميين. &quot;أدوم&quot; تعني &quot;أحمر&quot;، في إشارة إلى:</p><ul><li><p>لون عيسو الأحمر عند ولادته (<a href=\"https://ref.ly/Gen25:25\">تكوين 25:25</a>)</p></li><li><p>حِساء العدس الأحمر الذي حصل عليه من يعقوب (<a href=\"https://ref.ly/Gen25:30\">تكوين 25:30</a>)</p></li><li><p>لون الأرض المائل إلى الحُمرة التي أقام فيها (انظر <span data-bnType=\"resourceReference\" data-resourceId=\"11684\" data-resourceType=\"TyndaleStudyNotes\">ملاحظة الدراسة حول تكوين 25:25</span>)</p></li></ul><p>كان عيسو صيادًا ماهرًا يجلب لحمًا بريًّا شهي إلى أبيه. كان إسحاق يفضل طعم اللحم الدسم القوّي عن مذاق اللحم الخفيف الذي كان يعقوب يوفره من قطعان العائلة. في إحدى الأيام، عاد عيسو إلى البيت جائعًا جدًا بعد رحلة صيد غير ناجحة. أقنع يعقوب عيسو بالتخلي عن حقوقه وامتيازاته كونه البكر مقابل الطعام (<a href=\"https://ref.ly/Gen25:29-Gen25:34\">تكوين 25:29–34</a>). لم يكن عيسو يقدّر حقوق البكورية، إذ كانت رغباته وشهواته الجسدية هي ما تحرّكه (انظر <a href=\"https://ref.ly/Heb12:16\">عبرانيين 12:16</a>).</p><p>تزوج عيسو امرأتين من المنطقة التي يسكن فيه، ولم تكونا من نسل إبراهيم (<a href=\"https://ref.ly/Gen26:34-Gen26:35\">تكوين 26:34–35</a>). ربما هذا الأمر كان سبب تفضيل رفقة ليعقوب وتدبيرها لانتزاع بركة إسحاق التي كانت من نصيب عيسو (<a href=\"https://ref.ly/Gen27:1-Gen27:40\">تكوين 27:1–40</a>). حين اكتشف عيسو خداع أخيه له، غضب عيسو غضبًا شديدًا حتى إن يعقوب هرب من وجه عيسو إلى حاران. واجتمع الأخوان بعد عشرين عامًا عندما أظهر عيسو غفرانه لأخيه، وترأف به. (<a href=\"https://ref.ly/Gen33:1-Gen33:16\">تكوين 33:1–16</a>).</p><p>وُلد عيسو، ويعقوب مُمسِكًا بعقبه، ورأى الناس في تلك الحادثة إشارة إلى أن نسل عيسو سيكون عبيدًا لنسل يعقوب. في عهد داود بدأ الأدوميون في خدمة بني إسرائيل، أي عبيدًا لهم (<a href=\"https://ref.ly/2Sam8:11-2Sam8:15\">2 صموئيل 8:11–15</a>؛ <a href=\"https://ref.ly/1Chr18:11-1Chr18:13\">1 أخبار الأيام 18:11–13</a>) واستمر ذلك حتى عهد يهورام (<a href=\"https://ref.ly/2Kgs8:20-2Kgs8:22\">2 ملوك 8:20–22</a>؛ <a href=\"https://ref.ly/2Chr21:8-2Chr21:10\">2 أخبار الأيام 21:8–10</a>). بعد تمرد حدث في عام 845 قبل الميلاد، حصل الأدوميون على حريّة مؤقتة، لكنهم هُزموا مرة أخرى على يدّ أمصيا، الذي حكم من 796 إلى 767 قبل الميلاد. ثم استعادوا حريتهم في عام 735 قبل الميلاد وظلوا مستقلين بعيدًا عن يهوذا.</p><p>في العهد الجديد، يرمز عيسو إلى نسل إبراهيم الذين لم يؤمن بالله ومواعيده، وقد رفضهم الله نتيجة لبركات الموعد (انظر <a href=\"https://ref.ly/Rom9:6-Rom9:24\">رومية 9:6–24</a>). وقد كان هيرودس الكبير من الأدوميين.</p><p><u>مقاطع كتابية لدراسة أعمق</u></p><p><a href=\"https://ref.ly/Gen25:21-Gen25:34\">تكوين 25:21–34</a>؛ <a href=\"https://ref.ly/Gen26:34-Gen26:35\">26:34–35</a>؛ <a href=\"https://ref.ly/Gen27:1-Gen27:42\">27:1–42</a>؛ <a href=\"https://ref.ly/Gen28:6-Gen28:9\">28:6–9</a>؛ <a href=\"https://ref.ly/Gen32:3-Gen32:20\">32:3–20</a>؛ <a href=\"https://ref.ly/Gen33:1-Gen33:16\">33:1–16</a>؛ <a href=\"https://ref.ly/Gen35:28-Gen35:29\">35:28–29</a>؛ <a href=\"https://ref.ly/Gen36:1-Gen36:43\">36:1–43</a>؛ <a href=\"https://ref.ly/Deut2:1-Deut2:8\">تثنية 2:1–8</a>، <a href=\"https://ref.ly/Deut2:12\">12</a>، <a href=\"https://ref.ly/Deut2:22\">22</a>، <a href=\"https://ref.ly/Deut2:29\">29</a>؛ <a href=\"https://ref.ly/Josh24:4\">يشوع 24:4</a>؛ <a href=\"https://ref.ly/Mal1:2-Mal1:5\">ملاخي 1:2–5</a>؛ <a href=\"https://ref.ly/Rom9:6-Rom9:13\">رومية 9:6–13</a>؛ <a href=\"https://ref.ly/Heb11:20\">العبرانيين 11:20</a>؛ <a href=\"https://ref.ly/Heb12:16-Heb12:17\">12:16–17</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01025025",
+"start_ref_usfm": "GEN 25:25",
+"end_ref": "01025025",
+"end_ref_usfm": "GEN 25:25"
+},
+{
+"start_ref": "01025030",
+"start_ref_usfm": "GEN 25:30",
+"end_ref": "01025030",
+"end_ref_usfm": "GEN 25:30"
+},
+{
+"start_ref": "05002012",
+"start_ref_usfm": "DEU 2:12",
+"end_ref": "05002012",
+"end_ref_usfm": "DEU 2:12"
+},
+{
+"start_ref": "05002022",
+"start_ref_usfm": "DEU 2:22",
+"end_ref": "05002022",
+"end_ref_usfm": "DEU 2:22"
+},
+{
+"start_ref": "05002029",
+"start_ref_usfm": "DEU 2:29",
+"end_ref": "05002029",
+"end_ref_usfm": "DEU 2:29"
+},
+{
+"start_ref": "06024004",
+"start_ref_usfm": "JOS 24:4",
+"end_ref": "06024004",
+"end_ref_usfm": "JOS 24:4"
+},
+{
+"start_ref": "58011020",
+"start_ref_usfm": "HEB 11:20",
+"end_ref": "58011020",
+"end_ref_usfm": "HEB 11:20"
+},
+{
+"start_ref": "58012016",
+"start_ref_usfm": "HEB 12:16",
+"end_ref": "58012016",
+"end_ref_usfm": "HEB 12:16"
+},
+{
+"start_ref": "58012016",
+"start_ref_usfm": "HEB 12:16",
+"end_ref": "58012017",
+"end_ref_usfm": "HEB 12:17"
+},
+{
+"start_ref": "01036001",
+"start_ref_usfm": "GEN 36:1",
+"end_ref": "01036043",
+"end_ref_usfm": "GEN 36:43"
+},
+{
+"start_ref": "12008020",
+"start_ref_usfm": "2KI 8:20",
+"end_ref": "12008022",
+"end_ref_usfm": "2KI 8:22"
+},
+{
+"start_ref": "01025024",
+"start_ref_usfm": "GEN 25:24",
+"end_ref": "01025026",
+"end_ref_usfm": "GEN 25:26"
+},
+{
+"start_ref": "01025029",
+"start_ref_usfm": "GEN 25:29",
+"end_ref": "01025034",
+"end_ref_usfm": "GEN 25:34"
+},
+{
+"start_ref": "01026034",
+"start_ref_usfm": "GEN 26:34",
+"end_ref": "01026035",
+"end_ref_usfm": "GEN 26:35"
+},
+{
+"start_ref": "10008011",
+"start_ref_usfm": "2SA 8:11",
+"end_ref": "10008015",
+"end_ref_usfm": "2SA 8:15"
+},
+{
+"start_ref": "14021008",
+"start_ref_usfm": "2CH 21:8",
+"end_ref": "14021010",
+"end_ref_usfm": "2CH 21:10"
+},
+{
+"start_ref": "39001002",
+"start_ref_usfm": "MAL 1:2",
+"end_ref": "39001005",
+"end_ref_usfm": "MAL 1:5"
+},
+{
+"start_ref": "05002001",
+"start_ref_usfm": "DEU 2:1",
+"end_ref": "05002008",
+"end_ref_usfm": "DEU 2:8"
+},
+{
+"start_ref": "01027001",
+"start_ref_usfm": "GEN 27:1",
+"end_ref": "01027040",
+"end_ref_usfm": "GEN 27:40"
+},
+{
+"start_ref": "01028006",
+"start_ref_usfm": "GEN 28:6",
+"end_ref": "01028009",
+"end_ref_usfm": "GEN 28:9"
+},
+{
+"start_ref": "01033001",
+"start_ref_usfm": "GEN 33:1",
+"end_ref": "01033016",
+"end_ref_usfm": "GEN 33:16"
+},
+{
+"start_ref": "13018011",
+"start_ref_usfm": "1CH 18:11",
+"end_ref": "13018013",
+"end_ref_usfm": "1CH 18:13"
+},
+{
+"start_ref": "45009006",
+"start_ref_usfm": "ROM 9:6",
+"end_ref": "45009024",
+"end_ref_usfm": "ROM 9:24"
+},
+{
+"start_ref": "01025021",
+"start_ref_usfm": "GEN 25:21",
+"end_ref": "01025034",
+"end_ref_usfm": "GEN 25:34"
+},
+{
+"start_ref": "01027001",
+"start_ref_usfm": "GEN 27:1",
+"end_ref": "01027042",
+"end_ref_usfm": "GEN 27:42"
+},
+{
+"start_ref": "01032003",
+"start_ref_usfm": "GEN 32:3",
+"end_ref": "01032020",
+"end_ref_usfm": "GEN 32:20"
+},
+{
+"start_ref": "01035028",
+"start_ref_usfm": "GEN 35:28",
+"end_ref": "01035029",
+"end_ref_usfm": "GEN 35:29"
+},
+{
+"start_ref": "45009006",
+"start_ref_usfm": "ROM 9:6",
+"end_ref": "45009013",
+"end_ref_usfm": "ROM 9:13"
+}
+],
+"resource": [
+{
+"reference_id": 11684,
+"content_id": 160437,
+"resource_code": "TyndaleStudyNotes",
+"label": "تكوين 25: 25",
+"language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Esau",
+"type": "person",
+"preferred_label": "عِيسوَ",
+"confidence": 0.9096,
+"match_method": "embedding"
+}
+]
+}
+}
 ]

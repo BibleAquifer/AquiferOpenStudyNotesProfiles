@@ -1,649 +1,649 @@
 [
-  {
-    "content_id": "668954",
-    "reference_id": 203496,
-    "version": "1.0.2",
-    "title": "Thomas",
-    "media_type": "Text",
-    "index_reference": "thomas",
-    "language": "fra",
-    "review_level": "None",
-    "content": "<p>Thomas était l&apos;un des douze apôtres (<a href=\"https://ref.ly/Matt10:3\">Mt 10.3</a> ; <a href=\"https://ref.ly/Mark3:18\">Mc 3.18</a> ; <a href=\"https://ref.ly/Luke6:15\">Lc 6.15</a> ; <a href=\"https://ref.ly/Acts1:13\">Ac 1.13</a>), également surnommé « le Jumeau ». Il reste surtout célèbre pour avoir douté de la résurrection de Jésus.</p><p>On ne sait pas comment Jésus rencontra Thomas et l&apos;appela pour qu&apos;il devienne son disciple, et l&apos;Évangile de Jean est la seule source racontant des choses à son sujet. Thomas exprima son désir de suivre Jésus, quitte à en payer le prix, même si cela signifiait la mort (<a href=\"https://ref.ly/John11:16\">Jn 11.16</a>). Il admit ouvertement à Jésus qu&apos;il ne comprenait pas ces paroles (<a href=\"https://ref.ly/John14:5\">Jn 14.5</a>),&nbsp;et fut l&apos;un des sept disciples qui retourna pêcher après la résurrection, lorsque Jésus leur apparut (<a href=\"https://ref.ly/John21:2\">Jn 21.2</a>).</p><p>Lors de la première apparition de Jésus aux disciples après sa mort, Thomas n&apos;était pas présent. Entendant le témoignage des autres, il ne crut pas à la résurrection de Jésus. Il insista sur le fait qu&apos;il lui fallait voir de ses propres yeux et toucher les marques de la crucifixion sur le corps de Jésus pour croire (<a href=\"https://ref.ly/John20:19-John20:25\">Jn 20.19–25</a>). Une semaine plus tard, Jésus se manifesta de nouveau à ses disciples et s&apos;adressa directement à Thomas, lui demandant d&apos;examiner les marques des clous et de la lance et l&apos;exhortant à croire sans douter (<a href=\"https://ref.ly/John20:26-John20:27\">Jn 20.26–27</a>).</p><p>Lorsque Thomas vit Jésus ressuscité, il prononça l&apos;une des déclarations les plus marquantes du Nouveau Testament, en reconnaissant Jésus comme Dieu en déclarant : « Mon Seigneur et mon Dieu! » (<a href=\"https://ref.ly/John20:28\">Jn 20.28</a>). Cet évènement représente bien, dans l&apos;Évangile selon Jean, la divinité de Jésus, Dieu en personne.</p><p>Des traditions ultérieures rapportent que Thomas fut missionnaire en Orient, notamment en Parthie (selon Eusèbe), en Perse (selon Jérôme) et en Inde (selon <em>les Actes de Thomas</em>). L&apos;Église Mar Thoma, fondée sur la côte ouest de l&apos;Inde, se réclame du ministère ancien de Thomas, même si l&apos;authenticité historique de ces récits reste floue.</p><p>Par ailleurs, plusieurs ouvrages anciens prétendent avoir été rédigés par Thomas ou en parler, mais ils furent composés bien après sa mort et ne sont pas considérés comme fiables. Parmi ceux-ci figurent :</p><ul><li><p>Les <em>Actes de Thomas</em></p></li><li><p><em>L</em>&apos;<em>Évangile de l&apos;enfance selon Thomas</em></p></li><li><p><em>L</em>&apos;Épître des Apôtres</p></li><li><p><em>L&apos;</em>Apocalypse de Thomas</p></li><li><p><em>Le</em> <em>Livre de Thomas l&apos;Athlète</em></p></li><li><p><em>L&apos;</em>Évangile de Thomas (une collection gnostique des paroles de Jésus)</p></li></ul><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Matt10:3\">Mt 10.3</a> ; <a href=\"https://ref.ly/Mark3:18\">Mc 3.18</a> ; <a href=\"https://ref.ly/Luke6:15\">Lc 6.15</a> ; <a href=\"https://ref.ly/John11:16\">Jn 11.16</a> ; <a href=\"https://ref.ly/John14:5\">Jn 14.5</a> ; <a href=\"https://ref.ly/John20:24-John20:29\">Jn 20.24–29</a> ; <a href=\"https://ref.ly/John21:2\">Jn 21.2 ; </a><a href=\"https://ref.ly/Acts1:13\">Ac 1.13</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "40010003",
-          "start_ref_usfm": "MAT 10:3",
-          "end_ref": "40010003",
-          "end_ref_usfm": "MAT 10:3"
-        },
-        {
-          "start_ref": "41003018",
-          "start_ref_usfm": "MRK 3:18",
-          "end_ref": "41003018",
-          "end_ref_usfm": "MRK 3:18"
-        },
-        {
-          "start_ref": "42006015",
-          "start_ref_usfm": "LUK 6:15",
-          "end_ref": "42006015",
-          "end_ref_usfm": "LUK 6:15"
-        },
-        {
-          "start_ref": "43011016",
-          "start_ref_usfm": "JHN 11:16",
-          "end_ref": "43011016",
-          "end_ref_usfm": "JHN 11:16"
-        },
-        {
-          "start_ref": "43014005",
-          "start_ref_usfm": "JHN 14:5",
-          "end_ref": "43014005",
-          "end_ref_usfm": "JHN 14:5"
-        },
-        {
-          "start_ref": "43020028",
-          "start_ref_usfm": "JHN 20:28",
-          "end_ref": "43020028",
-          "end_ref_usfm": "JHN 20:28"
-        },
-        {
-          "start_ref": "43021002",
-          "start_ref_usfm": "JHN 21:2",
-          "end_ref": "43021002",
-          "end_ref_usfm": "JHN 21:2"
-        },
-        {
-          "start_ref": "44001013",
-          "start_ref_usfm": "ACT 1:13",
-          "end_ref": "44001013",
-          "end_ref_usfm": "ACT 1:13"
-        },
-        {
-          "start_ref": "43020024",
-          "start_ref_usfm": "JHN 20:24",
-          "end_ref": "43020029",
-          "end_ref_usfm": "JHN 20:29"
-        },
-        {
-          "start_ref": "43020026",
-          "start_ref_usfm": "JHN 20:26",
-          "end_ref": "43020027",
-          "end_ref_usfm": "JHN 20:27"
-        },
-        {
-          "start_ref": "43020019",
-          "start_ref_usfm": "JHN 20:19",
-          "end_ref": "43020025",
-          "end_ref_usfm": "JHN 20:25"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Thomas",
-          "type": "person",
-          "preferred_label": "Thomas",
-          "confidence": 0.8444,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "668972",
-    "reference_id": 203514,
-    "version": "1.0.2",
-    "title": "Timothée",
-    "media_type": "Text",
-    "index_reference": "timothée",
-    "language": "fra",
-    "review_level": "None",
-    "content": "<p>Timothée accompagna Paul durant une grande partie de son ministère missionnaire et fut l’un de ses aides les plus dignes de confiance. Paul lui adressa deux de ses dernières lettres. À cette époque (vers la fin de la vie de Paul), Timothée dirigeait l&apos;église d&apos;Éphèse.</p><p>Issu d&apos;une famille pieuse, Timothée fut élevé dans la foi grâce à sa mère et à sa grand-mère&nbsp;(<a href=\"https://ref.ly/2Tim1:5\">2Tm 1.5</a>).&nbsp;Il était très respecté des chrétiens de sa ville natale de Lystre, et de la ville voisine d&apos;Icone. Il rejoignit l&apos;équipe de Paul pendant le deuxième voyage missionnaire, et les paroles prophétiques confirmèrent qu&apos;il avait été choisi pour un ministère particulier. Timothée reçut un don spécial pour servir, transmis par l&apos;imposition des mains de Paul et des anciens (<a href=\"https://ref.ly/1Tim1:18\">1Tm 1.18</a> ; <a href=\"https://ref.ly/1Tim4:14\">4.14</a> ; <a href=\"https://ref.ly/2Tim1:6\">2Tm 1.6</a>). Pour être accepté parmi le peuple juif auquel ils souhaitaient enseigner la parole de Jésus, Paul fit circoncire Timothée (<a href=\"https://ref.ly/Acts16:1-Acts16:3\">Ac 16.1–3</a>).</p><p>Au cours des quinze années suivantes, Paul envoya Timothée pour des missions spécifiques dans diverses églises (<a href=\"https://ref.ly/Acts19:22\">Ac 19.22</a> ; <a href=\"https://ref.ly/1Cor4:17\">1Co 4.17</a> ; <a href=\"https://ref.ly/1Cor16:10-1Cor16:11\">16.10–11</a> ; <a href=\"https://ref.ly/Phil2:19-Phil2:23\">Ph 2.19–23</a> ; <a href=\"https://ref.ly/1Thess3:1-1Thess3:6\">1Th 3.1–6</a> ; <a href=\"https://ref.ly/1Tim1:3\">1Tm 1.3</a> ; voir aussi <a href=\"https://ref.ly/Acts17:14-Acts17:15\">Ac 17.14–15</a> ; <a href=\"https://ref.ly/Acts18:5\">18.5</a>). Paul mentionna même le nom de Timothée en tant que co-auteur dans plusieurs de ses lettres (<a href=\"https://ref.ly/2Cor1:1\">2Co 1.1</a> ; <a href=\"https://ref.ly/Phil1:1\">Ph 1.1</a> ; <a href=\"https://ref.ly/Col1:1\">Col 1.1</a> ; <a href=\"https://ref.ly/1Thess1:1\">1 Th 1.1</a> ; <a href=\"https://ref.ly/2Thess1:1\">2Th 1.1</a> ; <a href=\"https://ref.ly/Phlm1:1\">Phm 1.1</a>). Paul entretenait manifestement une relation étroite avec Timothée et le respectait beaucoup (voir <a href=\"https://ref.ly/Rom16:21\">Rm 16.21</a> ; <a href=\"https://ref.ly/1Cor4:17\">1Co 4.17</a> ; <a href=\"https://ref.ly/1Thess3:2\">1Th 3.2</a> ; <a href=\"https://ref.ly/1Tim1:2\">1Tm 1.2</a> ; <a href=\"https://ref.ly/1Tim6:11\">6.11</a> ; <a href=\"https://ref.ly/2Tim1:2\">2 Tm 1.2</a>). Alors que Paul approchait de la fin de sa vie en prison, il exprima ardemment le désir de revoir Timothée (<a href=\"https://ref.ly/2Tim1:3-2Tim1:4\">2Tm 1.3–4</a>). Timothée, parmi tous les collaborateurs de Paul, est particulièrement loué pour son dévouement désintéressé à Jésus et à son peuple (<a href=\"https://ref.ly/Phil2:20-Phil2:22\">Ph 2.20–22</a>).</p><p>Dans sa seconde lettre à Timothée, écrite peu avant le martyre de Paul, Paul encourageait Timothée à être audacieux et intrépide dans le partage de la bonne nouvelle, le préparant à souffrir pour le nom de Jésus (<a href=\"https://ref.ly/2Tim1:8\">2Tm 1.8</a> ; <a href=\"https://ref.ly/2Tim2:1-2Tim2:3\">2.1–3</a> ; <a href=\"https://ref.ly/2Tim4:1-2Tim4:2\">4.1–2</a>, <a href=\"https://ref.ly/2Tim4:5\">5</a>). Ce message puissant était destiné à quelqu&apos;un qui pouvait être timide par nature (voir <a href=\"https://ref.ly/2Tim1:6-2Tim1:7\">2Tm 1.6–7</a>). Par la suite, Timothée lui-même a été incarcéré (<a href=\"https://ref.ly/Heb13:23\">Hé 13.23</a>).</p><p>En somme, Timothée est un excellent exemple de service humble et fidèle envers Jésus. Animé d’un dévouement désintéressé, il s&apos;est consacré pleinement à l’œuvre du Seigneur et au bien de son peuple, répondant avec zèle aux besoins là où son aide était requise. Sa vie rappelle aux croyants l&apos;importance d&apos;être des témoins solidement ancrés dans la foi.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Acts16:1-Acts16:3\">Ac 16.1–3</a> ; <a href=\"https://ref.ly/Acts17:14-Acts17:15\">17.14–15</a> ; <a href=\"https://ref.ly/Acts18:5\">18.5</a> ; <a href=\"https://ref.ly/Acts19:22\">19.22</a> ; <a href=\"https://ref.ly/Acts20:4\">20.4</a> ; <a href=\"https://ref.ly/Rom16:21\">Rm 16.21</a> ; <a href=\"https://ref.ly/1Cor4:17\">1Co 4.17</a> ; <a href=\"https://ref.ly/1Cor16:10-1Cor16:11\">16.10–11</a> ; <a href=\"https://ref.ly/2Cor1:1\">2Co 1.1</a>, <a href=\"https://ref.ly/2Cor1:19\">19</a> ; <a href=\"https://ref.ly/Phil1:1\">Ph 1.1</a> ; <a href=\"https://ref.ly/Phil2:19-Phil2:23\">2.19–23</a> ; <a href=\"https://ref.ly/Col1:1\">Col 1.1</a> ; <a href=\"https://ref.ly/1Thess1:1\">1Th 1.1</a> ; <a href=\"https://ref.ly/1Thess3:2-1Thess3:6\">3.2–6</a> ; <a href=\"https://ref.ly/2Thess1:1\">2Th 1.1</a> ; 1–2 Tm ; <a href=\"https://ref.ly/Phlm1:1\">Phm 1.1</a> ; <a href=\"https://ref.ly/Heb13:23\">Hé 13.23</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44018005",
-          "start_ref_usfm": "ACT 18:5",
-          "end_ref": "44018005",
-          "end_ref_usfm": "ACT 18:5"
-        },
-        {
-          "start_ref": "44019022",
-          "start_ref_usfm": "ACT 19:22",
-          "end_ref": "44019022",
-          "end_ref_usfm": "ACT 19:22"
-        },
-        {
-          "start_ref": "44020004",
-          "start_ref_usfm": "ACT 20:4",
-          "end_ref": "44020004",
-          "end_ref_usfm": "ACT 20:4"
-        },
-        {
-          "start_ref": "45016021",
-          "start_ref_usfm": "ROM 16:21",
-          "end_ref": "45016021",
-          "end_ref_usfm": "ROM 16:21"
-        },
-        {
-          "start_ref": "46004017",
-          "start_ref_usfm": "1CO 4:17",
-          "end_ref": "46004017",
-          "end_ref_usfm": "1CO 4:17"
-        },
-        {
-          "start_ref": "47001001",
-          "start_ref_usfm": "2CO 1:1",
-          "end_ref": "47001001",
-          "end_ref_usfm": "2CO 1:1"
-        },
-        {
-          "start_ref": "47001019",
-          "start_ref_usfm": "2CO 1:19",
-          "end_ref": "47001019",
-          "end_ref_usfm": "2CO 1:19"
-        },
-        {
-          "start_ref": "50001001",
-          "start_ref_usfm": "PHP 1:1",
-          "end_ref": "50001001",
-          "end_ref_usfm": "PHP 1:1"
-        },
-        {
-          "start_ref": "51001001",
-          "start_ref_usfm": "COL 1:1",
-          "end_ref": "51001001",
-          "end_ref_usfm": "COL 1:1"
-        },
-        {
-          "start_ref": "52001001",
-          "start_ref_usfm": "1TH 1:1",
-          "end_ref": "52001001",
-          "end_ref_usfm": "1TH 1:1"
-        },
-        {
-          "start_ref": "52003002",
-          "start_ref_usfm": "1TH 3:2",
-          "end_ref": "52003002",
-          "end_ref_usfm": "1TH 3:2"
-        },
-        {
-          "start_ref": "53001001",
-          "start_ref_usfm": "2TH 1:1",
-          "end_ref": "53001001",
-          "end_ref_usfm": "2TH 1:1"
-        },
-        {
-          "start_ref": "54001002",
-          "start_ref_usfm": "1TI 1:2",
-          "end_ref": "54001002",
-          "end_ref_usfm": "1TI 1:2"
-        },
-        {
-          "start_ref": "54001003",
-          "start_ref_usfm": "1TI 1:3",
-          "end_ref": "54001003",
-          "end_ref_usfm": "1TI 1:3"
-        },
-        {
-          "start_ref": "54001018",
-          "start_ref_usfm": "1TI 1:18",
-          "end_ref": "54001018",
-          "end_ref_usfm": "1TI 1:18"
-        },
-        {
-          "start_ref": "54004014",
-          "start_ref_usfm": "1TI 4:14",
-          "end_ref": "54004014",
-          "end_ref_usfm": "1TI 4:14"
-        },
-        {
-          "start_ref": "54006011",
-          "start_ref_usfm": "1TI 6:11",
-          "end_ref": "54006011",
-          "end_ref_usfm": "1TI 6:11"
-        },
-        {
-          "start_ref": "55001002",
-          "start_ref_usfm": "2TI 1:2",
-          "end_ref": "55001002",
-          "end_ref_usfm": "2TI 1:2"
-        },
-        {
-          "start_ref": "55001005",
-          "start_ref_usfm": "2TI 1:5",
-          "end_ref": "55001005",
-          "end_ref_usfm": "2TI 1:5"
-        },
-        {
-          "start_ref": "55001006",
-          "start_ref_usfm": "2TI 1:6",
-          "end_ref": "55001006",
-          "end_ref_usfm": "2TI 1:6"
-        },
-        {
-          "start_ref": "55001008",
-          "start_ref_usfm": "2TI 1:8",
-          "end_ref": "55001008",
-          "end_ref_usfm": "2TI 1:8"
-        },
-        {
-          "start_ref": "55004005",
-          "start_ref_usfm": "2TI 4:5",
-          "end_ref": "55004005",
-          "end_ref_usfm": "2TI 4:5"
-        },
-        {
-          "start_ref": "57001001",
-          "start_ref_usfm": "PHM 1:1",
-          "end_ref": "57001001",
-          "end_ref_usfm": "PHM 1:1"
-        },
-        {
-          "start_ref": "58013023",
-          "start_ref_usfm": "HEB 13:23",
-          "end_ref": "58013023",
-          "end_ref_usfm": "HEB 13:23"
-        },
-        {
-          "start_ref": "55001006",
-          "start_ref_usfm": "2TI 1:6",
-          "end_ref": "55001007",
-          "end_ref_usfm": "2TI 1:7"
-        },
-        {
-          "start_ref": "44016001",
-          "start_ref_usfm": "ACT 16:1",
-          "end_ref": "44016003",
-          "end_ref_usfm": "ACT 16:3"
-        },
-        {
-          "start_ref": "44017014",
-          "start_ref_usfm": "ACT 17:14",
-          "end_ref": "44017015",
-          "end_ref_usfm": "ACT 17:15"
-        },
-        {
-          "start_ref": "50002019",
-          "start_ref_usfm": "PHP 2:19",
-          "end_ref": "50002023",
-          "end_ref_usfm": "PHP 2:23"
-        },
-        {
-          "start_ref": "52003002",
-          "start_ref_usfm": "1TH 3:2",
-          "end_ref": "52003006",
-          "end_ref_usfm": "1TH 3:6"
-        },
-        {
-          "start_ref": "55001003",
-          "start_ref_usfm": "2TI 1:3",
-          "end_ref": "55001004",
-          "end_ref_usfm": "2TI 1:4"
-        },
-        {
-          "start_ref": "55004001",
-          "start_ref_usfm": "2TI 4:1",
-          "end_ref": "55004002",
-          "end_ref_usfm": "2TI 4:2"
-        },
-        {
-          "start_ref": "46016010",
-          "start_ref_usfm": "1CO 16:10",
-          "end_ref": "46016011",
-          "end_ref_usfm": "1CO 16:11"
-        },
-        {
-          "start_ref": "52003001",
-          "start_ref_usfm": "1TH 3:1",
-          "end_ref": "52003006",
-          "end_ref_usfm": "1TH 3:6"
-        },
-        {
-          "start_ref": "50002020",
-          "start_ref_usfm": "PHP 2:20",
-          "end_ref": "50002022",
-          "end_ref_usfm": "PHP 2:22"
-        },
-        {
-          "start_ref": "55002001",
-          "start_ref_usfm": "2TI 2:1",
-          "end_ref": "55002003",
-          "end_ref_usfm": "2TI 2:3"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Timothy",
-          "type": "person",
-          "preferred_label": "Timothée",
-          "confidence": 0.7878,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "668973",
-    "reference_id": 203515,
-    "version": "1.0.2",
-    "title": "Tite",
-    "media_type": "Text",
-    "index_reference": "tite",
-    "language": "fra",
-    "review_level": "None",
-    "content": "<p>D&apos;origine non juive (païenne), Tite est devenu disciple de Jésus et se distingua comme l&apos;un des collaborateurs les plus fidèles de Paul. </p><p>Ce dernier lui écrivit l&apos;une de ses dernières lettres, alors que Tite œuvrait en Crète, fortifiant l&apos;Église. Par son exemple, Tite illustre comment la Bonne Nouvelle de Jésus a transformé la vie des non-Juifs. En effet, nombre d&apos;entre eux quittèrent leur foyer pour accompagner Paul dans la diffusion du message de l&apos;Évangile.</p><p>Nous ignorons tout des origines et de la conversion de Tite, son nom n&apos;étant pas mentionné dans les Actes. Nous entendons parler de lui pour la première fois comme d&apos;un croyant non juif qui est allé avec Paul et Barnabas à Jérusalem (<a href=\"https://ref.ly/Gal2:1\">Ga 2.1</a>). Paul souligne que Tite n&apos;a pas été contraint de se faire circoncire (<a href=\"https://ref.ly/Gal2:3\">Ga 2.3</a>).</p><p>Plus tard, en tant que membre de confiance de l&apos;équipe de Paul, Tite fut envoyé en mission spéciale à Corinthe pour gérer une situation difficile, vraisemblablement en portant la lettre exigeante évoquée dans <a href=\"https://ref.ly/2Cor2:4\">2Co 2.4</a>, <a href=\"https://ref.ly/2Cor2:9\">9</a> ; <a href=\"https://ref.ly/2Cor7:8-2Cor7:9\">7.8–9</a>. Cette tâche nécessitait un responsable à la fois doux et ferme, et Tite se révéla avoir une personnalité plus affirmée que celle de Timothée (voir <a href=\"https://ref.ly/1Cor16:10-1Cor16:11\">1Co 16.10–11</a> ; <a href=\"https://ref.ly/2Cor7:13-2Cor7:15\">2Co 7.13–15</a> ; <a href=\"https://ref.ly/2Tim1:6-2Tim1:7\">2 Tm 1.6–7</a>).</p><p>Tite revint ensuite vers Paul avec de bonnes nouvelles (<a href=\"https://ref.ly/2Cor7:6-2Cor7:7\">2Co 7.6–7</a>, <a href=\"https://ref.ly/2Cor7:13-2Cor7:15\">13–15</a>). Par la suite, Paul le renvoya à Corinthe avec la lettre que nous connaissons sous le nom de <em>2 Corinthiens</em>, qui exhortait les croyants à finaliser leur collecte de fonds pour venir en aide aux chrétiens démunis de Jérusalem. Tite accepta cette mission avec enthousiasme, animé d&apos;un profond attachement pour les chrétiens de Corinthe (<a href=\"https://ref.ly/2Cor7:15\">2Co 7.15</a> ; <a href=\"https://ref.ly/2Cor8:6\">8.6</a>, <a href=\"https://ref.ly/2Cor8:16-2Cor8:17\">16–17</a>). Paul le décrivit comme un homme d’une grande intégrité, à son image (<a href=\"https://ref.ly/2Cor8:23\">2Co 8.23</a> ; <a href=\"https://ref.ly/2Cor12:18\">12.18</a>).</p><p>Quelques années plus tard, après le premier procès de Paul à Rome et sa libération, il laissa Tite en Crète pour affermir l&apos;Église locale. Pendant son séjour en Crète, Paul lui écrivit une lettre prodiguant des conseils sur le choix des dirigeants de l&apos;Église et l&apos;encourageant à enseigner et à manifester un comportement pieux. Paul demanda ensuite à Tite de le rejoindre à Nicopolis, en Achaïe, où il prévoyait de passer l&apos;hiver (<a href=\"https://ref.ly/Titus3:12\">Tt 3.12</a>). Plus tard, peu avant que Paul ne soit exécuté à Rome, il indiqua que Tite était parti en Dalmatie, le long de la côte adriatique, au nord-ouest de la Grèce moderne, probablement pour y exercer son ministère (<a href=\"https://ref.ly/2Tim4:10\">2Tm 4.10</a>).</p><p>Selon une tradition ancienne rapportée par l&apos;historien de l&apos;Église Eusèbe, Tite s&apos;établit en Crète et y servit comme responsable jusqu&apos;à un âge très avancé (Eusèbe, <em>Histoire de l&apos;Église</em> 3.4.6).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/2Cor2:13\">2Co 2.13</a> ; <a href=\"https://ref.ly/2Cor7:6\">7.6</a>, <a href=\"https://ref.ly/2Cor7:13-2Cor7:14\">13–14</a> ; <a href=\"https://ref.ly/2Cor8:6\">8.6</a>, <a href=\"https://ref.ly/2Cor8:16-2Cor8:17\">16–17</a>, <a href=\"https://ref.ly/2Cor8:23\">23</a> ; <a href=\"https://ref.ly/2Cor12:18\">12.18</a> ; <a href=\"https://ref.ly/Gal2:1\">Ga 2.1</a>, <a href=\"https://ref.ly/Gal2:3\">3</a> ; <a href=\"https://ref.ly/2Tim4:10\">2Tm 4.10</a> ; <a href=\"https://ref.ly/Titus1:4\">Ti 1.4</a> ; <a href=\"https://ref.ly/Titus2:1\">2.1</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "47002004",
-          "start_ref_usfm": "2CO 2:4",
-          "end_ref": "47002004",
-          "end_ref_usfm": "2CO 2:4"
-        },
-        {
-          "start_ref": "47002009",
-          "start_ref_usfm": "2CO 2:9",
-          "end_ref": "47002009",
-          "end_ref_usfm": "2CO 2:9"
-        },
-        {
-          "start_ref": "47002013",
-          "start_ref_usfm": "2CO 2:13",
-          "end_ref": "47002013",
-          "end_ref_usfm": "2CO 2:13"
-        },
-        {
-          "start_ref": "47007006",
-          "start_ref_usfm": "2CO 7:6",
-          "end_ref": "47007006",
-          "end_ref_usfm": "2CO 7:6"
-        },
-        {
-          "start_ref": "47007015",
-          "start_ref_usfm": "2CO 7:15",
-          "end_ref": "47007015",
-          "end_ref_usfm": "2CO 7:15"
-        },
-        {
-          "start_ref": "47008006",
-          "start_ref_usfm": "2CO 8:6",
-          "end_ref": "47008006",
-          "end_ref_usfm": "2CO 8:6"
-        },
-        {
-          "start_ref": "47008023",
-          "start_ref_usfm": "2CO 8:23",
-          "end_ref": "47008023",
-          "end_ref_usfm": "2CO 8:23"
-        },
-        {
-          "start_ref": "47012018",
-          "start_ref_usfm": "2CO 12:18",
-          "end_ref": "47012018",
-          "end_ref_usfm": "2CO 12:18"
-        },
-        {
-          "start_ref": "48002001",
-          "start_ref_usfm": "GAL 2:1",
-          "end_ref": "48002001",
-          "end_ref_usfm": "GAL 2:1"
-        },
-        {
-          "start_ref": "48002003",
-          "start_ref_usfm": "GAL 2:3",
-          "end_ref": "48002003",
-          "end_ref_usfm": "GAL 2:3"
-        },
-        {
-          "start_ref": "55004010",
-          "start_ref_usfm": "2TI 4:10",
-          "end_ref": "55004010",
-          "end_ref_usfm": "2TI 4:10"
-        },
-        {
-          "start_ref": "56001004",
-          "start_ref_usfm": "TIT 1:4",
-          "end_ref": "56001004",
-          "end_ref_usfm": "TIT 1:4"
-        },
-        {
-          "start_ref": "56002001",
-          "start_ref_usfm": "TIT 2:1",
-          "end_ref": "56002001",
-          "end_ref_usfm": "TIT 2:1"
-        },
-        {
-          "start_ref": "56003012",
-          "start_ref_usfm": "TIT 3:12",
-          "end_ref": "56003012",
-          "end_ref_usfm": "TIT 3:12"
-        },
-        {
-          "start_ref": "55001006",
-          "start_ref_usfm": "2TI 1:6",
-          "end_ref": "55001007",
-          "end_ref_usfm": "2TI 1:7"
-        },
-        {
-          "start_ref": "47007006",
-          "start_ref_usfm": "2CO 7:6",
-          "end_ref": "47007007",
-          "end_ref_usfm": "2CO 7:7"
-        },
-        {
-          "start_ref": "46016010",
-          "start_ref_usfm": "1CO 16:10",
-          "end_ref": "46016011",
-          "end_ref_usfm": "1CO 16:11"
-        },
-        {
-          "start_ref": "47007008",
-          "start_ref_usfm": "2CO 7:8",
-          "end_ref": "47007009",
-          "end_ref_usfm": "2CO 7:9"
-        },
-        {
-          "start_ref": "47008016",
-          "start_ref_usfm": "2CO 8:16",
-          "end_ref": "47008017",
-          "end_ref_usfm": "2CO 8:17"
-        },
-        {
-          "start_ref": "47007013",
-          "start_ref_usfm": "2CO 7:13",
-          "end_ref": "47007015",
-          "end_ref_usfm": "2CO 7:15"
-        },
-        {
-          "start_ref": "47007013",
-          "start_ref_usfm": "2CO 7:13",
-          "end_ref": "47007014",
-          "end_ref_usfm": "2CO 7:14"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Titus",
-          "type": "person",
-          "preferred_label": "Tite",
-          "confidence": 0.792,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "668894",
-    "reference_id": 203436,
-    "version": "1.0.2",
-    "title": "Tsadok",
-    "media_type": "Text",
-    "index_reference": "tsadok",
-    "language": "fra",
-    "review_level": "None",
-    "content": "<p>Tsadok fut une figure incontournable dans l&apos;histoire de la prêtrise en Israël. Il apparaît pour la première fois dans le récit de 2 Samuel (<a href=\"https://ref.ly/2Sam8:17\">2S 8.17</a>). Bien que certains chercheurs aient pu douter de ses origines sacerdotales, la Bible affirme qu&apos;il était un descendant d&apos;Aaron, dont la lignée remonte à Éléazar, le fils d&apos;Aaron (<a href=\"https://ref.ly/1Chr6:1-1Chr6:15\">1Ch 6.1–15</a>, <a href=\"https://ref.ly/1Chr6:50-1Chr6:53\">50–53 </a>; <a href=\"https://ref.ly/1Chr6:4-1Chr6:8\">1Ch 6.4–8</a> ; <a href=\"https://ref.ly/1Chr24:3\">24.3</a> ; <a href=\"https://ref.ly/Ezra7:2-Ezra7:5\">Esd 7.2–5</a>). Sous le règne du roi David, Tsadok officia aux côtés d&apos;Abiathar, un descendant d&apos;Éli, formant ainsi un duo de sacrificateurs (<a href=\"https://ref.ly/2Sam8:17\">2S 8.17</a> ; <a href=\"https://ref.ly/2Sam20:25\">20.25</a>).</p><p>Lorsque Absalom se révolta contre le roi David, Tsadok et Abiathar démontrèrent leur loyauté en lui apportant l&apos;arche, prêts à le rejoindre en exil (<a href=\"https://ref.ly/2Sam15:24-2Sam15:29\">2S 15.24–29</a>). Cependant, David les renvoya à Jérusalem pour qu&apos;ils servent d&apos;espions.</p><p>Plus tard, le fils de David, Adonija, tenta de s&apos;emparer du trône avec le soutien de Joab et d&apos;Abiathar. Tsadok, faisant preuve de sagesse, choisit de ne pas soutenir cette rébellion (<a href=\"https://ref.ly/1Kgs1:5-1Kgs1:10\">1R 1.5–10</a>) tandis qu&apos;Abiathar fut banni (<a href=\"https://ref.ly/1Kgs2:26-1Kgs2:27\">1R 2.26–27</a>), accomplissant ainsi la prophétie selon laquelle la maison d&apos;Éli verrait la prêtrise lui être retirée (<a href=\"https://ref.ly/1Sam2:27-1Sam2:36\">1S 2.27–36</a>). &nbsp;Dans cette prophétie, Dieu déclara : « <span>Je m’établirai un sacrificateur fidèle, qui agira selon mon cœur et selon mon âme ; je lui bâtirai une maison stable, et il marchera toujours devant mon oint </span>» (<a href=\"https://ref.ly/1Sam2:35\">1S 2.35</a>).</p><p>Tsadok accomplit cette promesse divine et devint le seul grand prêtre sous Salomon (<a href=\"https://ref.ly/1Kgs2:35\">1R 2.35</a>). Ses descendants servirent fidèlement comme sacrificateurs d&apos;Israël pendant toute la période monarchique et au-delà. Ainsi, Azaria, grand prêtre durant le règne d&apos;Ézéchias, était issu de la lignée de Tsadok (<a href=\"https://ref.ly/2Chr31:10\">2Ch 31.10</a>). Durant l&apos;exil à Babylone, la vision d&apos;Ézéchiel du nouveau temple mentionna expressément la lignée sacerdotale de Tsadok (<a href=\"https://ref.ly/Ezek40:46\">Ez 40.46</a> ; <a href=\"https://ref.ly/Ezek43:19\">43.19</a> ; <a href=\"https://ref.ly/Ezek44:15\">44.15</a> ; <a href=\"https://ref.ly/Ezek48:11\">48.11</a>). Au début des années 100 av. J.‑C., lorsque les Juifs étaient sous la domination séleucide, le grand sacerdoce devint une position politique et fut retiré des descendants de Tsadok. En raison des prophéties d&apos;Ézéchiel, des groupes juifs, comme ceux ayant écrit les Manuscrits de la mer Morte, ont continué à espérer le retour de la lignée de Tsadok dans le grand sacerdoce. Le Nouveau Testament déclare que Jésus-Christ exerce désormais la fonction de souverain sacrificateur (<a href=\"https://ref.ly/Heb9:11\">Hé 9.11</a> ; <a href=\"https://ref.ly/Heb10:12-Heb10:25\">10.12–25</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/2Sam8:17\">2S 8.17</a> ; <a href=\"https://ref.ly/2Sam15:23-2Sam15:37\">15.23–37</a> ; <a href=\"https://ref.ly/1Kgs1:5-1Kgs1:53\">1R 1.5–53</a> ; <a href=\"https://ref.ly/1Kgs2:35\">2.35</a> ; <a href=\"https://ref.ly/1Chr6:1-1Chr6:15\">1Ch 6.1–15</a>, <a href=\"https://ref.ly/1Chr6:50-1Chr6:53\">50–53</a> ; <a href=\"https://ref.ly/Ezra7:2\">Esd 7.2</a> ; <a href=\"https://ref.ly/Ezek40:46\">Ez 40.46</a> ; <a href=\"https://ref.ly/Ezek43:19\">43.19</a> ; <a href=\"https://ref.ly/Ezek44:15\">44.15</a> ; <a href=\"https://ref.ly/Ezek48:11\">48.11</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "09002035",
-          "start_ref_usfm": "1SA 2:35",
-          "end_ref": "09002035",
-          "end_ref_usfm": "1SA 2:35"
-        },
-        {
-          "start_ref": "10008017",
-          "start_ref_usfm": "2SA 8:17",
-          "end_ref": "10008017",
-          "end_ref_usfm": "2SA 8:17"
-        },
-        {
-          "start_ref": "10020025",
-          "start_ref_usfm": "2SA 20:25",
-          "end_ref": "10020025",
-          "end_ref_usfm": "2SA 20:25"
-        },
-        {
-          "start_ref": "11002035",
-          "start_ref_usfm": "1KI 2:35",
-          "end_ref": "11002035",
-          "end_ref_usfm": "1KI 2:35"
-        },
-        {
-          "start_ref": "13024003",
-          "start_ref_usfm": "1CH 24:3",
-          "end_ref": "13024003",
-          "end_ref_usfm": "1CH 24:3"
-        },
-        {
-          "start_ref": "14031010",
-          "start_ref_usfm": "2CH 31:10",
-          "end_ref": "14031010",
-          "end_ref_usfm": "2CH 31:10"
-        },
-        {
-          "start_ref": "15007002",
-          "start_ref_usfm": "EZR 7:2",
-          "end_ref": "15007002",
-          "end_ref_usfm": "EZR 7:2"
-        },
-        {
-          "start_ref": "26040046",
-          "start_ref_usfm": "EZK 40:46",
-          "end_ref": "26040046",
-          "end_ref_usfm": "EZK 40:46"
-        },
-        {
-          "start_ref": "26043019",
-          "start_ref_usfm": "EZK 43:19",
-          "end_ref": "26043019",
-          "end_ref_usfm": "EZK 43:19"
-        },
-        {
-          "start_ref": "26044015",
-          "start_ref_usfm": "EZK 44:15",
-          "end_ref": "26044015",
-          "end_ref_usfm": "EZK 44:15"
-        },
-        {
-          "start_ref": "26048011",
-          "start_ref_usfm": "EZK 48:11",
-          "end_ref": "26048011",
-          "end_ref_usfm": "EZK 48:11"
-        },
-        {
-          "start_ref": "58009011",
-          "start_ref_usfm": "HEB 9:11",
-          "end_ref": "58009011",
-          "end_ref_usfm": "HEB 9:11"
-        },
-        {
-          "start_ref": "11002026",
-          "start_ref_usfm": "1KI 2:26",
-          "end_ref": "11002027",
-          "end_ref_usfm": "1KI 2:27"
-        },
-        {
-          "start_ref": "13006050",
-          "start_ref_usfm": "1CH 6:50",
-          "end_ref": "13006053",
-          "end_ref_usfm": "1CH 6:53"
-        },
-        {
-          "start_ref": "10015024",
-          "start_ref_usfm": "2SA 15:24",
-          "end_ref": "10015029",
-          "end_ref_usfm": "2SA 15:29"
-        },
-        {
-          "start_ref": "09002027",
-          "start_ref_usfm": "1SA 2:27",
-          "end_ref": "09002036",
-          "end_ref_usfm": "1SA 2:36"
-        },
-        {
-          "start_ref": "15007002",
-          "start_ref_usfm": "EZR 7:2",
-          "end_ref": "15007005",
-          "end_ref_usfm": "EZR 7:5"
-        },
-        {
-          "start_ref": "11001005",
-          "start_ref_usfm": "1KI 1:5",
-          "end_ref": "11001010",
-          "end_ref_usfm": "1KI 1:10"
-        },
-        {
-          "start_ref": "13006001",
-          "start_ref_usfm": "1CH 6:1",
-          "end_ref": "13006015",
-          "end_ref_usfm": "1CH 6:15"
-        },
-        {
-          "start_ref": "13006004",
-          "start_ref_usfm": "1CH 6:4",
-          "end_ref": "13006008",
-          "end_ref_usfm": "1CH 6:8"
-        },
-        {
-          "start_ref": "58010012",
-          "start_ref_usfm": "HEB 10:12",
-          "end_ref": "58010025",
-          "end_ref_usfm": "HEB 10:25"
-        },
-        {
-          "start_ref": "10015023",
-          "start_ref_usfm": "2SA 15:23",
-          "end_ref": "10015037",
-          "end_ref_usfm": "2SA 15:37"
-        },
-        {
-          "start_ref": "11001005",
-          "start_ref_usfm": "1KI 1:5",
-          "end_ref": "11001053",
-          "end_ref_usfm": "1KI 1:53"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Zadok.2",
-          "type": "person",
-          "preferred_label": "Tsadok",
-          "confidence": 0.6813,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Zadok.4",
-          "type": "person",
-          "preferred_label": "Tsadok",
-          "confidence": 0.6065,
-          "match_method": "scored"
-        }
-      ]
-    }
-  }
+{
+"content_id": "668954",
+"reference_id": 203496,
+"version": "1.0.2",
+"title": "Thomas",
+"media_type": "Text",
+"index_reference": "thomas",
+"language": "fra",
+"review_level": "None",
+"content": "<p>Thomas était l&apos;un des douze apôtres (<a href=\"https://ref.ly/Matt10:3\">Mt 10.3</a> ; <a href=\"https://ref.ly/Mark3:18\">Mc 3.18</a> ; <a href=\"https://ref.ly/Luke6:15\">Lc 6.15</a> ; <a href=\"https://ref.ly/Acts1:13\">Ac 1.13</a>), également surnommé « le Jumeau ». Il reste surtout célèbre pour avoir douté de la résurrection de Jésus.</p><p>On ne sait pas comment Jésus rencontra Thomas et l&apos;appela pour qu&apos;il devienne son disciple, et l&apos;Évangile de Jean est la seule source racontant des choses à son sujet. Thomas exprima son désir de suivre Jésus, quitte à en payer le prix, même si cela signifiait la mort (<a href=\"https://ref.ly/John11:16\">Jn 11.16</a>). Il admit ouvertement à Jésus qu&apos;il ne comprenait pas ces paroles (<a href=\"https://ref.ly/John14:5\">Jn 14.5</a>),&nbsp;et fut l&apos;un des sept disciples qui retourna pêcher après la résurrection, lorsque Jésus leur apparut (<a href=\"https://ref.ly/John21:2\">Jn 21.2</a>).</p><p>Lors de la première apparition de Jésus aux disciples après sa mort, Thomas n&apos;était pas présent. Entendant le témoignage des autres, il ne crut pas à la résurrection de Jésus. Il insista sur le fait qu&apos;il lui fallait voir de ses propres yeux et toucher les marques de la crucifixion sur le corps de Jésus pour croire (<a href=\"https://ref.ly/John20:19-John20:25\">Jn 20.19–25</a>). Une semaine plus tard, Jésus se manifesta de nouveau à ses disciples et s&apos;adressa directement à Thomas, lui demandant d&apos;examiner les marques des clous et de la lance et l&apos;exhortant à croire sans douter (<a href=\"https://ref.ly/John20:26-John20:27\">Jn 20.26–27</a>).</p><p>Lorsque Thomas vit Jésus ressuscité, il prononça l&apos;une des déclarations les plus marquantes du Nouveau Testament, en reconnaissant Jésus comme Dieu en déclarant : « Mon Seigneur et mon Dieu! » (<a href=\"https://ref.ly/John20:28\">Jn 20.28</a>). Cet évènement représente bien, dans l&apos;Évangile selon Jean, la divinité de Jésus, Dieu en personne.</p><p>Des traditions ultérieures rapportent que Thomas fut missionnaire en Orient, notamment en Parthie (selon Eusèbe), en Perse (selon Jérôme) et en Inde (selon <em>les Actes de Thomas</em>). L&apos;Église Mar Thoma, fondée sur la côte ouest de l&apos;Inde, se réclame du ministère ancien de Thomas, même si l&apos;authenticité historique de ces récits reste floue.</p><p>Par ailleurs, plusieurs ouvrages anciens prétendent avoir été rédigés par Thomas ou en parler, mais ils furent composés bien après sa mort et ne sont pas considérés comme fiables. Parmi ceux-ci figurent :</p><ul><li><p>Les <em>Actes de Thomas</em></p></li><li><p><em>L</em>&apos;<em>Évangile de l&apos;enfance selon Thomas</em></p></li><li><p><em>L</em>&apos;Épître des Apôtres</p></li><li><p><em>L&apos;</em>Apocalypse de Thomas</p></li><li><p><em>Le</em> <em>Livre de Thomas l&apos;Athlète</em></p></li><li><p><em>L&apos;</em>Évangile de Thomas (une collection gnostique des paroles de Jésus)</p></li></ul><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Matt10:3\">Mt 10.3</a> ; <a href=\"https://ref.ly/Mark3:18\">Mc 3.18</a> ; <a href=\"https://ref.ly/Luke6:15\">Lc 6.15</a> ; <a href=\"https://ref.ly/John11:16\">Jn 11.16</a> ; <a href=\"https://ref.ly/John14:5\">Jn 14.5</a> ; <a href=\"https://ref.ly/John20:24-John20:29\">Jn 20.24–29</a> ; <a href=\"https://ref.ly/John21:2\">Jn 21.2 ; </a><a href=\"https://ref.ly/Acts1:13\">Ac 1.13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40010003",
+"start_ref_usfm": "MAT 10:3",
+"end_ref": "40010003",
+"end_ref_usfm": "MAT 10:3"
+},
+{
+"start_ref": "41003018",
+"start_ref_usfm": "MRK 3:18",
+"end_ref": "41003018",
+"end_ref_usfm": "MRK 3:18"
+},
+{
+"start_ref": "42006015",
+"start_ref_usfm": "LUK 6:15",
+"end_ref": "42006015",
+"end_ref_usfm": "LUK 6:15"
+},
+{
+"start_ref": "43011016",
+"start_ref_usfm": "JHN 11:16",
+"end_ref": "43011016",
+"end_ref_usfm": "JHN 11:16"
+},
+{
+"start_ref": "43014005",
+"start_ref_usfm": "JHN 14:5",
+"end_ref": "43014005",
+"end_ref_usfm": "JHN 14:5"
+},
+{
+"start_ref": "43020028",
+"start_ref_usfm": "JHN 20:28",
+"end_ref": "43020028",
+"end_ref_usfm": "JHN 20:28"
+},
+{
+"start_ref": "43021002",
+"start_ref_usfm": "JHN 21:2",
+"end_ref": "43021002",
+"end_ref_usfm": "JHN 21:2"
+},
+{
+"start_ref": "44001013",
+"start_ref_usfm": "ACT 1:13",
+"end_ref": "44001013",
+"end_ref_usfm": "ACT 1:13"
+},
+{
+"start_ref": "43020024",
+"start_ref_usfm": "JHN 20:24",
+"end_ref": "43020029",
+"end_ref_usfm": "JHN 20:29"
+},
+{
+"start_ref": "43020026",
+"start_ref_usfm": "JHN 20:26",
+"end_ref": "43020027",
+"end_ref_usfm": "JHN 20:27"
+},
+{
+"start_ref": "43020019",
+"start_ref_usfm": "JHN 20:19",
+"end_ref": "43020025",
+"end_ref_usfm": "JHN 20:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Thomas",
+"type": "person",
+"preferred_label": "Thomas",
+"confidence": 0.8444,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "668972",
+"reference_id": 203514,
+"version": "1.0.2",
+"title": "Timothée",
+"media_type": "Text",
+"index_reference": "timothée",
+"language": "fra",
+"review_level": "None",
+"content": "<p>Timothée accompagna Paul durant une grande partie de son ministère missionnaire et fut l’un de ses aides les plus dignes de confiance. Paul lui adressa deux de ses dernières lettres. À cette époque (vers la fin de la vie de Paul), Timothée dirigeait l&apos;église d&apos;Éphèse.</p><p>Issu d&apos;une famille pieuse, Timothée fut élevé dans la foi grâce à sa mère et à sa grand-mère&nbsp;(<a href=\"https://ref.ly/2Tim1:5\">2Tm 1.5</a>).&nbsp;Il était très respecté des chrétiens de sa ville natale de Lystre, et de la ville voisine d&apos;Icone. Il rejoignit l&apos;équipe de Paul pendant le deuxième voyage missionnaire, et les paroles prophétiques confirmèrent qu&apos;il avait été choisi pour un ministère particulier. Timothée reçut un don spécial pour servir, transmis par l&apos;imposition des mains de Paul et des anciens (<a href=\"https://ref.ly/1Tim1:18\">1Tm 1.18</a> ; <a href=\"https://ref.ly/1Tim4:14\">4.14</a> ; <a href=\"https://ref.ly/2Tim1:6\">2Tm 1.6</a>). Pour être accepté parmi le peuple juif auquel ils souhaitaient enseigner la parole de Jésus, Paul fit circoncire Timothée (<a href=\"https://ref.ly/Acts16:1-Acts16:3\">Ac 16.1–3</a>).</p><p>Au cours des quinze années suivantes, Paul envoya Timothée pour des missions spécifiques dans diverses églises (<a href=\"https://ref.ly/Acts19:22\">Ac 19.22</a> ; <a href=\"https://ref.ly/1Cor4:17\">1Co 4.17</a> ; <a href=\"https://ref.ly/1Cor16:10-1Cor16:11\">16.10–11</a> ; <a href=\"https://ref.ly/Phil2:19-Phil2:23\">Ph 2.19–23</a> ; <a href=\"https://ref.ly/1Thess3:1-1Thess3:6\">1Th 3.1–6</a> ; <a href=\"https://ref.ly/1Tim1:3\">1Tm 1.3</a> ; voir aussi <a href=\"https://ref.ly/Acts17:14-Acts17:15\">Ac 17.14–15</a> ; <a href=\"https://ref.ly/Acts18:5\">18.5</a>). Paul mentionna même le nom de Timothée en tant que co-auteur dans plusieurs de ses lettres (<a href=\"https://ref.ly/2Cor1:1\">2Co 1.1</a> ; <a href=\"https://ref.ly/Phil1:1\">Ph 1.1</a> ; <a href=\"https://ref.ly/Col1:1\">Col 1.1</a> ; <a href=\"https://ref.ly/1Thess1:1\">1 Th 1.1</a> ; <a href=\"https://ref.ly/2Thess1:1\">2Th 1.1</a> ; <a href=\"https://ref.ly/Phlm1:1\">Phm 1.1</a>). Paul entretenait manifestement une relation étroite avec Timothée et le respectait beaucoup (voir <a href=\"https://ref.ly/Rom16:21\">Rm 16.21</a> ; <a href=\"https://ref.ly/1Cor4:17\">1Co 4.17</a> ; <a href=\"https://ref.ly/1Thess3:2\">1Th 3.2</a> ; <a href=\"https://ref.ly/1Tim1:2\">1Tm 1.2</a> ; <a href=\"https://ref.ly/1Tim6:11\">6.11</a> ; <a href=\"https://ref.ly/2Tim1:2\">2 Tm 1.2</a>). Alors que Paul approchait de la fin de sa vie en prison, il exprima ardemment le désir de revoir Timothée (<a href=\"https://ref.ly/2Tim1:3-2Tim1:4\">2Tm 1.3–4</a>). Timothée, parmi tous les collaborateurs de Paul, est particulièrement loué pour son dévouement désintéressé à Jésus et à son peuple (<a href=\"https://ref.ly/Phil2:20-Phil2:22\">Ph 2.20–22</a>).</p><p>Dans sa seconde lettre à Timothée, écrite peu avant le martyre de Paul, Paul encourageait Timothée à être audacieux et intrépide dans le partage de la bonne nouvelle, le préparant à souffrir pour le nom de Jésus (<a href=\"https://ref.ly/2Tim1:8\">2Tm 1.8</a> ; <a href=\"https://ref.ly/2Tim2:1-2Tim2:3\">2.1–3</a> ; <a href=\"https://ref.ly/2Tim4:1-2Tim4:2\">4.1–2</a>, <a href=\"https://ref.ly/2Tim4:5\">5</a>). Ce message puissant était destiné à quelqu&apos;un qui pouvait être timide par nature (voir <a href=\"https://ref.ly/2Tim1:6-2Tim1:7\">2Tm 1.6–7</a>). Par la suite, Timothée lui-même a été incarcéré (<a href=\"https://ref.ly/Heb13:23\">Hé 13.23</a>).</p><p>En somme, Timothée est un excellent exemple de service humble et fidèle envers Jésus. Animé d’un dévouement désintéressé, il s&apos;est consacré pleinement à l’œuvre du Seigneur et au bien de son peuple, répondant avec zèle aux besoins là où son aide était requise. Sa vie rappelle aux croyants l&apos;importance d&apos;être des témoins solidement ancrés dans la foi.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Acts16:1-Acts16:3\">Ac 16.1–3</a> ; <a href=\"https://ref.ly/Acts17:14-Acts17:15\">17.14–15</a> ; <a href=\"https://ref.ly/Acts18:5\">18.5</a> ; <a href=\"https://ref.ly/Acts19:22\">19.22</a> ; <a href=\"https://ref.ly/Acts20:4\">20.4</a> ; <a href=\"https://ref.ly/Rom16:21\">Rm 16.21</a> ; <a href=\"https://ref.ly/1Cor4:17\">1Co 4.17</a> ; <a href=\"https://ref.ly/1Cor16:10-1Cor16:11\">16.10–11</a> ; <a href=\"https://ref.ly/2Cor1:1\">2Co 1.1</a>, <a href=\"https://ref.ly/2Cor1:19\">19</a> ; <a href=\"https://ref.ly/Phil1:1\">Ph 1.1</a> ; <a href=\"https://ref.ly/Phil2:19-Phil2:23\">2.19–23</a> ; <a href=\"https://ref.ly/Col1:1\">Col 1.1</a> ; <a href=\"https://ref.ly/1Thess1:1\">1Th 1.1</a> ; <a href=\"https://ref.ly/1Thess3:2-1Thess3:6\">3.2–6</a> ; <a href=\"https://ref.ly/2Thess1:1\">2Th 1.1</a> ; 1–2 Tm ; <a href=\"https://ref.ly/Phlm1:1\">Phm 1.1</a> ; <a href=\"https://ref.ly/Heb13:23\">Hé 13.23</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44018005",
+"start_ref_usfm": "ACT 18:5",
+"end_ref": "44018005",
+"end_ref_usfm": "ACT 18:5"
+},
+{
+"start_ref": "44019022",
+"start_ref_usfm": "ACT 19:22",
+"end_ref": "44019022",
+"end_ref_usfm": "ACT 19:22"
+},
+{
+"start_ref": "44020004",
+"start_ref_usfm": "ACT 20:4",
+"end_ref": "44020004",
+"end_ref_usfm": "ACT 20:4"
+},
+{
+"start_ref": "45016021",
+"start_ref_usfm": "ROM 16:21",
+"end_ref": "45016021",
+"end_ref_usfm": "ROM 16:21"
+},
+{
+"start_ref": "46004017",
+"start_ref_usfm": "1CO 4:17",
+"end_ref": "46004017",
+"end_ref_usfm": "1CO 4:17"
+},
+{
+"start_ref": "47001001",
+"start_ref_usfm": "2CO 1:1",
+"end_ref": "47001001",
+"end_ref_usfm": "2CO 1:1"
+},
+{
+"start_ref": "47001019",
+"start_ref_usfm": "2CO 1:19",
+"end_ref": "47001019",
+"end_ref_usfm": "2CO 1:19"
+},
+{
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50001001",
+"end_ref_usfm": "PHP 1:1"
+},
+{
+"start_ref": "51001001",
+"start_ref_usfm": "COL 1:1",
+"end_ref": "51001001",
+"end_ref_usfm": "COL 1:1"
+},
+{
+"start_ref": "52001001",
+"start_ref_usfm": "1TH 1:1",
+"end_ref": "52001001",
+"end_ref_usfm": "1TH 1:1"
+},
+{
+"start_ref": "52003002",
+"start_ref_usfm": "1TH 3:2",
+"end_ref": "52003002",
+"end_ref_usfm": "1TH 3:2"
+},
+{
+"start_ref": "53001001",
+"start_ref_usfm": "2TH 1:1",
+"end_ref": "53001001",
+"end_ref_usfm": "2TH 1:1"
+},
+{
+"start_ref": "54001002",
+"start_ref_usfm": "1TI 1:2",
+"end_ref": "54001002",
+"end_ref_usfm": "1TI 1:2"
+},
+{
+"start_ref": "54001003",
+"start_ref_usfm": "1TI 1:3",
+"end_ref": "54001003",
+"end_ref_usfm": "1TI 1:3"
+},
+{
+"start_ref": "54001018",
+"start_ref_usfm": "1TI 1:18",
+"end_ref": "54001018",
+"end_ref_usfm": "1TI 1:18"
+},
+{
+"start_ref": "54004014",
+"start_ref_usfm": "1TI 4:14",
+"end_ref": "54004014",
+"end_ref_usfm": "1TI 4:14"
+},
+{
+"start_ref": "54006011",
+"start_ref_usfm": "1TI 6:11",
+"end_ref": "54006011",
+"end_ref_usfm": "1TI 6:11"
+},
+{
+"start_ref": "55001002",
+"start_ref_usfm": "2TI 1:2",
+"end_ref": "55001002",
+"end_ref_usfm": "2TI 1:2"
+},
+{
+"start_ref": "55001005",
+"start_ref_usfm": "2TI 1:5",
+"end_ref": "55001005",
+"end_ref_usfm": "2TI 1:5"
+},
+{
+"start_ref": "55001006",
+"start_ref_usfm": "2TI 1:6",
+"end_ref": "55001006",
+"end_ref_usfm": "2TI 1:6"
+},
+{
+"start_ref": "55001008",
+"start_ref_usfm": "2TI 1:8",
+"end_ref": "55001008",
+"end_ref_usfm": "2TI 1:8"
+},
+{
+"start_ref": "55004005",
+"start_ref_usfm": "2TI 4:5",
+"end_ref": "55004005",
+"end_ref_usfm": "2TI 4:5"
+},
+{
+"start_ref": "57001001",
+"start_ref_usfm": "PHM 1:1",
+"end_ref": "57001001",
+"end_ref_usfm": "PHM 1:1"
+},
+{
+"start_ref": "58013023",
+"start_ref_usfm": "HEB 13:23",
+"end_ref": "58013023",
+"end_ref_usfm": "HEB 13:23"
+},
+{
+"start_ref": "55001006",
+"start_ref_usfm": "2TI 1:6",
+"end_ref": "55001007",
+"end_ref_usfm": "2TI 1:7"
+},
+{
+"start_ref": "44016001",
+"start_ref_usfm": "ACT 16:1",
+"end_ref": "44016003",
+"end_ref_usfm": "ACT 16:3"
+},
+{
+"start_ref": "44017014",
+"start_ref_usfm": "ACT 17:14",
+"end_ref": "44017015",
+"end_ref_usfm": "ACT 17:15"
+},
+{
+"start_ref": "50002019",
+"start_ref_usfm": "PHP 2:19",
+"end_ref": "50002023",
+"end_ref_usfm": "PHP 2:23"
+},
+{
+"start_ref": "52003002",
+"start_ref_usfm": "1TH 3:2",
+"end_ref": "52003006",
+"end_ref_usfm": "1TH 3:6"
+},
+{
+"start_ref": "55001003",
+"start_ref_usfm": "2TI 1:3",
+"end_ref": "55001004",
+"end_ref_usfm": "2TI 1:4"
+},
+{
+"start_ref": "55004001",
+"start_ref_usfm": "2TI 4:1",
+"end_ref": "55004002",
+"end_ref_usfm": "2TI 4:2"
+},
+{
+"start_ref": "46016010",
+"start_ref_usfm": "1CO 16:10",
+"end_ref": "46016011",
+"end_ref_usfm": "1CO 16:11"
+},
+{
+"start_ref": "52003001",
+"start_ref_usfm": "1TH 3:1",
+"end_ref": "52003006",
+"end_ref_usfm": "1TH 3:6"
+},
+{
+"start_ref": "50002020",
+"start_ref_usfm": "PHP 2:20",
+"end_ref": "50002022",
+"end_ref_usfm": "PHP 2:22"
+},
+{
+"start_ref": "55002001",
+"start_ref_usfm": "2TI 2:1",
+"end_ref": "55002003",
+"end_ref_usfm": "2TI 2:3"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Timothée",
+"confidence": 0.7878,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "668973",
+"reference_id": 203515,
+"version": "1.0.2",
+"title": "Tite",
+"media_type": "Text",
+"index_reference": "tite",
+"language": "fra",
+"review_level": "None",
+"content": "<p>D&apos;origine non juive (païenne), Tite est devenu disciple de Jésus et se distingua comme l&apos;un des collaborateurs les plus fidèles de Paul. </p><p>Ce dernier lui écrivit l&apos;une de ses dernières lettres, alors que Tite œuvrait en Crète, fortifiant l&apos;Église. Par son exemple, Tite illustre comment la Bonne Nouvelle de Jésus a transformé la vie des non-Juifs. En effet, nombre d&apos;entre eux quittèrent leur foyer pour accompagner Paul dans la diffusion du message de l&apos;Évangile.</p><p>Nous ignorons tout des origines et de la conversion de Tite, son nom n&apos;étant pas mentionné dans les Actes. Nous entendons parler de lui pour la première fois comme d&apos;un croyant non juif qui est allé avec Paul et Barnabas à Jérusalem (<a href=\"https://ref.ly/Gal2:1\">Ga 2.1</a>). Paul souligne que Tite n&apos;a pas été contraint de se faire circoncire (<a href=\"https://ref.ly/Gal2:3\">Ga 2.3</a>).</p><p>Plus tard, en tant que membre de confiance de l&apos;équipe de Paul, Tite fut envoyé en mission spéciale à Corinthe pour gérer une situation difficile, vraisemblablement en portant la lettre exigeante évoquée dans <a href=\"https://ref.ly/2Cor2:4\">2Co 2.4</a>, <a href=\"https://ref.ly/2Cor2:9\">9</a> ; <a href=\"https://ref.ly/2Cor7:8-2Cor7:9\">7.8–9</a>. Cette tâche nécessitait un responsable à la fois doux et ferme, et Tite se révéla avoir une personnalité plus affirmée que celle de Timothée (voir <a href=\"https://ref.ly/1Cor16:10-1Cor16:11\">1Co 16.10–11</a> ; <a href=\"https://ref.ly/2Cor7:13-2Cor7:15\">2Co 7.13–15</a> ; <a href=\"https://ref.ly/2Tim1:6-2Tim1:7\">2 Tm 1.6–7</a>).</p><p>Tite revint ensuite vers Paul avec de bonnes nouvelles (<a href=\"https://ref.ly/2Cor7:6-2Cor7:7\">2Co 7.6–7</a>, <a href=\"https://ref.ly/2Cor7:13-2Cor7:15\">13–15</a>). Par la suite, Paul le renvoya à Corinthe avec la lettre que nous connaissons sous le nom de <em>2 Corinthiens</em>, qui exhortait les croyants à finaliser leur collecte de fonds pour venir en aide aux chrétiens démunis de Jérusalem. Tite accepta cette mission avec enthousiasme, animé d&apos;un profond attachement pour les chrétiens de Corinthe (<a href=\"https://ref.ly/2Cor7:15\">2Co 7.15</a> ; <a href=\"https://ref.ly/2Cor8:6\">8.6</a>, <a href=\"https://ref.ly/2Cor8:16-2Cor8:17\">16–17</a>). Paul le décrivit comme un homme d’une grande intégrité, à son image (<a href=\"https://ref.ly/2Cor8:23\">2Co 8.23</a> ; <a href=\"https://ref.ly/2Cor12:18\">12.18</a>).</p><p>Quelques années plus tard, après le premier procès de Paul à Rome et sa libération, il laissa Tite en Crète pour affermir l&apos;Église locale. Pendant son séjour en Crète, Paul lui écrivit une lettre prodiguant des conseils sur le choix des dirigeants de l&apos;Église et l&apos;encourageant à enseigner et à manifester un comportement pieux. Paul demanda ensuite à Tite de le rejoindre à Nicopolis, en Achaïe, où il prévoyait de passer l&apos;hiver (<a href=\"https://ref.ly/Titus3:12\">Tt 3.12</a>). Plus tard, peu avant que Paul ne soit exécuté à Rome, il indiqua que Tite était parti en Dalmatie, le long de la côte adriatique, au nord-ouest de la Grèce moderne, probablement pour y exercer son ministère (<a href=\"https://ref.ly/2Tim4:10\">2Tm 4.10</a>).</p><p>Selon une tradition ancienne rapportée par l&apos;historien de l&apos;Église Eusèbe, Tite s&apos;établit en Crète et y servit comme responsable jusqu&apos;à un âge très avancé (Eusèbe, <em>Histoire de l&apos;Église</em> 3.4.6).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/2Cor2:13\">2Co 2.13</a> ; <a href=\"https://ref.ly/2Cor7:6\">7.6</a>, <a href=\"https://ref.ly/2Cor7:13-2Cor7:14\">13–14</a> ; <a href=\"https://ref.ly/2Cor8:6\">8.6</a>, <a href=\"https://ref.ly/2Cor8:16-2Cor8:17\">16–17</a>, <a href=\"https://ref.ly/2Cor8:23\">23</a> ; <a href=\"https://ref.ly/2Cor12:18\">12.18</a> ; <a href=\"https://ref.ly/Gal2:1\">Ga 2.1</a>, <a href=\"https://ref.ly/Gal2:3\">3</a> ; <a href=\"https://ref.ly/2Tim4:10\">2Tm 4.10</a> ; <a href=\"https://ref.ly/Titus1:4\">Ti 1.4</a> ; <a href=\"https://ref.ly/Titus2:1\">2.1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "47002004",
+"start_ref_usfm": "2CO 2:4",
+"end_ref": "47002004",
+"end_ref_usfm": "2CO 2:4"
+},
+{
+"start_ref": "47002009",
+"start_ref_usfm": "2CO 2:9",
+"end_ref": "47002009",
+"end_ref_usfm": "2CO 2:9"
+},
+{
+"start_ref": "47002013",
+"start_ref_usfm": "2CO 2:13",
+"end_ref": "47002013",
+"end_ref_usfm": "2CO 2:13"
+},
+{
+"start_ref": "47007006",
+"start_ref_usfm": "2CO 7:6",
+"end_ref": "47007006",
+"end_ref_usfm": "2CO 7:6"
+},
+{
+"start_ref": "47007015",
+"start_ref_usfm": "2CO 7:15",
+"end_ref": "47007015",
+"end_ref_usfm": "2CO 7:15"
+},
+{
+"start_ref": "47008006",
+"start_ref_usfm": "2CO 8:6",
+"end_ref": "47008006",
+"end_ref_usfm": "2CO 8:6"
+},
+{
+"start_ref": "47008023",
+"start_ref_usfm": "2CO 8:23",
+"end_ref": "47008023",
+"end_ref_usfm": "2CO 8:23"
+},
+{
+"start_ref": "47012018",
+"start_ref_usfm": "2CO 12:18",
+"end_ref": "47012018",
+"end_ref_usfm": "2CO 12:18"
+},
+{
+"start_ref": "48002001",
+"start_ref_usfm": "GAL 2:1",
+"end_ref": "48002001",
+"end_ref_usfm": "GAL 2:1"
+},
+{
+"start_ref": "48002003",
+"start_ref_usfm": "GAL 2:3",
+"end_ref": "48002003",
+"end_ref_usfm": "GAL 2:3"
+},
+{
+"start_ref": "55004010",
+"start_ref_usfm": "2TI 4:10",
+"end_ref": "55004010",
+"end_ref_usfm": "2TI 4:10"
+},
+{
+"start_ref": "56001004",
+"start_ref_usfm": "TIT 1:4",
+"end_ref": "56001004",
+"end_ref_usfm": "TIT 1:4"
+},
+{
+"start_ref": "56002001",
+"start_ref_usfm": "TIT 2:1",
+"end_ref": "56002001",
+"end_ref_usfm": "TIT 2:1"
+},
+{
+"start_ref": "56003012",
+"start_ref_usfm": "TIT 3:12",
+"end_ref": "56003012",
+"end_ref_usfm": "TIT 3:12"
+},
+{
+"start_ref": "55001006",
+"start_ref_usfm": "2TI 1:6",
+"end_ref": "55001007",
+"end_ref_usfm": "2TI 1:7"
+},
+{
+"start_ref": "47007006",
+"start_ref_usfm": "2CO 7:6",
+"end_ref": "47007007",
+"end_ref_usfm": "2CO 7:7"
+},
+{
+"start_ref": "46016010",
+"start_ref_usfm": "1CO 16:10",
+"end_ref": "46016011",
+"end_ref_usfm": "1CO 16:11"
+},
+{
+"start_ref": "47007008",
+"start_ref_usfm": "2CO 7:8",
+"end_ref": "47007009",
+"end_ref_usfm": "2CO 7:9"
+},
+{
+"start_ref": "47008016",
+"start_ref_usfm": "2CO 8:16",
+"end_ref": "47008017",
+"end_ref_usfm": "2CO 8:17"
+},
+{
+"start_ref": "47007013",
+"start_ref_usfm": "2CO 7:13",
+"end_ref": "47007015",
+"end_ref_usfm": "2CO 7:15"
+},
+{
+"start_ref": "47007013",
+"start_ref_usfm": "2CO 7:13",
+"end_ref": "47007014",
+"end_ref_usfm": "2CO 7:14"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Titus",
+"type": "person",
+"preferred_label": "Tite",
+"confidence": 0.792,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "668894",
+"reference_id": 203436,
+"version": "1.0.2",
+"title": "Tsadok",
+"media_type": "Text",
+"index_reference": "tsadok",
+"language": "fra",
+"review_level": "None",
+"content": "<p>Tsadok fut une figure incontournable dans l&apos;histoire de la prêtrise en Israël. Il apparaît pour la première fois dans le récit de 2 Samuel (<a href=\"https://ref.ly/2Sam8:17\">2S 8.17</a>). Bien que certains chercheurs aient pu douter de ses origines sacerdotales, la Bible affirme qu&apos;il était un descendant d&apos;Aaron, dont la lignée remonte à Éléazar, le fils d&apos;Aaron (<a href=\"https://ref.ly/1Chr6:1-1Chr6:15\">1Ch 6.1–15</a>, <a href=\"https://ref.ly/1Chr6:50-1Chr6:53\">50–53 </a>; <a href=\"https://ref.ly/1Chr6:4-1Chr6:8\">1Ch 6.4–8</a> ; <a href=\"https://ref.ly/1Chr24:3\">24.3</a> ; <a href=\"https://ref.ly/Ezra7:2-Ezra7:5\">Esd 7.2–5</a>). Sous le règne du roi David, Tsadok officia aux côtés d&apos;Abiathar, un descendant d&apos;Éli, formant ainsi un duo de sacrificateurs (<a href=\"https://ref.ly/2Sam8:17\">2S 8.17</a> ; <a href=\"https://ref.ly/2Sam20:25\">20.25</a>).</p><p>Lorsque Absalom se révolta contre le roi David, Tsadok et Abiathar démontrèrent leur loyauté en lui apportant l&apos;arche, prêts à le rejoindre en exil (<a href=\"https://ref.ly/2Sam15:24-2Sam15:29\">2S 15.24–29</a>). Cependant, David les renvoya à Jérusalem pour qu&apos;ils servent d&apos;espions.</p><p>Plus tard, le fils de David, Adonija, tenta de s&apos;emparer du trône avec le soutien de Joab et d&apos;Abiathar. Tsadok, faisant preuve de sagesse, choisit de ne pas soutenir cette rébellion (<a href=\"https://ref.ly/1Kgs1:5-1Kgs1:10\">1R 1.5–10</a>) tandis qu&apos;Abiathar fut banni (<a href=\"https://ref.ly/1Kgs2:26-1Kgs2:27\">1R 2.26–27</a>), accomplissant ainsi la prophétie selon laquelle la maison d&apos;Éli verrait la prêtrise lui être retirée (<a href=\"https://ref.ly/1Sam2:27-1Sam2:36\">1S 2.27–36</a>). &nbsp;Dans cette prophétie, Dieu déclara : « <span>Je m’établirai un sacrificateur fidèle, qui agira selon mon cœur et selon mon âme ; je lui bâtirai une maison stable, et il marchera toujours devant mon oint </span>» (<a href=\"https://ref.ly/1Sam2:35\">1S 2.35</a>).</p><p>Tsadok accomplit cette promesse divine et devint le seul grand prêtre sous Salomon (<a href=\"https://ref.ly/1Kgs2:35\">1R 2.35</a>). Ses descendants servirent fidèlement comme sacrificateurs d&apos;Israël pendant toute la période monarchique et au-delà. Ainsi, Azaria, grand prêtre durant le règne d&apos;Ézéchias, était issu de la lignée de Tsadok (<a href=\"https://ref.ly/2Chr31:10\">2Ch 31.10</a>). Durant l&apos;exil à Babylone, la vision d&apos;Ézéchiel du nouveau temple mentionna expressément la lignée sacerdotale de Tsadok (<a href=\"https://ref.ly/Ezek40:46\">Ez 40.46</a> ; <a href=\"https://ref.ly/Ezek43:19\">43.19</a> ; <a href=\"https://ref.ly/Ezek44:15\">44.15</a> ; <a href=\"https://ref.ly/Ezek48:11\">48.11</a>). Au début des années 100 av. J.‑C., lorsque les Juifs étaient sous la domination séleucide, le grand sacerdoce devint une position politique et fut retiré des descendants de Tsadok. En raison des prophéties d&apos;Ézéchiel, des groupes juifs, comme ceux ayant écrit les Manuscrits de la mer Morte, ont continué à espérer le retour de la lignée de Tsadok dans le grand sacerdoce. Le Nouveau Testament déclare que Jésus-Christ exerce désormais la fonction de souverain sacrificateur (<a href=\"https://ref.ly/Heb9:11\">Hé 9.11</a> ; <a href=\"https://ref.ly/Heb10:12-Heb10:25\">10.12–25</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/2Sam8:17\">2S 8.17</a> ; <a href=\"https://ref.ly/2Sam15:23-2Sam15:37\">15.23–37</a> ; <a href=\"https://ref.ly/1Kgs1:5-1Kgs1:53\">1R 1.5–53</a> ; <a href=\"https://ref.ly/1Kgs2:35\">2.35</a> ; <a href=\"https://ref.ly/1Chr6:1-1Chr6:15\">1Ch 6.1–15</a>, <a href=\"https://ref.ly/1Chr6:50-1Chr6:53\">50–53</a> ; <a href=\"https://ref.ly/Ezra7:2\">Esd 7.2</a> ; <a href=\"https://ref.ly/Ezek40:46\">Ez 40.46</a> ; <a href=\"https://ref.ly/Ezek43:19\">43.19</a> ; <a href=\"https://ref.ly/Ezek44:15\">44.15</a> ; <a href=\"https://ref.ly/Ezek48:11\">48.11</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09002035",
+"start_ref_usfm": "1SA 2:35",
+"end_ref": "09002035",
+"end_ref_usfm": "1SA 2:35"
+},
+{
+"start_ref": "10008017",
+"start_ref_usfm": "2SA 8:17",
+"end_ref": "10008017",
+"end_ref_usfm": "2SA 8:17"
+},
+{
+"start_ref": "10020025",
+"start_ref_usfm": "2SA 20:25",
+"end_ref": "10020025",
+"end_ref_usfm": "2SA 20:25"
+},
+{
+"start_ref": "11002035",
+"start_ref_usfm": "1KI 2:35",
+"end_ref": "11002035",
+"end_ref_usfm": "1KI 2:35"
+},
+{
+"start_ref": "13024003",
+"start_ref_usfm": "1CH 24:3",
+"end_ref": "13024003",
+"end_ref_usfm": "1CH 24:3"
+},
+{
+"start_ref": "14031010",
+"start_ref_usfm": "2CH 31:10",
+"end_ref": "14031010",
+"end_ref_usfm": "2CH 31:10"
+},
+{
+"start_ref": "15007002",
+"start_ref_usfm": "EZR 7:2",
+"end_ref": "15007002",
+"end_ref_usfm": "EZR 7:2"
+},
+{
+"start_ref": "26040046",
+"start_ref_usfm": "EZK 40:46",
+"end_ref": "26040046",
+"end_ref_usfm": "EZK 40:46"
+},
+{
+"start_ref": "26043019",
+"start_ref_usfm": "EZK 43:19",
+"end_ref": "26043019",
+"end_ref_usfm": "EZK 43:19"
+},
+{
+"start_ref": "26044015",
+"start_ref_usfm": "EZK 44:15",
+"end_ref": "26044015",
+"end_ref_usfm": "EZK 44:15"
+},
+{
+"start_ref": "26048011",
+"start_ref_usfm": "EZK 48:11",
+"end_ref": "26048011",
+"end_ref_usfm": "EZK 48:11"
+},
+{
+"start_ref": "58009011",
+"start_ref_usfm": "HEB 9:11",
+"end_ref": "58009011",
+"end_ref_usfm": "HEB 9:11"
+},
+{
+"start_ref": "11002026",
+"start_ref_usfm": "1KI 2:26",
+"end_ref": "11002027",
+"end_ref_usfm": "1KI 2:27"
+},
+{
+"start_ref": "13006050",
+"start_ref_usfm": "1CH 6:50",
+"end_ref": "13006053",
+"end_ref_usfm": "1CH 6:53"
+},
+{
+"start_ref": "10015024",
+"start_ref_usfm": "2SA 15:24",
+"end_ref": "10015029",
+"end_ref_usfm": "2SA 15:29"
+},
+{
+"start_ref": "09002027",
+"start_ref_usfm": "1SA 2:27",
+"end_ref": "09002036",
+"end_ref_usfm": "1SA 2:36"
+},
+{
+"start_ref": "15007002",
+"start_ref_usfm": "EZR 7:2",
+"end_ref": "15007005",
+"end_ref_usfm": "EZR 7:5"
+},
+{
+"start_ref": "11001005",
+"start_ref_usfm": "1KI 1:5",
+"end_ref": "11001010",
+"end_ref_usfm": "1KI 1:10"
+},
+{
+"start_ref": "13006001",
+"start_ref_usfm": "1CH 6:1",
+"end_ref": "13006015",
+"end_ref_usfm": "1CH 6:15"
+},
+{
+"start_ref": "13006004",
+"start_ref_usfm": "1CH 6:4",
+"end_ref": "13006008",
+"end_ref_usfm": "1CH 6:8"
+},
+{
+"start_ref": "58010012",
+"start_ref_usfm": "HEB 10:12",
+"end_ref": "58010025",
+"end_ref_usfm": "HEB 10:25"
+},
+{
+"start_ref": "10015023",
+"start_ref_usfm": "2SA 15:23",
+"end_ref": "10015037",
+"end_ref_usfm": "2SA 15:37"
+},
+{
+"start_ref": "11001005",
+"start_ref_usfm": "1KI 1:5",
+"end_ref": "11001053",
+"end_ref_usfm": "1KI 1:53"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Zadok.2",
+"type": "person",
+"preferred_label": "Tsadok",
+"confidence": 0.6813,
+"match_method": "scored"
+},
+{
+"id": "person:Zadok.4",
+"type": "person",
+"preferred_label": "Tsadok",
+"confidence": 0.6065,
+"match_method": "scored"
+}
+]
+}
+}
 ]

@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesProfiles",
-"date_created": "2026-02-25",
+"date_created": "2026-02-27",
 "language": "zht",
 "localizations": [
 "eng",
@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-25T21:15:50.634449"
+"dateCreated": "2026-02-27T17:22:24.779108"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesProfiles": {
-"timestamp": "2026-02-25T21:15:50.634449"
+"timestamp": "2026-02-27T17:22:24.779108"
 }
 }
 },
@@ -95,7 +95,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 7162,
+"size": 6032,
 "scope": {
 "ai": [
 "埃及"
@@ -104,7 +104,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 3953,
+"size": 3831,
 "scope": {
 "an": [
 "安提阿古四世"
@@ -113,7 +113,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 35541,
+"size": 30419,
 "scope": {
 "ba": [
 "巴比倫",
@@ -126,7 +126,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 4155,
+"size": 3753,
 "scope": {
 "bai": [
 "百基拉和亞居拉"
@@ -135,7 +135,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 14697,
+"size": 12335,
 "scope": {
 "bao": [
 "保羅（掃羅）"
@@ -144,7 +144,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 10821,
+"size": 9019,
 "scope": {
 "ben": [
 "本丟‧彼拉多"
@@ -153,7 +153,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 4923,
+"size": 4297,
 "scope": {
 "can": [
 "參孫"
@@ -162,7 +162,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 20101,
+"size": 16833,
 "scope": {
 "da": [
 "大衛",
@@ -172,7 +172,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 7428,
+"size": 6242,
 "scope": {
 "dan": [
 "但以理"
@@ -181,7 +181,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 2551,
+"size": 2205,
 "scope": {
 "di": [
 "底波拉"
@@ -190,7 +190,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 5354,
+"size": 4672,
 "scope": {
 "duo": [
 "多馬"
@@ -199,7 +199,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 20611,
+"size": 16615,
 "scope": {
 "fa": [
 "法老",
@@ -209,7 +209,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 23646,
+"size": 19416,
 "scope": {
 "fei": [
 "非利士人",
@@ -220,7 +220,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 6241,
+"size": 5447,
 "scope": {
 "ge": [
 "哥林多"
@@ -229,7 +229,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 5063,
+"size": 4213,
 "scope": {
 "he": [
 "赫人"
@@ -238,7 +238,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 4067,
+"size": 3609,
 "scope": {
 "ji": [
 "基甸"
@@ -247,7 +247,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 17152,
+"size": 14052,
 "scope": {
 "jia": [
 "加略人猶大",
@@ -257,7 +257,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 9967,
+"size": 8379,
 "scope": {
 "la": [
 "拉結",
@@ -267,7 +267,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 14052,
+"size": 11456,
 "scope": {
 "li": [
 "利百加",
@@ -277,7 +277,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 9128,
+"size": 7932,
 "scope": {
 "lu": [
 "路得",
@@ -287,7 +287,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 30100,
+"size": 26186,
 "scope": {
 "luo": [
 "羅波安",
@@ -300,7 +300,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 21064,
+"size": 18286,
 "scope": {
 "ma": [
 "馬大，馬利亞，和拉撒路",
@@ -312,7 +312,7 @@
 },
 "json/023.content.json": {
 "mimeType": "text/json",
-"size": 6195,
+"size": 5177,
 "scope": {
 "mai": [
 "麥基洗德"
@@ -321,7 +321,7 @@
 },
 "json/024.content.json": {
 "mimeType": "text/json",
-"size": 10016,
+"size": 9212,
 "scope": {
 "mi": [
 "米底亞人和波斯人",
@@ -331,7 +331,7 @@
 },
 "json/025.content.json": {
 "mimeType": "text/json",
-"size": 10093,
+"size": 8235,
 "scope": {
 "ming": [
 "名叫馬利亞的婦女"
@@ -340,7 +340,7 @@
 },
 "json/026.content.json": {
 "mimeType": "text/json",
-"size": 25443,
+"size": 20719,
 "scope": {
 "mo": [
 "摩西",
@@ -350,7 +350,7 @@
 },
 "json/027.content.json": {
 "mimeType": "text/json",
-"size": 22020,
+"size": 18340,
 "scope": {
 "ni": [
 "尼布甲尼撒二世",
@@ -362,7 +362,7 @@
 },
 "json/028.content.json": {
 "mimeType": "text/json",
-"size": 6242,
+"size": 5056,
 "scope": {
 "nuo": [
 "挪亞"
@@ -371,7 +371,7 @@
 },
 "json/029.content.json": {
 "mimeType": "text/json",
-"size": 7452,
+"size": 6042,
 "scope": {
 "ren": [
 "人子"
@@ -380,7 +380,7 @@
 },
 "json/030.content.json": {
 "mimeType": "text/json",
-"size": 50504,
+"size": 41596,
 "scope": {
 "sa": [
 "撒但",
@@ -394,7 +394,7 @@
 },
 "json/031.content.json": {
 "mimeType": "text/json",
-"size": 4952,
+"size": 4158,
 "scope": {
 "sai": [
 "塞魯士二世"
@@ -403,7 +403,7 @@
 },
 "json/032.content.json": {
 "mimeType": "text/json",
-"size": 4081,
+"size": 3511,
 "scope": {
 "sao": [
 "掃羅"
@@ -412,7 +412,7 @@
 },
 "json/033.content.json": {
 "mimeType": "text/json",
-"size": 17540,
+"size": 13946,
 "scope": {
 "shi": [
 "施洗約翰"
@@ -421,7 +421,7 @@
 },
 "json/034.content.json": {
 "mimeType": "text/json",
-"size": 7240,
+"size": 5886,
 "scope": {
 "si": [
 "司提反"
@@ -430,7 +430,7 @@
 },
 "json/035.content.json": {
 "mimeType": "text/json",
-"size": 10457,
+"size": 8813,
 "scope": {
 "suo": [
 "所羅巴伯",
@@ -440,7 +440,7 @@
 },
 "json/036.content.json": {
 "mimeType": "text/json",
-"size": 18657,
+"size": 15389,
 "scope": {
 "ti": [
 "提多",
@@ -450,7 +450,7 @@
 },
 "json/037.content.json": {
 "mimeType": "text/json",
-"size": 5028,
+"size": 4234,
 "scope": {
 "wu": [
 "烏西雅"
@@ -459,7 +459,7 @@
 },
 "json/038.content.json": {
 "mimeType": "text/json",
-"size": 75640,
+"size": 63576,
 "scope": {
 "xi": [
 "西庇太的兒子約翰",
@@ -475,7 +475,7 @@
 },
 "json/039.content.json": {
 "mimeType": "text/json",
-"size": 4561,
+"size": 3879,
 "scope": {
 "xia": [
 "夏甲"
@@ -484,7 +484,7 @@
 },
 "json/040.content.json": {
 "mimeType": "text/json",
-"size": 2994,
+"size": 2760,
 "scope": {
 "xue": [
 "薛西一世"
@@ -493,7 +493,7 @@
 },
 "json/041.content.json": {
 "mimeType": "text/json",
-"size": 154418,
+"size": 127414,
 "scope": {
 "ya": [
 "押尼珥",
@@ -519,7 +519,7 @@
 },
 "json/042.content.json": {
 "mimeType": "text/json",
-"size": 37096,
+"size": 30876,
 "scope": {
 "ye": [
 "耶利米",
@@ -533,7 +533,7 @@
 },
 "json/043.content.json": {
 "mimeType": "text/json",
-"size": 90915,
+"size": 74691,
 "scope": {
 "yi": [
 "以弗所",
@@ -553,7 +553,7 @@
 },
 "json/044.content.json": {
 "mimeType": "text/json",
-"size": 21455,
+"size": 17225,
 "scope": {
 "you": [
 "猶大",
@@ -564,7 +564,7 @@
 },
 "json/045.content.json": {
 "mimeType": "text/json",
-"size": 56319,
+"size": 46561,
 "scope": {
 "yue": [
 "約翰·馬可",
@@ -579,7 +579,7 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 4466
+"size": 4379
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
@@ -587,7 +587,7 @@
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 20086
+"size": 19966
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
@@ -607,7 +607,7 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 10888
+"size": 10828
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
@@ -627,7 +627,7 @@
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 11361
+"size": 11296
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
@@ -651,7 +651,7 @@
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 6667
+"size": 6609
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
@@ -659,7 +659,7 @@
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 18264
+"size": 18207
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
@@ -679,11 +679,11 @@
 },
 "md/026.content.md": {
 "mimeType": "text/markdown",
-"size": 11901
+"size": 11841
 },
 "md/027.content.md": {
 "mimeType": "text/markdown",
-"size": 11110
+"size": 11048
 },
 "md/028.content.md": {
 "mimeType": "text/markdown",
@@ -691,11 +691,11 @@
 },
 "md/029.content.md": {
 "mimeType": "text/markdown",
-"size": 3792
+"size": 3726
 },
 "md/030.content.md": {
 "mimeType": "text/markdown",
-"size": 23575
+"size": 23383
 },
 "md/031.content.md": {
 "mimeType": "text/markdown",
@@ -715,7 +715,7 @@
 },
 "md/035.content.md": {
 "mimeType": "text/markdown",
-"size": 6027
+"size": 5963
 },
 "md/036.content.md": {
 "mimeType": "text/markdown",
@@ -723,11 +723,11 @@
 },
 "md/037.content.md": {
 "mimeType": "text/markdown",
-"size": 3379
+"size": 3189
 },
 "md/038.content.md": {
 "mimeType": "text/markdown",
-"size": 39170
+"size": 39110
 },
 "md/039.content.md": {
 "mimeType": "text/markdown",
@@ -739,7 +739,7 @@
 },
 "md/041.content.md": {
 "mimeType": "text/markdown",
-"size": 73033
+"size": 72570
 },
 "md/042.content.md": {
 "mimeType": "text/markdown",
@@ -747,11 +747,11 @@
 },
 "md/043.content.md": {
 "mimeType": "text/markdown",
-"size": 41985
+"size": 41799
 },
 "md/044.content.md": {
 "mimeType": "text/markdown",
-"size": 9173
+"size": 9114
 },
 "md/045.content.md": {
 "mimeType": "text/markdown",

@@ -1,756 +1,727 @@
 [
-  {
-    "content_id": "500461",
-    "reference_id": 203404,
-    "version": "1.0.2",
-    "title": "Rachel",
-    "media_type": "Text",
-    "index_reference": "rachel",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Rachel was Laban&apos;s younger daughter. She was beautiful, and Jacob loved her more than his other wives. He first met her when he arrived at Paddan-aram in Haran. He helped her remove the stone from a well and watered her father’s sheep (<a href=\"https://ref.ly/Gen29:10\">Genesis 29:10</a>). Jacob agreed to work seven years for Laban to marry Rachel. The time felt like only a few days because he loved her so much.</p><p>Laban tricked Jacob into marrying Leah, his older and less attractive daughter, before allowing him to marry Rachel. Unlike Leah, Rachel could not have children at first (<a href=\"https://ref.ly/Gen29:31\">Genesis 29:31</a>; <a href=\"https://ref.ly/Gen30:1\">30:1</a>). She gave her servant Bilhah to Jacob to have children for her, resulting in the births of Dan and Naphtali (<a href=\"https://ref.ly/Gen30:3-Gen30:8\">Genesis 30:3–8</a>). Eventually, Rachel became pregnant and gave birth to Joseph (<a href=\"https://ref.ly/Gen30:22-Gen30:24\">Genesis 30:22–24</a>). Soon after, Jacob left Haran with his wives, children, and possessions.</p><p>Between Bethel and Bethlehem, Rachel died while giving birth to Benjamin (<a href=\"https://ref.ly/Gen35:16-Gen35:20\">Genesis 35:16–20</a>). Jacob set up a pillar over her tomb, which remained a landmark even during Saul’s time (<a href=\"https://ref.ly/1Sam10:2\">1 Samuel 10:2</a>). Rachel and Leah are respected for building up the house of Israel (<a href=\"https://ref.ly/Ruth4:11\">Ruth 4:11</a>). In <a href=\"https://ref.ly/Jer31:15\">Jeremiah 31:15</a>, Rachel is shown crying for her children taken into captivity. Matthew refers to Jeremiah’s words during Herod’s killing of male infants around Bethlehem shortly after Jesus’s birth (<a href=\"https://ref.ly/Matt2:16-Matt2:18\">Matthew 2:16–18</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen29:6-Gen30:24\">Genesis 29:6–30:24</a>; <a href=\"https://ref.ly/Gen31:4-Gen31:19\">31:4–19</a>, <a href=\"https://ref.ly/Gen31:31-Gen31:35\">31–35</a>; <a href=\"https://ref.ly/Gen33:1-Gen33:7\">33:1–7</a>; <a href=\"https://ref.ly/Gen35:16-Gen35:20\">35:16–20</a>; <a href=\"https://ref.ly/Gen46:19-Gen46:22\">46:19–22</a>; <a href=\"https://ref.ly/Gen48:7\">48:7</a>; <a href=\"https://ref.ly/Ruth4:11\">Ruth 4:11</a>; <a href=\"https://ref.ly/1Sam10:2\">1 Samuel 10:2</a>; <a href=\"https://ref.ly/Jer31:15\">Jeremiah 31:15</a>; <a href=\"https://ref.ly/Matt2:18\">Matthew 2:18</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01029010",
-          "start_ref_usfm": "GEN 29:10",
-          "end_ref": "01029010",
-          "end_ref_usfm": "GEN 29:10"
-        },
-        {
-          "start_ref": "01029031",
-          "start_ref_usfm": "GEN 29:31",
-          "end_ref": "01029031",
-          "end_ref_usfm": "GEN 29:31"
-        },
-        {
-          "start_ref": "01030001",
-          "start_ref_usfm": "GEN 30:1",
-          "end_ref": "01030001",
-          "end_ref_usfm": "GEN 30:1"
-        },
-        {
-          "start_ref": "01048007",
-          "start_ref_usfm": "GEN 48:7",
-          "end_ref": "01048007",
-          "end_ref_usfm": "GEN 48:7"
-        },
-        {
-          "start_ref": "08004011",
-          "start_ref_usfm": "RUT 4:11",
-          "end_ref": "08004011",
-          "end_ref_usfm": "RUT 4:11"
-        },
-        {
-          "start_ref": "09010002",
-          "start_ref_usfm": "1SA 10:2",
-          "end_ref": "09010002",
-          "end_ref_usfm": "1SA 10:2"
-        },
-        {
-          "start_ref": "24031015",
-          "start_ref_usfm": "JER 31:15",
-          "end_ref": "24031015",
-          "end_ref_usfm": "JER 31:15"
-        },
-        {
-          "start_ref": "40002018",
-          "start_ref_usfm": "MAT 2:18",
-          "end_ref": "40002018",
-          "end_ref_usfm": "MAT 2:18"
-        },
-        {
-          "start_ref": "01035016",
-          "start_ref_usfm": "GEN 35:16",
-          "end_ref": "01035020",
-          "end_ref_usfm": "GEN 35:20"
-        },
-        {
-          "start_ref": "01030003",
-          "start_ref_usfm": "GEN 30:3",
-          "end_ref": "01030008",
-          "end_ref_usfm": "GEN 30:8"
-        },
-        {
-          "start_ref": "40002016",
-          "start_ref_usfm": "MAT 2:16",
-          "end_ref": "40002018",
-          "end_ref_usfm": "MAT 2:18"
-        },
-        {
-          "start_ref": "01030022",
-          "start_ref_usfm": "GEN 30:22",
-          "end_ref": "01030024",
-          "end_ref_usfm": "GEN 30:24"
-        },
-        {
-          "start_ref": "01029006",
-          "start_ref_usfm": "GEN 29:6",
-          "end_ref": "01030024",
-          "end_ref_usfm": "GEN 30:24"
-        },
-        {
-          "start_ref": "01031004",
-          "start_ref_usfm": "GEN 31:4",
-          "end_ref": "01031019",
-          "end_ref_usfm": "GEN 31:19"
-        },
-        {
-          "start_ref": "01031031",
-          "start_ref_usfm": "GEN 31:31",
-          "end_ref": "01031035",
-          "end_ref_usfm": "GEN 31:35"
-        },
-        {
-          "start_ref": "01033001",
-          "start_ref_usfm": "GEN 33:1",
-          "end_ref": "01033007",
-          "end_ref_usfm": "GEN 33:7"
-        },
-        {
-          "start_ref": "01046019",
-          "start_ref_usfm": "GEN 46:19",
-          "end_ref": "01046022",
-          "end_ref_usfm": "GEN 46:22"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Rachel",
-          "type": "person",
-          "preferred_label": "Rachel",
-          "confidence": 0.7673,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500476",
-    "reference_id": 203419,
-    "version": "1.0.2",
-    "title": "Rahab",
-    "media_type": "Text",
-    "index_reference": "rahab",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Rahab was a prostitute and a woman of faith. She remains mysterious even hundreds of years after her brief role in Israel&apos;s history. She believed in Israel&apos;s God and helped two Israelite scouts who visited her house. Because of this, her life was spared when Israel captured Jericho.</p><p>Rahab&apos;s house was on the city wall, so Joshua&apos;s scouts went there when they entered Jericho. Rahab might have been both an innkeeper and a prostitute. Other documents from the Old Testament era mention women who were both innkeepers and prostitutes. If Rahab&apos;s house was an inn, it would have been a sensible place to go. Joshua&apos;s scouts could hope to avoid unwanted attention there.</p><p>Rahab&apos;s agreement with the scouts was a strong statement of faith in Yahweh, the God of Israel (<a href=\"https://ref.ly/Josh2:8-Josh2:21\">Joshua 2:8–21</a>). As a Canaanite woman, Rahab likely followed the fertility cult of Baal, the god of storms and rain, and his partner Asherah, the earth goddess. However, after hearing about Israel&apos;s progress toward her land, Rahab realized that Yahweh, the God of Israel, is &quot;<span>God in the heavens above and on the earth below</span>&quot; (<a href=\"https://ref.ly/Josh2:11\">Joshua 2:11</a>).</p><p>After Joshua conquered Jericho, Rahab married Salmon from the tribe of Judah. She had a son named Boaz (<a href=\"https://ref.ly/Ruth4:21\">Ruth 4:21</a>; <a href=\"https://ref.ly/Matt1:5\">Matthew 1:5</a>). Rahab became Ruth&apos;s mother-in-law, another foreign woman who joined Israel. Rahab was also King David&apos;s great-great-grandmother. She is listed with Moses, David, Samson, and Samuel as an example of faith shown through good deeds (<a href=\"https://ref.ly/Heb11:31\">Hebrews 11:31</a>; <a href=\"https://ref.ly/Jas2:25\">James 2:25</a>). Rahab is one of five women, including Mary, mentioned in Matthew&apos;s genealogy of Jesus, the human family tree of God&apos;s Son (<a href=\"https://ref.ly/Matt1:5\">Matthew 1:5</a>). Rahab shows the wide reach of God&apos;s grace.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Josh2:1-Josh2:21\">Joshua 2:1–21</a>; <a href=\"https://ref.ly/Josh6:17\">6:17</a>, <a href=\"https://ref.ly/Josh6:22-Josh6:25\">22–25</a>; <a href=\"https://ref.ly/Matt1:5\">Matthew 1:5</a>; <a href=\"https://ref.ly/Heb11:31\">Hebrews 11:31</a>; <a href=\"https://ref.ly/Jas2:25\">James 2:25</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "06002011",
-          "start_ref_usfm": "JOS 2:11",
-          "end_ref": "06002011",
-          "end_ref_usfm": "JOS 2:11"
-        },
-        {
-          "start_ref": "06006017",
-          "start_ref_usfm": "JOS 6:17",
-          "end_ref": "06006017",
-          "end_ref_usfm": "JOS 6:17"
-        },
-        {
-          "start_ref": "08004021",
-          "start_ref_usfm": "RUT 4:21",
-          "end_ref": "08004021",
-          "end_ref_usfm": "RUT 4:21"
-        },
-        {
-          "start_ref": "40001005",
-          "start_ref_usfm": "MAT 1:5",
-          "end_ref": "40001005",
-          "end_ref_usfm": "MAT 1:5"
-        },
-        {
-          "start_ref": "58011031",
-          "start_ref_usfm": "HEB 11:31",
-          "end_ref": "58011031",
-          "end_ref_usfm": "HEB 11:31"
-        },
-        {
-          "start_ref": "59002025",
-          "start_ref_usfm": "JAS 2:25",
-          "end_ref": "59002025",
-          "end_ref_usfm": "JAS 2:25"
-        },
-        {
-          "start_ref": "06002008",
-          "start_ref_usfm": "JOS 2:8",
-          "end_ref": "06002021",
-          "end_ref_usfm": "JOS 2:21"
-        },
-        {
-          "start_ref": "06002001",
-          "start_ref_usfm": "JOS 2:1",
-          "end_ref": "06002021",
-          "end_ref_usfm": "JOS 2:21"
-        },
-        {
-          "start_ref": "06006022",
-          "start_ref_usfm": "JOS 6:22",
-          "end_ref": "06006025",
-          "end_ref_usfm": "JOS 6:25"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Rahab",
-          "type": "person",
-          "preferred_label": "Rahab",
-          "confidence": 0.7067,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500459",
-    "reference_id": 203402,
-    "version": "1.0.2",
-    "title": "Rebekah",
-    "media_type": "Text",
-    "index_reference": "rebekah",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Rebekah was the wife of Isaac. <a href=\"https://ref.ly/Gen24:1-Gen24:67\">Genesis 24</a> tells the story of Abraham’s servant who seeks a wife for Isaac. Following Abraham’s instructions, he traveled to Haran in Aram-naharaim (northwest Mesopotamia) to find Abraham’s relatives. Abraham did not want Isaac to marry a local Canaanite. The servant prayed that the woman God chose for Isaac would offer him a drink and also water his camels (<a href=\"https://ref.ly/Gen24:12-Gen24:14\">Genesis 24:12–14</a>). This would confirm God’s choice and show her character, hospitality, and work ethic.</p><p>God clearly answered his prayer by providing Rebekah, Bethuel&apos;s daughter (<a href=\"https://ref.ly/Gen22:23\">Genesis 22:23</a>; <a href=\"https://ref.ly/Gen25:20\">25:20</a>). Bethuel was the son of Abraham&apos;s brother Nahor (<a href=\"https://ref.ly/Gen24:24\">24:24</a>).</p><p>Abraham’s servant explained how God guided him (<a href=\"https://ref.ly/Gen24:34-Gen24:49\">Genesis 24:34–49</a>). Rebekah’s family saw it as God&apos;s work, but they hesitated to let her leave right away (<a href=\"https://ref.ly/Gen24:50-Gen24:56\">24:50–56</a>). However, Rebekah showed faith in God&apos;s plan and was ready to leave her family immediately to marry Isaac (<a href=\"https://ref.ly/Gen24:57-Gen24:58\">Genesis 24:57–58</a>). Rebekah&apos;s faith was greatly rewarded. The blessing her family gave her when she left came true when she had the next generation of God&apos;s chosen line with Isaac (<a href=\"https://ref.ly/Gen24:59-Gen24:60\">Genesis 24:59–60</a>).</p><p>Rebekah gave birth to twins, Esau and Jacob (<a href=\"https://ref.ly/Gen25:20-Gen25:26\">Genesis 25:20–26</a>). She favored Jacob, the younger son, because God told her he would be stronger and lead the two (<a href=\"https://ref.ly/Gen25:23\">Genesis 25:23</a>). Rebekah helped Jacob take the firstborn&apos;s blessing by tricking Isaac (<a href=\"https://ref.ly/Gen27:1-Gen27:40\">Genesis 27:1–40</a>). She then arranged for Jacob to go to Haran to escape Esau&apos;s anger (<a href=\"https://ref.ly/Gen27:41-Gen28:5\">Genesis 27:41–28:5</a>). Rebekah&apos;s deceit caused a lasting division in the family. She likely never saw Jacob again. However, she was buried with Isaac in the family burial site (<a href=\"https://ref.ly/Gen49:31\">Genesis 49:31</a>). She fulfilled God&apos;s plan as the mother of Jacob, the founding father of Israel.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen22:23\">Genesis 22:23</a>; <a href=\"https://ref.ly/Gen24:12-Gen24:67\">Genesis 24:12–67</a>; <a href=\"https://ref.ly/Gen25:20-Gen25:28\">Genesis 25:20–28</a>; <a href=\"https://ref.ly/Gen26:7-Gen26:8\">Genesis 26:7–8</a>, <a href=\"https://ref.ly/Gen26:35\">35</a>; <a href=\"https://ref.ly/Gen27:5-Gen27:17\">Genesis 27:5–17</a>, <a href=\"https://ref.ly/Gen27:42-Gen27:46\">42–46</a>; <a href=\"https://ref.ly/Gen29:12\">Genesis 29:12</a>; <a href=\"https://ref.ly/Gen35:8\">Genesis 35:8</a>; <a href=\"https://ref.ly/Gen49:31\">Genesis 49:31</a>; <a href=\"https://ref.ly/Rom9:10-Rom9:13\">Romans 9:10–13</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01022023",
-          "start_ref_usfm": "GEN 22:23",
-          "end_ref": "01022023",
-          "end_ref_usfm": "GEN 22:23"
-        },
-        {
-          "start_ref": "01024024",
-          "start_ref_usfm": "GEN 24:24",
-          "end_ref": "01024024",
-          "end_ref_usfm": "GEN 24:24"
-        },
-        {
-          "start_ref": "01025020",
-          "start_ref_usfm": "GEN 25:20",
-          "end_ref": "01025020",
-          "end_ref_usfm": "GEN 25:20"
-        },
-        {
-          "start_ref": "01025023",
-          "start_ref_usfm": "GEN 25:23",
-          "end_ref": "01025023",
-          "end_ref_usfm": "GEN 25:23"
-        },
-        {
-          "start_ref": "01026035",
-          "start_ref_usfm": "GEN 26:35",
-          "end_ref": "01026035",
-          "end_ref_usfm": "GEN 26:35"
-        },
-        {
-          "start_ref": "01029012",
-          "start_ref_usfm": "GEN 29:12",
-          "end_ref": "01029012",
-          "end_ref_usfm": "GEN 29:12"
-        },
-        {
-          "start_ref": "01035008",
-          "start_ref_usfm": "GEN 35:8",
-          "end_ref": "01035008",
-          "end_ref_usfm": "GEN 35:8"
-        },
-        {
-          "start_ref": "01049031",
-          "start_ref_usfm": "GEN 49:31",
-          "end_ref": "01049031",
-          "end_ref_usfm": "GEN 49:31"
-        },
-        {
-          "start_ref": "01024001",
-          "start_ref_usfm": "GEN 24:1",
-          "end_ref": "01024067",
-          "end_ref_usfm": "GEN 24:67"
-        },
-        {
-          "start_ref": "45009010",
-          "start_ref_usfm": "ROM 9:10",
-          "end_ref": "45009013",
-          "end_ref_usfm": "ROM 9:13"
-        },
-        {
-          "start_ref": "01024057",
-          "start_ref_usfm": "GEN 24:57",
-          "end_ref": "01024058",
-          "end_ref_usfm": "GEN 24:58"
-        },
-        {
-          "start_ref": "01027005",
-          "start_ref_usfm": "GEN 27:5",
-          "end_ref": "01027017",
-          "end_ref_usfm": "GEN 27:17"
-        },
-        {
-          "start_ref": "01027001",
-          "start_ref_usfm": "GEN 27:1",
-          "end_ref": "01027040",
-          "end_ref_usfm": "GEN 27:40"
-        },
-        {
-          "start_ref": "01024012",
-          "start_ref_usfm": "GEN 24:12",
-          "end_ref": "01024014",
-          "end_ref_usfm": "GEN 24:14"
-        },
-        {
-          "start_ref": "01024059",
-          "start_ref_usfm": "GEN 24:59",
-          "end_ref": "01024060",
-          "end_ref_usfm": "GEN 24:60"
-        },
-        {
-          "start_ref": "01024034",
-          "start_ref_usfm": "GEN 24:34",
-          "end_ref": "01024049",
-          "end_ref_usfm": "GEN 24:49"
-        },
-        {
-          "start_ref": "01024050",
-          "start_ref_usfm": "GEN 24:50",
-          "end_ref": "01024056",
-          "end_ref_usfm": "GEN 24:56"
-        },
-        {
-          "start_ref": "01025020",
-          "start_ref_usfm": "GEN 25:20",
-          "end_ref": "01025026",
-          "end_ref_usfm": "GEN 25:26"
-        },
-        {
-          "start_ref": "01027041",
-          "start_ref_usfm": "GEN 27:41",
-          "end_ref": "01028005",
-          "end_ref_usfm": "GEN 28:5"
-        },
-        {
-          "start_ref": "01024012",
-          "start_ref_usfm": "GEN 24:12",
-          "end_ref": "01024067",
-          "end_ref_usfm": "GEN 24:67"
-        },
-        {
-          "start_ref": "01025020",
-          "start_ref_usfm": "GEN 25:20",
-          "end_ref": "01025028",
-          "end_ref_usfm": "GEN 25:28"
-        },
-        {
-          "start_ref": "01026007",
-          "start_ref_usfm": "GEN 26:7",
-          "end_ref": "01026008",
-          "end_ref_usfm": "GEN 26:8"
-        },
-        {
-          "start_ref": "01027042",
-          "start_ref_usfm": "GEN 27:42",
-          "end_ref": "01027046",
-          "end_ref_usfm": "GEN 27:46"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Rebekah",
-          "type": "person",
-          "preferred_label": "Rebekah",
-          "confidence": 0.687,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:MotherOfRebekah",
-          "type": "person",
-          "preferred_label": "Mother of Rebekah",
-          "confidence": 0.6029,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500499",
-    "reference_id": 203442,
-    "version": "1.0.2",
-    "title": "Rehoboam",
-    "media_type": "Text",
-    "index_reference": "rehoboam",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>Rehoboam was the son of Solomon and an Ammonite woman (<a href=\"https://ref.ly/1Kgs14:21\">1 Kings 14:21</a>). He became king at forty-one. He ruled for seventeen years, from 931 to 913 BC. He is known for causing the division of Solomon&apos;s kingdom and for being the first king of Judah, the southern kingdom.</p><p>When Solomon died in 931 BC, Judah quickly made Rehoboam king. The ten northern tribes hesitated to support him. They wanted relief from Solomon&apos;s harsh policies (see <a href=\"https://ref.ly/1Kgs12:4\">1 Kings 12:4</a>; <a href=\"https://ref.ly/2Chr10:4\">2 Chronicles 10:4</a>). The king&apos;s older advisers suggested he agree to their requests, but he ignored them. Instead, he listened to younger advisers who told him to be tougher than his father. The northern tribes rebelled and made Jeroboam, Solomon&apos;s former labor official, their king. Rehoboam went to war to control the north, but God sent the prophet Shemaiah to tell him it was useless. The split was God&apos;s judgment (<a href=\"https://ref.ly/2Chr11:1-2Chr11:4\">2 Chronicles 11:1–4</a>). So, Rehoboam returned to Judah and strengthened his borders (<a href=\"https://ref.ly/2Chr11:5-2Chr11:12\">2 Chronicles 11:5–12</a>).</p><p>When Jeroboam started a new false religion in the northern kingdom, priests and Levites moved south. They strengthened the spiritual life of the area and helped keep Judah stable (<a href=\"https://ref.ly/2Chr11:13-2Chr11:17\">2 Chronicles 11:13–17</a>). However, Rehoboam eventually turned to idol worship too. The people of Judah built high places and pagan sanctuaries across the land, adopting corrupt religious practices from nearby nations (<a href=\"https://ref.ly/1Kgs14:22-1Kgs14:24\">1 Kings 14:22–24</a>). God stopped supporting Rehoboam, leaving him vulnerable when King Shishak of Egypt attacked in 926 to 925 BC and took many valuable items from the temple (<a href=\"https://ref.ly/1Kgs14:25-1Kgs14:26\">1 Kings 14:25–26</a>; <a href=\"https://ref.ly/2Chr12:1-2Chr12:5\">2 Chronicles 12:1–5</a>). Rehoboam then replaced Solomon’s gold shields with bronze ones (<a href=\"https://ref.ly/1Kgs14:27\">1 Kings 14:27</a>). This symbolized the loss of Judah’s glory due to false worship.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Kgs12:1-1Kgs12:24\">1 Kings 12:1–24</a>; <a href=\"https://ref.ly/1Kgs14:21-1Kgs14:31\">14:21–31</a>; <a href=\"https://ref.ly/2Chr9:31-2Chr12:16\">2 Chronicles 9:31–12:16</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "11012004",
-          "start_ref_usfm": "1KI 12:4",
-          "end_ref": "11012004",
-          "end_ref_usfm": "1KI 12:4"
-        },
-        {
-          "start_ref": "11014021",
-          "start_ref_usfm": "1KI 14:21",
-          "end_ref": "11014021",
-          "end_ref_usfm": "1KI 14:21"
-        },
-        {
-          "start_ref": "11014027",
-          "start_ref_usfm": "1KI 14:27",
-          "end_ref": "11014027",
-          "end_ref_usfm": "1KI 14:27"
-        },
-        {
-          "start_ref": "14010004",
-          "start_ref_usfm": "2CH 10:4",
-          "end_ref": "14010004",
-          "end_ref_usfm": "2CH 10:4"
-        },
-        {
-          "start_ref": "11014022",
-          "start_ref_usfm": "1KI 14:22",
-          "end_ref": "11014024",
-          "end_ref_usfm": "1KI 14:24"
-        },
-        {
-          "start_ref": "11014025",
-          "start_ref_usfm": "1KI 14:25",
-          "end_ref": "11014026",
-          "end_ref_usfm": "1KI 14:26"
-        },
-        {
-          "start_ref": "14011001",
-          "start_ref_usfm": "2CH 11:1",
-          "end_ref": "14011004",
-          "end_ref_usfm": "2CH 11:4"
-        },
-        {
-          "start_ref": "14011013",
-          "start_ref_usfm": "2CH 11:13",
-          "end_ref": "14011017",
-          "end_ref_usfm": "2CH 11:17"
-        },
-        {
-          "start_ref": "14011005",
-          "start_ref_usfm": "2CH 11:5",
-          "end_ref": "14011012",
-          "end_ref_usfm": "2CH 11:12"
-        },
-        {
-          "start_ref": "11014021",
-          "start_ref_usfm": "1KI 14:21",
-          "end_ref": "11014031",
-          "end_ref_usfm": "1KI 14:31"
-        },
-        {
-          "start_ref": "14012001",
-          "start_ref_usfm": "2CH 12:1",
-          "end_ref": "14012005",
-          "end_ref_usfm": "2CH 12:5"
-        },
-        {
-          "start_ref": "11012001",
-          "start_ref_usfm": "1KI 12:1",
-          "end_ref": "11012024",
-          "end_ref_usfm": "1KI 12:24"
-        },
-        {
-          "start_ref": "14009031",
-          "start_ref_usfm": "2CH 9:31",
-          "end_ref": "14012016",
-          "end_ref_usfm": "2CH 12:16"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Rehoboam",
-          "type": "person",
-          "preferred_label": "Rehoboam",
-          "confidence": 0.7532,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Jeroboam",
-          "type": "person",
-          "preferred_label": "Jeroboam",
-          "confidence": 0.5428,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500573",
-    "reference_id": 203516,
-    "version": "1.0.2",
-    "title": "Roman Emperors",
-    "media_type": "Text",
-    "index_reference": "roman emperors",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<ol><li><p><em>Augustus </em>(Octavian) ruled from 27 BC to AD 14. He became the first Roman emperor after defeating Marc Antony at the Battle of Actium in 31 BC. He ruled wisely and managed the empire well. He received the title &quot;Augustus&quot; in 27 BC, starting the practice of emperor worship. </p><p><em>See </em><a href=\"https://ref.ly/Luke2:1\"><em>Luke 2:1</em></a>.</p></li><li><p><em>Tiberius </em>ruled from AD 14 to 37. He was Augustus&apos;s adopted son. Augustus chose Tiberius to be emperor after him. Tiberius was a wise and humble ruler who appointed Pontius Pilate as governor of Judea. </p><p><em>See </em><a href=\"https://ref.ly/Luke3:1\"><em>Luke 3:1</em></a><em>; </em><a href=\"https://ref.ly/John19:12\"><em>John 19:12</em></a>.</p></li><li><p>(Gaius) <em>Caligula </em>ruled from AD 37 to 41. He was the son of Augustus&apos;s general, Germanicus. He earned the nickname Caligula, meaning &quot;Little Boot,&quot; due to his military clothing. He lost his ability to think clearly, spent all the kingdom&apos;s money foolishly, ruled cruelly over his people, and was killed by his enemies.</p></li><li><p><em>Claudius</em> ruled from AD 41 to 54. He was Tiberius’s nephew. He became emperor after the royal guards (Praetorian Guard) chose him following Caligula’s death. He was a friend of Herod Agrippa I. Claudius stopped the persecution of Jews in Alexandria but later expelled Jews from Rome around AD 49. He married Nero’s mother, Agrippina, who poisoned him. </p><p><em>See </em><a href=\"https://ref.ly/Acts18:2\"><em>Acts 18:2</em></a>.</p></li><li><p><em>Nero </em>ruled from AD 54 to 68. He was adopted by Claudius and became emperor after he died. He spent much time on personal pleasures. Paul appealed to him, instructing Roman Christians to obey Nero. Later, Nero murdered his wife and mother. He was the first to persecute Christians. </p><p><em>See </em><a href=\"https://ref.ly/Acts25:11\"><em>Acts 25:11</em></a><em>; </em><a href=\"https://ref.ly/Rom13:1-Rom13:7\"><em>Romans 13:1–7</em></a>.</p></li><li><p><em>Vespasian</em> ruled from AD 69 to 79. He was a successful general and the son of a tax collector. He started the Jewish War by invading Galilee in AD 67. As emperor, he improved Rome&apos;s finances, reorganized the armies, and was known for his fairness. He also began building the Colosseum. He died from an illness.</p></li><li><p><em>Titus</em> ruled from AD 79 to 81. He was the son of Vespasian. He ended the Jewish War by destroying Jerusalem in AD 70. As emperor, he completed the Colosseum and provided disaster relief after Mount Vesuvius erupted in AD 79 and a fire occurred in Rome in AD 80. He died from a fever.</p></li><li><p><em>Domitian </em>ruled from AD 81 to 96. He was the younger son of Vespasian. He grew up overshadowed by his brother Titus and desired power. As emperor, he was a capable administrator. He rebuilt damaged areas of Rome and declared himself a god. He imposed new taxes and, in his later years, harshly persecuted Christians. He was eventually killed by his enemies.</p></li></ol><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Rev17:9-Rev17:11\">Revelation 17:9–11</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "42002001",
-          "start_ref_usfm": "LUK 2:1",
-          "end_ref": "42002001",
-          "end_ref_usfm": "LUK 2:1"
-        },
-        {
-          "start_ref": "42003001",
-          "start_ref_usfm": "LUK 3:1",
-          "end_ref": "42003001",
-          "end_ref_usfm": "LUK 3:1"
-        },
-        {
-          "start_ref": "43019012",
-          "start_ref_usfm": "JHN 19:12",
-          "end_ref": "43019012",
-          "end_ref_usfm": "JHN 19:12"
-        },
-        {
-          "start_ref": "44018002",
-          "start_ref_usfm": "ACT 18:2",
-          "end_ref": "44018002",
-          "end_ref_usfm": "ACT 18:2"
-        },
-        {
-          "start_ref": "44025011",
-          "start_ref_usfm": "ACT 25:11",
-          "end_ref": "44025011",
-          "end_ref_usfm": "ACT 25:11"
-        },
-        {
-          "start_ref": "45013001",
-          "start_ref_usfm": "ROM 13:1",
-          "end_ref": "45013007",
-          "end_ref_usfm": "ROM 13:7"
-        },
-        {
-          "start_ref": "66017009",
-          "start_ref_usfm": "REV 17:9",
-          "end_ref": "66017011",
-          "end_ref_usfm": "REV 17:11"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "place:Rome",
-          "type": "place",
-          "preferred_label": "Rome",
-          "confidence": 0.6267,
-          "match_method": "scored"
-        },
-        {
-          "id": "person:Augustus",
-          "type": "person",
-          "preferred_label": "Augustus",
-          "confidence": 0.5048,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500565",
-    "reference_id": 203508,
-    "version": "1.0.2",
-    "title": "Rome",
-    "media_type": "Text",
-    "index_reference": "rome",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>In the first century AD, Rome was a diverse city and a powerful empire. It brought peace and stability to the Mediterranean region.</p><h3>The Founding and Early Growth of Rome</h3><p>According to tradition, Rome was founded in 753 BC on the Tiber River in Italy by a Latin-speaking farming tribe. The earliest Senate was a group of chieftains.</p><p>Around 600 BC, the Etruscans from central Italy invaded Rome and became its rulers. They built many structures, including the forum. The forum became the city&apos;s social, commercial, and political center. They also built a temple for the Roman gods Jupiter, Juno, and Minerva. Roads now connected Rome to the Etruscans in the north, the Greek trading cities in the south, the sea to the west, and the inland highlands to the east.</p><h3>The Roman Republic</h3><p>When Rome&apos;s kings became too controlling, the Latin people rebelled. In 509 BC, Rome formed a &quot;republic.&quot; Rome&apos;s republic was an oligarchy (<span>a form of government in which a small number of people have power). </span>Powerful families controlled the Senate (Rome&apos;s governing council). The small city-state gradually gained control of the region, spreading their influence across the Mediterranean. In 273 BC, they made a treaty with the Ptolemies of Egypt. They expanded into North Africa, defeating the rival city-state Carthage during the three Punic Wars from 264 to 146 BC, and then moved into Spain. Rome&apos;s many conquests brought great wealth.</p><p>As Italy expanded geographically, social changes occurred. Between 200 and 100 BC, wealthy landowners purchased land from small independent farmers. These farmers then moved to Rome, becoming landless and unemployed. Next to areas of great wealth and beautiful buildings, many poor people lived crowded together in terrible conditions. More and more people became unhappy with how Rome was being ruled, which made the government grow weaker.</p><h3>The Beginning of the Empire: Julius and Octavian</h3><p>During a time of social and political change, Julius Caesar aimed to centralize power. Senators who supported the old republic assassinated him in 44 BC. However, their plan failed. Julius&apos;s grandnephew and heir, Octavian, became a senator, consul, and commander-in-chief in 43 BC with Senate support. The Senate declared Julius a god in 42 BC. After Octavian defeated Mark Antony and Cleopatra in 31 BC and took control of Egypt, the Senate gave him the titles Augustus (meaning &quot;illustrious&quot;) and Princeps (meaning &quot;first citizen&quot;) in 27 BC. Octavian started calling himself &quot;son of a god&quot; because people had declared Julius Caesar to be a god after his death. While Rome kept its old forms of government, a new system had actually begun. Emperors were treated as divine (like gods).</p><h3>Jesus and the Birth of the Church</h3><p>“<span>When the time had fully come</span>, God sent his Son” (<a href=\"https://ref.ly/Gal4:4\">Galatians 4:4</a>). The change into an empire brought peace and stability, known as <em>pax Romana</em> (“Roman peace”). This peace lasted into the 100s AD. Many have noted that Roman rule in the first century AD was ideal for spreading Christianity. The borders were secure, and the roads were good, making travel easy. Roman laws and customs protected citizens&apos; rights (see, for example, <a href=\"https://ref.ly/Acts16:35-Acts16:40\">Acts 16:35–40</a>; <a href=\"https://ref.ly/Acts22:24-Acts22:29\">22:24–29</a>). Judaism was protected, and Romans saw Christianity as a Jewish sect (see, for example, <a href=\"https://ref.ly/Acts25:13-Acts25:19\">Acts 25:13–19</a>). Thus, Romans often dismissed complaints against Christians based on religion (see, for example, <a href=\"https://ref.ly/Acts19:23-Acts19:41\">Acts 19:23–41</a>). Christians could freely share the good news about Jesus, and many people from various backgrounds became followers of Christ.</p><h3>The Changing Status of Christianity</h3><p>This favorable situation began to change during Nero&apos;s rule. Nero blamed Christians for the fire that destroyed much of Rome in AD 64, leading to the first major persecution of Christians. The open persecution stopped in AD 66, but Christianity was no longer seen as a part of Judaism and lost its protected status. Later, the empire required people to burn incense to the emperor. Those who refused were usually Jews (who were protected) or Christians (who were not). As a result, from Domitian&apos;s time around AD 81 to 96 to Galerius&apos;s time, from AD 305 to 311, Christianity was officially illegal, punishable by death, and experienced different levels of persecution based on the leaders&apos; enthusiasm. For over two hundred years, Rome shed “<span>the blood of the saints and witnesses for Jesus</span>” (<a href=\"https://ref.ly/Rev17:6\">Revelation 17:6</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts2:10\">Acts 2:10</a>; <a href=\"https://ref.ly/Acts18:2\">18:2</a>; <a href=\"https://ref.ly/Acts19:21\">19:21</a>; <a href=\"https://ref.ly/Acts23:11\">23:11</a>; <a href=\"https://ref.ly/Acts28:14\">28:14</a>, <a href=\"https://ref.ly/Acts28:16\">16</a>; <a href=\"https://ref.ly/Rom1:1-Rom1:7\">Romans 1:1–7</a>, <a href=\"https://ref.ly/Rom1:15\">15</a>; <a href=\"https://ref.ly/2Tim1:17\">2 Timothy 1:17</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44002010",
-          "start_ref_usfm": "ACT 2:10",
-          "end_ref": "44002010",
-          "end_ref_usfm": "ACT 2:10"
-        },
-        {
-          "start_ref": "44018002",
-          "start_ref_usfm": "ACT 18:2",
-          "end_ref": "44018002",
-          "end_ref_usfm": "ACT 18:2"
-        },
-        {
-          "start_ref": "44019021",
-          "start_ref_usfm": "ACT 19:21",
-          "end_ref": "44019021",
-          "end_ref_usfm": "ACT 19:21"
-        },
-        {
-          "start_ref": "44023011",
-          "start_ref_usfm": "ACT 23:11",
-          "end_ref": "44023011",
-          "end_ref_usfm": "ACT 23:11"
-        },
-        {
-          "start_ref": "44028014",
-          "start_ref_usfm": "ACT 28:14",
-          "end_ref": "44028014",
-          "end_ref_usfm": "ACT 28:14"
-        },
-        {
-          "start_ref": "44028016",
-          "start_ref_usfm": "ACT 28:16",
-          "end_ref": "44028016",
-          "end_ref_usfm": "ACT 28:16"
-        },
-        {
-          "start_ref": "45001015",
-          "start_ref_usfm": "ROM 1:15",
-          "end_ref": "45001015",
-          "end_ref_usfm": "ROM 1:15"
-        },
-        {
-          "start_ref": "48004004",
-          "start_ref_usfm": "GAL 4:4",
-          "end_ref": "48004004",
-          "end_ref_usfm": "GAL 4:4"
-        },
-        {
-          "start_ref": "55001017",
-          "start_ref_usfm": "2TI 1:17",
-          "end_ref": "55001017",
-          "end_ref_usfm": "2TI 1:17"
-        },
-        {
-          "start_ref": "66017006",
-          "start_ref_usfm": "REV 17:6",
-          "end_ref": "66017006",
-          "end_ref_usfm": "REV 17:6"
-        },
-        {
-          "start_ref": "44019023",
-          "start_ref_usfm": "ACT 19:23",
-          "end_ref": "44019041",
-          "end_ref_usfm": "ACT 19:41"
-        },
-        {
-          "start_ref": "44022024",
-          "start_ref_usfm": "ACT 22:24",
-          "end_ref": "44022029",
-          "end_ref_usfm": "ACT 22:29"
-        },
-        {
-          "start_ref": "44016035",
-          "start_ref_usfm": "ACT 16:35",
-          "end_ref": "44016040",
-          "end_ref_usfm": "ACT 16:40"
-        },
-        {
-          "start_ref": "44025013",
-          "start_ref_usfm": "ACT 25:13",
-          "end_ref": "44025019",
-          "end_ref_usfm": "ACT 25:19"
-        },
-        {
-          "start_ref": "45001001",
-          "start_ref_usfm": "ROM 1:1",
-          "end_ref": "45001007",
-          "end_ref_usfm": "ROM 1:7"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "place:Rome",
-          "type": "place",
-          "preferred_label": "Rome",
-          "confidence": 0.7164,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "500482",
-    "reference_id": 203425,
-    "version": "1.0.2",
-    "title": "Ruth",
-    "media_type": "Text",
-    "index_reference": "ruth",
-    "language": "eng",
-    "review_level": "None",
-    "content": "<p>The story of Ruth is about a kind and loyal woman. It shows how God&apos;s hidden guidance helps those who love Him (<a href=\"https://ref.ly/Rom8:28\">Romans 8:28</a>). This story is part of the history leading to the Messiah (God’s chosen one). It begins with sadness but ends happily.</p><p>Ruth lived during the chaotic time of the judges. She was a foreigner from Moab who married into an Israelite family from Bethlehem while they were in Moab. All the men in this family died in Moab, leaving three widows—Ruth, her mother-in-law Naomi, and her sister-in-law Orpah. When Naomi decided to return to Bethlehem, Ruth chose to go with her. Ruth&apos;s expression of love, loyalty, and faith in the Lord, who was Naomi&apos;s God, is unmatched (<a href=\"https://ref.ly/Ruth1:16-Ruth1:17\">Ruth 1:16–17</a>).</p><p>As Naomi expected, life in Bethlehem was hard for her and her daughter-in-law. Ruth took the initiative to solve their food problem by gleaning in the grain fields. This task was hard and risky (<a href=\"https://ref.ly/Ruth2:2\">Ruth 2:2</a>). She acted with modesty, grace, and courtesy, but also with determination, focus, and endurance.</p><p>With Naomi&apos;s encouragement, Ruth asked Boaz, a wealthy landowner who supported her gleaning, to be the family redeemer (<a href=\"https://ref.ly/Ruth3:1-Ruth3:9\">Ruth 3:1–9</a>). This included marriage. By doing this, Ruth showed great family loyalty (<a href=\"https://ref.ly/Ruth3:10\">Ruth 3:10</a>). Ruth&apos;s generous and diligent care for Naomi is a major theme in this book. Boaz responded to Ruth&apos;s proposal by calling her a virtuous woman (<a href=\"https://ref.ly/Ruth3:11\">Ruth 3:11</a>). She showed what it means to be a virtuous and capable wife (see <a href=\"https://ref.ly/Prov31:10-Prov31:31\">Proverbs 31:10–31</a>, which uses the same Hebrew phrase and is placed immediately before Ruth in the Hebrew Bible).</p><p>Boaz resolved the legal matters and then married Ruth. The book concludes with the birth of a baby boy, Obed. This ending reveals an important purpose of the book of Ruth. Obed became King David&apos;s grandfather. The New Testament mentions Ruth as one of only five women in the genealogy of Jesus Christ (<a href=\"https://ref.ly/Matt1:5\">Matthew 1:5</a>). Ruth&apos;s everyday faithfulness had eternal significance as God fulfilled his purposes through her.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Ruth1:4-Ruth4:13\">Ruth 1:4–4:13</a>; <a href=\"https://ref.ly/Matt1:5\">Matthew 1:5</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "08002002",
-          "start_ref_usfm": "RUT 2:2",
-          "end_ref": "08002002",
-          "end_ref_usfm": "RUT 2:2"
-        },
-        {
-          "start_ref": "08003010",
-          "start_ref_usfm": "RUT 3:10",
-          "end_ref": "08003010",
-          "end_ref_usfm": "RUT 3:10"
-        },
-        {
-          "start_ref": "08003011",
-          "start_ref_usfm": "RUT 3:11",
-          "end_ref": "08003011",
-          "end_ref_usfm": "RUT 3:11"
-        },
-        {
-          "start_ref": "40001005",
-          "start_ref_usfm": "MAT 1:5",
-          "end_ref": "40001005",
-          "end_ref_usfm": "MAT 1:5"
-        },
-        {
-          "start_ref": "45008028",
-          "start_ref_usfm": "ROM 8:28",
-          "end_ref": "45008028",
-          "end_ref_usfm": "ROM 8:28"
-        },
-        {
-          "start_ref": "20031010",
-          "start_ref_usfm": "PRO 31:10",
-          "end_ref": "20031031",
-          "end_ref_usfm": "PRO 31:31"
-        },
-        {
-          "start_ref": "08001016",
-          "start_ref_usfm": "RUT 1:16",
-          "end_ref": "08001017",
-          "end_ref_usfm": "RUT 1:17"
-        },
-        {
-          "start_ref": "08003001",
-          "start_ref_usfm": "RUT 3:1",
-          "end_ref": "08003009",
-          "end_ref_usfm": "RUT 3:9"
-        },
-        {
-          "start_ref": "08001004",
-          "start_ref_usfm": "RUT 1:4",
-          "end_ref": "08004013",
-          "end_ref_usfm": "RUT 4:13"
-        }
-      ],
-      "resource": [],
-      "acai": [
-        {
-          "id": "person:Ruth",
-          "type": "person",
-          "preferred_label": "Ruth",
-          "confidence": 0.6536,
-          "match_method": "scored"
-        }
-      ]
-    }
-  }
+{
+"content_id": "500461",
+"reference_id": 203404,
+"version": "1.0.2",
+"title": "Rachel",
+"media_type": "Text",
+"index_reference": "rachel",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Rachel was Laban&apos;s younger daughter. She was beautiful, and Jacob loved her more than his other wives. He first met her when he arrived at Paddan-aram in Haran. He helped her remove the stone from a well and watered her father’s sheep (<a href=\"https://ref.ly/Gen29:10\">Genesis 29:10</a>). Jacob agreed to work seven years for Laban to marry Rachel. The time felt like only a few days because he loved her so much.</p><p>Laban tricked Jacob into marrying Leah, his older and less attractive daughter, before allowing him to marry Rachel. Unlike Leah, Rachel could not have children at first (<a href=\"https://ref.ly/Gen29:31\">Genesis 29:31</a>; <a href=\"https://ref.ly/Gen30:1\">30:1</a>). She gave her servant Bilhah to Jacob to have children for her, resulting in the births of Dan and Naphtali (<a href=\"https://ref.ly/Gen30:3-Gen30:8\">Genesis 30:3–8</a>). Eventually, Rachel became pregnant and gave birth to Joseph (<a href=\"https://ref.ly/Gen30:22-Gen30:24\">Genesis 30:22–24</a>). Soon after, Jacob left Haran with his wives, children, and possessions.</p><p>Between Bethel and Bethlehem, Rachel died while giving birth to Benjamin (<a href=\"https://ref.ly/Gen35:16-Gen35:20\">Genesis 35:16–20</a>). Jacob set up a pillar over her tomb, which remained a landmark even during Saul’s time (<a href=\"https://ref.ly/1Sam10:2\">1 Samuel 10:2</a>). Rachel and Leah are respected for building up the house of Israel (<a href=\"https://ref.ly/Ruth4:11\">Ruth 4:11</a>). In <a href=\"https://ref.ly/Jer31:15\">Jeremiah 31:15</a>, Rachel is shown crying for her children taken into captivity. Matthew refers to Jeremiah’s words during Herod’s killing of male infants around Bethlehem shortly after Jesus’s birth (<a href=\"https://ref.ly/Matt2:16-Matt2:18\">Matthew 2:16–18</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen29:6-Gen30:24\">Genesis 29:6–30:24</a>; <a href=\"https://ref.ly/Gen31:4-Gen31:19\">31:4–19</a>, <a href=\"https://ref.ly/Gen31:31-Gen31:35\">31–35</a>; <a href=\"https://ref.ly/Gen33:1-Gen33:7\">33:1–7</a>; <a href=\"https://ref.ly/Gen35:16-Gen35:20\">35:16–20</a>; <a href=\"https://ref.ly/Gen46:19-Gen46:22\">46:19–22</a>; <a href=\"https://ref.ly/Gen48:7\">48:7</a>; <a href=\"https://ref.ly/Ruth4:11\">Ruth 4:11</a>; <a href=\"https://ref.ly/1Sam10:2\">1 Samuel 10:2</a>; <a href=\"https://ref.ly/Jer31:15\">Jeremiah 31:15</a>; <a href=\"https://ref.ly/Matt2:18\">Matthew 2:18</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01029010",
+"start_ref_usfm": "GEN 29:10",
+"end_ref": "01029010",
+"end_ref_usfm": "GEN 29:10"
+},
+{
+"start_ref": "01029031",
+"start_ref_usfm": "GEN 29:31",
+"end_ref": "01029031",
+"end_ref_usfm": "GEN 29:31"
+},
+{
+"start_ref": "01030001",
+"start_ref_usfm": "GEN 30:1",
+"end_ref": "01030001",
+"end_ref_usfm": "GEN 30:1"
+},
+{
+"start_ref": "01048007",
+"start_ref_usfm": "GEN 48:7",
+"end_ref": "01048007",
+"end_ref_usfm": "GEN 48:7"
+},
+{
+"start_ref": "08004011",
+"start_ref_usfm": "RUT 4:11",
+"end_ref": "08004011",
+"end_ref_usfm": "RUT 4:11"
+},
+{
+"start_ref": "09010002",
+"start_ref_usfm": "1SA 10:2",
+"end_ref": "09010002",
+"end_ref_usfm": "1SA 10:2"
+},
+{
+"start_ref": "24031015",
+"start_ref_usfm": "JER 31:15",
+"end_ref": "24031015",
+"end_ref_usfm": "JER 31:15"
+},
+{
+"start_ref": "40002018",
+"start_ref_usfm": "MAT 2:18",
+"end_ref": "40002018",
+"end_ref_usfm": "MAT 2:18"
+},
+{
+"start_ref": "01035016",
+"start_ref_usfm": "GEN 35:16",
+"end_ref": "01035020",
+"end_ref_usfm": "GEN 35:20"
+},
+{
+"start_ref": "01030003",
+"start_ref_usfm": "GEN 30:3",
+"end_ref": "01030008",
+"end_ref_usfm": "GEN 30:8"
+},
+{
+"start_ref": "40002016",
+"start_ref_usfm": "MAT 2:16",
+"end_ref": "40002018",
+"end_ref_usfm": "MAT 2:18"
+},
+{
+"start_ref": "01030022",
+"start_ref_usfm": "GEN 30:22",
+"end_ref": "01030024",
+"end_ref_usfm": "GEN 30:24"
+},
+{
+"start_ref": "01029006",
+"start_ref_usfm": "GEN 29:6",
+"end_ref": "01030024",
+"end_ref_usfm": "GEN 30:24"
+},
+{
+"start_ref": "01031004",
+"start_ref_usfm": "GEN 31:4",
+"end_ref": "01031019",
+"end_ref_usfm": "GEN 31:19"
+},
+{
+"start_ref": "01031031",
+"start_ref_usfm": "GEN 31:31",
+"end_ref": "01031035",
+"end_ref_usfm": "GEN 31:35"
+},
+{
+"start_ref": "01033001",
+"start_ref_usfm": "GEN 33:1",
+"end_ref": "01033007",
+"end_ref_usfm": "GEN 33:7"
+},
+{
+"start_ref": "01046019",
+"start_ref_usfm": "GEN 46:19",
+"end_ref": "01046022",
+"end_ref_usfm": "GEN 46:22"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Rachel",
+"type": "person",
+"preferred_label": "Rachel",
+"confidence": 0.7673,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500476",
+"reference_id": 203419,
+"version": "1.0.2",
+"title": "Rahab",
+"media_type": "Text",
+"index_reference": "rahab",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Rahab was a prostitute and a woman of faith. She remains mysterious even hundreds of years after her brief role in Israel&apos;s history. She believed in Israel&apos;s God and helped two Israelite scouts who visited her house. Because of this, her life was spared when Israel captured Jericho.</p><p>Rahab&apos;s house was on the city wall, so Joshua&apos;s scouts went there when they entered Jericho. Rahab might have been both an innkeeper and a prostitute. Other documents from the Old Testament era mention women who were both innkeepers and prostitutes. If Rahab&apos;s house was an inn, it would have been a sensible place to go. Joshua&apos;s scouts could hope to avoid unwanted attention there.</p><p>Rahab&apos;s agreement with the scouts was a strong statement of faith in Yahweh, the God of Israel (<a href=\"https://ref.ly/Josh2:8-Josh2:21\">Joshua 2:8–21</a>). As a Canaanite woman, Rahab likely followed the fertility cult of Baal, the god of storms and rain, and his partner Asherah, the earth goddess. However, after hearing about Israel&apos;s progress toward her land, Rahab realized that Yahweh, the God of Israel, is &quot;<span>God in the heavens above and on the earth below</span>&quot; (<a href=\"https://ref.ly/Josh2:11\">Joshua 2:11</a>).</p><p>After Joshua conquered Jericho, Rahab married Salmon from the tribe of Judah. She had a son named Boaz (<a href=\"https://ref.ly/Ruth4:21\">Ruth 4:21</a>; <a href=\"https://ref.ly/Matt1:5\">Matthew 1:5</a>). Rahab became Ruth&apos;s mother-in-law, another foreign woman who joined Israel. Rahab was also King David&apos;s great-great-grandmother. She is listed with Moses, David, Samson, and Samuel as an example of faith shown through good deeds (<a href=\"https://ref.ly/Heb11:31\">Hebrews 11:31</a>; <a href=\"https://ref.ly/Jas2:25\">James 2:25</a>). Rahab is one of five women, including Mary, mentioned in Matthew&apos;s genealogy of Jesus, the human family tree of God&apos;s Son (<a href=\"https://ref.ly/Matt1:5\">Matthew 1:5</a>). Rahab shows the wide reach of God&apos;s grace.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Josh2:1-Josh2:21\">Joshua 2:1–21</a>; <a href=\"https://ref.ly/Josh6:17\">6:17</a>, <a href=\"https://ref.ly/Josh6:22-Josh6:25\">22–25</a>; <a href=\"https://ref.ly/Matt1:5\">Matthew 1:5</a>; <a href=\"https://ref.ly/Heb11:31\">Hebrews 11:31</a>; <a href=\"https://ref.ly/Jas2:25\">James 2:25</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06002011",
+"start_ref_usfm": "JOS 2:11",
+"end_ref": "06002011",
+"end_ref_usfm": "JOS 2:11"
+},
+{
+"start_ref": "06006017",
+"start_ref_usfm": "JOS 6:17",
+"end_ref": "06006017",
+"end_ref_usfm": "JOS 6:17"
+},
+{
+"start_ref": "08004021",
+"start_ref_usfm": "RUT 4:21",
+"end_ref": "08004021",
+"end_ref_usfm": "RUT 4:21"
+},
+{
+"start_ref": "40001005",
+"start_ref_usfm": "MAT 1:5",
+"end_ref": "40001005",
+"end_ref_usfm": "MAT 1:5"
+},
+{
+"start_ref": "58011031",
+"start_ref_usfm": "HEB 11:31",
+"end_ref": "58011031",
+"end_ref_usfm": "HEB 11:31"
+},
+{
+"start_ref": "59002025",
+"start_ref_usfm": "JAS 2:25",
+"end_ref": "59002025",
+"end_ref_usfm": "JAS 2:25"
+},
+{
+"start_ref": "06002008",
+"start_ref_usfm": "JOS 2:8",
+"end_ref": "06002021",
+"end_ref_usfm": "JOS 2:21"
+},
+{
+"start_ref": "06002001",
+"start_ref_usfm": "JOS 2:1",
+"end_ref": "06002021",
+"end_ref_usfm": "JOS 2:21"
+},
+{
+"start_ref": "06006022",
+"start_ref_usfm": "JOS 6:22",
+"end_ref": "06006025",
+"end_ref_usfm": "JOS 6:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Rahab",
+"type": "person",
+"preferred_label": "Rahab",
+"confidence": 0.7067,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500459",
+"reference_id": 203402,
+"version": "1.0.2",
+"title": "Rebekah",
+"media_type": "Text",
+"index_reference": "rebekah",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Rebekah was the wife of Isaac. <a href=\"https://ref.ly/Gen24:1-Gen24:67\">Genesis 24</a> tells the story of Abraham’s servant who seeks a wife for Isaac. Following Abraham’s instructions, he traveled to Haran in Aram-naharaim (northwest Mesopotamia) to find Abraham’s relatives. Abraham did not want Isaac to marry a local Canaanite. The servant prayed that the woman God chose for Isaac would offer him a drink and also water his camels (<a href=\"https://ref.ly/Gen24:12-Gen24:14\">Genesis 24:12–14</a>). This would confirm God’s choice and show her character, hospitality, and work ethic.</p><p>God clearly answered his prayer by providing Rebekah, Bethuel&apos;s daughter (<a href=\"https://ref.ly/Gen22:23\">Genesis 22:23</a>; <a href=\"https://ref.ly/Gen25:20\">25:20</a>). Bethuel was the son of Abraham&apos;s brother Nahor (<a href=\"https://ref.ly/Gen24:24\">24:24</a>).</p><p>Abraham’s servant explained how God guided him (<a href=\"https://ref.ly/Gen24:34-Gen24:49\">Genesis 24:34–49</a>). Rebekah’s family saw it as God&apos;s work, but they hesitated to let her leave right away (<a href=\"https://ref.ly/Gen24:50-Gen24:56\">24:50–56</a>). However, Rebekah showed faith in God&apos;s plan and was ready to leave her family immediately to marry Isaac (<a href=\"https://ref.ly/Gen24:57-Gen24:58\">Genesis 24:57–58</a>). Rebekah&apos;s faith was greatly rewarded. The blessing her family gave her when she left came true when she had the next generation of God&apos;s chosen line with Isaac (<a href=\"https://ref.ly/Gen24:59-Gen24:60\">Genesis 24:59–60</a>).</p><p>Rebekah gave birth to twins, Esau and Jacob (<a href=\"https://ref.ly/Gen25:20-Gen25:26\">Genesis 25:20–26</a>). She favored Jacob, the younger son, because God told her he would be stronger and lead the two (<a href=\"https://ref.ly/Gen25:23\">Genesis 25:23</a>). Rebekah helped Jacob take the firstborn&apos;s blessing by tricking Isaac (<a href=\"https://ref.ly/Gen27:1-Gen27:40\">Genesis 27:1–40</a>). She then arranged for Jacob to go to Haran to escape Esau&apos;s anger (<a href=\"https://ref.ly/Gen27:41-Gen28:5\">Genesis 27:41–28:5</a>). Rebekah&apos;s deceit caused a lasting division in the family. She likely never saw Jacob again. However, she was buried with Isaac in the family burial site (<a href=\"https://ref.ly/Gen49:31\">Genesis 49:31</a>). She fulfilled God&apos;s plan as the mother of Jacob, the founding father of Israel.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Gen22:23\">Genesis 22:23</a>; <a href=\"https://ref.ly/Gen24:12-Gen24:67\">Genesis 24:12–67</a>; <a href=\"https://ref.ly/Gen25:20-Gen25:28\">Genesis 25:20–28</a>; <a href=\"https://ref.ly/Gen26:7-Gen26:8\">Genesis 26:7–8</a>, <a href=\"https://ref.ly/Gen26:35\">35</a>; <a href=\"https://ref.ly/Gen27:5-Gen27:17\">Genesis 27:5–17</a>, <a href=\"https://ref.ly/Gen27:42-Gen27:46\">42–46</a>; <a href=\"https://ref.ly/Gen29:12\">Genesis 29:12</a>; <a href=\"https://ref.ly/Gen35:8\">Genesis 35:8</a>; <a href=\"https://ref.ly/Gen49:31\">Genesis 49:31</a>; <a href=\"https://ref.ly/Rom9:10-Rom9:13\">Romans 9:10–13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01022023",
+"start_ref_usfm": "GEN 22:23",
+"end_ref": "01022023",
+"end_ref_usfm": "GEN 22:23"
+},
+{
+"start_ref": "01024024",
+"start_ref_usfm": "GEN 24:24",
+"end_ref": "01024024",
+"end_ref_usfm": "GEN 24:24"
+},
+{
+"start_ref": "01025020",
+"start_ref_usfm": "GEN 25:20",
+"end_ref": "01025020",
+"end_ref_usfm": "GEN 25:20"
+},
+{
+"start_ref": "01025023",
+"start_ref_usfm": "GEN 25:23",
+"end_ref": "01025023",
+"end_ref_usfm": "GEN 25:23"
+},
+{
+"start_ref": "01026035",
+"start_ref_usfm": "GEN 26:35",
+"end_ref": "01026035",
+"end_ref_usfm": "GEN 26:35"
+},
+{
+"start_ref": "01029012",
+"start_ref_usfm": "GEN 29:12",
+"end_ref": "01029012",
+"end_ref_usfm": "GEN 29:12"
+},
+{
+"start_ref": "01035008",
+"start_ref_usfm": "GEN 35:8",
+"end_ref": "01035008",
+"end_ref_usfm": "GEN 35:8"
+},
+{
+"start_ref": "01049031",
+"start_ref_usfm": "GEN 49:31",
+"end_ref": "01049031",
+"end_ref_usfm": "GEN 49:31"
+},
+{
+"start_ref": "01024001",
+"start_ref_usfm": "GEN 24:1",
+"end_ref": "01024067",
+"end_ref_usfm": "GEN 24:67"
+},
+{
+"start_ref": "45009010",
+"start_ref_usfm": "ROM 9:10",
+"end_ref": "45009013",
+"end_ref_usfm": "ROM 9:13"
+},
+{
+"start_ref": "01024057",
+"start_ref_usfm": "GEN 24:57",
+"end_ref": "01024058",
+"end_ref_usfm": "GEN 24:58"
+},
+{
+"start_ref": "01027005",
+"start_ref_usfm": "GEN 27:5",
+"end_ref": "01027017",
+"end_ref_usfm": "GEN 27:17"
+},
+{
+"start_ref": "01027001",
+"start_ref_usfm": "GEN 27:1",
+"end_ref": "01027040",
+"end_ref_usfm": "GEN 27:40"
+},
+{
+"start_ref": "01024012",
+"start_ref_usfm": "GEN 24:12",
+"end_ref": "01024014",
+"end_ref_usfm": "GEN 24:14"
+},
+{
+"start_ref": "01024059",
+"start_ref_usfm": "GEN 24:59",
+"end_ref": "01024060",
+"end_ref_usfm": "GEN 24:60"
+},
+{
+"start_ref": "01024034",
+"start_ref_usfm": "GEN 24:34",
+"end_ref": "01024049",
+"end_ref_usfm": "GEN 24:49"
+},
+{
+"start_ref": "01024050",
+"start_ref_usfm": "GEN 24:50",
+"end_ref": "01024056",
+"end_ref_usfm": "GEN 24:56"
+},
+{
+"start_ref": "01025020",
+"start_ref_usfm": "GEN 25:20",
+"end_ref": "01025026",
+"end_ref_usfm": "GEN 25:26"
+},
+{
+"start_ref": "01027041",
+"start_ref_usfm": "GEN 27:41",
+"end_ref": "01028005",
+"end_ref_usfm": "GEN 28:5"
+},
+{
+"start_ref": "01024012",
+"start_ref_usfm": "GEN 24:12",
+"end_ref": "01024067",
+"end_ref_usfm": "GEN 24:67"
+},
+{
+"start_ref": "01025020",
+"start_ref_usfm": "GEN 25:20",
+"end_ref": "01025028",
+"end_ref_usfm": "GEN 25:28"
+},
+{
+"start_ref": "01026007",
+"start_ref_usfm": "GEN 26:7",
+"end_ref": "01026008",
+"end_ref_usfm": "GEN 26:8"
+},
+{
+"start_ref": "01027042",
+"start_ref_usfm": "GEN 27:42",
+"end_ref": "01027046",
+"end_ref_usfm": "GEN 27:46"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Rebekah",
+"type": "person",
+"preferred_label": "Rebekah",
+"confidence": 0.687,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500499",
+"reference_id": 203442,
+"version": "1.0.2",
+"title": "Rehoboam",
+"media_type": "Text",
+"index_reference": "rehoboam",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Rehoboam was the son of Solomon and an Ammonite woman (<a href=\"https://ref.ly/1Kgs14:21\">1 Kings 14:21</a>). He became king at forty-one. He ruled for seventeen years, from 931 to 913 BC. He is known for causing the division of Solomon&apos;s kingdom and for being the first king of Judah, the southern kingdom.</p><p>When Solomon died in 931 BC, Judah quickly made Rehoboam king. The ten northern tribes hesitated to support him. They wanted relief from Solomon&apos;s harsh policies (see <a href=\"https://ref.ly/1Kgs12:4\">1 Kings 12:4</a>; <a href=\"https://ref.ly/2Chr10:4\">2 Chronicles 10:4</a>). The king&apos;s older advisers suggested he agree to their requests, but he ignored them. Instead, he listened to younger advisers who told him to be tougher than his father. The northern tribes rebelled and made Jeroboam, Solomon&apos;s former labor official, their king. Rehoboam went to war to control the north, but God sent the prophet Shemaiah to tell him it was useless. The split was God&apos;s judgment (<a href=\"https://ref.ly/2Chr11:1-2Chr11:4\">2 Chronicles 11:1–4</a>). So, Rehoboam returned to Judah and strengthened his borders (<a href=\"https://ref.ly/2Chr11:5-2Chr11:12\">2 Chronicles 11:5–12</a>).</p><p>When Jeroboam started a new false religion in the northern kingdom, priests and Levites moved south. They strengthened the spiritual life of the area and helped keep Judah stable (<a href=\"https://ref.ly/2Chr11:13-2Chr11:17\">2 Chronicles 11:13–17</a>). However, Rehoboam eventually turned to idol worship too. The people of Judah built high places and pagan sanctuaries across the land, adopting corrupt religious practices from nearby nations (<a href=\"https://ref.ly/1Kgs14:22-1Kgs14:24\">1 Kings 14:22–24</a>). God stopped supporting Rehoboam, leaving him vulnerable when King Shishak of Egypt attacked in 926 to 925 BC and took many valuable items from the temple (<a href=\"https://ref.ly/1Kgs14:25-1Kgs14:26\">1 Kings 14:25–26</a>; <a href=\"https://ref.ly/2Chr12:1-2Chr12:5\">2 Chronicles 12:1–5</a>). Rehoboam then replaced Solomon’s gold shields with bronze ones (<a href=\"https://ref.ly/1Kgs14:27\">1 Kings 14:27</a>). This symbolized the loss of Judah’s glory due to false worship.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Kgs12:1-1Kgs12:24\">1 Kings 12:1–24</a>; <a href=\"https://ref.ly/1Kgs14:21-1Kgs14:31\">14:21–31</a>; <a href=\"https://ref.ly/2Chr9:31-2Chr12:16\">2 Chronicles 9:31–12:16</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11012004",
+"start_ref_usfm": "1KI 12:4",
+"end_ref": "11012004",
+"end_ref_usfm": "1KI 12:4"
+},
+{
+"start_ref": "11014021",
+"start_ref_usfm": "1KI 14:21",
+"end_ref": "11014021",
+"end_ref_usfm": "1KI 14:21"
+},
+{
+"start_ref": "11014027",
+"start_ref_usfm": "1KI 14:27",
+"end_ref": "11014027",
+"end_ref_usfm": "1KI 14:27"
+},
+{
+"start_ref": "14010004",
+"start_ref_usfm": "2CH 10:4",
+"end_ref": "14010004",
+"end_ref_usfm": "2CH 10:4"
+},
+{
+"start_ref": "11014022",
+"start_ref_usfm": "1KI 14:22",
+"end_ref": "11014024",
+"end_ref_usfm": "1KI 14:24"
+},
+{
+"start_ref": "11014025",
+"start_ref_usfm": "1KI 14:25",
+"end_ref": "11014026",
+"end_ref_usfm": "1KI 14:26"
+},
+{
+"start_ref": "14011001",
+"start_ref_usfm": "2CH 11:1",
+"end_ref": "14011004",
+"end_ref_usfm": "2CH 11:4"
+},
+{
+"start_ref": "14011013",
+"start_ref_usfm": "2CH 11:13",
+"end_ref": "14011017",
+"end_ref_usfm": "2CH 11:17"
+},
+{
+"start_ref": "14011005",
+"start_ref_usfm": "2CH 11:5",
+"end_ref": "14011012",
+"end_ref_usfm": "2CH 11:12"
+},
+{
+"start_ref": "11014021",
+"start_ref_usfm": "1KI 14:21",
+"end_ref": "11014031",
+"end_ref_usfm": "1KI 14:31"
+},
+{
+"start_ref": "14012001",
+"start_ref_usfm": "2CH 12:1",
+"end_ref": "14012005",
+"end_ref_usfm": "2CH 12:5"
+},
+{
+"start_ref": "11012001",
+"start_ref_usfm": "1KI 12:1",
+"end_ref": "11012024",
+"end_ref_usfm": "1KI 12:24"
+},
+{
+"start_ref": "14009031",
+"start_ref_usfm": "2CH 9:31",
+"end_ref": "14012016",
+"end_ref_usfm": "2CH 12:16"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Rehoboam",
+"type": "person",
+"preferred_label": "Rehoboam",
+"confidence": 0.7532,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500573",
+"reference_id": 203516,
+"version": "1.0.2",
+"title": "Roman Emperors",
+"media_type": "Text",
+"index_reference": "roman emperors",
+"language": "eng",
+"review_level": "None",
+"content": "<ol><li><p><em>Augustus </em>(Octavian) ruled from 27 BC to AD 14. He became the first Roman emperor after defeating Marc Antony at the Battle of Actium in 31 BC. He ruled wisely and managed the empire well. He received the title &quot;Augustus&quot; in 27 BC, starting the practice of emperor worship. </p><p><em>See </em><a href=\"https://ref.ly/Luke2:1\"><em>Luke 2:1</em></a>.</p></li><li><p><em>Tiberius </em>ruled from AD 14 to 37. He was Augustus&apos;s adopted son. Augustus chose Tiberius to be emperor after him. Tiberius was a wise and humble ruler who appointed Pontius Pilate as governor of Judea. </p><p><em>See </em><a href=\"https://ref.ly/Luke3:1\"><em>Luke 3:1</em></a><em>; </em><a href=\"https://ref.ly/John19:12\"><em>John 19:12</em></a>.</p></li><li><p>(Gaius) <em>Caligula </em>ruled from AD 37 to 41. He was the son of Augustus&apos;s general, Germanicus. He earned the nickname Caligula, meaning &quot;Little Boot,&quot; due to his military clothing. He lost his ability to think clearly, spent all the kingdom&apos;s money foolishly, ruled cruelly over his people, and was killed by his enemies.</p></li><li><p><em>Claudius</em> ruled from AD 41 to 54. He was Tiberius’s nephew. He became emperor after the royal guards (Praetorian Guard) chose him following Caligula’s death. He was a friend of Herod Agrippa I. Claudius stopped the persecution of Jews in Alexandria but later expelled Jews from Rome around AD 49. He married Nero’s mother, Agrippina, who poisoned him. </p><p><em>See </em><a href=\"https://ref.ly/Acts18:2\"><em>Acts 18:2</em></a>.</p></li><li><p><em>Nero </em>ruled from AD 54 to 68. He was adopted by Claudius and became emperor after he died. He spent much time on personal pleasures. Paul appealed to him, instructing Roman Christians to obey Nero. Later, Nero murdered his wife and mother. He was the first to persecute Christians. </p><p><em>See </em><a href=\"https://ref.ly/Acts25:11\"><em>Acts 25:11</em></a><em>; </em><a href=\"https://ref.ly/Rom13:1-Rom13:7\"><em>Romans 13:1–7</em></a>.</p></li><li><p><em>Vespasian</em> ruled from AD 69 to 79. He was a successful general and the son of a tax collector. He started the Jewish War by invading Galilee in AD 67. As emperor, he improved Rome&apos;s finances, reorganized the armies, and was known for his fairness. He also began building the Colosseum. He died from an illness.</p></li><li><p><em>Titus</em> ruled from AD 79 to 81. He was the son of Vespasian. He ended the Jewish War by destroying Jerusalem in AD 70. As emperor, he completed the Colosseum and provided disaster relief after Mount Vesuvius erupted in AD 79 and a fire occurred in Rome in AD 80. He died from a fever.</p></li><li><p><em>Domitian </em>ruled from AD 81 to 96. He was the younger son of Vespasian. He grew up overshadowed by his brother Titus and desired power. As emperor, he was a capable administrator. He rebuilt damaged areas of Rome and declared himself a god. He imposed new taxes and, in his later years, harshly persecuted Christians. He was eventually killed by his enemies.</p></li></ol><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Rev17:9-Rev17:11\">Revelation 17:9–11</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42002001",
+"start_ref_usfm": "LUK 2:1",
+"end_ref": "42002001",
+"end_ref_usfm": "LUK 2:1"
+},
+{
+"start_ref": "42003001",
+"start_ref_usfm": "LUK 3:1",
+"end_ref": "42003001",
+"end_ref_usfm": "LUK 3:1"
+},
+{
+"start_ref": "43019012",
+"start_ref_usfm": "JHN 19:12",
+"end_ref": "43019012",
+"end_ref_usfm": "JHN 19:12"
+},
+{
+"start_ref": "44018002",
+"start_ref_usfm": "ACT 18:2",
+"end_ref": "44018002",
+"end_ref_usfm": "ACT 18:2"
+},
+{
+"start_ref": "44025011",
+"start_ref_usfm": "ACT 25:11",
+"end_ref": "44025011",
+"end_ref_usfm": "ACT 25:11"
+},
+{
+"start_ref": "45013001",
+"start_ref_usfm": "ROM 13:1",
+"end_ref": "45013007",
+"end_ref_usfm": "ROM 13:7"
+},
+{
+"start_ref": "66017009",
+"start_ref_usfm": "REV 17:9",
+"end_ref": "66017011",
+"end_ref_usfm": "REV 17:11"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "500565",
+"reference_id": 203508,
+"version": "1.0.2",
+"title": "Rome",
+"media_type": "Text",
+"index_reference": "rome",
+"language": "eng",
+"review_level": "None",
+"content": "<p>In the first century AD, Rome was a diverse city and a powerful empire. It brought peace and stability to the Mediterranean region.</p><h3>The Founding and Early Growth of Rome</h3><p>According to tradition, Rome was founded in 753 BC on the Tiber River in Italy by a Latin-speaking farming tribe. The earliest Senate was a group of chieftains.</p><p>Around 600 BC, the Etruscans from central Italy invaded Rome and became its rulers. They built many structures, including the forum. The forum became the city&apos;s social, commercial, and political center. They also built a temple for the Roman gods Jupiter, Juno, and Minerva. Roads now connected Rome to the Etruscans in the north, the Greek trading cities in the south, the sea to the west, and the inland highlands to the east.</p><h3>The Roman Republic</h3><p>When Rome&apos;s kings became too controlling, the Latin people rebelled. In 509 BC, Rome formed a &quot;republic.&quot; Rome&apos;s republic was an oligarchy (<span>a form of government in which a small number of people have power). </span>Powerful families controlled the Senate (Rome&apos;s governing council). The small city-state gradually gained control of the region, spreading their influence across the Mediterranean. In 273 BC, they made a treaty with the Ptolemies of Egypt. They expanded into North Africa, defeating the rival city-state Carthage during the three Punic Wars from 264 to 146 BC, and then moved into Spain. Rome&apos;s many conquests brought great wealth.</p><p>As Italy expanded geographically, social changes occurred. Between 200 and 100 BC, wealthy landowners purchased land from small independent farmers. These farmers then moved to Rome, becoming landless and unemployed. Next to areas of great wealth and beautiful buildings, many poor people lived crowded together in terrible conditions. More and more people became unhappy with how Rome was being ruled, which made the government grow weaker.</p><h3>The Beginning of the Empire: Julius and Octavian</h3><p>During a time of social and political change, Julius Caesar aimed to centralize power. Senators who supported the old republic assassinated him in 44 BC. However, their plan failed. Julius&apos;s grandnephew and heir, Octavian, became a senator, consul, and commander-in-chief in 43 BC with Senate support. The Senate declared Julius a god in 42 BC. After Octavian defeated Mark Antony and Cleopatra in 31 BC and took control of Egypt, the Senate gave him the titles Augustus (meaning &quot;illustrious&quot;) and Princeps (meaning &quot;first citizen&quot;) in 27 BC. Octavian started calling himself &quot;son of a god&quot; because people had declared Julius Caesar to be a god after his death. While Rome kept its old forms of government, a new system had actually begun. Emperors were treated as divine (like gods).</p><h3>Jesus and the Birth of the Church</h3><p>“<span>When the time had fully come</span>, God sent his Son” (<a href=\"https://ref.ly/Gal4:4\">Galatians 4:4</a>). The change into an empire brought peace and stability, known as <em>pax Romana</em> (“Roman peace”). This peace lasted into the 100s AD. Many have noted that Roman rule in the first century AD was ideal for spreading Christianity. The borders were secure, and the roads were good, making travel easy. Roman laws and customs protected citizens&apos; rights (see, for example, <a href=\"https://ref.ly/Acts16:35-Acts16:40\">Acts 16:35–40</a>; <a href=\"https://ref.ly/Acts22:24-Acts22:29\">22:24–29</a>). Judaism was protected, and Romans saw Christianity as a Jewish sect (see, for example, <a href=\"https://ref.ly/Acts25:13-Acts25:19\">Acts 25:13–19</a>). Thus, Romans often dismissed complaints against Christians based on religion (see, for example, <a href=\"https://ref.ly/Acts19:23-Acts19:41\">Acts 19:23–41</a>). Christians could freely share the good news about Jesus, and many people from various backgrounds became followers of Christ.</p><h3>The Changing Status of Christianity</h3><p>This favorable situation began to change during Nero&apos;s rule. Nero blamed Christians for the fire that destroyed much of Rome in AD 64, leading to the first major persecution of Christians. The open persecution stopped in AD 66, but Christianity was no longer seen as a part of Judaism and lost its protected status. Later, the empire required people to burn incense to the emperor. Those who refused were usually Jews (who were protected) or Christians (who were not). As a result, from Domitian&apos;s time around AD 81 to 96 to Galerius&apos;s time, from AD 305 to 311, Christianity was officially illegal, punishable by death, and experienced different levels of persecution based on the leaders&apos; enthusiasm. For over two hundred years, Rome shed “<span>the blood of the saints and witnesses for Jesus</span>” (<a href=\"https://ref.ly/Rev17:6\">Revelation 17:6</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts2:10\">Acts 2:10</a>; <a href=\"https://ref.ly/Acts18:2\">18:2</a>; <a href=\"https://ref.ly/Acts19:21\">19:21</a>; <a href=\"https://ref.ly/Acts23:11\">23:11</a>; <a href=\"https://ref.ly/Acts28:14\">28:14</a>, <a href=\"https://ref.ly/Acts28:16\">16</a>; <a href=\"https://ref.ly/Rom1:1-Rom1:7\">Romans 1:1–7</a>, <a href=\"https://ref.ly/Rom1:15\">15</a>; <a href=\"https://ref.ly/2Tim1:17\">2 Timothy 1:17</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44002010",
+"start_ref_usfm": "ACT 2:10",
+"end_ref": "44002010",
+"end_ref_usfm": "ACT 2:10"
+},
+{
+"start_ref": "44018002",
+"start_ref_usfm": "ACT 18:2",
+"end_ref": "44018002",
+"end_ref_usfm": "ACT 18:2"
+},
+{
+"start_ref": "44019021",
+"start_ref_usfm": "ACT 19:21",
+"end_ref": "44019021",
+"end_ref_usfm": "ACT 19:21"
+},
+{
+"start_ref": "44023011",
+"start_ref_usfm": "ACT 23:11",
+"end_ref": "44023011",
+"end_ref_usfm": "ACT 23:11"
+},
+{
+"start_ref": "44028014",
+"start_ref_usfm": "ACT 28:14",
+"end_ref": "44028014",
+"end_ref_usfm": "ACT 28:14"
+},
+{
+"start_ref": "44028016",
+"start_ref_usfm": "ACT 28:16",
+"end_ref": "44028016",
+"end_ref_usfm": "ACT 28:16"
+},
+{
+"start_ref": "45001015",
+"start_ref_usfm": "ROM 1:15",
+"end_ref": "45001015",
+"end_ref_usfm": "ROM 1:15"
+},
+{
+"start_ref": "48004004",
+"start_ref_usfm": "GAL 4:4",
+"end_ref": "48004004",
+"end_ref_usfm": "GAL 4:4"
+},
+{
+"start_ref": "55001017",
+"start_ref_usfm": "2TI 1:17",
+"end_ref": "55001017",
+"end_ref_usfm": "2TI 1:17"
+},
+{
+"start_ref": "66017006",
+"start_ref_usfm": "REV 17:6",
+"end_ref": "66017006",
+"end_ref_usfm": "REV 17:6"
+},
+{
+"start_ref": "44019023",
+"start_ref_usfm": "ACT 19:23",
+"end_ref": "44019041",
+"end_ref_usfm": "ACT 19:41"
+},
+{
+"start_ref": "44022024",
+"start_ref_usfm": "ACT 22:24",
+"end_ref": "44022029",
+"end_ref_usfm": "ACT 22:29"
+},
+{
+"start_ref": "44016035",
+"start_ref_usfm": "ACT 16:35",
+"end_ref": "44016040",
+"end_ref_usfm": "ACT 16:40"
+},
+{
+"start_ref": "44025013",
+"start_ref_usfm": "ACT 25:13",
+"end_ref": "44025019",
+"end_ref_usfm": "ACT 25:19"
+},
+{
+"start_ref": "45001001",
+"start_ref_usfm": "ROM 1:1",
+"end_ref": "45001007",
+"end_ref_usfm": "ROM 1:7"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"preferred_label": "Rome",
+"confidence": 0.7164,
+"match_method": "scored"
+}
+]
+}
+},
+{
+"content_id": "500482",
+"reference_id": 203425,
+"version": "1.0.2",
+"title": "Ruth",
+"media_type": "Text",
+"index_reference": "ruth",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The story of Ruth is about a kind and loyal woman. It shows how God&apos;s hidden guidance helps those who love Him (<a href=\"https://ref.ly/Rom8:28\">Romans 8:28</a>). This story is part of the history leading to the Messiah (God’s chosen one). It begins with sadness but ends happily.</p><p>Ruth lived during the chaotic time of the judges. She was a foreigner from Moab who married into an Israelite family from Bethlehem while they were in Moab. All the men in this family died in Moab, leaving three widows—Ruth, her mother-in-law Naomi, and her sister-in-law Orpah. When Naomi decided to return to Bethlehem, Ruth chose to go with her. Ruth&apos;s expression of love, loyalty, and faith in the Lord, who was Naomi&apos;s God, is unmatched (<a href=\"https://ref.ly/Ruth1:16-Ruth1:17\">Ruth 1:16–17</a>).</p><p>As Naomi expected, life in Bethlehem was hard for her and her daughter-in-law. Ruth took the initiative to solve their food problem by gleaning in the grain fields. This task was hard and risky (<a href=\"https://ref.ly/Ruth2:2\">Ruth 2:2</a>). She acted with modesty, grace, and courtesy, but also with determination, focus, and endurance.</p><p>With Naomi&apos;s encouragement, Ruth asked Boaz, a wealthy landowner who supported her gleaning, to be the family redeemer (<a href=\"https://ref.ly/Ruth3:1-Ruth3:9\">Ruth 3:1–9</a>). This included marriage. By doing this, Ruth showed great family loyalty (<a href=\"https://ref.ly/Ruth3:10\">Ruth 3:10</a>). Ruth&apos;s generous and diligent care for Naomi is a major theme in this book. Boaz responded to Ruth&apos;s proposal by calling her a virtuous woman (<a href=\"https://ref.ly/Ruth3:11\">Ruth 3:11</a>). She showed what it means to be a virtuous and capable wife (see <a href=\"https://ref.ly/Prov31:10-Prov31:31\">Proverbs 31:10–31</a>, which uses the same Hebrew phrase and is placed immediately before Ruth in the Hebrew Bible).</p><p>Boaz resolved the legal matters and then married Ruth. The book concludes with the birth of a baby boy, Obed. This ending reveals an important purpose of the book of Ruth. Obed became King David&apos;s grandfather. The New Testament mentions Ruth as one of only five women in the genealogy of Jesus Christ (<a href=\"https://ref.ly/Matt1:5\">Matthew 1:5</a>). Ruth&apos;s everyday faithfulness had eternal significance as God fulfilled his purposes through her.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Ruth1:4-Ruth4:13\">Ruth 1:4–4:13</a>; <a href=\"https://ref.ly/Matt1:5\">Matthew 1:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08002002",
+"start_ref_usfm": "RUT 2:2",
+"end_ref": "08002002",
+"end_ref_usfm": "RUT 2:2"
+},
+{
+"start_ref": "08003010",
+"start_ref_usfm": "RUT 3:10",
+"end_ref": "08003010",
+"end_ref_usfm": "RUT 3:10"
+},
+{
+"start_ref": "08003011",
+"start_ref_usfm": "RUT 3:11",
+"end_ref": "08003011",
+"end_ref_usfm": "RUT 3:11"
+},
+{
+"start_ref": "40001005",
+"start_ref_usfm": "MAT 1:5",
+"end_ref": "40001005",
+"end_ref_usfm": "MAT 1:5"
+},
+{
+"start_ref": "45008028",
+"start_ref_usfm": "ROM 8:28",
+"end_ref": "45008028",
+"end_ref_usfm": "ROM 8:28"
+},
+{
+"start_ref": "20031010",
+"start_ref_usfm": "PRO 31:10",
+"end_ref": "20031031",
+"end_ref_usfm": "PRO 31:31"
+},
+{
+"start_ref": "08001016",
+"start_ref_usfm": "RUT 1:16",
+"end_ref": "08001017",
+"end_ref_usfm": "RUT 1:17"
+},
+{
+"start_ref": "08003001",
+"start_ref_usfm": "RUT 3:1",
+"end_ref": "08003009",
+"end_ref_usfm": "RUT 3:9"
+},
+{
+"start_ref": "08001004",
+"start_ref_usfm": "RUT 1:4",
+"end_ref": "08004013",
+"end_ref_usfm": "RUT 4:13"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Ruth",
+"type": "person",
+"preferred_label": "Ruth",
+"confidence": 0.6536,
+"match_method": "scored"
+}
+]
+}
+}
 ]
