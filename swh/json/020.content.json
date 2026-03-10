@@ -3616,14 +3616,14 @@
 "match_method": "scored"
 },
 {
-"id": "person:Joda",
+"id": "person:Judah.3",
 "type": "person",
 "preferred_label": "Yuda",
 "confidence": 0.6027,
 "match_method": "scored"
 },
 {
-"id": "person:Judah.3",
+"id": "person:Joda",
 "type": "person",
 "preferred_label": "Yuda",
 "confidence": 0.6027,

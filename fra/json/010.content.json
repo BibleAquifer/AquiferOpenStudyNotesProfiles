@@ -3526,16 +3526,16 @@
 "match_method": "scored"
 },
 {
-"id": "person:Joda",
+"id": "person:Judah.3",
 "type": "person",
-"preferred_label": "Joda",
+"preferred_label": "Juda",
 "confidence": 0.6027,
 "match_method": "scored"
 },
 {
-"id": "person:Judah.3",
+"id": "person:Joda",
 "type": "person",
-"preferred_label": "Juda",
+"preferred_label": "Joda",
 "confidence": 0.6027,
 "match_method": "scored"
 }

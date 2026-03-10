@@ -323,14 +323,14 @@
 "match_method": "scored"
 },
 {
-"id": "person:Nehemiah.3",
+"id": "person:Nehemiah",
 "type": "person",
 "preferred_label": "Nehemiah",
 "confidence": 0.6011,
 "match_method": "scored"
 },
 {
-"id": "person:Nehemiah",
+"id": "person:Nehemiah.3",
 "type": "person",
 "preferred_label": "Nehemiah",
 "confidence": 0.6011,
