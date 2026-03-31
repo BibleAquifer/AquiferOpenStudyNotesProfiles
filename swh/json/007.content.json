@@ -2,7 +2,7 @@
 {
 "content_id": "734296",
 "reference_id": 203396,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hajiri",
 "media_type": "Text",
 "index_reference": "hajiri",
@@ -83,9 +83,9 @@
 {
 "id": "person:Hagar",
 "type": "person",
-"preferred_label": "Hajiri",
 "confidence": 0.696,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Hajiri"
 }
 ]
 }
@@ -93,7 +93,7 @@
 {
 "content_id": "734401",
 "reference_id": 203501,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herode Agripa I",
 "media_type": "Text",
 "index_reference": "herode agripa i",
@@ -126,9 +126,9 @@
 {
 "id": "person:Herod.3",
 "type": "person",
-"preferred_label": "Herode",
-"confidence": 0.6885,
-"match_method": "scored"
+"confidence": 0.72,
+"match_method": "scored",
+"preferred_label": "Herode"
 }
 ]
 }
@@ -136,7 +136,7 @@
 {
 "content_id": "734407",
 "reference_id": 203507,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herode Agripa II",
 "media_type": "Text",
 "index_reference": "herode agripa ii",
@@ -159,7 +159,7 @@
 {
 "content_id": "734384",
 "reference_id": 203484,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herode Antipa",
 "media_type": "Text",
 "index_reference": "herode antipa",
@@ -288,9 +288,9 @@
 {
 "id": "person:Herod.2",
 "type": "person",
-"preferred_label": "Herode",
-"confidence": 0.7365,
-"match_method": "scored"
+"confidence": 0.7725,
+"match_method": "scored",
+"preferred_label": "Herode"
 }
 ]
 }
@@ -298,7 +298,7 @@
 {
 "content_id": "734377",
 "reference_id": 203477,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herode Mkuu",
 "media_type": "Text",
 "index_reference": "herode mkuu",
@@ -327,21 +327,13 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "person:Herod",
-"type": "person",
-"preferred_label": "Herode",
-"confidence": 0.6409,
-"match_method": "scored"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "734350",
 "reference_id": 203450,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hezekia",
 "media_type": "Text",
 "index_reference": "hezekia",
@@ -416,9 +408,9 @@
 {
 "id": "person:Hezekiah",
 "type": "person",
-"preferred_label": "Hezekia",
 "confidence": 0.7342,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Hezekia"
 }
 ]
 }

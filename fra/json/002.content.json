@@ -2,7 +2,7 @@
 {
 "content_id": "668911",
 "reference_id": 203453,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babylone",
 "media_type": "Text",
 "index_reference": "babylone",
@@ -121,16 +121,30 @@
 {
 "id": "place:Babylon",
 "type": "place",
-"preferred_label": "Babylone",
 "confidence": 0.6782,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Babylone"
 },
 {
 "id": "place:Shinar",
 "type": "place",
-"preferred_label": "Schinear",
-"confidence": 0.5729,
-"match_method": "scored"
+"confidence": 0.6044,
+"match_method": "scored",
+"preferred_label": "Schinear"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylonia"
+},
+{
+"id": "place:Babylon.2",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylon"
 }
 ]
 }
@@ -138,7 +152,7 @@
 {
 "content_id": "668874",
 "reference_id": 203416,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Balaam",
 "media_type": "Text",
 "index_reference": "balaam",
@@ -263,9 +277,9 @@
 {
 "id": "person:Balaam",
 "type": "person",
-"preferred_label": "Balaam",
 "confidence": 0.7806,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Balaam"
 }
 ]
 }
@@ -273,7 +287,7 @@
 {
 "content_id": "668955",
 "reference_id": 203497,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barnabas",
 "media_type": "Text",
 "index_reference": "barnabas",
@@ -390,16 +404,16 @@
 {
 "id": "person:Barnabas",
 "type": "person",
-"preferred_label": "Barnabas",
 "confidence": 0.6611,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Barnabas"
 },
 {
 "id": "person:Judas.5",
 "type": "person",
-"preferred_label": "Judas",
 "confidence": 0.5536,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Judas"
 }
 ]
 }
@@ -407,7 +421,7 @@
 {
 "content_id": "668925",
 "reference_id": 203467,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baruc",
 "media_type": "Text",
 "index_reference": "baruc",
@@ -518,9 +532,9 @@
 {
 "id": "person:Baruch.4",
 "type": "person",
-"preferred_label": "Baruc",
 "confidence": 0.6777,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Baruc"
 }
 ]
 }
@@ -528,10 +542,10 @@
 {
 "content_id": "668893",
 "reference_id": 203435,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bath-Schéba",
 "media_type": "Text",
-"index_reference": "bath-schéba",
+"index_reference": "bathschéba",
 "language": "fra",
 "review_level": "None",
 "content": "<p>Bath-Schéba, épouse d&apos;Urie, était la fille d&apos;Éliam&nbsp; (<a href=\"https://ref.ly/2Sam11:3\">2S 11.3</a> ; voir aussi <a href=\"https://ref.ly/1Chr3:5\">1Ch 3.5</a>) et la petite-fille d&apos;Achitophel, le conseiller du roi (<a href=\"https://ref.ly/2Sam15:12\">2S 15.12</a> ; <a href=\"https://ref.ly/2Sam23:34\">23.34</a>). Son mari, Urie, était un soldat hétien. Son mari, Urie, était un soldat hétien, l’un des guerriers les plus vaillants de l’armée du roi David (<a href=\"https://ref.ly/2Sam23:39\">2S 23.39</a>).</p><p>Un printemps, alors que David restait à Jérusalem pendant que ses troupes se préparaient pour le combat&nbsp; (<a href=\"https://ref.ly/2Sam11:1\">2S 11.1</a>),&nbsp;il alla se promena vers midi sur le toit de sa demeure et aperçut la belle Bath-Schéba qui se baignait. Séduit par son charme, il fit en sorte qu’elle soit amenée dans ses appartements privés. Il eut alors des relations sexuelles avec elle, et elle tomba enceinte (<a href=\"https://ref.ly/2Sam11:2-2Sam11:4\">2S 11.2–4</a>).</p><p>Craignant la divulgation de son adultère, David chercha à dissimuler son forfait. Il ordonna à Joab, son général, de faire venir Urie afin que ce dernier rapporte des nouvelles du champ de bataille, espérant ainsi que le soldat rentrerait chez lui et coucherait avec sa femme. Ce stratagème visait à faire croire que l&apos;enfant était le sien. Cependant Urie, qui s&apos;estimait toujours en service, dormit à la porte du palais (<a href=\"https://ref.ly/2Sam11:5-2Sam11:13\">2S 11.5–13</a>)</p><p>Interrogé sur sa manière d&apos;agir, Urie déclara qu’il ne pouvait se retirer auprès de sa femme tant que l’arche de l’alliance et l’armée d’Israël étaient en campagne. Cette réponse jetait une lumière défavorable sur l&apos;attitude de David. Urie n&apos;était même pas israélite, mais il était prêt à retourner au combat en ne dormant pas auprès de sa femme (voir <a href=\"https://ref.ly/Lev15:16-Lev15:18\">Lv 15.16–18</a>). David, lui, est resté chez lui et a essayé de cacher son adultère. David ne se contenta pas de dissimuler son péché, il fit renvoyer Urie sur le front et ordonna à Joab de veiller à ce qu’il périsse au combat (<a href=\"https://ref.ly/2Sam11:14-2Sam11:25\">2S 11.14–25</a>). La mort d&apos;Urie n&apos;étouffa cependant pas la révélation du péché de David, puisque le Seigneur envoya le prophète Nathan pour le confronter. David confessa son péché et se repentit (<a href=\"https://ref.ly/2Sam12:1-2Sam12:14\">2S 12.1–14 </a>; voir aussi <a href=\"https://ref.ly/Ps51:1-Ps51:19\">Ps 51</a>).</p><p>Le bébé de Bath-Schéba tomba malade et mourut, conformément à la prédiction de Nathan. Après une période de deuil, David fit de Bath-Schéba son épouse légitime. Ensemble, ils eurent plusieurs enfants, parmi lesquels se distinguent&nbsp;:</p><ul><li><p><span>Schimea</span></p></li><li><p>Schobab</p></li><li><p>Nathan</p></li><li><p>Salomon (<a href=\"https://ref.ly/2Sam12:15-2Sam12:25\">2 Samuel 12.15–25</a> ; <a href=\"https://ref.ly/1Chr3:5\">1Ch 3.5</a>)</p></li></ul><p>Le reste de la vie de David fut marqué par des conflits familiaux incessants, et le plus douloureux d’entre eux survint lorsque, dans ses dernières années, Bath-Schéba s’assura que son fils Salomon devînt le successeur du roi (<a href=\"https://ref.ly/1Kgs1:1-1Kgs1:53\">1R 1.1–53</a>).</p><p>Lorsque Matthieu retrace la généalogie de Jésus, le Messie, il mentionne à la fois Salomon et Bath-Schéba, la désignant ainsi comme « la femme d’Urie » (<a href=\"https://ref.ly/Matt1:6\">Mt 1.6</a>). Cela nous rappelle le péché qui l&apos;a introduite au sein de la famille de David, et la faveur gracieuse de Dieu envers ses descendants.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/2Sam11:1-2Sam12:25\">2 Samuel 11.1–12.25</a> ; <a href=\"https://ref.ly/1Kgs1:5-1Kgs2:25\">1 Rois 1.5–2.25</a> ; <a href=\"https://ref.ly/Ps51:1-Ps51:19\">Psaume 51.1–19</a></p>",
@@ -641,7 +655,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Bathsheba",
+"type": "person",
+"confidence": 0.628,
+"match_method": "scored",
+"preferred_label": "Bathsheba"
+}
+]
 }
 }
 ]

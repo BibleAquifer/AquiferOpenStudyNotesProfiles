@@ -2,7 +2,7 @@
 {
 "content_id": "668867",
 "reference_id": 203409,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jacob",
 "media_type": "Text",
 "index_reference": "jacob",
@@ -455,9 +455,9 @@
 {
 "id": "person:Israel",
 "type": "person",
-"preferred_label": "Israël",
 "confidence": 0.7403,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Israël"
 }
 ]
 }
@@ -465,10 +465,10 @@
 {
 "content_id": "668946",
 "reference_id": 203488,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jacques, fils de Zébédée",
 "media_type": "Text",
-"index_reference": "jacques, fils de zébédée",
+"index_reference": "jacques fils de zébédée",
 "language": "fra",
 "review_level": "None",
 "content": "<p>Jacques, fils de Zébédée et frère de Jean, était l’un des douze apôtres. Il fut parmi les premiers à mourir en tant que disciple de Jésus. Sa mère semble avoir été la sœur de Marie, mère de Jésus, ce qui fait de lui le cousin de Jésus (voir <a href=\"https://ref.ly/Matt27:56\">Mt&nbsp;27.56</a>&nbsp;; <a href=\"https://ref.ly/Mark15:40\">Mc&nbsp;15.40</a>&nbsp;; <a href=\"https://ref.ly/Mark16:1\">16.1</a>&nbsp;; <a href=\"https://ref.ly/John19:25\">Jn&nbsp;19.25</a>). Son nom apparaît généralement avant celui de Jean, ce qui indiquerait que Jacques était plus âgé. Ce Jacques n’était pas Jacques, fils d’Alphée (voir <a href=\"https://ref.ly/Luke6:15\">Lc&nbsp;6.15</a>) ou Jacques, frère de Jésus.</p><p>Jacques et Jean étaient pêcheurs comme leur père (<a href=\"https://ref.ly/Matt4:21\">Mt&nbsp;4.21</a>&nbsp;; <a href=\"https://ref.ly/Mark1:19\">Mc&nbsp;1.19</a>). Ils pêchaient avec Pierre et André, un autre duo de frères qui sont devenus disciples (<a href=\"https://ref.ly/Luke5:10\">Lc&nbsp;5.10</a>). Ils faisaient partie des premières personnes que Jésus a appelées à être ses disciples. Ils ont tout quitté, y compris leur père, pour le suivre (<a href=\"https://ref.ly/Matt4:22\">Mt&nbsp;4.22</a>&nbsp;; <a href=\"https://ref.ly/Mark1:20\">Mc&nbsp;1.20</a>&nbsp;; <a href=\"https://ref.ly/Luke5:11\">Lc&nbsp;5.11</a>). Jésus les a appelés «&nbsp;Fils du Tonnerre&nbsp;» (<a href=\"https://ref.ly/Mark3:17\">Mc&nbsp;3.17</a>). Cela pourrait signifier qu’ils avaient des personnalités fortes (voir <a href=\"https://ref.ly/Luke9:54\">Lc&nbsp;9.54</a>), bien que le sens exact soit incertain.</p><p>Jacques et son frère Jean étaient très proches de Jésus. Avec Pierre, ils formaient un groupe de disciples de confiance qui accompagnaient Jésus lors d’occasions spéciales. Ils étaient avec lui lorsqu’il a guéri la fille de Jaïrus (<a href=\"https://ref.ly/Mark5:37\">Mc&nbsp;5.37</a>&nbsp;; <a href=\"https://ref.ly/Luke8:51\">Lc&nbsp;8.51</a>), a parlé avec Élie et Moïse sur une montagne (<a href=\"https://ref.ly/Matt17:1-Matt17:3\">Mt&nbsp;17.1–3</a>&nbsp;; <a href=\"https://ref.ly/Mark9:2-Mark9:4\">Mc&nbsp;9.2–4</a>&nbsp;; <a href=\"https://ref.ly/Luke9:28-Luke9:30\">Lc&nbsp;9.28–30</a>), et a prié dans le jardin (<a href=\"https://ref.ly/Matt26:37\">Mt&nbsp;26.37</a>&nbsp;; <a href=\"https://ref.ly/Mark14:33\">Mc&nbsp;14.33</a>). À un moment donné, les deux frères ont contrarié les autres disciples en demandant des positions spéciales dans le royaume de Dieu à venir (<a href=\"https://ref.ly/Matt20:20-Matt20:28\">Mt 20.20–28</a>&nbsp;; <a href=\"https://ref.ly/Mark10:35-Mark10:45\">Mc&nbsp;10.35–45</a>&nbsp;; consulter les versets <a href=\"https://ref.ly/Luke22:24-Luke22:27\">Lc&nbsp;22.24–27</a>).</p><p>Hérode Agrippa fit tuer Jacques peu après la mort de Jésus, ce qui plut aux dirigeants juifs (<a href=\"https://ref.ly/Acts12:1-Acts12:3\">Ac&nbsp;12.1–3</a>). Hérode a peut-être agi ainsi parce que Jacques était un chef important parmi les disciples. Cet événement a accompli la prédiction de Jésus selon laquelle Jacques partagerait sa souffrance (<a href=\"https://ref.ly/Matt20:23\">Mt&nbsp;20.23</a>&nbsp;; <a href=\"https://ref.ly/Mark10:38-Mark10:39\">Mc&nbsp;10.38–39</a>).</p><p>Jacques était un travailleur ordinaire que Jésus a appelé à devenir son disciple. Il a quitté son travail, sa famille et sa maison pour suivre Jésus avec une confiance simple. Finalement, il est mort pour Jésus, faisant de lui un modèle de disciple engagé.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Matt4:21-Matt4:22\">Mt 4.21–22</a>&nbsp;; <a href=\"https://ref.ly/Matt10:2\">10.2</a>&nbsp;; <a href=\"https://ref.ly/Matt17:1\">17.1</a>&nbsp;; <a href=\"https://ref.ly/Matt20:20-Matt20:24\">20.20–24</a>&nbsp;; <a href=\"https://ref.ly/Matt26:37-Matt26:46\">26.37–46</a>&nbsp;; <a href=\"https://ref.ly/Mark1:19-Mark1:20\">Mc&nbsp;1.19–20</a>, <a href=\"https://ref.ly/Mark1:29\">29</a>&nbsp;; <a href=\"https://ref.ly/Mark3:17\">3.17</a>&nbsp;; <a href=\"https://ref.ly/Mark5:37\">5.37</a>&nbsp;; <a href=\"https://ref.ly/Mark9:2\">9.2</a>&nbsp;; <a href=\"https://ref.ly/Mark10:35-Mark10:41\">10.35–41</a>&nbsp;; <a href=\"https://ref.ly/Mark13:3-Mark13:4\">13.3–4</a>&nbsp;; <a href=\"https://ref.ly/Mark14:33-Mark14:42\">14.33–42</a>&nbsp;; <a href=\"https://ref.ly/Luke5:10\">Lc&nbsp;5.10</a>&nbsp;; <a href=\"https://ref.ly/Luke6:14\">6.14</a>&nbsp;; <a href=\"https://ref.ly/Luke8:51\">8.51</a>&nbsp;; <a href=\"https://ref.ly/Luke9:28\">9.28</a>, <a href=\"https://ref.ly/Luke9:54-Luke9:55\">54–55</a>&nbsp;; <a href=\"https://ref.ly/John21:2\">Jn&nbsp;21.2</a>&nbsp;; <a href=\"https://ref.ly/Acts1:13\">Ac&nbsp;1.13</a>&nbsp;; <a href=\"https://ref.ly/Acts12:2\">12.2</a></p>",
@@ -740,10 +740,10 @@
 {
 "content_id": "668961",
 "reference_id": 203503,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jacques, frère de Jésus",
 "media_type": "Text",
-"index_reference": "jacques, frère de jésus",
+"index_reference": "jacques frère de jésus",
 "language": "fra",
 "review_level": "None",
 "content": "<p>Jacques était l’un des frères de Jésus (<a href=\"https://ref.ly/Matt13:55\">Mt&nbsp;13.55</a>&nbsp;; <a href=\"https://ref.ly/Mark6:3\">Mc&nbsp;6.3</a>&nbsp;; <a href=\"https://ref.ly/Gal1:19\">Ga&nbsp;1.19</a>&nbsp;; comparer <a href=\"https://ref.ly/Jude1:1\">Jd 1.1</a>). Il est devenu le chef de l’église à Jérusalem peu après la résurrection de Jésus. Selon la tradition, ce Jacques est l’auteur du livre du Nouveau Testament de Jacques.</p><p>Les frères de Jésus étaient initialement sceptiques quant à ses affirmations (<a href=\"https://ref.ly/John7:2-John7:5\">Jn 7.2–5</a>). Mais ils sont ensuite devenus croyants (<a href=\"https://ref.ly/Acts1:14\">Ac&nbsp;1.14</a>). La rencontre personnelle de Jacques avec Jésus ressuscité l’a peut-être convaincu (<a href=\"https://ref.ly/1Cor15:7\">1Co&nbsp;15.7</a>). Deux des frères de Jésus, Jacques et Jude, ont joué des rôles importants dans la communauté chrétienne primitive. Jacques est rapidement devenu le chef de l’église à Jérusalem. Lors du concile de Jérusalem, Jacques a aidé les dirigeants juifs de l’église à accepter les croyants gentils (non-juifs) sans exiger la circoncision. Cette décision était essentielle pour Paul et faisait partie des premières missions auprès des gentils (<a href=\"https://ref.ly/Acts15:13-Acts15:21\">Ac&nbsp;15.13–21</a>). Paul a rendu visite à Jacques à Jérusalem après son troisième voyage en tant que missionnaire, tout comme il l’avait fait plus tôt après sa conversion (<a href=\"https://ref.ly/Acts21:18\">Ac&nbsp;21.18</a>&nbsp;; <a href=\"https://ref.ly/Gal1:19\">Ga&nbsp;1.19</a>).</p><p>Comme la plupart des chrétiens juifs, Jacques suivait la loi de Moïse. Il soulignait l’importance d’observer certaines lois clés lorsqu’il était parmi les Juifs (<a href=\"https://ref.ly/Acts15:20-Acts15:21\">Ac 15.20–21</a>&nbsp;; <a href=\"https://ref.ly/Acts21:18-Acts21:25\">21.18–25</a>). Jacques reconnaissait la mission de Paul et son attention sur le salut par la foi seule (<a href=\"https://ref.ly/Gal2:6-Gal2:9\">Ga&nbsp;2.6–9</a>), mais de nombreux chrétiens juifs n’étaient pas d’accord. Ces croyants juifs, que Paul associa une fois à Jacques (voir <a href=\"https://ref.ly/Gal2:12\">Ga&nbsp;2.12</a>), insistaient pour que les gentils devenus chrétiens soient circoncis et suivent la loi de Moïse pour rejoindre la communauté chrétienne.</p><p>Les origines juives de Jacques sont évidentes dans sa lettre, qui offre des conseils sages et pratiques pour vivre. Une grande partie de celle-ci s’aligne avec la sagesse des Écritures juives traditionnelles. Un paragraphe de sa lettre (<a href=\"https://ref.ly/Jas5:1-Jas5:6\">Jc 5.1–6</a>) ressemble au travail des prophètes de l’Ancien Testament (par exemple, comparez <a href=\"https://ref.ly/Amos5:21-Amos5:24\">Am 5.21–24</a>&nbsp;; <a href=\"https://ref.ly/Amos6:1-Amos6:7\">6.1–7</a>).</p><p>Jacques, surnommé «&nbsp;le Juste&nbsp;» par les gens de son époque, a été tué pour sa foi par des prêtres juifs à Jérusalem (Josèphe, <em>Antiquités</em>&nbsp;20.9&nbsp;; Eusèbe, <em>Histoire de l’Église</em>&nbsp;2.23.4–18).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Matt13:55\">Mt&nbsp;13.55</a>&nbsp;; <a href=\"https://ref.ly/Mark6:3\">Mc&nbsp;6.3</a>&nbsp;; <a href=\"https://ref.ly/Acts12:17\">Ac&nbsp;12.17</a>&nbsp;; <a href=\"https://ref.ly/Acts15:13-Acts15:21\">Ac 15.13–21</a>&nbsp;; <a href=\"https://ref.ly/Acts21:18-Acts21:25\">Ac&nbsp;21.18–25</a>&nbsp;; <a href=\"https://ref.ly/1Cor15:7\">1Co&nbsp;15.7</a>&nbsp;; <a href=\"https://ref.ly/Gal2:9\">Ga&nbsp;2.9</a>, <a href=\"https://ref.ly/Gal2:12\">Ga&nbsp;2.12</a>&nbsp;; <a href=\"https://ref.ly/Jas1:1-Jas5:20\">Jc 1.1–5.20</a> ; <a href=\"https://ref.ly/Jude1:1\">Jd 1.1</a></p>",
@@ -869,9 +869,326 @@
 }
 },
 {
+"content_id": "668952",
+"reference_id": 203494,
+"version": "1.0.4",
+"title": "Jean, fils de Zébédée",
+"media_type": "Text",
+"index_reference": "jean fils de zébédée",
+"language": "fra",
+"review_level": "None",
+"content": "<p>Jean était l’un des douze disciples les plus proches de Jésus, appelés apôtres. Il était le frère de Jacques et le fils de Zébédée. Jésus a choisi ces douze hommes comme ses représentants spéciaux et leur a donné l’autorité d’enseigner aux autres à son sujet. Leur travail a contribué à fonder l’Église primitive. Selon la tradition ancienne, Jean, fils de Zébédée, a écrit l’Évangile de Jean, les Lettres de Jean et le Livre de l’Apocalypse.</p><p>Jean et son frère Jacques étaient parmi les plus proches disciples de Jésus (<a href=\"https://ref.ly/Mark5:37\">Mc&nbsp;5.37</a>&nbsp;; <a href=\"https://ref.ly/Mark9:2\">9.2</a>&nbsp;; <a href=\"https://ref.ly/Mark13:3\">13.3</a>&nbsp;; <a href=\"https://ref.ly/Mark14:33\">14.33</a>). Leur mère, Salomé, pourrait avoir été la sœur de Marie, mère de Jésus (voir <a href=\"https://ref.ly/Matt27:56\">Mt&nbsp;27.56</a>&nbsp;; <a href=\"https://ref.ly/Mark15:40\">Mc&nbsp;15.40</a>&nbsp;; <a href=\"https://ref.ly/Mark16:1\">16.1</a>&nbsp;; <a href=\"https://ref.ly/John19:25\">Jn&nbsp;19.25</a>). Le nom de Jean apparaît généralement après celui de Jacques, ce qui suggère que Jean était plus jeune. Jacques et Jean étaient pêcheurs comme leur père (<a href=\"https://ref.ly/Matt4:21\">Mt&nbsp;4.21</a>&nbsp;; <a href=\"https://ref.ly/Mark1:19\">Mc&nbsp;1.19</a>). Ils pêchaient avec Pierre et André, une autre duo de frères devenus disciples (<a href=\"https://ref.ly/Luke5:8-Luke5:10\">Lc 5.8–10</a>).</p><p>Ils faisaient partie des premiers disciples que Jésus a appelés, et ils ont tout quitté pour le suivre (<a href=\"https://ref.ly/Matt4:22\">Mt&nbsp;4.22</a>&nbsp;; <a href=\"https://ref.ly/Mark1:20\">Mc&nbsp;1.20</a>&nbsp;; <a href=\"https://ref.ly/Luke5:11\">Lc&nbsp;5.11</a>&nbsp;; comparer <a href=\"https://ref.ly/John1:35-John1:40\">Jn&nbsp;1.35–40</a>). Jésus les a nommés «&nbsp;Fils du Tonnerre&nbsp;» (<a href=\"https://ref.ly/Mark3:17\">Mc&nbsp;3.17</a>). Ce nom pourrait signifier qu’ils étaient bruyants ou prompts à s’emporter (voir <a href=\"https://ref.ly/Luke9:54\">Lc&nbsp;9.54</a>). À un moment donné, les frères ont contrarié les autres disciples en demandant des positions spéciales dans le royaume futur (<a href=\"https://ref.ly/Matt20:20-Matt20:28\">Mt 20.20–28</a>&nbsp;; <a href=\"https://ref.ly/Mark10:35-Mark10:45\">Mc&nbsp;10.35–45</a>&nbsp;; voir <a href=\"https://ref.ly/Luke22:24-Luke22:27\">Lc&nbsp;22.24–27</a>).</p><p>Les gens croient que Jean est le «&nbsp;disciple que Jésus aimait&nbsp;» non nommé et «&nbsp;un autre disciple&nbsp;» mentionné dans l’Évangile de Jean (<a href=\"https://ref.ly/John13:23-John13:25\">Jn&nbsp;13.23–25</a>&nbsp;; <a href=\"https://ref.ly/John18:15-John18:16\">18.15–16</a>&nbsp;; <a href=\"https://ref.ly/John19:26-John19:27\">19.26–27</a>&nbsp;; <a href=\"https://ref.ly/John20:2-John20:10\">20.2–10</a>&nbsp;; <a href=\"https://ref.ly/John21:20-John21:24\">21.20–24</a>). Il pourrait avoir été le disciple non nommé de Jean le Baptiste qui, avec André, est devenu un des premiers disciples de Jésus (<a href=\"https://ref.ly/John1:35-John1:40\">Jn 1.35–40</a>).</p><p>Le nom de Jean apparaît trois fois dans les Actes. Chaque fois, il travaille avec Pierre (<a href=\"https://ref.ly/Acts3:1-Acts3:11\">Ac&nbsp;3.1–11</a>&nbsp;; <a href=\"https://ref.ly/Acts4:1-Acts4:23\">4.1–23</a>&nbsp;; <a href=\"https://ref.ly/Acts8:14-Acts8:25\">8.14–25</a>). Paul l’a appelé l’un des «&nbsp;piliers&nbsp;» de l’église à Jérusalem (<a href=\"https://ref.ly/Gal2:9\">Ga&nbsp;2.9</a>). Cela signifiait que Jean était un chef important dans l’église de Jérusalem.</p><p>L’histoire la plus courante concernant la vie ultérieure de Jean est qu’il a déménagé à Éphèse. Là, il est devenu l’évêque d’Asie Mineure. Il a vécu jusqu’à un âge avancé et est mort paisiblement entouré d’amis. Son Évangile offre une image profonde de Jésus, et ses lettres (<a href=\"https://ref.ly/1John1:1-1John5:21\">1J</a>, <a href=\"https://ref.ly/2John1:1-2John1:13\">2J</a> et <a href=\"https://ref.ly/3John1:1-3John1:14\">3J</a>) offrent une vue inspirante de la vie chrétienne.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Matt4:21-Matt4:22\">Mt 4.21–22</a>&nbsp;; <a href=\"https://ref.ly/Matt10:2\">10.2</a>&nbsp;; <a href=\"https://ref.ly/Matt17:1\">17.1</a>&nbsp;; <a href=\"https://ref.ly/Matt20:20-Matt20:24\">20.20–24</a>&nbsp;; <a href=\"https://ref.ly/Matt26:37-Matt26:46\">26.37–46</a>&nbsp;; <a href=\"https://ref.ly/Mark1:19-Mark1:20\">Mc&nbsp;1.19–20</a>, <a href=\"https://ref.ly/Mark1:29\">29</a>&nbsp;; <a href=\"https://ref.ly/Mark3:17\">3.17</a>&nbsp;; <a href=\"https://ref.ly/Mark5:37\">5.37</a>&nbsp;; <a href=\"https://ref.ly/Mark9:2\">9.2</a>, <a href=\"https://ref.ly/Mark9:38\">38</a>&nbsp;; <a href=\"https://ref.ly/Mark10:35-Mark10:41\">10.35–41</a>&nbsp;; <a href=\"https://ref.ly/Mark13:3-Mark13:4\">13.3–4</a>&nbsp;; <a href=\"https://ref.ly/Mark14:33-Mark14:42\">14.33–42</a>&nbsp;; <a href=\"https://ref.ly/Luke5:10\">Lc&nbsp;5.10</a>&nbsp;; <a href=\"https://ref.ly/Luke6:14\">6.14</a>&nbsp;; <a href=\"https://ref.ly/Luke8:51\">8.51</a>&nbsp;; <a href=\"https://ref.ly/Luke9:28\">9.28</a>, <a href=\"https://ref.ly/Luke9:49\">49</a>, <a href=\"https://ref.ly/Luke9:54\">54</a>&nbsp;; <a href=\"https://ref.ly/John13:23-John13:25\">Jn&nbsp;13.23–25</a>&nbsp;; <a href=\"https://ref.ly/John18:15-John18:16\">18.15–16</a>&nbsp;; <a href=\"https://ref.ly/John19:26-John19:27\">19.26–27</a>&nbsp;; <a href=\"https://ref.ly/John20:2-John20:10\">20.2–10</a>&nbsp;; <a href=\"https://ref.ly/John21:2\">21.2</a>, <a href=\"https://ref.ly/John21:7\">7</a>, <a href=\"https://ref.ly/John21:20-John21:24\">20–24</a>&nbsp;; <a href=\"https://ref.ly/Acts1:13\">Ac&nbsp;1.13</a>&nbsp;; <a href=\"https://ref.ly/Acts3:1-Acts3:11\">3.1–11</a>&nbsp;; <a href=\"https://ref.ly/Acts4:1-Acts4:22\">4.1–22</a>&nbsp;; <a href=\"https://ref.ly/Acts5:17-Acts5:42\">5.17–42</a>&nbsp;; <a href=\"https://ref.ly/Acts8:14-Acts8:25\">8.14–25</a>&nbsp;; <a href=\"https://ref.ly/Gal2:9\">Ga&nbsp;2.9</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40004021",
+"start_ref_usfm": "MAT 4:21",
+"end_ref": "40004021",
+"end_ref_usfm": "MAT 4:21"
+},
+{
+"start_ref": "40004022",
+"start_ref_usfm": "MAT 4:22",
+"end_ref": "40004022",
+"end_ref_usfm": "MAT 4:22"
+},
+{
+"start_ref": "40010002",
+"start_ref_usfm": "MAT 10:2",
+"end_ref": "40010002",
+"end_ref_usfm": "MAT 10:2"
+},
+{
+"start_ref": "40017001",
+"start_ref_usfm": "MAT 17:1",
+"end_ref": "40017001",
+"end_ref_usfm": "MAT 17:1"
+},
+{
+"start_ref": "40027056",
+"start_ref_usfm": "MAT 27:56",
+"end_ref": "40027056",
+"end_ref_usfm": "MAT 27:56"
+},
+{
+"start_ref": "41001019",
+"start_ref_usfm": "MRK 1:19",
+"end_ref": "41001019",
+"end_ref_usfm": "MRK 1:19"
+},
+{
+"start_ref": "41001020",
+"start_ref_usfm": "MRK 1:20",
+"end_ref": "41001020",
+"end_ref_usfm": "MRK 1:20"
+},
+{
+"start_ref": "41001029",
+"start_ref_usfm": "MRK 1:29",
+"end_ref": "41001029",
+"end_ref_usfm": "MRK 1:29"
+},
+{
+"start_ref": "41003017",
+"start_ref_usfm": "MRK 3:17",
+"end_ref": "41003017",
+"end_ref_usfm": "MRK 3:17"
+},
+{
+"start_ref": "41005037",
+"start_ref_usfm": "MRK 5:37",
+"end_ref": "41005037",
+"end_ref_usfm": "MRK 5:37"
+},
+{
+"start_ref": "41009002",
+"start_ref_usfm": "MRK 9:2",
+"end_ref": "41009002",
+"end_ref_usfm": "MRK 9:2"
+},
+{
+"start_ref": "41009038",
+"start_ref_usfm": "MRK 9:38",
+"end_ref": "41009038",
+"end_ref_usfm": "MRK 9:38"
+},
+{
+"start_ref": "41013003",
+"start_ref_usfm": "MRK 13:3",
+"end_ref": "41013003",
+"end_ref_usfm": "MRK 13:3"
+},
+{
+"start_ref": "41014033",
+"start_ref_usfm": "MRK 14:33",
+"end_ref": "41014033",
+"end_ref_usfm": "MRK 14:33"
+},
+{
+"start_ref": "41015040",
+"start_ref_usfm": "MRK 15:40",
+"end_ref": "41015040",
+"end_ref_usfm": "MRK 15:40"
+},
+{
+"start_ref": "41016001",
+"start_ref_usfm": "MRK 16:1",
+"end_ref": "41016001",
+"end_ref_usfm": "MRK 16:1"
+},
+{
+"start_ref": "42005010",
+"start_ref_usfm": "LUK 5:10",
+"end_ref": "42005010",
+"end_ref_usfm": "LUK 5:10"
+},
+{
+"start_ref": "42005011",
+"start_ref_usfm": "LUK 5:11",
+"end_ref": "42005011",
+"end_ref_usfm": "LUK 5:11"
+},
+{
+"start_ref": "42006014",
+"start_ref_usfm": "LUK 6:14",
+"end_ref": "42006014",
+"end_ref_usfm": "LUK 6:14"
+},
+{
+"start_ref": "42008051",
+"start_ref_usfm": "LUK 8:51",
+"end_ref": "42008051",
+"end_ref_usfm": "LUK 8:51"
+},
+{
+"start_ref": "42009028",
+"start_ref_usfm": "LUK 9:28",
+"end_ref": "42009028",
+"end_ref_usfm": "LUK 9:28"
+},
+{
+"start_ref": "42009049",
+"start_ref_usfm": "LUK 9:49",
+"end_ref": "42009049",
+"end_ref_usfm": "LUK 9:49"
+},
+{
+"start_ref": "42009054",
+"start_ref_usfm": "LUK 9:54",
+"end_ref": "42009054",
+"end_ref_usfm": "LUK 9:54"
+},
+{
+"start_ref": "43019025",
+"start_ref_usfm": "JHN 19:25",
+"end_ref": "43019025",
+"end_ref_usfm": "JHN 19:25"
+},
+{
+"start_ref": "43021002",
+"start_ref_usfm": "JHN 21:2",
+"end_ref": "43021002",
+"end_ref_usfm": "JHN 21:2"
+},
+{
+"start_ref": "43021007",
+"start_ref_usfm": "JHN 21:7",
+"end_ref": "43021007",
+"end_ref_usfm": "JHN 21:7"
+},
+{
+"start_ref": "44001013",
+"start_ref_usfm": "ACT 1:13",
+"end_ref": "44001013",
+"end_ref_usfm": "ACT 1:13"
+},
+{
+"start_ref": "48002009",
+"start_ref_usfm": "GAL 2:9",
+"end_ref": "48002009",
+"end_ref_usfm": "GAL 2:9"
+},
+{
+"start_ref": "41013003",
+"start_ref_usfm": "MRK 13:3",
+"end_ref": "41013004",
+"end_ref_usfm": "MRK 13:4"
+},
+{
+"start_ref": "44003001",
+"start_ref_usfm": "ACT 3:1",
+"end_ref": "44003011",
+"end_ref_usfm": "ACT 3:11"
+},
+{
+"start_ref": "43021020",
+"start_ref_usfm": "JHN 21:20",
+"end_ref": "43021024",
+"end_ref_usfm": "JHN 21:24"
+},
+{
+"start_ref": "41010035",
+"start_ref_usfm": "MRK 10:35",
+"end_ref": "41010045",
+"end_ref_usfm": "MRK 10:45"
+},
+{
+"start_ref": "41001019",
+"start_ref_usfm": "MRK 1:19",
+"end_ref": "41001020",
+"end_ref_usfm": "MRK 1:20"
+},
+{
+"start_ref": "43020002",
+"start_ref_usfm": "JHN 20:2",
+"end_ref": "43020010",
+"end_ref_usfm": "JHN 20:10"
+},
+{
+"start_ref": "43019026",
+"start_ref_usfm": "JHN 19:26",
+"end_ref": "43019027",
+"end_ref_usfm": "JHN 19:27"
+},
+{
+"start_ref": "40004021",
+"start_ref_usfm": "MAT 4:21",
+"end_ref": "40004022",
+"end_ref_usfm": "MAT 4:22"
+},
+{
+"start_ref": "43001035",
+"start_ref_usfm": "JHN 1:35",
+"end_ref": "43001040",
+"end_ref_usfm": "JHN 1:40"
+},
+{
+"start_ref": "44004001",
+"start_ref_usfm": "ACT 4:1",
+"end_ref": "44004022",
+"end_ref_usfm": "ACT 4:22"
+},
+{
+"start_ref": "40020020",
+"start_ref_usfm": "MAT 20:20",
+"end_ref": "40020028",
+"end_ref_usfm": "MAT 20:28"
+},
+{
+"start_ref": "44005017",
+"start_ref_usfm": "ACT 5:17",
+"end_ref": "44005042",
+"end_ref_usfm": "ACT 5:42"
+},
+{
+"start_ref": "42022024",
+"start_ref_usfm": "LUK 22:24",
+"end_ref": "42022027",
+"end_ref_usfm": "LUK 22:27"
+},
+{
+"start_ref": "40020020",
+"start_ref_usfm": "MAT 20:20",
+"end_ref": "40020024",
+"end_ref_usfm": "MAT 20:24"
+},
+{
+"start_ref": "40026037",
+"start_ref_usfm": "MAT 26:37",
+"end_ref": "40026046",
+"end_ref_usfm": "MAT 26:46"
+},
+{
+"start_ref": "41010035",
+"start_ref_usfm": "MRK 10:35",
+"end_ref": "41010041",
+"end_ref_usfm": "MRK 10:41"
+},
+{
+"start_ref": "41014033",
+"start_ref_usfm": "MRK 14:33",
+"end_ref": "41014042",
+"end_ref_usfm": "MRK 14:42"
+},
+{
+"start_ref": "42005008",
+"start_ref_usfm": "LUK 5:8",
+"end_ref": "42005010",
+"end_ref_usfm": "LUK 5:10"
+},
+{
+"start_ref": "43013023",
+"start_ref_usfm": "JHN 13:23",
+"end_ref": "43013025",
+"end_ref_usfm": "JHN 13:25"
+},
+{
+"start_ref": "43018015",
+"start_ref_usfm": "JHN 18:15",
+"end_ref": "43018016",
+"end_ref_usfm": "JHN 18:16"
+},
+{
+"start_ref": "44004001",
+"start_ref_usfm": "ACT 4:1",
+"end_ref": "44004023",
+"end_ref_usfm": "ACT 4:23"
+},
+{
+"start_ref": "44008014",
+"start_ref_usfm": "ACT 8:14",
+"end_ref": "44008025",
+"end_ref_usfm": "ACT 8:25"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
 "content_id": "668948",
 "reference_id": 203490,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jean le Baptiste",
 "media_type": "Text",
 "index_reference": "jean le baptiste",
@@ -1264,16 +1581,9 @@
 {
 "id": "person:John",
 "type": "person",
-"preferred_label": "Jean",
-"confidence": 0.6137,
-"match_method": "scored"
-},
-{
-"id": "keyterm:Baptist",
-"type": "keyterm",
-"preferred_label": "baptiste [jean]",
-"confidence": 0.5735,
-"match_method": "scored"
+"confidence": 0.7262,
+"match_method": "scored",
+"preferred_label": "Jean"
 }
 ]
 }
@@ -1281,7 +1591,7 @@
 {
 "content_id": "668960",
 "reference_id": 203502,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jean Marc",
 "media_type": "Text",
 "index_reference": "jean marc",
@@ -1362,334 +1672,17 @@
 {
 "id": "person:Mark",
 "type": "person",
-"preferred_label": "Marc",
-"confidence": 0.7015,
-"match_method": "scored"
+"confidence": 0.85,
+"match_method": "scored",
+"preferred_label": "Marc"
 }
 ]
 }
 },
 {
-"content_id": "668952",
-"reference_id": 203494,
-"version": "1.0.2",
-"title": "Jean, fils de Zébédée",
-"media_type": "Text",
-"index_reference": "jean, fils de zébédée",
-"language": "fra",
-"review_level": "None",
-"content": "<p>Jean était l’un des douze disciples les plus proches de Jésus, appelés apôtres. Il était le frère de Jacques et le fils de Zébédée. Jésus a choisi ces douze hommes comme ses représentants spéciaux et leur a donné l’autorité d’enseigner aux autres à son sujet. Leur travail a contribué à fonder l’Église primitive. Selon la tradition ancienne, Jean, fils de Zébédée, a écrit l’Évangile de Jean, les Lettres de Jean et le Livre de l’Apocalypse.</p><p>Jean et son frère Jacques étaient parmi les plus proches disciples de Jésus (<a href=\"https://ref.ly/Mark5:37\">Mc&nbsp;5.37</a>&nbsp;; <a href=\"https://ref.ly/Mark9:2\">9.2</a>&nbsp;; <a href=\"https://ref.ly/Mark13:3\">13.3</a>&nbsp;; <a href=\"https://ref.ly/Mark14:33\">14.33</a>). Leur mère, Salomé, pourrait avoir été la sœur de Marie, mère de Jésus (voir <a href=\"https://ref.ly/Matt27:56\">Mt&nbsp;27.56</a>&nbsp;; <a href=\"https://ref.ly/Mark15:40\">Mc&nbsp;15.40</a>&nbsp;; <a href=\"https://ref.ly/Mark16:1\">16.1</a>&nbsp;; <a href=\"https://ref.ly/John19:25\">Jn&nbsp;19.25</a>). Le nom de Jean apparaît généralement après celui de Jacques, ce qui suggère que Jean était plus jeune. Jacques et Jean étaient pêcheurs comme leur père (<a href=\"https://ref.ly/Matt4:21\">Mt&nbsp;4.21</a>&nbsp;; <a href=\"https://ref.ly/Mark1:19\">Mc&nbsp;1.19</a>). Ils pêchaient avec Pierre et André, une autre duo de frères devenus disciples (<a href=\"https://ref.ly/Luke5:8-Luke5:10\">Lc 5.8–10</a>).</p><p>Ils faisaient partie des premiers disciples que Jésus a appelés, et ils ont tout quitté pour le suivre (<a href=\"https://ref.ly/Matt4:22\">Mt&nbsp;4.22</a>&nbsp;; <a href=\"https://ref.ly/Mark1:20\">Mc&nbsp;1.20</a>&nbsp;; <a href=\"https://ref.ly/Luke5:11\">Lc&nbsp;5.11</a>&nbsp;; comparer <a href=\"https://ref.ly/John1:35-John1:40\">Jn&nbsp;1.35–40</a>). Jésus les a nommés «&nbsp;Fils du Tonnerre&nbsp;» (<a href=\"https://ref.ly/Mark3:17\">Mc&nbsp;3.17</a>). Ce nom pourrait signifier qu’ils étaient bruyants ou prompts à s’emporter (voir <a href=\"https://ref.ly/Luke9:54\">Lc&nbsp;9.54</a>). À un moment donné, les frères ont contrarié les autres disciples en demandant des positions spéciales dans le royaume futur (<a href=\"https://ref.ly/Matt20:20-Matt20:28\">Mt 20.20–28</a>&nbsp;; <a href=\"https://ref.ly/Mark10:35-Mark10:45\">Mc&nbsp;10.35–45</a>&nbsp;; voir <a href=\"https://ref.ly/Luke22:24-Luke22:27\">Lc&nbsp;22.24–27</a>).</p><p>Les gens croient que Jean est le «&nbsp;disciple que Jésus aimait&nbsp;» non nommé et «&nbsp;un autre disciple&nbsp;» mentionné dans l’Évangile de Jean (<a href=\"https://ref.ly/John13:23-John13:25\">Jn&nbsp;13.23–25</a>&nbsp;; <a href=\"https://ref.ly/John18:15-John18:16\">18.15–16</a>&nbsp;; <a href=\"https://ref.ly/John19:26-John19:27\">19.26–27</a>&nbsp;; <a href=\"https://ref.ly/John20:2-John20:10\">20.2–10</a>&nbsp;; <a href=\"https://ref.ly/John21:20-John21:24\">21.20–24</a>). Il pourrait avoir été le disciple non nommé de Jean le Baptiste qui, avec André, est devenu un des premiers disciples de Jésus (<a href=\"https://ref.ly/John1:35-John1:40\">Jn 1.35–40</a>).</p><p>Le nom de Jean apparaît trois fois dans les Actes. Chaque fois, il travaille avec Pierre (<a href=\"https://ref.ly/Acts3:1-Acts3:11\">Ac&nbsp;3.1–11</a>&nbsp;; <a href=\"https://ref.ly/Acts4:1-Acts4:23\">4.1–23</a>&nbsp;; <a href=\"https://ref.ly/Acts8:14-Acts8:25\">8.14–25</a>). Paul l’a appelé l’un des «&nbsp;piliers&nbsp;» de l’église à Jérusalem (<a href=\"https://ref.ly/Gal2:9\">Ga&nbsp;2.9</a>). Cela signifiait que Jean était un chef important dans l’église de Jérusalem.</p><p>L’histoire la plus courante concernant la vie ultérieure de Jean est qu’il a déménagé à Éphèse. Là, il est devenu l’évêque d’Asie Mineure. Il a vécu jusqu’à un âge avancé et est mort paisiblement entouré d’amis. Son Évangile offre une image profonde de Jésus, et ses lettres (<a href=\"https://ref.ly/1John1:1-1John5:21\">1J</a>, <a href=\"https://ref.ly/2John1:1-2John1:13\">2J</a> et <a href=\"https://ref.ly/3John1:1-3John1:14\">3J</a>) offrent une vue inspirante de la vie chrétienne.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Matt4:21-Matt4:22\">Mt 4.21–22</a>&nbsp;; <a href=\"https://ref.ly/Matt10:2\">10.2</a>&nbsp;; <a href=\"https://ref.ly/Matt17:1\">17.1</a>&nbsp;; <a href=\"https://ref.ly/Matt20:20-Matt20:24\">20.20–24</a>&nbsp;; <a href=\"https://ref.ly/Matt26:37-Matt26:46\">26.37–46</a>&nbsp;; <a href=\"https://ref.ly/Mark1:19-Mark1:20\">Mc&nbsp;1.19–20</a>, <a href=\"https://ref.ly/Mark1:29\">29</a>&nbsp;; <a href=\"https://ref.ly/Mark3:17\">3.17</a>&nbsp;; <a href=\"https://ref.ly/Mark5:37\">5.37</a>&nbsp;; <a href=\"https://ref.ly/Mark9:2\">9.2</a>, <a href=\"https://ref.ly/Mark9:38\">38</a>&nbsp;; <a href=\"https://ref.ly/Mark10:35-Mark10:41\">10.35–41</a>&nbsp;; <a href=\"https://ref.ly/Mark13:3-Mark13:4\">13.3–4</a>&nbsp;; <a href=\"https://ref.ly/Mark14:33-Mark14:42\">14.33–42</a>&nbsp;; <a href=\"https://ref.ly/Luke5:10\">Lc&nbsp;5.10</a>&nbsp;; <a href=\"https://ref.ly/Luke6:14\">6.14</a>&nbsp;; <a href=\"https://ref.ly/Luke8:51\">8.51</a>&nbsp;; <a href=\"https://ref.ly/Luke9:28\">9.28</a>, <a href=\"https://ref.ly/Luke9:49\">49</a>, <a href=\"https://ref.ly/Luke9:54\">54</a>&nbsp;; <a href=\"https://ref.ly/John13:23-John13:25\">Jn&nbsp;13.23–25</a>&nbsp;; <a href=\"https://ref.ly/John18:15-John18:16\">18.15–16</a>&nbsp;; <a href=\"https://ref.ly/John19:26-John19:27\">19.26–27</a>&nbsp;; <a href=\"https://ref.ly/John20:2-John20:10\">20.2–10</a>&nbsp;; <a href=\"https://ref.ly/John21:2\">21.2</a>, <a href=\"https://ref.ly/John21:7\">7</a>, <a href=\"https://ref.ly/John21:20-John21:24\">20–24</a>&nbsp;; <a href=\"https://ref.ly/Acts1:13\">Ac&nbsp;1.13</a>&nbsp;; <a href=\"https://ref.ly/Acts3:1-Acts3:11\">3.1–11</a>&nbsp;; <a href=\"https://ref.ly/Acts4:1-Acts4:22\">4.1–22</a>&nbsp;; <a href=\"https://ref.ly/Acts5:17-Acts5:42\">5.17–42</a>&nbsp;; <a href=\"https://ref.ly/Acts8:14-Acts8:25\">8.14–25</a>&nbsp;; <a href=\"https://ref.ly/Gal2:9\">Ga&nbsp;2.9</a></p>",
-"associations": {
-"passage": [
-{
-"start_ref": "40004021",
-"start_ref_usfm": "MAT 4:21",
-"end_ref": "40004021",
-"end_ref_usfm": "MAT 4:21"
-},
-{
-"start_ref": "40004022",
-"start_ref_usfm": "MAT 4:22",
-"end_ref": "40004022",
-"end_ref_usfm": "MAT 4:22"
-},
-{
-"start_ref": "40010002",
-"start_ref_usfm": "MAT 10:2",
-"end_ref": "40010002",
-"end_ref_usfm": "MAT 10:2"
-},
-{
-"start_ref": "40017001",
-"start_ref_usfm": "MAT 17:1",
-"end_ref": "40017001",
-"end_ref_usfm": "MAT 17:1"
-},
-{
-"start_ref": "40027056",
-"start_ref_usfm": "MAT 27:56",
-"end_ref": "40027056",
-"end_ref_usfm": "MAT 27:56"
-},
-{
-"start_ref": "41001019",
-"start_ref_usfm": "MRK 1:19",
-"end_ref": "41001019",
-"end_ref_usfm": "MRK 1:19"
-},
-{
-"start_ref": "41001020",
-"start_ref_usfm": "MRK 1:20",
-"end_ref": "41001020",
-"end_ref_usfm": "MRK 1:20"
-},
-{
-"start_ref": "41001029",
-"start_ref_usfm": "MRK 1:29",
-"end_ref": "41001029",
-"end_ref_usfm": "MRK 1:29"
-},
-{
-"start_ref": "41003017",
-"start_ref_usfm": "MRK 3:17",
-"end_ref": "41003017",
-"end_ref_usfm": "MRK 3:17"
-},
-{
-"start_ref": "41005037",
-"start_ref_usfm": "MRK 5:37",
-"end_ref": "41005037",
-"end_ref_usfm": "MRK 5:37"
-},
-{
-"start_ref": "41009002",
-"start_ref_usfm": "MRK 9:2",
-"end_ref": "41009002",
-"end_ref_usfm": "MRK 9:2"
-},
-{
-"start_ref": "41009038",
-"start_ref_usfm": "MRK 9:38",
-"end_ref": "41009038",
-"end_ref_usfm": "MRK 9:38"
-},
-{
-"start_ref": "41013003",
-"start_ref_usfm": "MRK 13:3",
-"end_ref": "41013003",
-"end_ref_usfm": "MRK 13:3"
-},
-{
-"start_ref": "41014033",
-"start_ref_usfm": "MRK 14:33",
-"end_ref": "41014033",
-"end_ref_usfm": "MRK 14:33"
-},
-{
-"start_ref": "41015040",
-"start_ref_usfm": "MRK 15:40",
-"end_ref": "41015040",
-"end_ref_usfm": "MRK 15:40"
-},
-{
-"start_ref": "41016001",
-"start_ref_usfm": "MRK 16:1",
-"end_ref": "41016001",
-"end_ref_usfm": "MRK 16:1"
-},
-{
-"start_ref": "42005010",
-"start_ref_usfm": "LUK 5:10",
-"end_ref": "42005010",
-"end_ref_usfm": "LUK 5:10"
-},
-{
-"start_ref": "42005011",
-"start_ref_usfm": "LUK 5:11",
-"end_ref": "42005011",
-"end_ref_usfm": "LUK 5:11"
-},
-{
-"start_ref": "42006014",
-"start_ref_usfm": "LUK 6:14",
-"end_ref": "42006014",
-"end_ref_usfm": "LUK 6:14"
-},
-{
-"start_ref": "42008051",
-"start_ref_usfm": "LUK 8:51",
-"end_ref": "42008051",
-"end_ref_usfm": "LUK 8:51"
-},
-{
-"start_ref": "42009028",
-"start_ref_usfm": "LUK 9:28",
-"end_ref": "42009028",
-"end_ref_usfm": "LUK 9:28"
-},
-{
-"start_ref": "42009049",
-"start_ref_usfm": "LUK 9:49",
-"end_ref": "42009049",
-"end_ref_usfm": "LUK 9:49"
-},
-{
-"start_ref": "42009054",
-"start_ref_usfm": "LUK 9:54",
-"end_ref": "42009054",
-"end_ref_usfm": "LUK 9:54"
-},
-{
-"start_ref": "43019025",
-"start_ref_usfm": "JHN 19:25",
-"end_ref": "43019025",
-"end_ref_usfm": "JHN 19:25"
-},
-{
-"start_ref": "43021002",
-"start_ref_usfm": "JHN 21:2",
-"end_ref": "43021002",
-"end_ref_usfm": "JHN 21:2"
-},
-{
-"start_ref": "43021007",
-"start_ref_usfm": "JHN 21:7",
-"end_ref": "43021007",
-"end_ref_usfm": "JHN 21:7"
-},
-{
-"start_ref": "44001013",
-"start_ref_usfm": "ACT 1:13",
-"end_ref": "44001013",
-"end_ref_usfm": "ACT 1:13"
-},
-{
-"start_ref": "48002009",
-"start_ref_usfm": "GAL 2:9",
-"end_ref": "48002009",
-"end_ref_usfm": "GAL 2:9"
-},
-{
-"start_ref": "41013003",
-"start_ref_usfm": "MRK 13:3",
-"end_ref": "41013004",
-"end_ref_usfm": "MRK 13:4"
-},
-{
-"start_ref": "44003001",
-"start_ref_usfm": "ACT 3:1",
-"end_ref": "44003011",
-"end_ref_usfm": "ACT 3:11"
-},
-{
-"start_ref": "43021020",
-"start_ref_usfm": "JHN 21:20",
-"end_ref": "43021024",
-"end_ref_usfm": "JHN 21:24"
-},
-{
-"start_ref": "41010035",
-"start_ref_usfm": "MRK 10:35",
-"end_ref": "41010045",
-"end_ref_usfm": "MRK 10:45"
-},
-{
-"start_ref": "41001019",
-"start_ref_usfm": "MRK 1:19",
-"end_ref": "41001020",
-"end_ref_usfm": "MRK 1:20"
-},
-{
-"start_ref": "43020002",
-"start_ref_usfm": "JHN 20:2",
-"end_ref": "43020010",
-"end_ref_usfm": "JHN 20:10"
-},
-{
-"start_ref": "43019026",
-"start_ref_usfm": "JHN 19:26",
-"end_ref": "43019027",
-"end_ref_usfm": "JHN 19:27"
-},
-{
-"start_ref": "40004021",
-"start_ref_usfm": "MAT 4:21",
-"end_ref": "40004022",
-"end_ref_usfm": "MAT 4:22"
-},
-{
-"start_ref": "43001035",
-"start_ref_usfm": "JHN 1:35",
-"end_ref": "43001040",
-"end_ref_usfm": "JHN 1:40"
-},
-{
-"start_ref": "44004001",
-"start_ref_usfm": "ACT 4:1",
-"end_ref": "44004022",
-"end_ref_usfm": "ACT 4:22"
-},
-{
-"start_ref": "40020020",
-"start_ref_usfm": "MAT 20:20",
-"end_ref": "40020028",
-"end_ref_usfm": "MAT 20:28"
-},
-{
-"start_ref": "44005017",
-"start_ref_usfm": "ACT 5:17",
-"end_ref": "44005042",
-"end_ref_usfm": "ACT 5:42"
-},
-{
-"start_ref": "42022024",
-"start_ref_usfm": "LUK 22:24",
-"end_ref": "42022027",
-"end_ref_usfm": "LUK 22:27"
-},
-{
-"start_ref": "40020020",
-"start_ref_usfm": "MAT 20:20",
-"end_ref": "40020024",
-"end_ref_usfm": "MAT 20:24"
-},
-{
-"start_ref": "40026037",
-"start_ref_usfm": "MAT 26:37",
-"end_ref": "40026046",
-"end_ref_usfm": "MAT 26:46"
-},
-{
-"start_ref": "41010035",
-"start_ref_usfm": "MRK 10:35",
-"end_ref": "41010041",
-"end_ref_usfm": "MRK 10:41"
-},
-{
-"start_ref": "41014033",
-"start_ref_usfm": "MRK 14:33",
-"end_ref": "41014042",
-"end_ref_usfm": "MRK 14:42"
-},
-{
-"start_ref": "42005008",
-"start_ref_usfm": "LUK 5:8",
-"end_ref": "42005010",
-"end_ref_usfm": "LUK 5:10"
-},
-{
-"start_ref": "43013023",
-"start_ref_usfm": "JHN 13:23",
-"end_ref": "43013025",
-"end_ref_usfm": "JHN 13:25"
-},
-{
-"start_ref": "43018015",
-"start_ref_usfm": "JHN 18:15",
-"end_ref": "43018016",
-"end_ref_usfm": "JHN 18:16"
-},
-{
-"start_ref": "44004001",
-"start_ref_usfm": "ACT 4:1",
-"end_ref": "44004023",
-"end_ref_usfm": "ACT 4:23"
-},
-{
-"start_ref": "44008014",
-"start_ref_usfm": "ACT 8:14",
-"end_ref": "44008025",
-"end_ref_usfm": "ACT 8:25"
-}
-],
-"resource": [],
-"acai": []
-}
-},
-{
 "content_id": "668924",
 "reference_id": 203466,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jérémie",
 "media_type": "Text",
 "index_reference": "jérémie",
@@ -1842,9 +1835,9 @@
 {
 "id": "person:Jeremiah.6",
 "type": "person",
-"preferred_label": "Jérémie",
 "confidence": 0.6719,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jérémie"
 }
 ]
 }
@@ -1852,7 +1845,7 @@
 {
 "content_id": "668899",
 "reference_id": 203441,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jéroboam Ier",
 "media_type": "Text",
 "index_reference": "jéroboam ier",
@@ -1969,9 +1962,9 @@
 {
 "id": "person:Jeroboam",
 "type": "person",
-"preferred_label": "Jéroboam",
-"confidence": 0.5731,
-"match_method": "scored"
+"confidence": 0.6226,
+"match_method": "scored",
+"preferred_label": "Jéroboam"
 }
 ]
 }
@@ -1979,7 +1972,7 @@
 {
 "content_id": "668906",
 "reference_id": 203448,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jéroboam II",
 "media_type": "Text",
 "index_reference": "jéroboam ii",
@@ -2048,9 +2041,9 @@
 {
 "id": "person:Jeroboam.2",
 "type": "person",
-"preferred_label": "Jéroboam",
-"confidence": 0.7295,
-"match_method": "scored"
+"confidence": 0.7385,
+"match_method": "scored",
+"preferred_label": "Jéroboam"
 }
 ]
 }
@@ -2058,10 +2051,10 @@
 {
 "content_id": "668870",
 "reference_id": 203412,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jéthro (Reuel)",
 "media_type": "Text",
-"index_reference": "jéthro (reuel)",
+"index_reference": "jéthro reuel",
 "language": "fra",
 "review_level": "None",
 "content": "<p>Jéthro, également connu sous le nom de Réuel (<a href=\"https://ref.ly/Exod2:16-Exod2:18\">Ex 2.16–18</a>&nbsp;; <a href=\"https://ref.ly/Num10:29\">Nb&nbsp;10.29</a>), était le prêtre de Madian (<a href=\"https://ref.ly/Exod2:16\">Ex&nbsp;2.16</a>). Moïse a sauvé les sept filles de Jéthro des bergers brutaux à un puits et les a aidées à abreuver leurs troupeaux. À la maison, elles ont raconté à leur père cette rencontre surprenante avec un Égyptien. Jéthro était reconnaissant et a invité Moïse à un repas. Moïse a décidé de s’installer là. Plus tard, Jéthro a donné sa fille Séphora à Moïse en mariage.</p><p>Pendant que Moïse vivait à Madian avec son beau-père, il rencontra Dieu au buisson ardent (<a href=\"https://ref.ly/Exod3:1-Exod3:2\">Ex 3.1–2</a>). Avant d’aller en Égypte, Moïse demanda à Jéthro la permission de partir. Plus tard, il envoya sa famille chez Jéthro pendant l’exode d’Égypte.</p><p>Pendant que Moïse et les Israélites étaient dans le désert, Jéthro revint avec la famille de Moïse. Jéthro entendit parler de l’Éternel sauvant son peuple d’Égypte et le reconnut comme plus grand que tous les autres dieux. Il adora l’Éternel avec un holocauste et des sacrifices, s’alignant avec Israël (<a href=\"https://ref.ly/Exod18:11\">Ex&nbsp;18.11</a>). En réponse, les chefs d’Israël se joignirent à lui pour un repas sacrificiel en présence de Dieu (<a href=\"https://ref.ly/Exod18:12\">Ex&nbsp;18.12</a>).</p><p>Jéthro a remarqué que Moïse était submergé par la gestion des nombreux Israélites. Il a conseillé Moïse sur une meilleure organisation du peuple et la résolution de leurs différends (<a href=\"https://ref.ly/Exod18:13-Exod18:23\">Ex 18.13–23</a>). Moïse a suivi ce conseil et a choisi des hommes de confiance pour aider en tant que chefs et juges (<a href=\"https://ref.ly/Exod18:24-Exod18:27\">Ex 18.24–27</a>). Jéthro est retourné à Madian et n’a pas eu d’autres interactions avec Israël, mais son fils (<a href=\"https://ref.ly/Num10:29-Num10:33\">Nb&nbsp;10.29–33</a>) et d’autres descendants se sont installés plus tard avec les Israélites (<a href=\"https://ref.ly/Judg1:16\">Jg&nbsp;1.16</a>&nbsp;; <a href=\"https://ref.ly/Judg4:11\">4.11</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Exod2:16-Exod2:25\">Ex 2.16–25</a>&nbsp;; <a href=\"https://ref.ly/Exod3:1\">3.1</a>&nbsp;; <a href=\"https://ref.ly/Exod18:1-Exod18:27\">18.1–27</a>&nbsp;; <a href=\"https://ref.ly/Num10:29\">Nb&nbsp;10.29</a>&nbsp;; <a href=\"https://ref.ly/Judg1:16\">Jg&nbsp;1.16</a>&nbsp;; <a href=\"https://ref.ly/Judg4:11\">4.11</a></p>",
@@ -2157,9 +2150,9 @@
 {
 "id": "person:Jethro",
 "type": "person",
-"preferred_label": "Jéthro",
 "confidence": 0.687,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jéthro"
 }
 ]
 }
@@ -2167,7 +2160,7 @@
 {
 "content_id": "668902",
 "reference_id": 203444,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jézabel",
 "media_type": "Text",
 "index_reference": "jézabel",
@@ -2266,9 +2259,9 @@
 {
 "id": "person:Jezebel",
 "type": "person",
-"preferred_label": "Jézabel",
 "confidence": 0.6364,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jézabel"
 }
 ]
 }
@@ -2276,7 +2269,7 @@
 {
 "content_id": "668896",
 "reference_id": 203438,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Joab",
 "media_type": "Text",
 "index_reference": "joab",
@@ -2579,9 +2572,9 @@
 {
 "id": "person:Joab",
 "type": "person",
-"preferred_label": "Joab",
 "confidence": 0.7659,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Joab"
 }
 ]
 }
@@ -2589,7 +2582,7 @@
 {
 "content_id": "668886",
 "reference_id": 203428,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jonathan",
 "media_type": "Text",
 "index_reference": "jonathan",
@@ -2676,9 +2669,9 @@
 {
 "id": "person:Jonathan.3",
 "type": "person",
-"preferred_label": "Jonathan",
 "confidence": 0.7781,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jonathan"
 }
 ]
 }
@@ -2686,7 +2679,7 @@
 {
 "content_id": "668913",
 "reference_id": 203455,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Josaphat",
 "media_type": "Text",
 "index_reference": "josaphat",
@@ -2809,9 +2802,9 @@
 {
 "id": "person:Jehoshaphat.3",
 "type": "person",
-"preferred_label": "Josaphat",
 "confidence": 0.7283,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Josaphat"
 }
 ]
 }
@@ -2819,7 +2812,7 @@
 {
 "content_id": "668864",
 "reference_id": 203406,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Joseph",
 "media_type": "Text",
 "index_reference": "joseph",
@@ -2954,9 +2947,9 @@
 {
 "id": "person:Joseph.10",
 "type": "person",
-"preferred_label": "Joseph",
 "confidence": 0.7216,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Joseph"
 }
 ]
 }
@@ -2964,7 +2957,7 @@
 {
 "content_id": "668909",
 "reference_id": 203451,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Josias",
 "media_type": "Text",
 "index_reference": "josias",
@@ -3105,9 +3098,9 @@
 {
 "id": "person:Josiah",
 "type": "person",
-"preferred_label": "Josias",
 "confidence": 0.6934,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Josias"
 }
 ]
 }
@@ -3115,7 +3108,7 @@
 {
 "content_id": "668876",
 "reference_id": 203418,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Josué",
 "media_type": "Text",
 "index_reference": "josué",
@@ -3346,9 +3339,9 @@
 {
 "id": "person:Joshua.2",
 "type": "person",
-"preferred_label": "Josué",
 "confidence": 0.6797,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Josué"
 }
 ]
 }
@@ -3356,7 +3349,7 @@
 {
 "content_id": "668865",
 "reference_id": 203407,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Juda",
 "media_type": "Text",
 "index_reference": "juda",
@@ -3521,23 +3514,23 @@
 {
 "id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Juda",
 "confidence": 0.7014,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Juda"
 },
 {
 "id": "person:Judah.3",
 "type": "person",
-"preferred_label": "Juda",
 "confidence": 0.6027,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Juda"
 },
 {
 "id": "person:Joda",
 "type": "person",
-"preferred_label": "Joda",
-"confidence": 0.6027,
-"match_method": "scored"
+"confidence": 0.5532,
+"match_method": "scored",
+"preferred_label": "Joda"
 }
 ]
 }
@@ -3545,7 +3538,7 @@
 {
 "content_id": "668943",
 "reference_id": 203485,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Judas Iscariot",
 "media_type": "Text",
 "index_reference": "judas iscariot",
@@ -3746,9 +3739,9 @@
 {
 "id": "person:Judas.2",
 "type": "person",
-"preferred_label": "Judas",
 "confidence": 0.7179,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Judas"
 }
 ]
 }

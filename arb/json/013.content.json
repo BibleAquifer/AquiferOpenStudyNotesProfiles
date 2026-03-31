@@ -2,7 +2,7 @@
 {
 "content_id": "726052",
 "reference_id": 203423,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "جِدْعُون",
 "media_type": "Text",
 "index_reference": "جِدْعُون",
@@ -59,9 +59,9 @@
 {
 "id": "person:Gideon",
 "type": "person",
-"preferred_label": "جِدْعونَ",
-"confidence": 0.6685,
-"match_method": "scored"
+"confidence": 0.7225,
+"match_method": "scored",
+"preferred_label": "جِدْعونَ"
 }
 ]
 }

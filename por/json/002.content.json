@@ -2,7 +2,7 @@
 {
 "content_id": "658530",
 "reference_id": 203453,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babilônia",
 "media_type": "Text",
 "index_reference": "babilônia",
@@ -121,9 +121,30 @@
 {
 "id": "place:Babylon",
 "type": "place",
-"preferred_label": "Babilônia",
 "confidence": 0.6782,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Babilônia"
+},
+{
+"id": "place:Shinar",
+"type": "place",
+"confidence": 0.6044,
+"match_method": "scored",
+"preferred_label": "Sinar"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylonia"
+},
+{
+"id": "place:Babylon.2",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylon"
 }
 ]
 }
@@ -131,7 +152,7 @@
 {
 "content_id": "658493",
 "reference_id": 203416,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Balaão",
 "media_type": "Text",
 "index_reference": "balaão",
@@ -256,9 +277,9 @@
 {
 "id": "person:Balaam",
 "type": "person",
-"preferred_label": "Balaão",
 "confidence": 0.7806,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Balaão"
 }
 ]
 }
@@ -266,7 +287,7 @@
 {
 "content_id": "658574",
 "reference_id": 203497,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barnabé",
 "media_type": "Text",
 "index_reference": "barnabé",
@@ -383,9 +404,16 @@
 {
 "id": "person:Barnabas",
 "type": "person",
-"preferred_label": "Barnabé",
 "confidence": 0.6611,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Barnabé"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 0.5536,
+"match_method": "scored",
+"preferred_label": "Judas"
 }
 ]
 }
@@ -393,7 +421,7 @@
 {
 "content_id": "658544",
 "reference_id": 203467,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baruque",
 "media_type": "Text",
 "index_reference": "baruque",
@@ -504,9 +532,9 @@
 {
 "id": "person:Baruch.4",
 "type": "person",
-"preferred_label": "Baruque",
 "confidence": 0.6777,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Baruque"
 }
 ]
 }
@@ -514,10 +542,10 @@
 {
 "content_id": "658512",
 "reference_id": 203435,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bate-Seba",
 "media_type": "Text",
-"index_reference": "bate-seba",
+"index_reference": "bateseba",
 "language": "por",
 "review_level": "None",
 "content": "<p>Bate-Seba, a esposa de Urias, era filha de Eliã (<a href=\"https://ref.ly/2Sam11:3\">2Sm 11.3</a>; veja também <a href=\"https://ref.ly/1Chr3:5\">1Cr 3.5</a>). Ela era neta de Aitofel, o conselheiro do rei (<a href=\"https://ref.ly/2Sam15:12\">2Sm 15.12</a>; <a href=\"https://ref.ly/2Sam23:34\">23.34</a>). Seu marido, Urias, era um soldado hitita. Ele estava no exército do Rei Davi e era um dos valentes guerreiros de Davi (<a href=\"https://ref.ly/2Sam23:39\">2Sm 23.39</a>).</p><p>Em certa primavera, Davi permaneceu em Jerusalém enquanto o exército partia para a batalha (<a href=\"https://ref.ly/2Sam11:1\">2Sm 11.1</a>). Durante um descanso ao meio-dia, Davi caminhou em seu telhado com vista para a cidade e avistou a bela Bate-Seba tomando banho. Ele providenciou para que ela fosse trazida aos seus aposentos privados. Em seguida, teve relações sexuais com ela, e ela engravidou (<a href=\"https://ref.ly/2Sam11:2-2Sam11:4\">2Sm 11.2–4</a>).</p><p>Davi não queria que as pessoas descobrissem o que ele havia feito de errado, então tentou esconder. Ele pediu a Joabe, o general, que Urias trouxesse um relatório das linhas de batalha. Davi esperava que Urias voltasse para casa e tivesse relações sexuais com Bate-Seba, fazendo parecer que ela havia engravidado de Urias. No entanto, Urias sentiu que ainda estava de serviço, então dormiu no portão do palácio (<a href=\"https://ref.ly/2Sam11:5-2Sam11:13\">2Sm 11.5–13</a>).</p><p>Quando Davi perguntou a Urias sobre isso, Urias disse que não poderia dormir com sua esposa enquanto a Arca da Aliança e os exércitos de Israel estavam em guerra. Essa resposta fez Davi parecer mal. Urias nem sequer era israelita, mas estava pronto para voltar à batalha, evitando estar com sua esposa (veja <a href=\"https://ref.ly/Lev15:16-Lev15:18\">Lv 15.16–18</a>). Mas Davi ficou em casa e tentou esconder seu adultério. Então, Davi enviou Urias de volta e ordenou a Joabe que garantisse que Urias morresse em batalha (<a href=\"https://ref.ly/2Sam11:14-2Sam11:25\">2Sm 11.14–25</a>). A morte de Urias não manteve o pecado de Davi em segredo. O Senhor enviou o profeta Natã para confrontar Davi, e Davi confessou seu pecado e se arrependeu (<a href=\"https://ref.ly/2Sam12:1-2Sam12:14\">2Sm 12.1–14</a>; veja <a href=\"https://ref.ly/Ps51:1-Ps51:19\">Sl 51</a>).</p><p>O bebê de Bate-Seba adoeceu e morreu, como Natã havia previsto. Após o período de luto de Bate-Seba, Davi a trouxe para o palácio como sua esposa. Davi e Bate-Seba tiveram outros filhos, incluindo:</p><ul><li><p>Simeia</p></li><li><p>Sobabe</p></li><li><p>Natan</p></li><li><p>Salomão (<a href=\"https://ref.ly/2Sam12:15-2Sam12:25\">2Sm 12.15–25</a>; <a href=\"https://ref.ly/1Chr3:5\">1Cr 3.5</a>)</p></li></ul><p>Durante o restante da vida de Davi, suas esposas e filhos lutaram entre si pelo poder. O pior dessa disputa familiar ocorreu quando Davi estava velho. Naquela época, Bate-Seba trabalhou para garantir que seu filho Salomão se tornasse o próximo rei (<a href=\"https://ref.ly/1Kgs1:1-1Kgs1:53\">1Rs 1.1–53</a>).</p><p>Quando Mateus lista a história da família de Jesus, o Messias, ele menciona tanto Salomão quanto Bate-Seba (<a href=\"https://ref.ly/Matt1:6\">Mt 1.6</a>). Ela é descrita como “esposa de Urias”. Isso nos lembra do pecado que a trouxe para a família de Davi e do favor gracioso de Deus para com seus descendentes.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/2Sam11:1-2Sam12:25\">2 Samuel 11.1–12.25</a>; <a href=\"https://ref.ly/1Kgs1:5-1Kgs2:25\">1 Reis 1.5–2.25</a>; <a href=\"https://ref.ly/Ps51:1-Ps51:19\">Salmo 51.1–19</a></p>",
@@ -631,9 +659,9 @@
 {
 "id": "person:Bathsheba",
 "type": "person",
-"preferred_label": "Bate-Seba",
 "confidence": 0.628,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Bate-Seba"
 }
 ]
 }

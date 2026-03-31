@@ -2,7 +2,7 @@
 {
 "content_id": "654233",
 "reference_id": 203432,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शमूएल",
 "media_type": "Text",
 "index_reference": "शमूएल",
@@ -203,9 +203,9 @@
 {
 "id": "person:Samuel",
 "type": "person",
-"preferred_label": "शमूएल",
 "confidence": 0.7249,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "शमूएल"
 }
 ]
 }
@@ -213,7 +213,7 @@
 {
 "content_id": "654281",
 "reference_id": 203480,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शमौन पतरस",
 "media_type": "Text",
 "index_reference": "शमौन पतरस",
@@ -914,13 +914,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.6823,
+"match_method": "scored",
+"preferred_label": "पतरस"
+}
+]
 }
 },
 {
 "content_id": "654228",
 "reference_id": 203427,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शाऊल",
 "media_type": "Text",
 "index_reference": "शाऊल",
@@ -989,9 +997,9 @@
 {
 "id": "person:Saul.2",
 "type": "person",
-"preferred_label": "शाऊल",
 "confidence": 0.7601,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "शाऊल"
 }
 ]
 }
@@ -999,7 +1007,7 @@
 {
 "content_id": "654225",
 "reference_id": 203424,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शिमशोन",
 "media_type": "Text",
 "index_reference": "शिमशोन",
@@ -1074,9 +1082,9 @@
 {
 "id": "person:Samson",
 "type": "person",
-"preferred_label": "शिमशोन",
 "confidence": 0.7178,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "शिमशोन"
 }
 ]
 }
@@ -1084,7 +1092,7 @@
 {
 "content_id": "654265",
 "reference_id": 203464,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शैतान",
 "media_type": "Text",
 "index_reference": "शैतान",
@@ -1411,9 +1419,9 @@
 {
 "id": "deity:Satan",
 "type": "deity",
-"preferred_label": "शैतान",
 "confidence": 0.7138,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "शैतान"
 }
 ]
 }

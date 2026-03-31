@@ -2,7 +2,7 @@
 {
 "content_id": "668878",
 "reference_id": 203420,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Caleb",
 "media_type": "Text",
 "index_reference": "caleb",
@@ -149,9 +149,9 @@
 {
 "id": "person:Caleb",
 "type": "person",
-"preferred_label": "Caleb",
 "confidence": 0.6926,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Caleb"
 }
 ]
 }
@@ -159,7 +159,7 @@
 {
 "content_id": "668969",
 "reference_id": 203511,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Corinthe",
 "media_type": "Text",
 "index_reference": "corinthe",
@@ -252,16 +252,16 @@
 {
 "id": "place:Corinth",
 "type": "place",
-"preferred_label": "Corinthe",
 "confidence": 0.6149,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Corinthe"
 },
 {
 "id": "group:Corinth",
 "type": "group",
-"preferred_label": "un corinthien",
-"confidence": 0.5715,
-"match_method": "scored"
+"confidence": 0.603,
+"match_method": "scored",
+"preferred_label": "un corinthien"
 }
 ]
 }
@@ -269,7 +269,7 @@
 {
 "content_id": "668916",
 "reference_id": 203458,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cyrus II",
 "media_type": "Text",
 "index_reference": "cyrus ii",
@@ -362,9 +362,9 @@
 {
 "id": "person:Cyrus",
 "type": "person",
-"preferred_label": "Cyrus",
 "confidence": 0.6224,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Cyrus"
 }
 ]
 }

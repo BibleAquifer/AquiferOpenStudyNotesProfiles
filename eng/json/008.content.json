@@ -2,7 +2,7 @@
 {
 "content_id": "500457",
 "reference_id": 203400,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Isaac",
 "media_type": "Text",
 "index_reference": "isaac",
@@ -287,9 +287,9 @@
 {
 "id": "person:Isaac",
 "type": "person",
-"preferred_label": "Isaac",
 "confidence": 0.7182,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Isaac"
 }
 ]
 }
@@ -297,7 +297,7 @@
 {
 "content_id": "500522",
 "reference_id": 203465,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Isaiah",
 "media_type": "Text",
 "index_reference": "isaiah",
@@ -510,9 +510,9 @@
 {
 "id": "person:Isaiah",
 "type": "person",
-"preferred_label": "Isaiah",
 "confidence": 0.6154,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Isaiah"
 }
 ]
 }
@@ -520,7 +520,7 @@
 {
 "content_id": "500454",
 "reference_id": 203397,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ishmael",
 "media_type": "Text",
 "index_reference": "ishmael",
@@ -691,9 +691,9 @@
 {
 "id": "person:Ishmael",
 "type": "person",
-"preferred_label": "Ishmael",
 "confidence": 0.6691,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ishmael"
 }
 ]
 }

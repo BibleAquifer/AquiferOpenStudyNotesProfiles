@@ -2,7 +2,7 @@
 {
 "content_id": "734373",
 "reference_id": 203473,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Falme za Kiheleni",
 "media_type": "Text",
 "index_reference": "falme za kiheleni",
@@ -61,7 +61,7 @@
 {
 "content_id": "734313",
 "reference_id": 203413,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Farao",
 "media_type": "Text",
 "index_reference": "farao",
@@ -154,23 +154,23 @@
 {
 "id": "person:Pharaoh.6",
 "type": "person",
-"preferred_label": "Farao",
 "confidence": 0.6921,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Farao"
 },
 {
 "id": "person:Pharaoh.4",
 "type": "person",
-"preferred_label": "Farao",
 "confidence": 0.6246,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Farao"
 },
 {
 "id": "person:Pharaoh.5",
 "type": "person",
-"preferred_label": "Farao",
 "confidence": 0.6041,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Farao"
 }
 ]
 }
@@ -178,7 +178,7 @@
 {
 "content_id": "734413",
 "reference_id": 203513,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Filipi",
 "media_type": "Text",
 "index_reference": "filipi",
@@ -277,9 +277,16 @@
 {
 "id": "place:Philippi",
 "type": "place",
-"preferred_label": "Filipi",
 "confidence": 0.6339,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Filipi"
+},
+{
+"id": "group:Philippi",
+"type": "group",
+"confidence": 0.6068,
+"match_method": "scored",
+"preferred_label": "Philippians"
 }
 ]
 }
@@ -287,7 +294,7 @@
 {
 "content_id": "734399",
 "reference_id": 203499,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Filipo",
 "media_type": "Text",
 "index_reference": "filipo",
@@ -458,9 +465,9 @@
 {
 "id": "person:Philip.4",
 "type": "person",
-"preferred_label": "Filipo",
 "confidence": 0.6732,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Filipo"
 }
 ]
 }

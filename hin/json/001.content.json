@@ -2,7 +2,7 @@
 {
 "content_id": "654307",
 "reference_id": 203506,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "अपुल्लोस",
 "media_type": "Text",
 "index_reference": "अपुल्लोस",
@@ -89,9 +89,9 @@
 {
 "id": "person:Apollos",
 "type": "person",
-"preferred_label": "अपुल्लोस",
 "confidence": 0.7636,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "अपुल्लोस"
 }
 ]
 }
@@ -99,7 +99,7 @@
 {
 "content_id": "654240",
 "reference_id": 203439,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "अबशालोम",
 "media_type": "Text",
 "index_reference": "अबशालोम",
@@ -234,9 +234,9 @@
 {
 "id": "person:Absalom",
 "type": "person",
-"preferred_label": "अबशालोम",
 "confidence": 0.741,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "अबशालोम"
 }
 ]
 }
@@ -244,7 +244,7 @@
 {
 "content_id": "654238",
 "reference_id": 203437,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "अबीशै",
 "media_type": "Text",
 "index_reference": "अबीशै",
@@ -397,9 +397,9 @@
 {
 "id": "person:Abishai",
 "type": "person",
-"preferred_label": "अबीशै",
 "confidence": 0.6989,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "अबीशै"
 }
 ]
 }
@@ -407,7 +407,7 @@
 {
 "content_id": "654235",
 "reference_id": 203434,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "अब्नेर",
 "media_type": "Text",
 "index_reference": "अब्नेर",
@@ -524,9 +524,9 @@
 {
 "id": "person:Abner",
 "type": "person",
-"preferred_label": "अब्नेर",
 "confidence": 0.7252,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "अब्नेर"
 }
 ]
 }
@@ -534,7 +534,7 @@
 {
 "content_id": "654209",
 "reference_id": 203408,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "अब्राहम",
 "media_type": "Text",
 "index_reference": "अब्राहम",
@@ -915,9 +915,9 @@
 {
 "id": "person:Abraham",
 "type": "person",
-"preferred_label": "अब्राहम",
 "confidence": 0.7433,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "अब्राहम"
 }
 ]
 }
@@ -925,7 +925,7 @@
 {
 "content_id": "654232",
 "reference_id": 203431,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "अमालेकियों",
 "media_type": "Text",
 "index_reference": "अमालेकियों",
@@ -1032,13 +1032,28 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.6293,
+"match_method": "scored",
+"preferred_label": "अमालेक"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 0.5797,
+"match_method": "scored",
+"preferred_label": "अमालेकी"
+}
+]
 }
 },
 {
 "content_id": "654247",
 "reference_id": 203446,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "अरामी लोग",
 "media_type": "Text",
 "index_reference": "अरामी लोग",
@@ -1259,13 +1274,28 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Aramean",
+"type": "group",
+"confidence": 0.6072,
+"match_method": "scored",
+"preferred_label": "अरामी"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 0.5828,
+"match_method": "scored",
+"preferred_label": "पद्दनराम"
+}
+]
 }
 },
 {
 "content_id": "654253",
 "reference_id": 203452,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "अश्शूर",
 "media_type": "Text",
 "index_reference": "अश्शूर",
@@ -1326,32 +1356,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Asshur",
-"type": "person",
-"preferred_label": "अश्शूर",
+"id": "place:Assyria",
+"type": "place",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Ahishahar",
-"type": "person",
-"preferred_label": "अहीशहर",
-"confidence": 0.8768,
-"match_method": "embedding"
-},
-{
-"id": "person:Abishur",
-"type": "person",
-"preferred_label": "अबीशूर",
-"confidence": 0.853,
-"match_method": "embedding"
-},
-{
-"id": "person:Ahishar",
-"type": "person",
-"preferred_label": "अहीशार",
-"confidence": 0.8021,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Assyria"
 }
 ]
 }
@@ -1359,7 +1368,7 @@
 {
 "content_id": "654244",
 "reference_id": 203443,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "अहाब",
 "media_type": "Text",
 "index_reference": "अहाब",
@@ -1458,9 +1467,9 @@
 {
 "id": "person:Ahab",
 "type": "person",
-"preferred_label": "अहाब",
 "confidence": 0.6757,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "अहाब"
 }
 ]
 }

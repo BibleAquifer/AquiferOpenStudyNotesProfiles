@@ -2,7 +2,7 @@
 {
 "content_id": "650886",
 "reference_id": 203470,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "尼布甲尼撒二世",
 "media_type": "Text",
 "index_reference": "尼布甲尼撒二世",
@@ -205,13 +205,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"confidence": 0.64,
+"match_method": "scored",
+"preferred_label": "Nebuchadnezzar"
+}
+]
 }
 },
 {
 "content_id": "650907",
 "reference_id": 203491,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "尼哥德慕",
 "media_type": "Text",
 "index_reference": "尼哥德慕",
@@ -258,13 +266,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Nicodemus",
+"type": "person",
+"confidence": 0.7333,
+"match_method": "scored",
+"preferred_label": "Nicodemus"
+}
+]
 }
 },
 {
 "content_id": "650925",
 "reference_id": 203509,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "尼祿",
 "media_type": "Text",
 "index_reference": "尼祿",
@@ -329,13 +345,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Nero",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Nero"
+}
+]
 }
 },
 {
 "content_id": "650877",
 "reference_id": 203461,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "尼希米",
 "media_type": "Text",
 "index_reference": "尼希米",
@@ -430,7 +454,29 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Nehemiah.2",
+"type": "person",
+"confidence": 0.6057,
+"match_method": "scored",
+"preferred_label": "Nehemiah"
+},
+{
+"id": "person:Nehemiah",
+"type": "person",
+"confidence": 0.6011,
+"match_method": "scored",
+"preferred_label": "Nehemiah"
+},
+{
+"id": "person:Nehemiah.3",
+"type": "person",
+"confidence": 0.6011,
+"match_method": "scored",
+"preferred_label": "Nehemiah"
+}
+]
 }
 }
 ]

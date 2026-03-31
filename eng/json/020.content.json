@@ -2,7 +2,7 @@
 {
 "content_id": "500493",
 "reference_id": 203436,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zadok",
 "media_type": "Text",
 "index_reference": "zadok",
@@ -155,16 +155,16 @@
 {
 "id": "person:Zadok.2",
 "type": "person",
-"preferred_label": "Zadok",
 "confidence": 0.6813,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Zadok"
 },
 {
 "id": "person:Zadok.4",
 "type": "person",
-"preferred_label": "Zadok",
 "confidence": 0.6065,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Zadok"
 }
 ]
 }
@@ -172,7 +172,7 @@
 {
 "content_id": "500531",
 "reference_id": 203474,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zerubbabel",
 "media_type": "Text",
 "index_reference": "zerubbabel",
@@ -235,9 +235,9 @@
 {
 "id": "person:Zerubbabel.2",
 "type": "person",
-"preferred_label": "Zerubbabel",
 "confidence": 0.6404,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Zerubbabel"
 }
 ]
 }

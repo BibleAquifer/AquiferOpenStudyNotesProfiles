@@ -2,7 +2,7 @@
 {
 "content_id": "650810",
 "reference_id": 203394,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "挪亞",
 "media_type": "Text",
 "index_reference": "挪亞",
@@ -133,7 +133,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Noah",
+"type": "person",
+"confidence": 0.7235,
+"match_method": "scored",
+"preferred_label": "Noah"
+}
+]
 }
 }
 ]

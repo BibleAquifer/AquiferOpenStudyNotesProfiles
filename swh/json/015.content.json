@@ -2,7 +2,7 @@
 {
 "content_id": "734336",
 "reference_id": 203436,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sadoki",
 "media_type": "Text",
 "index_reference": "sadoki",
@@ -155,16 +155,16 @@
 {
 "id": "person:Zadok.2",
 "type": "person",
-"preferred_label": "Sadoki",
 "confidence": 0.6813,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Sadoki"
 },
 {
 "id": "person:Zadok.4",
 "type": "person",
-"preferred_label": "Sadoki",
 "confidence": 0.6065,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Sadoki"
 }
 ]
 }
@@ -172,7 +172,7 @@
 {
 "content_id": "734324",
 "reference_id": 203424,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samsoni",
 "media_type": "Text",
 "index_reference": "samsoni",
@@ -247,9 +247,9 @@
 {
 "id": "person:Samson",
 "type": "person",
-"preferred_label": "Samsoni",
 "confidence": 0.7178,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Samsoni"
 }
 ]
 }
@@ -257,7 +257,7 @@
 {
 "content_id": "734332",
 "reference_id": 203432,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samweli",
 "media_type": "Text",
 "index_reference": "samweli",
@@ -458,9 +458,9 @@
 {
 "id": "person:Samuel",
 "type": "person",
-"preferred_label": "Samweli",
 "confidence": 0.7249,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Samweli"
 }
 ]
 }
@@ -468,7 +468,7 @@
 {
 "content_id": "734298",
 "reference_id": 203398,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sara",
 "media_type": "Text",
 "index_reference": "sara",
@@ -651,9 +651,9 @@
 {
 "id": "person:Sarah",
 "type": "person",
-"preferred_label": "Sara",
 "confidence": 0.7007,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Sara"
 }
 ]
 }
@@ -661,7 +661,7 @@
 {
 "content_id": "734327",
 "reference_id": 203427,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sauli",
 "media_type": "Text",
 "index_reference": "sauli",
@@ -730,9 +730,9 @@
 {
 "id": "person:Saul.2",
 "type": "person",
-"preferred_label": "Sauli",
 "confidence": 0.7601,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Sauli"
 }
 ]
 }
@@ -740,7 +740,7 @@
 {
 "content_id": "734364",
 "reference_id": 203464,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shetani",
 "media_type": "Text",
 "index_reference": "shetani",
@@ -1067,9 +1067,9 @@
 {
 "id": "deity:Satan",
 "type": "deity",
-"preferred_label": "Shetani",
 "confidence": 0.7138,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Shetani"
 }
 ]
 }
@@ -1077,7 +1077,7 @@
 {
 "content_id": "734380",
 "reference_id": 203480,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Simoni Petro",
 "media_type": "Text",
 "index_reference": "simoni petro",
@@ -1782,9 +1782,9 @@
 {
 "id": "person:Peter",
 "type": "person",
-"preferred_label": "Petro",
-"confidence": 0.6238,
-"match_method": "scored"
+"confidence": 0.6823,
+"match_method": "scored",
+"preferred_label": "Petro"
 }
 ]
 }
@@ -1792,7 +1792,7 @@
 {
 "content_id": "734340",
 "reference_id": 203440,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Solomoni",
 "media_type": "Text",
 "index_reference": "solomoni",
@@ -1921,9 +1921,9 @@
 {
 "id": "person:Solomon",
 "type": "person",
-"preferred_label": "Sulemani",
-"confidence": 0.6896,
-"match_method": "scored"
+"confidence": 0.7211,
+"match_method": "scored",
+"preferred_label": "Sulemani"
 }
 ]
 }
@@ -1931,7 +1931,7 @@
 {
 "content_id": "734398",
 "reference_id": 203498,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Stefano",
 "media_type": "Text",
 "index_reference": "stefano",
@@ -2084,9 +2084,9 @@
 {
 "id": "person:Stephen",
 "type": "person",
-"preferred_label": "Stefano",
 "confidence": 0.6315,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Stefano"
 }
 ]
 }

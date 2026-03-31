@@ -2,7 +2,7 @@
 {
 "content_id": "654299",
 "reference_id": 203498,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "स्तिफनुस",
 "media_type": "Text",
 "index_reference": "स्तिफनुस",
@@ -155,9 +155,9 @@
 {
 "id": "person:Stephen",
 "type": "person",
-"preferred_label": "स्तिफनुस",
 "confidence": 0.6315,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "स्तिफनुस"
 }
 ]
 }

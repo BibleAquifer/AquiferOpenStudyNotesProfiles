@@ -2,7 +2,7 @@
 {
 "content_id": "654277",
 "reference_id": 203476,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मक्काबी",
 "media_type": "Text",
 "index_reference": "मक्काबी",
@@ -18,10 +18,10 @@
 {
 "content_id": "654280",
 "reference_id": 203479,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मत्ती (लेवी)",
 "media_type": "Text",
-"index_reference": "मत्ती (लेवी)",
+"index_reference": "मत्ती लेवी",
 "language": "hin",
 "review_level": "None",
 "content": "<p>मत्ती ने रोमियों के लिए चुंगी लेनेवाले के रूप में कार्य किया और बाद में यीशु के बारह सबसे करीबी अनुयायियों (जिन्हें प्रेरित कहा जाता है) में से एक बन गए। प्रारंभिक परंपरा के अनुसार, उन्होंने मत्ती का सुसमाचार लिखा।</p><p>उन्हें सभी प्रेरितों की सूचियों में मत्ती कहा जाता है (<a href=\"https://ref.ly/Matt10:3\">मत्ती 10:3</a>; <a href=\"https://ref.ly/Mark3:18\">मर 3:18</a>; <a href=\"https://ref.ly/Luke6:15\">लूका 6:15</a>; <a href=\"https://ref.ly/Acts1:13\">प्रेरि 1:13</a>)। लेकिन, उनकी बुलाहट के दो विवरणों में उन्हें लेवी कहा जाता है, जो उनका दूसरा नाम है (<a href=\"https://ref.ly/Mark2:14-Mark2:15\">मर 2:14–15</a>; <a href=\"https://ref.ly/Luke5:27-Luke5:29\">लूका 5:27–29</a>; तुलना करें <a href=\"https://ref.ly/Matt9:9-Matt9:10\">मत्ती 9:9–10</a>)। उनके पिता हलफईस थे (<a href=\"https://ref.ly/Mark2:14\">मर 2:14</a>)। हमें यह नहीं पता कि वह हलफईस के पुत्र याकूब के भाई है या नहीं, क्योंकि उन्हें प्रेरितों की सूचियों में भाई नहीं कहा गया है (जैसे अन्य भाइयों के जोड़े हैं)।</p><p>जो यहूदी रोमियों के लिए चुंगी एकत्र करते थे, उन्हें अक्सर अन्य यहूदियों द्वारा पापी माना जाता था। वे शासन करने वाली ताकतों के लिए काम करके धन कमाते थे और कानूनी तौर पर जबरन वसूली करते थे। यह महत्वपूर्ण है कि यीशु ने एक चुंगी लेनेवाले को अपने अनुयायियों में से एक बनने के लिए चुना। जब फरीसियों ने यीशु की आलोचना की कि उन्होंने मत्ती के रात्रिभोज के निमंत्रण को स्वीकार किया और चुंगी लेनेवाले और अन्य पापियों के साथ भोजन किया, तो यीशु ने करुणा के बारे में सिखाने के लिए उस क्षण का उपयोग किया। उन्होंने जोर देकर कहा कि वह पापियों के लिए आए थे, न कि उनके लिए जो खुद को धार्मिक मानते थे (<a href=\"https://ref.ly/Matt9:9-Matt9:13\">मत्ती 9:9–13</a>; <a href=\"https://ref.ly/Mark2:14-Mark2:17\">मर 2:14–17</a>; <a href=\"https://ref.ly/Luke5:27-Luke5:32\">लूका 5:27–32</a>)। मत्ती ने तुरंत यीशु की बुलाहट का पालन कर, सब कुछ छोड़ उनके पीछे हो लिए (<a href=\"https://ref.ly/Luke5:28\">लूका 5:28</a>)। इससे पता चलता है कि वह कभी भी चुंगी लेने या अपने पुराने जीवन में वापस नहीं लौटे।</p><p>मत्ती का सुसमाचार यहूदियों के लिए लिखा गया था और यह यीशु के जीवन और शिक्षाओं को यहूदी दृष्टिकोण से प्रस्तुत करता है। इसमें यहूदी पृष्ठभूमि वाले लोगों के लिए महत्वपूर्ण विषय शामिल है। यह सुसमाचार प्रारंभिक कलीसिया में बहुत लोकप्रिय था, संभवतः यही कारण है कि यह नए नियम में सबसे पहले आता है।</p><p><u>अधिक अध्ययन के लिए अंश </u></p><p><a href=\"https://ref.ly/Matt9:9-Matt9:10\">मत्ती 9:9–10</a>; <a href=\"https://ref.ly/Matt10:3\">10:3</a>; <a href=\"https://ref.ly/Mark2:14-Mark2:15\">मरकुस 2:14–15</a>; <a href=\"https://ref.ly/Mark3:18\">3:18</a>; <a href=\"https://ref.ly/Luke5:27-Luke5:29\">लूका 5:27–29</a>; <a href=\"https://ref.ly/Luke6:15\">6:15</a>; <a href=\"https://ref.ly/Acts1:13\">प्रेरितों के काम 1:13</a>।</p>",
@@ -105,9 +105,9 @@
 {
 "id": "person:Matthew",
 "type": "person",
-"preferred_label": "मत्ती",
 "confidence": 0.7684,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "मत्ती"
 }
 ]
 }
@@ -115,7 +115,7 @@
 {
 "content_id": "654258",
 "reference_id": 203457,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मनश्शे",
 "media_type": "Text",
 "index_reference": "मनश्शे",
@@ -262,9 +262,9 @@
 {
 "id": "person:Manasseh.2",
 "type": "person",
-"preferred_label": "मनश्शे",
 "confidence": 0.75,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "मनश्शे"
 }
 ]
 }
@@ -272,7 +272,7 @@
 {
 "content_id": "654272",
 "reference_id": 203471,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मनुष्य के पुत्र",
 "media_type": "Text",
 "index_reference": "मनुष्य के पुत्र",
@@ -433,7 +433,7 @@
 {
 "content_id": "654284",
 "reference_id": 203483,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मरियम नामक स्त्रियाँ",
 "media_type": "Text",
 "index_reference": "मरियम नामक स्त्रियाँ",
@@ -642,7 +642,7 @@
 {
 "content_id": "654196",
 "reference_id": 203395,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मलिकिसिदक",
 "media_type": "Text",
 "index_reference": "मलिकिसिदक",
@@ -759,9 +759,9 @@
 {
 "id": "person:Melchizedek",
 "type": "person",
-"preferred_label": "मलिकिसिदक",
 "confidence": 0.6563,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "मलिकिसिदक"
 }
 ]
 }
@@ -769,7 +769,7 @@
 {
 "content_id": "654278",
 "reference_id": 203477,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "महान हेरोदेस",
 "media_type": "Text",
 "index_reference": "महान हेरोदेस",
@@ -798,21 +798,13 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "person:Herod",
-"type": "person",
-"preferred_label": "हेरोदेस",
-"confidence": 0.6544,
-"match_method": "scored"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "654261",
 "reference_id": 203460,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मादी और फारसी लोग",
 "media_type": "Text",
 "index_reference": "मादी और फारसी लोग",
@@ -853,10 +845,10 @@
 {
 "content_id": "654290",
 "reference_id": 203489,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मार्था, मरियम और लाज़र",
 "media_type": "Text",
-"index_reference": "मार्था, मरियम और लाज़र",
+"index_reference": "मार्था मरियम और लाज़र",
 "language": "hin",
 "review_level": "None",
 "content": "<p>बहनें मार्था और मरियम, अपने भाई लाज़र के साथ बैतनिय्याह में रहती थीं, जो यरूशलेम के पास था। यीशु इस परिवार से प्रेम करते थे और उनके साथ समय बिताते थे। लूका और यूहन्ना के सुसमाचारों में मार्था और मरियम का उल्लेख है, जबकि लाज़र केवल यूहन्ना में दिखाई देते हैं। <a href=\"https://ref.ly/Luke16:19-Luke16:31\">लूका 16:19–31</a> मे उल्लेखित कंगाल, यह लाज़र नहीं है।</p><p>लूका द्वारा इन दो बहनों का वर्णन (<a href=\"https://ref.ly/Luke10:38-Luke10:42\">लूका 10:38–42</a>) मार्था और मरियम के बीच के अंतर को उजागर करता है। जब यीशु उनके घर आए, तो मार्था रसोई में व्यस्त थी और अपनी बहन से नाराज़ हो गईं क्योंकि वह भोजन तैयार करने में उनकी मदद नहीं कर रही थी। यीशु ने मरियम के इस निर्णय का समर्थन किया कि वह बैठकर उनसे सीखें, यह कहते हुए कि यह सबसे महत्वपूर्ण बात थी।</p><p>यूहन्ना का सुसमाचार यीशु द्वारा लाज़र को मृतकों में से जीवित करने की कहानी प्रस्तुत करता है (<a href=\"https://ref.ly/John11:1-John11:44\">यूह 11:1–44</a>)। यीशु लाज़र की मृत्यु के चार दिन बाद बैतनिय्याह पहुँचे। बहनें इस बात से दु:खी थीं कि यीशु उनके भाई को चंगा करने के लिए पहले नहीं आए। यीशु परिवार और दोस्तों के आँसुओं को देखकर बहुत उदास और व्याकुल हुए। वह कब्र पर गए और लाज़र को बाहर आने के लिए कहा। सभी को आश्चर्य हुआ ,जब लाज़र बाहर आए, अभी भी दफन कपड़ों में लिपटे हुए। यह चमत्कार यीशु को अनन्त जीवन देने वाले के रूप में प्रकट करता है (<a href=\"https://ref.ly/John11:25-John11:26\">यूह 11:25–26</a>)। विडंबना यह है कि इस कार्य ने यहूदी नेताओं को यीशु की मृत्यु की योजना बनाने के लिए और प्रेरित किया क्योंकि कई लोग यीशु के चमत्कारों पर विश्वास करने लगे थे (<a href=\"https://ref.ly/John11:47-John11:53\">यूह 11:47–53</a>; <a href=\"https://ref.ly/John12:10-John12:11\">12:10–11</a>)।</p><p>थोड़ी देर बाद, परिवार ने यीशु को एक उत्सव भोजन के लिए अपने घर आमंत्रित किया। मरियम ने यीशु पर एक बहुत महंगी इत्र की बोतल उंडेल दिया। जब लोगों ने इसे बर्बाद करने के लिए उनकी आलोचना की, तो यीशु ने उनका बचाव किया। उन्होंने कहा कि उनका कार्य उनकी आगामी मृत्यु का पूर्वाभास था (<a href=\"https://ref.ly/John12:1-John12:8\">यूह 12:1–8</a>; देखें <a href=\"https://ref.ly/Matt26:6-Matt26:13\">मत्ती 26:6–13</a>; <a href=\"https://ref.ly/Mark14:3-Mark14:9\">मर 14:3–9</a> भी)।</p><p><u>अधिक अध्ययन के लिए अंश</u></p><p><a href=\"https://ref.ly/Matt26:6-Matt26:13\">मत्ती 26:6–13</a>; <a href=\"https://ref.ly/Mark14:3-Mark14:9\">मरकुस 14:3–9</a>; <a href=\"https://ref.ly/Luke10:38-Luke10:42\">लूका 10:38–42</a>; <a href=\"https://ref.ly/John11:1-John11:44\">यूहन्ना 11:1–44</a>; <a href=\"https://ref.ly/John12:1-John12:11\">12:1–11</a>, <a href=\"https://ref.ly/John12:17\">17</a>।</p>",
@@ -936,7 +928,7 @@
 {
 "content_id": "654211",
 "reference_id": 203410,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मिस्र",
 "media_type": "Text",
 "index_reference": "मिस्र",
@@ -1065,16 +1057,16 @@
 {
 "id": "place:Egypt",
 "type": "place",
-"preferred_label": "मिस्र",
 "confidence": 0.7031,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "मिस्र"
 },
 {
-"id": "group:Egypt",
-"type": "group",
-"preferred_label": "मिस्री",
-"confidence": 0.5763,
-"match_method": "scored"
+"id": "place:Syene",
+"type": "place",
+"confidence": 0.6004,
+"match_method": "scored",
+"preferred_label": "सवेने"
 }
 ]
 }
@@ -1082,7 +1074,7 @@
 {
 "content_id": "654230",
 "reference_id": 203429,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मीकल",
 "media_type": "Text",
 "index_reference": "मीकल",
@@ -1145,9 +1137,16 @@
 {
 "id": "person:Michal",
 "type": "person",
-"preferred_label": "मीकल",
 "confidence": 0.7714,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "मीकल"
+},
+{
+"id": "person:Merab",
+"type": "person",
+"confidence": 0.6343,
+"match_method": "scored",
+"preferred_label": "मेरब"
 }
 ]
 }
@@ -1155,7 +1154,7 @@
 {
 "content_id": "654215",
 "reference_id": 203414,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मूसा",
 "media_type": "Text",
 "index_reference": "मूसा",
@@ -1530,9 +1529,9 @@
 {
 "id": "person:Moses",
 "type": "person",
-"preferred_label": "मूसा",
 "confidence": 0.7112,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "मूसा"
 }
 ]
 }
@@ -1540,7 +1539,7 @@
 {
 "content_id": "654218",
 "reference_id": 203417,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मोआब और अम्मोन",
 "media_type": "Text",
 "index_reference": "मोआब और अम्मोन",

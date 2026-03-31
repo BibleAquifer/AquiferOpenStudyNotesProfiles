@@ -2,7 +2,7 @@
 {
 "content_id": "654223",
 "reference_id": 203422,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दबोरा",
 "media_type": "Text",
 "index_reference": "दबोरा",
@@ -47,9 +47,9 @@
 {
 "id": "person:Deborah.2",
 "type": "person",
-"preferred_label": "दबोरा",
 "confidence": 0.6655,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "दबोरा"
 }
 ]
 }
@@ -57,7 +57,7 @@
 {
 "content_id": "654234",
 "reference_id": 203433,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दाऊद",
 "media_type": "Text",
 "index_reference": "दाऊद",
@@ -390,9 +390,9 @@
 {
 "id": "person:David",
 "type": "person",
-"preferred_label": "दाऊद",
 "confidence": 0.685,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "दाऊद"
 }
 ]
 }
@@ -400,7 +400,7 @@
 {
 "content_id": "654270",
 "reference_id": 203469,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दानिय्येल",
 "media_type": "Text",
 "index_reference": "दानिय्येल",
@@ -535,9 +535,9 @@
 {
 "id": "person:Daniel.3",
 "type": "person",
-"preferred_label": "दानिय्येल",
 "confidence": 0.6763,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "दानिय्येल"
 }
 ]
 }

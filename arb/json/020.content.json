@@ -2,7 +2,7 @@
 {
 "content_id": "726025",
 "reference_id": 203396,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هاجر",
 "media_type": "Text",
 "index_reference": "هاجر",
@@ -79,13 +79,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hagar",
+"type": "person",
+"confidence": 0.696,
+"match_method": "scored",
+"preferred_label": "هَاجَر"
+}
+]
 }
 },
 {
 "content_id": "726040",
 "reference_id": 203411,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هارون",
 "media_type": "Text",
 "index_reference": "هارون",
@@ -232,9 +240,9 @@
 {
 "id": "person:Aaron",
 "type": "person",
-"preferred_label": "هَارون",
-"confidence": 0.6529,
-"match_method": "scored"
+"confidence": 0.6934,
+"match_method": "scored",
+"preferred_label": "هَارون"
 }
 ]
 }
@@ -242,7 +250,7 @@
 {
 "content_id": "726130",
 "reference_id": 203501,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هيرودس أغريباس الأول",
 "media_type": "Text",
 "index_reference": "هيرودس أغريباس الأول",
@@ -271,13 +279,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.3",
+"type": "person",
+"confidence": 0.72,
+"match_method": "scored",
+"preferred_label": "هِيرودس"
+}
+]
 }
 },
 {
 "content_id": "726136",
 "reference_id": 203507,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هيرودس أغريباس الثاني",
 "media_type": "Text",
 "index_reference": "هيرودس أغريباس الثاني",
@@ -300,7 +316,7 @@
 {
 "content_id": "726106",
 "reference_id": 203477,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هيرودس الكبير",
 "media_type": "Text",
 "index_reference": "هيرودس الكبير",
@@ -329,21 +345,13 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "person:Herod",
-"type": "person",
-"preferred_label": "هِيرودس",
-"confidence": 0.5914,
-"match_method": "scored"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "726113",
 "reference_id": 203484,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هيرودس أنتيباس",
 "media_type": "Text",
 "index_reference": "هيرودس أنتيباس",
@@ -472,9 +480,9 @@
 {
 "id": "person:Herod.2",
 "type": "person",
-"preferred_label": "هِيرودسَ",
-"confidence": 0.579,
-"match_method": "scored"
+"confidence": 0.7725,
+"match_method": "scored",
+"preferred_label": "هِيرودسَ"
 }
 ]
 }

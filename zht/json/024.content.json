@@ -2,7 +2,7 @@
 {
 "content_id": "650876",
 "reference_id": 203460,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "米底亞人和波斯人",
 "media_type": "Text",
 "index_reference": "米底亞人和波斯人",
@@ -43,7 +43,7 @@
 {
 "content_id": "650845",
 "reference_id": 203429,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "米甲",
 "media_type": "Text",
 "index_reference": "米甲",
@@ -102,7 +102,22 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Michal",
+"type": "person",
+"confidence": 0.7714,
+"match_method": "scored",
+"preferred_label": "Michal"
+},
+{
+"id": "person:Merab",
+"type": "person",
+"confidence": 0.6343,
+"match_method": "scored",
+"preferred_label": "Merab"
+}
+]
 }
 }
 ]

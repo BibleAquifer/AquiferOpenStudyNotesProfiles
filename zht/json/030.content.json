@@ -2,7 +2,7 @@
 {
 "content_id": "650880",
 "reference_id": 203464,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "撒但",
 "media_type": "Text",
 "index_reference": "撒但",
@@ -325,13 +325,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 0.7138,
+"match_method": "scored",
+"preferred_label": "Satan"
+}
+]
 }
 },
 {
 "content_id": "650897",
 "reference_id": 203481,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "撒都該人",
 "media_type": "Text",
 "index_reference": "撒都該人",
@@ -426,13 +434,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Sadducee",
+"type": "group",
+"confidence": 0.5865,
+"match_method": "scored",
+"preferred_label": "Sadducees"
+}
+]
 }
 },
 {
 "content_id": "650852",
 "reference_id": 203436,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "撒督",
 "media_type": "Text",
 "index_reference": "撒督",
@@ -581,13 +597,28 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Zadok.2",
+"type": "person",
+"confidence": 0.6813,
+"match_method": "scored",
+"preferred_label": "Zadok"
+},
+{
+"id": "person:Zadok.4",
+"type": "person",
+"confidence": 0.6065,
+"match_method": "scored",
+"preferred_label": "Zadok"
+}
+]
 }
 },
 {
 "content_id": "650814",
 "reference_id": 203398,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "撒拉",
 "media_type": "Text",
 "index_reference": "撒拉",
@@ -766,13 +797,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.7007,
+"match_method": "scored",
+"preferred_label": "Sarah"
+}
+]
 }
 },
 {
 "content_id": "650908",
 "reference_id": 203492,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "撒馬利亞人",
 "media_type": "Text",
 "index_reference": "撒馬利亞人",
@@ -807,13 +846,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Samaritan",
+"type": "group",
+"confidence": 0.6176,
+"match_method": "scored",
+"preferred_label": "Samaritans"
+}
+]
 }
 },
 {
 "content_id": "650848",
 "reference_id": 203432,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "撒母耳",
 "media_type": "Text",
 "index_reference": "撒母耳",
@@ -1010,7 +1057,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Samuel",
+"type": "person",
+"confidence": 0.7249,
+"match_method": "scored",
+"preferred_label": "Samuel"
+}
+]
 }
 }
 ]

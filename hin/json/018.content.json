@@ -2,7 +2,7 @@
 {
 "content_id": "654236",
 "reference_id": 203435,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बतशेबा",
 "media_type": "Text",
 "index_reference": "बतशेबा",
@@ -119,9 +119,9 @@
 {
 "id": "person:Bathsheba",
 "type": "person",
-"preferred_label": "बतशेबा",
 "confidence": 0.628,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "बतशेबा"
 }
 ]
 }
@@ -129,7 +129,7 @@
 {
 "content_id": "654298",
 "reference_id": 203497,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बरनबास",
 "media_type": "Text",
 "index_reference": "बरनबास",
@@ -246,9 +246,16 @@
 {
 "id": "person:Barnabas",
 "type": "person",
-"preferred_label": "बरनबास",
 "confidence": 0.6611,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "बरनबास"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 0.5536,
+"match_method": "scored",
+"preferred_label": "यहूदा"
 }
 ]
 }
@@ -256,7 +263,7 @@
 {
 "content_id": "654268",
 "reference_id": 203467,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बारूक",
 "media_type": "Text",
 "index_reference": "बारूक",
@@ -367,9 +374,9 @@
 {
 "id": "person:Baruch.4",
 "type": "person",
-"preferred_label": "बारूक",
 "confidence": 0.6777,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "बारूक"
 }
 ]
 }
@@ -377,7 +384,7 @@
 {
 "content_id": "654217",
 "reference_id": 203416,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बिलाम",
 "media_type": "Text",
 "index_reference": "बिलाम",
@@ -502,9 +509,9 @@
 {
 "id": "person:Balaam",
 "type": "person",
-"preferred_label": "बिलाम",
 "confidence": 0.7806,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "बिलाम"
 }
 ]
 }
@@ -512,7 +519,7 @@
 {
 "content_id": "654254",
 "reference_id": 203453,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बेबीलोन",
 "media_type": "Text",
 "index_reference": "बेबीलोन",
@@ -631,9 +638,30 @@
 {
 "id": "place:Babylon",
 "type": "place",
-"preferred_label": "बेबीलोन",
 "confidence": 0.6782,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "बेबीलोन"
+},
+{
+"id": "place:Shinar",
+"type": "place",
+"confidence": 0.6044,
+"match_method": "scored",
+"preferred_label": "शिनार"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylonia"
+},
+{
+"id": "place:Babylon.2",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylon"
 }
 ]
 }

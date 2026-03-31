@@ -2,7 +2,7 @@
 {
 "content_id": "658395",
 "reference_id": 203470,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nabucodonosor II",
 "media_type": "Text",
 "index_reference": "nabucodonosor ii",
@@ -209,9 +209,9 @@
 {
 "id": "person:Nebuchadnezzar",
 "type": "person",
-"preferred_label": "Nabucodonosor",
 "confidence": 0.64,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Nabucodonosor"
 }
 ]
 }
@@ -219,7 +219,7 @@
 {
 "content_id": "658386",
 "reference_id": 203461,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nehemías",
 "media_type": "Text",
 "index_reference": "nehemías",
@@ -318,23 +318,23 @@
 {
 "id": "person:Nehemiah.2",
 "type": "person",
-"preferred_label": "Nehemías",
 "confidence": 0.6057,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Nehemías"
 },
 {
 "id": "person:Nehemiah",
 "type": "person",
-"preferred_label": "Nehemías",
 "confidence": 0.6011,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Nehemías"
 },
 {
 "id": "person:Nehemiah.3",
 "type": "person",
-"preferred_label": "Nehemías",
 "confidence": 0.6011,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Nehemías"
 }
 ]
 }
@@ -342,7 +342,7 @@
 {
 "content_id": "658434",
 "reference_id": 203509,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nerón",
 "media_type": "Text",
 "index_reference": "nerón",
@@ -407,13 +407,21 @@
 "language": "spa"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Nero",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Nero"
+}
+]
 }
 },
 {
 "content_id": "658416",
 "reference_id": 203491,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nicodemo",
 "media_type": "Text",
 "index_reference": "nicodemo",
@@ -464,9 +472,9 @@
 {
 "id": "person:Nicodemus",
 "type": "person",
-"preferred_label": "Nicodemo",
 "confidence": 0.7333,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Nicodemo"
 }
 ]
 }
@@ -474,7 +482,7 @@
 {
 "content_id": "658319",
 "reference_id": 203394,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Noé",
 "media_type": "Text",
 "index_reference": "noé",
@@ -609,9 +617,9 @@
 {
 "id": "person:Noah",
 "type": "person",
-"preferred_label": "Noé",
 "confidence": 0.7235,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Noé"
 }
 ]
 }

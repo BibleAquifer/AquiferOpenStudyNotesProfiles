@@ -2,7 +2,7 @@
 {
 "content_id": "654194",
 "reference_id": 203393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "आदम और हव्वा",
 "media_type": "Text",
 "index_reference": "आदम और हव्वा",
@@ -301,7 +301,7 @@
 {
 "content_id": "654255",
 "reference_id": 203454,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "आसा",
 "media_type": "Text",
 "index_reference": "आसा",
@@ -370,9 +370,9 @@
 {
 "id": "person:Asa",
 "type": "person",
-"preferred_label": "आसा",
 "confidence": 0.8092,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "आसा"
 }
 ]
 }
@@ -380,7 +380,7 @@
 {
 "content_id": "654250",
 "reference_id": 203449,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "आहाज",
 "media_type": "Text",
 "index_reference": "आहाज",
@@ -461,9 +461,9 @@
 {
 "id": "person:Ahaz",
 "type": "person",
-"preferred_label": "आहाज",
 "confidence": 0.7,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "आहाज"
 }
 ]
 }

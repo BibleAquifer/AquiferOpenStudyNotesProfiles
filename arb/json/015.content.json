@@ -2,7 +2,7 @@
 {
 "content_id": "726048",
 "reference_id": 203419,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "راحاب",
 "media_type": "Text",
 "index_reference": "راحاب",
@@ -67,13 +67,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Rahab",
+"type": "person",
+"confidence": 0.7067,
+"match_method": "scored",
+"preferred_label": "رَاحَاب"
+}
+]
 }
 },
 {
 "content_id": "726033",
 "reference_id": 203404,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رَاحِيل",
 "media_type": "Text",
 "index_reference": "رَاحِيل",
@@ -190,9 +198,9 @@
 {
 "id": "person:Rachel",
 "type": "person",
-"preferred_label": "رَاحِيل",
 "confidence": 0.7673,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "رَاحِيل"
 }
 ]
 }
@@ -200,7 +208,7 @@
 {
 "content_id": "726054",
 "reference_id": 203425,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رَاعُوث",
 "media_type": "Text",
 "index_reference": "رَاعُوث",
@@ -269,9 +277,9 @@
 {
 "id": "person:Ruth",
 "type": "person",
-"preferred_label": "رَاعوث",
-"confidence": 0.6176,
-"match_method": "scored"
+"confidence": 0.6536,
+"match_method": "scored",
+"preferred_label": "رَاعوث"
 }
 ]
 }
@@ -279,7 +287,7 @@
 {
 "content_id": "726071",
 "reference_id": 203442,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رَحُبْعَام",
 "media_type": "Text",
 "index_reference": "رَحُبْعَام",
@@ -372,9 +380,9 @@
 {
 "id": "person:Rehoboam",
 "type": "person",
-"preferred_label": "رَحبْعَامَ",
-"confidence": 0.7082,
-"match_method": "scored"
+"confidence": 0.7532,
+"match_method": "scored",
+"preferred_label": "رَحبْعَامَ"
 }
 ]
 }
@@ -382,7 +390,7 @@
 {
 "content_id": "726031",
 "reference_id": 203402,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رفقة",
 "media_type": "Text",
 "index_reference": "رفقة",
@@ -533,11 +541,11 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Helech",
-"type": "place",
-"preferred_label": "مَعَ",
-"confidence": 0.8213,
-"match_method": "embedding"
+"id": "person:Rebekah",
+"type": "person",
+"confidence": 0.687,
+"match_method": "scored",
+"preferred_label": "رِفْقَة"
 }
 ]
 }
@@ -545,7 +553,7 @@
 {
 "content_id": "726137",
 "reference_id": 203508,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "روما",
 "media_type": "Text",
 "index_reference": "روما",
@@ -646,7 +654,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 0.7164,
+"match_method": "scored",
+"preferred_label": "ٱلرّومَانِيّونَ"
+}
+]
 }
 }
 ]

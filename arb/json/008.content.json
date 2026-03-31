@@ -2,7 +2,7 @@
 {
 "content_id": "726122",
 "reference_id": 203493,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "القادة اليهود",
 "media_type": "Text",
 "index_reference": "القادة اليهود",
@@ -199,7 +199,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.6076,
+"match_method": "scored",
+"preferred_label": "يَهوذَا"
+}
+]
 }
 }
 ]

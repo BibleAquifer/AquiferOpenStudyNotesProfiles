@@ -2,7 +2,7 @@
 {
 "content_id": "650885",
 "reference_id": 203469,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "但以理",
 "media_type": "Text",
 "index_reference": "但以理",
@@ -133,7 +133,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Daniel.3",
+"type": "person",
+"confidence": 0.6763,
+"match_method": "scored",
+"preferred_label": "Daniel"
+}
+]
 }
 }
 ]

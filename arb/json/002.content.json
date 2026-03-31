@@ -2,7 +2,7 @@
 {
 "content_id": "726030",
 "reference_id": 203401,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الحِثِّيِّين",
 "media_type": "Text",
 "index_reference": "الحِثِّيِّين",
@@ -97,13 +97,28 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.6685,
+"match_method": "scored",
+"preferred_label": "حِثًّا"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.6609,
+"match_method": "scored",
+"preferred_label": "Hittites"
+}
+]
 }
 },
 {
 "content_id": "726079",
 "reference_id": 203450,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حزقيّا",
 "media_type": "Text",
 "index_reference": "حزقيّا",
@@ -176,25 +191,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Zecher",
+"id": "person:Hezekiah",
 "type": "person",
-"preferred_label": "زَاكِر",
-"confidence": 0.8234,
-"match_method": "embedding"
-},
-{
-"id": "person:Shelesh",
-"type": "person",
-"preferred_label": "شَالَش",
-"confidence": 0.81,
-"match_method": "embedding"
-},
-{
-"id": "person:Shashak",
-"type": "person",
-"preferred_label": "شَاشَق",
-"confidence": 0.809,
-"match_method": "embedding"
+"confidence": 0.7342,
+"match_method": "scored",
+"preferred_label": "حَزَقِيَّا"
 }
 ]
 }
@@ -202,7 +203,7 @@
 {
 "content_id": "726097",
 "reference_id": 203468,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حزقيال",
 "media_type": "Text",
 "index_reference": "حزقيال",
@@ -249,13 +250,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ezekiel",
+"type": "person",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "حِزْقِيَالَ"
+}
+]
 }
 },
 {
 "content_id": "726124",
 "reference_id": 203495,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حَنَّان وَقَيَافَا",
 "media_type": "Text",
 "index_reference": "حَنَّان وَقَيَافَا",

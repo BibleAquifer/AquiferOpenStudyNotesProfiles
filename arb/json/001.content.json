@@ -2,7 +2,7 @@
 {
 "content_id": "726078",
 "reference_id": 203449,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "آحَاز",
 "media_type": "Text",
 "index_reference": "آحَاز",
@@ -83,9 +83,9 @@
 {
 "id": "person:Ahaz",
 "type": "person",
-"preferred_label": "آحَاز",
 "confidence": 0.7,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "آحَاز"
 }
 ]
 }
@@ -93,10 +93,10 @@
 {
 "content_id": "726022",
 "reference_id": 203393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "آدَم، وحَوَّاء",
 "media_type": "Text",
-"index_reference": "آدَم، وحَوَّاء",
+"index_reference": "آدَم وحَوَّاء",
 "language": "arb",
 "review_level": "None",
 "content": "<p>آدَم هو أول إنسان، وهو أبو البشرية كلها. خلق الله أول زوجين على صورته لي<span>مْلَأ </span>الأرض ويتسلطا على الخليقة (<a href=\"https://ref.ly/Gen1:26-Gen1:31\">تكوين 1:26–31</a>). صنع الله آدَم من الأرض وأعطاه حياة (<a href=\"https://ref.ly/Gen2:7\">تكوين 2:7</a>). تضمنت مهام آدَم:</p><ul><li><p>أن يرعى جنّة عدن حيث وضعه الله (<a href=\"https://ref.ly/Gen2:15\">تكوين 2:15</a>)</p></li><li><p>أن يسمّي جميع الحيوانات (<a href=\"https://ref.ly/Gen2:19-Gen2:20\">تكوين 2:19–20</a>)</p></li><li><p>اتباع وصايا الله وأوامره (<a href=\"https://ref.ly/Gen1:28\">تكوين 1:28؛</a> <a href=\"https://ref.ly/Gen2:16-Gen2:17\">2:16–17</a>)</p></li></ul><p>خلق الله أول امرأة لتكون رفيقة لآدم ومعينًا له (<a href=\"https://ref.ly/Gen2:18-Gen2:22\">تكوين 2:18–22</a>). وخلق الله لحواء من ضلع آدم إنما يُظهر <span>يظهر الوحدة التي يريدها الله للزواج</span> (<a href=\"https://ref.ly/Gen2:23-Gen2:25\">تكوين 2:23–25</a>). وبهذا <span>كُرّمتْ &quot;أَنَّهَا أُمُّ كُلِّ حَيٍّ.&quot;</span> (<a href=\"https://ref.ly/Gen3:20\">تكوين 3:20</a>).</p><p>بعد أن خدعت الحيّة حواء لعصيان سيادة الله، تمرد آدم أيضًا وعطي الله (<a href=\"https://ref.ly/Gen3:1-Gen3:6\">تكوين 3:1–6</a>). فأفسد عصيانهما المتعمّد بعلاقتهما (<a href=\"https://ref.ly/Gen3:7\">تكوين 3:7</a>). كما أدى عصيانهما إلى انفصالهما عن الله. بحث الله عن آدم بعد أن تمرد وعصي الله. كان آدم وحواء يختبئان بين الأشجار، وشعرا بالفعل بالانفصال عن الله (<a href=\"https://ref.ly/Gen3:8\">تكوين 3:8</a>).</p><p>عندما سأل الله آدم، ألقى آدم باللوم على حواء، وألقى اللوم على الله أيضًا بصورة غير مباشرة (<a href=\"https://ref.ly/Gen3:12\">تكوين 3:12</a>). تسبب تمردهما في إحداث الألم، وتوتر العلاقات، وصعوبة التسلط على الأرض، والموت الجسدي والروحي (<a href=\"https://ref.ly/Gen3:16-Gen3:19\">تكوين 3:16–19،</a> <a href=\"https://ref.ly/Gen3:22-Gen3:24\">22–24</a>). ومع ذلك، صنع الله لآدم وحواء أقمصة من جلد الحيوانات لتغطية جسديهما (<a href=\"https://ref.ly/Gen3:21\">تكوين 3:21</a>). وعد الله بأن نسل حواء سيسحق رأس الحيّة (<a href=\"https://ref.ly/Gen3:15\">تكوين 3:15</a>؛ انظر <a href=\"https://ref.ly/Rom16:20\">رومية 16:20</a>؛ <a href=\"https://ref.ly/Rev12:1-Rev12:9\">رؤيا 12:1–9</a>؛ <a href=\"https://ref.ly/Rev20:1-Rev20:10\">20:1–10</a>).</p><p>كان آدم شخصية تاريخية (<a href=\"https://ref.ly/Gen4:25\">تكوين 4:25</a>؛ <a href=\"https://ref.ly/Gen5:1-Gen5:5\">5:1–5</a>؛ <a href=\"https://ref.ly/1Chr1:1\">1 أخبار الأيام 1:1</a>؛ <a href=\"https://ref.ly/Hos6:7\">هوشع 6:7</a>؛ <a href=\"https://ref.ly/Luke3:38\">لوقا 3:38</a>؛ <a href=\"https://ref.ly/Rom5:14\">رومية 5:14</a>؛ <a href=\"https://ref.ly/1Cor15:22\">1 كورنثوس 15:22</a>، <a href=\"https://ref.ly/1Cor15:45\">45</a>؛ <a href=\"https://ref.ly/1Tim2:13-1Tim2:14\">1 تيموثاوس 2:13–14</a>؛ <a href=\"https://ref.ly/Jude1:14\">يهوذا 1:14</a>). كما يرمز آدم إلى البشرية كُلََّها. أوامر الله ووصاياه في <a href=\"https://ref.ly/Gen1:26-Gen1:30\">تكوين 1:26–30</a> ولعناته في <a href=\"https://ref.ly/Gen3:16-Gen3:19\">3:16–19</a> لم يقتصر تأثيرها  على آدم وحواء فحسب، بل على كل إنسان. فآدم يجسد الانفصال عن الله الذي يعاني منه كل بشرٍ.</p><p>وضع الرسول بولس مقارنة ما بين الناس الذين يمثلهم آدم، أول إنسان، ومن يتبعون يسوع المسيح، &quot;آدم الأخير&quot; (<a href=\"https://ref.ly/Rom5:12-Rom5:21\">رومية 5:12–21</a>؛ <a href=\"https://ref.ly/1Cor15:45-1Cor15:50\">1 كورنثوس 15:45–50</a>؛ انظر أيضًا <a href=\"https://ref.ly/Rom8:5-Rom8:11\">رومية 8:5–11</a>، <a href=\"https://ref.ly/Rom8:20-Rom8:22\">20–22</a>). الناس الممثلون بآدم يعيشون مثله، حيث يشاركون في خطيئته، والانفصال عن الله والخلق، والموت الروحي. في المقابل، أولئك الذين يتبعون يسوع يعيشون بالإيمان به، حيث يتم إعادة تشكيلهم في صورة المسيح ويصبحون &quot;أناسًا جددًا&quot; يشاركون في خلق جديد (انظر <a href=\"https://ref.ly/Rom8:29\">رومية 8:29</a>؛ <a href=\"https://ref.ly/1Cor15:49\">1كورنثوس 15:49</a>؛ <a href=\"https://ref.ly/2Cor5:17\">2كورنثوس 5:17</a>؛ <a href=\"https://ref.ly/Gal6:15\">غلاطية 6:15</a>). يزيل يسوع الحواجز التي خلقها آدم وحواء (<a href=\"https://ref.ly/Rom5:1\">رومية 5:1</a>؛ <a href=\"https://ref.ly/2Cor5:19\">2كورنثوس 5:19</a>؛ <a href=\"https://ref.ly/Gal3:27-Gal3:28\">غلاطية 3:27–28</a>؛ <a href=\"https://ref.ly/Eph2:14-Eph2:16\">أفسس 2:14–16</a>). يعيد يسوع ما فقدوه.</p><p><u>مقاطع كتابية لدراسة أعمق</u></p><p><a href=\"https://ref.ly/Gen1:26-Gen1:31\">تكوين 1:26–31</a>؛ <a href=\"https://ref.ly/Gen2:4-Gen3:24\">2:4–3:24</a>؛ <a href=\"https://ref.ly/Gen4:25-Gen5:5\">4:25–5:5</a>؛ <a href=\"https://ref.ly/Hos6:6-Hos6:7\">هوشع 6:6–7</a>؛ <a href=\"https://ref.ly/Luke3:38\">لوقا 3:38</a>؛ <a href=\"https://ref.ly/Rom5:12-Rom5:21\">رومية 5:12–21</a>؛ <a href=\"https://ref.ly/1Cor15:22\">1كورنثوس 15:22</a>، <a href=\"https://ref.ly/1Cor15:45-1Cor15:49\">45–49</a>؛ <a href=\"https://ref.ly/1Tim2:13-1Tim2:14\">1تيموثاوس 2:13–14.</a></p>",
@@ -392,7 +392,7 @@
 {
 "content_id": "726083",
 "reference_id": 203454,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "آسا",
 "media_type": "Text",
 "index_reference": "آسا",
@@ -461,9 +461,9 @@
 {
 "id": "person:Asa",
 "type": "person",
-"preferred_label": "آسَا",
-"confidence": 0.7462,
-"match_method": "scored"
+"confidence": 0.8092,
+"match_method": "scored",
+"preferred_label": "آسَا"
 }
 ]
 }
@@ -471,7 +471,7 @@
 {
 "content_id": "726037",
 "reference_id": 203408,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "إبراهيم",
 "media_type": "Text",
 "index_reference": "إبراهيم",
@@ -848,13 +848,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.7433,
+"match_method": "scored",
+"preferred_label": "إِبْرَاهِيمَ"
+}
+]
 }
 },
 {
 "content_id": "726068",
 "reference_id": 203439,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أبْشَالُوم",
 "media_type": "Text",
 "index_reference": "أبْشَالُوم",
@@ -989,9 +997,9 @@
 {
 "id": "person:Absalom",
 "type": "person",
-"preferred_label": "أَبْشَالومَ",
-"confidence": 0.678,
-"match_method": "scored"
+"confidence": 0.741,
+"match_method": "scored",
+"preferred_label": "أَبْشَالومَ"
 }
 ]
 }
@@ -999,7 +1007,7 @@
 {
 "content_id": "726066",
 "reference_id": 203437,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أَبْشَاي",
 "media_type": "Text",
 "index_reference": "أَبْشَاي",
@@ -1148,13 +1156,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abishai",
+"type": "person",
+"confidence": 0.6989,
+"match_method": "scored",
+"preferred_label": "أَبِيشَايَ"
+}
+]
 }
 },
 {
 "content_id": "726135",
 "reference_id": 203506,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أَبُلُّوس",
 "media_type": "Text",
 "index_reference": "أَبُلُّوس",
@@ -1241,9 +1257,9 @@
 {
 "id": "person:Apollos",
 "type": "person",
-"preferred_label": "أَبلّوس",
-"confidence": 0.7096,
-"match_method": "scored"
+"confidence": 0.7636,
+"match_method": "scored",
+"preferred_label": "أَبلّوس"
 }
 ]
 }
@@ -1251,7 +1267,7 @@
 {
 "content_id": "726100",
 "reference_id": 203471,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ابن الإنسان",
 "media_type": "Text",
 "index_reference": "ابن الإنسان",
@@ -1412,7 +1428,7 @@
 {
 "content_id": "726063",
 "reference_id": 203434,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أَبْنَيْر",
 "media_type": "Text",
 "index_reference": "أَبْنَيْر",
@@ -1529,9 +1545,9 @@
 {
 "id": "person:Abner",
 "type": "person",
-"preferred_label": "أَبْنَيْر",
 "confidence": 0.7252,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "أَبْنَيْر"
 }
 ]
 }
@@ -1539,7 +1555,7 @@
 {
 "content_id": "726059",
 "reference_id": 203430,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أَبِيَاثَار",
 "media_type": "Text",
 "index_reference": "أَبِيَاثَار",
@@ -1668,9 +1684,9 @@
 {
 "id": "person:Abiathar",
 "type": "person",
-"preferred_label": "أَبِيَاثَار",
 "confidence": 0.6622,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "أَبِيَاثَار"
 }
 ]
 }
@@ -1678,7 +1694,7 @@
 {
 "content_id": "726092",
 "reference_id": 203463,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أحَشْوِيرُوش الأول",
 "media_type": "Text",
 "index_reference": "أحَشْوِيرُوش الأول",
@@ -1711,9 +1727,9 @@
 {
 "id": "person:Ahasuerus",
 "type": "person",
-"preferred_label": "أَحَشْوِيروشَ",
-"confidence": 0.5738,
-"match_method": "scored"
+"confidence": 0.7178,
+"match_method": "scored",
+"preferred_label": "أَحَشْوِيروشَ"
 }
 ]
 }
@@ -1721,7 +1737,7 @@
 {
 "content_id": "726072",
 "reference_id": 203443,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أَخْآب",
 "media_type": "Text",
 "index_reference": "أَخْآب",
@@ -1820,9 +1836,9 @@
 {
 "id": "person:Ahab",
 "type": "person",
-"preferred_label": "أَخْآبَ",
-"confidence": 0.6397,
-"match_method": "scored"
+"confidence": 0.6757,
+"match_method": "scored",
+"preferred_label": "أَخْآبَ"
 }
 ]
 }
@@ -1830,7 +1846,7 @@
 {
 "content_id": "726095",
 "reference_id": 203466,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "إرميا",
 "media_type": "Text",
 "index_reference": "إرميا",
@@ -1979,13 +1995,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jeremiah.6",
+"type": "person",
+"confidence": 0.6719,
+"match_method": "scored",
+"preferred_label": "إِرْمِيَا"
+}
+]
 }
 },
 {
 "content_id": "726091",
 "reference_id": 203462,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أَسْتِير",
 "media_type": "Text",
 "index_reference": "أَسْتِير",
@@ -2036,9 +2060,9 @@
 {
 "id": "person:Esther",
 "type": "person",
-"preferred_label": "أَسْتِير",
 "confidence": 0.695,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "أَسْتِير"
 }
 ]
 }
@@ -2046,7 +2070,7 @@
 {
 "content_id": "726029",
 "reference_id": 203400,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "إسحاق",
 "media_type": "Text",
 "index_reference": "إسحاق",
@@ -2327,13 +2351,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.7182,
+"match_method": "scored",
+"preferred_label": "إِسْحَاق"
+}
+]
 }
 },
 {
 "content_id": "726026",
 "reference_id": 203397,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "إسماعيل",
 "media_type": "Text",
 "index_reference": "إسماعيل",
@@ -2500,13 +2532,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 0.6691,
+"match_method": "scored",
+"preferred_label": "إِسْمَاعِيل"
+}
+]
 }
 },
 {
 "content_id": "726094",
 "reference_id": 203465,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "إِشَعْيَاء",
 "media_type": "Text",
 "index_reference": "إِشَعْيَاء",
@@ -2719,9 +2759,9 @@
 {
 "id": "person:Isaiah",
 "type": "person",
-"preferred_label": "إِشَعْيَاء",
 "confidence": 0.6154,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "إِشَعْيَاء"
 }
 ]
 }
@@ -2729,7 +2769,7 @@
 {
 "content_id": "726081",
 "reference_id": 203452,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أشّور",
 "media_type": "Text",
 "index_reference": "أشّور",
@@ -2788,13 +2828,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Assyria"
+}
+]
 }
 },
 {
 "content_id": "726141",
 "reference_id": 203512,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أَفَسُس",
 "media_type": "Text",
 "index_reference": "أَفَسُس",
@@ -2895,9 +2943,16 @@
 {
 "id": "place:Ephesus",
 "type": "place",
-"preferred_label": "أَفَسسَ",
-"confidence": 0.5975,
-"match_method": "scored"
+"confidence": 0.6605,
+"match_method": "scored",
+"preferred_label": "أَفَسسَ"
+},
+{
+"id": "group:Ephesus",
+"type": "group",
+"confidence": 0.614,
+"match_method": "scored",
+"preferred_label": "Ephesians"
 }
 ]
 }
@@ -2905,7 +2960,7 @@
 {
 "content_id": "726075",
 "reference_id": 203446,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الآراميون",
 "media_type": "Text",
 "index_reference": "الآراميون",
@@ -3126,13 +3181,28 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Aramean",
+"type": "group",
+"confidence": 0.6072,
+"match_method": "scored",
+"preferred_label": "Arameans"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 0.5828,
+"match_method": "scored",
+"preferred_label": "ٱلْأَرَامِيِّ"
+}
+]
 }
 },
 {
 "content_id": "726145",
 "reference_id": 203516,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الأباطرة الرومان",
 "media_type": "Text",
 "index_reference": "الأباطرة الرومان",
@@ -3191,7 +3261,7 @@
 {
 "content_id": "726044",
 "reference_id": 203415,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أَلِعَازَار",
 "media_type": "Text",
 "index_reference": "أَلِعَازَار",
@@ -3320,9 +3390,9 @@
 {
 "id": "person:Eleazar.2",
 "type": "person",
-"preferred_label": "أَلِعَازَار",
 "confidence": 0.6884,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "أَلِعَازَار"
 }
 ]
 }
@@ -3330,7 +3400,7 @@
 {
 "content_id": "726076",
 "reference_id": 203447,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أَلِيشَع",
 "media_type": "Text",
 "index_reference": "أَلِيشَع",
@@ -3471,9 +3541,9 @@
 {
 "id": "person:Elisha",
 "type": "person",
-"preferred_label": "أَلِيشَع",
 "confidence": 0.6646,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "أَلِيشَع"
 }
 ]
 }
@@ -3481,7 +3551,7 @@
 {
 "content_id": "726104",
 "reference_id": 203475,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "أنطيوخوس الرابع",
 "media_type": "Text",
 "index_reference": "أنطيوخوس الرابع",
@@ -3504,7 +3574,7 @@
 {
 "content_id": "726073",
 "reference_id": 203444,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "إِيزَابَل",
 "media_type": "Text",
 "index_reference": "إِيزَابَل",
@@ -3603,9 +3673,9 @@
 {
 "id": "person:Jezebel",
 "type": "person",
-"preferred_label": "إِيزَابَلَ",
-"confidence": 0.6139,
-"match_method": "scored"
+"confidence": 0.6364,
+"match_method": "scored",
+"preferred_label": "إِيزَابَلَ"
 }
 ]
 }
@@ -3613,7 +3683,7 @@
 {
 "content_id": "726074",
 "reference_id": 203445,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "إِيلِيَّا التِّشْبِي",
 "media_type": "Text",
 "index_reference": "إِيلِيَّا التِّشْبِي",
@@ -3852,13 +3922,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 0.6771,
+"match_method": "scored",
+"preferred_label": "إِيلِيَّا"
+}
+]
 }
 },
 {
 "content_id": "726127",
 "reference_id": 203498,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ٱستفانوس",
 "media_type": "Text",
 "index_reference": "ٱستفانوس",
@@ -4007,7 +4085,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Stephen",
+"type": "person",
+"confidence": 0.6315,
+"match_method": "scored",
+"preferred_label": "ٱسْتِفَانوسَ"
+}
+]
 }
 }
 ]

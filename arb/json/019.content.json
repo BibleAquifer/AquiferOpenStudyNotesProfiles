@@ -2,7 +2,7 @@
 {
 "content_id": "726099",
 "reference_id": 203470,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نَبُوخَذْنَاصَّر الثاني",
 "media_type": "Text",
 "index_reference": "نَبُوخَذْنَاصَّر الثاني",
@@ -205,13 +205,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"confidence": 0.64,
+"match_method": "scored",
+"preferred_label": "نَبوخَذْنَاصَّر"
+}
+]
 }
 },
 {
 "content_id": "726090",
 "reference_id": 203461,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نحميا",
 "media_type": "Text",
 "index_reference": "نحميا",
@@ -306,13 +314,35 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Nehemiah.2",
+"type": "person",
+"confidence": 0.6057,
+"match_method": "scored",
+"preferred_label": "نَحَمْيَا"
+},
+{
+"id": "person:Nehemiah",
+"type": "person",
+"confidence": 0.6011,
+"match_method": "scored",
+"preferred_label": "نَحَمْيَا"
+},
+{
+"id": "person:Nehemiah.3",
+"type": "person",
+"confidence": 0.6011,
+"match_method": "scored",
+"preferred_label": "نَحَمْيَا"
+}
+]
 }
 },
 {
 "content_id": "726023",
 "reference_id": 203394,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نوح",
 "media_type": "Text",
 "index_reference": "نوح",
@@ -447,9 +477,9 @@
 {
 "id": "person:Noah",
 "type": "person",
-"preferred_label": "نوحٌ",
-"confidence": 0.6605,
-"match_method": "scored"
+"confidence": 0.7235,
+"match_method": "scored",
+"preferred_label": "نوحٌ"
 }
 ]
 }
@@ -457,7 +487,7 @@
 {
 "content_id": "726138",
 "reference_id": 203509,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نيرون",
 "media_type": "Text",
 "index_reference": "نيرون",
@@ -522,13 +552,21 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Nero",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Nero"
+}
+]
 }
 },
 {
 "content_id": "726120",
 "reference_id": 203491,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نِيقُودِيمُوس",
 "media_type": "Text",
 "index_reference": "نِيقُودِيمُوس",
@@ -579,9 +617,9 @@
 {
 "id": "person:Nicodemus",
 "type": "person",
-"preferred_label": "نِيقودِيموس",
-"confidence": 0.6973,
-"match_method": "scored"
+"confidence": 0.7333,
+"match_method": "scored",
+"preferred_label": "نِيقودِيموس"
 }
 ]
 }

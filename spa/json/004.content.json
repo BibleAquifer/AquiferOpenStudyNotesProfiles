@@ -2,7 +2,7 @@
 {
 "content_id": "658394",
 "reference_id": 203469,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Daniel",
 "media_type": "Text",
 "index_reference": "daniel",
@@ -137,9 +137,9 @@
 {
 "id": "person:Daniel.3",
 "type": "person",
-"preferred_label": "Daniel",
 "confidence": 0.6763,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Daniel"
 }
 ]
 }
@@ -147,7 +147,7 @@
 {
 "content_id": "658358",
 "reference_id": 203433,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "David",
 "media_type": "Text",
 "index_reference": "david",
@@ -480,9 +480,9 @@
 {
 "id": "person:David",
 "type": "person",
-"preferred_label": "David",
 "confidence": 0.685,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "David"
 }
 ]
 }
@@ -490,7 +490,7 @@
 {
 "content_id": "658347",
 "reference_id": 203422,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Débora",
 "media_type": "Text",
 "index_reference": "débora",
@@ -535,9 +535,9 @@
 {
 "id": "person:Deborah.2",
 "type": "person",
-"preferred_label": "Débora",
 "confidence": 0.6655,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Débora"
 }
 ]
 }

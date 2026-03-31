@@ -2,7 +2,7 @@
 {
 "content_id": "654243",
 "reference_id": 203442,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "रहबाम",
 "media_type": "Text",
 "index_reference": "रहबाम",
@@ -95,9 +95,9 @@
 {
 "id": "person:Rehoboam",
 "type": "person",
-"preferred_label": "रहबाम",
 "confidence": 0.7532,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "रहबाम"
 }
 ]
 }
@@ -105,7 +105,7 @@
 {
 "content_id": "654220",
 "reference_id": 203419,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "राहाब",
 "media_type": "Text",
 "index_reference": "राहाब",
@@ -174,9 +174,9 @@
 {
 "id": "person:Rahab",
 "type": "person",
-"preferred_label": "राहाब",
 "confidence": 0.7067,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "राहाब"
 }
 ]
 }
@@ -184,7 +184,7 @@
 {
 "content_id": "654205",
 "reference_id": 203404,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "राहेल",
 "media_type": "Text",
 "index_reference": "राहेल",
@@ -301,9 +301,9 @@
 {
 "id": "person:Rachel",
 "type": "person",
-"preferred_label": "राहेल",
 "confidence": 0.7673,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "राहेल"
 }
 ]
 }
@@ -311,7 +311,7 @@
 {
 "content_id": "654203",
 "reference_id": 203402,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "रिबका",
 "media_type": "Text",
 "index_reference": "रिबका",
@@ -464,9 +464,9 @@
 {
 "id": "person:Rebekah",
 "type": "person",
-"preferred_label": "रिबका",
 "confidence": 0.687,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "रिबका"
 }
 ]
 }
@@ -474,7 +474,7 @@
 {
 "content_id": "654226",
 "reference_id": 203425,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "रूत",
 "media_type": "Text",
 "index_reference": "रूत",
@@ -543,9 +543,9 @@
 {
 "id": "person:Ruth",
 "type": "person",
-"preferred_label": "रूत",
 "confidence": 0.6536,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "रूत"
 }
 ]
 }
@@ -553,7 +553,7 @@
 {
 "content_id": "654309",
 "reference_id": 203508,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "रोम",
 "media_type": "Text",
 "index_reference": "रोम",
@@ -658,9 +658,9 @@
 {
 "id": "place:Rome",
 "type": "place",
-"preferred_label": "रोम",
 "confidence": 0.7164,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "रोम"
 }
 ]
 }
@@ -668,7 +668,7 @@
 {
 "content_id": "654311",
 "reference_id": 203510,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "रोमी कलीसिया",
 "media_type": "Text",
 "index_reference": "रोमी कलीसिया",
@@ -751,7 +751,7 @@
 {
 "content_id": "654317",
 "reference_id": 203516,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "रोमी सम्राट",
 "media_type": "Text",
 "index_reference": "रोमी सम्राट",

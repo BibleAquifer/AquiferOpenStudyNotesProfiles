@@ -2,7 +2,7 @@
 {
 "content_id": "658401",
 "reference_id": 203476,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Macabeos",
 "media_type": "Text",
 "index_reference": "macabeos",
@@ -18,7 +18,7 @@
 {
 "content_id": "658382",
 "reference_id": 203457,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Manasés",
 "media_type": "Text",
 "index_reference": "manasés",
@@ -165,9 +165,9 @@
 {
 "id": "person:Manasseh.2",
 "type": "person",
-"preferred_label": "Manasés",
 "confidence": 0.75,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Manasés"
 }
 ]
 }
@@ -175,10 +175,10 @@
 {
 "content_id": "658412",
 "reference_id": 203487,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "María, Madre de Jesús",
 "media_type": "Text",
-"index_reference": "maría, madre de jesús",
+"index_reference": "maría madre de jesús",
 "language": "spa",
 "review_level": "None",
 "content": "<p>María, la esposa de José, fue la madre virgen de Jesús. Lucas nos relata que, siendo una joven en Nazaret, María estaba comprometida con José, un carpintero local. Antes de que se casaran, un ángel le anunció que quedaría embarazada por el Espíritu de Dios y daría a luz al Hijo de Dios (<a href=\"https://ref.ly/Luke1:26-Luke1:35\">Lucas 1.26–35</a>). María aceptó este extraordinario mensaje con fe sencilla, sometiéndose humildemente a la voluntad de Dios (<a href=\"https://ref.ly/Luke1:38\">Lucas 1.38</a>; ver también <a href=\"https://ref.ly/Luke1:46-Luke1:55\">Lucas 1.46–55</a>). Poco después, su pariente Elisabet confirmó el mensaje, llamando a María la más bendecida de todas las mujeres (<a href=\"https://ref.ly/Luke1:39-Luke1:45\">Lucas 1.39–45</a>). La gente vio el milagroso nacimiento del Hijo de Dios por parte de María como un cumplimiento de la profecía (<a href=\"https://ref.ly/Isa7:14\">Isaías 7.14</a>).</p><p>Jesús nació en circunstancias extraordinarias. José llevó a María a <span>Bethlehem</span> para un censo romano. El niño nació en un establo porque no había otro alojamiento disponible (<a href=\"https://ref.ly/Luke2:1-Luke2:7\">Lucas 2.1–7</a>). Más tarde, María y José huyeron a Egipto para proteger al niño de la masacre de Herodes de los niños pequeños en Belén (<a href=\"https://ref.ly/Matt2:13-Matt2:18\">Mateo 2.13–18</a>). Al regresar, se establecieron en Nazaret para criar a su familia (<a href=\"https://ref.ly/Matt2:19-Matt2:23\">Mateo 2.19–23</a>). Después del nacimiento de Jesús, es probable que María tuviera varios otros hijos e hijas (<a href=\"https://ref.ly/Matt13:55-Matt13:56\">Mateo 13.55–56,</a> <a href=\"https://ref.ly/Mark6:3\">Marcos 6.3</a>). Es probable que María le haya contado a Lucas los detalles del nacimiento de Jesús y los eventos extraordinarios que lo rodearon (ver <a href=\"https://ref.ly/Luke2:51\">Lucas 2.51</a>).</p><p>Cuando Jesús tenía doce años, se quedó en el templo durante un viaje familiar a Jerusalén. María y José lo regañaron por quedarse atrás cuando partieron, pero no comprendieron su respuesta (<a href=\"https://ref.ly/Luke2:41-Luke2:51\">Lucas 2.41–51</a>). Al inicio del ministerio público de Jesús, María lo instó a realizar un milagro en una boda en Caná (<a href=\"https://ref.ly/John2:1-John2:11\">Juan 2.1–11</a>). Más tarde, cuando ella y los hermanos de Jesús fueron a verlo, él dijo que sus discípulos eran su &quot;verdadera familia&quot; (<a href=\"https://ref.ly/Matt12:46-Matt12:50\">Mateo 12.46–50;</a> <a href=\"https://ref.ly/Mark3:31-Mark3:35\">Marcos 3.31–35;</a> <a href=\"https://ref.ly/Luke8:19-Luke8:21\">Lucas 8.19–21</a>).</p><p>Cuando Jesús fue crucificado, María estaba entre las mujeres que observaban (ver <a href=\"https://ref.ly/Mark15:40\">Marcos 15.40</a>, <a href=\"https://ref.ly/Mark15:47\">47;</a> <a href=\"https://ref.ly/John19:25\">Juan 19.25</a>). Mientras Jesús agonizaba, le pidió a Juan, el “discípulo a quien Él amaba”, que cuidara de María como si fuera su propia madre (<a href=\"https://ref.ly/John19:26-John19:27\">Juan 19.26–27</a>). Después de que Jesús murió y resucitó, María formó parte de la comunidad de creyentes. Se la menciona entre aquellos que oraban juntos cuando el Espíritu Santo descendió en el Día de Pentecostés (<a href=\"https://ref.ly/Acts1:14\">Hechos 1.14</a>).</p><p>Dios eligió a María para traer a su Hijo, el Salvador, al mundo. Para todos los cristianos, ella es un modelo de humildad y obediencia a la voluntad de Dios.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Matt1:16\">Mateo 1.16</a>, <a href=\"https://ref.ly/Matt1:18-Matt1:25\">18–25</a>; <a href=\"https://ref.ly/Matt2:11\">2.11</a>, <a href=\"https://ref.ly/Matt2:13-Matt2:23\">13–23</a>; <a href=\"https://ref.ly/Luke1:26-Luke2:51\">Lucas 1.26–2.51,</a> <a href=\"https://ref.ly/John19:25-John19:27\">Juan 19.25–27,</a> <a href=\"https://ref.ly/Acts1:14\">Hechos 1.14</a></p>",
@@ -354,10 +354,10 @@
 {
 "content_id": "658414",
 "reference_id": 203489,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Marta, María y Lázaro",
 "media_type": "Text",
-"index_reference": "marta, maría y lázaro",
+"index_reference": "marta maría y lázaro",
 "language": "spa",
 "review_level": "None",
 "content": "<p>Las hermanas Marta y María vivían con su hermano Lázaro en Bethania, cerca de Jerusalén. Jesús amaba a esta familia y pasaba tiempo con ellos. Los Evangelios de Lucas y Juan mencionan a Marta y María, mientras que Lázaro aparece solo en Juan. Este Lázaro no es el mendigo mencionado en <a href=\"https://ref.ly/Luke16:19-Luke16:31\">Lucas 16.19–31</a>.</p><p>El relato de Lucas sobre estas dos hermanas (<a href=\"https://ref.ly/Luke10:38-Luke10:42\">Lucas 10.38–42</a>) destaca el contraste entre Marta y María. Cuando Jesús visitó su hogar, Marta estaba ocupada en la cocina y se molestó con su hermana por no ayudarla a preparar la comida. Jesús defendió la decisión de María de sentarse y aprender de él, afirmando que era lo más importante.</p><p>El Evangelio de Juan narra la historia de Jesús resucitando a Lázaro de entre los muertos (<a href=\"https://ref.ly/John11:1-John11:44\">Juan 11.1–44</a>). Jesús llegó a Betania cuatro días después de la muerte de Lázaro. Las hermanas estaban molestas porque Jesús no había venido antes para sanar a su hermano. Jesús se sintió profundamente conmovido por las lágrimas de la familia y los amigos. Fue a la tumba y le dijo a Lázaro que saliera. Para sorpresa de todos, Lázaro salió, todavía envuelto en lienzos funerarios. Este milagro muestra a Jesús como el dador de vida eterna (<a href=\"https://ref.ly/John11:25-John11:26\">Juan 11.25–26</a>). Irónicamente, este acto también llevó a los líderes judíos a planear la muerte de Jesús porque muchas personas creyeron en sus milagros (<a href=\"https://ref.ly/John11:47-John11:53\">Juan 11.47–53;</a> <a href=\"https://ref.ly/John12:10-John12:11\">12.10–11</a>).</p><p>Poco después, la familia invitó a Jesús a su hogar para una comida de celebración. María derramó un frasco de perfume muy caro sobre Jesús. Cuando la gente la criticó por desperdiciarlo, Jesús la defendió. Dijo que su acción anticipaba su muerte próxima (<a href=\"https://ref.ly/John12:1-John12:8\">Juan 12.1–8;</a> ver también <a href=\"https://ref.ly/Matt26:6-Matt26:13\">Mateo 26.6–13;</a> <a href=\"https://ref.ly/Mark14:3-Mark14:9\">Marcos 14.3–9</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Matt26:6-Matt26:13\">Mateo 26.6–13;</a> <a href=\"https://ref.ly/Mark14:3-Mark14:9\">Marcos 14.3–9;</a> <a href=\"https://ref.ly/Luke10:38-Luke10:42\">Lucas 10.38–42;</a> <a href=\"https://ref.ly/John11:1-John11:44\">Juan 11.1–44;</a> <a href=\"https://ref.ly/John12:1-John12:11\">12:1–11</a>, <a href=\"https://ref.ly/John12:17\">17</a></p>",
@@ -437,10 +437,10 @@
 {
 "content_id": "658404",
 "reference_id": 203479,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mateo (Leví)",
 "media_type": "Text",
-"index_reference": "mateo (leví)",
+"index_reference": "mateo leví",
 "language": "spa",
 "review_level": "None",
 "content": "<p>Mateo trabajó como recaudador de impuestos para los Romanos y más tarde se convirtió en uno de los doce apóstoles, los seguidores más cercanos de Jesús. La tradición temprana sostiene que él escribió el Evangelio de Mateo.</p><p>Se le llama Mateo en todas las listas de los apóstoles (<a href=\"https://ref.ly/Matt10:3\">Mateo 10.3;</a> <a href=\"https://ref.ly/Mark3:18\">Marcos 3.18;</a> <a href=\"https://ref.ly/Luke6:15\">Lucas 6.15;</a> <a href=\"https://ref.ly/Acts1:13\">Hechos 1.13</a>). Sin embargo, en dos relatos de su llamado, se le menciona como Leví, su otro nombre (<a href=\"https://ref.ly/Mark2:14-Mark2:15\">Marcos 2.14–15;</a> <a href=\"https://ref.ly/Luke5:27-Luke5:29\">Lucas 5.27–29;</a> comparar <a href=\"https://ref.ly/Matt9:9-Matt9:10\">Mateo 9.9–10</a>). Su padre era Alfeo (<a href=\"https://ref.ly/Mark2:14\">Marcos 2.14</a>). No sabemos si era hermano de Jacobo, el hijo de Alfeo, ya que no se menciona que sean hermanos en las listas de los apóstoles, a diferencia de otros pares de hermanos.</p><p>Los judíos que recaudaban impuestos para los romanos a menudo eran considerados pecadores por otros judíos. Ganaban dinero trabajando para las fuerzas de ocupación y practicaban la extorsión legal. Es significativo que Jesús eligiera a un recaudador de impuestos como uno de sus seguidores. Cuando los fariseos criticaron a Jesús por aceptar la invitación a cenar de Mateo y comer con recaudadores de impuestos y otros pecadores, Jesús aprovechó la oportunidad para enseñar sobre la compasión. Enfatizó que vino por los pecadores, no por aquellos que se consideraban justos (<a href=\"https://ref.ly/Matt9:9-Matt9:13\">Mateo 9.9–13;</a> <a href=\"https://ref.ly/Mark2:14-Mark2:17\">Marcos 2.14–17;</a> <a href=\"https://ref.ly/Luke5:27-Luke5:32\">Lucas 5.27–32</a>). Mateo siguió de inmediato el llamado de Jesús, dejando todo atrás (<a href=\"https://ref.ly/Luke5:28\">Lucas 5.28</a>). Esto sugiere que nunca volvió a recaudar impuestos ni a su vida anterior.</p><p>El Evangelio de Mateo fue escrito para los judíos y ofrece una perspectiva judía sobre la vida y enseñanzas de Jesús. Incluye temas importantes para quienes tienen un trasfondo judío. Este Evangelio fue muy popular en la iglesia primitiva, lo que probablemente explica por qué aparece primero en el Nuevo Testamento.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Matt9:9-Matt9:10\">Mateo 9.9–10;</a> <a href=\"https://ref.ly/Matt10:3\">10.3;</a> <a href=\"https://ref.ly/Mark2:14-Mark2:15\">Marcos 2.14–15;</a> <a href=\"https://ref.ly/Mark3:18\">3.18;</a> <a href=\"https://ref.ly/Luke5:27-Luke5:29\">Lucas 5.27–29;</a> <a href=\"https://ref.ly/Luke6:15\">6.15</a>; <a href=\"https://ref.ly/Acts1:13\">Hechos 1.13</a></p>",
@@ -524,9 +524,9 @@
 {
 "id": "person:Matthew",
 "type": "person",
-"preferred_label": "Mateo",
 "confidence": 0.7684,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Mateo"
 }
 ]
 }
@@ -534,7 +534,7 @@
 {
 "content_id": "658320",
 "reference_id": 203395,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Melquisedec",
 "media_type": "Text",
 "index_reference": "melquisedec",
@@ -651,9 +651,9 @@
 {
 "id": "person:Melchizedek",
 "type": "person",
-"preferred_label": "Melchîsedec",
-"confidence": 0.8485,
-"match_method": "embedding"
+"confidence": 0.6563,
+"match_method": "scored",
+"preferred_label": "Melchîsedec"
 }
 ]
 }
@@ -661,7 +661,7 @@
 {
 "content_id": "658354",
 "reference_id": 203429,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mical",
 "media_type": "Text",
 "index_reference": "mical",
@@ -724,16 +724,16 @@
 {
 "id": "person:Michal",
 "type": "person",
-"preferred_label": "Michâl",
-"confidence": 0.7309,
-"match_method": "scored"
+"confidence": 0.7714,
+"match_method": "scored",
+"preferred_label": "Michâl"
 },
 {
 "id": "person:Merab",
 "type": "person",
-"preferred_label": "Merab",
-"confidence": 0.5938,
-"match_method": "scored"
+"confidence": 0.6343,
+"match_method": "scored",
+"preferred_label": "Merab"
 }
 ]
 }
@@ -741,7 +741,7 @@
 {
 "content_id": "658342",
 "reference_id": 203417,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Moab y Ammón",
 "media_type": "Text",
 "index_reference": "moab y ammón",
@@ -890,7 +890,7 @@
 {
 "content_id": "658339",
 "reference_id": 203414,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Moisés",
 "media_type": "Text",
 "index_reference": "moisés",
@@ -1265,9 +1265,9 @@
 {
 "id": "person:Moses",
 "type": "person",
-"preferred_label": "Moisés",
 "confidence": 0.7112,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Moisés"
 }
 ]
 }
@@ -1275,7 +1275,7 @@
 {
 "content_id": "658408",
 "reference_id": 203483,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mujeres llamadas María",
 "media_type": "Text",
 "index_reference": "mujeres llamadas maría",

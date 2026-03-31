@@ -2,7 +2,7 @@
 {
 "content_id": "658593",
 "reference_id": 203516,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Imperadores Romanos",
 "media_type": "Text",
 "index_reference": "imperadores romanos",
@@ -61,7 +61,7 @@
 {
 "content_id": "658542",
 "reference_id": 203465,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Isaías",
 "media_type": "Text",
 "index_reference": "isaías",
@@ -274,9 +274,9 @@
 {
 "id": "person:Isaiah",
 "type": "person",
-"preferred_label": "Isaías",
 "confidence": 0.6154,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Isaías"
 }
 ]
 }
@@ -284,7 +284,7 @@
 {
 "content_id": "658477",
 "reference_id": 203400,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Isaque",
 "media_type": "Text",
 "index_reference": "isaque",
@@ -569,9 +569,9 @@
 {
 "id": "person:Isaac",
 "type": "person",
-"preferred_label": "Isaque",
 "confidence": 0.7182,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Isaque"
 }
 ]
 }
@@ -579,7 +579,7 @@
 {
 "content_id": "658474",
 "reference_id": 203397,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ismael",
 "media_type": "Text",
 "index_reference": "ismael",
@@ -750,9 +750,9 @@
 {
 "id": "person:Ishmael",
 "type": "person",
-"preferred_label": "Ismael",
 "confidence": 0.6691,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ismael"
 }
 ]
 }

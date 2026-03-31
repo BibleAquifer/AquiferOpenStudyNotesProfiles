@@ -2,7 +2,7 @@
 {
 "content_id": "650850",
 "reference_id": 203434,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "押尼珥",
 "media_type": "Text",
 "index_reference": "押尼珥",
@@ -115,13 +115,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abner",
+"type": "person",
+"confidence": 0.7252,
+"match_method": "scored",
+"preferred_label": "Abner"
+}
+]
 }
 },
 {
 "content_id": "650855",
 "reference_id": 203439,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "押沙龍",
 "media_type": "Text",
 "index_reference": "押沙龍",
@@ -252,13 +260,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Absalom",
+"type": "person",
+"confidence": 0.741,
+"match_method": "scored",
+"preferred_label": "Absalom"
+}
+]
 }
 },
 {
 "content_id": "650825",
 "reference_id": 203409,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "雅各",
 "media_type": "Text",
 "index_reference": "雅各",
@@ -707,16 +723,24 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.7403,
+"match_method": "scored",
+"preferred_label": "Israel"
+}
+]
 }
 },
 {
 "content_id": "650904",
 "reference_id": 203488,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "雅各，西庇太的兒子",
 "media_type": "Text",
-"index_reference": "雅各，西庇太的兒子",
+"index_reference": "雅各西庇太的兒子",
 "language": "zht",
 "review_level": "None",
 "content": "<p>雅各是西庇太的兒子、約翰的哥哥，亦是十二使徒中的一位。他是最早因跟隨耶穌而殉道的人之一。他的母親可能是馬利亞（耶穌的母親）的姐妹，使他成為耶穌的表兄弟（見<a href=\"https://ref.ly/Matt27:56\">太27:56</a>；<a href=\"https://ref.ly/Mark15:40\">可15:40</a>，<a href=\"https://ref.ly/Mark16:1\">16:1</a>；<a href=\"https://ref.ly/John19:25\">約19:25</a>）。他的名字通常出現在約翰之前，這可能表明雅各年紀較大。這位雅各不是亞勒腓的兒子雅各（見<a href=\"https://ref.ly/Luke6:15\">路6:15</a>），也不是耶穌的弟弟雅各。</p><p>雅各和約翰是漁夫，與他們的父親一樣（<a href=\"https://ref.ly/Matt4:21\">太4:21</a>；<a href=\"https://ref.ly/Mark1:19\">可1:19</a>）。他們與另一對成為門徒的兄弟，彼得和安得烈一起捕魚（<a href=\"https://ref.ly/Luke5:10\">路5:10</a>）。他們是耶穌最早呼召的門徒之一。他們撇下了一切，包括自己的父親，來跟隨耶穌（<a href=\"https://ref.ly/Matt4:22\">太4:22</a>；<a href=\"https://ref.ly/Mark1:20\">可1:20</a>；<a href=\"https://ref.ly/Luke5:11\">路5:11</a>）。耶穌稱他們為「雷子」（<a href=\"https://ref.ly/Mark3:17\">可3:17</a>），這可能意味著他們性格剛烈（見<a href=\"https://ref.ly/Luke9:54\">路9:54</a>），但確切的含義不清楚。</p><p>雅各和他的弟弟約翰與耶穌非常親近。他們與彼得一起，組成耶穌極為信賴的門徒團體，常在特殊場合陪伴祂。無論是耶穌醫治睚魯女兒（<a href=\"https://ref.ly/Mark5:37\">可5:37</a>；<a href=\"https://ref.ly/Luke8:51\">路8:51</a>）、在山上與以利亞和摩西交談（<a href=\"https://ref.ly/Matt17:1-Matt17:3\">太17:1–3</a>；<a href=\"https://ref.ly/Mark9:2-Mark9:4\">可9:2–4</a>；<a href=\"https://ref.ly/Luke9:28-Luke9:30\">路9:28–30</a>），或是在園中禱告時（<a href=\"https://ref.ly/Matt26:37\">太26:37</a>；<a href=\"https://ref.ly/Mark14:33\">可14:33</a>）。曾有一次，這兩兄弟因要求在將來的神國中擔任特殊地位，惹惱了其他門徒（<a href=\"https://ref.ly/Matt20:20-Matt20:28\">太20:20–28</a>；<a href=\"https://ref.ly/Mark10:35-Mark10:45\">可10:35–45</a>；參<a href=\"https://ref.ly/Luke22:24-Luke22:27\">路22:24–27</a>）。</p><p>耶穌受死後不久，希律亞基帕（Herod Agrippa）便殺害了雅各，這令猶太領袖大為歡喜（<a href=\"https://ref.ly/Acts12:1-Acts12:3\">徒12:1–3</a>）。希律如此行的原因，可能因為雅各是門徒中重要的領袖。此事也應驗了耶穌的預言，即雅各將分擔祂的苦難（<a href=\"https://ref.ly/Matt20:23\">太20:23</a>；<a href=\"https://ref.ly/Mark10:38-Mark10:39\">可10:38–39</a>）。</p><p>雅各原本只是普通的工人，但卻被耶穌呼召為門徒。他憑著單純的信任，捨棄了工作、家庭和家園，來跟隨耶穌。最終，他為耶穌犧牲生命，成為門徒委身的典範。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Matt4:21-Matt4:22\">太4:21–22</a>，<a href=\"https://ref.ly/Matt10:2\">10:2</a>，<a href=\"https://ref.ly/Matt17:1\">17:1</a>，<a href=\"https://ref.ly/Matt20:20-Matt20:24\">20:20–24</a>，<a href=\"https://ref.ly/Matt26:37-Matt26:46\">26:37–46</a>；<a href=\"https://ref.ly/Mark1:19-Mark1:20\">可1:19–20</a>、<a href=\"https://ref.ly/Mark1:29\">29</a>，<a href=\"https://ref.ly/Mark3:17\">3:17</a>，<a href=\"https://ref.ly/Mark5:37\">5:37</a>，<a href=\"https://ref.ly/Mark9:2\">9:2</a>，<a href=\"https://ref.ly/Mark10:35-Mark10:41\">10:35–41</a>，<a href=\"https://ref.ly/Mark13:3-Mark13:4\">13:3–4</a>，<a href=\"https://ref.ly/Mark14:33-Mark14:42\">14:33–42</a>；<a href=\"https://ref.ly/Luke5:10\">路5:10</a>，<a href=\"https://ref.ly/Luke6:14\">6:14</a>，<a href=\"https://ref.ly/Luke8:51\">8:51</a>，<a href=\"https://ref.ly/Luke9:28\">9:28</a>、<a href=\"https://ref.ly/Luke9:54-Luke9:55\">54–55</a>；<a href=\"https://ref.ly/John21:2\">約21:2</a>；<a href=\"https://ref.ly/Acts1:13\">徒1:13</a>，<a href=\"https://ref.ly/Acts12:2\">12:2</a></p>",
@@ -988,10 +1012,10 @@
 {
 "content_id": "650919",
 "reference_id": 203503,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "雅各，耶穌的弟弟",
 "media_type": "Text",
-"index_reference": "雅各，耶穌的弟弟",
+"index_reference": "雅各耶穌的弟弟",
 "language": "zht",
 "review_level": "None",
 "content": "<p>雅各是耶穌的弟弟之一（<a href=\"https://ref.ly/Matt13:55\">太13:55</a>；<a href=\"https://ref.ly/Mark6:3\">可6:3</a>；<a href=\"https://ref.ly/Gal1:19\">加1:19</a>；參<a href=\"https://ref.ly/Jude1:1\">猶1:1</a>）。耶穌從死裡復活後不久，他便成為耶路撒冷教會的領袖。根據傳統，這位雅各是新約聖經雅各書的作者。</p><p>起初，耶穌的弟弟們對他的主張持懷疑態度（<a href=\"https://ref.ly/John7:2-John7:5\">約7:2–5</a>），但他們後來成為信徒（<a href=\"https://ref.ly/Acts1:14\">徒1:14</a>）。雅各與復活後的耶穌親身相遇，可能使他歸信（<a href=\"https://ref.ly/1Cor15:7\">林前15:7</a>）。耶穌的兩位弟弟雅各和猶大，在早期基督教社群扮演重要的角色，其中雅各很快成為耶路撒冷教會的領袖。在耶路撒冷會議上，雅各協助猶太教會領袖接納外邦（非猶太）信徒，而不要求他們受割禮。這一決定對保羅和早期向外邦人的宣教至關重要（<a href=\"https://ref.ly/Acts15:13-Acts15:21\">徒15:13–21</a>）。保羅在第三次宣教旅行後，訪問耶路撒冷的雅各，就像他早前在歸信後所做的一樣（<a href=\"https://ref.ly/Acts21:18\">徒21:18</a>；<a href=\"https://ref.ly/Gal1:19\">加1:19</a>）。</p><p>像大多數猶太基督徒一樣，雅各遵守摩西律法。他強調在猶太人中持守某些關鍵律法的重要性（<a href=\"https://ref.ly/Acts15:20-Acts15:21\">徒15:20–21</a>，<a href=\"https://ref.ly/Acts21:18-Acts21:25\">21:18–25</a>）。儘管他認可保羅的使命和唯獨信心得救的焦點（<a href=\"https://ref.ly/Gal2:6-Gal2:9\">加2:6–9</a>），但許多猶太基督徒並不同意。這些保羅曾經介紹給雅各的信徒（見<a href=\"https://ref.ly/Gal2:12\">加2:12</a>），堅持認為成為基督徒的外邦人，必須受割禮並遵守摩西律法，才能加入基督教社群。</p><p>雅各的猶太背景在他的書信中顯而易見，信中提供睿智且實用的生活建議，其中大部分與猶太聖經的傳統智慧相符。他信中的一段話（<a href=\"https://ref.ly/Jas5:1-Jas5:6\">雅5:1–6</a>）與舊約先知的書信相似（例如參<a href=\"https://ref.ly/Amos5:21-Amos5:24\">摩5:21–24</a>，<a href=\"https://ref.ly/Amos6:1-Amos6:7\">6:1–7</a>）。</p><p>雅各在當時被稱為「公義者」，因其信仰而遭耶路撒冷的猶太祭司殺害（約瑟夫，猶太古史記20.9；優西比烏，教會史2.23.4–18）。</p><p><u>進深研究的經文段落</u></p><p><a href=\"https://ref.ly/Matt13:55\">太13:55</a>；<a href=\"https://ref.ly/Mark6:3\">可6:3</a>；<a href=\"https://ref.ly/Acts12:17\">徒12:17</a>；<a href=\"https://ref.ly/Acts15:13-Acts15:21\">徒15:13–21</a>，<a href=\"https://ref.ly/Acts21:18-Acts21:25\">21:18–25</a>；<a href=\"https://ref.ly/1Cor15:7\">林前15:7</a>；<a href=\"https://ref.ly/Gal2:9\">加2:9</a>，<a href=\"https://ref.ly/Gal2:12\">2:12</a>；<a href=\"https://ref.ly/Jas1:1-Jas5:20\">雅1:1–5:20</a>；<a href=\"https://ref.ly/Jude1:1\">猶1:1</a></p>",
@@ -1119,7 +1143,7 @@
 {
 "content_id": "650853",
 "reference_id": 203437,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞比篩",
 "media_type": "Text",
 "index_reference": "亞比篩",
@@ -1268,13 +1292,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abishai",
+"type": "person",
+"confidence": 0.6989,
+"match_method": "scored",
+"preferred_label": "Abishai"
+}
+]
 }
 },
 {
 "content_id": "650846",
 "reference_id": 203430,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞比亞他",
 "media_type": "Text",
 "index_reference": "亞比亞他",
@@ -1399,13 +1431,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abiathar",
+"type": "person",
+"confidence": 0.6622,
+"match_method": "scored",
+"preferred_label": "Abiathar"
+}
+]
 }
 },
 {
 "content_id": "650922",
 "reference_id": 203506,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞波羅",
 "media_type": "Text",
 "index_reference": "亞波羅",
@@ -1488,13 +1528,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Apollos",
+"type": "person",
+"confidence": 0.7636,
+"match_method": "scored",
+"preferred_label": "Apollos"
+}
+]
 }
 },
 {
 "content_id": "650824",
 "reference_id": 203408,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞伯拉罕",
 "media_type": "Text",
 "index_reference": "亞伯拉罕",
@@ -1871,13 +1919,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.7433,
+"match_method": "scored",
+"preferred_label": "Abraham"
+}
+]
 }
 },
 {
 "content_id": "650809",
 "reference_id": 203393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞當和夏娃",
 "media_type": "Text",
 "index_reference": "亞當和夏娃",
@@ -2176,7 +2232,7 @@
 {
 "content_id": "650859",
 "reference_id": 203443,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞哈",
 "media_type": "Text",
 "index_reference": "亞哈",
@@ -2271,13 +2327,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ahab",
+"type": "person",
+"confidence": 0.6757,
+"match_method": "scored",
+"preferred_label": "Ahab"
+}
+]
 }
 },
 {
 "content_id": "650865",
 "reference_id": 203449,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞哈斯",
 "media_type": "Text",
 "index_reference": "亞哈斯",
@@ -2354,13 +2418,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ahaz",
+"type": "person",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Ahaz"
+}
+]
 }
 },
 {
 "content_id": "650862",
 "reference_id": 203446,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞蘭人",
 "media_type": "Text",
 "index_reference": "亞蘭人",
@@ -2581,13 +2653,28 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Aramean",
+"type": "group",
+"confidence": 0.6072,
+"match_method": "scored",
+"preferred_label": "Arameans"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 0.5828,
+"match_method": "scored",
+"preferred_label": "Paddan-aram"
+}
+]
 }
 },
 {
 "content_id": "650827",
 "reference_id": 203411,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞倫",
 "media_type": "Text",
 "index_reference": "亞倫",
@@ -2730,13 +2817,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.6934,
+"match_method": "scored",
+"preferred_label": "Aaron"
+}
+]
 }
 },
 {
 "content_id": "650847",
 "reference_id": 203431,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞瑪力人",
 "media_type": "Text",
 "index_reference": "亞瑪力人",
@@ -2843,13 +2938,28 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.6293,
+"match_method": "scored",
+"preferred_label": "Amalek"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 0.5797,
+"match_method": "scored",
+"preferred_label": "Amalekites"
+}
+]
 }
 },
 {
 "content_id": "650911",
 "reference_id": 203495,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞那和該亞法",
 "media_type": "Text",
 "index_reference": "亞那和該亞法",
@@ -2938,7 +3048,7 @@
 {
 "content_id": "650870",
 "reference_id": 203454,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞撒",
 "media_type": "Text",
 "index_reference": "亞撒",
@@ -3003,13 +3113,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Asa",
+"type": "person",
+"confidence": 0.8092,
+"match_method": "scored",
+"preferred_label": "Asa"
+}
+]
 }
 },
 {
 "content_id": "650868",
 "reference_id": 203452,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞述",
 "media_type": "Text",
 "index_reference": "亞述",
@@ -3068,7 +3186,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Assyria"
+}
+]
 }
 }
 ]

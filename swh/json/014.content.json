@@ -2,7 +2,7 @@
 {
 "content_id": "734319",
 "reference_id": 203419,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rahabu",
 "media_type": "Text",
 "index_reference": "rahabu",
@@ -71,9 +71,9 @@
 {
 "id": "person:Rahab",
 "type": "person",
-"preferred_label": "Rahabu",
 "confidence": 0.7067,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Rahabu"
 }
 ]
 }
@@ -81,7 +81,7 @@
 {
 "content_id": "734304",
 "reference_id": 203404,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Raheli",
 "media_type": "Text",
 "index_reference": "raheli",
@@ -198,9 +198,9 @@
 {
 "id": "person:Rachel",
 "type": "person",
-"preferred_label": "Raheli",
 "confidence": 0.7673,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Raheli"
 }
 ]
 }
@@ -208,7 +208,7 @@
 {
 "content_id": "734302",
 "reference_id": 203402,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rebeka",
 "media_type": "Text",
 "index_reference": "rebeka",
@@ -361,9 +361,9 @@
 {
 "id": "person:Rebekah",
 "type": "person",
-"preferred_label": "Rebeka",
 "confidence": 0.687,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Rebeka"
 }
 ]
 }
@@ -371,7 +371,7 @@
 {
 "content_id": "734342",
 "reference_id": 203442,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rehoboamu",
 "media_type": "Text",
 "index_reference": "rehoboamu",
@@ -464,9 +464,9 @@
 {
 "id": "person:Rehoboam",
 "type": "person",
-"preferred_label": "Rehoboamu",
 "confidence": 0.7532,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Rehoboamu"
 }
 ]
 }
@@ -474,7 +474,7 @@
 {
 "content_id": "734408",
 "reference_id": 203508,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rumi",
 "media_type": "Text",
 "index_reference": "rumi",
@@ -575,13 +575,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 0.7164,
+"match_method": "scored",
+"preferred_label": "Warumi"
+}
+]
 }
 },
 {
 "content_id": "734325",
 "reference_id": 203425,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ruthu",
 "media_type": "Text",
 "index_reference": "ruthu",
@@ -650,9 +658,9 @@
 {
 "id": "person:Ruth",
 "type": "person",
-"preferred_label": "Ruthu",
 "confidence": 0.6536,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ruthu"
 }
 ]
 }

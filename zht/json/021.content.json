@@ -2,7 +2,7 @@
 {
 "content_id": "650858",
 "reference_id": 203442,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "羅波安",
 "media_type": "Text",
 "index_reference": "羅波安",
@@ -91,13 +91,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Rehoboam",
+"type": "person",
+"confidence": 0.7532,
+"match_method": "scored",
+"preferred_label": "Rehoboam"
+}
+]
 }
 },
 {
 "content_id": "650815",
 "reference_id": 203399,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "羅得",
 "media_type": "Text",
 "index_reference": "羅得",
@@ -216,13 +224,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 0.7374,
+"match_method": "scored",
+"preferred_label": "Lot"
+}
+]
 }
 },
 {
 "content_id": "650924",
 "reference_id": 203508,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "羅馬",
 "media_type": "Text",
 "index_reference": "羅馬",
@@ -323,13 +339,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 0.7164,
+"match_method": "scored",
+"preferred_label": "Rome"
+}
+]
 }
 },
 {
 "content_id": "650932",
 "reference_id": 203516,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "羅馬皇帝",
 "media_type": "Text",
 "index_reference": "羅馬皇帝",
@@ -388,7 +412,7 @@
 {
 "content_id": "650926",
 "reference_id": 203510,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "羅馬教會",
 "media_type": "Text",
 "index_reference": "羅馬教會",

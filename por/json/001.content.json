@@ -2,7 +2,7 @@
 {
 "content_id": "658587",
 "reference_id": 203510,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A Igreja Romana",
 "media_type": "Text",
 "index_reference": "a igreja romana",
@@ -85,7 +85,7 @@
 {
 "content_id": "658507",
 "reference_id": 203430,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abiatar",
 "media_type": "Text",
 "index_reference": "abiatar",
@@ -214,9 +214,9 @@
 {
 "id": "person:Abiathar",
 "type": "person",
-"preferred_label": "Abiatar",
 "confidence": 0.6622,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Abiatar"
 }
 ]
 }
@@ -224,7 +224,7 @@
 {
 "content_id": "658514",
 "reference_id": 203437,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abisai",
 "media_type": "Text",
 "index_reference": "abisai",
@@ -377,9 +377,9 @@
 {
 "id": "person:Abishai",
 "type": "person",
-"preferred_label": "Abisai",
 "confidence": 0.6989,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Abisai"
 }
 ]
 }
@@ -387,7 +387,7 @@
 {
 "content_id": "658511",
 "reference_id": 203434,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abner",
 "media_type": "Text",
 "index_reference": "abner",
@@ -504,9 +504,9 @@
 {
 "id": "person:Abner",
 "type": "person",
-"preferred_label": "Abner",
 "confidence": 0.7252,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Abner"
 }
 ]
 }
@@ -514,7 +514,7 @@
 {
 "content_id": "658485",
 "reference_id": 203408,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abraão",
 "media_type": "Text",
 "index_reference": "abraão",
@@ -895,9 +895,9 @@
 {
 "id": "person:Abraham",
 "type": "person",
-"preferred_label": "Abraão",
 "confidence": 0.7433,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Abraão"
 }
 ]
 }
@@ -905,7 +905,7 @@
 {
 "content_id": "658516",
 "reference_id": 203439,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Absalão",
 "media_type": "Text",
 "index_reference": "absalão",
@@ -1040,9 +1040,9 @@
 {
 "id": "person:Absalom",
 "type": "person",
-"preferred_label": "Absalão",
 "confidence": 0.741,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Absalão"
 }
 ]
 }
@@ -1050,7 +1050,7 @@
 {
 "content_id": "658520",
 "reference_id": 203443,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Acabe",
 "media_type": "Text",
 "index_reference": "acabe",
@@ -1149,9 +1149,9 @@
 {
 "id": "person:Ahab",
 "type": "person",
-"preferred_label": "Acabe",
 "confidence": 0.6757,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Acabe"
 }
 ]
 }
@@ -1159,7 +1159,7 @@
 {
 "content_id": "658526",
 "reference_id": 203449,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Acaz",
 "media_type": "Text",
 "index_reference": "acaz",
@@ -1240,9 +1240,9 @@
 {
 "id": "person:Ahaz",
 "type": "person",
-"preferred_label": "Acaz",
 "confidence": 0.7,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Acaz"
 }
 ]
 }
@@ -1250,7 +1250,7 @@
 {
 "content_id": "658470",
 "reference_id": 203393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Adão e Eva",
 "media_type": "Text",
 "index_reference": "adão e eva",
@@ -1549,7 +1549,7 @@
 {
 "content_id": "658473",
 "reference_id": 203396,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Agar",
 "media_type": "Text",
 "index_reference": "agar",
@@ -1630,9 +1630,9 @@
 {
 "id": "person:Hagar",
 "type": "person",
-"preferred_label": "Hagar",
 "confidence": 0.696,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Hagar"
 }
 ]
 }
@@ -1640,7 +1640,7 @@
 {
 "content_id": "658572",
 "reference_id": 203495,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Anás e Caifás",
 "media_type": "Text",
 "index_reference": "anás e caifás",
@@ -1729,7 +1729,7 @@
 {
 "content_id": "658552",
 "reference_id": 203475,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Antíoco IV",
 "media_type": "Text",
 "index_reference": "antíoco iv",
@@ -1752,7 +1752,7 @@
 {
 "content_id": "658583",
 "reference_id": 203506,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Apolo",
 "media_type": "Text",
 "index_reference": "apolo",
@@ -1839,9 +1839,9 @@
 {
 "id": "person:Apollos",
 "type": "person",
-"preferred_label": "Apolo",
 "confidence": 0.7636,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Apolo"
 }
 ]
 }
@@ -1849,7 +1849,7 @@
 {
 "content_id": "658523",
 "reference_id": 203446,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Arameus",
 "media_type": "Text",
 "index_reference": "arameus",
@@ -2070,13 +2070,28 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Aramean",
+"type": "group",
+"confidence": 0.6072,
+"match_method": "scored",
+"preferred_label": "Arameans"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 0.5828,
+"match_method": "scored",
+"preferred_label": "Padã-Arã"
+}
+]
 }
 },
 {
 "content_id": "658488",
 "reference_id": 203411,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Arão",
 "media_type": "Text",
 "index_reference": "arão",
@@ -2223,16 +2238,9 @@
 {
 "id": "person:Aaron",
 "type": "person",
-"preferred_label": "Arão",
 "confidence": 0.6934,
-"match_method": "scored"
-},
-{
-"id": "person:Amram",
-"type": "person",
-"preferred_label": "Amrão",
-"confidence": 0.5516,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Arão"
 }
 ]
 }
@@ -2240,7 +2248,7 @@
 {
 "content_id": "658531",
 "reference_id": 203454,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Asa",
 "media_type": "Text",
 "index_reference": "asa",
@@ -2309,9 +2317,9 @@
 {
 "id": "person:Asa",
 "type": "person",
-"preferred_label": "Asa",
 "confidence": 0.8092,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Asa"
 }
 ]
 }
@@ -2319,7 +2327,7 @@
 {
 "content_id": "658529",
 "reference_id": 203452,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Assíria",
 "media_type": "Text",
 "index_reference": "assíria",
@@ -2382,9 +2390,9 @@
 {
 "id": "place:Assyria",
 "type": "place",
-"preferred_label": "Assyria",
-"confidence": 0.9532,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Assyria"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "658439",
 "reference_id": 203514,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Timoteo",
 "media_type": "Text",
 "index_reference": "timoteo",
@@ -227,9 +227,9 @@
 {
 "id": "person:Timothy",
 "type": "person",
-"preferred_label": "Timoteo",
 "confidence": 0.7878,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Timoteo"
 }
 ]
 }
@@ -237,7 +237,7 @@
 {
 "content_id": "658440",
 "reference_id": 203515,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tito",
 "media_type": "Text",
 "index_reference": "tito",
@@ -378,9 +378,9 @@
 {
 "id": "person:Titus",
 "type": "person",
-"preferred_label": "Tito",
 "confidence": 0.792,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Tito"
 }
 ]
 }
@@ -388,7 +388,7 @@
 {
 "content_id": "658421",
 "reference_id": 203496,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tomás",
 "media_type": "Text",
 "index_reference": "tomás",
@@ -469,9 +469,9 @@
 {
 "id": "person:Thomas",
 "type": "person",
-"preferred_label": "Tomás",
 "confidence": 0.8444,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Tomás"
 }
 ]
 }
