@@ -2,7 +2,7 @@
 {
 "content_id": "668954",
 "reference_id": 203496,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Thomas",
 "media_type": "Text",
 "index_reference": "thomas",
@@ -83,9 +83,9 @@
 {
 "id": "person:Thomas",
 "type": "person",
-"preferred_label": "Thomas",
 "confidence": 0.8444,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Thomas"
 }
 ]
 }
@@ -93,7 +93,7 @@
 {
 "content_id": "668972",
 "reference_id": 203514,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Timothée",
 "media_type": "Text",
 "index_reference": "timothée",
@@ -318,9 +318,9 @@
 {
 "id": "person:Timothy",
 "type": "person",
-"preferred_label": "Timothée",
 "confidence": 0.7878,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Timothée"
 }
 ]
 }
@@ -328,7 +328,7 @@
 {
 "content_id": "668973",
 "reference_id": 203515,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tite",
 "media_type": "Text",
 "index_reference": "tite",
@@ -469,9 +469,9 @@
 {
 "id": "person:Titus",
 "type": "person",
-"preferred_label": "Tite",
 "confidence": 0.792,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Tite"
 }
 ]
 }
@@ -479,7 +479,7 @@
 {
 "content_id": "668894",
 "reference_id": 203436,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tsadok",
 "media_type": "Text",
 "index_reference": "tsadok",
@@ -632,16 +632,16 @@
 {
 "id": "person:Zadok.2",
 "type": "person",
-"preferred_label": "Tsadok",
 "confidence": 0.6813,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Tsadok"
 },
 {
 "id": "person:Zadok.4",
 "type": "person",
-"preferred_label": "Tsadok",
 "confidence": 0.6065,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Tsadok"
 }
 ]
 }

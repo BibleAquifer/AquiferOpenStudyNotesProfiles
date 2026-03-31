@@ -2,7 +2,7 @@
 {
 "content_id": "658336",
 "reference_id": 203411,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aarón",
 "media_type": "Text",
 "index_reference": "aarón",
@@ -149,9 +149,9 @@
 {
 "id": "person:Aaron",
 "type": "person",
-"preferred_label": "Aarón",
 "confidence": 0.6934,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Aarón"
 }
 ]
 }
@@ -159,7 +159,7 @@
 {
 "content_id": "658355",
 "reference_id": 203430,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abiathar",
 "media_type": "Text",
 "index_reference": "abiathar",
@@ -288,9 +288,9 @@
 {
 "id": "person:Abiathar",
 "type": "person",
-"preferred_label": "Abiathar",
 "confidence": 0.6622,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Abiathar"
 }
 ]
 }
@@ -298,7 +298,7 @@
 {
 "content_id": "658362",
 "reference_id": 203437,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abisai",
 "media_type": "Text",
 "index_reference": "abisai",
@@ -451,9 +451,9 @@
 {
 "id": "person:Abishai",
 "type": "person",
-"preferred_label": "Abisai",
 "confidence": 0.6989,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Abisai"
 }
 ]
 }
@@ -461,7 +461,7 @@
 {
 "content_id": "658359",
 "reference_id": 203434,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abner",
 "media_type": "Text",
 "index_reference": "abner",
@@ -578,9 +578,9 @@
 {
 "id": "person:Abner",
 "type": "person",
-"preferred_label": "Abner",
 "confidence": 0.7252,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Abner"
 }
 ]
 }
@@ -588,7 +588,7 @@
 {
 "content_id": "658333",
 "reference_id": 203408,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abraham",
 "media_type": "Text",
 "index_reference": "abraham",
@@ -969,9 +969,9 @@
 {
 "id": "person:Abraham",
 "type": "person",
-"preferred_label": "Abraham",
 "confidence": 0.7433,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Abraham"
 }
 ]
 }
@@ -979,7 +979,7 @@
 {
 "content_id": "658364",
 "reference_id": 203439,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Absalom",
 "media_type": "Text",
 "index_reference": "absalom",
@@ -1114,9 +1114,9 @@
 {
 "id": "person:Absalom",
 "type": "person",
-"preferred_label": "Absalom",
 "confidence": 0.741,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Absalom"
 }
 ]
 }
@@ -1124,7 +1124,7 @@
 {
 "content_id": "658368",
 "reference_id": 203443,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Achâb",
 "media_type": "Text",
 "index_reference": "achâb",
@@ -1223,9 +1223,9 @@
 {
 "id": "person:Ahab",
 "type": "person",
-"preferred_label": "Achâb",
 "confidence": 0.6757,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Achâb"
 }
 ]
 }
@@ -1233,7 +1233,7 @@
 {
 "content_id": "658374",
 "reference_id": 203449,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Achâz",
 "media_type": "Text",
 "index_reference": "achâz ",
@@ -1314,9 +1314,9 @@
 {
 "id": "person:Ahaz",
 "type": "person",
-"preferred_label": "Achâz",
 "confidence": 0.7,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Achâz"
 }
 ]
 }
@@ -1324,7 +1324,7 @@
 {
 "content_id": "658318",
 "reference_id": 203393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Adam y Varona",
 "media_type": "Text",
 "index_reference": "adam y varona",
@@ -1623,7 +1623,7 @@
 {
 "content_id": "658321",
 "reference_id": 203396,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Agar",
 "media_type": "Text",
 "index_reference": "agar",
@@ -1704,9 +1704,9 @@
 {
 "id": "person:Hagar",
 "type": "person",
-"preferred_label": "Agar",
 "confidence": 0.696,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Agar"
 }
 ]
 }
@@ -1714,7 +1714,7 @@
 {
 "content_id": "658420",
 "reference_id": 203495,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Anás y Caifás",
 "media_type": "Text",
 "index_reference": "anás y caifás",
@@ -1803,7 +1803,7 @@
 {
 "content_id": "658400",
 "reference_id": 203475,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Antíoco IV",
 "media_type": "Text",
 "index_reference": "antíoco iv",
@@ -1826,7 +1826,7 @@
 {
 "content_id": "658431",
 "reference_id": 203506,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Apolos",
 "media_type": "Text",
 "index_reference": "apolos",
@@ -1913,9 +1913,9 @@
 {
 "id": "person:Apollos",
 "type": "person",
-"preferred_label": "Apolos",
 "confidence": 0.7636,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Apolos"
 }
 ]
 }
@@ -1923,7 +1923,7 @@
 {
 "content_id": "658371",
 "reference_id": 203446,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Arameos",
 "media_type": "Text",
 "index_reference": "arameos",
@@ -2146,25 +2146,18 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Syria",
+"id": "group:Aramean",
 "type": "group",
-"preferred_label": "Arameo",
-"confidence": 0.5984,
-"match_method": "scored"
+"confidence": 0.6072,
+"match_method": "scored",
+"preferred_label": "Arameo"
 },
 {
 "id": "place:Paddan-aram",
 "type": "place",
-"preferred_label": "Arameo",
-"confidence": 0.5783,
-"match_method": "scored"
-},
-{
-"id": "group:Aramean",
-"type": "group",
-"preferred_label": "Arameo",
-"confidence": 0.5712,
-"match_method": "scored"
+"confidence": 0.5828,
+"match_method": "scored",
+"preferred_label": "Arameo"
 }
 ]
 }
@@ -2172,7 +2165,7 @@
 {
 "content_id": "658379",
 "reference_id": 203454,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Asa",
 "media_type": "Text",
 "index_reference": "asa",
@@ -2241,9 +2234,9 @@
 {
 "id": "person:Asa",
 "type": "person",
-"preferred_label": "Asa",
 "confidence": 0.8092,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Asa"
 }
 ]
 }
@@ -2251,7 +2244,7 @@
 {
 "content_id": "658377",
 "reference_id": 203452,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Asiria",
 "media_type": "Text",
 "index_reference": "asiria",
@@ -2310,7 +2303,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Assyria"
+}
+]
 }
 }
 ]

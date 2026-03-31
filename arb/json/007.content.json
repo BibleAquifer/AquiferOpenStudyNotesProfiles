@@ -2,7 +2,7 @@
 {
 "content_id": "726107",
 "reference_id": 203478,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الفَرِّيسِيُّون",
 "media_type": "Text",
 "index_reference": "الفَرِّيسِيُّون",
@@ -349,13 +349,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.6331,
+"match_method": "scored",
+"preferred_label": "Pharisees"
+}
+]
 }
 },
 {
 "content_id": "726050",
 "reference_id": 203421,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الفلسطينيون",
 "media_type": "Text",
 "index_reference": "الفلسطينيون",
@@ -558,13 +566,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.6944,
+"match_method": "scored",
+"preferred_label": "فِلِشْتِيم"
+}
+]
 }
 },
 {
 "content_id": "726042",
 "reference_id": 203413,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فرعون",
 "media_type": "Text",
 "index_reference": "فرعون",
@@ -653,13 +669,35 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.6921,
+"match_method": "scored",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"confidence": 0.6246,
+"match_method": "scored",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 0.6041,
+"match_method": "scored",
+"preferred_label": "فِرْعَوْنَ"
+}
+]
 }
 },
 {
 "content_id": "726128",
 "reference_id": 203499,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فِيلُبُّس",
 "media_type": "Text",
 "index_reference": "فِيلُبُّس",
@@ -826,13 +864,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Philip.4",
+"type": "person",
+"confidence": 0.6732,
+"match_method": "scored",
+"preferred_label": "فِيلبّسَ"
+}
+]
 }
 },
 {
 "content_id": "726142",
 "reference_id": 203513,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فيلبّي",
 "media_type": "Text",
 "index_reference": "فيلبّي",
@@ -927,7 +973,22 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Philippi",
+"type": "place",
+"confidence": 0.6339,
+"match_method": "scored",
+"preferred_label": "فِيلِبِّي"
+},
+{
+"id": "group:Philippi",
+"type": "group",
+"confidence": 0.6068,
+"match_method": "scored",
+"preferred_label": "Philippians"
+}
+]
 }
 }
 ]

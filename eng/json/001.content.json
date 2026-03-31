@@ -2,7 +2,7 @@
 {
 "content_id": "500468",
 "reference_id": 203411,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aaron",
 "media_type": "Text",
 "index_reference": "aaron",
@@ -149,9 +149,9 @@
 {
 "id": "person:Aaron",
 "type": "person",
-"preferred_label": "Aaron",
 "confidence": 0.6934,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Aaron"
 }
 ]
 }
@@ -159,7 +159,7 @@
 {
 "content_id": "500487",
 "reference_id": 203430,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abiathar",
 "media_type": "Text",
 "index_reference": "abiathar",
@@ -288,9 +288,9 @@
 {
 "id": "person:Abiathar",
 "type": "person",
-"preferred_label": "Abiathar",
 "confidence": 0.6622,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Abiathar"
 }
 ]
 }
@@ -298,7 +298,7 @@
 {
 "content_id": "500494",
 "reference_id": 203437,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abishai",
 "media_type": "Text",
 "index_reference": "abishai",
@@ -451,9 +451,9 @@
 {
 "id": "person:Abishai",
 "type": "person",
-"preferred_label": "Abishai",
 "confidence": 0.6989,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Abishai"
 }
 ]
 }
@@ -461,7 +461,7 @@
 {
 "content_id": "500491",
 "reference_id": 203434,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abner",
 "media_type": "Text",
 "index_reference": "abner",
@@ -578,9 +578,9 @@
 {
 "id": "person:Abner",
 "type": "person",
-"preferred_label": "Abner",
 "confidence": 0.7252,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Abner"
 }
 ]
 }
@@ -588,7 +588,7 @@
 {
 "content_id": "500465",
 "reference_id": 203408,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abraham",
 "media_type": "Text",
 "index_reference": "abraham",
@@ -969,9 +969,9 @@
 {
 "id": "person:Abraham",
 "type": "person",
-"preferred_label": "Abraham",
 "confidence": 0.7433,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Abraham"
 }
 ]
 }
@@ -979,7 +979,7 @@
 {
 "content_id": "500496",
 "reference_id": 203439,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Absalom",
 "media_type": "Text",
 "index_reference": "absalom",
@@ -1114,9 +1114,9 @@
 {
 "id": "person:Absalom",
 "type": "person",
-"preferred_label": "Absalom",
 "confidence": 0.741,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Absalom"
 }
 ]
 }
@@ -1124,7 +1124,7 @@
 {
 "content_id": "500450",
 "reference_id": 203393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Adam and Eve",
 "media_type": "Text",
 "index_reference": "adam and eve",
@@ -1423,7 +1423,7 @@
 {
 "content_id": "500500",
 "reference_id": 203443,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ahab",
 "media_type": "Text",
 "index_reference": "ahab",
@@ -1522,9 +1522,9 @@
 {
 "id": "person:Ahab",
 "type": "person",
-"preferred_label": "Ahab",
 "confidence": 0.6757,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ahab"
 }
 ]
 }
@@ -1532,7 +1532,7 @@
 {
 "content_id": "500506",
 "reference_id": 203449,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ahaz",
 "media_type": "Text",
 "index_reference": "ahaz",
@@ -1613,9 +1613,137 @@
 {
 "id": "person:Ahaz",
 "type": "person",
-"preferred_label": "Ahaz",
 "confidence": 0.7,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ahaz"
+}
+]
+}
+},
+{
+"content_id": "500488",
+"reference_id": 203431,
+"version": "1.0.4",
+"title": "The Amalekites",
+"media_type": "Text",
+"index_reference": "amalekites",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The Amalekites were the descendants of Amalek, a grandson of Esau (<a href=\"https://ref.ly/Gen36:12\">Genesis 36:12</a>; <a href=\"https://ref.ly/1Chr1:36\">1 Chronicles 1:36</a>). They were nomadic herdsmen. Their territory in the Negev stretched from south of Beersheba to the southeast, reaching Elath and Ezion-geber. They likely raided west into the coastal plain, east into the Arabah wastelands, and possibly into Arabia.</p><p>The Amalekites were strong enemies of Israel. Israel first met the Amalekite warriors at Rephidim near Sinai when they attacked Israel (<a href=\"https://ref.ly/Exod17:8-Exod17:16\">Exodus 17:8–16</a>). Joshua and the Israelite army defeated the Amalekites in this battle. Later, the Amalekites stopped Israel&apos;s disobedient attempt to enter the promised land (<a href=\"https://ref.ly/Num14:39-Num14:45\">Numbers 14:39–45</a>). </p><p>Because of their hostility, Moses told Israel to destroy them (<a href=\"https://ref.ly/Deut25:17-Deut25:19\">Deuteronomy 25:17–19</a>). But the Amalekites continued to live in the Negev (see <a href=\"https://ref.ly/Judg3:12-Judg3:14\">Judges 3:12–14</a>; <a href=\"https://ref.ly/Judg6:33\">6:33</a>; <a href=\"https://ref.ly/1Sam14:47-1Sam14:48\">1 Samuel 14:47–48</a>; <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">15:1–35</a>). Those who survived remained enemies of Israel (<a href=\"https://ref.ly/1Sam27:8\">1 Samuel 27:8</a>; <a href=\"https://ref.ly/1Sam30:1-1Sam30:20\">30:1–20</a>; <a href=\"https://ref.ly/2Sam8:11-2Sam8:12\">2 Samuel 8:11–12</a>; <a href=\"https://ref.ly/Ps83:1-Ps83:8\">Psalm 83:1–8</a>). This remaining group was finally destroyed during King Hezekiah&apos;s reign (<a href=\"https://ref.ly/1Chr4:42-1Chr4:43\">1 Chronicles 4:42–43</a>). In the book of Esther, Haman, a descendant of King Agag, showed their hostility to the very end (<a href=\"https://ref.ly/Esth3:1-Esth3:15\">Esther 3</a>; see <a href=\"https://ref.ly/1Sam15:1-1Sam15:35\">1 Samuel 15</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Sam30:1-1Sam30:31\">1 Samuel 30:1–31</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01036012",
+"start_ref_usfm": "GEN 36:12",
+"end_ref": "01036012",
+"end_ref_usfm": "GEN 36:12"
+},
+{
+"start_ref": "07006033",
+"start_ref_usfm": "JDG 6:33",
+"end_ref": "07006033",
+"end_ref_usfm": "JDG 6:33"
+},
+{
+"start_ref": "09027008",
+"start_ref_usfm": "1SA 27:8",
+"end_ref": "09027008",
+"end_ref_usfm": "1SA 27:8"
+},
+{
+"start_ref": "13001036",
+"start_ref_usfm": "1CH 1:36",
+"end_ref": "13001036",
+"end_ref_usfm": "1CH 1:36"
+},
+{
+"start_ref": "02017008",
+"start_ref_usfm": "EXO 17:8",
+"end_ref": "02017016",
+"end_ref_usfm": "EXO 17:16"
+},
+{
+"start_ref": "09015001",
+"start_ref_usfm": "1SA 15:1",
+"end_ref": "09015035",
+"end_ref_usfm": "1SA 15:35"
+},
+{
+"start_ref": "04014039",
+"start_ref_usfm": "NUM 14:39",
+"end_ref": "04014045",
+"end_ref_usfm": "NUM 14:45"
+},
+{
+"start_ref": "05025017",
+"start_ref_usfm": "DEU 25:17",
+"end_ref": "05025019",
+"end_ref_usfm": "DEU 25:19"
+},
+{
+"start_ref": "07003012",
+"start_ref_usfm": "JDG 3:12",
+"end_ref": "07003014",
+"end_ref_usfm": "JDG 3:14"
+},
+{
+"start_ref": "09014047",
+"start_ref_usfm": "1SA 14:47",
+"end_ref": "09014048",
+"end_ref_usfm": "1SA 14:48"
+},
+{
+"start_ref": "09030001",
+"start_ref_usfm": "1SA 30:1",
+"end_ref": "09030020",
+"end_ref_usfm": "1SA 30:20"
+},
+{
+"start_ref": "10008011",
+"start_ref_usfm": "2SA 8:11",
+"end_ref": "10008012",
+"end_ref_usfm": "2SA 8:12"
+},
+{
+"start_ref": "17003001",
+"start_ref_usfm": "EST 3:1",
+"end_ref": "17003015",
+"end_ref_usfm": "EST 3:15"
+},
+{
+"start_ref": "09030001",
+"start_ref_usfm": "1SA 30:1",
+"end_ref": "09030031",
+"end_ref_usfm": "1SA 30:31"
+},
+{
+"start_ref": "13004042",
+"start_ref_usfm": "1CH 4:42",
+"end_ref": "13004043",
+"end_ref_usfm": "1CH 4:43"
+},
+{
+"start_ref": "19083001",
+"start_ref_usfm": "PSA 83:1",
+"end_ref": "19083008",
+"end_ref_usfm": "PSA 83:8"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.6293,
+"match_method": "scored",
+"preferred_label": "Amalek"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 0.5797,
+"match_method": "scored",
+"preferred_label": "Amalekites"
 }
 ]
 }
@@ -1623,7 +1751,7 @@
 {
 "content_id": "500552",
 "reference_id": 203495,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Annas and Caiaphas",
 "media_type": "Text",
 "index_reference": "annas and caiaphas",
@@ -1712,7 +1840,7 @@
 {
 "content_id": "500532",
 "reference_id": 203475,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Antiochus IV",
 "media_type": "Text",
 "index_reference": "antiochus iv",
@@ -1735,7 +1863,7 @@
 {
 "content_id": "500563",
 "reference_id": 203506,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Apollos",
 "media_type": "Text",
 "index_reference": "apollos",
@@ -1822,9 +1950,9 @@
 {
 "id": "person:Apollos",
 "type": "person",
-"preferred_label": "Apollos",
 "confidence": 0.7636,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Apollos"
 }
 ]
 }
@@ -1832,7 +1960,7 @@
 {
 "content_id": "500503",
 "reference_id": 203446,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Arameans",
 "media_type": "Text",
 "index_reference": "arameans",
@@ -2057,16 +2185,16 @@
 {
 "id": "group:Aramean",
 "type": "group",
-"preferred_label": "Arameans",
 "confidence": 0.6072,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Arameans"
 },
 {
 "id": "place:Paddan-aram",
 "type": "place",
-"preferred_label": "Paddan-aram",
 "confidence": 0.5828,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Paddan-aram"
 }
 ]
 }
@@ -2074,7 +2202,7 @@
 {
 "content_id": "500511",
 "reference_id": 203454,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Asa",
 "media_type": "Text",
 "index_reference": "asa",
@@ -2143,9 +2271,9 @@
 {
 "id": "person:Asa",
 "type": "person",
-"preferred_label": "Asa",
 "confidence": 0.8092,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Asa"
 }
 ]
 }
@@ -2153,7 +2281,7 @@
 {
 "content_id": "500509",
 "reference_id": 203452,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Assyria",
 "media_type": "Text",
 "index_reference": "assyria",
@@ -2216,9 +2344,9 @@
 {
 "id": "place:Assyria",
 "type": "place",
-"preferred_label": "Assyria",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Assyria"
 }
 ]
 }

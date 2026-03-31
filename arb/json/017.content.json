@@ -2,7 +2,7 @@
 {
 "content_id": "726049",
 "reference_id": 203420,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كَالَب",
 "media_type": "Text",
 "index_reference": "كَالَب",
@@ -149,79 +149,9 @@
 {
 "id": "person:Caleb",
 "type": "person",
-"preferred_label": "كَالِب",
-"confidence": 0.9308,
-"match_method": "embedding"
-},
-{
-"id": "person:Caleb.2",
-"type": "person",
-"preferred_label": "كَالِب",
-"confidence": 0.9308,
-"match_method": "embedding"
-},
-{
-"id": "person:Heleb",
-"type": "person",
-"preferred_label": "خَالَب",
-"confidence": 0.8928,
-"match_method": "embedding"
-},
-{
-"id": "person:Bela",
-"type": "person",
-"preferred_label": "بَالَع",
-"confidence": 0.8449,
-"match_method": "embedding"
-},
-{
-"id": "person:Bela.2",
-"type": "person",
-"preferred_label": "بَالَع",
-"confidence": 0.8449,
-"match_method": "embedding"
-},
-{
-"id": "person:Bela.3",
-"type": "person",
-"preferred_label": "بَالَع",
-"confidence": 0.8449,
-"match_method": "embedding"
-},
-{
-"id": "person:Pelet",
-"type": "person",
-"preferred_label": "فَالَط",
-"confidence": 0.8172,
-"match_method": "embedding"
-},
-{
-"id": "person:Pelet.2",
-"type": "person",
-"preferred_label": "فَالَط",
-"confidence": 0.8172,
-"match_method": "embedding"
-},
-{
-"id": "person:Zelek",
-"type": "person",
-"preferred_label": "صَالَق",
-"confidence": 0.8169,
-"match_method": "embedding"
-},
-{
-"id": "person:Telem",
-"type": "person",
-"preferred_label": "طَالَم",
-"confidence": 0.8163,
-"match_method": "embedding"
-},
-{
-"id": "place:Telem",
-"type": "place",
-"preferred_label": "طَالَم",
-"confidence": 0.8163,
-"match_method": "embedding"
+"confidence": 0.6926,
+"match_method": "scored",
+"preferred_label": "كَالِب"
 }
 ]
 }
@@ -229,7 +159,7 @@
 {
 "content_id": "726139",
 "reference_id": 203510,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كنيسة رومية",
 "media_type": "Text",
 "index_reference": "كنيسة رومية",
@@ -312,7 +242,7 @@
 {
 "content_id": "726087",
 "reference_id": 203458,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كُورَش الثاني",
 "media_type": "Text",
 "index_reference": "كُورَش الثاني",
@@ -401,13 +331,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Cyrus",
+"type": "person",
+"confidence": 0.6224,
+"match_method": "scored",
+"preferred_label": "كورَشَ"
+}
+]
 }
 },
 {
 "content_id": "726140",
 "reference_id": 203511,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كورنثوس",
 "media_type": "Text",
 "index_reference": "كورنثوس",
@@ -496,7 +434,22 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Corinth",
+"type": "place",
+"confidence": 0.6149,
+"match_method": "scored",
+"preferred_label": "كورِنْثوسَ"
+},
+{
+"id": "group:Corinth",
+"type": "group",
+"confidence": 0.603,
+"match_method": "scored",
+"preferred_label": "Corinthians"
+}
+]
 }
 }
 ]

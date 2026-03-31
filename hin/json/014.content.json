@@ -2,7 +2,7 @@
 {
 "content_id": "654271",
 "reference_id": 203470,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नबूकदनेस्सर II",
 "media_type": "Text",
 "index_reference": "नबूकदनेस्सर II",
@@ -209,9 +209,9 @@
 {
 "id": "person:Nebuchadnezzar",
 "type": "person",
-"preferred_label": "नबूकदनेस्सर",
-"confidence": 0.631,
-"match_method": "scored"
+"confidence": 0.64,
+"match_method": "scored",
+"preferred_label": "नबूकदनेस्सर"
 }
 ]
 }
@@ -219,7 +219,7 @@
 {
 "content_id": "654262",
 "reference_id": 203461,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नहेम्याह",
 "media_type": "Text",
 "index_reference": "नहेम्याह",
@@ -318,23 +318,23 @@
 {
 "id": "person:Nehemiah.2",
 "type": "person",
-"preferred_label": "नहेम्याह",
 "confidence": 0.6057,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "नहेम्याह"
 },
 {
 "id": "person:Nehemiah",
 "type": "person",
-"preferred_label": "नहेम्याह",
 "confidence": 0.6011,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "नहेम्याह"
 },
 {
 "id": "person:Nehemiah.3",
 "type": "person",
-"preferred_label": "नहेम्याह",
 "confidence": 0.6011,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "नहेम्याह"
 }
 ]
 }
@@ -342,7 +342,7 @@
 {
 "content_id": "654292",
 "reference_id": 203491,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नीकुदेमुस",
 "media_type": "Text",
 "index_reference": "नीकुदेमुस",
@@ -393,9 +393,9 @@
 {
 "id": "person:Nicodemus",
 "type": "person",
-"preferred_label": "नीकुदेमुस",
 "confidence": 0.7333,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "नीकुदेमुस"
 }
 ]
 }
@@ -403,7 +403,7 @@
 {
 "content_id": "654310",
 "reference_id": 203509,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नीरो",
 "media_type": "Text",
 "index_reference": "नीरो",
@@ -472,9 +472,9 @@
 {
 "id": "person:Nero",
 "type": "person",
-"preferred_label": "Nero",
-"confidence": 0.8219,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Nero"
 }
 ]
 }
@@ -482,7 +482,7 @@
 {
 "content_id": "654195",
 "reference_id": 203394,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नूह",
 "media_type": "Text",
 "index_reference": "नूह",
@@ -617,9 +617,9 @@
 {
 "id": "person:Noah",
 "type": "person",
-"preferred_label": "नूह",
 "confidence": 0.7235,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "नूह"
 }
 ]
 }

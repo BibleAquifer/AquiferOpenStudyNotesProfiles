@@ -2,7 +2,7 @@
 {
 "content_id": "658378",
 "reference_id": 203453,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babilonia",
 "media_type": "Text",
 "index_reference": "babilonia",
@@ -113,16 +113,30 @@
 {
 "id": "place:Babylon",
 "type": "place",
-"preferred_label": "Babilonia",
 "confidence": 0.6782,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Babilonia"
 },
 {
 "id": "place:Shinar",
 "type": "place",
-"preferred_label": "Shinar",
-"confidence": 0.5549,
-"match_method": "scored"
+"confidence": 0.6044,
+"match_method": "scored",
+"preferred_label": "Shinar"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylonia"
+},
+{
+"id": "place:Babylon.2",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylon"
 }
 ]
 }
@@ -130,7 +144,7 @@
 {
 "content_id": "658341",
 "reference_id": 203416,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Balaam",
 "media_type": "Text",
 "index_reference": "balaam",
@@ -255,9 +269,9 @@
 {
 "id": "person:Balaam",
 "type": "person",
-"preferred_label": "Balaam",
 "confidence": 0.7806,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Balaam"
 }
 ]
 }
@@ -265,7 +279,7 @@
 {
 "content_id": "658392",
 "reference_id": 203467,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baruch",
 "media_type": "Text",
 "index_reference": "baruch",
@@ -376,9 +390,9 @@
 {
 "id": "person:Baruch.4",
 "type": "person",
-"preferred_label": "Baruch",
 "confidence": 0.6777,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Baruch"
 }
 ]
 }
@@ -386,10 +400,10 @@
 {
 "content_id": "658360",
 "reference_id": 203435,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bath-sheba",
 "media_type": "Text",
-"index_reference": "bath-sheba",
+"index_reference": "bathsheba",
 "language": "spa",
 "review_level": "None",
 "content": "<p><span>Bath-sheba</span>, la esposa de <span>Uría Hetheo</span>, era hija de Eliam (<a href=\"https://ref.ly/2Sam11:3\">2 Samuel 11.3</a>; ver también <a href=\"https://ref.ly/1Chr3:5\">1 Crónicas 3.5</a>). Era nieta de <span>Achitophel Gilonita</span>, el consejero del rey (<a href=\"https://ref.ly/2Sam15:12\">2 Samuel 15.12</a>; <a href=\"https://ref.ly/2Sam23:34\">23.34</a>). Su esposo, Uría Hetheo, era un soldado Hitita. Formaba parte del ejército del rey David y era uno de los valientes guerreros de David (<a href=\"https://ref.ly/2Sam23:39\">2 Samuel 23.39</a>).</p><p>Una primavera, David permaneció en Jerusalem mientras el ejército iba a la batalla (<a href=\"https://ref.ly/2Sam11:1\">2 Samuel 11.1</a>). Al mediodía, mientras descansaba, David paseaba por su techo con vista a la ciudad y vio a la hermosa <span>Bath-sheba</span> bañándose. Ordenó que la llevaran a sus aposentos privados. Luego tuvo relaciones sexuales con ella, y ella quedó embarazada (<a href=\"https://ref.ly/2Sam11:2-2Sam11:4\">2 Samuel 11.2–4</a>).</p><p>David no quería que la gente descubriera lo que había hecho mal, así que intentó ocultarlo. Le dijo a Joab, el general, que hiciera que <span>Uría Hetheo</span> trajera un informe de las líneas de batalla. David esperaba que <span>Uría Hetheo</span> regresara a casa y tuviera relaciones sexuales con Bath-sheba, lo que haría parecer que ella había quedado embarazada de Uría Hetheo. Sin embargo, Uría Hetheo sentía que todavía estaba de servicio, así que durmió en la puerta del palacio (<a href=\"https://ref.ly/2Sam11:5-2Sam11:13\">2 Samuel 11.5–13</a>).</p><p>Cuando David le preguntó sobre esto, Uría Hetheo respondió que no podía dormir con su esposa mientras el arca de la alianza y los ejércitos de Israel estaban en guerra. Esta respuesta dejó a David en una posición incómoda. Uría Hetheo ni siquiera era israelita, pero estaba dispuesto a regresar a la batalla, evitando estar con su esposa (ver <a href=\"https://ref.ly/Lev15:16-Lev15:18\">Levítico 15.16–18</a>). Sin embargo, David se quedó en casa e intentó ocultar su adulterio. Luego, David envió a Uría Hetheo de regreso y ordenó a Joab que se asegurara de que Uría Hetheo muriera en batalla (<a href=\"https://ref.ly/2Sam11:14-2Sam11:25\">2 Samuel 11.14–25</a>). La muerte de Uría Hetheo no mantuvo en secreto el pecado de David. El Señor envió al profeta Nathán para confrontar a David, y David confesó su pecado y se arrepintió (<a href=\"https://ref.ly/2Sam12:1-2Sam12:14\">2 Samuel 12.1–14</a>; ver <a href=\"https://ref.ly/Ps51:1-Ps51:19\">Salmo 51</a>).</p><p>El bebé de Bath-sheba se enfermó y murió, tal como Nathán había predicho. Después del período de duelo de Bath-sheba, David la llevó al palacio como su esposa. David y Bath-sheba tuvieron otros hijos, entre ellos:</p><ul><li><p>Sima</p></li><li><p>Sobab</p></li><li><p>Nathán</p></li><li><p>Salomón (<a href=\"https://ref.ly/2Sam12:15-2Sam12:25\">2 Samuel 12.15–25</a>; <a href=\"https://ref.ly/1Chr3:5\">1 Crónicas 3.5</a>)</p></li></ul><p>Durante el resto de la vida de David, sus esposas e hijos se enfrentaron entre sí por el poder. La peor de estas luchas familiares ocurrió cuando David era anciano. En ese momento, Bath-sheba se esforzó para garantizar que su hijo Salomón se convirtiera en el próximo rey (<a href=\"https://ref.ly/1Kgs1:1-1Kgs1:53\">1 Reyes 1.1–53</a>).</p><p>Cuando Mateo enumera la historia familiar de Jesús el Mesías, menciona tanto a Salomón como a Bath-sheba (<a href=\"https://ref.ly/Matt1:6\">Mateo 1.6</a>). Ella es descrita como “la esposa de Uría Hetheo”. Esto nos recuerda el pecado que la llevó a la familia de David y el favor misericordioso de Dios hacia sus descendientes.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/2Sam11:1-2Sam12:25\">2 Samuel 11.1–12.25</a>; <a href=\"https://ref.ly/1Kgs1:5-1Kgs2:25\">1 Reyes 1.5–2.25</a>; <a href=\"https://ref.ly/Ps51:1-Ps51:19\">Salmo 51.1–19</a></p>",
@@ -503,9 +517,9 @@
 {
 "id": "person:Bathsheba",
 "type": "person",
-"preferred_label": "Bath-sheba",
 "confidence": 0.628,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Bath-sheba"
 }
 ]
 }
@@ -513,7 +527,7 @@
 {
 "content_id": "658422",
 "reference_id": 203497,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bernabé",
 "media_type": "Text",
 "index_reference": "bernabé",
@@ -630,9 +644,16 @@
 {
 "id": "person:Barnabas",
 "type": "person",
-"preferred_label": "Bernabé",
 "confidence": 0.6611,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Bernabé"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 0.5536,
+"match_method": "scored",
+"preferred_label": "Judas"
 }
 ]
 }

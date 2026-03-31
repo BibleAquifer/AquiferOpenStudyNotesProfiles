@@ -2,7 +2,7 @@
 {
 "content_id": "734374",
 "reference_id": 203474,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zerubabeli",
 "media_type": "Text",
 "index_reference": "zerubabeli",
@@ -65,9 +65,9 @@
 {
 "id": "person:Zerubbabel.2",
 "type": "person",
-"preferred_label": "Zerubabeli",
 "confidence": 0.6404,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Zerubabeli"
 }
 ]
 }

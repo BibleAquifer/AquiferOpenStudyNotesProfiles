@@ -2,7 +2,7 @@
 {
 "content_id": "654206",
 "reference_id": 203405,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "लिआ",
 "media_type": "Text",
 "index_reference": "लिआ",
@@ -143,9 +143,9 @@
 {
 "id": "person:Leah",
 "type": "person",
-"preferred_label": "लिआ",
 "confidence": 0.6855,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "लिआ"
 }
 ]
 }
@@ -153,7 +153,7 @@
 {
 "content_id": "654305",
 "reference_id": 203504,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "लूका",
 "media_type": "Text",
 "index_reference": "लूका",
@@ -228,9 +228,9 @@
 {
 "id": "person:Luke",
 "type": "person",
-"preferred_label": "लूका",
 "confidence": 0.6857,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "लूका"
 }
 ]
 }
@@ -238,7 +238,7 @@
 {
 "content_id": "654200",
 "reference_id": 203399,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "लूत",
 "media_type": "Text",
 "index_reference": "लूत",
@@ -361,9 +361,9 @@
 {
 "id": "person:Lot",
 "type": "person",
-"preferred_label": "लूत",
 "confidence": 0.7374,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "लूत"
 }
 ]
 }

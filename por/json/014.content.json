@@ -2,7 +2,7 @@
 {
 "content_id": "658559",
 "reference_id": 203482,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "O Alto Conselho Judaico",
 "media_type": "Text",
 "index_reference": "o alto conselho judaico",
@@ -115,7 +115,7 @@
 {
 "content_id": "658548",
 "reference_id": 203471,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "O Filho do Homem",
 "media_type": "Text",
 "index_reference": "o filho do homem",
@@ -276,7 +276,7 @@
 {
 "content_id": "658508",
 "reference_id": 203431,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Os amalequitas",
 "media_type": "Text",
 "index_reference": "os amalequitas",
@@ -387,9 +387,16 @@
 {
 "id": "place:Amalek",
 "type": "place",
-"preferred_label": "Ameleque",
-"confidence": 0.5573,
-"match_method": "scored"
+"confidence": 0.6293,
+"match_method": "scored",
+"preferred_label": "Ameleque"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 0.5797,
+"match_method": "scored",
+"preferred_label": "Amalekites"
 }
 ]
 }
@@ -397,7 +404,7 @@
 {
 "content_id": "658555",
 "reference_id": 203478,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Os Fariseus",
 "media_type": "Text",
 "index_reference": "os fariseus",
@@ -744,13 +751,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.6331,
+"match_method": "scored",
+"preferred_label": "Pharisees"
+}
+]
 }
 },
 {
 "content_id": "658498",
 "reference_id": 203421,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Os Filisteus",
 "media_type": "Text",
 "index_reference": "os filisteus",
@@ -957,9 +972,9 @@
 {
 "id": "group:Philistine",
 "type": "group",
-"preferred_label": "Filisteu",
-"confidence": 0.6719,
-"match_method": "scored"
+"confidence": 0.6944,
+"match_method": "scored",
+"preferred_label": "Filisteu"
 }
 ]
 }
@@ -967,7 +982,7 @@
 {
 "content_id": "658549",
 "reference_id": 203472,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Os Gregos",
 "media_type": "Text",
 "index_reference": "os gregos",
@@ -984,13 +999,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.58,
+"match_method": "scored",
+"preferred_label": "Sheep"
+}
+]
 }
 },
 {
 "content_id": "658537",
 "reference_id": 203460,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Os Medos e Persas",
 "media_type": "Text",
 "index_reference": "os medos e persas",
@@ -1031,7 +1054,7 @@
 {
 "content_id": "658558",
 "reference_id": 203481,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Os Saduceus",
 "media_type": "Text",
 "index_reference": "os saduceus",
@@ -1126,7 +1149,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Sadducee",
+"type": "group",
+"confidence": 0.5865,
+"match_method": "scored",
+"preferred_label": "Sadducees"
+}
+]
 }
 }
 ]

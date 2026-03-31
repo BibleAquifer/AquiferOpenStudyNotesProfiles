@@ -2,7 +2,7 @@
 {
 "content_id": "654295",
 "reference_id": 203494,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "जब्दी का पुत्र यूहन्ना",
 "media_type": "Text",
 "index_reference": "जब्दी का पुत्र यूहन्ना",
@@ -319,7 +319,7 @@
 {
 "content_id": "654275",
 "reference_id": 203474,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "जरुब्बाबेल",
 "media_type": "Text",
 "index_reference": "जरुब्बाबेल",
@@ -382,9 +382,9 @@
 {
 "id": "person:Zerubbabel.2",
 "type": "person",
-"preferred_label": "जरूब्बाबेल",
-"confidence": 0.5954,
-"match_method": "scored"
+"confidence": 0.6404,
+"match_method": "scored",
+"preferred_label": "जरूब्बाबेल"
 }
 ]
 }

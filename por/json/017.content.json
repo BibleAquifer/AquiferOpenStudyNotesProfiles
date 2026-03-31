@@ -2,7 +2,7 @@
 {
 "content_id": "658517",
 "reference_id": 203440,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Salomão",
 "media_type": "Text",
 "index_reference": "salomão",
@@ -131,9 +131,9 @@
 {
 "id": "person:Solomon",
 "type": "person",
-"preferred_label": "Salomão",
 "confidence": 0.7211,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Salomão"
 }
 ]
 }
@@ -141,7 +141,7 @@
 {
 "content_id": "658569",
 "reference_id": 203492,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samaritanos",
 "media_type": "Text",
 "index_reference": "samaritanos",
@@ -180,9 +180,9 @@
 {
 "id": "group:Samaritan",
 "type": "group",
-"preferred_label": "Samaritans",
-"confidence": 0.5951,
-"match_method": "scored"
+"confidence": 0.6176,
+"match_method": "scored",
+"preferred_label": "Samaritans"
 }
 ]
 }
@@ -190,7 +190,7 @@
 {
 "content_id": "658509",
 "reference_id": 203432,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samuel",
 "media_type": "Text",
 "index_reference": "samuel",
@@ -391,9 +391,9 @@
 {
 "id": "person:Samuel",
 "type": "person",
-"preferred_label": "Samuel",
 "confidence": 0.7249,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Samuel"
 }
 ]
 }
@@ -401,7 +401,7 @@
 {
 "content_id": "658501",
 "reference_id": 203424,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sansão",
 "media_type": "Text",
 "index_reference": "sansão",
@@ -476,9 +476,9 @@
 {
 "id": "person:Samson",
 "type": "person",
-"preferred_label": "Sansão",
 "confidence": 0.7178,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Sansão"
 }
 ]
 }
@@ -486,7 +486,7 @@
 {
 "content_id": "658475",
 "reference_id": 203398,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sara",
 "media_type": "Text",
 "index_reference": "sara",
@@ -669,9 +669,9 @@
 {
 "id": "person:Sarah",
 "type": "person",
-"preferred_label": "Sara",
 "confidence": 0.7007,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Sara"
 }
 ]
 }
@@ -679,7 +679,7 @@
 {
 "content_id": "658541",
 "reference_id": 203464,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Satanás",
 "media_type": "Text",
 "index_reference": "satanás",
@@ -1006,9 +1006,9 @@
 {
 "id": "deity:Satan",
 "type": "deity",
-"preferred_label": "Satanás",
 "confidence": 0.7138,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Satanás"
 }
 ]
 }
@@ -1016,7 +1016,7 @@
 {
 "content_id": "658504",
 "reference_id": 203427,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Saul",
 "media_type": "Text",
 "index_reference": "saul",
@@ -1085,9 +1085,9 @@
 {
 "id": "person:Saul.2",
 "type": "person",
-"preferred_label": "Saul",
 "confidence": 0.7601,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Saul"
 }
 ]
 }
@@ -1095,7 +1095,7 @@
 {
 "content_id": "658557",
 "reference_id": 203480,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Simão Pedro",
 "media_type": "Text",
 "index_reference": "simão pedro",
@@ -1800,9 +1800,9 @@
 {
 "id": "person:Peter",
 "type": "person",
-"preferred_label": "Pedro",
-"confidence": 0.5743,
-"match_method": "scored"
+"confidence": 0.6823,
+"match_method": "scored",
+"preferred_label": "Pedro"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "650812",
 "reference_id": 203396,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "夏甲",
 "media_type": "Text",
 "index_reference": "夏甲",
@@ -79,7 +79,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hagar",
+"type": "person",
+"confidence": 0.696,
+"match_method": "scored",
+"preferred_label": "Hagar"
+}
+]
 }
 }
 ]

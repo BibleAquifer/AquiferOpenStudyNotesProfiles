@@ -2,7 +2,7 @@
 {
 "content_id": "650869",
 "reference_id": 203453,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "巴比倫",
 "media_type": "Text",
 "index_reference": "巴比倫",
@@ -117,13 +117,42 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.6782,
+"match_method": "scored",
+"preferred_label": "Babylon"
+},
+{
+"id": "place:Shinar",
+"type": "place",
+"confidence": 0.6044,
+"match_method": "scored",
+"preferred_label": "Shinar"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylonia"
+},
+{
+"id": "place:Babylon.2",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylon"
+}
+]
 }
 },
 {
 "content_id": "650832",
 "reference_id": 203416,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "巴蘭",
 "media_type": "Text",
 "index_reference": "巴蘭",
@@ -244,13 +273,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Balaam",
+"type": "person",
+"confidence": 0.7806,
+"match_method": "scored",
+"preferred_label": "Balaam"
+}
+]
 }
 },
 {
 "content_id": "650883",
 "reference_id": 203467,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "巴錄",
 "media_type": "Text",
 "index_reference": "巴錄",
@@ -357,13 +394,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Baruch.4",
+"type": "person",
+"confidence": 0.6777,
+"match_method": "scored",
+"preferred_label": "Baruch"
+}
+]
 }
 },
 {
 "content_id": "650913",
 "reference_id": 203497,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "巴拿巴",
 "media_type": "Text",
 "index_reference": "巴拿巴",
@@ -476,13 +521,28 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 0.6611,
+"match_method": "scored",
+"preferred_label": "Barnabas"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 0.5536,
+"match_method": "scored",
+"preferred_label": "Judas"
+}
+]
 }
 },
 {
 "content_id": "650851",
 "reference_id": 203435,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "拔示巴",
 "media_type": "Text",
 "index_reference": "拔示巴",
@@ -595,7 +655,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Bathsheba",
+"type": "person",
+"confidence": 0.628,
+"match_method": "scored",
+"preferred_label": "Bathsheba"
+}
+]
 }
 }
 ]

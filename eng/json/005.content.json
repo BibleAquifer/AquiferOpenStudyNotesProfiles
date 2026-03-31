@@ -2,7 +2,7 @@
 {
 "content_id": "500467",
 "reference_id": 203410,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Egypt",
 "media_type": "Text",
 "index_reference": "egypt",
@@ -131,16 +131,16 @@
 {
 "id": "place:Egypt",
 "type": "place",
-"preferred_label": "Egypt",
 "confidence": 0.7031,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Egypt"
 },
 {
 "id": "place:Syene",
 "type": "place",
-"preferred_label": "Syene",
 "confidence": 0.6004,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Syene"
 }
 ]
 }
@@ -148,7 +148,7 @@
 {
 "content_id": "500472",
 "reference_id": 203415,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Eleazar",
 "media_type": "Text",
 "index_reference": "eleazar",
@@ -277,9 +277,9 @@
 {
 "id": "person:Eleazar.2",
 "type": "person",
-"preferred_label": "Eleazar",
 "confidence": 0.6884,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Eleazar"
 }
 ]
 }
@@ -287,7 +287,7 @@
 {
 "content_id": "500483",
 "reference_id": 203426,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Eli",
 "media_type": "Text",
 "index_reference": "eli",
@@ -380,16 +380,16 @@
 {
 "id": "person:Eli",
 "type": "person",
-"preferred_label": "Eli",
 "confidence": 0.7302,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Eli"
 },
 {
 "id": "deity:Lord",
 "type": "deity",
-"preferred_label": "LORD",
 "confidence": 0.6779,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "LORD"
 }
 ]
 }
@@ -397,7 +397,7 @@
 {
 "content_id": "500502",
 "reference_id": 203445,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Elijah",
 "media_type": "Text",
 "index_reference": "elijah",
@@ -640,9 +640,9 @@
 {
 "id": "person:Elijah",
 "type": "person",
-"preferred_label": "Elijah",
 "confidence": 0.6771,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Elijah"
 }
 ]
 }
@@ -650,7 +650,7 @@
 {
 "content_id": "500504",
 "reference_id": 203447,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Elisha",
 "media_type": "Text",
 "index_reference": "elisha",
@@ -791,9 +791,9 @@
 {
 "id": "person:Elisha",
 "type": "person",
-"preferred_label": "Elisha",
 "confidence": 0.6646,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Elisha"
 }
 ]
 }
@@ -801,7 +801,7 @@
 {
 "content_id": "500569",
 "reference_id": 203512,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ephesus",
 "media_type": "Text",
 "index_reference": "ephesus",
@@ -902,16 +902,16 @@
 {
 "id": "place:Ephesus",
 "type": "place",
-"preferred_label": "Ephesus",
 "confidence": 0.6605,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ephesus"
 },
 {
 "id": "group:Ephesus",
 "type": "group",
-"preferred_label": "Ephesians",
 "confidence": 0.614,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ephesians"
 }
 ]
 }
@@ -919,7 +919,7 @@
 {
 "content_id": "500460",
 "reference_id": 203403,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Esau",
 "media_type": "Text",
 "index_reference": "esau",
@@ -1110,16 +1110,16 @@
 {
 "id": "person:Esau",
 "type": "person",
-"preferred_label": "Esau",
 "confidence": 0.7326,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Esau"
 },
 {
 "id": "place:Edom",
 "type": "place",
-"preferred_label": "Edom",
 "confidence": 0.6622,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Edom"
 }
 ]
 }
@@ -1127,7 +1127,7 @@
 {
 "content_id": "500519",
 "reference_id": 203462,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Esther",
 "media_type": "Text",
 "index_reference": "esther",
@@ -1178,9 +1178,9 @@
 {
 "id": "person:Esther",
 "type": "person",
-"preferred_label": "Esther",
 "confidence": 0.695,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Esther"
 }
 ]
 }
@@ -1188,7 +1188,7 @@
 {
 "content_id": "500525",
 "reference_id": 203468,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ezekiel",
 "media_type": "Text",
 "index_reference": "ezekiel",
@@ -1239,9 +1239,9 @@
 {
 "id": "person:Ezekiel",
 "type": "person",
-"preferred_label": "Ezekiel",
 "confidence": 0.6138,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ezekiel"
 }
 ]
 }
@@ -1249,7 +1249,7 @@
 {
 "content_id": "500516",
 "reference_id": 203459,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ezra",
 "media_type": "Text",
 "index_reference": "ezra",
@@ -1414,16 +1414,16 @@
 {
 "id": "person:Ezra",
 "type": "person",
-"preferred_label": "Ezra",
 "confidence": 0.6607,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ezra"
 },
 {
 "id": "person:Ezra.2",
 "type": "person",
-"preferred_label": "Ezra",
 "confidence": 0.6028,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ezra"
 }
 ]
 }

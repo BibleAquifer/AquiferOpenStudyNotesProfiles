@@ -2,7 +2,7 @@
 {
 "content_id": "734330",
 "reference_id": 203430,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abiathari",
 "media_type": "Text",
 "index_reference": "abiathari",
@@ -131,9 +131,9 @@
 {
 "id": "person:Abiathar",
 "type": "person",
-"preferred_label": "Abiathari",
 "confidence": 0.6622,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Abiathari"
 }
 ]
 }
@@ -141,7 +141,7 @@
 {
 "content_id": "734337",
 "reference_id": 203437,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abishai",
 "media_type": "Text",
 "index_reference": "abishai",
@@ -294,9 +294,9 @@
 {
 "id": "person:Abishai",
 "type": "person",
-"preferred_label": "Abishai",
 "confidence": 0.6989,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Abishai"
 }
 ]
 }
@@ -304,7 +304,7 @@
 {
 "content_id": "734334",
 "reference_id": 203434,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abneri",
 "media_type": "Text",
 "index_reference": "abneri",
@@ -421,9 +421,9 @@
 {
 "id": "person:Abner",
 "type": "person",
-"preferred_label": "Abneri",
 "confidence": 0.7252,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Abneri"
 }
 ]
 }
@@ -431,7 +431,7 @@
 {
 "content_id": "734308",
 "reference_id": 203408,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abrahamu",
 "media_type": "Text",
 "index_reference": "abrahamu",
@@ -812,9 +812,9 @@
 {
 "id": "person:Abraham",
 "type": "person",
-"preferred_label": "Abrahamu",
 "confidence": 0.7433,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Abrahamu"
 }
 ]
 }
@@ -822,7 +822,7 @@
 {
 "content_id": "734339",
 "reference_id": 203439,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Absalomu",
 "media_type": "Text",
 "index_reference": "absalomu",
@@ -957,9 +957,9 @@
 {
 "id": "person:Absalom",
 "type": "person",
-"preferred_label": "Absalomu",
 "confidence": 0.741,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Absalomu"
 }
 ]
 }
@@ -967,7 +967,7 @@
 {
 "content_id": "734293",
 "reference_id": 203393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Adam na Hawa",
 "media_type": "Text",
 "index_reference": "adam na hawa",
@@ -1266,7 +1266,7 @@
 {
 "content_id": "734343",
 "reference_id": 203443,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ahabu",
 "media_type": "Text",
 "index_reference": "ahabu",
@@ -1365,9 +1365,9 @@
 {
 "id": "person:Ahab",
 "type": "person",
-"preferred_label": "Ahabu",
 "confidence": 0.6757,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ahabu"
 }
 ]
 }
@@ -1375,7 +1375,7 @@
 {
 "content_id": "734363",
 "reference_id": 203463,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ahasuwero I",
 "media_type": "Text",
 "index_reference": "ahasuwero i",
@@ -1408,9 +1408,9 @@
 {
 "id": "person:Ahasuerus",
 "type": "person",
-"preferred_label": "Ahasuero",
-"confidence": 0.6818,
-"match_method": "scored"
+"confidence": 0.7178,
+"match_method": "scored",
+"preferred_label": "Ahasuero"
 }
 ]
 }
@@ -1418,7 +1418,7 @@
 {
 "content_id": "734349",
 "reference_id": 203449,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ahazi",
 "media_type": "Text",
 "index_reference": "ahazi",
@@ -1499,9 +1499,9 @@
 {
 "id": "person:Ahaz",
 "type": "person",
-"preferred_label": "Ahazi",
 "confidence": 0.7,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ahazi"
 }
 ]
 }
@@ -1509,7 +1509,7 @@
 {
 "content_id": "734395",
 "reference_id": 203495,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Anasi na Kayafa",
 "media_type": "Text",
 "index_reference": "anasi na kayafa",
@@ -1598,7 +1598,7 @@
 {
 "content_id": "734375",
 "reference_id": 203475,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Antioko IV",
 "media_type": "Text",
 "index_reference": "antioko iv",
@@ -1621,7 +1621,7 @@
 {
 "content_id": "734406",
 "reference_id": 203506,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Apolo",
 "media_type": "Text",
 "index_reference": "apolo",
@@ -1708,9 +1708,9 @@
 {
 "id": "person:Apollos",
 "type": "person",
-"preferred_label": "Apolo",
 "confidence": 0.7636,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Apolo"
 }
 ]
 }
@@ -1718,7 +1718,7 @@
 {
 "content_id": "734311",
 "reference_id": 203411,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aroni",
 "media_type": "Text",
 "index_reference": "aroni",
@@ -1861,13 +1861,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.6934,
+"match_method": "scored",
+"preferred_label": "Haruni"
+}
+]
 }
 },
 {
 "content_id": "734354",
 "reference_id": 203454,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Asa",
 "media_type": "Text",
 "index_reference": "asa",
@@ -1936,9 +1944,9 @@
 {
 "id": "person:Asa",
 "type": "person",
-"preferred_label": "Asa",
 "confidence": 0.8092,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Asa"
 }
 ]
 }
@@ -1946,7 +1954,7 @@
 {
 "content_id": "734352",
 "reference_id": 203452,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ashuru",
 "media_type": "Text",
 "index_reference": "ashuru",
@@ -2007,18 +2015,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Asshur",
-"type": "person",
-"preferred_label": "Ashuru",
+"id": "place:Assyria",
+"type": "place",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Ashhur",
-"type": "person",
-"preferred_label": "Ashuri",
-"confidence": 0.907,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Assyria"
 }
 ]
 }

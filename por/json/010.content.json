@@ -2,7 +2,7 @@
 {
 "content_id": "658486",
 "reference_id": 203409,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jacó",
 "media_type": "Text",
 "index_reference": "jacó",
@@ -453,18 +453,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Jacob.2",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Jacó",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jacan",
-"type": "person",
-"preferred_label": "Jacã",
-"confidence": 0.8572,
-"match_method": "embedding"
+"confidence": 0.7403,
+"match_method": "scored",
+"preferred_label": "Israel"
 }
 ]
 }
@@ -472,7 +465,7 @@
 {
 "content_id": "658543",
 "reference_id": 203466,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jeremias",
 "media_type": "Text",
 "index_reference": "jeremias",
@@ -625,9 +618,9 @@
 {
 "id": "person:Jeremiah.6",
 "type": "person",
-"preferred_label": "Jeremias",
 "confidence": 0.6719,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jeremias"
 }
 ]
 }
@@ -635,7 +628,7 @@
 {
 "content_id": "658518",
 "reference_id": 203441,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jeroboão I",
 "media_type": "Text",
 "index_reference": "jeroboão i",
@@ -752,9 +745,9 @@
 {
 "id": "person:Jeroboam",
 "type": "person",
-"preferred_label": "Jeroboão",
-"confidence": 0.6181,
-"match_method": "scored"
+"confidence": 0.6226,
+"match_method": "scored",
+"preferred_label": "Jeroboão"
 }
 ]
 }
@@ -762,7 +755,7 @@
 {
 "content_id": "658525",
 "reference_id": 203448,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jeroboão II",
 "media_type": "Text",
 "index_reference": "jeroboão ii",
@@ -831,9 +824,9 @@
 {
 "id": "person:Jeroboam.2",
 "type": "person",
-"preferred_label": "Jeroboão",
-"confidence": 0.7295,
-"match_method": "scored"
+"confidence": 0.7385,
+"match_method": "scored",
+"preferred_label": "Jeroboão"
 }
 ]
 }
@@ -841,10 +834,10 @@
 {
 "content_id": "658489",
 "reference_id": 203412,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jetro (Reuel)",
 "media_type": "Text",
-"index_reference": "jetro (reuel)",
+"index_reference": "jetro reuel",
 "language": "por",
 "review_level": "None",
 "content": "<p>Jetro, também conhecido como Reuel (<a href=\"https://ref.ly/Exod2:16-Exod2:18\">Êx 2.16–18</a>; <a href=\"https://ref.ly/Num10:29\">Nm 10.29</a>), era o sacerdote de Midiã (<a href=\"https://ref.ly/Exod2:16\">Êx 2.16</a>). Moisés salvou as sete filhas de Jetro de pastores rudes em um poço e as ajudou a dar água aos seus rebanhos. Em casa, elas contaram ao pai sobre esse encontro surpreendente com um egípcio. Jetro ficou grato e convidou Moisés para uma refeição. Moisés decidiu se estabelecer ali. Mais tarde, Jetro deu sua filha Zípora a Moisés em casamento.</p><p>Enquanto Moisés vivia em Midiã com seu sogro, ele encontrou Deus na sarça ardente (<a href=\"https://ref.ly/Exod3:1-Exod3:2\">Êx 3.1–2</a>). Antes de ir para o Egito, Moisés pediu permissão a Jetro para partir. Mais tarde, ele enviou sua família para ficar com Jetro durante o Êxodo do Egito.</p><p>Enquanto Moisés e os israelitas estavam no deserto, Jetro voltou com a família de Moisés. Jetro ouviu sobre Yahweh salvando seu povo do Egito e reconheceu-o como maior que todos os outros deuses. Ele adorou Yahweh com uma oferta queimada e sacrifícios, alinhando-se com Israel (<a href=\"https://ref.ly/Exod18:11\">Êx 18.11</a>). Em resposta, os líderes de Israel juntaram-se a ele para uma refeição sacrificial na presença de Deus (<a href=\"https://ref.ly/Exod18:12\">Êx 18.12</a>).</p><p>Jetro percebeu que Moisés estava sobrecarregado com a gestão dos muitos israelitas. Ele aconselhou Moisés a organizar melhor o povo e resolver suas disputas (<a href=\"https://ref.ly/Exod18:13-Exod18:23\">Êx 18.13–23</a>). Moisés seguiu esse conselho e escolheu homens capazes para ajudar como líderes e juízes (<a href=\"https://ref.ly/Exod18:24-Exod18:27\">Êx 18.24–27</a>). Jetro voltou para Midiã e não interagiu mais com Israel, mas seu filho (<a href=\"https://ref.ly/Num10:29-Num10:33\">Nm 10.29–33</a>) e outros descendentes mais tarde se estabeleceram com os israelitas (<a href=\"https://ref.ly/Judg1:16\">Jz 1.16</a>; <a href=\"https://ref.ly/Judg4:11\">4.11</a>).</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Exod2:16-Exod2:25\">Êxodo 2.16–25</a>; <a href=\"https://ref.ly/Exod3:1\">3.1</a>; <a href=\"https://ref.ly/Exod18:1-Exod18:27\">18.1–27</a>; <a href=\"https://ref.ly/Num10:29\">Números 10.29</a>; <a href=\"https://ref.ly/Judg1:16\">Juízes 1.16</a>; <a href=\"https://ref.ly/Judg4:11\">4.11</a></p>",
@@ -940,9 +933,9 @@
 {
 "id": "person:Jethro",
 "type": "person",
-"preferred_label": "Jetro",
 "confidence": 0.687,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jetro"
 }
 ]
 }
@@ -950,7 +943,7 @@
 {
 "content_id": "658521",
 "reference_id": 203444,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jezabel",
 "media_type": "Text",
 "index_reference": "jezabel",
@@ -1049,9 +1042,9 @@
 {
 "id": "person:Jezebel",
 "type": "person",
-"preferred_label": "Jezabel",
 "confidence": 0.6364,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jezabel"
 }
 ]
 }
@@ -1059,7 +1052,7 @@
 {
 "content_id": "658515",
 "reference_id": 203438,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Joabe",
 "media_type": "Text",
 "index_reference": "joabe",
@@ -1362,9 +1355,9 @@
 {
 "id": "person:Joab",
 "type": "person",
-"preferred_label": "Joabe",
 "confidence": 0.7659,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Joabe"
 }
 ]
 }
@@ -1372,7 +1365,7 @@
 {
 "content_id": "658567",
 "reference_id": 203490,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "João Batista",
 "media_type": "Text",
 "index_reference": "joão batista",
@@ -1765,100 +1758,9 @@
 {
 "id": "person:John",
 "type": "person",
-"preferred_label": "João",
-"confidence": 0.5777,
-"match_method": "scored"
-}
-]
-}
-},
-{
-"content_id": "658579",
-"reference_id": 203502,
-"version": "1.0.2",
-"title": "João Marcos",
-"media_type": "Text",
-"index_reference": "joão marcos",
-"language": "por",
-"review_level": "None",
-"content": "<p>João Marcos, que escreveu o primeiro Evangelho (o Evangelho de Marcos), ajudou três dos primeiros missionários:</p><ul><li><p>Barnabé</p></li><li><p>Paulo</p></li><li><p>Pedro</p></li></ul><p>Barnabé e Paulo levaram Marcos como assistente em sua primeira viagem missionária. No entanto, Marcos os deixou e voltou para Jerusalém antes do fim da viagem (<a href=\"https://ref.ly/Acts12:25\">At 12.25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13.4–5</a>,<a href=\"https://ref.ly/Acts13:13\">13</a>). Por causa disso, quando Barnabé quis levar Marcos na segunda viagem, Paulo recusou. Esse desentendimento dividiu a equipe: Barnabé levou Marcos, seu primo, enquanto Paulo escolheu Silas. Os dois pares então seguiram caminhos separados (<a href=\"https://ref.ly/Acts15:36-Acts15:41\">At 15.36–41</a>).</p><p>Mais tarde, Paulo e Marcos se reconciliaram, e Marcos voltou a ser seu assistente. Em Colossenses, Paulo chama Marcos de colaborador e sugere que ele poderia em breve enviá-lo para visitar a igreja em Colossos (<a href=\"https://ref.ly/Col4:10\">Cl 4.10</a>; veja também <a href=\"https://ref.ly/Phlm1:24\">Fm 1.24</a>). Ainda mais tarde, quando Paulo aguardava a execução em uma prisão romana, ele pediu a Timóteo que trouxesse Marcos porque acreditava que Marcos seria útil em seu ministério (<a href=\"https://ref.ly/2Tim4:11\">2Tm 4.11</a>).</p><p>Marcos provavelmente ajudou Pedro com seu trabalho missionário na Itália perto do final da vida de Pedro. Em uma das cartas de Pedro, ele carinhosamente chama Marcos de seu &quot;filho&quot; que está com ele (<a href=\"https://ref.ly/1Pet5:13\">1Pe 5.13</a>). A tradição cristã primitiva descreve Marcos como o &quot;intérprete&quot; de Pedro e sugere que Marcos obteve suas informações sobre a vida e as palavras de Jesus diretamente de Pedro (Eusébio, <em>História da Igreja</em> 3.39.16).</p><p>O Evangelho de Marcos é geralmente considerado o mais antigo de todos os Evangelhos. Ele foi quase certamente uma fonte primária para Mateus e Lucas ao escreverem seus próprios Evangelhos. Por essa razão, o Evangelho de Marcos é um dos escritos cristãos primitivos mais influentes.</p><p>A história de Marcos mostra que Deus pode corrigir erros humanos e restaurar relacionamentos difíceis para Cristo e as boas-novas. Falhas iniciais não impedem alguém de ter uma vida significativa e impactante de serviço.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Acts12:12\">Atos 12.12</a>,<a href=\"https://ref.ly/Acts12:25\">25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13.4–5</a>,<a href=\"https://ref.ly/Acts13:13\">13</a>; <a href=\"https://ref.ly/Acts15:36-Acts15:39\">15.36–39</a>; <a href=\"https://ref.ly/Col4:10\">Colossenses 4.10</a>; <a href=\"https://ref.ly/2Tim4:11\">2 Timótio 4.11</a>; <a href=\"https://ref.ly/Phlm1:23-Phlm1:24\">Filemom 1.23–24</a>; <a href=\"https://ref.ly/1Pet5:13\">1 Pedro 5.13</a></p>",
-"associations": {
-"passage": [
-{
-"start_ref": "44012012",
-"start_ref_usfm": "ACT 12:12",
-"end_ref": "44012012",
-"end_ref_usfm": "ACT 12:12"
-},
-{
-"start_ref": "44012025",
-"start_ref_usfm": "ACT 12:25",
-"end_ref": "44012025",
-"end_ref_usfm": "ACT 12:25"
-},
-{
-"start_ref": "44013013",
-"start_ref_usfm": "ACT 13:13",
-"end_ref": "44013013",
-"end_ref_usfm": "ACT 13:13"
-},
-{
-"start_ref": "51004010",
-"start_ref_usfm": "COL 4:10",
-"end_ref": "51004010",
-"end_ref_usfm": "COL 4:10"
-},
-{
-"start_ref": "55004011",
-"start_ref_usfm": "2TI 4:11",
-"end_ref": "55004011",
-"end_ref_usfm": "2TI 4:11"
-},
-{
-"start_ref": "57001024",
-"start_ref_usfm": "PHM 1:24",
-"end_ref": "57001024",
-"end_ref_usfm": "PHM 1:24"
-},
-{
-"start_ref": "60005013",
-"start_ref_usfm": "1PE 5:13",
-"end_ref": "60005013",
-"end_ref_usfm": "1PE 5:13"
-},
-{
-"start_ref": "44015036",
-"start_ref_usfm": "ACT 15:36",
-"end_ref": "44015041",
-"end_ref_usfm": "ACT 15:41"
-},
-{
-"start_ref": "57001023",
-"start_ref_usfm": "PHM 1:23",
-"end_ref": "57001024",
-"end_ref_usfm": "PHM 1:24"
-},
-{
-"start_ref": "44013004",
-"start_ref_usfm": "ACT 13:4",
-"end_ref": "44013005",
-"end_ref_usfm": "ACT 13:5"
-},
-{
-"start_ref": "44015036",
-"start_ref_usfm": "ACT 15:36",
-"end_ref": "44015039",
-"end_ref_usfm": "ACT 15:39"
-}
-],
-"resource": [],
-"acai": [
-{
-"id": "person:Mark",
-"type": "person",
-"preferred_label": "Marcos",
-"confidence": 0.7375,
-"match_method": "scored"
+"confidence": 0.7262,
+"match_method": "scored",
+"preferred_label": "João"
 }
 ]
 }
@@ -1866,10 +1768,10 @@
 {
 "content_id": "658571",
 "reference_id": 203494,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "João, Filho de Zebedeu",
 "media_type": "Text",
-"index_reference": "joão, filho de zebedeu",
+"index_reference": "joão filho de zebedeu",
 "language": "por",
 "review_level": "None",
 "content": "<p>João foi um dos doze seguidores mais próximos de Jesus, chamados apóstolos. Ele era irmão de Tiago e filho de Zebedeu. Jesus escolheu esses doze homens como seus representantes especiais e lhes deu autoridade para ensinar outros sobre ele. O trabalho deles ajudou a iniciar a igreja primitiva. A tradição antiga afirma que João, filho de Zebedeu, escreveu o Evangelho de João, as Cartas de João e o Livro do Apocalipse.</p><p>João e seu irmão Tiago estavam entre os seguidores mais próximos de Jesus (<a href=\"https://ref.ly/Mark5:37\">Mc 5.37</a>; <a href=\"https://ref.ly/Mark9:2\">9.2</a>; <a href=\"https://ref.ly/Mark13:3\">13.3</a>; <a href=\"https://ref.ly/Mark14:33\">14.33</a>). A mãe deles, Salomé, pode ter sido irmã de Maria, a mãe de Jesus (compare <a href=\"https://ref.ly/Matt27:56\">Mt 27.56</a>; <a href=\"https://ref.ly/Mark15:40\">Mc 15.40</a>; <a href=\"https://ref.ly/Mark16:1\">16.1</a>; <a href=\"https://ref.ly/John19:25\">Jo 19.25</a>). O nome de João geralmente aparece depois do de Tiago, sugerindo que João era mais jovem. Tiago e João eram pescadores como seu pai (<a href=\"https://ref.ly/Matt4:21\">Mt 4.21</a>; <a href=\"https://ref.ly/Mark1:19\">Mc 1.19</a>). Eles pescavam com Pedro e André, outro par de irmãos que se tornaram discípulos (<a href=\"https://ref.ly/Luke5:8-Luke5:10\">Lc 5.8–10</a>).</p><p>Eles estavam entre os primeiros discípulos que Jesus chamou e deixaram tudo para segui-lo (<a href=\"https://ref.ly/Matt4:22\">Mt 4.22</a>; <a href=\"https://ref.ly/Mark1:20\">Mc 1.20</a>; <a href=\"https://ref.ly/Luke5:11\">Lucas 5.11</a>; compare <a href=\"https://ref.ly/John1:35-John1:40\">Jo 1.35–40</a>). Jesus os chamou de &quot;Filhos do Trovão&quot; (<a href=\"https://ref.ly/Mark3:17\">Mc 3.17</a>). Este nome pode significar que eles eram barulhentos ou de temperamento explosivo (veja <a href=\"https://ref.ly/Luke9:54\">Lc 9.54</a>). Em um momento, os irmãos irritaram os outros discípulos ao pedir posições especiais no futuro reino (<a href=\"https://ref.ly/Matt20:20-Matt20:28\">Mt 20.20–28</a>; <a href=\"https://ref.ly/Mark10:35-Mark10:45\">Mc 10.35–45</a>; compare <a href=\"https://ref.ly/Luke22:24-Luke22:27\">Lc 22.24–27</a>).</p><p>As pessoas acreditam que João é o &quot;discípulo amado por Jesus&quot; e &quot;outro discípulo&quot; mencionado no Evangelho de João (<a href=\"https://ref.ly/John13:23-John13:25\">Jo 13.23–25</a>; <a href=\"https://ref.ly/John18:15-John18:16\">18.15–16</a>; <a href=\"https://ref.ly/John19:26-John19:27\">19.26–27</a>; <a href=\"https://ref.ly/John20:2-John20:10\">20.2–10</a>; <a href=\"https://ref.ly/John21:20-John21:24\">21.20–24</a>). Ele pode ter sido o discípulo não nomeado de João Batista que, junto com André, tornou-se um dos primeiros seguidores de Jesus (<a href=\"https://ref.ly/John1:35-John1:40\">Jo 1.35–40</a>).</p><p>O nome de João aparece três vezes em Atos. Em cada ocasião, ele trabalha com Pedro (<a href=\"https://ref.ly/Acts3:1-Acts3:11\">At 3.1–11</a>; <a href=\"https://ref.ly/Acts4:1-Acts4:23\">4.1–23</a>; <a href=\"https://ref.ly/Acts8:14-Acts8:25\">8.14–25</a>). Paulo o chamou de um dos &quot;pilares&quot; da igreja em Jerusalém (<a href=\"https://ref.ly/Gal2:9\">Gl 2.9</a>). Isso significava que João era um líder importante na igreja de Jerusalém.</p><p>A história mais comum sobre a vida posterior de João é que ele se mudou para Éfeso. Lá, ele se tornou o bispo da Ásia Menor. Ele viveu até uma idade avançada e morreu pacificamente entre amigos. Seu Evangelho oferece uma visão profunda de Jesus, e suas cartas (<a href=\"https://ref.ly/1John1:1-1John5:21\">1Jo</a>, <a href=\"https://ref.ly/2John1:1-2John1:13\">2Jo</a> e <a href=\"https://ref.ly/3John1:1-3John1:14\">3Jo</a>) oferecem uma visão inspiradora da vida cristã.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Matt4:21-Matt4:22\">Mateus 4.21–22</a>; <a href=\"https://ref.ly/Matt10:2\">10.2</a>; <a href=\"https://ref.ly/Matt17:1\">17.1</a>; <a href=\"https://ref.ly/Matt20:20-Matt20:24\">20.20–24</a>; <a href=\"https://ref.ly/Matt26:37-Matt26:46\">26.37–46</a>; <a href=\"https://ref.ly/Mark1:19-Mark1:20\">Marcos 1.19–20</a>,<a href=\"https://ref.ly/Mark1:29\">29</a>; <a href=\"https://ref.ly/Mark3:17\">3.17</a>; <a href=\"https://ref.ly/Mark5:37\">5.37</a>; <a href=\"https://ref.ly/Mark9:2\">9.2</a>,<a href=\"https://ref.ly/Mark9:38\">38</a>; <a href=\"https://ref.ly/Mark10:35-Mark10:41\">10.35–41</a>; <a href=\"https://ref.ly/Mark13:3-Mark13:4\">13.3–4</a>; <a href=\"https://ref.ly/Mark14:33-Mark14:42\">14.33–42</a>; <a href=\"https://ref.ly/Luke5:10\">Lucas 5.10</a>; <a href=\"https://ref.ly/Luke6:14\">6.14</a>; <a href=\"https://ref.ly/Luke8:51\">8.51</a>; <a href=\"https://ref.ly/Luke9:28\">9.28</a>,<a href=\"https://ref.ly/Luke9:49\">49</a>,<a href=\"https://ref.ly/Luke9:54\">54</a>; <a href=\"https://ref.ly/John13:23-John13:25\">João 13.23–25</a>; <a href=\"https://ref.ly/John18:15-John18:16\">18.15–16</a>; <a href=\"https://ref.ly/John19:26-John19:27\">19.26–27</a>; <a href=\"https://ref.ly/John20:2-John20:10\">20.2–10</a>; <a href=\"https://ref.ly/John21:2\">21.2</a>,<a href=\"https://ref.ly/John21:7\">7</a>,<a href=\"https://ref.ly/John21:20-John21:24\">20–24</a>; <a href=\"https://ref.ly/Acts1:13\">Atos 1.13</a>; <a href=\"https://ref.ly/Acts3:1-Acts3:11\">3.1–11</a>; <a href=\"https://ref.ly/Acts4:1-Acts4:22\">4.1–22</a>; <a href=\"https://ref.ly/Acts5:17-Acts5:42\">5.17–42</a>; <a href=\"https://ref.ly/Acts8:14-Acts8:25\">8.14–25</a>; <a href=\"https://ref.ly/Gal2:9\">Gálatas 2.9</a></p>",
@@ -2181,9 +2083,100 @@
 }
 },
 {
+"content_id": "658579",
+"reference_id": 203502,
+"version": "1.0.4",
+"title": "João Marcos",
+"media_type": "Text",
+"index_reference": "joão marcos",
+"language": "por",
+"review_level": "None",
+"content": "<p>João Marcos, que escreveu o primeiro Evangelho (o Evangelho de Marcos), ajudou três dos primeiros missionários:</p><ul><li><p>Barnabé</p></li><li><p>Paulo</p></li><li><p>Pedro</p></li></ul><p>Barnabé e Paulo levaram Marcos como assistente em sua primeira viagem missionária. No entanto, Marcos os deixou e voltou para Jerusalém antes do fim da viagem (<a href=\"https://ref.ly/Acts12:25\">At 12.25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13.4–5</a>,<a href=\"https://ref.ly/Acts13:13\">13</a>). Por causa disso, quando Barnabé quis levar Marcos na segunda viagem, Paulo recusou. Esse desentendimento dividiu a equipe: Barnabé levou Marcos, seu primo, enquanto Paulo escolheu Silas. Os dois pares então seguiram caminhos separados (<a href=\"https://ref.ly/Acts15:36-Acts15:41\">At 15.36–41</a>).</p><p>Mais tarde, Paulo e Marcos se reconciliaram, e Marcos voltou a ser seu assistente. Em Colossenses, Paulo chama Marcos de colaborador e sugere que ele poderia em breve enviá-lo para visitar a igreja em Colossos (<a href=\"https://ref.ly/Col4:10\">Cl 4.10</a>; veja também <a href=\"https://ref.ly/Phlm1:24\">Fm 1.24</a>). Ainda mais tarde, quando Paulo aguardava a execução em uma prisão romana, ele pediu a Timóteo que trouxesse Marcos porque acreditava que Marcos seria útil em seu ministério (<a href=\"https://ref.ly/2Tim4:11\">2Tm 4.11</a>).</p><p>Marcos provavelmente ajudou Pedro com seu trabalho missionário na Itália perto do final da vida de Pedro. Em uma das cartas de Pedro, ele carinhosamente chama Marcos de seu &quot;filho&quot; que está com ele (<a href=\"https://ref.ly/1Pet5:13\">1Pe 5.13</a>). A tradição cristã primitiva descreve Marcos como o &quot;intérprete&quot; de Pedro e sugere que Marcos obteve suas informações sobre a vida e as palavras de Jesus diretamente de Pedro (Eusébio, <em>História da Igreja</em> 3.39.16).</p><p>O Evangelho de Marcos é geralmente considerado o mais antigo de todos os Evangelhos. Ele foi quase certamente uma fonte primária para Mateus e Lucas ao escreverem seus próprios Evangelhos. Por essa razão, o Evangelho de Marcos é um dos escritos cristãos primitivos mais influentes.</p><p>A história de Marcos mostra que Deus pode corrigir erros humanos e restaurar relacionamentos difíceis para Cristo e as boas-novas. Falhas iniciais não impedem alguém de ter uma vida significativa e impactante de serviço.</p><p><u>Passagens para estudo complementar</u></p><p><a href=\"https://ref.ly/Acts12:12\">Atos 12.12</a>,<a href=\"https://ref.ly/Acts12:25\">25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13.4–5</a>,<a href=\"https://ref.ly/Acts13:13\">13</a>; <a href=\"https://ref.ly/Acts15:36-Acts15:39\">15.36–39</a>; <a href=\"https://ref.ly/Col4:10\">Colossenses 4.10</a>; <a href=\"https://ref.ly/2Tim4:11\">2 Timótio 4.11</a>; <a href=\"https://ref.ly/Phlm1:23-Phlm1:24\">Filemom 1.23–24</a>; <a href=\"https://ref.ly/1Pet5:13\">1 Pedro 5.13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44012012",
+"start_ref_usfm": "ACT 12:12",
+"end_ref": "44012012",
+"end_ref_usfm": "ACT 12:12"
+},
+{
+"start_ref": "44012025",
+"start_ref_usfm": "ACT 12:25",
+"end_ref": "44012025",
+"end_ref_usfm": "ACT 12:25"
+},
+{
+"start_ref": "44013013",
+"start_ref_usfm": "ACT 13:13",
+"end_ref": "44013013",
+"end_ref_usfm": "ACT 13:13"
+},
+{
+"start_ref": "51004010",
+"start_ref_usfm": "COL 4:10",
+"end_ref": "51004010",
+"end_ref_usfm": "COL 4:10"
+},
+{
+"start_ref": "55004011",
+"start_ref_usfm": "2TI 4:11",
+"end_ref": "55004011",
+"end_ref_usfm": "2TI 4:11"
+},
+{
+"start_ref": "57001024",
+"start_ref_usfm": "PHM 1:24",
+"end_ref": "57001024",
+"end_ref_usfm": "PHM 1:24"
+},
+{
+"start_ref": "60005013",
+"start_ref_usfm": "1PE 5:13",
+"end_ref": "60005013",
+"end_ref_usfm": "1PE 5:13"
+},
+{
+"start_ref": "44015036",
+"start_ref_usfm": "ACT 15:36",
+"end_ref": "44015041",
+"end_ref_usfm": "ACT 15:41"
+},
+{
+"start_ref": "57001023",
+"start_ref_usfm": "PHM 1:23",
+"end_ref": "57001024",
+"end_ref_usfm": "PHM 1:24"
+},
+{
+"start_ref": "44013004",
+"start_ref_usfm": "ACT 13:4",
+"end_ref": "44013005",
+"end_ref_usfm": "ACT 13:5"
+},
+{
+"start_ref": "44015036",
+"start_ref_usfm": "ACT 15:36",
+"end_ref": "44015039",
+"end_ref_usfm": "ACT 15:39"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Mark",
+"type": "person",
+"confidence": 0.85,
+"match_method": "scored",
+"preferred_label": "Marcos"
+}
+]
+}
+},
+{
 "content_id": "658505",
 "reference_id": 203428,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jônatas",
 "media_type": "Text",
 "index_reference": "jônatas",
@@ -2270,9 +2263,9 @@
 {
 "id": "person:Jonathan.3",
 "type": "person",
-"preferred_label": "Jônatas",
 "confidence": 0.7781,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jônatas"
 }
 ]
 }
@@ -2280,7 +2273,7 @@
 {
 "content_id": "658532",
 "reference_id": 203455,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Josafá",
 "media_type": "Text",
 "index_reference": "josafá",
@@ -2403,9 +2396,9 @@
 {
 "id": "person:Jehoshaphat.3",
 "type": "person",
-"preferred_label": "Josafá",
 "confidence": 0.7283,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Josafá"
 }
 ]
 }
@@ -2413,7 +2406,7 @@
 {
 "content_id": "658483",
 "reference_id": 203406,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "José",
 "media_type": "Text",
 "index_reference": "josé",
@@ -2548,9 +2541,9 @@
 {
 "id": "person:Joseph.10",
 "type": "person",
-"preferred_label": "José",
 "confidence": 0.7216,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "José"
 }
 ]
 }
@@ -2558,7 +2551,7 @@
 {
 "content_id": "658528",
 "reference_id": 203451,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Josias",
 "media_type": "Text",
 "index_reference": "josias",
@@ -2699,9 +2692,9 @@
 {
 "id": "person:Josiah",
 "type": "person",
-"preferred_label": "Josias",
 "confidence": 0.6934,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Josias"
 }
 ]
 }
@@ -2709,7 +2702,7 @@
 {
 "content_id": "658495",
 "reference_id": 203418,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Josué",
 "media_type": "Text",
 "index_reference": "josué",
@@ -2940,16 +2933,9 @@
 {
 "id": "person:Joshua.2",
 "type": "person",
-"preferred_label": "Josué",
 "confidence": 0.6797,
-"match_method": "scored"
-},
-{
-"id": "person:Joseph.11",
-"type": "person",
-"preferred_label": "José",
-"confidence": 0.551,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Josué"
 }
 ]
 }
@@ -2957,7 +2943,7 @@
 {
 "content_id": "658484",
 "reference_id": 203407,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Judá",
 "media_type": "Text",
 "index_reference": "judá",
@@ -3122,16 +3108,23 @@
 {
 "id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Judá",
 "confidence": 0.7014,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Judá"
 },
 {
 "id": "person:Judah.3",
 "type": "person",
-"preferred_label": "Judá",
 "confidence": 0.6027,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Judá"
+},
+{
+"id": "person:Joda",
+"type": "person",
+"confidence": 0.5532,
+"match_method": "scored",
+"preferred_label": "Joda"
 }
 ]
 }
@@ -3139,7 +3132,7 @@
 {
 "content_id": "658562",
 "reference_id": 203485,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Judas Iscariotes",
 "media_type": "Text",
 "index_reference": "judas iscariotes",
@@ -3340,9 +3333,9 @@
 {
 "id": "person:Judas.2",
 "type": "person",
-"preferred_label": "Judas",
-"confidence": 0.6864,
-"match_method": "scored"
+"confidence": 0.7179,
+"match_method": "scored",
+"preferred_label": "Judas"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "726125",
 "reference_id": 203496,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "تُومَا",
 "media_type": "Text",
 "index_reference": "تُومَا",
@@ -83,9 +83,9 @@
 {
 "id": "person:Thomas",
 "type": "person",
-"preferred_label": "تومَا",
-"confidence": 0.8039,
-"match_method": "scored"
+"confidence": 0.8444,
+"match_method": "scored",
+"preferred_label": "تومَا"
 }
 ]
 }
@@ -93,7 +93,7 @@
 {
 "content_id": "726144",
 "reference_id": 203515,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "تيطس",
 "media_type": "Text",
 "index_reference": "تيطس",
@@ -230,13 +230,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Titus",
+"type": "person",
+"confidence": 0.792,
+"match_method": "scored",
+"preferred_label": "تِيطسَ"
+}
+]
 }
 },
 {
 "content_id": "726143",
 "reference_id": 203514,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "تيموثاوس",
 "media_type": "Text",
 "index_reference": "تيموثاوس",
@@ -461,9 +469,9 @@
 {
 "id": "person:Timothy",
 "type": "person",
-"preferred_label": "تِيموثَاوس",
-"confidence": 0.7383,
-"match_method": "scored"
+"confidence": 0.7878,
+"match_method": "scored",
+"preferred_label": "تِيموثَاوس"
 }
 ]
 }

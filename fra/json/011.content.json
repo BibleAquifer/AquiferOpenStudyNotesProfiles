@@ -1,91 +1,8 @@
 [
 {
-"content_id": "668968",
-"reference_id": 203510,
-"version": "1.0.2",
-"title": "L'Église de Rome",
-"media_type": "Text",
-"index_reference": "l'église de rome",
-"language": "fra",
-"review_level": "None",
-"content": "<p>Les détails exacts de la fondation de l&apos;église à Rome restent obscurs. La ville comptait une importante population juive, et certains de ces Juifs, présents à Jérusalem lors de la Pentecôte (<a href=\"https://ref.ly/Acts2:10\">Ac 2.10</a>), auraient été convertis au christianisme et auraient ramené le message de Jésus à Rome. Cela aurait ainsi donné naissance à une communauté chrétienne au sein des synagogues romaines.</p><p>Il est peu probable que Pierre ait lui-même fondé l&apos;église de Rome, ou qu&apos;il y ait été au moment où Paul écrivit sa lettre aux chrétiens romains vers 57 après J.-C. Si c&apos;était le cas, Paul l&apos;aurait sûrement mentionné dans ses lettres. Ainsi, Paul rédigea cette lettre afin d&apos;offrir des conseils apostoliques à l&apos;église de Rome, qui, en l&apos;absence d&apos;une direction directe d&apos;un apôtre, devait être guidée comme celles qu&apos;il avait fondées (par exemple à Corinthe et en Galatie) ou comme celles qui ne bénéficiaient pas d&apos;une direction apostolique directe, telles que Colosses et Rome.</p><p>Comme en d&apos;autres endroits, il est probable que les Juifs non-chrétiens de Rome expulsèrent les Juifs chrétiens des synagogues, de sorte que lorsque Paul écrivit aux Romains, les croyants se réunissaient au sein de maisons privées (<a href=\"https://ref.ly/Rom16:5\">Rm 16.5</a>, <a href=\"https://ref.ly/Rom16:10-Rom16:11\">10–11</a>, <a href=\"https://ref.ly/Rom16:15\">15</a>). Il n&apos;y avait pas de bâtiment central et on ne sait donc pas si tous les croyants de Rome parvenaient à se réunir en un même lieu.</p><p>Lorsque Claude expulsa les Juifs de Rome vers 49 après J.-C., des chrétiens d&apos;origine juive tels que Priscille et Aquilas durent également partir (<a href=\"https://ref.ly/Acts18:2\">Ac 18.2</a>). Ce départ contribua à ce que l&apos;église de Rome se dirige peu à peu vers les païens. Lorsque les Juifs revinrent peu après la mort de Claude en 54 après J.-C., des questions (voire des conflits) émergèrent entre les chrétiens d&apos;origine juive et d&apos;origine païenne. Paul pourrait avoir écrit sa lettre aux Romains pour discuter de ces problèmes pouvant émerger dans un tel groupe mixte.</p><p>Comme le montre <a href=\"https://ref.ly/Rom16:1-Rom16:27\">Rm 16</a>, Paul avait déjà tissé de nombreuses amitiés dans l&apos;église de Rome. Au printemps de l&apos;an 60 après J.-C., environ deux ans après la rédaction de sa lettre, il eut enfin l&apos;occasion de se rendre à Rome, un désir qu&apos;il exprimait fréquemment&nbsp; (<a href=\"https://ref.ly/Acts19:21\">Ac 19.21</a> ; <a href=\"https://ref.ly/Rom1:13-Rom1:15\">Rm 1.13–15</a>). Il y demeura pendant deux ans, vivant dans une maison surveillée par des soldats romains en attendant son premier procès devant Néron, tout en « <span>prêchant le royaume de Dieu et enseignant ce qui concerne le Seigneur Jésus-Christ, en toute liberté et sans obstacle » </span>(<a href=\"https://ref.ly/Acts28:30-Acts28:31\">Ac 28.30–31</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Acts28:15-Acts28:31\">Ac 28.15–31</a> ; <a href=\"https://ref.ly/Rom1:13-Rom1:15\">Rm 1.13–15</a> ; <a href=\"https://ref.ly/Rom16:1-Rom16:16\">16.1–16</a></p>",
-"associations": {
-"passage": [
-{
-"start_ref": "44002010",
-"start_ref_usfm": "ACT 2:10",
-"end_ref": "44002010",
-"end_ref_usfm": "ACT 2:10"
-},
-{
-"start_ref": "44018002",
-"start_ref_usfm": "ACT 18:2",
-"end_ref": "44018002",
-"end_ref_usfm": "ACT 18:2"
-},
-{
-"start_ref": "44019021",
-"start_ref_usfm": "ACT 19:21",
-"end_ref": "44019021",
-"end_ref_usfm": "ACT 19:21"
-},
-{
-"start_ref": "45016005",
-"start_ref_usfm": "ROM 16:5",
-"end_ref": "45016005",
-"end_ref_usfm": "ROM 16:5"
-},
-{
-"start_ref": "45016015",
-"start_ref_usfm": "ROM 16:15",
-"end_ref": "45016015",
-"end_ref_usfm": "ROM 16:15"
-},
-{
-"start_ref": "44028030",
-"start_ref_usfm": "ACT 28:30",
-"end_ref": "44028031",
-"end_ref_usfm": "ACT 28:31"
-},
-{
-"start_ref": "45016001",
-"start_ref_usfm": "ROM 16:1",
-"end_ref": "45016027",
-"end_ref_usfm": "ROM 16:27"
-},
-{
-"start_ref": "45016010",
-"start_ref_usfm": "ROM 16:10",
-"end_ref": "45016011",
-"end_ref_usfm": "ROM 16:11"
-},
-{
-"start_ref": "45016001",
-"start_ref_usfm": "ROM 16:1",
-"end_ref": "45016016",
-"end_ref_usfm": "ROM 16:16"
-},
-{
-"start_ref": "45001013",
-"start_ref_usfm": "ROM 1:13",
-"end_ref": "45001015",
-"end_ref_usfm": "ROM 1:15"
-},
-{
-"start_ref": "44028015",
-"start_ref_usfm": "ACT 28:15",
-"end_ref": "44028031",
-"end_ref_usfm": "ACT 28:31"
-}
-],
-"resource": [],
-"acai": []
-}
-},
-{
 "content_id": "668930",
 "reference_id": 203472,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La civilisation grecque",
 "media_type": "Text",
 "index_reference": "la civilisation grecque",
@@ -102,16 +19,24 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.58,
+"match_method": "scored",
+"preferred_label": "Sheep"
+}
+]
 }
 },
 {
 "content_id": "668929",
 "reference_id": 203471,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Le fils de l'homme",
 "media_type": "Text",
-"index_reference": "le fils de l'homme",
+"index_reference": "le fils de lhomme",
 "language": "fra",
 "review_level": "None",
 "content": "<p>L&apos;expression hébraïque et araméenne « fils de l&apos;homme » désigne premièrement un simple être humain. Cependant, dans&nbsp;<a href=\"https://ref.ly/Dan7:13-Dan7:14\">Dn 7.13–14</a>, la figure décrite « <span>un fils de l’homm</span>e » semble être plus que cela. Son identité exacte est mystérieuse, mais son rôle est clair : le Très-Haut l&apos;a choisi pour régner sur un royaume éternel et universel, étendu sur toutes les nations. Il représente également le peuple saint, qui partagera avec « le fils de l&apos;homme» le règne sur l&apos;ensemble des peuples et des nations (voir <a href=\"https://ref.ly/Dan7:22\">Dn 7.22</a>).</p><p>La scène qui entoure ce fils de l&apos;homme met en exergue ses caractéristiques divines. La description des « <span>nuées des cieux</span> » dans <a href=\"https://ref.ly/Dan7:13\">Dn 7.13</a> indique clairement qu&apos;il émane du ciel (comparer <a href=\"https://ref.ly/Ps68:4\">Ps 68.4</a> ; <a href=\"https://ref.ly/Ps97:2\">97.2</a> ; <a href=\"https://ref.ly/Nah1:3\">Na 1.3</a>). Dans le livre de l&apos;Exode, le Seigneur lui-même se couvre d&apos;une nuée (<a href=\"https://ref.ly/Exod19:9\">Ex 19.9</a>), et le peuple de Dieu sera transporté dans les nuées lors du retour de Jésus (<a href=\"https://ref.ly/1Thess4:17\">1Th 4.17</a>), tout comme Jésus fut enlevé dans les nuées lors de son ascension (<a href=\"https://ref.ly/Acts1:9\">Ac 1.9</a>). Ce fils de l&apos;homme reçoit son royaume avec humilité et sainteté, à l&apos;opposé de la « petite corne » (<a href=\"https://ref.ly/Dan7:8\">Dn 7.8</a>), qui symbolise l&apos;arrogance.</p><p>Jésus se désigne lui-même comme le fils de l&apos;homme (<a href=\"https://ref.ly/Matt24:30\">Mt 24.30 </a>; <a href=\"https://ref.ly/Matt26:24\">26.24 </a>; <a href=\"https://ref.ly/Mark13:26\">Mc 13.26 </a>; <a href=\"https://ref.ly/Luke21:27\">Lc 21.27 </a>; <a href=\"https://ref.ly/John12:34\">Jn 12.34 </a>; voir aussi <a href=\"https://ref.ly/Acts7:56\">Ac 7.56 </a>; <a href=\"https://ref.ly/Heb2:6\">Hé 2.6 </a>; <a href=\"https://ref.ly/Rev1:13\">Ap 1.13 </a>; <a href=\"https://ref.ly/Rev14:14\">14.14</a>), et <a href=\"https://ref.ly/Rev1:7\">Ap 1.7</a> relie également cette figure à Jésus-Christ, qui a été percé pour nos péchés. Dieu le Père a confié à Jésus toute autorité et tout pouvoir pour gouverner et atteindre les nations (<a href=\"https://ref.ly/Dan7:14\">Dn 7.14 </a>; <a href=\"https://ref.ly/Matt28:18\">Mt 28.18 </a>; <a href=\"https://ref.ly/Matt28:19-Matt28:20\">19–20</a>). En effet, Dieu avait appelé Abraham à former une grande nation par laquelle toutes les nations seraient bénies (<a href=\"https://ref.ly/Gen12:1-Gen12:3\">Gn 12.1–3</a>), promesse que Jésus a accomplie.</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Dan7:13-Dan7:14\">Dn 7.13–14</a> ; <a href=\"https://ref.ly/Matt24:30\">Mt 24.30</a> ; <a href=\"https://ref.ly/Matt26:24\">26.24</a> ; <a href=\"https://ref.ly/Mark13:26\">Mc 13.26</a> ; <a href=\"https://ref.ly/Luke21:27\">Lc 21.27</a> ; <a href=\"https://ref.ly/John12:34\">Jn 12.34</a> ; <a href=\"https://ref.ly/Rev1:13\">Ap 1.13</a> ; <a href=\"https://ref.ly/Rev14:14\">14.14</a></p>",
@@ -269,7 +194,7 @@
 {
 "content_id": "668940",
 "reference_id": 203482,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Le Sanhédrin",
 "media_type": "Text",
 "index_reference": "le sanhédrin",
@@ -382,7 +307,7 @@
 {
 "content_id": "668863",
 "reference_id": 203405,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Léa",
 "media_type": "Text",
 "index_reference": "léa",
@@ -523,17 +448,100 @@
 {
 "id": "person:Leah",
 "type": "person",
-"preferred_label": "Léa",
 "confidence": 0.6855,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Léa"
 }
 ]
 }
 },
 {
+"content_id": "668968",
+"reference_id": 203510,
+"version": "1.0.4",
+"title": "L'Église de Rome",
+"media_type": "Text",
+"index_reference": "léglise de rome",
+"language": "fra",
+"review_level": "None",
+"content": "<p>Les détails exacts de la fondation de l&apos;église à Rome restent obscurs. La ville comptait une importante population juive, et certains de ces Juifs, présents à Jérusalem lors de la Pentecôte (<a href=\"https://ref.ly/Acts2:10\">Ac 2.10</a>), auraient été convertis au christianisme et auraient ramené le message de Jésus à Rome. Cela aurait ainsi donné naissance à une communauté chrétienne au sein des synagogues romaines.</p><p>Il est peu probable que Pierre ait lui-même fondé l&apos;église de Rome, ou qu&apos;il y ait été au moment où Paul écrivit sa lettre aux chrétiens romains vers 57 après J.-C. Si c&apos;était le cas, Paul l&apos;aurait sûrement mentionné dans ses lettres. Ainsi, Paul rédigea cette lettre afin d&apos;offrir des conseils apostoliques à l&apos;église de Rome, qui, en l&apos;absence d&apos;une direction directe d&apos;un apôtre, devait être guidée comme celles qu&apos;il avait fondées (par exemple à Corinthe et en Galatie) ou comme celles qui ne bénéficiaient pas d&apos;une direction apostolique directe, telles que Colosses et Rome.</p><p>Comme en d&apos;autres endroits, il est probable que les Juifs non-chrétiens de Rome expulsèrent les Juifs chrétiens des synagogues, de sorte que lorsque Paul écrivit aux Romains, les croyants se réunissaient au sein de maisons privées (<a href=\"https://ref.ly/Rom16:5\">Rm 16.5</a>, <a href=\"https://ref.ly/Rom16:10-Rom16:11\">10–11</a>, <a href=\"https://ref.ly/Rom16:15\">15</a>). Il n&apos;y avait pas de bâtiment central et on ne sait donc pas si tous les croyants de Rome parvenaient à se réunir en un même lieu.</p><p>Lorsque Claude expulsa les Juifs de Rome vers 49 après J.-C., des chrétiens d&apos;origine juive tels que Priscille et Aquilas durent également partir (<a href=\"https://ref.ly/Acts18:2\">Ac 18.2</a>). Ce départ contribua à ce que l&apos;église de Rome se dirige peu à peu vers les païens. Lorsque les Juifs revinrent peu après la mort de Claude en 54 après J.-C., des questions (voire des conflits) émergèrent entre les chrétiens d&apos;origine juive et d&apos;origine païenne. Paul pourrait avoir écrit sa lettre aux Romains pour discuter de ces problèmes pouvant émerger dans un tel groupe mixte.</p><p>Comme le montre <a href=\"https://ref.ly/Rom16:1-Rom16:27\">Rm 16</a>, Paul avait déjà tissé de nombreuses amitiés dans l&apos;église de Rome. Au printemps de l&apos;an 60 après J.-C., environ deux ans après la rédaction de sa lettre, il eut enfin l&apos;occasion de se rendre à Rome, un désir qu&apos;il exprimait fréquemment&nbsp; (<a href=\"https://ref.ly/Acts19:21\">Ac 19.21</a> ; <a href=\"https://ref.ly/Rom1:13-Rom1:15\">Rm 1.13–15</a>). Il y demeura pendant deux ans, vivant dans une maison surveillée par des soldats romains en attendant son premier procès devant Néron, tout en « <span>prêchant le royaume de Dieu et enseignant ce qui concerne le Seigneur Jésus-Christ, en toute liberté et sans obstacle » </span>(<a href=\"https://ref.ly/Acts28:30-Acts28:31\">Ac 28.30–31</a>).</p><p><u>Passages pour une étude approfondie</u></p><p><a href=\"https://ref.ly/Acts28:15-Acts28:31\">Ac 28.15–31</a> ; <a href=\"https://ref.ly/Rom1:13-Rom1:15\">Rm 1.13–15</a> ; <a href=\"https://ref.ly/Rom16:1-Rom16:16\">16.1–16</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44002010",
+"start_ref_usfm": "ACT 2:10",
+"end_ref": "44002010",
+"end_ref_usfm": "ACT 2:10"
+},
+{
+"start_ref": "44018002",
+"start_ref_usfm": "ACT 18:2",
+"end_ref": "44018002",
+"end_ref_usfm": "ACT 18:2"
+},
+{
+"start_ref": "44019021",
+"start_ref_usfm": "ACT 19:21",
+"end_ref": "44019021",
+"end_ref_usfm": "ACT 19:21"
+},
+{
+"start_ref": "45016005",
+"start_ref_usfm": "ROM 16:5",
+"end_ref": "45016005",
+"end_ref_usfm": "ROM 16:5"
+},
+{
+"start_ref": "45016015",
+"start_ref_usfm": "ROM 16:15",
+"end_ref": "45016015",
+"end_ref_usfm": "ROM 16:15"
+},
+{
+"start_ref": "44028030",
+"start_ref_usfm": "ACT 28:30",
+"end_ref": "44028031",
+"end_ref_usfm": "ACT 28:31"
+},
+{
+"start_ref": "45016001",
+"start_ref_usfm": "ROM 16:1",
+"end_ref": "45016027",
+"end_ref_usfm": "ROM 16:27"
+},
+{
+"start_ref": "45016010",
+"start_ref_usfm": "ROM 16:10",
+"end_ref": "45016011",
+"end_ref_usfm": "ROM 16:11"
+},
+{
+"start_ref": "45016001",
+"start_ref_usfm": "ROM 16:1",
+"end_ref": "45016016",
+"end_ref_usfm": "ROM 16:16"
+},
+{
+"start_ref": "45001013",
+"start_ref_usfm": "ROM 1:13",
+"end_ref": "45001015",
+"end_ref_usfm": "ROM 1:15"
+},
+{
+"start_ref": "44028015",
+"start_ref_usfm": "ACT 28:15",
+"end_ref": "44028031",
+"end_ref_usfm": "ACT 28:31"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
 "content_id": "668889",
 "reference_id": 203431,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les Amalécites",
 "media_type": "Text",
 "index_reference": "les amalécites",
@@ -644,9 +652,16 @@
 {
 "id": "place:Amalek",
 "type": "place",
-"preferred_label": "Amalek",
-"confidence": 0.5708,
-"match_method": "scored"
+"confidence": 0.6293,
+"match_method": "scored",
+"preferred_label": "Amalek"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 0.5797,
+"match_method": "scored",
+"preferred_label": "Amalekites"
 }
 ]
 }
@@ -654,7 +669,7 @@
 {
 "content_id": "668918",
 "reference_id": 203460,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les Mèdes et les Perses",
 "media_type": "Text",
 "index_reference": "les mèdes et les perses",
@@ -695,7 +710,7 @@
 {
 "content_id": "668936",
 "reference_id": 203478,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les Pharisiens",
 "media_type": "Text",
 "index_reference": "les pharisiens",
@@ -1046,9 +1061,9 @@
 {
 "id": "group:Pharisee",
 "type": "group",
-"preferred_label": "Pharisien",
-"confidence": 0.6151,
-"match_method": "scored"
+"confidence": 0.6331,
+"match_method": "scored",
+"preferred_label": "Pharisien"
 }
 ]
 }
@@ -1056,7 +1071,7 @@
 {
 "content_id": "668879",
 "reference_id": 203421,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les Philistins",
 "media_type": "Text",
 "index_reference": "les philistins",
@@ -1263,9 +1278,9 @@
 {
 "id": "group:Philistine",
 "type": "group",
-"preferred_label": "Philistins",
-"confidence": 0.6854,
-"match_method": "scored"
+"confidence": 0.6944,
+"match_method": "scored",
+"preferred_label": "Philistins"
 }
 ]
 }
@@ -1273,7 +1288,7 @@
 {
 "content_id": "668939",
 "reference_id": 203481,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Les Sadducéens",
 "media_type": "Text",
 "index_reference": "les sadducéens",
@@ -1372,9 +1387,9 @@
 {
 "id": "group:Sadducee",
 "type": "group",
-"preferred_label": "Sadducéens",
 "confidence": 0.5865,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Sadducéens"
 }
 ]
 }
@@ -1382,7 +1397,7 @@
 {
 "content_id": "668857",
 "reference_id": 203399,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lot",
 "media_type": "Text",
 "index_reference": "lot",
@@ -1505,9 +1520,9 @@
 {
 "id": "person:Lot",
 "type": "person",
-"preferred_label": "Lot",
 "confidence": 0.7374,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Lot"
 }
 ]
 }
@@ -1515,7 +1530,7 @@
 {
 "content_id": "668962",
 "reference_id": 203504,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Luc",
 "media_type": "Text",
 "index_reference": "luc",
@@ -1590,9 +1605,9 @@
 {
 "id": "person:Luke",
 "type": "person",
-"preferred_label": "Luc",
 "confidence": 0.6857,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Luc"
 }
 ]
 }

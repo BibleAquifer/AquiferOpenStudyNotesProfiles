@@ -2,7 +2,7 @@
 {
 "content_id": "734323",
 "reference_id": 203423,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gideoni",
 "media_type": "Text",
 "index_reference": "gideoni",
@@ -59,9 +59,9 @@
 {
 "id": "person:Gideon",
 "type": "person",
-"preferred_label": "Gideoni",
 "confidence": 0.7225,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Gideoni"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "658496",
 "reference_id": 203419,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Raabe",
 "media_type": "Text",
 "index_reference": "raabe",
@@ -71,9 +71,9 @@
 {
 "id": "person:Rahab",
 "type": "person",
-"preferred_label": "Raabe",
 "confidence": 0.7067,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Raabe"
 }
 ]
 }
@@ -81,7 +81,7 @@
 {
 "content_id": "658481",
 "reference_id": 203404,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Raquel",
 "media_type": "Text",
 "index_reference": "raquel",
@@ -198,9 +198,9 @@
 {
 "id": "person:Rachel",
 "type": "person",
-"preferred_label": "Raquel",
 "confidence": 0.7673,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Raquel"
 }
 ]
 }
@@ -208,7 +208,7 @@
 {
 "content_id": "658479",
 "reference_id": 203402,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rebeca",
 "media_type": "Text",
 "index_reference": "rebeca",
@@ -361,9 +361,9 @@
 {
 "id": "person:Rebekah",
 "type": "person",
-"preferred_label": "Rebeca",
 "confidence": 0.687,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Rebeca"
 }
 ]
 }
@@ -371,7 +371,7 @@
 {
 "content_id": "658550",
 "reference_id": 203473,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reinos Helenísticos",
 "media_type": "Text",
 "index_reference": "reinos helenísticos",
@@ -430,7 +430,7 @@
 {
 "content_id": "658519",
 "reference_id": 203442,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Roboão",
 "media_type": "Text",
 "index_reference": "roboão",
@@ -523,9 +523,9 @@
 {
 "id": "person:Rehoboam",
 "type": "person",
-"preferred_label": "Roboão",
 "confidence": 0.7532,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Roboão"
 }
 ]
 }
@@ -533,7 +533,7 @@
 {
 "content_id": "658585",
 "reference_id": 203508,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Roma",
 "media_type": "Text",
 "index_reference": "roma",
@@ -638,9 +638,9 @@
 {
 "id": "place:Rome",
 "type": "place",
-"preferred_label": "Roma",
 "confidence": 0.7164,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Roma"
 }
 ]
 }
@@ -648,7 +648,7 @@
 {
 "content_id": "658502",
 "reference_id": 203425,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rute",
 "media_type": "Text",
 "index_reference": "rute",
@@ -717,9 +717,9 @@
 {
 "id": "person:Ruth",
 "type": "person",
-"preferred_label": "Rute",
 "confidence": 0.6536,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Rute"
 }
 ]
 }

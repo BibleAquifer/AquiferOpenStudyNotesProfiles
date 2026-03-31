@@ -2,7 +2,7 @@
 {
 "content_id": "500520",
 "reference_id": 203463,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Xerxes I",
 "media_type": "Text",
 "index_reference": "xerxes i",
@@ -35,9 +35,9 @@
 {
 "id": "person:Ahasuerus",
 "type": "person",
-"preferred_label": "Ahasuerus",
 "confidence": 0.7178,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ahasuerus"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "726110",
 "reference_id": 203481,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الصدوقيون",
 "media_type": "Text",
 "index_reference": "الصدوقيون",
@@ -97,13 +97,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Sadducee",
+"type": "group",
+"confidence": 0.5865,
+"match_method": "scored",
+"preferred_label": "Sadducees"
+}
+]
 }
 },
 {
 "content_id": "726065",
 "reference_id": 203436,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "صادوق",
 "media_type": "Text",
 "index_reference": "صادوق",
@@ -256,16 +264,16 @@
 {
 "id": "person:Zadok.2",
 "type": "person",
-"preferred_label": "صَادوق",
-"confidence": 0.6408,
-"match_method": "scored"
+"confidence": 0.6813,
+"match_method": "scored",
+"preferred_label": "صَادوق"
 },
 {
 "id": "person:Zadok.4",
 "type": "person",
-"preferred_label": "صَادوق",
-"confidence": 0.566,
-"match_method": "scored"
+"confidence": 0.6065,
+"match_method": "scored",
+"preferred_label": "صَادوق"
 }
 ]
 }
@@ -273,7 +281,7 @@
 {
 "content_id": "726061",
 "reference_id": 203432,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "صموئيل",
 "media_type": "Text",
 "index_reference": "صموئيل",
@@ -470,7 +478,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Samuel",
+"type": "person",
+"confidence": 0.7249,
+"match_method": "scored",
+"preferred_label": "صَموئِيلَ"
+}
+]
 }
 }
 ]

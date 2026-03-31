@@ -2,7 +2,7 @@
 {
 "content_id": "668959",
 "reference_id": 203501,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hérode Agrippa I",
 "media_type": "Text",
 "index_reference": "hérode agrippa i",
@@ -35,9 +35,9 @@
 {
 "id": "person:Herod.3",
 "type": "person",
-"preferred_label": "Hérode",
-"confidence": 0.6885,
-"match_method": "scored"
+"confidence": 0.72,
+"match_method": "scored",
+"preferred_label": "Hérode"
 }
 ]
 }
@@ -45,7 +45,7 @@
 {
 "content_id": "668965",
 "reference_id": 203507,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hérode Agrippa II",
 "media_type": "Text",
 "index_reference": "hérode agrippa ii",
@@ -68,7 +68,7 @@
 {
 "content_id": "668942",
 "reference_id": 203484,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hérode Antipas",
 "media_type": "Text",
 "index_reference": "hérode antipas",
@@ -197,9 +197,9 @@
 {
 "id": "person:Herod.2",
 "type": "person",
-"preferred_label": "Hérode Antipas",
 "confidence": 0.7725,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Hérode Antipas"
 }
 ]
 }
@@ -207,7 +207,7 @@
 {
 "content_id": "668935",
 "reference_id": 203477,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hérode le Grand",
 "media_type": "Text",
 "index_reference": "hérode le grand",
@@ -236,21 +236,13 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "person:Herod",
-"type": "person",
-"preferred_label": "Hérode",
-"confidence": 0.5599,
-"match_method": "scored"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "668859",
 "reference_id": 203401,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hétiens",
 "media_type": "Text",
 "index_reference": "hétiens",
@@ -345,7 +337,22 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.6685,
+"match_method": "scored",
+"preferred_label": "Heth"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.6609,
+"match_method": "scored",
+"preferred_label": "Hittite"
+}
+]
 }
 }
 ]

@@ -2,7 +2,7 @@
 {
 "content_id": "500513",
 "reference_id": 203456,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uzziah",
 "media_type": "Text",
 "index_reference": "uzziah",
@@ -95,9 +95,9 @@
 {
 "id": "person:Uzziah",
 "type": "person",
-"preferred_label": "Uzziah",
 "confidence": 0.8162,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Uzziah"
 }
 ]
 }

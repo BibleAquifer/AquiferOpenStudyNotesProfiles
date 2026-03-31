@@ -2,7 +2,7 @@
 {
 "content_id": "650829",
 "reference_id": 203413,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "法老",
 "media_type": "Text",
 "index_reference": "法老",
@@ -91,13 +91,35 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.6921,
+"match_method": "scored",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"confidence": 0.6246,
+"match_method": "scored",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 0.6041,
+"match_method": "scored",
+"preferred_label": "Pharaoh"
+}
+]
 }
 },
 {
 "content_id": "650894",
 "reference_id": 203478,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "法利賽人",
 "media_type": "Text",
 "index_reference": "法利賽人",
@@ -444,7 +466,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.6331,
+"match_method": "scored",
+"preferred_label": "Pharisees"
+}
+]
 }
 }
 ]

@@ -2,7 +2,7 @@
 {
 "content_id": "654297",
 "reference_id": 203496,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "थोमा",
 "media_type": "Text",
 "index_reference": "थोमा",
@@ -83,9 +83,9 @@
 {
 "id": "person:Thomas",
 "type": "person",
-"preferred_label": "थोमा",
 "confidence": 0.8444,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "थोमा"
 }
 ]
 }

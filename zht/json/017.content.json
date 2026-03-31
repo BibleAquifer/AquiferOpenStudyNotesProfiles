@@ -2,7 +2,7 @@
 {
 "content_id": "650901",
 "reference_id": 203485,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "加略人猶大",
 "media_type": "Text",
 "index_reference": "加略人猶大",
@@ -199,13 +199,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 0.7179,
+"match_method": "scored",
+"preferred_label": "Judas"
+}
+]
 }
 },
 {
 "content_id": "650836",
 "reference_id": 203420,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "迦勒",
 "media_type": "Text",
 "index_reference": "迦勒",
@@ -348,7 +356,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Caleb",
+"type": "person",
+"confidence": 0.6926,
+"match_method": "scored",
+"preferred_label": "Caleb"
+}
+]
 }
 }
 ]

@@ -2,7 +2,7 @@
 {
 "content_id": "654282",
 "reference_id": 203481,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सदूकी लोग",
 "media_type": "Text",
 "index_reference": "सदूकी लोग",
@@ -97,13 +97,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Sadducee",
+"type": "group",
+"confidence": 0.5865,
+"match_method": "scored",
+"preferred_label": "सदूकी"
+}
+]
 }
 },
 {
 "content_id": "654237",
 "reference_id": 203436,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सादोक",
 "media_type": "Text",
 "index_reference": "सादोक",
@@ -256,16 +264,16 @@
 {
 "id": "person:Zadok.2",
 "type": "person",
-"preferred_label": "सादोक",
 "confidence": 0.6813,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "सादोक"
 },
 {
 "id": "person:Zadok.4",
 "type": "person",
-"preferred_label": "सादोक",
 "confidence": 0.6065,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "सादोक"
 }
 ]
 }
@@ -273,7 +281,7 @@
 {
 "content_id": "654293",
 "reference_id": 203492,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सामरी",
 "media_type": "Text",
 "index_reference": "सामरी",
@@ -312,9 +320,9 @@
 {
 "id": "group:Samaritan",
 "type": "group",
-"preferred_label": "सामरी",
 "confidence": 0.6176,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "सामरी"
 }
 ]
 }
@@ -322,7 +330,7 @@
 {
 "content_id": "654199",
 "reference_id": 203398,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सारा",
 "media_type": "Text",
 "index_reference": "सारा",
@@ -505,9 +513,9 @@
 {
 "id": "person:Sarah",
 "type": "person",
-"preferred_label": "सारा",
 "confidence": 0.7007,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "सारा"
 }
 ]
 }
@@ -515,7 +523,7 @@
 {
 "content_id": "654241",
 "reference_id": 203440,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सुलैमान",
 "media_type": "Text",
 "index_reference": "सुलैमान",
@@ -644,9 +652,9 @@
 {
 "id": "person:Solomon",
 "type": "person",
-"preferred_label": "सुलैमान",
 "confidence": 0.7211,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "सुलैमान"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "650830",
 "reference_id": 203414,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "摩西",
 "media_type": "Text",
 "index_reference": "摩西",
@@ -373,13 +373,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.7112,
+"match_method": "scored",
+"preferred_label": "Moses"
+}
+]
 }
 },
 {
 "content_id": "650833",
 "reference_id": 203417,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "摩押和亞捫",
 "media_type": "Text",
 "index_reference": "摩押和亞捫",

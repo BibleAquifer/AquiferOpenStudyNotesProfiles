@@ -2,7 +2,7 @@
 {
 "content_id": "726028",
 "reference_id": 203399,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "لوط",
 "media_type": "Text",
 "index_reference": "لوط",
@@ -121,13 +121,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 0.7374,
+"match_method": "scored",
+"preferred_label": "لوطًا"
+}
+]
 }
 },
 {
 "content_id": "726133",
 "reference_id": 203504,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "لوقا",
 "media_type": "Text",
 "index_reference": "لوقا",
@@ -202,9 +210,9 @@
 {
 "id": "person:Luke",
 "type": "person",
-"preferred_label": "لوقَا",
-"confidence": 0.6362,
-"match_method": "scored"
+"confidence": 0.6857,
+"match_method": "scored",
+"preferred_label": "لوقَا"
 }
 ]
 }
@@ -212,7 +220,7 @@
 {
 "content_id": "726034",
 "reference_id": 203405,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ليئة",
 "media_type": "Text",
 "index_reference": "ليئة",
@@ -349,7 +357,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Leah",
+"type": "person",
+"confidence": 0.6855,
+"match_method": "scored",
+"preferred_label": "لَيْئَةَ"
+}
+]
 }
 }
 ]

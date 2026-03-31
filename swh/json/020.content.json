@@ -2,7 +2,7 @@
 {
 "content_id": "734309",
 "reference_id": 203409,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yakobo",
 "media_type": "Text",
 "index_reference": "yakobo",
@@ -453,39 +453,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Jacob.2",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Yakobo",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:James",
-"type": "person",
-"preferred_label": "Yakobo",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:James.2",
-"type": "person",
-"preferred_label": "Yakobo",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:James.3",
-"type": "person",
-"preferred_label": "Yakobo",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:James.4",
-"type": "person",
-"preferred_label": "Yakobo",
-"confidence": 1.0,
-"match_method": "embedding"
+"confidence": 0.7403,
+"match_method": "scored",
+"preferred_label": "Israeli"
 }
 ]
 }
@@ -493,10 +465,10 @@
 {
 "content_id": "734388",
 "reference_id": 203488,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yakobo, Mwana wa Zebedayo",
 "media_type": "Text",
-"index_reference": "yakobo, mwana wa zebedayo",
+"index_reference": "yakobo mwana wa zebedayo",
 "language": "swh",
 "review_level": "None",
 "content": "<p>Yakobo, mwana wa Zebedayo na kaka wa Yohana, alikuwa mmoja wa mitume kumi na wawili. Alikuwa miongoni mwa wa kwanza kufa kama mfuasi wa Yesu. Inawezekana mama yake alikuwa dada wa Maria, mama wa Yesu, jambo ambalo lingemfanya kuwa binamu wa Yesu (tazama <a href=\"https://ref.ly/Matt27:56\">Mathayo 27:56</a>; <a href=\"https://ref.ly/Mark15:40\">Marko 15:40</a>; <a href=\"https://ref.ly/Mark16:1\">16:1</a>; <a href=\"https://ref.ly/John19:25\">Yohana 19:25</a>). Jina lake mara nyingi huonekana kabla ya Yohana, jambo ambalo linaweza kumaanisha Yakobo alikuwa mkubwa. Huyu Yakobo hakuwa Yakobo, mwana wa Alfayo (tazama <a href=\"https://ref.ly/Luke6:15\">Luka 6:15</a>) au Yakobo, kaka wa Yesu.</p><p>Yakobo na Yohana walikuwa wavuvi kama baba yao (<a href=\"https://ref.ly/Matt4:21\">Mathayo 4:21</a>; <a href=\"https://ref.ly/Mark1:19\">Marko 1:19</a>). Walivua samaki pamoja na Petro na Andrea, jozi nyingine ya ndugu ambao pia walikuwa wanafunzi (<a href=\"https://ref.ly/Luke5:10\">Luka 5:10</a>). Walikuwa miongoni mwa watu wa kwanza ambao Yesu aliwaita kuwa wanafunzi wake. Waliacha kila kitu, pamoja na baba yao, ili kumfuata Yesu (<a href=\"https://ref.ly/Matt4:22\">Mathayo 4:22</a>; <a href=\"https://ref.ly/Mark1:20\">Marko 1:20</a>; <a href=\"https://ref.ly/Luke5:11\">Luka 5:11</a>). Yesu aliwaita &quot;Wana wa Radi&quot; (<a href=\"https://ref.ly/Mark3:17\">Marko 3:17</a>). Hii inaweza kumaanisha walikuwa na tabia kali (tazama <a href=\"https://ref.ly/Luke9:54\">Luka 9:54</a>), ingawa maana halisi haijulikani.</p><p>Yakobo na kaka yake Yohana walikuwa karibu sana na Yesu. Pamoja na Petro, waliunda kikundi cha wanafunzi waaminifu ambao walishiriki na Yesu katika hafla maalum. Walikuwepo alipomponya binti ya Yairo (<a href=\"https://ref.ly/Mark5:37\">Marko 5:37</a>; <a href=\"https://ref.ly/Luke8:51\">Luka 8:51</a>), alipozungumza na Eliya na Mose mlimani (<a href=\"https://ref.ly/Matt17:1-Matt17:3\">Mathayo 17:1–3</a>; <a href=\"https://ref.ly/Mark9:2-Mark9:4\">Marko 9:2–4</a>; <a href=\"https://ref.ly/Luke9:28-Luke9:30\">Luka 9:28–30</a>), na alipokuwa akiomba bustanini (<a href=\"https://ref.ly/Matt26:37\">Mathayo 26:37</a>; <a href=\"https://ref.ly/Mark14:33\">Marko 14:33</a>). Wakati fulani, ndugu hao wawili waliwakera wanafunzi wengine kwa kuomba nafasi maalum katika ufalme ujao wa Mungu (<a href=\"https://ref.ly/Matt20:20-Matt20:28\">Mathayo 20:20–28</a>; <a href=\"https://ref.ly/Mark10:35-Mark10:45\">Marko 10:35–45</a>; linganisha <a href=\"https://ref.ly/Luke22:24-Luke22:27\">Luka 22:24–27</a>).</p><p>Herode Agripa alimuua Yakobo muda mfupi baada ya kifo cha Yesu, jambo ambalo liliwafurahisha viongozi wa Kiyahudi (<a href=\"https://ref.ly/Acts12:1-Acts12:3\">Matendo 12:1–3</a>). Inawezekana Herode alifanya hivi kwa sababu Yakobo alikuwa kiongozi muhimu miongoni mwa wanafunzi. Tukio hili lilitimiza utabiri wa Yesu kwamba Yakobo angehusika katika mateso yake (<a href=\"https://ref.ly/Matt20:23\">Matt 20:23</a>; <a href=\"https://ref.ly/Mark10:38-Mark10:39\">Marko 10:38–39</a>).</p><p>Yakobo alikuwa mfanyakazi wa kawaida ambaye Yesu alimwita kuwa mwanafunzi wake. Aliacha kazi yake, familia, na nyumba yake ili kumfuata Yesu kwa imani thabiti. Hatimaye, alikufa kwa ajili ya Yesu, akawa mfano wa ufuasi wa kujitolea.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt4:21-Matt4:22\">Mathayo 4:21–22</a>; <a href=\"https://ref.ly/Matt10:2\">10:2</a>; <a href=\"https://ref.ly/Matt17:1\">17:1</a>; <a href=\"https://ref.ly/Matt20:20-Matt20:24\">20:20–24</a>; <a href=\"https://ref.ly/Matt26:37-Matt26:46\">26:37–46</a>; <a href=\"https://ref.ly/Mark1:19-Mark1:20\">Marko 1:19–20</a>, <a href=\"https://ref.ly/Mark1:29\">29</a>; <a href=\"https://ref.ly/Mark3:17\">3:17</a>; <a href=\"https://ref.ly/Mark5:37\">5:37</a>; <a href=\"https://ref.ly/Mark9:2\">9:2</a>; <a href=\"https://ref.ly/Mark10:35-Mark10:41\">10:35–41</a>; <a href=\"https://ref.ly/Mark13:3-Mark13:4\">13:3–4</a>; <a href=\"https://ref.ly/Mark14:33-Mark14:42\">14:33–42</a>; <a href=\"https://ref.ly/Luke5:10\">Luka 5:10</a>; <a href=\"https://ref.ly/Luke6:14\">6:14</a>; <a href=\"https://ref.ly/Luke8:51\">8:51</a>; <a href=\"https://ref.ly/Luke9:28\">9:28</a>, <a href=\"https://ref.ly/Luke9:54-Luke9:55\">54–55</a>; <a href=\"https://ref.ly/John21:2\">Yohana 21:2</a>; <a href=\"https://ref.ly/Acts1:13\">Matendo 1:13</a>; <a href=\"https://ref.ly/Acts12:2\">12:2</a></p>",
@@ -768,10 +740,10 @@
 {
 "content_id": "734403",
 "reference_id": 203503,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yakobo, Ndugu wa Yesu",
 "media_type": "Text",
-"index_reference": "yakobo, ndugu wa yesu",
+"index_reference": "yakobo ndugu wa yesu",
 "language": "swh",
 "review_level": "None",
 "content": "<p>Yakobo alikuwa mmoja wa ndugu wa Yesu (<a href=\"https://ref.ly/Matt13:55\">Mathayo 13:55</a>; <a href=\"https://ref.ly/Mark6:3\">Marko 6:3</a>; <a href=\"https://ref.ly/Gal1:19\">Wagalatia 1:19</a>; linganisha <a href=\"https://ref.ly/Jude1:1\">Yuda 1:1</a>). Alikuwa kiongozi wa kanisa huko Yerusalemu muda mfupi baada ya Yesu kufufuka kutoka kwa wafu. Kulingana na mapokeo, Yakobo huyu ndiye mwandishi wa kitabu cha Agano Jipya cha Yakobo.</p><p>Ndugu za Yesu hapo awali walikuwa na shaka na madai yake (<a href=\"https://ref.ly/John7:2-John7:5\">Yohana 7:2–5</a>). Hata hivyo, baadaye wakawa waumini (<a href=\"https://ref.ly/Acts1:14\">Matendo 1:14</a>). Kukutana kwa Yakobo binafsi na Yesu aliyefufuka huenda kulimshawishi (<a href=\"https://ref.ly/1Cor15:7\">1 Wakorintho 15:7</a>). Wawili wa ndugu za Yesu, Yakobo na Yuda, walikuwa na majukumu muhimu katika jamii ya Wakristo ya awali. Yakobo alikua haraka kiongozi wa kanisa huko Yerusalemu. Katika baraza huko Yerusalemu, Yakobo alisaidia viongozi wa kanisa la Kiyahudi kukubali waumini wa Mataifa (wasio Wayahudi) bila kuhitaji tohara. Uamuzi huu ulikuwa muhimu kwa Paulo na misheni ya awali kwa watu wa Mataifa (<a href=\"https://ref.ly/Acts15:13-Acts15:21\">Matendo 15:13–21</a>). Paulo alimtembelea Yakobo huko Yerusalemu baada ya safari yake ya tatu ya kimishonari, kama alivyofanya awali baada ya kuongoka (<a href=\"https://ref.ly/Acts21:18\">Matendo 21:18</a>; <a href=\"https://ref.ly/Gal1:19\">Wagalatia 1:19</a>).</p><p>Kama Wakristo Wayahudi wengi, Yakobo alifuata sheria ya Mose. Alisisitiza umuhimu wa kuzingatia sheria fulani muhimu wakati wa kuwa miongoni mwa Wayahudi (<a href=\"https://ref.ly/Acts15:20-Acts15:21\">Matendo 15:20–21</a>; <a href=\"https://ref.ly/Acts21:18-Acts21:25\">21:18–25</a>). Yakobo alitambua utume wa Paulo na mtazamo wake juu ya wokovu kupitia imani pekee (<a href=\"https://ref.ly/Gal2:6-Gal2:9\">Wagalatia 2:6–9</a>), lakini Wakristo Wayahudi wengi hawakukubaliana. Waumini hawa Wayahudi, ambao Paulo aliwahusisha na Yakobo mara moja (tazama <a href=\"https://ref.ly/Gal2:12\">Wagalatia 2:12</a>), walisisitiza kwamba watu wa mataifa ambao walikuwa Wakristo lazima watahiriwe na kufuata sheria ya Mose ili kujiunga na jamii ya Wakristo.</p><p>Asili ya Kiyahudi ya Yakobo inaonekana katika barua yake, ambayo inatoa ushauri wa busara na wa vitendo kwa maisha. Mengi yake yanalingana na hekima ya Maandiko ya Kiyahudi ya jadi. Aya moja ya barua yake (<a href=\"https://ref.ly/Jas5:1-Jas5:6\">Yakobo 5:1–6</a>) inafanana na kazi ya manabii wa Agano la Kale (kwa mfano, linganisha na <a href=\"https://ref.ly/Amos5:21-Amos5:24\">Amosi 5:21–24</a>; <a href=\"https://ref.ly/Amos6:1-Amos6:7\">6:1–7</a>).</p><p>Yakobo, anayejulikana kama &quot;Mwenye Haki&quot; na watu wa wakati wake, aliuawa kwa sababu ya imani yake na makuhani wa Kiyahudi huko Yerusalemu (Josephus, <em>Antiquities</em> 20.9; Eusebius, <em>Historia ya Kanisa</em> 2.23.4–18).</p><p><u>Maeneo ya Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt13:55\">Mathayo 13:55</a>; <a href=\"https://ref.ly/Mark6:3\">Marko 6:3</a>; <a href=\"https://ref.ly/Acts12:17\">Matendo 12:17</a>; <a href=\"https://ref.ly/Acts15:13-Acts15:21\">Matendo 15:13–21</a>; <a href=\"https://ref.ly/Acts21:18-Acts21:25\">Matendo 21:18–25</a>; <a href=\"https://ref.ly/1Cor15:7\">1 Wakorintho 15:7</a>; <a href=\"https://ref.ly/Gal2:9\">Wagalatia 2:9</a>, <a href=\"https://ref.ly/Gal2:12\">Wagalatia 2:12</a>; <a href=\"https://ref.ly/Jas1:1-Jas5:20\">Yakobo 1:1–5:20</a>; <a href=\"https://ref.ly/Jude1:1\">Yuda 1:1</a></p>",
@@ -899,7 +871,7 @@
 {
 "content_id": "734355",
 "reference_id": 203455,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yehoshafati",
 "media_type": "Text",
 "index_reference": "yehoshafati",
@@ -1022,9 +994,9 @@
 {
 "id": "person:Jehoshaphat.3",
 "type": "person",
-"preferred_label": "Yehoshafati",
 "confidence": 0.7283,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Yehoshafati"
 }
 ]
 }
@@ -1032,7 +1004,7 @@
 {
 "content_id": "734366",
 "reference_id": 203466,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yeremia",
 "media_type": "Text",
 "index_reference": "yeremia",
@@ -1185,9 +1157,9 @@
 {
 "id": "person:Jeremiah.6",
 "type": "person",
-"preferred_label": "Yeremia",
 "confidence": 0.6719,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Yeremia"
 }
 ]
 }
@@ -1195,7 +1167,7 @@
 {
 "content_id": "734341",
 "reference_id": 203441,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yeroboamu I",
 "media_type": "Text",
 "index_reference": "yeroboamu i",
@@ -1312,9 +1284,9 @@
 {
 "id": "person:Jeroboam",
 "type": "person",
-"preferred_label": "Yeroboamu",
-"confidence": 0.6271,
-"match_method": "scored"
+"confidence": 0.6226,
+"match_method": "scored",
+"preferred_label": "Yeroboamu"
 }
 ]
 }
@@ -1322,7 +1294,7 @@
 {
 "content_id": "734348",
 "reference_id": 203448,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yeroboamu wa Pili",
 "media_type": "Text",
 "index_reference": "yeroboamu wa pili",
@@ -1391,9 +1363,9 @@
 {
 "id": "person:Jeroboam.2",
 "type": "person",
-"preferred_label": "Yeroboamu",
-"confidence": 0.671,
-"match_method": "scored"
+"confidence": 0.7385,
+"match_method": "scored",
+"preferred_label": "Yeroboamu"
 }
 ]
 }
@@ -1401,10 +1373,10 @@
 {
 "content_id": "734312",
 "reference_id": 203412,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yethro (Reueli)",
 "media_type": "Text",
-"index_reference": "yethro (reueli)",
+"index_reference": "yethro reueli",
 "language": "swh",
 "review_level": "None",
 "content": "<p>Yethro, pia anajulikana kama Reueli (<a href=\"https://ref.ly/Exod2:16-Exod2:18\">Kutoka 2:16–18</a>; <a href=\"https://ref.ly/Num10:29\">Hesabu 10:29</a>), alikuwa kuhani wa Midiani (<a href=\"https://ref.ly/Exod2:16\">Kutoka 2:16</a>). Mose aliwaokoa binti saba wa Yethro kutoka kwa wachungaji wakorofi kwenye kisima na kuwasaidia kuwanywesha mifugo yao. Nyumbani, walimwambia baba yao kuhusu tukio hili la kushangaza na Mmisri. Yethro alifurahi na kumwalika Mose kwa chakula. Mose aliamua kukaa hapo. Baadaye, Yethro alimpa binti yake Sipora kwa Mose kuwa mke.</p><p>Wakati Mose alipokuwa akiishi Midiani na baba mkwe wake, alikutana na Mungu kwenye kichaka kinachowaka moto (<a href=\"https://ref.ly/Exod3:1-Exod3:2\">Kutoka 3:1–2</a>). Kabla ya kwenda Misri, Mose alimwomba Yethro ruhusa ya kuondoka. Baadaye, alimtuma familia yake kukaa na Yethro wakati wa kutoka Misri.</p><p>Wakati Mose na Waisraeli walipokuwa nyikani, Yethro alirudi na familia ya Mose. Yethro alisikia jinsi Yahweh alivyowaokoa watu wake kutoka Misri na akamtambua kama mkuu kuliko miungu yote mingine. Alimwabudu Yahweh kwa kutoa sadaka ya kuteketezwa na dhabihu, akijiunga na Israeli (<a href=\"https://ref.ly/Exod18:11\">Kutoka 18:11</a>). Kwa kujibu, viongozi wa Israeli walijiunga naye kwa mlo wa dhabihu mbele ya Mungu (<a href=\"https://ref.ly/Exod18:12\">Kutoka 18:12</a>).</p><p>Yethro alitambua kwamba Mose alikuwa amelemewa na kazi ya kusimamia Waisraeli wengi. Alimshauri Mose kupanga watu vizuri zaidi na kutatua migogoro yao (<a href=\"https://ref.ly/Exod18:13-Exod18:23\">Kutoka 18:13–23</a>). Mose alifuata ushauri huu na akachagua wanaume wenye uwezo kusaidia kama viongozi na waamuzi (<a href=\"https://ref.ly/Exod18:24-Exod18:27\">Kutoka 18:24–27</a>). Yethro alirudi Midiani na hakuendelea kuhusika na Israeli, lakini mwanawe (<a href=\"https://ref.ly/Num10:29-Num10:33\">Hesabu 10:29–33</a>) na wazao wengine baadaye walikaa na Waisraeli (<a href=\"https://ref.ly/Judg1:16\">Waamuzi 1:16</a>; <a href=\"https://ref.ly/Judg4:11\">4:11</a>).</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Exod2:16-Exod2:25\">Kutoka 2:16–25</a>; <a href=\"https://ref.ly/Exod3:1\">3:1</a>; <a href=\"https://ref.ly/Exod18:1-Exod18:27\">18:1–27</a>; <a href=\"https://ref.ly/Num10:29\">Hesabu 10:29</a>; <a href=\"https://ref.ly/Judg1:16\">Waamuzi 1:16</a>; <a href=\"https://ref.ly/Judg4:11\">4:11</a></p>",
@@ -1500,9 +1472,9 @@
 {
 "id": "person:Jethro",
 "type": "person",
-"preferred_label": "Yethro",
 "confidence": 0.687,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Yethro"
 }
 ]
 }
@@ -1510,7 +1482,7 @@
 {
 "content_id": "734344",
 "reference_id": 203444,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yezebeli",
 "media_type": "Text",
 "index_reference": "yezebeli",
@@ -1609,9 +1581,9 @@
 {
 "id": "person:Jezebel",
 "type": "person",
-"preferred_label": "Yezebeli",
 "confidence": 0.6364,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Yezebeli"
 }
 ]
 }
@@ -1619,7 +1591,7 @@
 {
 "content_id": "734338",
 "reference_id": 203438,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yoabu",
 "media_type": "Text",
 "index_reference": "yoabu",
@@ -1922,9 +1894,9 @@
 {
 "id": "person:Joab",
 "type": "person",
-"preferred_label": "Yoabu",
 "confidence": 0.7659,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Yoabu"
 }
 ]
 }
@@ -1932,7 +1904,7 @@
 {
 "content_id": "734402",
 "reference_id": 203502,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yohana Marko",
 "media_type": "Text",
 "index_reference": "yohana marko",
@@ -2013,9 +1985,9 @@
 {
 "id": "person:Mark",
 "type": "person",
-"preferred_label": "Marko",
-"confidence": 0.6655,
-"match_method": "scored"
+"confidence": 0.85,
+"match_method": "scored",
+"preferred_label": "Marko"
 }
 ]
 }
@@ -2023,7 +1995,7 @@
 {
 "content_id": "734390",
 "reference_id": 203490,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yohana Mbatizaji",
 "media_type": "Text",
 "index_reference": "yohana mbatizaji",
@@ -2412,16 +2384,24 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.7262,
+"match_method": "scored",
+"preferred_label": "Yohana"
+}
+]
 }
 },
 {
 "content_id": "734394",
 "reference_id": 203494,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yohana, Mwana wa Zebedayo",
 "media_type": "Text",
-"index_reference": "yohana, mwana wa zebedayo",
+"index_reference": "yohana mwana wa zebedayo",
 "language": "swh",
 "review_level": "None",
 "content": "<p>Yohana alikuwa mmoja wa wale wafuasi kumi na wawili wa karibu zaidi wa Yesu (walioitwa mitume). Alikuwa kaka yake Yakobo na mwana wa Zebedayo. Yesu aliwachagua wanaume hawa kumi na wawili kama wawakilishi wake maalum na akawapa mamlaka ya kuwafundisha wengine kumhusu. Kazi yao ilisaidia kuanzisha kanisa la awali. Mapokeo ya awali yanasema Yohana, mwana wa Zebedayo, aliandika Injili ya Yohana, Barua za Yohana, na Kitabu cha Ufunuo.</p><p>Yohana na kaka yake Yakobo walikuwa miongoni mwa wafuasi wa karibu wa Yesu (<a href=\"https://ref.ly/Mark5:37\">Marko 5:37</a>; <a href=\"https://ref.ly/Mark9:2\">9:2</a>; <a href=\"https://ref.ly/Mark13:3\">13:3</a>; <a href=\"https://ref.ly/Mark14:33\">14:33</a>). Mama yao, Salome, huenda alikuwa dada wa Maria, mama wa Yesu (linganisha <a href=\"https://ref.ly/Matt27:56\">Mathayo 27:56</a>; <a href=\"https://ref.ly/Mark15:40\">Marko 15:40</a>; <a href=\"https://ref.ly/Mark16:1\">16:1</a>; <a href=\"https://ref.ly/John19:25\">Yohana 19:25</a>). Jina la Yohana mara nyingi huonekana baada ya Yakobo, ikionyesha kwamba Yohana alikuwa mdogo. Yakobo na Yohana walikuwa wavuvi kama baba yao (<a href=\"https://ref.ly/Matt4:21\">Mathayo 4:21</a>; <a href=\"https://ref.ly/Mark1:19\">Marko 1:19</a>). Walivua samaki pamoja na Petro na Andrea, jozi nyingine ya ndugu waliokuwa wanafunzi (<a href=\"https://ref.ly/Luke5:8-Luke5:10\">Luka 5:8–10</a>).</p><p>Walikuwa miongoni mwa wanafunzi wa kwanza ambao Yesu aliwaita, na waliliacha kila kitu ili kumfuata (<a href=\"https://ref.ly/Matt4:22\">Mathayo 4:22</a>; <a href=\"https://ref.ly/Mark1:20\">Marko 1:20</a>; <a href=\"https://ref.ly/Luke5:11\">Luka 5:11</a>; linganisha <a href=\"https://ref.ly/John1:35-John1:40\">Yohana 1:35–40</a>). Yesu aliwapa jina &quot;Wana wa Radi&quot; (<a href=\"https://ref.ly/Mark3:17\">Marko 3:17</a>). Jina hili linaweza kumaanisha kuwa walikuwa na sauti kubwa au walikuwa na hasira ya haraka (tazama <a href=\"https://ref.ly/Luke9:54\">Luka 9:54</a>). Wakati mmoja, ndugu hao waliwakera wanafunzi wengine kwa kuomba nafasi maalum katika ufalme ujao (<a href=\"https://ref.ly/Matt20:20-Matt20:28\">Mathayo 20:20–28</a>; <a href=\"https://ref.ly/Mark10:35-Mark10:45\">Marko 10:35–45</a>; linganisha <a href=\"https://ref.ly/Luke22:24-Luke22:27\">Luka 22:24–27</a>).</p><p>Watu wanaamini Yohana ndiye &quot;mwanafunzi Yesu aliyempenda&quot; asiyejulikana na &quot;mwanafunzi mwingine&quot; aliyetajwa katika injili ya Yohana (<a href=\"https://ref.ly/John13:23-John13:25\">Yohana 13:23–25</a>; <a href=\"https://ref.ly/John18:15-John18:16\">18:15–16</a>; <a href=\"https://ref.ly/John19:26-John19:27\">19:26–27</a>; <a href=\"https://ref.ly/John20:2-John20:10\">20:2–10</a>; <a href=\"https://ref.ly/John21:20-John21:24\">21:20–24</a>). Inawezekana alikuwa mwanafunzi asiyejulikana wa Yohana Mbatizaji ambaye, pamoja na Andrea, alikua mfuasi wa mapema wa Yesu (<a href=\"https://ref.ly/John1:35-John1:40\">Yohana 1:35–40</a>).</p><p>Jina la Yohana linatajwa mara tatu katika Matendo. Kila wakati, anashirikiana na Petro (<a href=\"https://ref.ly/Acts3:1-Acts3:11\">Matendo 3:1–11</a>; <a href=\"https://ref.ly/Acts4:1-Acts4:23\">4:1–23</a>; <a href=\"https://ref.ly/Acts8:14-Acts8:25\">8:14–25</a>). Paulo alimuita mmoja wa &quot;nguzo&quot; za kanisa huko Yerusalemu (<a href=\"https://ref.ly/Gal2:9\">Wagalatia 2:9</a>). Hii inaonyesha kwamba Yohana alikuwa kiongozi muhimu katika kanisa la Yerusalemu.</p><p>Desturi maarufu zaidi kuhusu maisha ya baadaye ya Yohana ni kwamba alihamia Efeso, ambako hatimaye alikua askofu wa Asia Ndogo. Aliishi hadi uzeeni na alikufa kwa amani miongoni mwa marafiki. Injili ya Yohana inatoa picha ya kina ya Yesu, na barua zake (<a href=\"https://ref.ly/1John1:1-1John5:21\">1 Yohana</a>, <a href=\"https://ref.ly/2John1:1-2John1:13\">2 Yohana</a>, na <a href=\"https://ref.ly/3John1:1-3John1:14\">3 Yohana</a>) zinatoa mtazamo wa kuvutia wa maisha ya Kikristo.</p><p><u>Sehemu za Kujifunza Zaidi</u></p><p><a href=\"https://ref.ly/Matt4:21-Matt4:22\">Mathayo 4:21–22</a>; <a href=\"https://ref.ly/Matt10:2\">10:2</a>; <a href=\"https://ref.ly/Matt17:1\">17:1</a>; <a href=\"https://ref.ly/Matt20:20-Matt20:24\">20:20–24</a>; <a href=\"https://ref.ly/Matt26:37-Matt26:46\">26:37–46</a>; <a href=\"https://ref.ly/Mark1:19-Mark1:20\">Marko 1:19–20</a>, <a href=\"https://ref.ly/Mark1:29\">29</a>; <a href=\"https://ref.ly/Mark3:17\">3:17</a>; <a href=\"https://ref.ly/Mark5:37\">5:37</a>; <a href=\"https://ref.ly/Mark9:2\">9:2</a>, <a href=\"https://ref.ly/Mark9:38\">38</a>; <a href=\"https://ref.ly/Mark10:35-Mark10:41\">10:35–41</a>; <a href=\"https://ref.ly/Mark13:3-Mark13:4\">13:3–4</a>; <a href=\"https://ref.ly/Mark14:33-Mark14:42\">14:33–42</a>; <a href=\"https://ref.ly/Luke5:10\">Luka 5:10</a>; <a href=\"https://ref.ly/Luke6:14\">6:14</a>; <a href=\"https://ref.ly/Luke8:51\">8:51</a>; <a href=\"https://ref.ly/Luke9:28\">9:28</a>, <a href=\"https://ref.ly/Luke9:49\">49</a>, <a href=\"https://ref.ly/Luke9:54\">54</a>; <a href=\"https://ref.ly/John13:23-John13:25\">Yohana 13:23–25</a>; <a href=\"https://ref.ly/John18:15-John18:16\">18:15–16</a>; <a href=\"https://ref.ly/John19:26-John19:27\">19:26–27</a>; <a href=\"https://ref.ly/John20:2-John20:10\">20:2–10</a>; <a href=\"https://ref.ly/John21:2\">21:2</a>, <a href=\"https://ref.ly/John21:7\">7</a>, <a href=\"https://ref.ly/John21:20-John21:24\">20–24</a>; <a href=\"https://ref.ly/Acts1:13\">Matendo 1:13</a>; <a href=\"https://ref.ly/Acts3:1-Acts3:11\">3:1–11</a>; <a href=\"https://ref.ly/Acts4:1-Acts4:22\">4:1–22</a>; <a href=\"https://ref.ly/Acts5:17-Acts5:42\">5:17–42</a>; <a href=\"https://ref.ly/Acts8:14-Acts8:25\">8:14–25</a>; <a href=\"https://ref.ly/Gal2:9\">Wagalatia 2:9</a></p>",
@@ -2735,7 +2715,7 @@
 {
 "content_id": "734328",
 "reference_id": 203428,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yonathani",
 "media_type": "Text",
 "index_reference": "yonathani",
@@ -2822,9 +2802,9 @@
 {
 "id": "person:Jonathan.3",
 "type": "person",
-"preferred_label": "Yonathani",
 "confidence": 0.7781,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Yonathani"
 }
 ]
 }
@@ -2832,7 +2812,7 @@
 {
 "content_id": "734306",
 "reference_id": 203406,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yosefu",
 "media_type": "Text",
 "index_reference": "yosefu",
@@ -2967,86 +2947,9 @@
 {
 "id": "person:Joseph.10",
 "type": "person",
-"preferred_label": "Yusufu",
-"confidence": 0.8345,
-"match_method": "embedding"
-},
-{
-"id": "person:Joseph.11",
-"type": "person",
-"preferred_label": "Yusufu",
-"confidence": 0.8345,
-"match_method": "embedding"
-},
-{
-"id": "person:Joseph.12",
-"type": "person",
-"preferred_label": "Yusufu",
-"confidence": 0.8345,
-"match_method": "embedding"
-},
-{
-"id": "person:Joseph.13",
-"type": "person",
-"preferred_label": "Yusufu",
-"confidence": 0.8345,
-"match_method": "embedding"
-},
-{
-"id": "person:Joseph.14",
-"type": "person",
-"preferred_label": "Yusufu",
-"confidence": 0.8345,
-"match_method": "embedding"
-},
-{
-"id": "person:Joseph.3",
-"type": "person",
-"preferred_label": "Yusufu",
-"confidence": 0.8345,
-"match_method": "embedding"
-},
-{
-"id": "person:Joseph.4",
-"type": "person",
-"preferred_label": "Yusufu",
-"confidence": 0.8345,
-"match_method": "embedding"
-},
-{
-"id": "person:Joseph.5",
-"type": "person",
-"preferred_label": "Yusufu",
-"confidence": 0.8345,
-"match_method": "embedding"
-},
-{
-"id": "person:Joseph.6",
-"type": "person",
-"preferred_label": "Yusufu",
-"confidence": 0.8345,
-"match_method": "embedding"
-},
-{
-"id": "person:Joseph.7",
-"type": "person",
-"preferred_label": "Yusufu",
-"confidence": 0.8345,
-"match_method": "embedding"
-},
-{
-"id": "person:Joseph.8",
-"type": "person",
-"preferred_label": "Yusufu",
-"confidence": 0.8345,
-"match_method": "embedding"
-},
-{
-"id": "person:Joseph.9",
-"type": "person",
-"preferred_label": "Yusufu",
-"confidence": 0.8345,
-"match_method": "embedding"
+"confidence": 0.7216,
+"match_method": "scored",
+"preferred_label": "Yusufu"
 }
 ]
 }
@@ -3054,7 +2957,7 @@
 {
 "content_id": "734318",
 "reference_id": 203418,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yoshua",
 "media_type": "Text",
 "index_reference": "yoshua",
@@ -3285,9 +3188,9 @@
 {
 "id": "person:Joshua.2",
 "type": "person",
-"preferred_label": "Yoshua",
 "confidence": 0.6797,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Yoshua"
 }
 ]
 }
@@ -3295,7 +3198,7 @@
 {
 "content_id": "734351",
 "reference_id": 203451,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yosia",
 "media_type": "Text",
 "index_reference": "yosia",
@@ -3436,9 +3339,9 @@
 {
 "id": "person:Josiah",
 "type": "person",
-"preferred_label": "Yosia",
 "confidence": 0.6934,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Yosia"
 }
 ]
 }
@@ -3446,7 +3349,7 @@
 {
 "content_id": "734307",
 "reference_id": 203407,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yuda",
 "media_type": "Text",
 "index_reference": "yuda",
@@ -3611,23 +3514,23 @@
 {
 "id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Yuda",
 "confidence": 0.7014,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Yuda"
 },
 {
 "id": "person:Judah.3",
 "type": "person",
-"preferred_label": "Yuda",
 "confidence": 0.6027,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Yuda"
 },
 {
 "id": "person:Joda",
 "type": "person",
-"preferred_label": "Yuda",
-"confidence": 0.6027,
-"match_method": "scored"
+"confidence": 0.5532,
+"match_method": "scored",
+"preferred_label": "Yuda"
 }
 ]
 }
@@ -3635,7 +3538,7 @@
 {
 "content_id": "734385",
 "reference_id": 203485,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Yuda Iskariote",
 "media_type": "Text",
 "index_reference": "yuda iskariote",
@@ -3836,9 +3739,9 @@
 {
 "id": "person:Judas.2",
 "type": "person",
-"preferred_label": "Yuda",
-"confidence": 0.6234,
-"match_method": "scored"
+"confidence": 0.7179,
+"match_method": "scored",
+"preferred_label": "Yuda"
 }
 ]
 }

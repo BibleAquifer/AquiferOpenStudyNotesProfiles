@@ -2,7 +2,7 @@
 {
 "content_id": "668858",
 "reference_id": 203400,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Isaac",
 "media_type": "Text",
 "index_reference": "isaac",
@@ -287,9 +287,9 @@
 {
 "id": "person:Isaac",
 "type": "person",
-"preferred_label": "Isaac",
 "confidence": 0.7182,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Isaac"
 }
 ]
 }
@@ -297,7 +297,7 @@
 {
 "content_id": "668855",
 "reference_id": 203397,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ismaël",
 "media_type": "Text",
 "index_reference": "ismaël",
@@ -468,9 +468,9 @@
 {
 "id": "person:Ishmael",
 "type": "person",
-"preferred_label": "Ismaël",
 "confidence": 0.6691,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ismaël"
 }
 ]
 }

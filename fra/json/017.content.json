@@ -2,7 +2,7 @@
 {
 "content_id": "668898",
 "reference_id": 203440,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Salomon",
 "media_type": "Text",
 "index_reference": "salomon",
@@ -131,9 +131,9 @@
 {
 "id": "person:Solomon",
 "type": "person",
-"preferred_label": "Salomon",
 "confidence": 0.7211,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Salomon"
 }
 ]
 }
@@ -141,7 +141,7 @@
 {
 "content_id": "668950",
 "reference_id": 203492,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samaritains",
 "media_type": "Text",
 "index_reference": "samaritains",
@@ -180,9 +180,9 @@
 {
 "id": "group:Samaritan",
 "type": "group",
-"preferred_label": "Shimrath",
-"confidence": 0.5951,
-"match_method": "scored"
+"confidence": 0.6176,
+"match_method": "scored",
+"preferred_label": "Shimrath"
 }
 ]
 }
@@ -190,7 +190,7 @@
 {
 "content_id": "668882",
 "reference_id": 203424,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samson",
 "media_type": "Text",
 "index_reference": "samson",
@@ -265,9 +265,9 @@
 {
 "id": "person:Samson",
 "type": "person",
-"preferred_label": "Samson",
 "confidence": 0.7178,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Samson"
 }
 ]
 }
@@ -275,7 +275,7 @@
 {
 "content_id": "668890",
 "reference_id": 203432,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samuel",
 "media_type": "Text",
 "index_reference": "samuel",
@@ -476,9 +476,9 @@
 {
 "id": "person:Samuel",
 "type": "person",
-"preferred_label": "Samuel",
 "confidence": 0.7249,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Samuel"
 }
 ]
 }
@@ -486,7 +486,7 @@
 {
 "content_id": "668856",
 "reference_id": 203398,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sara",
 "media_type": "Text",
 "index_reference": "sara",
@@ -669,9 +669,9 @@
 {
 "id": "person:Sarah",
 "type": "person",
-"preferred_label": "Sara",
 "confidence": 0.7007,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Sara"
 }
 ]
 }
@@ -679,7 +679,7 @@
 {
 "content_id": "668922",
 "reference_id": 203464,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Satan",
 "media_type": "Text",
 "index_reference": "satan",
@@ -1006,9 +1006,9 @@
 {
 "id": "deity:Satan",
 "type": "deity",
-"preferred_label": "Satan",
 "confidence": 0.7138,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Satan"
 }
 ]
 }
@@ -1016,7 +1016,7 @@
 {
 "content_id": "668885",
 "reference_id": 203427,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Saül",
 "media_type": "Text",
 "index_reference": "saül",
@@ -1085,9 +1085,9 @@
 {
 "id": "person:Saul.2",
 "type": "person",
-"preferred_label": "Saül",
 "confidence": 0.7601,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Saül"
 }
 ]
 }
@@ -1095,7 +1095,7 @@
 {
 "content_id": "668938",
 "reference_id": 203480,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Simon Pierre",
 "media_type": "Text",
 "index_reference": "simon pierre",
@@ -1800,9 +1800,9 @@
 {
 "id": "person:Peter",
 "type": "person",
-"preferred_label": "Pierre",
-"confidence": 0.5833,
-"match_method": "scored"
+"confidence": 0.6823,
+"match_method": "scored",
+"preferred_label": "Pierre"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "734353",
 "reference_id": 203453,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babuloni",
 "media_type": "Text",
 "index_reference": "babuloni",
@@ -109,13 +109,42 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.6782,
+"match_method": "scored",
+"preferred_label": "Babeli"
+},
+{
+"id": "place:Shinar",
+"type": "place",
+"confidence": 0.6044,
+"match_method": "scored",
+"preferred_label": "Shinari"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylonia"
+},
+{
+"id": "place:Babylon.2",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylon"
+}
+]
 }
 },
 {
 "content_id": "734316",
 "reference_id": 203416,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Balaamu",
 "media_type": "Text",
 "index_reference": "balaamu",
@@ -232,9 +261,9 @@
 {
 "id": "person:Balaam",
 "type": "person",
-"preferred_label": "Balaamu",
 "confidence": 0.7806,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Balaamu"
 }
 ]
 }
@@ -242,7 +271,7 @@
 {
 "content_id": "734382",
 "reference_id": 203482,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baraza Kuu la Wayahudi",
 "media_type": "Text",
 "index_reference": "baraza kuu la wayahudi",
@@ -355,7 +384,7 @@
 {
 "content_id": "734397",
 "reference_id": 203497,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barnaba",
 "media_type": "Text",
 "index_reference": "barnaba",
@@ -472,9 +501,16 @@
 {
 "id": "person:Barnabas",
 "type": "person",
-"preferred_label": "Barnaba",
 "confidence": 0.6611,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Barnaba"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 0.5536,
+"match_method": "scored",
+"preferred_label": "Yuda"
 }
 ]
 }
@@ -482,7 +518,7 @@
 {
 "content_id": "734367",
 "reference_id": 203467,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baruku",
 "media_type": "Text",
 "index_reference": "baruku",
@@ -593,9 +629,9 @@
 {
 "id": "person:Baruch.4",
 "type": "person",
-"preferred_label": "Baruku",
 "confidence": 0.6777,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Baruku"
 }
 ]
 }
@@ -603,7 +639,7 @@
 {
 "content_id": "734335",
 "reference_id": 203435,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bathsheba",
 "media_type": "Text",
 "index_reference": "bathsheba",
@@ -720,9 +756,9 @@
 {
 "id": "person:Bathsheba",
 "type": "person",
-"preferred_label": "Bathsheba",
 "confidence": 0.628,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Bathsheba"
 }
 ]
 }

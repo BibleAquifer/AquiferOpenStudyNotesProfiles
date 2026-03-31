@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesProfiles",
-"date_created": "2026-02-27",
+"date_created": "2026-03-31",
 "language": "eng",
 "localizations": [
 "arb",
@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-27T17:22:17.253130"
+"dateCreated": "2026-03-31T09:58:10.633853"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesProfiles": {
-"timestamp": "2026-02-27T17:22:17.253130"
+"timestamp": "2026-03-31T09:58:10.633853"
 }
 }
 },
@@ -95,7 +95,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 95041,
+"size": 99298,
 "scope": {
 "a": [
 "Aaron",
@@ -107,6 +107,7 @@
 "Adam and Eve",
 "Ahab",
 "Ahaz",
+"The Amalekites",
 "Annas and Caiaphas",
 "Antiochus IV",
 "Apollos",
@@ -171,10 +172,11 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 3817,
+"size": 8899,
 "scope": {
 "g": [
-"Gideon"
+"Gideon",
+"The Greeks"
 ]
 }
 },
@@ -207,7 +209,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 152617,
+"size": 157115,
 "scope": {
 "j": [
 "Jacob",
@@ -218,12 +220,13 @@
 "Jeroboam I",
 "Jeroboam II",
 "Jethro (Reuel)",
+"The Jewish High Council",
 "Jewish Leaders",
 "Jezebel",
 "Joab",
 "John Mark",
-"John the Baptist",
 "John, Son of Zebedee",
+"John the Baptist",
 "Jonathan",
 "Joseph",
 "Joshua",
@@ -246,7 +249,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 56604,
+"size": 61354,
 "scope": {
 "m": [
 "Maccabees",
@@ -254,6 +257,7 @@
 "Martha, Mary, and Lazarus",
 "Mary, Mother of Jesus",
 "Matthew (Levi)",
+"The Medes and Persians",
 "Melchizedek",
 "Michal",
 "Moab and Ammon",
@@ -276,13 +280,15 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 41563,
+"size": 62174,
 "scope": {
 "p": [
 "Paul (Saul)",
 "Pharaoh",
+"The Pharisees",
 "Philip",
 "Philippi",
+"The Philistines",
 "Pontius Pilate",
 "Priscilla and Aquila"
 ]
@@ -290,13 +296,14 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 34490,
+"size": 38924,
 "scope": {
 "r": [
 "Rachel",
 "Rahab",
 "Rebekah",
 "Rehoboam",
+"The Roman Church",
 "Roman Emperors",
 "Rome",
 "Ruth"
@@ -305,9 +312,10 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 75969,
+"size": 87267,
 "scope": {
 "s": [
+"The Sadducees",
 "Samaritans",
 "Samson",
 "Samuel",
@@ -316,24 +324,16 @@
 "Saul",
 "Simon Peter",
 "Solomon",
+"The Son of Man",
 "Stephen"
 ]
 }
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 75545,
+"size": 20567,
 "scope": {
 "t": [
-"The Amalekites",
-"The Greeks",
-"The Jewish High Council",
-"The Medes and Persians",
-"The Pharisees",
-"The Philistines",
-"The Roman Church",
-"The Sadducees",
-"The Son of Man",
 "Thomas",
 "Timothy",
 "Titus"
@@ -379,7 +379,7 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 56678
+"size": 58973
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
@@ -399,7 +399,7 @@
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 3495
+"size": 8146
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
@@ -411,7 +411,7 @@
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 81405
+"size": 83764
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
@@ -419,7 +419,7 @@
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 34329
+"size": 38311
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
@@ -427,19 +427,19 @@
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 25793
+"size": 35731
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 22531
+"size": 25422
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 40406
+"size": 46629
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 44912
+"size": 12573
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
@@ -459,163 +459,163 @@
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 64554
-},
-"pdf/001.content.pdf": {
-"mimeType": "application/pdf",
-"size": 435933
+"size": 65462
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 50583
 },
-"pdf/002.content.pdf": {
-"mimeType": "application/pdf",
-"size": 289933
-},
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 46434
-},
-"pdf/003.content.pdf": {
-"mimeType": "application/pdf",
-"size": 205186
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 48239
 },
-"pdf/004.content.pdf": {
-"mimeType": "application/pdf",
-"size": 217134
-},
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 55871
 },
-"pdf/005.content.pdf": {
-"mimeType": "application/pdf",
-"size": 318130
-},
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43504
-},
-"pdf/006.content.pdf": {
-"mimeType": "application/pdf",
-"size": 170003
+"size": 45779
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 51513
 },
-"pdf/007.content.pdf": {
-"mimeType": "application/pdf",
-"size": 274143
-},
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 47019
 },
-"pdf/008.content.pdf": {
-"mimeType": "application/pdf",
-"size": 216374
-},
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 73659
-},
-"pdf/009.content.pdf": {
-"mimeType": "application/pdf",
-"size": 574582
+"size": 74755
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 46302
 },
-"pdf/010.content.pdf": {
-"mimeType": "application/pdf",
-"size": 217775
-},
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 56064
-},
-"pdf/011.content.pdf": {
-"mimeType": "application/pdf",
-"size": 315946
+"size": 57804
 },
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 47989
 },
-"pdf/012.content.pdf": {
-"mimeType": "application/pdf",
-"size": 238787
-},
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 52526
-},
-"pdf/013.content.pdf": {
-"mimeType": "application/pdf",
-"size": 287897
+"size": 56512
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 51872
-},
-"pdf/014.content.pdf": {
-"mimeType": "application/pdf",
-"size": 277421
+"size": 52951
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 58497
-},
-"pdf/015.content.pdf": {
-"mimeType": "application/pdf",
-"size": 385207
+"size": 60987
 },
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 60324
-},
-"pdf/016.content.pdf": {
-"mimeType": "application/pdf",
-"size": 408544
+"size": 46964
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43257
 },
-"pdf/017.content.pdf": {
-"mimeType": "application/pdf",
-"size": 173392
-},
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43780
-},
-"pdf/018.content.pdf": {
-"mimeType": "application/pdf",
-"size": 214433
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43242
 },
-"pdf/019.content.pdf": {
-"mimeType": "application/pdf",
-"size": 169510
-},
 "docx/020.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 44536
 },
+"pdf/001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 343923
+},
+"pdf/002.content.pdf": {
+"mimeType": "application/pdf",
+"size": 153430
+},
+"pdf/003.content.pdf": {
+"mimeType": "application/pdf",
+"size": 94451
+},
+"pdf/004.content.pdf": {
+"mimeType": "application/pdf",
+"size": 115776
+},
+"pdf/005.content.pdf": {
+"mimeType": "application/pdf",
+"size": 213316
+},
+"pdf/006.content.pdf": {
+"mimeType": "application/pdf",
+"size": 85089
+},
+"pdf/007.content.pdf": {
+"mimeType": "application/pdf",
+"size": 151761
+},
+"pdf/008.content.pdf": {
+"mimeType": "application/pdf",
+"size": 121568
+},
+"pdf/009.content.pdf": {
+"mimeType": "application/pdf",
+"size": 534852
+},
+"pdf/010.content.pdf": {
+"mimeType": "application/pdf",
+"size": 96219
+},
+"pdf/011.content.pdf": {
+"mimeType": "application/pdf",
+"size": 238148
+},
+"pdf/012.content.pdf": {
+"mimeType": "application/pdf",
+"size": 115695
+},
+"pdf/013.content.pdf": {
+"mimeType": "application/pdf",
+"size": 238762
+},
+"pdf/014.content.pdf": {
+"mimeType": "application/pdf",
+"size": 174044
+},
+"pdf/015.content.pdf": {
+"mimeType": "application/pdf",
+"size": 334723
+},
+"pdf/016.content.pdf": {
+"mimeType": "application/pdf",
+"size": 125531
+},
+"pdf/017.content.pdf": {
+"mimeType": "application/pdf",
+"size": 63356
+},
+"pdf/018.content.pdf": {
+"mimeType": "application/pdf",
+"size": 83383
+},
+"pdf/019.content.pdf": {
+"mimeType": "application/pdf",
+"size": 57104
+},
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 186709
+"size": 79959
 }
 },
 "copyright": {
@@ -1435,7 +1435,7 @@
 "500469": {
 "content_id": "500469",
 "reference_id": 203412,
-"index_reference": "jethro (reuel)",
+"index_reference": "jethro reuel",
 "localizations": {
 "arb": {
 "content_id": 726041,
@@ -1813,7 +1813,7 @@
 "500478": {
 "content_id": "500478",
 "reference_id": 203421,
-"index_reference": "the philistines",
+"index_reference": "philistines",
 "localizations": {
 "arb": {
 "content_id": 726050,
@@ -2233,7 +2233,7 @@
 "500488": {
 "content_id": "500488",
 "reference_id": 203431,
-"index_reference": "the amalekites",
+"index_reference": "amalekites",
 "localizations": {
 "arb": {
 "content_id": 726060,
@@ -3451,7 +3451,7 @@
 "500517": {
 "content_id": "500517",
 "reference_id": 203460,
-"index_reference": "the medes and persians",
+"index_reference": "medes and persians",
 "localizations": {
 "arb": {
 "content_id": 726089,
@@ -3913,7 +3913,7 @@
 "500528": {
 "content_id": "500528",
 "reference_id": 203471,
-"index_reference": "the son of man",
+"index_reference": "son of man",
 "localizations": {
 "arb": {
 "content_id": 726100,
@@ -3955,7 +3955,7 @@
 "500529": {
 "content_id": "500529",
 "reference_id": 203472,
-"index_reference": "the greeks",
+"index_reference": "greeks",
 "localizations": {
 "arb": {
 "content_id": 726101,
@@ -4207,7 +4207,7 @@
 "500535": {
 "content_id": "500535",
 "reference_id": 203478,
-"index_reference": "the pharisees",
+"index_reference": "pharisees",
 "localizations": {
 "arb": {
 "content_id": 726107,
@@ -4249,7 +4249,7 @@
 "500536": {
 "content_id": "500536",
 "reference_id": 203479,
-"index_reference": "matthew (levi)",
+"index_reference": "matthew levi",
 "localizations": {
 "arb": {
 "content_id": 726108,
@@ -4333,7 +4333,7 @@
 "500538": {
 "content_id": "500538",
 "reference_id": 203481,
-"index_reference": "the sadducees",
+"index_reference": "sadducees",
 "localizations": {
 "arb": {
 "content_id": 726110,
@@ -4375,7 +4375,7 @@
 "500539": {
 "content_id": "500539",
 "reference_id": 203482,
-"index_reference": "the jewish high council",
+"index_reference": "jewish high council",
 "localizations": {
 "arb": {
 "content_id": 726111,
@@ -4585,7 +4585,7 @@
 "500544": {
 "content_id": "500544",
 "reference_id": 203487,
-"index_reference": "mary, mother of jesus",
+"index_reference": "mary mother of jesus",
 "localizations": {
 "arb": {
 "content_id": 726116,
@@ -4627,7 +4627,7 @@
 "500545": {
 "content_id": "500545",
 "reference_id": 203488,
-"index_reference": "james, son of zebedee",
+"index_reference": "james son of zebedee",
 "localizations": {
 "arb": {
 "content_id": 726117,
@@ -4669,7 +4669,7 @@
 "500546": {
 "content_id": "500546",
 "reference_id": 203489,
-"index_reference": "martha, mary, and lazarus",
+"index_reference": "martha mary and lazarus",
 "localizations": {
 "arb": {
 "content_id": 726118,
@@ -4879,7 +4879,7 @@
 "500551": {
 "content_id": "500551",
 "reference_id": 203494,
-"index_reference": "john, son of zebedee",
+"index_reference": "john son of zebedee",
 "localizations": {
 "arb": {
 "content_id": 726123,
@@ -5131,7 +5131,7 @@
 "500557": {
 "content_id": "500557",
 "reference_id": 203500,
-"index_reference": "paul (saul)",
+"index_reference": "paul saul",
 "localizations": {
 "arb": {
 "content_id": 726129,
@@ -5257,7 +5257,7 @@
 "500560": {
 "content_id": "500560",
 "reference_id": 203503,
-"index_reference": "james, brother of jesus",
+"index_reference": "james brother of jesus",
 "localizations": {
 "arb": {
 "content_id": 726132,
@@ -5551,7 +5551,7 @@
 "500567": {
 "content_id": "500567",
 "reference_id": 203510,
-"index_reference": "the roman church",
+"index_reference": "roman church",
 "localizations": {
 "arb": {
 "content_id": 726139,

@@ -2,7 +2,7 @@
 {
 "content_id": "650837",
 "reference_id": 203421,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "非利士人",
 "media_type": "Text",
 "index_reference": "非利士人",
@@ -205,13 +205,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.6944,
+"match_method": "scored",
+"preferred_label": "Philistines"
+}
+]
 }
 },
 {
 "content_id": "650929",
 "reference_id": 203513,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "腓立比",
 "media_type": "Text",
 "index_reference": "腓立比",
@@ -306,13 +314,28 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Philippi",
+"type": "place",
+"confidence": 0.6339,
+"match_method": "scored",
+"preferred_label": "Philippi"
+},
+{
+"id": "group:Philippi",
+"type": "group",
+"confidence": 0.6068,
+"match_method": "scored",
+"preferred_label": "Philippians"
+}
+]
 }
 },
 {
 "content_id": "650915",
 "reference_id": 203499,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "腓利",
 "media_type": "Text",
 "index_reference": "腓利",
@@ -479,7 +502,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Philip.4",
+"type": "person",
+"confidence": 0.6732,
+"match_method": "scored",
+"preferred_label": "Philip"
+}
+]
 }
 }
 ]

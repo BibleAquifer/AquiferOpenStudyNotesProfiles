@@ -2,7 +2,7 @@
 {
 "content_id": "654296",
 "reference_id": 203495,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हन्ना और कैफा",
 "media_type": "Text",
 "index_reference": "हन्ना और कैफा",
@@ -91,7 +91,7 @@
 {
 "content_id": "654197",
 "reference_id": 203396,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हागार",
 "media_type": "Text",
 "index_reference": "हागार",
@@ -172,9 +172,9 @@
 {
 "id": "person:Hagar",
 "type": "person",
-"preferred_label": "हागार",
 "confidence": 0.696,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "हागार"
 }
 ]
 }
@@ -182,7 +182,7 @@
 {
 "content_id": "654212",
 "reference_id": 203411,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हारून",
 "media_type": "Text",
 "index_reference": "हारून",
@@ -329,9 +329,9 @@
 {
 "id": "person:Aaron",
 "type": "person",
-"preferred_label": "हारून",
 "confidence": 0.6934,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "हारून"
 }
 ]
 }
@@ -339,7 +339,7 @@
 {
 "content_id": "654251",
 "reference_id": 203450,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हिजकिय्याह",
 "media_type": "Text",
 "index_reference": "हिजकिय्याह",
@@ -414,9 +414,9 @@
 {
 "id": "person:Hezekiah",
 "type": "person",
-"preferred_label": "हिजकिय्याह",
 "confidence": 0.7342,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "हिजकिय्याह"
 }
 ]
 }
@@ -424,7 +424,7 @@
 {
 "content_id": "654202",
 "reference_id": 203401,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हित्तियों",
 "media_type": "Text",
 "index_reference": "हित्तियों",
@@ -519,13 +519,28 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.6685,
+"match_method": "scored",
+"preferred_label": "Heth"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.6609,
+"match_method": "scored",
+"preferred_label": "हित्ती"
+}
+]
 }
 },
 {
 "content_id": "654285",
 "reference_id": 203484,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हेरोदेस अंतिपास",
 "media_type": "Text",
 "index_reference": "हेरोदेस अंतिपास",
@@ -650,13 +665,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 0.7725,
+"match_method": "scored",
+"preferred_label": "Herod Antipas"
+}
+]
 }
 },
 {
 "content_id": "654302",
 "reference_id": 203501,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हेरोदेस अग्रिप्पा I",
 "media_type": "Text",
 "index_reference": "हेरोदेस अग्रिप्पा I",
@@ -685,13 +708,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.3",
+"type": "person",
+"confidence": 0.72,
+"match_method": "scored",
+"preferred_label": "हेरोदेस"
+}
+]
 }
 },
 {
 "content_id": "654308",
 "reference_id": 203507,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हेरोदेस अग्रिप्पा II",
 "media_type": "Text",
 "index_reference": "हेरोदेस अग्रिप्पा II",

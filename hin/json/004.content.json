@@ -2,7 +2,7 @@
 {
 "content_id": "654245",
 "reference_id": 203444,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ईजेबेल",
 "media_type": "Text",
 "index_reference": "ईजेबेल",
@@ -101,9 +101,9 @@
 {
 "id": "person:Jezebel",
 "type": "person",
-"preferred_label": "ईजेबेल",
 "confidence": 0.6364,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "ईजेबेल"
 }
 ]
 }

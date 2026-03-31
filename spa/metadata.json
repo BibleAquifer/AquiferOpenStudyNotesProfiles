@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesProfiles",
-"date_created": "2026-02-27",
+"date_created": "2026-03-31",
 "language": "spa",
 "localizations": [
 "eng",
@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-27T17:22:22.433921"
+"dateCreated": "2026-03-31T09:58:13.513523"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesProfiles": {
-"timestamp": "2026-02-27T17:22:22.433921"
+"timestamp": "2026-03-31T09:58:13.513523"
 }
 }
 },
@@ -119,7 +119,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 32111,
+"size": 32110,
 "scope": {
 "b": [
 "Babilonia",
@@ -221,7 +221,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 154250,
+"size": 154245,
 "scope": {
 "j": [
 "Jacob",
@@ -240,8 +240,8 @@
 "Josías",
 "Josué",
 "Juan el Bautista",
-"Juan Marcos",
 "Juan, hijo de Zebedeo",
+"Juan Marcos",
 "Judá",
 "Judas Iscariote"
 ]
@@ -268,7 +268,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 67560,
+"size": 67556,
 "scope": {
 "m": [
 "Macabeos",
@@ -299,7 +299,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 26992,
+"size": 26990,
 "scope": {
 "p": [
 "Pablo (Saúl)",
@@ -371,15 +371,15 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 63817
+"size": 63852
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 21793
+"size": 21891
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 11119
+"size": 11154
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
@@ -387,11 +387,11 @@
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 52520
+"size": 52575
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 10646
+"size": 10680
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
@@ -399,7 +399,7 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 13767
+"size": 13733
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
@@ -407,11 +407,11 @@
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 87015
+"size": 87067
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 42900
+"size": 43052
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
@@ -419,7 +419,7 @@
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 15192
+"size": 15250
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
@@ -427,11 +427,11 @@
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 26617
+"size": 26680
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 43135
+"size": 43198
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
@@ -449,153 +449,153 @@
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 67417
 },
-"pdf/001.content.pdf": {
-"mimeType": "application/pdf",
-"size": 471918
-},
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 51256
-},
-"pdf/002.content.pdf": {
-"mimeType": "application/pdf",
-"size": 301180
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 46788
 },
-"pdf/003.content.pdf": {
-"mimeType": "application/pdf",
-"size": 209589
-},
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 48666
-},
-"pdf/004.content.pdf": {
-"mimeType": "application/pdf",
-"size": 226187
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 63554
 },
-"pdf/005.content.pdf": {
-"mimeType": "application/pdf",
-"size": 437384
-},
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 46508
-},
-"pdf/006.content.pdf": {
-"mimeType": "application/pdf",
-"size": 214565
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43670
 },
-"pdf/007.content.pdf": {
-"mimeType": "application/pdf",
-"size": 173721
-},
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 47836
-},
-"pdf/008.content.pdf": {
-"mimeType": "application/pdf",
-"size": 227739
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 47341
 },
-"pdf/009.content.pdf": {
-"mimeType": "application/pdf",
-"size": 224752
-},
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 75793
-},
-"pdf/010.content.pdf": {
-"mimeType": "application/pdf",
-"size": 619167
+"size": 75821
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 59853
 },
-"pdf/011.content.pdf": {
-"mimeType": "application/pdf",
-"size": 399104
-},
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 58633
-},
-"pdf/012.content.pdf": {
-"mimeType": "application/pdf",
-"size": 378543
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 48493
 },
-"pdf/013.content.pdf": {
-"mimeType": "application/pdf",
-"size": 250781
-},
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 49411
-},
-"pdf/014.content.pdf": {
-"mimeType": "application/pdf",
-"size": 262030
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 53424
 },
-"pdf/015.content.pdf": {
-"mimeType": "application/pdf",
-"size": 296253
-},
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 59520
-},
-"pdf/016.content.pdf": {
-"mimeType": "application/pdf",
-"size": 418069
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 47328
 },
-"pdf/017.content.pdf": {
-"mimeType": "application/pdf",
-"size": 261986
-},
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43371
-},
-"pdf/018.content.pdf": {
-"mimeType": "application/pdf",
-"size": 176750
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43124
 },
+"pdf/001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 352813
+},
+"pdf/002.content.pdf": {
+"mimeType": "application/pdf",
+"size": 154293
+},
+"pdf/003.content.pdf": {
+"mimeType": "application/pdf",
+"size": 95043
+},
+"pdf/004.content.pdf": {
+"mimeType": "application/pdf",
+"size": 117296
+},
+"pdf/005.content.pdf": {
+"mimeType": "application/pdf",
+"size": 295921
+},
+"pdf/006.content.pdf": {
+"mimeType": "application/pdf",
+"size": 97695
+},
+"pdf/007.content.pdf": {
+"mimeType": "application/pdf",
+"size": 59081
+},
+"pdf/008.content.pdf": {
+"mimeType": "application/pdf",
+"size": 101814
+},
+"pdf/009.content.pdf": {
+"mimeType": "application/pdf",
+"size": 121582
+},
+"pdf/010.content.pdf": {
+"mimeType": "application/pdf",
+"size": 514873
+},
+"pdf/011.content.pdf": {
+"mimeType": "application/pdf",
+"size": 268825
+},
+"pdf/012.content.pdf": {
+"mimeType": "application/pdf",
+"size": 257963
+},
+"pdf/013.content.pdf": {
+"mimeType": "application/pdf",
+"size": 117076
+},
+"pdf/014.content.pdf": {
+"mimeType": "application/pdf",
+"size": 128941
+},
+"pdf/015.content.pdf": {
+"mimeType": "application/pdf",
+"size": 171899
+},
+"pdf/016.content.pdf": {
+"mimeType": "application/pdf",
+"size": 301104
+},
+"pdf/017.content.pdf": {
+"mimeType": "application/pdf",
+"size": 124769
+},
+"pdf/018.content.pdf": {
+"mimeType": "application/pdf",
+"size": 63354
+},
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 172010
+"size": 58138
 }
 },
 "copyright": {
@@ -1415,7 +1415,7 @@
 "658337": {
 "content_id": "658337",
 "reference_id": 203412,
-"index_reference": "jethro (ragüel)",
+"index_reference": "jethro ragüel",
 "localizations": {
 "eng": {
 "content_id": 500469,
@@ -2381,7 +2381,7 @@
 "658360": {
 "content_id": "658360",
 "reference_id": 203435,
-"index_reference": "bath-sheba",
+"index_reference": "bathsheba",
 "localizations": {
 "eng": {
 "content_id": 500492,
@@ -4229,7 +4229,7 @@
 "658404": {
 "content_id": "658404",
 "reference_id": 203479,
-"index_reference": "mateo (leví)",
+"index_reference": "mateo leví",
 "localizations": {
 "eng": {
 "content_id": 500536,
@@ -4565,7 +4565,7 @@
 "658412": {
 "content_id": "658412",
 "reference_id": 203487,
-"index_reference": "maría, madre de jesús",
+"index_reference": "maría madre de jesús",
 "localizations": {
 "eng": {
 "content_id": 500544,
@@ -4607,7 +4607,7 @@
 "658413": {
 "content_id": "658413",
 "reference_id": 203488,
-"index_reference": "jacobo, hijo de zebedeo",
+"index_reference": "jacobo hijo de zebedeo",
 "localizations": {
 "eng": {
 "content_id": 500545,
@@ -4649,7 +4649,7 @@
 "658414": {
 "content_id": "658414",
 "reference_id": 203489,
-"index_reference": "marta, maría y lázaro",
+"index_reference": "marta maría y lázaro",
 "localizations": {
 "eng": {
 "content_id": 500546,
@@ -4859,7 +4859,7 @@
 "658419": {
 "content_id": "658419",
 "reference_id": 203494,
-"index_reference": "juan, hijo de zebedeo",
+"index_reference": "juan hijo de zebedeo",
 "localizations": {
 "eng": {
 "content_id": 500551,
@@ -5111,7 +5111,7 @@
 "658425": {
 "content_id": "658425",
 "reference_id": 203500,
-"index_reference": "pablo (saúl)",
+"index_reference": "pablo saúl",
 "localizations": {
 "eng": {
 "content_id": 500557,
@@ -5237,7 +5237,7 @@
 "658428": {
 "content_id": "658428",
 "reference_id": 203503,
-"index_reference": "jacobo, hermano de jesús",
+"index_reference": "jacobo hermano de jesús",
 "localizations": {
 "eng": {
 "content_id": 500560,

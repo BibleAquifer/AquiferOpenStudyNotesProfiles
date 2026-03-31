@@ -2,7 +2,7 @@
 {
 "content_id": "658334",
 "reference_id": 203409,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jacob",
 "media_type": "Text",
 "index_reference": "jacob",
@@ -455,9 +455,9 @@
 {
 "id": "person:Israel",
 "type": "person",
-"preferred_label": "Israel",
 "confidence": 0.7403,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Israel"
 }
 ]
 }
@@ -465,10 +465,10 @@
 {
 "content_id": "658428",
 "reference_id": 203503,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jacobo, hermano de Jesús",
 "media_type": "Text",
-"index_reference": "jacobo, hermano de jesús",
+"index_reference": "jacobo hermano de jesús",
 "language": "spa",
 "review_level": "None",
 "content": "<p>Jacobo era uno de los hermanos de Jesús (<a href=\"https://ref.ly/Matt13:55\">Mateo 13.55,</a> <a href=\"https://ref.ly/Mark6:3\">Marcos 6.3,</a> <a href=\"https://ref.ly/Gal1:19\">Gálatas 1.19</a>; comparar <a href=\"https://ref.ly/Jude1:1\">Judas 1.1</a>). Se convirtió en el líder de la iglesia en Jerusalem poco después de la resurrección de Jesús. Según la tradición, este Jacobo es el autor del libro del Nuevo Testamento que lleva su nombre.</p><p>Los hermanos de Jesús inicialmente dudaban de sus afirmaciones (<a href=\"https://ref.ly/John7:2-John7:5\">Juan 7.2–5</a>), pero luego se convirtieron en creyentes (<a href=\"https://ref.ly/Acts1:14\">Hechos 1.14</a>). El encuentro personal de Jacobo con el Jesús resucitado pudo haberlo convencido (<a href=\"https://ref.ly/1Cor15:7\">1 Corintios 15.7</a>). Dos de los hermanos de Jesús, Jacobo y Judas, desempeñaron roles importantes en la comunidad cristiana primitiva. Jacobo rápidamente se convirtió en el líder de la iglesia en Jerusalem. En el concilio de Jerusalem, Jacobo ayudó a los líderes de la iglesia judía a aceptar a los creyentes gentiles (no judíos) sin requerir la circuncisión. Esta decisión fue esencial para Pablo y la misión temprana a los gentiles (<a href=\"https://ref.ly/Acts15:13-Acts15:21\">Hechos 15.13–21</a>). Pablo visitó a Jacobo en Jerusalem después de su tercer viaje misionero, tal como lo había hecho antes tras su conversión <a href=\"https://ref.ly/Acts21:18\"> </a>(<a href=\"https://ref.ly/Acts21:18\">Hechos 21.18</a>; <a href=\"https://ref.ly/Gal2:6-Gal2:9\">Gálatas</a><a href=\"https://ref.ly/Gal1:19\"> 1.19</a>)<a href=\"https://ref.ly/Gal1:19\">.</a></p><p>Como la mayoría de los cristianos judíos, Jacobo seguía la ley de Moisés. Enfatizaba la importancia de observar ciertas leyes clave cuando estaba entre judíos (<a href=\"https://ref.ly/Acts15:20-Acts15:21\">Hechos 15.20–21,</a> <a href=\"https://ref.ly/Acts21:18-Acts21:25\">21.18–25</a>). Jacobo reconoció la misión de Pablo y su enfoque en la salvación solo a través de la fe (<a href=\"https://ref.ly/Gal2:6-Gal2:9\">Gálatas 2.6–9</a>), pero muchos cristianos judíos no estaban de acuerdo. Estos creyentes judíos, a quienes Pablo asoció con Jacobo en una ocasión (ver <a href=\"https://ref.ly/Gal2:12\">Gálatas 2.12</a>), insistían en que los gentiles que se convertían al cristianismo debían ser circuncidados y seguir la ley de Moisés para unirse a la comunidad cristiana.</p><p>El trasfondo judío de Jacobo es evidente en su carta, que ofrece consejos sabios y prácticos para la vida. Gran parte de ella se alinea con la sabiduría tradicional de las Escrituras judías. Un párrafo de su carta (<a href=\"https://ref.ly/Jas5:1-Jas5:6\">Jacobo 5.1–6</a>) se asemeja al trabajo de los profetas del Antiguo Testamento (por ejemplo, comparar con <a href=\"https://ref.ly/Amos5:21-Amos5:24\">Amós 5.21–24</a>; <a href=\"https://ref.ly/Amos6:1-Amos6:7\">6.1–7</a>).</p><p>Jacobo, conocido como &quot;el Justo&quot; por la gente de su tiempo, fue asesinado por su fe por sacerdotes judíos en Jerusalem (Josefo, <em>Antigüedades</em> 20.9; Eusebio, <em>Historia de la Iglesia</em> 2.23.4–18).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Matt13:55\">Mateo 13.55,</a> <a href=\"https://ref.ly/Mark6:3\">Marcos 6.3,</a> <a href=\"https://ref.ly/Acts12:17\">Hechos 12.17,</a> <a href=\"https://ref.ly/Acts15:13-Acts15:21\">Hechos 15.13–21,</a> <a href=\"https://ref.ly/Acts21:18-Acts21:25\">Hechos 21.18–25</a> <a href=\"https://ref.ly/1Cor15:7\">1 Corintios 15.7,</a> <a href=\"https://ref.ly/Gal2:9\">Gálatas 2.9;</a> <a href=\"https://ref.ly/Gal2:12\">Gálatas 2.12,</a> <a href=\"https://ref.ly/Jas1:1-Jas5:20\">Santiago 1.1–5.20,</a> <a href=\"https://ref.ly/Jude1:1\">Judas 1.1</a></p>",
@@ -596,10 +596,10 @@
 {
 "content_id": "658413",
 "reference_id": 203488,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jacobo, hijo de Zebedeo",
 "media_type": "Text",
-"index_reference": "jacobo, hijo de zebedeo",
+"index_reference": "jacobo hijo de zebedeo",
 "language": "spa",
 "review_level": "None",
 "content": "<p>Jacobo, hijo de Zebedeo y hermano de Juan, fue uno de los doce apóstoles. Fue uno de los primeros en morir como seguidor de Jesús. Su madre podría haber sido la hermana de María, la madre de Jesús, lo que lo haría primo de Jesús (ver <a href=\"https://ref.ly/Matt27:56\">Mateo 27.56;</a> <a href=\"https://ref.ly/Mark15:40\">Marcos 15.40,</a> <a href=\"https://ref.ly/Mark16:1\">16.1;</a> <a href=\"https://ref.ly/John19:25\">Juan 19.25</a>). Su nombre generalmente aparece antes que el de Juan, lo que podría indicar que Jacobo era mayor. Este Jacobo no era el hijo de Alfeo (ver <a href=\"https://ref.ly/Luke6:15\">Lucas 6.15</a>), ni el hermano de Jesús.</p><p>Jacobo y Juan eran pescadores como su padre (<a href=\"https://ref.ly/Matt4:21\">Mateo 4.21;</a> <a href=\"https://ref.ly/Mark1:19\">Marcos 1.19</a>). Pescaban junto a Pedro y Andrés, otro par de hermanos que también se convirtieron en discípulos (<a href=\"https://ref.ly/Luke5:10\">Lucas 5.10</a>). Fueron de las primeras personas a las que Jesús llamó para ser sus discípulos. Dejaron todo, incluyendo a su padre, para seguirlo (<a href=\"https://ref.ly/Matt4:22\">Mateo 4.22;</a> <a href=\"https://ref.ly/Mark1:20\">Marcos 1.20;</a> <a href=\"https://ref.ly/Luke5:11\">Lucas 5.11</a>). Jesús los llamó &quot;Hijos del Trueno&quot; (<a href=\"https://ref.ly/Mark3:17\">Marcos 3.17</a>). Esto podría indicar que tenían personalidades fuertes (ver <a href=\"https://ref.ly/Luke9:54\">Lucas 9.54</a>), aunque el significado exacto no está claro.</p><p>Jacobo y su hermano Juan eran muy cercanos a Jesús. Junto con Pedro, formaron un grupo de discípulos de confianza que acompañaron a Jesús en momentos especiales. Estuvieron con él cuando sanó a la hija de Jairo (<a href=\"https://ref.ly/Mark5:37\">Marcos 5.37;</a> <a href=\"https://ref.ly/Luke8:51\">Lucas 8.51</a>), hablaron con Elías y Moisés en una montaña (<a href=\"https://ref.ly/Matt17:1-Matt17:3\">Mateo 17.1–3;</a> <a href=\"https://ref.ly/Mark9:2-Mark9:4\">Marcos 9.2–4;</a> <a href=\"https://ref.ly/Luke9:28-Luke9:30\">Lucas 9.28–30</a>), y oraron en el jardín (<a href=\"https://ref.ly/Matt26:37\">Mateo 26.37;</a> <a href=\"https://ref.ly/Mark14:33\">Marcos 14.33</a>). En una ocasión, los dos hermanos molestaron a los otros discípulos al pedir posiciones especiales en el futuro reino de Dios (<a href=\"https://ref.ly/Matt20:20-Matt20:28\">Mateo 20.20–28;</a> <a href=\"https://ref.ly/Mark10:35-Mark10:45\">Marcos 10.35–45;</a> comparar <a href=\"https://ref.ly/Luke22:24-Luke22:27\">Lucas 22.24–27</a>).</p><p>Herodes Agripa mandó matar a Jacobo poco después de la muerte de Jesús, lo cual complació a los líderes judíos (<a href=\"https://ref.ly/Acts12:1-Acts12:3\">Hechos 12.1–3</a>). Herodes pudo haber hecho esto porque Jacobo era un líder destacado entre los discípulos. Este evento cumplió la predicción de Jesús de que Jacobo compartiría su sufrimiento (<a href=\"https://ref.ly/Matt20:23\">Mateo 20.23;</a> <a href=\"https://ref.ly/Mark10:38-Mark10:39\">Marcos 10.38–39</a>).</p><p>Jacobo era un trabajador común a quien Jesús llamó para ser su discípulo. Dejó su trabajo, familia y hogar para seguir a Jesús con una confianza sencilla. Finalmente, murió por Jesús, convirtiéndose en un modelo de discipulado comprometido.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Matt4:21-Matt4:22\">Mateo 4.21–22;</a> <a href=\"https://ref.ly/Matt10:2\">10.2;</a> <a href=\"https://ref.ly/Matt17:1\">17.1;</a> <a href=\"https://ref.ly/Matt20:20-Matt20:24\">20.20–24;</a> <a href=\"https://ref.ly/Matt26:37-Matt26:46\">26.37–46;</a> <a href=\"https://ref.ly/Mark1:19-Mark1:20\">Marcos 1.19–20</a>, <a href=\"https://ref.ly/Mark1:29\">29</a>; <a href=\"https://ref.ly/Mark3:17\">3.17;</a> <a href=\"https://ref.ly/Mark5:37\">5.37;</a> <a href=\"https://ref.ly/Mark9:2\">9.2;</a> <a href=\"https://ref.ly/Mark10:35-Mark10:41\">10.35–41;</a> <a href=\"https://ref.ly/Mark13:3-Mark13:4\">13.3–4;</a> <a href=\"https://ref.ly/Mark14:33-Mark14:42\">14.33–42;</a> <a href=\"https://ref.ly/Luke5:10\">Lucas 5.10;</a> <a href=\"https://ref.ly/Luke6:14\">6.14;</a> <a href=\"https://ref.ly/Luke8:51\">8.51;</a> <a href=\"https://ref.ly/Luke9:28\">9.28,</a> <a href=\"https://ref.ly/Luke9:54-Luke9:55\">54–55</a>; <a href=\"https://ref.ly/John21:2\">Juan 21.2;</a> <a href=\"https://ref.ly/Acts1:13\">Hechos 1.13;</a> <a href=\"https://ref.ly/Acts12:2\">12.2</a></p>",
@@ -871,7 +871,7 @@
 {
 "content_id": "658391",
 "reference_id": 203466,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jeremías",
 "media_type": "Text",
 "index_reference": "jeremías",
@@ -1024,9 +1024,9 @@
 {
 "id": "person:Jeremiah.6",
 "type": "person",
-"preferred_label": "Jeremías",
 "confidence": 0.6719,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jeremías"
 }
 ]
 }
@@ -1034,7 +1034,7 @@
 {
 "content_id": "658388",
 "reference_id": 203463,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jerjes I",
 "media_type": "Text",
 "index_reference": "jerjes i",
@@ -1067,9 +1067,9 @@
 {
 "id": "person:Ahasuerus",
 "type": "person",
-"preferred_label": "Assuero",
-"confidence": 0.5603,
-"match_method": "scored"
+"confidence": 0.7178,
+"match_method": "scored",
+"preferred_label": "Assuero"
 }
 ]
 }
@@ -1077,7 +1077,7 @@
 {
 "content_id": "658366",
 "reference_id": 203441,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jeroboam I",
 "media_type": "Text",
 "index_reference": "jeroboam i",
@@ -1194,9 +1194,9 @@
 {
 "id": "person:Jeroboam",
 "type": "person",
-"preferred_label": "Jeroboam",
 "confidence": 0.6226,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jeroboam"
 }
 ]
 }
@@ -1204,7 +1204,7 @@
 {
 "content_id": "658373",
 "reference_id": 203448,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jeroboam II",
 "media_type": "Text",
 "index_reference": "jeroboam ii",
@@ -1273,9 +1273,9 @@
 {
 "id": "person:Jeroboam.2",
 "type": "person",
-"preferred_label": "Jeroboam",
 "confidence": 0.7385,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jeroboam"
 }
 ]
 }
@@ -1283,10 +1283,10 @@
 {
 "content_id": "658337",
 "reference_id": 203412,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jethro (Ragüel)",
 "media_type": "Text",
-"index_reference": "jethro (ragüel)",
+"index_reference": "jethro ragüel",
 "language": "spa",
 "review_level": "None",
 "content": "<p><span>Jethro</span>, también conocido como <span>Ragüel</span> (<a href=\"https://ref.ly/Exod2:16-Exod2:18\">Éxodo 2.16–18</a>; <a href=\"https://ref.ly/Num10:29\">Números 10.29</a>), era el sacerdote de Madián (<a href=\"https://ref.ly/Exod2:16\">Éxodo 2.16</a>). Moisés rescató a las siete hijas de Jethro de unos pastores rudos en un pozo y las ayudó a dar de beber a sus rebaños. En casa, ellas le contaron a su padre sobre este sorprendente encuentro con un egipcio. Jethro, agradecido, invitó a Moisés a una comida. Moisés decidió establecerse allí. Más tarde, Jethro dio a su hija <span>Séphora</span> en matrimonio a Moisés.</p><p>Mientras Moisés vivía en Madián con su suegro, conoció a Dios en la zarza ardiente (<a href=\"https://ref.ly/Exod3:1-Exod3:2\">Éxodo 3.1–2</a>). Antes de ir a Egipto, Moisés pidió permiso a Jethro para irse. Más tarde, envió a su familia a quedarse con Jethro durante el éxodo de Egipto.</p><p>Mientras Moisés y los israelitas estaban en el desierto, Jethro regresó con la familia de Moisés. Jethro escuchó cómo Jehová salvó a su pueblo de Egipto y lo reconoció como el más grande de todos los dioses. Adoró a Jehová con una ofrenda quemada y sacrificios, alineándose con Israel (<a href=\"https://ref.ly/Exod18:11\">Éxodo 18.11</a>). En respuesta, los líderes de Israel se unieron a él para una comida sacrificial en la presencia de Dios (<a href=\"https://ref.ly/Exod18:12\">Éxodo 18.12</a>).</p><p>Jethro observó que Moisés estaba sobrecargado con la gestión de los numerosos israelitas. Le aconsejó a Moisés sobre cómo organizar mejor al pueblo y resolver sus disputas (<a href=\"https://ref.ly/Exod18:13-Exod18:23\">Éxodo 18.13–23</a>). Moisés siguió este consejo y eligió hombres capaces para ayudar como líderes y jueces (<a href=\"https://ref.ly/Exod18:24-Exod18:27\">Éxodo 18.24–27</a>). Jethro regresó a Madián y no tuvo más interacción con Israel, pero su hijo (<a href=\"https://ref.ly/Num10:29-Num10:33\">Números 10.29–33</a>) y otros descendientes se establecieron más tarde con los israelitas (<a href=\"https://ref.ly/Judg1:16\">Jueces 1.16</a>; <a href=\"https://ref.ly/Judg4:11\">4.11</a>).</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Exod2:16-Exod2:25\">Éxodo 2.16–25;</a> <a href=\"https://ref.ly/Exod3:1\">3.1;</a> <a href=\"https://ref.ly/Exod18:1-Exod18:27\">18.1–27;</a> <a href=\"https://ref.ly/Num10:29\">Números 10.29;</a> <a href=\"https://ref.ly/Judg1:16\">Jueces 1.16;</a> <a href=\"https://ref.ly/Judg4:11\">4.11</a></p>",
@@ -1382,9 +1382,9 @@
 {
 "id": "person:Jethro",
 "type": "person",
-"preferred_label": "Jethro",
 "confidence": 0.687,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jethro"
 }
 ]
 }
@@ -1392,7 +1392,7 @@
 {
 "content_id": "658369",
 "reference_id": 203444,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jezabel",
 "media_type": "Text",
 "index_reference": "jezabel",
@@ -1491,9 +1491,9 @@
 {
 "id": "person:Jezebel",
 "type": "person",
-"preferred_label": "Jezabel",
 "confidence": 0.6364,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jezabel"
 }
 ]
 }
@@ -1501,7 +1501,7 @@
 {
 "content_id": "658363",
 "reference_id": 203438,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Joab",
 "media_type": "Text",
 "index_reference": "joab",
@@ -1804,9 +1804,9 @@
 {
 "id": "person:Joab",
 "type": "person",
-"preferred_label": "Joab",
 "confidence": 0.7659,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Joab"
 }
 ]
 }
@@ -1814,7 +1814,7 @@
 {
 "content_id": "658353",
 "reference_id": 203428,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jonathán",
 "media_type": "Text",
 "index_reference": "jonathán",
@@ -1901,9 +1901,9 @@
 {
 "id": "person:Jonathan.3",
 "type": "person",
-"preferred_label": "Jonathán",
 "confidence": 0.7781,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Jonathán"
 }
 ]
 }
@@ -1911,7 +1911,7 @@
 {
 "content_id": "658380",
 "reference_id": 203455,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Josaphat",
 "media_type": "Text",
 "index_reference": "josaphat",
@@ -2034,9 +2034,9 @@
 {
 "id": "person:Jehoshaphat.3",
 "type": "person",
-"preferred_label": "Josaphat",
 "confidence": 0.7283,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Josaphat"
 }
 ]
 }
@@ -2044,7 +2044,7 @@
 {
 "content_id": "658331",
 "reference_id": 203406,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "José",
 "media_type": "Text",
 "index_reference": "josé",
@@ -2179,9 +2179,9 @@
 {
 "id": "person:Joseph.10",
 "type": "person",
-"preferred_label": "José",
 "confidence": 0.7216,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "José"
 }
 ]
 }
@@ -2189,7 +2189,7 @@
 {
 "content_id": "658376",
 "reference_id": 203451,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Josías",
 "media_type": "Text",
 "index_reference": "josías",
@@ -2330,9 +2330,9 @@
 {
 "id": "person:Josiah",
 "type": "person",
-"preferred_label": "Josías",
 "confidence": 0.6934,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Josías"
 }
 ]
 }
@@ -2340,7 +2340,7 @@
 {
 "content_id": "658343",
 "reference_id": 203418,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Josué",
 "media_type": "Text",
 "index_reference": "josué",
@@ -2571,16 +2571,9 @@
 {
 "id": "person:Joshua.2",
 "type": "person",
-"preferred_label": "Josué",
 "confidence": 0.6797,
-"match_method": "scored"
-},
-{
-"id": "person:Joseph.11",
-"type": "person",
-"preferred_label": "José",
-"confidence": 0.551,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Josué"
 }
 ]
 }
@@ -2588,7 +2581,7 @@
 {
 "content_id": "658415",
 "reference_id": 203490,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Juan el Bautista",
 "media_type": "Text",
 "index_reference": "juan el bautista",
@@ -2977,96 +2970,13 @@
 }
 ],
 "resource": [],
-"acai": []
-}
-},
-{
-"content_id": "658427",
-"reference_id": 203502,
-"version": "1.0.2",
-"title": "Juan Marcos",
-"media_type": "Text",
-"index_reference": "juan marcos",
-"language": "spa",
-"review_level": "None",
-"content": "<p>Juan Marcos, quien escribió el primer Evangelio (el Evangelio de Marcos), asistió a tres misioneros tempranos:</p><ul><li><p>Bernabé</p></li><li><p>Pablo</p></li><li><p>Pedro</p></li></ul><p>Bernabé y Pablo llevaron a Marcos como asistente en su primer viaje misionero. Sin embargo, Marcos los abandonó y regresó a Jerusalem antes de que el viaje concluyera (<a href=\"https://ref.ly/Acts12:25\">Hechos 12.25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13.4–5</a>, <a href=\"https://ref.ly/Acts13:13\">13</a>). Debido a esto, cuando Bernabé quiso llevar a Marcos en el segundo viaje, Pablo se negó. Este desacuerdo dividió al equipo: Bernabé llevó a Marcos, su primo, mientras que Pablo eligió a Silas. Las dos parejas luego tomaron caminos separados (<a href=\"https://ref.ly/Acts15:36-Acts15:41\">Hechos 15.36–41</a>).</p><p>Más tarde, Pablo y Marcos se reconciliaron, y Marcos volvió a ser su asistente. En Colosenses, Pablo se refiere a Marcos como un colaborador y sugiere que pronto podría enviarlo a visitar la iglesia en Colosas (<a href=\"https://ref.ly/Col4:10\">Colosenses 4.10</a>; ver también <a href=\"https://ref.ly/Phlm1:24\">Filemón 1.24</a>). Incluso más adelante, cuando Pablo esperaba la ejecución en una prisión Romana, pidió a Timoteo que trajera a Marcos porque consideraba que sería útil en su ministerio (<a href=\"https://ref.ly/2Tim4:11\">2 Timoteo 4.11</a>).</p><p>Es probable que Marcos haya ayudado a Pedro con su obra misionera en Italia cerca del final de la vida de Pedro. En una de las cartas de Pedro, él llama cariñosamente a Marcos su &quot;hijo&quot; que está con él (<a href=\"https://ref.ly/1Pet5:13\">1 Pedro 5.13</a>). La tradición cristiana temprana describe a Marcos como el &quot;intérprete&quot; de Pedro y sugiere que Marcos obtuvo su información sobre la vida y las palabras de Jesús directamente de Pedro (Eusebio, <em>Historia de la Iglesia</em> 3.39.16).</p><p>El Evangelio de Marcos es generalmente considerado el más antiguo de todos los Evangelios. Casi con certeza, sirvió como fuente primaria para Mateo y Lucas al escribir sus propios Evangelios. Por esta razón, el Evangelio de Marcos es uno de los escritos cristianos tempranos más influyentes.</p><p>La historia de Marcos demuestra que Dios puede corregir errores humanos y restaurar relaciones complicadas para Cristo y el evangelio. Los fracasos iniciales no impiden que alguien tenga una vida de servicio significativa e impactante.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Acts12:12\">Hechos 12.12</a>, <a href=\"https://ref.ly/Acts12:25\">25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13.4–5</a>, <a href=\"https://ref.ly/Acts13:13\">13;</a> <a href=\"https://ref.ly/Acts15:36-Acts15:39\">15.36–39</a>; <a href=\"https://ref.ly/Col4:10\">Colosenses 4.10,</a> <a href=\"https://ref.ly/2Tim4:11\">2 Timoteo 4.11;</a> <a href=\"https://ref.ly/Phlm1:23-Phlm1:24\">Filemón 1.23–24,</a> <a href=\"https://ref.ly/1Pet5:13\">1 Pedro 5.13</a></p>",
-"associations": {
-"passage": [
-{
-"start_ref": "44012012",
-"start_ref_usfm": "ACT 12:12",
-"end_ref": "44012012",
-"end_ref_usfm": "ACT 12:12"
-},
-{
-"start_ref": "44012025",
-"start_ref_usfm": "ACT 12:25",
-"end_ref": "44012025",
-"end_ref_usfm": "ACT 12:25"
-},
-{
-"start_ref": "44013013",
-"start_ref_usfm": "ACT 13:13",
-"end_ref": "44013013",
-"end_ref_usfm": "ACT 13:13"
-},
-{
-"start_ref": "51004010",
-"start_ref_usfm": "COL 4:10",
-"end_ref": "51004010",
-"end_ref_usfm": "COL 4:10"
-},
-{
-"start_ref": "55004011",
-"start_ref_usfm": "2TI 4:11",
-"end_ref": "55004011",
-"end_ref_usfm": "2TI 4:11"
-},
-{
-"start_ref": "57001024",
-"start_ref_usfm": "PHM 1:24",
-"end_ref": "57001024",
-"end_ref_usfm": "PHM 1:24"
-},
-{
-"start_ref": "60005013",
-"start_ref_usfm": "1PE 5:13",
-"end_ref": "60005013",
-"end_ref_usfm": "1PE 5:13"
-},
-{
-"start_ref": "44015036",
-"start_ref_usfm": "ACT 15:36",
-"end_ref": "44015041",
-"end_ref_usfm": "ACT 15:41"
-},
-{
-"start_ref": "57001023",
-"start_ref_usfm": "PHM 1:23",
-"end_ref": "57001024",
-"end_ref_usfm": "PHM 1:24"
-},
-{
-"start_ref": "44013004",
-"start_ref_usfm": "ACT 13:4",
-"end_ref": "44013005",
-"end_ref_usfm": "ACT 13:5"
-},
-{
-"start_ref": "44015036",
-"start_ref_usfm": "ACT 15:36",
-"end_ref": "44015039",
-"end_ref_usfm": "ACT 15:39"
-}
-],
-"resource": [],
 "acai": [
 {
-"id": "person:Mark",
+"id": "person:John",
 "type": "person",
-"preferred_label": "Marcos",
-"confidence": 0.7195,
-"match_method": "scored"
+"confidence": 0.7262,
+"match_method": "scored",
+"preferred_label": "Juan"
 }
 ]
 }
@@ -3074,10 +2984,10 @@
 {
 "content_id": "658419",
 "reference_id": 203494,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Juan, hijo de Zebedeo",
 "media_type": "Text",
-"index_reference": "juan, hijo de zebedeo",
+"index_reference": "juan hijo de zebedeo",
 "language": "spa",
 "review_level": "None",
 "content": "<p>Juan fue uno de los doce seguidores más cercanos de Jesús, conocidos como apóstoles. Era hermano de Jacobo e hijo de Zebedeo. Jesús eligió a estos doce hombres como sus representantes especiales y les otorgó autoridad para enseñar a otros sobre él. Su labor contribuyó al inicio de la iglesia primitiva. La tradición temprana sostiene que Juan, hijo de Zebedeo, escribió el Evangelio de Juan, las Cartas de Juan y el Libro de Apocalipsis.</p><p>Juan y su hermano Jacobo estaban entre los seguidores más cercanos de Jesús (<a href=\"https://ref.ly/Mark5:37\">Marcos 5.37;</a> <a href=\"https://ref.ly/Mark9:2\">9.2;</a> <a href=\"https://ref.ly/Mark13:3\">13.3;</a> <a href=\"https://ref.ly/Mark14:33\">14.33</a>). Su madre, Salomé, podría haber sido hermana de María, la madre de Jesús (compara <a href=\"https://ref.ly/Matt27:56\">Mateo 27.56;</a> <a href=\"https://ref.ly/Mark15:40\">Marcos 15.40;</a> <a href=\"https://ref.ly/Mark16:1\">16.1</a>; <a href=\"https://ref.ly/John19:25\">Juan 19.25</a>). El nombre de Juan generalmente aparece después del de Jacobo, lo que sugiere que Juan era más joven. Jacobo y Juan eran pescadores como su padre (<a href=\"https://ref.ly/Mark1:19\">Mateo 4.21; Marcos 1.19</a>). Pescaban con Pedro y Andrés, otro par de hermanos que también se convirtieron en discípulos (<a href=\"https://ref.ly/Luke5:8-Luke5:10\">Lucas 5.8–10</a>).</p><p>Ellos fueron de los primeros discípulos que Jesús llamó, y dejaron todo para seguirlo (<a href=\"https://ref.ly/Matt4:22\">Mateo 4.22;</a> <a href=\"https://ref.ly/Mark1:19\">Marcos 1.20;</a><a href=\"https://ref.ly/Mark1:20\"> </a><a href=\"https://ref.ly/Luke5:11\">Lucas 5.11;</a> comparar <a href=\"https://ref.ly/John1:35-John1:40\">Juan 1.35–40</a>). Jesús los llamó “Hijos del Trueno” (<a href=\"https://ref.ly/Mark3:17\">Marcos 3.17</a>). Este nombre podría indicar que eran ruidosos o de temperamento impulsivo (ver <a href=\"https://ref.ly/Luke9:54\">Lucas 9.54</a>). En una ocasión, los hermanos molestaron a los otros discípulos al solicitar posiciones especiales en el futuro reino (<a href=\"https://ref.ly/Matt20:20-Matt20:28\">Mateo 20.20–28;</a> <a href=\"https://ref.ly/Mark10:35-Mark10:45\">Marcos 10.35–45;</a> comparar <a href=\"https://ref.ly/Luke22:24-Luke22:27\">Lucas 22.24–27</a>).</p><p>Se cree que Juan es el &quot;discípulo amado por Jesús&quot; y &quot;otro discípulo&quot; mencionado en el Evangelio de Juan (<a href=\"https://ref.ly/John13:23-John13:25\">Juan 13.23–25;</a> <a href=\"https://ref.ly/John18:15-John18:16\">18.15–16;</a> <a href=\"https://ref.ly/John19:26-John19:27\">19.26–27;</a> <a href=\"https://ref.ly/John20:2-John20:10\">20.2–10;</a> <a href=\"https://ref.ly/John21:20-John21:24\">21.20–24</a>). Podría haber sido el discípulo sin nombre de Juan el Bautista que, junto con Andrés, se convirtió en uno de los primeros seguidores de Jesús (<a href=\"https://ref.ly/John1:35-John1:40\">Juan 1.35–40</a>).</p><p>El nombre de Juan aparece tres veces en Hechos. En cada ocasión, trabaja junto a Pedro (<a href=\"https://ref.ly/Acts3:1-Acts3:11\">Hechos 3.1–11;</a> <a href=\"https://ref.ly/Acts4:1-Acts4:23\">4.1–23;</a> <a href=\"https://ref.ly/Acts8:14-Acts8:25\">8.14–25</a>). Pablo lo llamó uno de los &quot;pilares&quot; de la iglesia en Jerusalem (<a href=\"https://ref.ly/Gal2:9\">Gálatas 2.9</a>), lo que indica que Juan era un líder destacado en la iglesia de Jerusalem.</p><p>La historia más común sobre la vida posterior de Juan es que se mudó a Efeso. Allí, se convirtió en el obispo de Asia Menor. Vivió hasta una edad avanzada y murió pacíficamente entre amigos. Su Evangelio ofrece una profunda imagen de Jesús, y sus cartas (<a href=\"https://ref.ly/1John1:1-1John5:21\">1 Juan</a>, <a href=\"https://ref.ly/2John1:1-2John1:13\">2 Juan</a>, y <a href=\"https://ref.ly/3John1:1-3John1:14\">3 Juan</a>) brindan una visión inspiradora de la vida cristiana.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Matt4:21-Matt4:22\">Mateo 4.21–22;</a> <a href=\"https://ref.ly/Matt10:2\">10.2;</a> <a href=\"https://ref.ly/Matt17:1\">17.1;</a> <a href=\"https://ref.ly/Matt20:20-Matt20:24\">20.20–24;</a> <a href=\"https://ref.ly/Matt26:37-Matt26:46\">26.37–46</a>; <a href=\"https://ref.ly/Mark1:19-Mark1:20\">Marcos 1.19–20</a>, <a href=\"https://ref.ly/Mark1:29\">29</a>; <a href=\"https://ref.ly/Mark3:17\">3.17;</a> <a href=\"https://ref.ly/Mark5:37\">5.37;</a> <a href=\"https://ref.ly/Mark9:2\">9.2</a>, <a href=\"https://ref.ly/Mark9:38\">38</a>; <a href=\"https://ref.ly/Mark10:35-Mark10:41\">10.35–41;</a> <a href=\"https://ref.ly/Mark13:3-Mark13:4\">13.3–4;</a> <a href=\"https://ref.ly/Mark14:33-Mark14:42\">14.33–42</a>; <a href=\"https://ref.ly/Luke5:10\">Lucas 5.10;</a> <a href=\"https://ref.ly/Luke6:14\">6.14;</a> <a href=\"https://ref.ly/Luke8:51\">8.51;</a> <a href=\"https://ref.ly/Luke9:28\">9.28</a>, <a href=\"https://ref.ly/Luke9:49\">49</a>, <a href=\"https://ref.ly/Luke9:54\">54</a>; <a href=\"https://ref.ly/John13:23-John13:25\">Juan 13.23–25;</a> <a href=\"https://ref.ly/John18:15-John18:16\">18.15–16;</a> <a href=\"https://ref.ly/John19:26-John19:27\">19.26–27;</a> <a href=\"https://ref.ly/John20:2-John20:10\">20.2–10;</a> <a href=\"https://ref.ly/John21:2\">21.2</a>, <a href=\"https://ref.ly/John21:7\">7</a>, <a href=\"https://ref.ly/John21:20-John21:24\">20–24</a>; <a href=\"https://ref.ly/Acts1:13\">Hechos 1.13;</a> <a href=\"https://ref.ly/Acts3:1-Acts3:11\">3.1–11;</a> <a href=\"https://ref.ly/Acts4:1-Acts4:22\">4.1–22;</a> <a href=\"https://ref.ly/Acts5:17-Acts5:42\">5.17–42;</a> <a href=\"https://ref.ly/Acts8:14-Acts8:25\">8.14–25</a>; <a href=\"https://ref.ly/Gal2:9\">Gálatas 2.9</a></p>",
@@ -3389,9 +3299,100 @@
 }
 },
 {
+"content_id": "658427",
+"reference_id": 203502,
+"version": "1.0.4",
+"title": "Juan Marcos",
+"media_type": "Text",
+"index_reference": "juan marcos",
+"language": "spa",
+"review_level": "None",
+"content": "<p>Juan Marcos, quien escribió el primer Evangelio (el Evangelio de Marcos), asistió a tres misioneros tempranos:</p><ul><li><p>Bernabé</p></li><li><p>Pablo</p></li><li><p>Pedro</p></li></ul><p>Bernabé y Pablo llevaron a Marcos como asistente en su primer viaje misionero. Sin embargo, Marcos los abandonó y regresó a Jerusalem antes de que el viaje concluyera (<a href=\"https://ref.ly/Acts12:25\">Hechos 12.25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13.4–5</a>, <a href=\"https://ref.ly/Acts13:13\">13</a>). Debido a esto, cuando Bernabé quiso llevar a Marcos en el segundo viaje, Pablo se negó. Este desacuerdo dividió al equipo: Bernabé llevó a Marcos, su primo, mientras que Pablo eligió a Silas. Las dos parejas luego tomaron caminos separados (<a href=\"https://ref.ly/Acts15:36-Acts15:41\">Hechos 15.36–41</a>).</p><p>Más tarde, Pablo y Marcos se reconciliaron, y Marcos volvió a ser su asistente. En Colosenses, Pablo se refiere a Marcos como un colaborador y sugiere que pronto podría enviarlo a visitar la iglesia en Colosas (<a href=\"https://ref.ly/Col4:10\">Colosenses 4.10</a>; ver también <a href=\"https://ref.ly/Phlm1:24\">Filemón 1.24</a>). Incluso más adelante, cuando Pablo esperaba la ejecución en una prisión Romana, pidió a Timoteo que trajera a Marcos porque consideraba que sería útil en su ministerio (<a href=\"https://ref.ly/2Tim4:11\">2 Timoteo 4.11</a>).</p><p>Es probable que Marcos haya ayudado a Pedro con su obra misionera en Italia cerca del final de la vida de Pedro. En una de las cartas de Pedro, él llama cariñosamente a Marcos su &quot;hijo&quot; que está con él (<a href=\"https://ref.ly/1Pet5:13\">1 Pedro 5.13</a>). La tradición cristiana temprana describe a Marcos como el &quot;intérprete&quot; de Pedro y sugiere que Marcos obtuvo su información sobre la vida y las palabras de Jesús directamente de Pedro (Eusebio, <em>Historia de la Iglesia</em> 3.39.16).</p><p>El Evangelio de Marcos es generalmente considerado el más antiguo de todos los Evangelios. Casi con certeza, sirvió como fuente primaria para Mateo y Lucas al escribir sus propios Evangelios. Por esta razón, el Evangelio de Marcos es uno de los escritos cristianos tempranos más influyentes.</p><p>La historia de Marcos demuestra que Dios puede corregir errores humanos y restaurar relaciones complicadas para Cristo y el evangelio. Los fracasos iniciales no impiden que alguien tenga una vida de servicio significativa e impactante.</p><p><u>Pasajes para Estudio Complementario</u></p><p><a href=\"https://ref.ly/Acts12:12\">Hechos 12.12</a>, <a href=\"https://ref.ly/Acts12:25\">25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13.4–5</a>, <a href=\"https://ref.ly/Acts13:13\">13;</a> <a href=\"https://ref.ly/Acts15:36-Acts15:39\">15.36–39</a>; <a href=\"https://ref.ly/Col4:10\">Colosenses 4.10,</a> <a href=\"https://ref.ly/2Tim4:11\">2 Timoteo 4.11;</a> <a href=\"https://ref.ly/Phlm1:23-Phlm1:24\">Filemón 1.23–24,</a> <a href=\"https://ref.ly/1Pet5:13\">1 Pedro 5.13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44012012",
+"start_ref_usfm": "ACT 12:12",
+"end_ref": "44012012",
+"end_ref_usfm": "ACT 12:12"
+},
+{
+"start_ref": "44012025",
+"start_ref_usfm": "ACT 12:25",
+"end_ref": "44012025",
+"end_ref_usfm": "ACT 12:25"
+},
+{
+"start_ref": "44013013",
+"start_ref_usfm": "ACT 13:13",
+"end_ref": "44013013",
+"end_ref_usfm": "ACT 13:13"
+},
+{
+"start_ref": "51004010",
+"start_ref_usfm": "COL 4:10",
+"end_ref": "51004010",
+"end_ref_usfm": "COL 4:10"
+},
+{
+"start_ref": "55004011",
+"start_ref_usfm": "2TI 4:11",
+"end_ref": "55004011",
+"end_ref_usfm": "2TI 4:11"
+},
+{
+"start_ref": "57001024",
+"start_ref_usfm": "PHM 1:24",
+"end_ref": "57001024",
+"end_ref_usfm": "PHM 1:24"
+},
+{
+"start_ref": "60005013",
+"start_ref_usfm": "1PE 5:13",
+"end_ref": "60005013",
+"end_ref_usfm": "1PE 5:13"
+},
+{
+"start_ref": "44015036",
+"start_ref_usfm": "ACT 15:36",
+"end_ref": "44015041",
+"end_ref_usfm": "ACT 15:41"
+},
+{
+"start_ref": "57001023",
+"start_ref_usfm": "PHM 1:23",
+"end_ref": "57001024",
+"end_ref_usfm": "PHM 1:24"
+},
+{
+"start_ref": "44013004",
+"start_ref_usfm": "ACT 13:4",
+"end_ref": "44013005",
+"end_ref_usfm": "ACT 13:5"
+},
+{
+"start_ref": "44015036",
+"start_ref_usfm": "ACT 15:36",
+"end_ref": "44015039",
+"end_ref_usfm": "ACT 15:39"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Mark",
+"type": "person",
+"confidence": 0.85,
+"match_method": "scored",
+"preferred_label": "Marcos"
+}
+]
+}
+},
+{
 "content_id": "658332",
 "reference_id": 203407,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Judá",
 "media_type": "Text",
 "index_reference": "judá",
@@ -3556,16 +3557,23 @@
 {
 "id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Judá",
 "confidence": 0.7014,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Judá"
 },
 {
 "id": "person:Judah.3",
 "type": "person",
-"preferred_label": "Judá",
 "confidence": 0.6027,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Judá"
+},
+{
+"id": "person:Joda",
+"type": "person",
+"confidence": 0.5532,
+"match_method": "scored",
+"preferred_label": "Maat"
 }
 ]
 }
@@ -3573,7 +3581,7 @@
 {
 "content_id": "658410",
 "reference_id": 203485,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Judas Iscariote",
 "media_type": "Text",
 "index_reference": "judas iscariote",
@@ -3774,9 +3782,9 @@
 {
 "id": "person:Judas.2",
 "type": "person",
-"preferred_label": "Judas",
-"confidence": 0.7044,
-"match_method": "scored"
+"confidence": 0.7179,
+"match_method": "scored",
+"preferred_label": "Judas"
 }
 ]
 }

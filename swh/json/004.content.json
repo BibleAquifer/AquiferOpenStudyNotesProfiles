@@ -2,7 +2,7 @@
 {
 "content_id": "734412",
 "reference_id": 203512,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Efeso",
 "media_type": "Text",
 "index_reference": "efeso",
@@ -103,9 +103,16 @@
 {
 "id": "place:Ephesus",
 "type": "place",
-"preferred_label": "Efeso",
 "confidence": 0.6605,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Efeso"
+},
+{
+"id": "group:Ephesus",
+"type": "group",
+"confidence": 0.614,
+"match_method": "scored",
+"preferred_label": "Ephesians"
 }
 ]
 }
@@ -113,7 +120,7 @@
 {
 "content_id": "734315",
 "reference_id": 203415,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Eleazari",
 "media_type": "Text",
 "index_reference": "eleazari",
@@ -242,9 +249,9 @@
 {
 "id": "person:Eleazar.2",
 "type": "person",
-"preferred_label": "Eleazari",
 "confidence": 0.6884,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Eleazari"
 }
 ]
 }
@@ -252,7 +259,7 @@
 {
 "content_id": "734326",
 "reference_id": 203426,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Eli",
 "media_type": "Text",
 "index_reference": "eli",
@@ -345,16 +352,16 @@
 {
 "id": "person:Eli",
 "type": "person",
-"preferred_label": "Eli",
 "confidence": 0.7302,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Eli"
 },
 {
 "id": "deity:Lord",
 "type": "deity",
-"preferred_label": "BWANA",
 "confidence": 0.6779,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "BWANA"
 }
 ]
 }
@@ -362,7 +369,7 @@
 {
 "content_id": "734347",
 "reference_id": 203447,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Elisha",
 "media_type": "Text",
 "index_reference": "elisha",
@@ -503,9 +510,9 @@
 {
 "id": "person:Elisha",
 "type": "person",
-"preferred_label": "Elisha",
 "confidence": 0.6646,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Elisha"
 }
 ]
 }
@@ -513,7 +520,7 @@
 {
 "content_id": "734345",
 "reference_id": 203445,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Eliya",
 "media_type": "Text",
 "index_reference": "eliya",
@@ -756,9 +763,9 @@
 {
 "id": "person:Elijah",
 "type": "person",
-"preferred_label": "Eliya",
 "confidence": 0.6771,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Eliya"
 }
 ]
 }
@@ -766,7 +773,7 @@
 {
 "content_id": "734303",
 "reference_id": 203403,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Esau",
 "media_type": "Text",
 "index_reference": "esau",
@@ -957,16 +964,16 @@
 {
 "id": "person:Esau",
 "type": "person",
-"preferred_label": "Esau",
 "confidence": 0.7326,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Esau"
 },
 {
 "id": "place:Edom",
 "type": "place",
-"preferred_label": "Edomu",
 "confidence": 0.6622,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Edomu"
 }
 ]
 }
@@ -974,7 +981,7 @@
 {
 "content_id": "734362",
 "reference_id": 203462,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Esta",
 "media_type": "Text",
 "index_reference": "esta",
@@ -1021,13 +1028,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Esther",
+"type": "person",
+"confidence": 0.695,
+"match_method": "scored",
+"preferred_label": "Esther"
+}
+]
 }
 },
 {
 "content_id": "734368",
 "reference_id": 203468,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ezekieli",
 "media_type": "Text",
 "index_reference": "ezekieli",
@@ -1078,9 +1093,9 @@
 {
 "id": "person:Ezekiel",
 "type": "person",
-"preferred_label": "Ezekieli",
 "confidence": 0.6138,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ezekieli"
 }
 ]
 }
@@ -1088,7 +1103,7 @@
 {
 "content_id": "734359",
 "reference_id": 203459,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ezra",
 "media_type": "Text",
 "index_reference": "ezra",
@@ -1253,16 +1268,16 @@
 {
 "id": "person:Ezra",
 "type": "person",
-"preferred_label": "Ezra",
 "confidence": 0.6607,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ezra"
 },
 {
 "id": "person:Ezra.2",
 "type": "person",
-"preferred_label": "Ezra",
 "confidence": 0.6028,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "Ezra"
 }
 ]
 }

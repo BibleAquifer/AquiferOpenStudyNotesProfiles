@@ -2,7 +2,7 @@
 {
 "content_id": "726093",
 "reference_id": 203464,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الشّيطان",
 "media_type": "Text",
 "index_reference": "الشّيطان",
@@ -325,13 +325,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 0.7138,
+"match_method": "scored",
+"preferred_label": "ٱلشَّيْطَان"
+}
+]
 }
 },
 {
 "content_id": "726056",
 "reference_id": 203427,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شاول",
 "media_type": "Text",
 "index_reference": "شاول",
@@ -396,13 +404,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 0.7601,
+"match_method": "scored",
+"preferred_label": "شَاولَ"
+}
+]
 }
 },
 {
 "content_id": "726053",
 "reference_id": 203424,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شمشون",
 "media_type": "Text",
 "index_reference": "شمشون",
@@ -473,7 +489,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Samson",
+"type": "person",
+"confidence": 0.7178,
+"match_method": "scored",
+"preferred_label": "شَمْشونَ"
+}
+]
 }
 }
 ]

@@ -2,7 +2,7 @@
 {
 "content_id": "654313",
 "reference_id": 203512,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "इफिसुस",
 "media_type": "Text",
 "index_reference": "इफिसुस",
@@ -103,9 +103,16 @@
 {
 "id": "place:Ephesus",
 "type": "place",
-"preferred_label": "इफिसुस",
 "confidence": 0.6605,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "इफिसुस"
+},
+{
+"id": "group:Ephesus",
+"type": "group",
+"confidence": 0.614,
+"match_method": "scored",
+"preferred_label": "इफिसी"
 }
 ]
 }
@@ -113,7 +120,7 @@
 {
 "content_id": "654198",
 "reference_id": 203397,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "इश्माएल",
 "media_type": "Text",
 "index_reference": "इश्माएल",
@@ -284,9 +291,9 @@
 {
 "id": "person:Ishmael",
 "type": "person",
-"preferred_label": "इश्माएल",
 "confidence": 0.6691,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "इश्माएल"
 }
 ]
 }
@@ -294,7 +301,7 @@
 {
 "content_id": "654201",
 "reference_id": 203400,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "इसहाक",
 "media_type": "Text",
 "index_reference": "इसहाक",
@@ -579,9 +586,9 @@
 {
 "id": "person:Isaac",
 "type": "person",
-"preferred_label": "इसहाक",
 "confidence": 0.7182,
-"match_method": "scored"
+"match_method": "scored",
+"preferred_label": "इसहाक"
 }
 ]
 }

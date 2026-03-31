@@ -2,7 +2,7 @@
 {
 "content_id": "650849",
 "reference_id": 203433,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "大衛",
 "media_type": "Text",
 "index_reference": "大衛",
@@ -331,13 +331,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.685,
+"match_method": "scored",
+"preferred_label": "David"
+}
+]
 }
 },
 {
 "content_id": "650893",
 "reference_id": 203477,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "大希律",
 "media_type": "Text",
 "index_reference": "大希律",

@@ -2,7 +2,7 @@
 {
 "content_id": "650879",
 "reference_id": 203463,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "薛西一世",
 "media_type": "Text",
 "index_reference": "薛西一世",
@@ -31,7 +31,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ahasuerus",
+"type": "person",
+"confidence": 0.7178,
+"match_method": "scored",
+"preferred_label": "Ahasuerus"
+}
+]
 }
 }
 ]

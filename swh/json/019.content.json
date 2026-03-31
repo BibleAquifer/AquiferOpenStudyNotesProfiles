@@ -2,7 +2,7 @@
 {
 "content_id": "734331",
 "reference_id": 203431,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Waamaleki",
 "media_type": "Text",
 "index_reference": "waamaleki",
@@ -109,13 +109,28 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.6293,
+"match_method": "scored",
+"preferred_label": "Amaleki"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 0.5797,
+"match_method": "scored",
+"preferred_label": "Amalekites"
+}
+]
 }
 },
 {
 "content_id": "734346",
 "reference_id": 203446,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Waaramu",
 "media_type": "Text",
 "index_reference": "waaramu",
@@ -336,13 +351,28 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Aramean",
+"type": "group",
+"confidence": 0.6072,
+"match_method": "scored",
+"preferred_label": "Arameans"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 0.5828,
+"match_method": "scored",
+"preferred_label": "Padan-aramu"
+}
+]
 }
 },
 {
 "content_id": "734416",
 "reference_id": 203516,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wafalme wa Kirumi",
 "media_type": "Text",
 "index_reference": "wafalme wa kirumi",
@@ -401,7 +431,7 @@
 {
 "content_id": "734321",
 "reference_id": 203421,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wafilisti",
 "media_type": "Text",
 "index_reference": "wafilisti",
@@ -608,23 +638,9 @@
 {
 "id": "group:Philistine",
 "type": "group",
-"preferred_label": "Wafilisti",
-"confidence": 0.7619,
-"match_method": "scored"
-},
-{
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Wafilisti",
-"confidence": 0.6119,
-"match_method": "scored"
-},
-{
-"id": "person:Philistine",
-"type": "person",
-"preferred_label": "Wafilisti",
-"confidence": 0.6013,
-"match_method": "scored"
+"confidence": 0.6944,
+"match_method": "scored",
+"preferred_label": "Wafilisti"
 }
 ]
 }
@@ -632,7 +648,7 @@
 {
 "content_id": "734372",
 "reference_id": 203472,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wagiriki",
 "media_type": "Text",
 "index_reference": "wagiriki",
@@ -649,13 +665,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.58,
+"match_method": "scored",
+"preferred_label": "Sheep"
+}
+]
 }
 },
 {
 "content_id": "734301",
 "reference_id": 203401,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wahiti",
 "media_type": "Text",
 "index_reference": "wahiti",
@@ -752,11 +776,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Kadesh",
-"type": "place",
-"preferred_label": "Wahiti",
-"confidence": 1.0,
-"match_method": "embedding"
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.6685,
+"match_method": "scored",
+"preferred_label": "Mhiti"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.6609,
+"match_method": "scored",
+"preferred_label": "Hittites"
 }
 ]
 }
@@ -764,7 +795,7 @@
 {
 "content_id": "734360",
 "reference_id": 203460,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wamedi na Waajemi",
 "media_type": "Text",
 "index_reference": "wamedi na waajemi",
@@ -805,7 +836,7 @@
 {
 "content_id": "734383",
 "reference_id": 203483,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wanawake Wanaoitwa Maria",
 "media_type": "Text",
 "index_reference": "wanawake wanaoitwa maria",
@@ -1014,7 +1045,7 @@
 {
 "content_id": "734392",
 "reference_id": 203492,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wasamaria",
 "media_type": "Text",
 "index_reference": "wasamaria",
@@ -1049,7 +1080,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Samaritan",
+"type": "group",
+"confidence": 0.6176,
+"match_method": "scored",
+"preferred_label": "Samaritans"
+}
+]
 }
 }
 ]

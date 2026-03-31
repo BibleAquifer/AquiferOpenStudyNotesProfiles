@@ -2,7 +2,7 @@
 {
 "content_id": "650820",
 "reference_id": 203404,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "拉結",
 "media_type": "Text",
 "index_reference": "拉結",
@@ -115,13 +115,21 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Rachel",
+"type": "person",
+"confidence": 0.7673,
+"match_method": "scored",
+"preferred_label": "Rachel"
+}
+]
 }
 },
 {
 "content_id": "650835",
 "reference_id": 203419,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "喇合",
 "media_type": "Text",
 "index_reference": "喇合",
@@ -186,7 +194,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Rahab",
+"type": "person",
+"confidence": 0.7067,
+"match_method": "scored",
+"preferred_label": "Rahab"
+}
+]
 }
 }
 ]
