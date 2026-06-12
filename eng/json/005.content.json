@@ -126,23 +126,7 @@
 "end_ref_usfm": "JER 43:13"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Egypt",
-"type": "place",
-"confidence": 0.7031,
-"match_method": "scored",
-"preferred_label": "Egypt"
-},
-{
-"id": "place:Syene",
-"type": "place",
-"confidence": 0.6004,
-"match_method": "scored",
-"preferred_label": "Syene"
-}
-]
+"resource": []
 }
 },
 {
@@ -272,16 +256,7 @@
 "end_ref_usfm": "NUM 20:26"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Eleazar.2",
-"type": "person",
-"confidence": 0.6884,
-"match_method": "scored",
-"preferred_label": "Eleazar"
-}
-]
+"resource": []
 }
 },
 {
@@ -375,23 +350,7 @@
 "end_ref_usfm": "1SA 4:22"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Eli",
-"type": "person",
-"confidence": 0.7302,
-"match_method": "scored",
-"preferred_label": "Eli"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.6779,
-"match_method": "scored",
-"preferred_label": "LORD"
-}
-]
+"resource": []
 }
 },
 {
@@ -403,7 +362,7 @@
 "index_reference": "elijah",
 "language": "eng",
 "review_level": "None",
-"content": "<p>Elijah from Tishbe was a prophet in Israel during the reigns of Ahab and Ahaziah, from 874 to 852 BC. His name means “my God is Yahweh.” He showed that the Lord is the one true God and urged Israel to return to the Lord.</p><p>Under Ahab and Jezebel, Israel started worshiping Baal, a Canaanite god of fertility, storms, and rain. As a result, God sent a drought to Israel (<a href=\"https://ref.ly/1Kgs17:1\">1 Kings 17:1</a>). Elijah hid until the drought ended, and God took care of him. During this time, he stayed with a widow in Zarephath, a town in Jezebel’s home region of Sidon. The widow’s son died, but Elijah prayed for him, and he came back to life (<a href=\"https://ref.ly/1Kgs17:8-1Kgs17:24\">1 Kings 17:8–24</a>).</p><p>In the third year of drought, Elijah challenged Baal&apos;s prophets to a contest on Mount Carmel to show who the true God was (<a href=\"https://ref.ly/1Kgs18:1-1Kgs18:40\">1 Kings 18:1–40</a>). The prophets of Baal called on Baal without success, becoming frantic to make him appear, while Elijah mocked Baal. When it was Elijah&apos;s turn, he poured water over his sacrifice and prayed a simple, powerful prayer. Fire immediately consumed the offering. In response, the people of Israel worshiped the Lord and, following Elijah&apos;s direction, killed Baal&apos;s prophets. Then Elijah prayed for rain, and the drought ended (<a href=\"https://ref.ly/1Kgs18:41-1Kgs18:46\">1 Kings 18:41–46</a>).</p><p>Despite God&apos;s great power, Ahab and Jezebel continued to mislead Israel. Jezebel was angry because her prophets were killed (<a href=\"https://ref.ly/1Kgs19:1-1Kgs19:2\">1 Kings 19:1–2</a>). She threatened Elijah, who escaped to the desert and asked God to end his life. Instead, an angel fed him until he reached Mount Sinai. Elijah complained that he was the only prophet left and that his life was in danger. God encouraged him with a gentle voice, shared good news, and sent him back to serve (<a href=\"https://ref.ly/1Kgs19:3-1Kgs19:18\">1 Kings 19:3–18</a>).</p><p>Elijah was very dedicated to the true God. He trained an assistant named Elisha. At the end of Elijah&apos;s life on Earth, he did not die but was taken to heaven in a chariot of fire (<a href=\"https://ref.ly/2Kgs2:11-2Kgs2:12\">2 Kings 2:11–12</a>). Elisha took on Elijah&apos;s role as a prophet and continued to challenge false worship in Israel (see <a href=\"https://ref.ly/2Kgs2:1-2Kgs9:13\">2 Kings 2:1–9:13</a>; <a href=\"https://ref.ly/2Kgs13:14-2Kgs13:25\">13:14–25</a>).</p><p>The Old Testament ends with the hope that Elijah will return before the day of the Lord (<a href=\"https://ref.ly/Mal4:5-Mal4:6\">Malachi 4:5–6</a>). John the Baptist partly fulfilled this expectation (see <a href=\"https://ref.ly/Matt11:7-Matt11:14\">Matthew 11:7–14</a>; <a href=\"https://ref.ly/Matt17:10-Matt17:13\">17:10–13</a>; <a href=\"https://ref.ly/Luke1:17\">Luke 1:17</a>). Elijah appeared with Moses during Jesus&apos; transfiguration (when Jesus&apos;s appearance changed to show his divine glory; <a href=\"https://ref.ly/Matt17:1-Matt17:9\">Matthew 17:1–9</a>). In <a href=\"https://ref.ly/Rev11:3-Rev11:12\">Revelation 11:3–12</a>, one of the two witnesses seems to be either Elijah himself or someone like him. Elijah’s life shows God’s kindness and the power of prayer (<a href=\"https://ref.ly/Luke4:25-Luke4:26\">Luke 4:25–26</a>; <a href=\"https://ref.ly/Rom11:2-Rom11:6\">Romans 11:2–6</a>; <a href=\"https://ref.ly/Jas5:17-Jas5:18\">James 5:17–18</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Kgs17:1-1Kgs19:21\">1 Kings 17:1–19:21</a>; <a href=\"https://ref.ly/1Kgs21:1-1Kgs21:29\">21:1–29</a>; <a href=\"https://ref.ly/2Kgs1:1-2Kgs2:25\">2 Kings 1:1–2:25</a>; <a href=\"https://ref.ly/2Kgs9:36\">9:36</a>; <a href=\"https://ref.ly/2Kgs10:10\">10:10</a>, <a href=\"https://ref.ly/2Kgs10:17\">17</a>; <a href=\"https://ref.ly/2Chr21:12-2Chr21:15\">2 Chronicles 21:12–15</a>; <a href=\"https://ref.ly/Mal4:5-Mal4:6\">Malachi 4:5–6</a>; <a href=\"https://ref.ly/Matt11:14\">Matthew 11:14</a>; <a href=\"https://ref.ly/Matt16:14\">16:14</a>; <a href=\"https://ref.ly/Matt17:1-Matt17:13\">17:1–13</a>; <a href=\"https://ref.ly/Matt27:45-Matt27:49\">27:45–49</a>; <a href=\"https://ref.ly/Mark6:15\">Mark 6:15</a>; <a href=\"https://ref.ly/Mark8:28\">8:28</a>; <a href=\"https://ref.ly/Mark9:2-Mark9:13\">9:2–13</a>; <a href=\"https://ref.ly/Mark15:33-Mark15:36\">15:33–36</a>; <a href=\"https://ref.ly/Luke1:17\">Luke 1:17</a>; <a href=\"https://ref.ly/Luke4:26\">4:26</a>; <a href=\"https://ref.ly/Luke9:28-Luke9:36\">9:28–36</a>; <a href=\"https://ref.ly/John1:19-John1:28\">John 1:19–28</a>; <a href=\"https://ref.ly/Rom11:1-Rom11:6\">Romans 11:1–6</a>; <a href=\"https://ref.ly/Jas5:17\">James 5:17</a></p>",
+"content": "<p>Elijah from Tishbe was a prophet in Israel during the reigns of Ahab and Ahaziah, from 874 to 852 BC. His name means “my God is Yahweh.” He showed that the Lord is the one true God and urged Israel to return to the Lord.</p><p>Under Ahab and Jezebel, Israel started worshiping Baal, a Canaanite god of fertility, storms, and rain. As a result, God sent a drought to Israel (<a href=\"https://ref.ly/1Kgs17:1\">1 Kings 17:1</a>). Elijah hid until the drought ended, and God took care of him. During this time, he stayed with a widow in Zarephath, a town in Jezebel’s home region of Sidon. The widow’s son died, but Elijah prayed for him, and he came back to life (<a href=\"https://ref.ly/1Kgs17:8-1Kgs17:24\">1 Kings 17:8–24</a>).</p><p>In the third year of drought, Elijah challenged Baal&apos;s prophets to a contest on Mount Carmel to show who the true God was (<a href=\"https://ref.ly/1Kgs18:1-1Kgs18:40\">1 Kings 18:1–40</a>). The prophets of Baal called on Baal without success, becoming frantic to make him appear, while Elijah mocked Baal. When it was Elijah&apos;s turn, he poured water over his sacrifice and prayed a simple, powerful prayer. Fire immediately consumed the offering. In response, the people of Israel worshiped the Lord and, following Elijah&apos;s direction, killed Baal&apos;s prophets. Then Elijah prayed for rain, and the drought ended (<a href=\"https://ref.ly/1Kgs18:41-1Kgs18:46\">1 Kings 18:41–46</a>).</p><p>Despite God&apos;s great power, Ahab and Jezebel continued to mislead Israel. Jezebel was angry because her prophets were killed (<a href=\"https://ref.ly/1Kgs19:1-1Kgs19:2\">1 Kings 19:1–2</a>). She threatened Elijah, who escaped to the desert and asked God to end his life. Instead, an angel fed him until he reached Mount Sinai. Elijah complained that he was the only prophet left and that his life was in danger. God encouraged him with a gentle voice, shared good news, and sent him back to serve (<a href=\"https://ref.ly/1Kgs19:3-1Kgs19:18\">1 Kings 19:3–18</a>).</p><p>Elijah was very dedicated to the true God. He trained an assistant named Elisha. At the end of Elijah&apos;s life on Earth, he did not die but was taken to heaven in a chariot of fire (<a href=\"https://ref.ly/2Kgs2:11-2Kgs2:12\">2 Kings 2:11–12</a>). Elisha took on Elijah&apos;s role as a prophet and continued to challenge false worship in Israel (see <a href=\"https://ref.ly/2Kgs2:1-2Kgs9:13\">2 Kings 2:1–9:13</a>; <a href=\"https://ref.ly/2Kgs13:14-2Kgs13:25\">13:14–25</a>).</p><p>The Old Testament ends with the hope that Elijah will return before the day of the Lord (<a href=\"https://ref.ly/Mal4:5-Mal4:6\">Malachi 4:5–6</a>). John the Baptist partly fulfilled this expectation (see <a href=\"https://ref.ly/Matt11:7-Matt11:14\">Matthew 11:7–14</a>; <a href=\"https://ref.ly/Matt17:10-Matt17:13\">17:10–13</a>; <a href=\"https://ref.ly/Luke1:17\">Luke 1:17</a>). Elijah appeared with Moses during the transfiguration (when the appearance of Jesus changed to show his divine glory; <a href=\"https://ref.ly/Matt17:1-Matt17:9\">Matthew 17:1–9</a>). In <a href=\"https://ref.ly/Rev11:3-Rev11:12\">Revelation 11:3–12</a>, one of the two witnesses seems to be either Elijah himself or someone like him. Elijah’s life shows God’s kindness and the power of prayer (<a href=\"https://ref.ly/Luke4:25-Luke4:26\">Luke 4:25–26</a>; <a href=\"https://ref.ly/Rom11:2-Rom11:6\">Romans 11:2–6</a>; <a href=\"https://ref.ly/Jas5:17-Jas5:18\">James 5:17–18</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Kgs17:1-1Kgs19:21\">1 Kings 17:1–19:21</a>; <a href=\"https://ref.ly/1Kgs21:1-1Kgs21:29\">21:1–29</a>; <a href=\"https://ref.ly/2Kgs1:1-2Kgs2:25\">2 Kings 1:1–2:25</a>; <a href=\"https://ref.ly/2Kgs9:36\">9:36</a>; <a href=\"https://ref.ly/2Kgs10:10\">10:10</a>, <a href=\"https://ref.ly/2Kgs10:17\">17</a>; <a href=\"https://ref.ly/2Chr21:12-2Chr21:15\">2 Chronicles 21:12–15</a>; <a href=\"https://ref.ly/Mal4:5-Mal4:6\">Malachi 4:5–6</a>; <a href=\"https://ref.ly/Matt11:14\">Matthew 11:14</a>; <a href=\"https://ref.ly/Matt16:14\">16:14</a>; <a href=\"https://ref.ly/Matt17:1-Matt17:13\">17:1–13</a>; <a href=\"https://ref.ly/Matt27:45-Matt27:49\">27:45–49</a>; <a href=\"https://ref.ly/Mark6:15\">Mark 6:15</a>; <a href=\"https://ref.ly/Mark8:28\">8:28</a>; <a href=\"https://ref.ly/Mark9:2-Mark9:13\">9:2–13</a>; <a href=\"https://ref.ly/Mark15:33-Mark15:36\">15:33–36</a>; <a href=\"https://ref.ly/Luke1:17\">Luke 1:17</a>; <a href=\"https://ref.ly/Luke4:26\">4:26</a>; <a href=\"https://ref.ly/Luke9:28-Luke9:36\">9:28–36</a>; <a href=\"https://ref.ly/John1:19-John1:28\">John 1:19–28</a>; <a href=\"https://ref.ly/Rom11:1-Rom11:6\">Romans 11:1–6</a>; <a href=\"https://ref.ly/Jas5:17\">James 5:17</a></p>",
 "associations": {
 "passage": [
 {
@@ -635,16 +594,7 @@
 "end_ref_usfm": "ROM 11:6"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Elijah",
-"type": "person",
-"confidence": 0.6771,
-"match_method": "scored",
-"preferred_label": "Elijah"
-}
-]
+"resource": []
 }
 },
 {
@@ -656,7 +606,7 @@
 "index_reference": "elisha",
 "language": "eng",
 "review_level": "None",
-"content": "<p>Elisha the prophet followed and succeeded Elijah in the northern kingdom of Israel during the late 800s BC. At that time, the leaders and people of the northern kingdom turned away from God and worshiped the Canaanite god Baal. Ahab and Jezebel were devoted worshipers of this false god, as were their descendants who followed them on the throne. Elisha&apos;s ministry lasted from 853 to 798 BC. It began as King Ahab&apos;s reign was ending. He played a key role in God&apos;s plan to remove Israel&apos;s idol-worshiping leaders.</p><p>Elisha began his work as a follower of Elijah and was chosen by God to replace him (<a href=\"https://ref.ly/1Kgs19:15-1Kgs19:21\">1 Kings 19:15–21</a>; <a href=\"https://ref.ly/2Kgs2:1-2Kgs2:18\">2 Kings 2:1–18</a>). After Elijah went up to heaven, Elisha&apos;s miracles showed that God&apos;s great power was with him.</p><p>Elisha’s miracles often involved water. He made the bad water of a spring near Jericho clean and made an ax head float (<a href=\"https://ref.ly/2Kgs2:19-2Kgs2:22\">2 Kings 2:19–22</a>; <a href=\"https://ref.ly/2Kgs6:1-2Kgs6:7\">6:1–7</a>). When King Joram ran out of water in enemy territory, Elisha accurately predicted that plenty of water would appear (<a href=\"https://ref.ly/2Kgs3:4-2Kgs3:20\">2 Kings 3:4–20</a>). People believed Baal controlled water, so these miracles showed that the Lord, not Baal, was truly in control.</p><p>Elisha showed God&apos;s power by helping people in real ways. He helped a poor woman by miraculously filling her jars with olive oil (<a href=\"https://ref.ly/2Kgs4:1-2Kgs4:7\">2 Kings 4:1–7</a>). He told a woman from Shunem she would have a son and later brought her son back to life (<a href=\"https://ref.ly/2Kgs4:8-2Kgs4:37\">2 Kings 4:8–37</a>). He healed an Aramean general named Naaman of leprosy (<a href=\"https://ref.ly/2Kgs5:1-2Kgs5:19\">2 Kings 5:1–19</a>). He also provided food for those in need (<a href=\"https://ref.ly/2Kgs4:38-2Kgs4:44\">2 Kings 4:38–44</a>).</p><p>Elisha played a role in God&apos;s plan to judge the northern kingdom. He anointed Jehu of Israel and Hazael of Aram (<a href=\"https://ref.ly/2Kgs8:7-2Kgs8:15\">2 Kings 8:7–15</a>; <a href=\"https://ref.ly/2Kgs9:1-2Kgs9:13\">9:1–13</a>). He poured sacred oil on their heads to show God had chosen them. They violently ended the rule of Israel&apos;s leaders who promoted Baal worship (see <a href=\"https://ref.ly/1Kgs19:15-1Kgs19:18\">1 Kings 19:15–18</a>).</p><p>Elisha&apos;s miracles foreshadowed Jesus&apos; work because Jesus: </p><ul><li><p>Healed people with leprosy (<a href=\"https://ref.ly/Matt8:1-Matt8:4\">Matthew 8:1–4</a>)</p></li><li><p>Brought the dead back to life (<a href=\"https://ref.ly/Mark5:21-Mark5:43\">Mark 5:21–43</a>; <a href=\"https://ref.ly/Luke7:11-Luke7:17\">Luke 7:11–17</a>; <a href=\"https://ref.ly/John11:1-John11:44\">John 11:1–44</a>)</p></li><li><p>Provided food in miraculous ways (<a href=\"https://ref.ly/Matt14:13-Matt14:21\">Matthew 14:13–21</a>; <a href=\"https://ref.ly/Matt15:32-Matt15:38\">15:32–38</a>)</p></li></ul><p>Jesus spoke about healing Naaman to show that God&apos;s mercy extends beyond Israelites to gentiles (<a href=\"https://ref.ly/Luke4:27\">Luke 4:27</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Kgs19:15-1Kgs19:21\">1 Kings 19:15–21</a>; <a href=\"https://ref.ly/2Kgs2:1-2Kgs9:13\">2 Kings 2:1–9:13</a>; <a href=\"https://ref.ly/2Kgs13:14-2Kgs13:21\">13:14–21</a>; <a href=\"https://ref.ly/Luke4:27\">Luke 4:27</a></p>",
+"content": "<p>Elisha the prophet followed and succeeded Elijah in the northern kingdom of Israel during the late 800s BC. At that time, the leaders and people of the northern kingdom turned away from God and worshiped the Canaanite god Baal. Ahab and Jezebel were devoted worshipers of this false god, as were their descendants who followed them on the throne. Elisha&apos;s ministry lasted from 853 to 798 BC. It began as King Ahab&apos;s reign was ending. He played a key role in God&apos;s plan to remove Israel&apos;s idol-worshiping leaders.</p><p>Elisha began his work as a follower of Elijah and was chosen by God to replace him (<a href=\"https://ref.ly/1Kgs19:15-1Kgs19:21\">1 Kings 19:15–21</a>; <a href=\"https://ref.ly/2Kgs2:1-2Kgs2:18\">2 Kings 2:1–18</a>). After Elijah went up to heaven, Elisha&apos;s miracles showed that God&apos;s great power was with him.</p><p>Elisha’s miracles often involved water. He made the bad water of a spring near Jericho clean and made an ax head float (<a href=\"https://ref.ly/2Kgs2:19-2Kgs2:22\">2 Kings 2:19–22</a>; <a href=\"https://ref.ly/2Kgs6:1-2Kgs6:7\">6:1–7</a>). When King Joram ran out of water in enemy territory, Elisha accurately predicted that plenty of water would appear (<a href=\"https://ref.ly/2Kgs3:4-2Kgs3:20\">2 Kings 3:4–20</a>). People believed Baal controlled water, so these miracles showed that the Lord, not Baal, was truly in control.</p><p>Elisha showed God&apos;s power by helping people in real ways. He helped a poor woman by miraculously filling her jars with olive oil (<a href=\"https://ref.ly/2Kgs4:1-2Kgs4:7\">2 Kings 4:1–7</a>). He told a woman from Shunem she would have a son and later brought her son back to life (<a href=\"https://ref.ly/2Kgs4:8-2Kgs4:37\">2 Kings 4:8–37</a>). He healed an Aramean general named Naaman of leprosy (<a href=\"https://ref.ly/2Kgs5:1-2Kgs5:19\">2 Kings 5:1–19</a>). He also provided food for those in need (<a href=\"https://ref.ly/2Kgs4:38-2Kgs4:44\">2 Kings 4:38–44</a>).</p><p>Elisha played a role in God&apos;s plan to judge the northern kingdom. He anointed Jehu of Israel and Hazael of Aram (<a href=\"https://ref.ly/2Kgs8:7-2Kgs8:15\">2 Kings 8:7–15</a>; <a href=\"https://ref.ly/2Kgs9:1-2Kgs9:13\">9:1–13</a>). He poured sacred oil on their heads to show God had chosen them. They violently ended the rule of Israel&apos;s leaders who promoted Baal worship (see <a href=\"https://ref.ly/1Kgs19:15-1Kgs19:18\">1 Kings 19:15–18</a>).</p><p>Elisha&apos;s miracles foreshadowed the work of Jesus. Jesus also: </p><ul><li><p>healed people with leprosy (<a href=\"https://ref.ly/Matt8:1-Matt8:4\">Matthew 8:1–4</a>), </p></li><li><p>brought the dead back to life (<a href=\"https://ref.ly/Mark5:21-Mark5:43\">Mark 5:21–43</a>; <a href=\"https://ref.ly/Luke7:11-Luke7:17\">Luke 7:11–17</a>; <a href=\"https://ref.ly/John11:1-John11:44\">John 11:1–44</a>), and</p></li><li><p>provided food in miraculous ways (<a href=\"https://ref.ly/Matt14:13-Matt14:21\">Matthew 14:13–21</a>; <a href=\"https://ref.ly/Matt15:32-Matt15:38\">15:32–38</a>).</p></li></ul><p>Jesus spoke about healing Naaman to show that God&apos;s mercy extends beyond Israelites to Gentiles (<a href=\"https://ref.ly/Luke4:27\">Luke 4:27</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/1Kgs19:15-1Kgs19:21\">1 Kings 19:15–21</a>; <a href=\"https://ref.ly/2Kgs2:1-2Kgs9:13\">2 Kings 2:1–9:13</a>; <a href=\"https://ref.ly/2Kgs13:14-2Kgs13:21\">13:14–21</a>; <a href=\"https://ref.ly/Luke4:27\">Luke 4:27</a></p>",
 "associations": {
 "passage": [
 {
@@ -786,16 +736,7 @@
 "end_ref_usfm": "2KI 13:21"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Elisha",
-"type": "person",
-"confidence": 0.6646,
-"match_method": "scored",
-"preferred_label": "Elisha"
-}
-]
+"resource": []
 }
 },
 {
@@ -896,22 +837,6 @@
 "resource_code": "TyndaleStudyNotesBookIntros",
 "label": "Colossians",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Ephesus",
-"type": "place",
-"confidence": 0.6605,
-"match_method": "scored",
-"preferred_label": "Ephesus"
-},
-{
-"id": "group:Ephesus",
-"type": "group",
-"confidence": 0.614,
-"match_method": "scored",
-"preferred_label": "Ephesians"
 }
 ]
 }
@@ -1105,22 +1030,6 @@
 "label": "Genesis 25:25",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Esau",
-"type": "person",
-"confidence": 0.7326,
-"match_method": "scored",
-"preferred_label": "Esau"
-},
-{
-"id": "place:Edom",
-"type": "place",
-"confidence": 0.6622,
-"match_method": "scored",
-"preferred_label": "Edom"
-}
 ]
 }
 },
@@ -1173,16 +1082,7 @@
 "end_ref_usfm": "EST 9:32"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Esther",
-"type": "person",
-"confidence": 0.695,
-"match_method": "scored",
-"preferred_label": "Esther"
-}
-]
+"resource": []
 }
 },
 {
@@ -1234,16 +1134,7 @@
 "end_ref_usfm": "EZK 4:7"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Ezekiel",
-"type": "person",
-"confidence": 0.6138,
-"match_method": "scored",
-"preferred_label": "Ezekiel"
-}
-]
+"resource": []
 }
 },
 {
@@ -1409,23 +1300,7 @@
 "end_ref_usfm": "NEH 8:18"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Ezra",
-"type": "person",
-"confidence": 0.6607,
-"match_method": "scored",
-"preferred_label": "Ezra"
-},
-{
-"id": "person:Ezra.2",
-"type": "person",
-"confidence": 0.6028,
-"match_method": "scored",
-"preferred_label": "Ezra"
-}
-]
+"resource": []
 }
 }
 ]

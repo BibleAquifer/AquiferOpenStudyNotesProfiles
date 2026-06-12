@@ -126,16 +126,7 @@
 "end_ref_usfm": "1KI 2:35"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Abiathar",
-"type": "person",
-"confidence": 0.6622,
-"match_method": "scored",
-"preferred_label": "Abiathari"
-}
-]
+"resource": []
 }
 },
 {
@@ -289,16 +280,7 @@
 "end_ref_usfm": "1CH 19:15"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Abishai",
-"type": "person",
-"confidence": 0.6989,
-"match_method": "scored",
-"preferred_label": "Abishai"
-}
-]
+"resource": []
 }
 },
 {
@@ -416,16 +398,7 @@
 "end_ref_usfm": "2SA 3:39"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Abner",
-"type": "person",
-"confidence": 0.7252,
-"match_method": "scored",
-"preferred_label": "Abneri"
-}
-]
+"resource": []
 }
 },
 {
@@ -807,16 +780,7 @@
 "end_ref_usfm": "JAS 2:23"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Abraham",
-"type": "person",
-"confidence": 0.7433,
-"match_method": "scored",
-"preferred_label": "Abrahamu"
-}
-]
+"resource": []
 }
 },
 {
@@ -952,16 +916,7 @@
 "end_ref_usfm": "2SA 19:10"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Absalom",
-"type": "person",
-"confidence": 0.741,
-"match_method": "scored",
-"preferred_label": "Absalomu"
-}
-]
+"resource": []
 }
 },
 {
@@ -1259,8 +1214,7 @@
 "end_ref_usfm": "HOS 6:7"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1360,16 +1314,7 @@
 "end_ref_usfm": "1KI 22:53"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Ahab",
-"type": "person",
-"confidence": 0.6757,
-"match_method": "scored",
-"preferred_label": "Ahabu"
-}
-]
+"resource": []
 }
 },
 {
@@ -1403,16 +1348,7 @@
 "end_ref_usfm": "EST 1:22"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Ahasuerus",
-"type": "person",
-"confidence": 0.7178,
-"match_method": "scored",
-"preferred_label": "Ahasuero"
-}
-]
+"resource": []
 }
 },
 {
@@ -1494,16 +1430,7 @@
 "end_ref_usfm": "2CH 28:27"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Ahaz",
-"type": "person",
-"confidence": 0.7,
-"match_method": "scored",
-"preferred_label": "Ahazi"
-}
-]
+"resource": []
 }
 },
 {
@@ -1591,8 +1518,7 @@
 "end_ref_usfm": "JHN 18:28"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1614,8 +1540,7 @@
 "end_ref_usfm": "DAN 11:35"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1703,16 +1628,7 @@
 "end_ref_usfm": "1CO 4:7"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Apollos",
-"type": "person",
-"confidence": 0.7636,
-"match_method": "scored",
-"preferred_label": "Apolo"
-}
-]
+"resource": []
 }
 },
 {
@@ -1860,16 +1776,7 @@
 "end_ref_usfm": "NUM 12:12"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Aaron",
-"type": "person",
-"confidence": 0.6934,
-"match_method": "scored",
-"preferred_label": "Haruni"
-}
-]
+"resource": []
 }
 },
 {
@@ -1939,16 +1846,7 @@
 "end_ref_usfm": "2CH 16:14"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Asa",
-"type": "person",
-"confidence": 0.8092,
-"match_method": "scored",
-"preferred_label": "Asa"
-}
-]
+"resource": []
 }
 },
 {
@@ -2012,16 +1910,7 @@
 "end_ref_usfm": "2KI 19:37"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Assyria",
-"type": "place",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Assyria"
-}
-]
+"resource": []
 }
 }
 ]

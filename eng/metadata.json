@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesProfiles",
-"date_created": "2026-03-31",
+"date_created": "2026-06-12",
 "language": "eng",
 "localizations": [
 "arb",
@@ -38,7 +38,9 @@
 "por",
 "spa",
 "swh",
-"zht"
+"zht",
+"ind",
+"rus"
 ],
 "order": "alphabetical",
 "content_type": "Html"
@@ -49,7 +51,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-03-31T09:58:10.633853"
+"dateCreated": "2026-06-12T14:34:51.414975"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +65,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesProfiles": {
-"timestamp": "2026-03-31T09:58:10.633853"
+"timestamp": "2026-06-12T14:34:51.414975"
 }
 }
 },
@@ -95,7 +97,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 99298,
+"size": 97117,
 "scope": {
 "a": [
 "Aaron",
@@ -119,7 +121,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 30444,
+"size": 29849,
 "scope": {
 "b": [
 "Babylon",
@@ -132,7 +134,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 15572,
+"size": 15235,
 "scope": {
 "c": [
 "Caleb",
@@ -143,7 +145,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 23182,
+"size": 22665,
 "scope": {
 "d": [
 "Daniel",
@@ -154,7 +156,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 57009,
+"size": 55703,
 "scope": {
 "e": [
 "Egypt",
@@ -172,7 +174,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 8899,
+"size": 8782,
 "scope": {
 "g": [
 "Gideon",
@@ -182,7 +184,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 31574,
+"size": 31037,
 "scope": {
 "h": [
 "Hagar",
@@ -198,7 +200,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 24125,
+"size": 23452,
 "scope": {
 "i": [
 "Isaac",
@@ -209,7 +211,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 157115,
+"size": 153286,
 "scope": {
 "j": [
 "Jacob",
@@ -238,7 +240,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 15568,
+"size": 15235,
 "scope": {
 "l": [
 "Leah",
@@ -249,7 +251,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 61354,
+"size": 60188,
 "scope": {
 "m": [
 "Maccabees",
@@ -267,7 +269,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 23977,
+"size": 23407,
 "scope": {
 "n": [
 "Nebuchadnezzar II",
@@ -280,7 +282,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 62174,
+"size": 60721,
 "scope": {
 "p": [
 "Paul (Saul)",
@@ -296,7 +298,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 38924,
+"size": 38171,
 "scope": {
 "r": [
 "Rachel",
@@ -312,7 +314,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 87267,
+"size": 85055,
 "scope": {
 "s": [
 "The Sadducees",
@@ -331,7 +333,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 20567,
+"size": 20112,
 "scope": {
 "t": [
 "Thomas",
@@ -342,7 +344,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 4295,
+"size": 4200,
 "scope": {
 "u": [
 "Uzziah"
@@ -351,7 +353,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 8308,
+"size": 8087,
 "scope": {
 "w": [
 "Women Named Mary"
@@ -360,7 +362,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 2733,
+"size": 2698,
 "scope": {
 "x": [
 "Xerxes I"
@@ -369,7 +371,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 9603,
+"size": 9384,
 "scope": {
 "z": [
 "Zadok",
@@ -377,89 +379,89 @@
 ]
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 58973
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 19977
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 10226
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 14258
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 33555
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 8146
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 22338
-},
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 12316
+"size": 12069
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 83764
+"size": 82346
 },
-"md/010.content.md": {
+"md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 9881
+"size": 9937
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 13989
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 38311
-},
-"md/012.content.md": {
-"mimeType": "text/markdown",
-"size": 14162
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 35731
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 25422
-},
-"md/015.content.md": {
-"mimeType": "text/markdown",
-"size": 46629
+"size": 37895
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 12573
-},
-"md/017.content.md": {
-"mimeType": "text/markdown",
-"size": 3261
-},
-"md/018.content.md": {
-"mimeType": "text/markdown",
-"size": 4769
-},
-"md/019.content.md": {
-"mimeType": "text/markdown",
-"size": 2900
+"size": 12313
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 6300
+"size": 6092
+},
+"md/017.content.md": {
+"mimeType": "text/markdown",
+"size": 3170
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 9642
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 32603
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 19380
+},
+"md/012.content.md": {
+"mimeType": "text/markdown",
+"size": 13668
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 45796
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 21823
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 7931
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 57820
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 24876
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 34938
+},
+"md/019.content.md": {
+"mimeType": "text/markdown",
+"size": 2801
+},
+"md/018.content.md": {
+"mimeType": "text/markdown",
+"size": 4744
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 65462
+"size": 65479
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -475,11 +477,11 @@
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 55871
+"size": 55863
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45779
+"size": 45778
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -491,23 +493,23 @@
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 74755
+"size": 74791
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46302
+"size": 46303
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 57804
+"size": 57854
 },
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47989
+"size": 47983
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 56512
+"size": 56505
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -515,11 +517,11 @@
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 60987
+"size": 61005
 },
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46964
+"size": 46968
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -527,7 +529,7 @@
 },
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43780
+"size": 43782
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -539,83 +541,83 @@
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 343923
+"size": 320106
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 153430
+"size": 126663
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 94451
+"size": 70987
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 115776
+"size": 92434
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 213316
+"size": 189376
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 85089
+"size": 58362
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 151761
+"size": 120592
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 121568
+"size": 99466
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 534852
+"size": 508839
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 96219
+"size": 73580
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 238148
+"size": 209777
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 115695
+"size": 91467
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 238762
+"size": 213681
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 174044
+"size": 144259
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 334723
+"size": 307169
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 125531
+"size": 99194
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 63356
+"size": 40671
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 83383
+"size": 57781
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 57104
+"size": 34168
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 79959
+"size": 56971
 }
 },
 "copyright": {
@@ -1410,10 +1412,20 @@
 "language": "hin",
 "title": "हारून"
 },
+"ind": {
+"content_id": 653298,
+"language": "ind",
+"title": "Harun"
+},
 "por": {
 "content_id": 658488,
 "language": "por",
 "title": "Arão"
+},
+"rus": {
+"content_id": 669833,
+"language": "rus",
+"title": "Аарон"
 },
 "spa": {
 "content_id": 658336,
@@ -1452,10 +1464,20 @@
 "language": "hin",
 "title": "यित्रो (रूएल)"
 },
+"ind": {
+"content_id": 653299,
+"language": "ind",
+"title": "Yitro (Rehuel)"
+},
 "por": {
 "content_id": 658489,
 "language": "por",
 "title": "Jetro (Reuel)"
+},
+"rus": {
+"content_id": 669834,
+"language": "rus",
+"title": "Иофор (Рагуил)"
 },
 "spa": {
 "content_id": 658337,
@@ -1536,10 +1558,20 @@
 "language": "hin",
 "title": "मूसा"
 },
+"ind": {
+"content_id": 653301,
+"language": "ind",
+"title": "Musa"
+},
 "por": {
 "content_id": 658491,
 "language": "por",
 "title": "Moisés"
+},
+"rus": {
+"content_id": 669836,
+"language": "rus",
+"title": "Моисей"
 },
 "spa": {
 "content_id": 658339,
@@ -1704,10 +1736,20 @@
 "language": "hin",
 "title": "यहोशू"
 },
+"ind": {
+"content_id": 653305,
+"language": "ind",
+"title": "Yosua"
+},
 "por": {
 "content_id": 658495,
 "language": "por",
 "title": "Josué"
+},
+"rus": {
+"content_id": 669840,
+"language": "rus",
+"title": "Иисус Навин"
 },
 "spa": {
 "content_id": 658343,
@@ -2838,10 +2880,20 @@
 "language": "hin",
 "title": "एलिय्याह"
 },
+"ind": {
+"content_id": 653332,
+"language": "ind",
+"title": "Elia"
+},
 "por": {
 "content_id": 658522,
 "language": "por",
 "title": "Elias"
+},
+"rus": {
+"content_id": 669867,
+"language": "rus",
+"title": "Илия"
 },
 "spa": {
 "content_id": 658370,
@@ -2880,10 +2932,20 @@
 "language": "hin",
 "title": "अरामी लोग"
 },
+"ind": {
+"content_id": 653333,
+"language": "ind",
+"title": "Orang Aram"
+},
 "por": {
 "content_id": 658523,
 "language": "por",
 "title": "Arameus"
+},
+"rus": {
+"content_id": 669868,
+"language": "rus",
+"title": "Арамеи"
 },
 "spa": {
 "content_id": 658371,
@@ -2922,10 +2984,20 @@
 "language": "hin",
 "title": "एलीशा"
 },
+"ind": {
+"content_id": 653334,
+"language": "ind",
+"title": "Elisa"
+},
 "por": {
 "content_id": 658524,
 "language": "por",
 "title": "Eliseu"
+},
+"rus": {
+"content_id": 669869,
+"language": "rus",
+"title": "Елисей"
 },
 "spa": {
 "content_id": 658372,
@@ -3972,10 +4044,20 @@
 "language": "hin",
 "title": "यूनानी "
 },
+"ind": {
+"content_id": 653359,
+"language": "ind",
+"title": "Orang-orang Yunani"
+},
 "por": {
 "content_id": 658549,
 "language": "por",
 "title": "Os Gregos"
+},
+"rus": {
+"content_id": 669894,
+"language": "rus",
+"title": "Греки"
 },
 "spa": {
 "content_id": 658397,
@@ -4266,10 +4348,20 @@
 "language": "hin",
 "title": "मत्ती (लेवी)"
 },
+"ind": {
+"content_id": 653366,
+"language": "ind",
+"title": "Matthew (Lewi)"
+},
 "por": {
 "content_id": 658556,
 "language": "por",
 "title": "Mateus (Levi)"
+},
+"rus": {
+"content_id": 669901,
+"language": "rus",
+"title": "Матфей (Левий)"
 },
 "spa": {
 "content_id": 658404,
@@ -4308,10 +4400,20 @@
 "language": "hin",
 "title": "शमौन पतरस"
 },
+"ind": {
+"content_id": 653367,
+"language": "ind",
+"title": "Simon Petrus"
+},
 "por": {
 "content_id": 658557,
 "language": "por",
 "title": "Simão Pedro"
+},
+"rus": {
+"content_id": 669902,
+"language": "rus",
+"title": "Симон Пётр"
 },
 "spa": {
 "content_id": 658405,
@@ -4434,10 +4536,20 @@
 "language": "hin",
 "title": "मरियम नामक स्त्रियाँ"
 },
+"ind": {
+"content_id": 653370,
+"language": "ind",
+"title": "Wanita Bernama Maria"
+},
 "por": {
 "content_id": 658560,
 "language": "por",
 "title": "Mulheres chamadas Maria"
+},
+"rus": {
+"content_id": 669905,
+"language": "rus",
+"title": "Женщины по имени Мария"
 },
 "spa": {
 "content_id": 658408,
@@ -4476,10 +4588,20 @@
 "language": "hin",
 "title": "हेरोदेस अंतिपास"
 },
+"ind": {
+"content_id": 653371,
+"language": "ind",
+"title": "Herodes Antipas"
+},
 "por": {
 "content_id": 658561,
 "language": "por",
 "title": "Herodes Antipas"
+},
+"rus": {
+"content_id": 669906,
+"language": "rus",
+"title": "Ирод Антипа"
 },
 "spa": {
 "content_id": 658409,
@@ -4518,10 +4640,20 @@
 "language": "hin",
 "title": "यहूदा इस्करियोती"
 },
+"ind": {
+"content_id": 653372,
+"language": "ind",
+"title": "Yudas Iskariot"
+},
 "por": {
 "content_id": 658562,
 "language": "por",
 "title": "Judas Iscariotes"
+},
+"rus": {
+"content_id": 669907,
+"language": "rus",
+"title": "Иуда Искариот"
 },
 "spa": {
 "content_id": 658410,
@@ -4560,10 +4692,20 @@
 "language": "hin",
 "title": "पुन्तियुस पिलातुस"
 },
+"ind": {
+"content_id": 653373,
+"language": "ind",
+"title": "Pontius Pilatus"
+},
 "por": {
 "content_id": 658563,
 "language": "por",
 "title": "Pontius Pilatos"
+},
+"rus": {
+"content_id": 669908,
+"language": "rus",
+"title": "Понтий Пилат"
 },
 "spa": {
 "content_id": 658411,
@@ -4602,10 +4744,20 @@
 "language": "hin",
 "title": "यीशु की माता मरियम"
 },
+"ind": {
+"content_id": 653374,
+"language": "ind",
+"title": "Maria, Ibu Yesus"
+},
 "por": {
 "content_id": 658564,
 "language": "por",
 "title": "Maria, Mãe de Jesus"
+},
+"rus": {
+"content_id": 669909,
+"language": "rus",
+"title": "Мария, мать Иисуса"
 },
 "spa": {
 "content_id": 658412,
@@ -4644,10 +4796,20 @@
 "language": "hin",
 "title": "याकूब, जब्दी के पुत्र"
 },
+"ind": {
+"content_id": 653375,
+"language": "ind",
+"title": "Yakobus, Anak Zebedeus"
+},
 "por": {
 "content_id": 658565,
 "language": "por",
 "title": "Tiago, Filho de Zebedeu"
+},
+"rus": {
+"content_id": 669910,
+"language": "rus",
+"title": "Иаков, сын Зеведея"
 },
 "spa": {
 "content_id": 658413,
@@ -4686,10 +4848,20 @@
 "language": "hin",
 "title": "मार्था, मरियम और लाज़र"
 },
+"ind": {
+"content_id": 653376,
+"language": "ind",
+"title": "Marta, Maria, dan Lazarus"
+},
 "por": {
 "content_id": 658566,
 "language": "por",
 "title": "Marta, Maria e Lázaro"
+},
+"rus": {
+"content_id": 669911,
+"language": "rus",
+"title": "Марфа, Мария и Лазарь"
 },
 "spa": {
 "content_id": 658414,
@@ -4728,10 +4900,20 @@
 "language": "hin",
 "title": "यूहन्ना बपतिस्मा देने वाला"
 },
+"ind": {
+"content_id": 653377,
+"language": "ind",
+"title": "Yohanes Pembaptis"
+},
 "por": {
 "content_id": 658567,
 "language": "por",
 "title": "João Batista"
+},
+"rus": {
+"content_id": 669912,
+"language": "rus",
+"title": "Иоанн Креститель"
 },
 "spa": {
 "content_id": 658415,
@@ -4770,10 +4952,20 @@
 "language": "hin",
 "title": "नीकुदेमुस"
 },
+"ind": {
+"content_id": 653378,
+"language": "ind",
+"title": "Nikodemus"
+},
 "por": {
 "content_id": 658568,
 "language": "por",
 "title": "Nicodemos"
+},
+"rus": {
+"content_id": 669913,
+"language": "rus",
+"title": "Никодим"
 },
 "spa": {
 "content_id": 658416,
@@ -4812,10 +5004,20 @@
 "language": "hin",
 "title": "सामरी "
 },
+"ind": {
+"content_id": 653379,
+"language": "ind",
+"title": "Samaritan"
+},
 "por": {
 "content_id": 658569,
 "language": "por",
 "title": "Samaritanos"
+},
+"rus": {
+"content_id": 669914,
+"language": "rus",
+"title": "Самаритяне"
 },
 "spa": {
 "content_id": 658417,
@@ -4854,10 +5056,20 @@
 "language": "hin",
 "title": "यहूदी अगुवे"
 },
+"ind": {
+"content_id": 653380,
+"language": "ind",
+"title": "Pemimpin Yahudi"
+},
 "por": {
 "content_id": 658570,
 "language": "por",
 "title": "Líderes judeus"
+},
+"rus": {
+"content_id": 669915,
+"language": "rus",
+"title": "Иудейские религиозные начальники"
 },
 "spa": {
 "content_id": 658418,
@@ -4896,10 +5108,20 @@
 "language": "hin",
 "title": "जब्दी का पुत्र यूहन्ना"
 },
+"ind": {
+"content_id": 653381,
+"language": "ind",
+"title": "Yohanes, Anak Zebedeus"
+},
 "por": {
 "content_id": 658571,
 "language": "por",
 "title": "João, Filho de Zebedeu"
+},
+"rus": {
+"content_id": 669916,
+"language": "rus",
+"title": "Иоанн, сын Зеведея"
 },
 "spa": {
 "content_id": 658419,
@@ -4938,10 +5160,20 @@
 "language": "hin",
 "title": "हन्ना और कैफा"
 },
+"ind": {
+"content_id": 653382,
+"language": "ind",
+"title": "Hanas dan Kayafas"
+},
 "por": {
 "content_id": 658572,
 "language": "por",
 "title": "Anás e Caifás"
+},
+"rus": {
+"content_id": 669917,
+"language": "rus",
+"title": "Анна и Каиафа"
 },
 "spa": {
 "content_id": 658420,
@@ -4980,10 +5212,20 @@
 "language": "hin",
 "title": "थोमा"
 },
+"ind": {
+"content_id": 653383,
+"language": "ind",
+"title": "Tomas"
+},
 "por": {
 "content_id": 658573,
 "language": "por",
 "title": "Tomé"
+},
+"rus": {
+"content_id": 669918,
+"language": "rus",
+"title": "Фома"
 },
 "spa": {
 "content_id": 658421,
@@ -5064,10 +5306,20 @@
 "language": "hin",
 "title": "स्तिफनुस"
 },
+"ind": {
+"content_id": 653385,
+"language": "ind",
+"title": "Stefanus"
+},
 "por": {
 "content_id": 658575,
 "language": "por",
 "title": "Estevão"
+},
+"rus": {
+"content_id": 669920,
+"language": "rus",
+"title": "Стефан"
 },
 "spa": {
 "content_id": 658423,
@@ -5148,10 +5400,20 @@
 "language": "hin",
 "title": "पौलुस (शाऊल)"
 },
+"ind": {
+"content_id": 653387,
+"language": "ind",
+"title": "Paulus (Saulus)"
+},
 "por": {
 "content_id": 658577,
 "language": "por",
 "title": "Paulo (Saul)"
+},
+"rus": {
+"content_id": 669922,
+"language": "rus",
+"title": "Павел (Савл)"
 },
 "spa": {
 "content_id": 658425,
@@ -5190,10 +5452,20 @@
 "language": "hin",
 "title": "हेरोदेस अग्रिप्पा I"
 },
+"ind": {
+"content_id": 653388,
+"language": "ind",
+"title": "Herodes Agripa I"
+},
 "por": {
 "content_id": 658578,
 "language": "por",
 "title": "Herodes Agripa I"
+},
+"rus": {
+"content_id": 669923,
+"language": "rus",
+"title": "Ирод Агриппа I"
 },
 "spa": {
 "content_id": 658426,
@@ -5232,10 +5504,20 @@
 "language": "hin",
 "title": "यूहन्ना मरकुस "
 },
+"ind": {
+"content_id": 653389,
+"language": "ind",
+"title": "Yohanes Markus"
+},
 "por": {
 "content_id": 658579,
 "language": "por",
 "title": "João Marcos"
+},
+"rus": {
+"content_id": 669924,
+"language": "rus",
+"title": "Иоанн Марк"
 },
 "spa": {
 "content_id": 658427,
@@ -5274,10 +5556,20 @@
 "language": "hin",
 "title": "याकूब, यीशु के भाई"
 },
+"ind": {
+"content_id": 653390,
+"language": "ind",
+"title": "Yakobus, Saudara Yesus"
+},
 "por": {
 "content_id": 658580,
 "language": "por",
 "title": "Tiago, irmão de Jesus"
+},
+"rus": {
+"content_id": 669925,
+"language": "rus",
+"title": "Иаков, брат Иисуса"
 },
 "spa": {
 "content_id": 658428,
@@ -5316,10 +5608,20 @@
 "language": "hin",
 "title": "लूका"
 },
+"ind": {
+"content_id": 653391,
+"language": "ind",
+"title": "Lukas"
+},
 "por": {
 "content_id": 658581,
 "language": "por",
 "title": "Lucas"
+},
+"rus": {
+"content_id": 669926,
+"language": "rus",
+"title": "Лука"
 },
 "spa": {
 "content_id": 658429,
@@ -5568,10 +5870,20 @@
 "language": "hin",
 "title": "रोमी कलीसिया"
 },
+"ind": {
+"content_id": 653397,
+"language": "ind",
+"title": "Gereja Roma"
+},
 "por": {
 "content_id": 658587,
 "language": "por",
 "title": "A Igreja Romana"
+},
+"rus": {
+"content_id": 669932,
+"language": "rus",
+"title": "Церковь в Риме"
 },
 "spa": {
 "content_id": 658435,
@@ -5778,10 +6090,20 @@
 "language": "hin",
 "title": "तीतुस"
 },
+"ind": {
+"content_id": 653402,
+"language": "ind",
+"title": "Titus"
+},
 "por": {
 "content_id": 658592,
 "language": "por",
 "title": "Tito"
+},
+"rus": {
+"content_id": 669937,
+"language": "rus",
+"title": "Тит"
 },
 "spa": {
 "content_id": 658440,

@@ -78,16 +78,7 @@
 "end_ref_usfm": "JHN 20:25"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Thomas",
-"type": "person",
-"confidence": 0.8444,
-"match_method": "scored",
-"preferred_label": "थोमा"
-}
-]
+"resource": []
 }
 }
 ]

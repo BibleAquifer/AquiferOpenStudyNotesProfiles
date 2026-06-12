@@ -114,16 +114,7 @@
 "end_ref_usfm": "HEB 7:28"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Melchizedek",
-"type": "person",
-"confidence": 0.6563,
-"match_method": "scored",
-"preferred_label": "Melchizedek"
-}
-]
+"resource": []
 }
 }
 ]

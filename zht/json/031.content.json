@@ -90,16 +90,7 @@
 "end_ref_usfm": "ISA 48:16"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Cyrus",
-"type": "person",
-"confidence": 0.6224,
-"match_method": "scored",
-"preferred_label": "Cyrus"
-}
-]
+"resource": []
 }
 }
 ]

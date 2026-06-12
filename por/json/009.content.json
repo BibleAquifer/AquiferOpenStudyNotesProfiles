@@ -54,8 +54,7 @@
 "end_ref_usfm": "REV 17:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -269,16 +268,7 @@
 "end_ref_usfm": "ROM 10:21"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Isaiah",
-"type": "person",
-"confidence": 0.6154,
-"match_method": "scored",
-"preferred_label": "Isaías"
-}
-]
+"resource": []
 }
 },
 {
@@ -564,16 +554,7 @@
 "end_ref_usfm": "HEB 11:20"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Isaac",
-"type": "person",
-"confidence": 0.7182,
-"match_method": "scored",
-"preferred_label": "Isaque"
-}
-]
+"resource": []
 }
 },
 {
@@ -745,16 +726,7 @@
 "end_ref_usfm": "GEN 25:18"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Ishmael",
-"type": "person",
-"confidence": 0.6691,
-"match_method": "scored",
-"preferred_label": "Ismael"
-}
-]
+"resource": []
 }
 }
 ]

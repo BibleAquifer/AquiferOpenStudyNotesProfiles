@@ -78,16 +78,7 @@
 "end_ref_usfm": "GEN 16:6"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Hagar",
-"type": "person",
-"confidence": 0.696,
-"match_method": "scored",
-"preferred_label": "Hagar"
-}
-]
+"resource": []
 }
 },
 {
@@ -145,8 +136,7 @@
 "end_ref_usfm": "DAN 11:39"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -158,7 +148,7 @@
 "index_reference": "herod agrippa i",
 "language": "eng",
 "review_level": "None",
-"content": "<p>Herod Agrippa I was the grandson of Herod the Great, the nephew of Herod Antipas, and the brother of Herodias. Agrippa I ruled all of Palestine for a short time after Jesus&apos;s death, during the early days of the Christian movement, from AD 41 to 44.</p><p>While attending school in Rome, Agrippa lived recklessly and accumulated many debts. He once expressed a wish for his friend Gaius Caligula to be emperor instead of Tiberius. Someone reported this to Tiberius, who then imprisoned Agrippa. He stayed in prison until Tiberius died six months later.</p><p>When Caligula became emperor, he rewarded Agrippa by freeing him and giving him Philip the Tetrarch&apos;s lands and the northern part of Lysanias&apos;s territory, along with the title of king. This title made Herodias jealous, and her husband, Herod Antipas, was both critical and envious of Agrippa. Agrippa accused Antipas of conspiracy, leading to Antipas&apos;s banishment. Agrippa then took over all of Antipas&apos;s lands and property in AD 39.</p><p>When his friend Caligula died in AD 41, Agrippa gained favor with the new emperor, Claudius. Claudius then added Judea and Samaria to Agrippa&apos;s domain. This territory was once ruled by his grandfather, Herod the Great.</p><p>Agrippa actively persecuted early Christians. He is known for killing the apostle James and arresting Peter, actions that pleased the Jews (<a href=\"https://ref.ly/Acts12:1-Acts12:4\">Acts 12:1–4</a>). The Jews liked him more than any other Herod. Agrippa died suddenly in AD 44, soon after his subjects praised him as a god (<a href=\"https://ref.ly/Acts12:20-Acts12:23\">Acts 12:20–23</a>; see also Josephus, <em>Antiquities</em> 19.8.2; 19.9.1; <em>War</em> 2.11.5).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts12:1-Acts12:4\">Acts 12:1–4</a>, <a href=\"https://ref.ly/Acts12:18-Acts12:23\">18–23</a></p>",
+"content": "<p>Herod Agrippa I was the grandson of Herod the Great, the nephew of Herod Antipas, and the brother of Herodias. Agrippa I ruled all of Palestine for a short time after the death of Jesus, during the early days of the Christian movement, from AD 41 to 44.</p><p>While attending school in Rome, Agrippa lived recklessly and accumulated many debts. He once expressed a wish for his friend Gaius Caligula to be emperor instead of Tiberius. Someone reported this to Tiberius, who then imprisoned Agrippa. He stayed in prison until Tiberius died six months later.</p><p>When Caligula became emperor, he rewarded Agrippa by freeing him and giving him Philip the Tetrarch&apos;s lands and the northern part of Lysanias&apos;s territory, along with the title of king. This title made Herodias jealous, and her husband, Herod Antipas, was both critical and envious of Agrippa. Agrippa accused Antipas of conspiracy, leading to Antipas&apos;s banishment. Agrippa then took over all of Antipas&apos;s lands and property in AD 39.</p><p>When his friend Caligula died in AD 41, Agrippa gained favor with the new emperor, Claudius. Claudius then added Judea and Samaria to Agrippa&apos;s domain. This territory was once ruled by his grandfather, Herod the Great.</p><p>Agrippa actively persecuted early Christians. He is known for killing the apostle James and arresting Peter, actions that pleased the Jews (<a href=\"https://ref.ly/Acts12:1-Acts12:4\">Acts 12:1–4</a>). The Jews liked him more than any other Herod. Agrippa died suddenly in AD 44, soon after his subjects praised him as a god (<a href=\"https://ref.ly/Acts12:20-Acts12:23\">Acts 12:20–23</a>; see also Josephus, <em>Antiquities</em> 19.8.2; 19.9.1; <em>War</em> 2.11.5).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts12:1-Acts12:4\">Acts 12:1–4</a>, <a href=\"https://ref.ly/Acts12:18-Acts12:23\">18–23</a></p>",
 "associations": {
 "passage": [
 {
@@ -180,16 +170,7 @@
 "end_ref_usfm": "ACT 12:23"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Herod.3",
-"type": "person",
-"confidence": 0.72,
-"match_method": "scored",
-"preferred_label": "Herod"
-}
-]
+"resource": []
 }
 },
 {
@@ -211,8 +192,7 @@
 "end_ref_usfm": "ACT 26:32"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -224,7 +204,7 @@
 "index_reference": "herod antipas",
 "language": "eng",
 "review_level": "None",
-"content": "<p>Herod Antipas was the sixth son of Herod the Great. He ruled Galilee and Perea from 4 BC to AD 39. This was during Jesus&apos;s lifetime. He ruled areas where Jesus and John the Baptist focused their work.</p><p>Herod Antipas, like his father, founded cities. Sepphoris, his first project, became the largest city in Galilee. It served as Antipas’s capital until he built Tiberias, named after Emperor Tiberius, who ruled from AD 14 to 37. Tiberias was on the western shore of the Sea of Galilee. Antipas completed it in AD 23 and made it his capital.</p><p>Herod Antipas upset many Jews by divorcing his wife and marrying Herodias, who was his half-brother, Herod Philip&apos;s wife. This marriage broke the law of Moses because Herod&apos;s brother Philip was still alive (<a href=\"https://ref.ly/Lev18:16\">Leviticus 18:16</a>; <a href=\"https://ref.ly/Lev20:21\">20:21</a>). When John the Baptist strongly criticized this unlawful marriage, Antipas imprisoned him (<a href=\"https://ref.ly/Mark6:17-Mark6:18\">Mark 6:17–18</a>). Herod feared that John&apos;s criticism would cause an uprising against him (Antiquities 18.5.2). Later, at a banquet, Herodias&apos;s daughter impressed Herod with her dancing. This led him to make a reckless promise to give her anything she wanted. Herodias used this chance to have John beheaded (<a href=\"https://ref.ly/Matt14:1-Matt14:12\">Matthew 14:1–12</a>).</p><p>When Jesus was finally arrested, Pilate could find no fault in Jesus, so he sent him to Herod Antipas, who was in Jerusalem for Passover. Pilate may also have been attempting to improve his relationship with Antipas. Their relationship had been troubled since the massacre in Galilee (<a href=\"https://ref.ly/Luke13:1\">Luke 13:1</a>). Pilate had also brought shields with the image of Tiberius to Jerusalem. These were blasphemous to the Jews (Philo, On the Embassy to Gaius 299–304). These actions greatly disrespected God and his laws, which deeply offended the Jewish people. When Jesus was brought before Antipas, Herod only mocked him and sent him back to Pilate (<a href=\"https://ref.ly/Luke23:6-Luke23:11\">Luke 23:6–11</a>). The main political effect of this event was that Herod and Pilate&apos;s relationship improved (<a href=\"https://ref.ly/Luke23:12\">Luke 23:12</a>).</p><p>Herod Antipas was later defeated in war by King Aretas, whose daughter he had divorced. Jews saw this defeat as divine judgment. Later, in AD 39, Emperor Gaius removed Antipas from power. He exiled Antipas after Herod Agrippa I accused him of plotting against Rome.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt14:1-Matt14:12\">Matthew 14:1–12</a>; <a href=\"https://ref.ly/Mark1:14\">Mark 1:14</a>; <a href=\"https://ref.ly/Mark6:14-Mark6:29\">6:14–29</a>; <a href=\"https://ref.ly/Luke3:1\">Luke 3:1</a>, <a href=\"https://ref.ly/Luke3:19-Luke3:20\">19–20</a>; <a href=\"https://ref.ly/Luke9:7-Luke9:9\">9:7–9</a>; <a href=\"https://ref.ly/Luke13:31-Luke13:33\">13:31–33</a>; <a href=\"https://ref.ly/Luke23:7-Luke23:12\">23:7–12</a>, <a href=\"https://ref.ly/Luke23:15\">15</a>; <a href=\"https://ref.ly/Acts4:27\">Acts 4:27</a></p>",
+"content": "<p>Herod Antipas was the sixth son of Herod the Great. He ruled Galilee and Perea from 4 BC to AD 39. This was during the lifetime of Jesus. He ruled areas where Jesus and John the Baptist focused their work.</p><p>Herod Antipas, like his father, founded cities. Sepphoris, his first project, became the largest city in Galilee. It served as Antipas’s capital until he built Tiberias, named after Emperor Tiberius, who ruled from AD 14 to 37. Tiberias was on the western shore of the Sea of Galilee. Antipas completed it in AD 23 and made it his capital.</p><p>Herod Antipas upset many Jews by divorcing his wife and marrying Herodias, who was his half-brother, Herod Philip&apos;s wife. This marriage broke the law of Moses because Herod&apos;s brother Philip was still alive (<a href=\"https://ref.ly/Lev18:16\">Leviticus 18:16</a>; <a href=\"https://ref.ly/Lev20:21\">20:21</a>). When John the Baptist strongly criticized this unlawful marriage, Antipas imprisoned him (<a href=\"https://ref.ly/Mark6:17-Mark6:18\">Mark 6:17–18</a>). Herod feared that John&apos;s criticism would cause an uprising against him (Antiquities 18.5.2). Later, at a banquet, Herodias&apos;s daughter impressed Herod with her dancing. This led him to make a reckless promise to give her anything she wanted. Herodias used this chance to have John beheaded (<a href=\"https://ref.ly/Matt14:1-Matt14:12\">Matthew 14:1–12</a>).</p><p>When Jesus was finally arrested, Pilate could find no fault in Jesus, so he sent him to Herod Antipas, who was in Jerusalem for Passover. Pilate may also have been attempting to improve his relationship with Antipas. Their relationship had been troubled since the massacre in Galilee (<a href=\"https://ref.ly/Luke13:1\">Luke 13:1</a>). Pilate had also brought shields with the image of Tiberius to Jerusalem. These were blasphemous to the Jews (Philo, On the Embassy to Gaius 299–304). These actions greatly disrespected God and his laws, which deeply offended the Jewish people. When Jesus was brought before Antipas, Herod only mocked him and sent him back to Pilate (<a href=\"https://ref.ly/Luke23:6-Luke23:11\">Luke 23:6–11</a>). The main political effect of this event was that Herod and Pilate&apos;s relationship improved (<a href=\"https://ref.ly/Luke23:12\">Luke 23:12</a>).</p><p>Herod Antipas was later defeated in war by King Aretas, whose daughter he had divorced. Jews saw this defeat as divine judgment. Later, in AD 39, Emperor Gaius removed Antipas from power. He exiled Antipas after Herod Agrippa I accused him of plotting against Rome.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt14:1-Matt14:12\">Matthew 14:1–12</a>; <a href=\"https://ref.ly/Mark1:14\">Mark 1:14</a>; <a href=\"https://ref.ly/Mark6:14-Mark6:29\">6:14–29</a>; <a href=\"https://ref.ly/Luke3:1\">Luke 3:1</a>, <a href=\"https://ref.ly/Luke3:19-Luke3:20\">19–20</a>; <a href=\"https://ref.ly/Luke9:7-Luke9:9\">9:7–9</a>; <a href=\"https://ref.ly/Luke13:31-Luke13:33\">13:31–33</a>; <a href=\"https://ref.ly/Luke23:7-Luke23:12\">23:7–12</a>, <a href=\"https://ref.ly/Luke23:15\">15</a>; <a href=\"https://ref.ly/Acts4:27\">Acts 4:27</a></p>",
 "associations": {
 "passage": [
 {
@@ -342,16 +322,7 @@
 "end_ref_usfm": "LUK 23:11"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Herod.2",
-"type": "person",
-"confidence": 0.7725,
-"match_method": "scored",
-"preferred_label": "Herod Antipas"
-}
-]
+"resource": []
 }
 },
 {
@@ -385,8 +356,7 @@
 "end_ref_usfm": "MAT 2:20"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -462,16 +432,7 @@
 "end_ref_usfm": "2CH 32:33"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Hezekiah",
-"type": "person",
-"confidence": 0.7342,
-"match_method": "scored",
-"preferred_label": "Hezekiah"
-}
-]
+"resource": []
 }
 },
 {
@@ -571,23 +532,7 @@
 "end_ref_usfm": "GEN 23:20"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Heth",
-"type": "person",
-"confidence": 0.6685,
-"match_method": "scored",
-"preferred_label": "Heth"
-},
-{
-"id": "group:Hittite",
-"type": "group",
-"confidence": 0.6609,
-"match_method": "scored",
-"preferred_label": "Hittites"
-}
-]
+"resource": []
 }
 }
 ]

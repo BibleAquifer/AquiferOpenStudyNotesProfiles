@@ -372,16 +372,7 @@
 "end_ref_usfm": "HEB 11:28"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Moses",
-"type": "person",
-"confidence": 0.7112,
-"match_method": "scored",
-"preferred_label": "Moses"
-}
-]
+"resource": []
 }
 },
 {
@@ -529,8 +520,7 @@
 "end_ref_usfm": "2CH 20:24"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

@@ -330,16 +330,7 @@
 "end_ref_usfm": "ACT 13:43"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:David",
-"type": "person",
-"confidence": 0.685,
-"match_method": "scored",
-"preferred_label": "David"
-}
-]
+"resource": []
 }
 },
 {
@@ -373,8 +364,7 @@
 "end_ref_usfm": "MAT 2:20"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

@@ -150,16 +150,7 @@
 "end_ref_usfm": "JER 44:30"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Jeremiah.6",
-"type": "person",
-"confidence": 0.6719,
-"match_method": "scored",
-"preferred_label": "Jeremiah"
-}
-]
+"resource": []
 }
 },
 {
@@ -229,16 +220,7 @@
 "end_ref_usfm": "2KI 14:29"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Jeroboam.2",
-"type": "person",
-"confidence": 0.7385,
-"match_method": "scored",
-"preferred_label": "Jeroboam"
-}
-]
+"resource": []
 }
 },
 {
@@ -356,16 +338,7 @@
 "end_ref_usfm": "2CH 13:22"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Jeroboam",
-"type": "person",
-"confidence": 0.6226,
-"match_method": "scored",
-"preferred_label": "Jeroboam"
-}
-]
+"resource": []
 }
 },
 {
@@ -543,8 +516,7 @@
 "end_ref_usfm": "LUK 2:51"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -644,16 +616,7 @@
 "end_ref_usfm": "1KI 21:28"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Jezebel",
-"type": "person",
-"confidence": 0.6364,
-"match_method": "scored",
-"preferred_label": "Jezebel"
-}
-]
+"resource": []
 }
 },
 {
@@ -753,16 +716,7 @@
 "end_ref_usfm": "EXO 18:27"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Jethro",
-"type": "person",
-"confidence": 0.687,
-"match_method": "scored",
-"preferred_label": "Jethro"
-}
-]
+"resource": []
 }
 }
 ]

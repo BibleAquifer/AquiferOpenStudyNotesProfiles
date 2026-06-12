@@ -258,16 +258,7 @@
 "end_ref_usfm": "TIT 3:15"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Paul",
-"type": "person",
-"confidence": 0.626,
-"match_method": "scored",
-"preferred_label": "Paulo"
-}
-]
+"resource": []
 }
 },
 {
@@ -469,16 +460,7 @@
 "end_ref_usfm": "MAT 27:65"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Pilate",
-"type": "person",
-"confidence": 0.7709,
-"match_method": "scored",
-"preferred_label": "Pilato"
-}
-]
+"resource": []
 }
 },
 {
@@ -530,16 +512,7 @@
 "end_ref_usfm": "ACT 18:3"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Priscilla",
-"type": "person",
-"confidence": 0.589,
-"match_method": "scored",
-"preferred_label": "Priskila"
-}
-]
+"resource": []
 }
 }
 ]

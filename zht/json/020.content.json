@@ -66,16 +66,7 @@
 "end_ref_usfm": "RUT 4:13"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Ruth",
-"type": "person",
-"confidence": 0.6536,
-"match_method": "scored",
-"preferred_label": "Ruth"
-}
-]
+"resource": []
 }
 },
 {
@@ -151,16 +142,7 @@
 "end_ref_usfm": "ACT 1:5"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Luke",
-"type": "person",
-"confidence": 0.6857,
-"match_method": "scored",
-"preferred_label": "Luke"
-}
-]
+"resource": []
 }
 }
 ]

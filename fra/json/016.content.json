@@ -114,16 +114,7 @@
 "end_ref_usfm": "GEN 46:22"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Rachel",
-"type": "person",
-"confidence": 0.7673,
-"match_method": "scored",
-"preferred_label": "Rachel"
-}
-]
+"resource": []
 }
 },
 {
@@ -193,16 +184,7 @@
 "end_ref_usfm": "JOS 6:25"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Rahab",
-"type": "person",
-"confidence": 0.7067,
-"match_method": "scored",
-"preferred_label": "Rahab"
-}
-]
+"resource": []
 }
 },
 {
@@ -356,16 +338,7 @@
 "end_ref_usfm": "GEN 27:46"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Rebekah",
-"type": "person",
-"confidence": 0.687,
-"match_method": "scored",
-"preferred_label": "Rebecca"
-}
-]
+"resource": []
 }
 },
 {
@@ -459,16 +432,7 @@
 "end_ref_usfm": "2CH 12:16"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Rehoboam",
-"type": "person",
-"confidence": 0.7532,
-"match_method": "scored",
-"preferred_label": "Roboam"
-}
-]
+"resource": []
 }
 },
 {
@@ -574,16 +538,7 @@
 "end_ref_usfm": "ROM 1:7"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Rome",
-"type": "place",
-"confidence": 0.7164,
-"match_method": "scored",
-"preferred_label": "Rome"
-}
-]
+"resource": []
 }
 },
 {
@@ -641,8 +596,7 @@
 "end_ref_usfm": "DAN 11:39"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -712,16 +666,7 @@
 "end_ref_usfm": "RUT 4:13"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Ruth",
-"type": "person",
-"confidence": 0.6536,
-"match_method": "scored",
-"preferred_label": "Ruth"
-}
-]
+"resource": []
 }
 }
 ]

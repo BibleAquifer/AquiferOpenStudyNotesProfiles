@@ -54,8 +54,7 @@
 "end_ref_usfm": "DAN 11:39"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -149,30 +148,7 @@
 "end_ref_usfm": "EXO 15:21"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Pharaoh.6",
-"type": "person",
-"confidence": 0.6921,
-"match_method": "scored",
-"preferred_label": "Farao"
-},
-{
-"id": "person:Pharaoh.4",
-"type": "person",
-"confidence": 0.6246,
-"match_method": "scored",
-"preferred_label": "Farao"
-},
-{
-"id": "person:Pharaoh.5",
-"type": "person",
-"confidence": 0.6041,
-"match_method": "scored",
-"preferred_label": "Farao"
-}
-]
+"resource": []
 }
 },
 {
@@ -272,23 +248,7 @@
 "end_ref_usfm": "PHP 4:22"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Philippi",
-"type": "place",
-"confidence": 0.6339,
-"match_method": "scored",
-"preferred_label": "Filipi"
-},
-{
-"id": "group:Philippi",
-"type": "group",
-"confidence": 0.6068,
-"match_method": "scored",
-"preferred_label": "Philippians"
-}
-]
+"resource": []
 }
 },
 {
@@ -460,16 +420,7 @@
 "end_ref_usfm": "ACT 10:20"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Philip.4",
-"type": "person",
-"confidence": 0.6732,
-"match_method": "scored",
-"preferred_label": "Filipo"
-}
-]
+"resource": []
 }
 }
 ]

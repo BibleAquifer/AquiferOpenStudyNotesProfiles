@@ -78,16 +78,7 @@
 "end_ref_usfm": "JHN 20:25"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Thomas",
-"type": "person",
-"confidence": 0.8444,
-"match_method": "scored",
-"preferred_label": "Thomas"
-}
-]
+"resource": []
 }
 },
 {
@@ -313,16 +304,7 @@
 "end_ref_usfm": "2TI 2:3"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Timothy",
-"type": "person",
-"confidence": 0.7878,
-"match_method": "scored",
-"preferred_label": "Timothée"
-}
-]
+"resource": []
 }
 },
 {
@@ -464,16 +446,7 @@
 "end_ref_usfm": "2CO 7:14"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Titus",
-"type": "person",
-"confidence": 0.792,
-"match_method": "scored",
-"preferred_label": "Tite"
-}
-]
+"resource": []
 }
 },
 {
@@ -627,23 +600,7 @@
 "end_ref_usfm": "1KI 1:53"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Zadok.2",
-"type": "person",
-"confidence": 0.6813,
-"match_method": "scored",
-"preferred_label": "Tsadok"
-},
-{
-"id": "person:Zadok.4",
-"type": "person",
-"confidence": 0.6065,
-"match_method": "scored",
-"preferred_label": "Tsadok"
-}
-]
+"resource": []
 }
 }
 ]

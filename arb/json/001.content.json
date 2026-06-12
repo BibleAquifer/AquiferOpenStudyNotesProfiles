@@ -78,16 +78,7 @@
 "end_ref_usfm": "2CH 28:27"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Ahaz",
-"type": "person",
-"confidence": 0.7,
-"match_method": "scored",
-"preferred_label": "آحَاز"
-}
-]
+"resource": []
 }
 },
 {
@@ -385,8 +376,7 @@
 "end_ref_usfm": "HOS 6:7"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -456,16 +446,7 @@
 "end_ref_usfm": "2CH 16:14"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Asa",
-"type": "person",
-"confidence": 0.8092,
-"match_method": "scored",
-"preferred_label": "آسَا"
-}
-]
+"resource": []
 }
 },
 {
@@ -847,16 +828,7 @@
 "end_ref_usfm": "JAS 2:23"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Abraham",
-"type": "person",
-"confidence": 0.7433,
-"match_method": "scored",
-"preferred_label": "إِبْرَاهِيمَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -992,16 +964,7 @@
 "end_ref_usfm": "2SA 19:10"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Absalom",
-"type": "person",
-"confidence": 0.741,
-"match_method": "scored",
-"preferred_label": "أَبْشَالومَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -1155,16 +1118,7 @@
 "end_ref_usfm": "1CH 19:15"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Abishai",
-"type": "person",
-"confidence": 0.6989,
-"match_method": "scored",
-"preferred_label": "أَبِيشَايَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -1252,16 +1206,7 @@
 "end_ref_usfm": "1CO 4:7"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Apollos",
-"type": "person",
-"confidence": 0.7636,
-"match_method": "scored",
-"preferred_label": "أَبلّوس"
-}
-]
+"resource": []
 }
 },
 {
@@ -1421,8 +1366,7 @@
 "end_ref_usfm": "MAT 28:20"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1540,16 +1484,7 @@
 "end_ref_usfm": "2SA 3:39"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Abner",
-"type": "person",
-"confidence": 0.7252,
-"match_method": "scored",
-"preferred_label": "أَبْنَيْر"
-}
-]
+"resource": []
 }
 },
 {
@@ -1679,16 +1614,7 @@
 "end_ref_usfm": "1KI 2:35"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Abiathar",
-"type": "person",
-"confidence": 0.6622,
-"match_method": "scored",
-"preferred_label": "أَبِيَاثَار"
-}
-]
+"resource": []
 }
 },
 {
@@ -1722,16 +1648,7 @@
 "end_ref_usfm": "EST 1:22"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Ahasuerus",
-"type": "person",
-"confidence": 0.7178,
-"match_method": "scored",
-"preferred_label": "أَحَشْوِيروشَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -1831,16 +1748,7 @@
 "end_ref_usfm": "1KI 22:53"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Ahab",
-"type": "person",
-"confidence": 0.6757,
-"match_method": "scored",
-"preferred_label": "أَخْآبَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -1994,16 +1902,7 @@
 "end_ref_usfm": "JER 44:30"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Jeremiah.6",
-"type": "person",
-"confidence": 0.6719,
-"match_method": "scored",
-"preferred_label": "إِرْمِيَا"
-}
-]
+"resource": []
 }
 },
 {
@@ -2055,16 +1954,7 @@
 "end_ref_usfm": "EST 9:32"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Esther",
-"type": "person",
-"confidence": 0.695,
-"match_method": "scored",
-"preferred_label": "أَسْتِير"
-}
-]
+"resource": []
 }
 },
 {
@@ -2350,16 +2240,7 @@
 "end_ref_usfm": "HEB 11:20"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Isaac",
-"type": "person",
-"confidence": 0.7182,
-"match_method": "scored",
-"preferred_label": "إِسْحَاق"
-}
-]
+"resource": []
 }
 },
 {
@@ -2531,16 +2412,7 @@
 "end_ref_usfm": "GEN 25:18"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Ishmael",
-"type": "person",
-"confidence": 0.6691,
-"match_method": "scored",
-"preferred_label": "إِسْمَاعِيل"
-}
-]
+"resource": []
 }
 },
 {
@@ -2754,16 +2626,7 @@
 "end_ref_usfm": "ROM 10:21"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Isaiah",
-"type": "person",
-"confidence": 0.6154,
-"match_method": "scored",
-"preferred_label": "إِشَعْيَاء"
-}
-]
+"resource": []
 }
 },
 {
@@ -2827,16 +2690,7 @@
 "end_ref_usfm": "2KI 19:37"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Assyria",
-"type": "place",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Assyria"
-}
-]
+"resource": []
 }
 },
 {
@@ -2937,22 +2791,6 @@
 "resource_code": "TyndaleStudyNotesBookIntros",
 "label": "كولوسي",
 "language": "arb"
-}
-],
-"acai": [
-{
-"id": "place:Ephesus",
-"type": "place",
-"confidence": 0.6605,
-"match_method": "scored",
-"preferred_label": "أَفَسسَ"
-},
-{
-"id": "group:Ephesus",
-"type": "group",
-"confidence": 0.614,
-"match_method": "scored",
-"preferred_label": "Ephesians"
 }
 ]
 }
@@ -3180,23 +3018,7 @@
 "end_ref_usfm": "2KI 16:13"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "group:Aramean",
-"type": "group",
-"confidence": 0.6072,
-"match_method": "scored",
-"preferred_label": "Arameans"
-},
-{
-"id": "place:Paddan-aram",
-"type": "place",
-"confidence": 0.5828,
-"match_method": "scored",
-"preferred_label": "ٱلْأَرَامِيِّ"
-}
-]
+"resource": []
 }
 },
 {
@@ -3254,8 +3076,7 @@
 "end_ref_usfm": "REV 17:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3385,16 +3206,7 @@
 "end_ref_usfm": "NUM 20:26"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Eleazar.2",
-"type": "person",
-"confidence": 0.6884,
-"match_method": "scored",
-"preferred_label": "أَلِعَازَار"
-}
-]
+"resource": []
 }
 },
 {
@@ -3536,16 +3348,7 @@
 "end_ref_usfm": "2KI 13:21"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Elisha",
-"type": "person",
-"confidence": 0.6646,
-"match_method": "scored",
-"preferred_label": "أَلِيشَع"
-}
-]
+"resource": []
 }
 },
 {
@@ -3567,8 +3370,7 @@
 "end_ref_usfm": "DAN 11:35"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -3668,16 +3470,7 @@
 "end_ref_usfm": "1KI 21:28"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Jezebel",
-"type": "person",
-"confidence": 0.6364,
-"match_method": "scored",
-"preferred_label": "إِيزَابَلَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -3921,16 +3714,7 @@
 "end_ref_usfm": "ROM 11:6"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Elijah",
-"type": "person",
-"confidence": 0.6771,
-"match_method": "scored",
-"preferred_label": "إِيلِيَّا"
-}
-]
+"resource": []
 }
 },
 {
@@ -4084,16 +3868,7 @@
 "end_ref_usfm": "ACT 8:2"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Stephen",
-"type": "person",
-"confidence": 0.6315,
-"match_method": "scored",
-"preferred_label": "ٱسْتِفَانوسَ"
-}
-]
+"resource": []
 }
 }
 ]

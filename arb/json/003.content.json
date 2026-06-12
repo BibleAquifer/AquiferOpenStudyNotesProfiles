@@ -36,16 +36,7 @@
 "end_ref_usfm": "2KI 17:41"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "group:Samaritan",
-"type": "group",
-"confidence": 0.6176,
-"match_method": "scored",
-"preferred_label": "Samaritans"
-}
-]
+"resource": []
 }
 },
 {
@@ -229,16 +220,7 @@
 "end_ref_usfm": "ROM 9:9"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Sarah",
-"type": "person",
-"confidence": 0.7007,
-"match_method": "scored",
-"preferred_label": "سَارَة"
-}
-]
+"resource": []
 }
 },
 {
@@ -368,16 +350,7 @@
 "end_ref_usfm": "1KI 4:34"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Solomon",
-"type": "person",
-"confidence": 0.7211,
-"match_method": "scored",
-"preferred_label": "سلَيْمَانَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -1083,16 +1056,7 @@
 "end_ref_usfm": "GAL 2:16"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Peter",
-"type": "person",
-"confidence": 0.6823,
-"match_method": "scored",
-"preferred_label": "بطْرس"
-}
-]
+"resource": []
 }
 }
 ]

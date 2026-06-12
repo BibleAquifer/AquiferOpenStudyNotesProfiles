@@ -204,16 +204,7 @@
 "end_ref_usfm": "EZK 30:11"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Nebuchadnezzar",
-"type": "person",
-"confidence": 0.64,
-"match_method": "scored",
-"preferred_label": "Nebuchadnezzar"
-}
-]
+"resource": []
 }
 },
 {
@@ -313,30 +304,7 @@
 "end_ref_usfm": "NEH 13:31"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Nehemiah.2",
-"type": "person",
-"confidence": 0.6057,
-"match_method": "scored",
-"preferred_label": "Nehemiah"
-},
-{
-"id": "person:Nehemiah",
-"type": "person",
-"confidence": 0.6011,
-"match_method": "scored",
-"preferred_label": "Nehemiah"
-},
-{
-"id": "person:Nehemiah.3",
-"type": "person",
-"confidence": 0.6011,
-"match_method": "scored",
-"preferred_label": "Nehemiah"
-}
-]
+"resource": []
 }
 },
 {
@@ -406,15 +374,6 @@
 "label": "Revelation 17:8",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Nero",
-"type": "person",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Nero"
-}
 ]
 }
 },
@@ -427,7 +386,7 @@
 "index_reference": "nicodemus",
 "language": "eng",
 "review_level": "None",
-"content": "<p>Nicodemus was a respected Jewish Pharisee (<a href=\"https://ref.ly/John3:1\">John 3:1</a>) and a prominent member of the high council. He seems to have become a follower of Jesus. The Gospel of John is the only place where he is mentioned.</p><p>Nicodemus was curious about Jesus&apos; authority and miracles. So, Nicodemus visited Jesus secretly at night to learn more about him. Jesus told Nicodemus he must be born again to enter the kingdom of God (<a href=\"https://ref.ly/John3:1-John3:8\">John 3:1–8</a>). The Gospel does not reveal Nicodemus&apos;s response.</p><p>Later, in contrast to his colleagues on the Jewish high council, he argued strongly that Jesus deserved a fair trial (<a href=\"https://ref.ly/John7:50-John7:51\">John 7:50–51</a>). After Jesus died on the cross, he purchased seventy-five pounds of expensive perfumed ointment for the burial. He took it to the tomb and helped Joseph of Arimathea bury Jesus (<a href=\"https://ref.ly/John19:39-John19:42\">John 19:39–42</a>). Thus, Nicodemus seems to be a Pharisee who came to believe in Jesus and was willing to show his commitment publicly after Jesus&apos; death.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/John3:1-John3:9\">John 3:1–9</a>; <a href=\"https://ref.ly/John7:50\">7:50</a>; <a href=\"https://ref.ly/John19:39-John19:42\">19:39–42</a></p>",
+"content": "<p>Nicodemus was a respected Jewish Pharisee (<a href=\"https://ref.ly/John3:1\">John 3:1</a>) and a prominent member of the high council. He seems to have become a follower of Jesus. The Gospel of John is the only place where he is mentioned.</p><p>Nicodemus was curious about the authority of Jesus and the miracles he did. So, Nicodemus visited Jesus secretly at night to learn more about him. Jesus told Nicodemus he must be born again to enter the kingdom of God (<a href=\"https://ref.ly/John3:1-John3:8\">John 3:1–8</a>). The Gospel does not reveal Nicodemus&apos;s response.</p><p>Later, in contrast to others on the Jewish high council, he argued strongly that Jesus deserved a fair trial (<a href=\"https://ref.ly/John7:50-John7:51\">John 7:50–51</a>). After Jesus died on the cross, he purchased seventy-five pounds of expensive perfumed ointment for the burial. He took it to the tomb and helped Joseph of Arimathea bury Jesus (<a href=\"https://ref.ly/John19:39-John19:42\">John 19:39–42</a>). Thus, Nicodemus seems to be a Pharisee who came to believe in Jesus and was willing to show his commitment publicly after Jesus died.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/John3:1-John3:9\">John 3:1–9</a>; <a href=\"https://ref.ly/John7:50\">7:50</a>; <a href=\"https://ref.ly/John19:39-John19:42\">19:39–42</a></p>",
 "associations": {
 "passage": [
 {
@@ -467,16 +426,7 @@
 "end_ref_usfm": "JHN 3:9"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Nicodemus",
-"type": "person",
-"confidence": 0.7333,
-"match_method": "scored",
-"preferred_label": "Nicodemus"
-}
-]
+"resource": []
 }
 },
 {
@@ -612,16 +562,7 @@
 "end_ref_usfm": "1PE 3:21"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Noah",
-"type": "person",
-"confidence": 0.7235,
-"match_method": "scored",
-"preferred_label": "Noah"
-}
-]
+"resource": []
 }
 }
 ]

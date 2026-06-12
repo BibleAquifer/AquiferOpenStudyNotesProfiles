@@ -150,23 +150,7 @@
 "end_ref_usfm": "1KI 1:53"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Zadok.2",
-"type": "person",
-"confidence": 0.6813,
-"match_method": "scored",
-"preferred_label": "Zadok"
-},
-{
-"id": "person:Zadok.4",
-"type": "person",
-"confidence": 0.6065,
-"match_method": "scored",
-"preferred_label": "Zadok"
-}
-]
+"resource": []
 }
 },
 {
@@ -230,16 +214,7 @@
 "end_ref_usfm": "HAG 2:23"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Zerubbabel.2",
-"type": "person",
-"confidence": 0.6404,
-"match_method": "scored",
-"preferred_label": "Zerubbabel"
-}
-]
+"resource": []
 }
 }
 ]
