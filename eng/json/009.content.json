@@ -450,16 +450,7 @@
 "end_ref_usfm": "HEB 11:21"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Israel",
-"type": "person",
-"confidence": 0.7403,
-"match_method": "scored",
-"preferred_label": "Israel"
-}
-]
+"resource": []
 }
 },
 {
@@ -471,7 +462,7 @@
 "index_reference": "james brother of jesus",
 "language": "eng",
 "review_level": "None",
-"content": "<p>James was one of Jesus&apos; brothers (<a href=\"https://ref.ly/Matt13:55\">Matthew 13:55</a>; <a href=\"https://ref.ly/Mark6:3\">Mark 6:3</a>; <a href=\"https://ref.ly/Gal1:19\">Galatians 1:19</a>; compare <a href=\"https://ref.ly/Jude1:1\">Jude 1:1</a>). He became the leader of the church in Jerusalem soon after Jesus rose from the dead. According to tradition, this James is the author of the New Testament book of James.</p><p>Jesus&apos; brothers were initially doubtful of his claims (<a href=\"https://ref.ly/John7:2-John7:5\">John 7:2–5</a>). But they later became believers (<a href=\"https://ref.ly/Acts1:14\">Acts 1:14</a>). James&apos;s personal encounter with the risen Jesus might have convinced him (<a href=\"https://ref.ly/1Cor15:7\">1 Corinthians 15:7</a>). Two of Jesus&apos; brothers, James and Jude, had important roles in the early Christian community. James quickly became the leader of the church in Jerusalem. At the council in Jerusalem, James helped Jewish church leaders accept gentile (non-Jewish) believers without requiring circumcision. This decision was essential for Paul and the early mission to gentiles (<a href=\"https://ref.ly/Acts15:13-Acts15:21\">Acts 15:13–21</a>). Paul visited James in Jerusalem after his third missionary trip, just as he had done earlier after his conversion (<a href=\"https://ref.ly/Acts21:18\">Acts 21:18</a>; <a href=\"https://ref.ly/Gal1:19\">Galatians 1:19</a>).</p><p>Like most Jewish Christians, James followed the law of Moses. He stressed the importance of observing certain key laws when among Jews (<a href=\"https://ref.ly/Acts15:20-Acts15:21\">Acts 15:20–21</a>; <a href=\"https://ref.ly/Acts21:18-Acts21:25\">21:18–25</a>). James recognized Paul&apos;s mission and focus on salvation through faith alone (<a href=\"https://ref.ly/Gal2:6-Gal2:9\">Galatians 2:6–9</a>), but many Jewish Christians did not agree. These Jewish believers, whom Paul associated with James once (see <a href=\"https://ref.ly/Gal2:12\">Galatians 2:12</a>), insisted that gentiles who became Christians must be circumcised and follow the law of Moses to join the Christian community.</p><p>James&apos;s Jewish background is evident in his letter, which offers wise, practical advice for living. Much of it aligns with traditional Jewish Scripture wisdom. One paragraph of his letter (<a href=\"https://ref.ly/Jas5:1-Jas5:6\">James 5:1–6</a>) resembles the work of Old Testament prophets (for example, compare <a href=\"https://ref.ly/Amos5:21-Amos5:24\">Amos 5:21–24</a>; <a href=\"https://ref.ly/Amos6:1-Amos6:7\">6:1–7</a>).</p><p>James, known as &quot;the Just&quot; by people of his time, was killed for his faith by Jewish priests in Jerusalem (Josephus, <em>Antiquities</em> 20.9; Eusebius, <em>Church History</em> 2.23.4–18).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt13:55\">Matthew 13:55</a>; <a href=\"https://ref.ly/Mark6:3\">Mark 6:3</a>; <a href=\"https://ref.ly/Acts12:17\">Acts 12:17</a>; <a href=\"https://ref.ly/Acts15:13-Acts15:21\">Acts 15:13–21</a>; <a href=\"https://ref.ly/Acts21:18-Acts21:25\">Acts 21:18–25</a>; <a href=\"https://ref.ly/1Cor15:7\">1 Corinthians 15:7</a>; <a href=\"https://ref.ly/Gal2:9\">Galatians 2:9</a>, <a href=\"https://ref.ly/Gal2:12\">Galatians 2:12</a>; <a href=\"https://ref.ly/Jas1:1-Jas5:20\">James 1:1–5:20</a>; <a href=\"https://ref.ly/Jude1:1\">Jude 1:1</a></p>",
+"content": "<p>James was one of the brothers of Jesus (<a href=\"https://ref.ly/Matt13:55\">Matthew 13:55</a>; <a href=\"https://ref.ly/Mark6:3\">Mark 6:3</a>; <a href=\"https://ref.ly/Gal1:19\">Galatians 1:19</a>; compare <a href=\"https://ref.ly/Jude1:1\">Jude 1:1</a>). He became the leader of the church in Jerusalem soon after Jesus rose from the dead. According to tradition, this James is the author of the New Testament book of James.</p><p>The brothers of Jesus were initially doubtful of his claims (<a href=\"https://ref.ly/John7:2-John7:5\">John 7:2–5</a>). But they later became believers (<a href=\"https://ref.ly/Acts1:14\">Acts 1:14</a>). James&apos;s personal encounter with the risen Jesus might have convinced him (<a href=\"https://ref.ly/1Cor15:7\">1 Corinthians 15:7</a>). Two of the brothers of Jesus, James and Jude, had important roles in the early Christian community. </p><p>James quickly became the leader of the church in Jerusalem. At the council in Jerusalem, James helped Jewish church leaders accept Gentile (non-Jewish) believers without requiring circumcision. This decision was essential for Paul and the early mission to Gentiles (<a href=\"https://ref.ly/Acts15:13-Acts15:21\">Acts 15:13–21</a>). Paul visited James in Jerusalem after his third missionary trip, just as he had done earlier after his conversion (<a href=\"https://ref.ly/Acts21:18\">Acts 21:18</a>; <a href=\"https://ref.ly/Gal1:19\">Galatians 1:19</a>).</p><p>Like most Jewish Christians, James followed the law of Moses. He stressed the importance of observing certain key laws when among Jews (<a href=\"https://ref.ly/Acts15:20-Acts15:21\">Acts 15:20–21</a>; <a href=\"https://ref.ly/Acts21:18-Acts21:25\">21:18–25</a>). James recognized Paul&apos;s mission and focus on salvation through faith alone (<a href=\"https://ref.ly/Gal2:6-Gal2:9\">Galatians 2:6–9</a>), but many Jewish Christians did not agree. These Jewish believers, whom Paul associated with James once (see <a href=\"https://ref.ly/Gal2:12\">Galatians 2:12</a>), insisted that Gentiles who became Christians must be circumcised and follow the law of Moses to join the Christian community.</p><p>James&apos;s Jewish background is evident in his letter, which offers wise, practical advice for living. Much of it aligns with traditional Jewish Scripture wisdom. One paragraph of his letter (<a href=\"https://ref.ly/Jas5:1-Jas5:6\">James 5:1–6</a>) resembles the work of Old Testament prophets (for example, compare <a href=\"https://ref.ly/Amos5:21-Amos5:24\">Amos 5:21–24</a>; <a href=\"https://ref.ly/Amos6:1-Amos6:7\">6:1–7</a>).</p><p>James, known as &quot;the Just&quot; by people of his time, was killed for his faith by Jewish priests in Jerusalem (Josephus, <em>Antiquities</em> 20.9; Eusebius, <em>Church History</em> 2.23.4–18).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt13:55\">Matthew 13:55</a>; <a href=\"https://ref.ly/Mark6:3\">Mark 6:3</a>; <a href=\"https://ref.ly/Acts12:17\">Acts 12:17</a>; <a href=\"https://ref.ly/Acts15:13-Acts15:21\">Acts 15:13–21</a>; <a href=\"https://ref.ly/Acts21:18-Acts21:25\">Acts 21:18–25</a>; <a href=\"https://ref.ly/1Cor15:7\">1 Corinthians 15:7</a>; <a href=\"https://ref.ly/Gal2:9\">Galatians 2:9</a>, <a href=\"https://ref.ly/Gal2:12\">Galatians 2:12</a>; <a href=\"https://ref.ly/Jas1:1-Jas5:20\">James 1:1–5:20</a>; <a href=\"https://ref.ly/Jude1:1\">Jude 1:1</a></p>",
 "associations": {
 "passage": [
 {
@@ -589,8 +580,7 @@
 "end_ref_usfm": "JAS 5:20"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -602,7 +592,7 @@
 "index_reference": "james son of zebedee",
 "language": "eng",
 "review_level": "None",
-"content": "<p>James, son of Zebedee and brother of John, was one of the twelve apostles. He was among the first to die as a follower of Jesus. His mother might have been the sister of Mary, Jesus&apos; mother, making him Jesus&apos; cousin (see <a href=\"https://ref.ly/Matt27:56\">Matthew 27:56</a>; <a href=\"https://ref.ly/Mark15:40\">Mark 15:40</a>; <a href=\"https://ref.ly/Mark16:1\">16:1</a>; <a href=\"https://ref.ly/John19:25\">John 19:25</a>). His name usually appears before John&apos;s, which might mean James was older. This James was not James, son of Alphaeus (see <a href=\"https://ref.ly/Luke6:15\">Luke 6:15</a>) or James, brother of Jesus.</p><p>James and John were fishermen like their father (<a href=\"https://ref.ly/Matt4:21\">Matthew 4:21</a>; <a href=\"https://ref.ly/Mark1:19\">Mark 1:19</a>). They fished with Peter and Andrew, another pair of brothers who became disciples (<a href=\"https://ref.ly/Luke5:10\">Luke 5:10</a>). They were among the first people Jesus called to be his disciples. They left everything, including their father, to follow him (<a href=\"https://ref.ly/Matt4:22\">Matthew 4:22</a>; <a href=\"https://ref.ly/Mark1:20\">Mark 1:20</a>; <a href=\"https://ref.ly/Luke5:11\">Luke 5:11</a>). Jesus called them “Sons of Thunder” (<a href=\"https://ref.ly/Mark3:17\">Mark 3:17</a>). This might mean they had strong personalities (see <a href=\"https://ref.ly/Luke9:54\">Luke 9:54</a>), though the exact meaning is unclear.</p><p>James and his brother John were very close to Jesus. Along with Peter, they formed a trusted group of disciples who joined Jesus on special occasions. They were with him when he healed Jairus&apos;s daughter (<a href=\"https://ref.ly/Mark5:37\">Mark 5:37</a>; <a href=\"https://ref.ly/Luke8:51\">Luke 8:51</a>), talked with Elijah and Moses on a mountain (<a href=\"https://ref.ly/Matt17:1-Matt17:3\">Matthew 17:1–3</a>; <a href=\"https://ref.ly/Mark9:2-Mark9:4\">Mark 9:2–4</a>; <a href=\"https://ref.ly/Luke9:28-Luke9:30\">Luke 9:28–30</a>), and prayed in the garden (<a href=\"https://ref.ly/Matt26:37\">Matthew 26:37</a>; <a href=\"https://ref.ly/Mark14:33\">Mark 14:33</a>). At one time, the two brothers upset the other disciples by asking for special positions in the coming kingdom of God (<a href=\"https://ref.ly/Matt20:20-Matt20:28\">Matthew 20:20–28</a>; <a href=\"https://ref.ly/Mark10:35-Mark10:45\">Mark 10:35–45</a>; compare <a href=\"https://ref.ly/Luke22:24-Luke22:27\">Luke 22:24–27</a>).</p><p>Herod Agrippa had James killed soon after Jesus&apos; death, which pleased the Jewish leaders (<a href=\"https://ref.ly/Acts12:1-Acts12:3\">Acts 12:1–3</a>). Herod might have done this because James was an important leader among the disciples. This event fulfilled Jesus&apos; prediction that James would share in his suffering (<a href=\"https://ref.ly/Matt20:23\">Matt 20:23</a>; <a href=\"https://ref.ly/Mark10:38-Mark10:39\">Mark 10:38–39</a>).</p><p>James was an ordinary worker whom Jesus called to be his disciple. He left his job, family, and home to follow Jesus with simple trust. Eventually, he died for Jesus, making him a model of committed discipleship.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt4:21-Matt4:22\">Matthew 4:21–22</a>; <a href=\"https://ref.ly/Matt10:2\">10:2</a>; <a href=\"https://ref.ly/Matt17:1\">17:1</a>; <a href=\"https://ref.ly/Matt20:20-Matt20:24\">20:20–24</a>; <a href=\"https://ref.ly/Matt26:37-Matt26:46\">26:37–46</a>; <a href=\"https://ref.ly/Mark1:19-Mark1:20\">Mark 1:19–20</a>, <a href=\"https://ref.ly/Mark1:29\">29</a>; <a href=\"https://ref.ly/Mark3:17\">3:17</a>; <a href=\"https://ref.ly/Mark5:37\">5:37</a>; <a href=\"https://ref.ly/Mark9:2\">9:2</a>; <a href=\"https://ref.ly/Mark10:35-Mark10:41\">10:35–41</a>; <a href=\"https://ref.ly/Mark13:3-Mark13:4\">13:3–4</a>; <a href=\"https://ref.ly/Mark14:33-Mark14:42\">14:33–42</a>; <a href=\"https://ref.ly/Luke5:10\">Luke 5:10</a>; <a href=\"https://ref.ly/Luke6:14\">6:14</a>; <a href=\"https://ref.ly/Luke8:51\">8:51</a>; <a href=\"https://ref.ly/Luke9:28\">9:28</a>, <a href=\"https://ref.ly/Luke9:54-Luke9:55\">54–55</a>; <a href=\"https://ref.ly/John21:2\">John 21:2</a>; <a href=\"https://ref.ly/Acts1:13\">Acts 1:13</a>; <a href=\"https://ref.ly/Acts12:2\">12:2</a></p>",
+"content": "<p>James, son of Zebedee and brother of John, was one of the twelve apostles. He was among the first to die as a follower of Jesus. His mother might have been the sister of Mary, the mother of Jesus. This would mean he was the cousin of Jesus (see <a href=\"https://ref.ly/Matt27:56\">Matthew 27:56</a>; <a href=\"https://ref.ly/Mark15:40\">Mark 15:40</a>; <a href=\"https://ref.ly/Mark16:1\">16:1</a>; <a href=\"https://ref.ly/John19:25\">John 19:25</a>). His name usually appears before John&apos;s, which might mean James was older. This James was not James, son of Alphaeus (see <a href=\"https://ref.ly/Luke6:15\">Luke 6:15</a>) or James, brother of Jesus.</p><p>James and John were fishermen like their father (<a href=\"https://ref.ly/Matt4:21\">Matthew 4:21</a>; <a href=\"https://ref.ly/Mark1:19\">Mark 1:19</a>). They fished with Peter and Andrew, another pair of brothers who became disciples (<a href=\"https://ref.ly/Luke5:10\">Luke 5:10</a>). They were among the first people Jesus called to be his disciples. They left everything, including their father, to follow him (<a href=\"https://ref.ly/Matt4:22\">Matthew 4:22</a>; <a href=\"https://ref.ly/Mark1:20\">Mark 1:20</a>; <a href=\"https://ref.ly/Luke5:11\">Luke 5:11</a>). Jesus called them “Sons of Thunder” (<a href=\"https://ref.ly/Mark3:17\">Mark 3:17</a>). This might mean they had strong personalities (see <a href=\"https://ref.ly/Luke9:54\">Luke 9:54</a>), though the exact meaning is unclear.</p><p>James and his brother John were very close to Jesus. Along with Peter, they formed a trusted group of disciples who joined Jesus on special occasions. They were with him when he healed Jairus&apos;s daughter (<a href=\"https://ref.ly/Mark5:37\">Mark 5:37</a>; <a href=\"https://ref.ly/Luke8:51\">Luke 8:51</a>), talked with Elijah and Moses on a mountain (<a href=\"https://ref.ly/Matt17:1-Matt17:3\">Matthew 17:1–3</a>; <a href=\"https://ref.ly/Mark9:2-Mark9:4\">Mark 9:2–4</a>; <a href=\"https://ref.ly/Luke9:28-Luke9:30\">Luke 9:28–30</a>), and prayed in the garden (<a href=\"https://ref.ly/Matt26:37\">Matthew 26:37</a>; <a href=\"https://ref.ly/Mark14:33\">Mark 14:33</a>). At one time, the two brothers upset the other disciples by asking for special positions in the coming kingdom of God (<a href=\"https://ref.ly/Matt20:20-Matt20:28\">Matthew 20:20–28</a>; <a href=\"https://ref.ly/Mark10:35-Mark10:45\">Mark 10:35–45</a>; compare <a href=\"https://ref.ly/Luke22:24-Luke22:27\">Luke 22:24–27</a>).</p><p>Herod Agrippa had James killed soon after the death of Jesus, which pleased the Jewish leaders (<a href=\"https://ref.ly/Acts12:1-Acts12:3\">Acts 12:1–3</a>). Herod might have done this because James was an important leader among the disciples. This event fulfilled the prediction Jesus spoke that James would share in his suffering (<a href=\"https://ref.ly/Matt20:23\">Matt 20:23</a>; <a href=\"https://ref.ly/Mark10:38-Mark10:39\">Mark 10:38–39</a>).</p><p>James was an ordinary worker whom Jesus called to be his disciple. He left his job, family, and home to follow Jesus with simple trust. Eventually, he died for Jesus, making him a model of committed discipleship.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt4:21-Matt4:22\">Matthew 4:21–22</a>; <a href=\"https://ref.ly/Matt10:2\">10:2</a>; <a href=\"https://ref.ly/Matt17:1\">17:1</a>; <a href=\"https://ref.ly/Matt20:20-Matt20:24\">20:20–24</a>; <a href=\"https://ref.ly/Matt26:37-Matt26:46\">26:37–46</a>; <a href=\"https://ref.ly/Mark1:19-Mark1:20\">Mark 1:19–20</a>, <a href=\"https://ref.ly/Mark1:29\">29</a>; <a href=\"https://ref.ly/Mark3:17\">3:17</a>; <a href=\"https://ref.ly/Mark5:37\">5:37</a>; <a href=\"https://ref.ly/Mark9:2\">9:2</a>; <a href=\"https://ref.ly/Mark10:35-Mark10:41\">10:35–41</a>; <a href=\"https://ref.ly/Mark13:3-Mark13:4\">13:3–4</a>; <a href=\"https://ref.ly/Mark14:33-Mark14:42\">14:33–42</a>; <a href=\"https://ref.ly/Luke5:10\">Luke 5:10</a>; <a href=\"https://ref.ly/Luke6:14\">6:14</a>; <a href=\"https://ref.ly/Luke8:51\">8:51</a>; <a href=\"https://ref.ly/Luke9:28\">9:28</a>, <a href=\"https://ref.ly/Luke9:54-Luke9:55\">54–55</a>; <a href=\"https://ref.ly/John21:2\">John 21:2</a>; <a href=\"https://ref.ly/Acts1:13\">Acts 1:13</a>; <a href=\"https://ref.ly/Acts12:2\">12:2</a></p>",
 "associations": {
 "passage": [
 {
@@ -864,8 +854,7 @@
 "end_ref_usfm": "LUK 9:55"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -989,16 +978,7 @@
 "end_ref_usfm": "2CH 21:1"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Jehoshaphat.3",
-"type": "person",
-"confidence": 0.7283,
-"match_method": "scored",
-"preferred_label": "Jehoshaphat"
-}
-]
+"resource": []
 }
 },
 {
@@ -1152,16 +1132,7 @@
 "end_ref_usfm": "JER 44:30"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Jeremiah.6",
-"type": "person",
-"confidence": 0.6719,
-"match_method": "scored",
-"preferred_label": "Jeremiah"
-}
-]
+"resource": []
 }
 },
 {
@@ -1279,16 +1250,7 @@
 "end_ref_usfm": "2CH 13:22"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Jeroboam",
-"type": "person",
-"confidence": 0.6226,
-"match_method": "scored",
-"preferred_label": "Jeroboam"
-}
-]
+"resource": []
 }
 },
 {
@@ -1358,16 +1320,7 @@
 "end_ref_usfm": "2KI 14:29"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Jeroboam.2",
-"type": "person",
-"confidence": 0.7385,
-"match_method": "scored",
-"preferred_label": "Jeroboam"
-}
-]
+"resource": []
 }
 },
 {
@@ -1379,7 +1332,7 @@
 "index_reference": "jethro reuel",
 "language": "eng",
 "review_level": "None",
-"content": "<p>Jethro, also known as Reuel (<a href=\"https://ref.ly/Exod2:16-Exod2:18\">Exodus 2:16–18</a>; <a href=\"https://ref.ly/Num10:29\">Numbers 10:29</a>), was the priest of Midian (<a href=\"https://ref.ly/Exod2:16\">Exodus 2:16</a>). Moses saved Jethro’s seven daughters from rough shepherds at a well and helped them water their flocks. At home, they told their father about this surprising encounter with an Egyptian. Jethro was grateful and invited Moses for a meal. Moses decided to settle there. Later, Jethro gave his daughter Zipporah to Moses in marriage.</p><p>While Moses lived in Midian with his father-in-law, he met God at the burning bush (<a href=\"https://ref.ly/Exod3:1-Exod3:2\">Exodus 3:1–2</a>). Before going to Egypt, Moses asked Jethro for permission to leave. Later, he sent his family to stay with Jethro during the exodus from Egypt.</p><p>While Moses and the Israelites were in the wilderness, Jethro returned with Moses&apos; family. Jethro heard about Yahweh saving his people from Egypt and recognized him as <span>greater than all other gods</span>. He worshiped Yahweh with a burnt offering and sacrifices, aligning himself with Israel (<a href=\"https://ref.ly/Exod18:11\">Exodus 18:11</a>). In response, Israel&apos;s leaders joined him for a sacrificial meal in God&apos;s presence (<a href=\"https://ref.ly/Exod18:12\">Exodus 18:12</a>).</p><p>Jethro noticed Moses was overwhelmed with managing the many Israelites. He advised Moses on organizing the people better and resolving their disputes (<a href=\"https://ref.ly/Exod18:13-Exod18:23\">Exodus 18:13–23</a>). Moses followed this advice and chose capable men to help as leaders and judges (<a href=\"https://ref.ly/Exod18:24-Exod18:27\">Exodus 18:24–27</a>). Jethro returned to Midian and did not interact further with Israel, but his son (<a href=\"https://ref.ly/Num10:29-Num10:33\">Numbers 10:29–33</a>) and other descendants later settled with the Israelites (<a href=\"https://ref.ly/Judg1:16\">Judges 1:16</a>; <a href=\"https://ref.ly/Judg4:11\">4:11</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Exod2:16-Exod2:25\">Exodus 2:16–25</a>; <a href=\"https://ref.ly/Exod3:1\">3:1</a>; <a href=\"https://ref.ly/Exod18:1-Exod18:27\">18:1–27</a>; <a href=\"https://ref.ly/Num10:29\">Numbers 10:29</a>; <a href=\"https://ref.ly/Judg1:16\">Judges 1:16</a>; <a href=\"https://ref.ly/Judg4:11\">4:11</a></p>",
+"content": "<p>Jethro, also known as Reuel (<a href=\"https://ref.ly/Exod2:16-Exod2:18\">Exodus 2:16–18</a>; <a href=\"https://ref.ly/Num10:29\">Numbers 10:29</a>), was the priest of Midian (<a href=\"https://ref.ly/Exod2:16\">Exodus 2:16</a>). Moses saved Jethro’s seven daughters from rough shepherds at a well and helped them water their flocks. At home, they told their father about this surprising encounter with an Egyptian. Jethro was grateful and invited Moses for a meal. Moses decided to settle there. Later, Jethro gave his daughter Zipporah to Moses in marriage.</p><p>While Moses lived in Midian with his father-in-law, he met God at the burning bush (<a href=\"https://ref.ly/Exod3:1-Exod3:2\">Exodus 3:1–2</a>). Before going to Egypt, Moses asked Jethro for permission to leave. Later, he sent his family to stay with Jethro during the exodus from Egypt.</p><p>While Moses and the Israelites were in the wilderness, Jethro returned with the family of Moses. Jethro heard about Yahweh saving his people from Egypt and recognized him as <span>greater than all other gods</span>. He worshiped Yahweh with a burnt offering and sacrifices, aligning himself with Israel (<a href=\"https://ref.ly/Exod18:11\">Exodus 18:11</a>). In response, Israel&apos;s leaders joined him for a sacrificial meal in God&apos;s presence (<a href=\"https://ref.ly/Exod18:12\">Exodus 18:12</a>).</p><p>Jethro noticed Moses was overwhelmed with managing the many Israelites. He advised Moses on organizing the people better and resolving their disputes (<a href=\"https://ref.ly/Exod18:13-Exod18:23\">Exodus 18:13–23</a>). Moses followed this advice and chose capable men to help as leaders and judges (<a href=\"https://ref.ly/Exod18:24-Exod18:27\">Exodus 18:24–27</a>). Jethro returned to Midian and did not interact further with Israel, but his son (<a href=\"https://ref.ly/Num10:29-Num10:33\">Numbers 10:29–33</a>) and other descendants later settled with the Israelites (<a href=\"https://ref.ly/Judg1:16\">Judges 1:16</a>; <a href=\"https://ref.ly/Judg4:11\">4:11</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Exod2:16-Exod2:25\">Exodus 2:16–25</a>; <a href=\"https://ref.ly/Exod3:1\">3:1</a>; <a href=\"https://ref.ly/Exod18:1-Exod18:27\">18:1–27</a>; <a href=\"https://ref.ly/Num10:29\">Numbers 10:29</a>; <a href=\"https://ref.ly/Judg1:16\">Judges 1:16</a>; <a href=\"https://ref.ly/Judg4:11\">4:11</a></p>",
 "associations": {
 "passage": [
 {
@@ -1467,16 +1420,7 @@
 "end_ref_usfm": "EXO 18:27"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Jethro",
-"type": "person",
-"confidence": 0.687,
-"match_method": "scored",
-"preferred_label": "Jethro"
-}
-]
+"resource": []
 }
 },
 {
@@ -1588,8 +1532,7 @@
 "end_ref_usfm": "ACT 8:1"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1601,7 +1544,7 @@
 "index_reference": "jewish leaders",
 "language": "eng",
 "review_level": "None",
-"content": "<p>Jesus often disagreed with Jewish leaders during his public ministry. These leaders believed they were protecting the temple, its sacrifices, the synagogue, and its teachings. In Jesus&apos; last week in Jerusalem, these arguments became more intense and helped build the case against him (see <a href=\"https://ref.ly/Matt23:1-Matt23:39\">Matthew 23</a>).</p><p>When John wrote his Gospel, local Jewish synagogues were attacking followers of Jesus in their areas. This conflict influenced John&apos;s writing (see <a href=\"https://ref.ly/Acts14:19\">Acts 14:19</a>; <a href=\"https://ref.ly/1Thess2:14\">1 Thessalonians 2:14</a>; compare <a href=\"https://ref.ly/Gal1:13-Gal1:14\">Galatians 1:13–14</a>). </p><p>The Greek term for “Jewish leaders” could also mean “Jews.” However, it specifically referred to the temple leaders who opposed Jesus, judged him, and planned his death on the cross (see <a href=\"https://ref.ly/John1:19\">John 1:19</a>; <a href=\"https://ref.ly/John2:18\">2:18</a>; <a href=\"https://ref.ly/John5:9-John5:18\">5:9–18</a>; <a href=\"https://ref.ly/John9:18-John9:22\">9:18–22</a>). This distinction is important because some view the New Testament, especially John’s Gospel, as prejudiced against Jewish people. However, Jesus, who was Jewish, did not oppose all Jews. His opponents were the “Jewish leaders,” the religious authorities in first-century Jerusalem.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/John1:19-John1:24\">John 1:19–24</a>; <a href=\"https://ref.ly/John2:18-John2:20\">2:18–20</a>; <a href=\"https://ref.ly/John5:9-John5:18\">5:9–18</a>; <a href=\"https://ref.ly/John7:1\">7:1</a>, <a href=\"https://ref.ly/John7:10-John7:13\">10–13</a>, <a href=\"https://ref.ly/John7:35-John7:36\">35–36</a>; <a href=\"https://ref.ly/John9:13-John9:34\">9:13–34</a>; <a href=\"https://ref.ly/John11:45-John11:54\">11:45–54</a>; <a href=\"https://ref.ly/John12:41-John12:43\">12:41–43</a>; <a href=\"https://ref.ly/John18:28-John18:36\">18:28–36</a>; <a href=\"https://ref.ly/John19:6-John19:8\">19:6–8</a>, <a href=\"https://ref.ly/John19:12-John19:16\">12–16</a>, <a href=\"https://ref.ly/John19:31\">31</a>, <a href=\"https://ref.ly/John19:38\">38</a>; <a href=\"https://ref.ly/John20:19\">20:19</a>; <a href=\"https://ref.ly/Acts6:10-Acts6:12\">Acts 6:10–12</a>; <a href=\"https://ref.ly/Acts7:54-Acts7:58\">7:54–58</a>; <a href=\"https://ref.ly/Acts12:11\">12:11</a>; <a href=\"https://ref.ly/Acts21:11\">21:11</a>; <a href=\"https://ref.ly/Acts25:1-Acts25:3\">25:1–3</a>, <a href=\"https://ref.ly/Acts25:7\">7</a>; <a href=\"https://ref.ly/Acts26:1-Acts26:11\">26:1–11</a>; <a href=\"https://ref.ly/Acts28:17-Acts28:24\">28:17–24</a>; <a href=\"https://ref.ly/2Cor11:24\">2 Corinthians 11:24</a></p>",
+"content": "<p>Jesus often disagreed with Jewish leaders during his public ministry. These leaders believed they were protecting the temple, its sacrifices, the synagogue, and its teachings. During the last week Jesus spent in Jerusalem, these arguments became more intense and helped build the case against him (see <a href=\"https://ref.ly/Matt23:1-Matt23:39\">Matthew 23</a>).</p><p>When John wrote his Gospel, local Jewish synagogues were attacking followers of Jesus in their areas. This conflict influenced John&apos;s writing (see <a href=\"https://ref.ly/Acts14:19\">Acts 14:19</a>; <a href=\"https://ref.ly/1Thess2:14\">1 Thessalonians 2:14</a>; compare <a href=\"https://ref.ly/Gal1:13-Gal1:14\">Galatians 1:13–14</a>). </p><p>The Greek term for “Jewish leaders” could also mean “Jews.” However, it specifically referred to the temple leaders who opposed Jesus, judged him, and planned his death on the cross (see <a href=\"https://ref.ly/John1:19\">John 1:19</a>; <a href=\"https://ref.ly/John2:18\">2:18</a>; <a href=\"https://ref.ly/John5:9-John5:18\">5:9–18</a>; <a href=\"https://ref.ly/John9:18-John9:22\">9:18–22</a>). This distinction is important because some view the New Testament, especially John’s Gospel, as prejudiced against Jewish people. However, Jesus, who was Jewish, did not oppose all Jews. His opponents were the “Jewish leaders,” the religious authorities in first-century Jerusalem.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/John1:19-John1:24\">John 1:19–24</a>; <a href=\"https://ref.ly/John2:18-John2:20\">2:18–20</a>; <a href=\"https://ref.ly/John5:9-John5:18\">5:9–18</a>; <a href=\"https://ref.ly/John7:1\">7:1</a>, <a href=\"https://ref.ly/John7:10-John7:13\">10–13</a>, <a href=\"https://ref.ly/John7:35-John7:36\">35–36</a>; <a href=\"https://ref.ly/John9:13-John9:34\">9:13–34</a>; <a href=\"https://ref.ly/John11:45-John11:54\">11:45–54</a>; <a href=\"https://ref.ly/John12:41-John12:43\">12:41–43</a>; <a href=\"https://ref.ly/John18:28-John18:36\">18:28–36</a>; <a href=\"https://ref.ly/John19:6-John19:8\">19:6–8</a>, <a href=\"https://ref.ly/John19:12-John19:16\">12–16</a>, <a href=\"https://ref.ly/John19:31\">31</a>, <a href=\"https://ref.ly/John19:38\">38</a>; <a href=\"https://ref.ly/John20:19\">20:19</a>; <a href=\"https://ref.ly/Acts6:10-Acts6:12\">Acts 6:10–12</a>; <a href=\"https://ref.ly/Acts7:54-Acts7:58\">7:54–58</a>; <a href=\"https://ref.ly/Acts12:11\">12:11</a>; <a href=\"https://ref.ly/Acts21:11\">21:11</a>; <a href=\"https://ref.ly/Acts25:1-Acts25:3\">25:1–3</a>, <a href=\"https://ref.ly/Acts25:7\">7</a>; <a href=\"https://ref.ly/Acts26:1-Acts26:11\">26:1–11</a>; <a href=\"https://ref.ly/Acts28:17-Acts28:24\">28:17–24</a>; <a href=\"https://ref.ly/2Cor11:24\">2 Corinthians 11:24</a></p>",
 "associations": {
 "passage": [
 {
@@ -1791,16 +1734,7 @@
 "end_ref_usfm": "ACT 26:11"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.6076,
-"match_method": "scored",
-"preferred_label": "Judea"
-}
-]
+"resource": []
 }
 },
 {
@@ -1900,16 +1834,7 @@
 "end_ref_usfm": "1KI 21:28"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Jezebel",
-"type": "person",
-"confidence": 0.6364,
-"match_method": "scored",
-"preferred_label": "Jezebel"
-}
-]
+"resource": []
 }
 },
 {
@@ -2213,16 +2138,7 @@
 "end_ref_usfm": "1CH 21:6"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Joab",
-"type": "person",
-"confidence": 0.7659,
-"match_method": "scored",
-"preferred_label": "Joab"
-}
-]
+"resource": []
 }
 },
 {
@@ -2234,7 +2150,7 @@
 "index_reference": "john mark",
 "language": "eng",
 "review_level": "None",
-"content": "<p>John Mark, who wrote the first Gospel (the Gospel of Mark), helped three early missionaries: </p><ul><li><p>Barnabas</p></li><li><p>Paul</p></li><li><p>Peter</p></li></ul><p>Barnabas and Paul took Mark as an assistant on their first missionary journey. However, Mark left them and returned to Jerusalem before the trip ended (<a href=\"https://ref.ly/Acts12:25\">Acts 12:25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13:4–5</a>, <a href=\"https://ref.ly/Acts13:13\">13</a>). Because of this, when Barnabas wanted to bring Mark on the second trip, Paul refused. This disagreement split the team: Barnabas took Mark, his cousin, while Paul chose Silas. The two pairs then went their separate ways (<a href=\"https://ref.ly/Acts15:36-Acts15:41\">Acts 15:36–41</a>).</p><p>Later, Paul and Mark reconciled, and Mark became his assistant again. In Colossians, Paul calls Mark a coworker and suggests he might soon send him to visit the church in Colossae (<a href=\"https://ref.ly/Col4:10\">Colossians 4:10</a>; see also <a href=\"https://ref.ly/Phlm1:24\">Philemon 1:24</a>). Even later, when Paul awaited execution in a Roman prison, he asked Timothy to bring Mark because he believed Mark would be helpful in his ministry (<a href=\"https://ref.ly/2Tim4:11\">2 Timothy 4:11</a>).</p><p>Mark likely helped Peter with his missionary work in Italy near the end of Peter&apos;s life. In one of Peter&apos;s letters, he affectionately calls Mark his &quot;son&quot; who is with him (<a href=\"https://ref.ly/1Pet5:13\">1 Peter 5:13</a>). Early Christian tradition describes Mark as Peter&apos;s &quot;interpreter&quot; and suggests that Mark got his information about Jesus&apos; life and words directly from Peter (Eusebius, <em>Church History</em> 3.39.16). </p><p>Mark&apos;s Gospel is generally considered the earliest of all the Gospels. It was almost certainly a primary source for Matthew and Luke when they wrote their own Gospels. For this reason, Mark&apos;s Gospel is one of the most influential early Christian writings.</p><p>Mark&apos;s story shows that God can fix human mistakes and mend difficult relationships for Christ and the good news. Early failures do not stop someone from having a meaningful and impactful life of service.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts12:12\">Acts 12:12</a>, <a href=\"https://ref.ly/Acts12:25\">25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13:4–5</a>, <a href=\"https://ref.ly/Acts13:13\">13</a>; <a href=\"https://ref.ly/Acts15:36-Acts15:39\">15:36–39</a>; <a href=\"https://ref.ly/Col4:10\">Colossians 4:10</a>; <a href=\"https://ref.ly/2Tim4:11\">2 Timothy 4:11</a>; <a href=\"https://ref.ly/Phlm1:23-Phlm1:24\">Philemon 1:23–24</a>; <a href=\"https://ref.ly/1Pet5:13\">1 Peter 5:13</a></p>",
+"content": "<p>John Mark, who wrote the first Gospel (the Gospel of Mark), helped three early missionaries: </p><ul><li><p>Barnabas</p></li><li><p>Paul</p></li><li><p>Peter</p></li></ul><p>Barnabas and Paul took Mark as an assistant on their first missionary journey. However, Mark left them and returned to Jerusalem before the trip ended (<a href=\"https://ref.ly/Acts12:25\">Acts 12:25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13:4–5</a>, <a href=\"https://ref.ly/Acts13:13\">13</a>). Because of this, when Barnabas wanted to bring Mark on the second trip, Paul refused. This disagreement split the team: Barnabas took Mark, his cousin, while Paul chose Silas. The two pairs then went their separate ways (<a href=\"https://ref.ly/Acts15:36-Acts15:41\">Acts 15:36–41</a>).</p><p>Later, Paul and Mark reconciled, and Mark became his assistant again. In Colossians, Paul calls Mark a coworker and suggests he might soon send him to visit the church in Colossae (<a href=\"https://ref.ly/Col4:10\">Colossians 4:10</a>; see also <a href=\"https://ref.ly/Phlm1:24\">Philemon 1:24</a>). Even later, when Paul awaited execution in a Roman prison, he asked Timothy to bring Mark because he believed Mark would be helpful in his ministry (<a href=\"https://ref.ly/2Tim4:11\">2 Timothy 4:11</a>).</p><p>Mark likely helped Peter with his missionary work in Italy near the end of Peter&apos;s life. In one of Peter&apos;s letters, he affectionately calls Mark his &quot;son&quot; who is with him (<a href=\"https://ref.ly/1Pet5:13\">1 Peter 5:13</a>). Early Christian tradition describes Mark as Peter&apos;s &quot;interpreter&quot; and suggests that Mark got his information about the life and words of Jesus directly from Peter (Eusebius, <em>Church History</em> 3.39.16). </p><p>Mark&apos;s Gospel is generally considered the earliest of all the Gospels. It was almost certainly a primary source for Matthew and Luke when they wrote their own Gospels. For this reason, Mark&apos;s Gospel is one of the most influential early Christian writings.</p><p>Mark&apos;s story shows that God can fix human mistakes and mend difficult relationships for Christ and the good news. Early failures do not stop someone from having a meaningful and impactful life of service.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Acts12:12\">Acts 12:12</a>, <a href=\"https://ref.ly/Acts12:25\">25</a>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">13:4–5</a>, <a href=\"https://ref.ly/Acts13:13\">13</a>; <a href=\"https://ref.ly/Acts15:36-Acts15:39\">15:36–39</a>; <a href=\"https://ref.ly/Col4:10\">Colossians 4:10</a>; <a href=\"https://ref.ly/2Tim4:11\">2 Timothy 4:11</a>; <a href=\"https://ref.ly/Phlm1:23-Phlm1:24\">Philemon 1:23–24</a>; <a href=\"https://ref.ly/1Pet5:13\">1 Peter 5:13</a></p>",
 "associations": {
 "passage": [
 {
@@ -2304,16 +2220,7 @@
 "end_ref_usfm": "ACT 15:39"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Mark",
-"type": "person",
-"confidence": 0.85,
-"match_method": "scored",
-"preferred_label": "Mark"
-}
-]
+"resource": []
 }
 },
 {
@@ -2325,7 +2232,7 @@
 "index_reference": "john son of zebedee",
 "language": "eng",
 "review_level": "None",
-"content": "<p>John was one of Jesus&apos; twelve closest followers ( called apostles). He was the brother of James and the son of Zebedee. Jesus chose these twelve men as his special representatives and gave them authority to teach others about him. Their work helped start the early church. Early tradition says John, Son of Zebedee, wrote the Gospel of John, the Letters of John, and the Book of Revelation.</p><p>John and his brother James were among Jesus&apos; closest followers (<a href=\"https://ref.ly/Mark5:37\">Mark 5:37</a>; <a href=\"https://ref.ly/Mark9:2\">9:2</a>; <a href=\"https://ref.ly/Mark13:3\">13:3</a>; <a href=\"https://ref.ly/Mark14:33\">14:33</a>). Their mother, Salome, might have been Mary&apos;s sister, who was Jesus&apos; mother (compare <a href=\"https://ref.ly/Matt27:56\">Matthew 27:56</a>; <a href=\"https://ref.ly/Mark15:40\">Mark 15:40</a>; <a href=\"https://ref.ly/Mark16:1\">16:1</a>; <a href=\"https://ref.ly/John19:25\">John 19:25</a>). John&apos;s name usually appears after James&apos;s, suggesting John was younger. James and John were fishermen like their father (<a href=\"https://ref.ly/Matt4:21\">Matthew 4:21</a>; <a href=\"https://ref.ly/Mark1:19\">Mark 1:19</a>). They fished with Peter and Andrew, another pair of brothers who became disciples (<a href=\"https://ref.ly/Luke5:8-Luke5:10\">Luke 5:8–10</a>). </p><p>They were among the first disciples Jesus called, and they left everything to follow him (<a href=\"https://ref.ly/Matt4:22\">Matthew 4:22</a>; <a href=\"https://ref.ly/Mark1:20\">Mark 1:20</a>; <a href=\"https://ref.ly/Luke5:11\">Luke 5:11</a>; compare <a href=\"https://ref.ly/John1:35-John1:40\">John 1:35–40</a>). Jesus named them “Sons of Thunder” (<a href=\"https://ref.ly/Mark3:17\">Mark 3:17</a>). This name might mean they were loud or quick-tempered (see <a href=\"https://ref.ly/Luke9:54\">Luke 9:54</a>). At one point, the brothers upset the other disciples by asking for special positions in the future kingdom (<a href=\"https://ref.ly/Matt20:20-Matt20:28\">Matthew 20:20–28</a>; <a href=\"https://ref.ly/Mark10:35-Mark10:45\">Mark 10:35–45</a>; compare <a href=\"https://ref.ly/Luke22:24-Luke22:27\">Luke 22:24–27</a>).</p><p>People believe John is the unnamed &quot;disciple Jesus loved&quot; and &quot;another disciple&quot; mentioned in the Gospel of John (<a href=\"https://ref.ly/John13:23-John13:25\">John 13:23–25</a>; <a href=\"https://ref.ly/John18:15-John18:16\">18:15–16</a>; <a href=\"https://ref.ly/John19:26-John19:27\">19:26–27</a>; <a href=\"https://ref.ly/John20:2-John20:10\">20:2–10</a>; <a href=\"https://ref.ly/John21:20-John21:24\">21:20–24</a>). He might have been the unnamed disciple of John the Baptist who, along with Andrew, became an early follower of Jesus (<a href=\"https://ref.ly/John1:35-John1:40\">John 1:35–40</a>).</p><p>John&apos;s name appears three times in Acts. Each time, he works with Peter (<a href=\"https://ref.ly/Acts3:1-Acts3:11\">Acts 3:1–11</a>; <a href=\"https://ref.ly/Acts4:1-Acts4:23\">4:1–23</a>; <a href=\"https://ref.ly/Acts8:14-Acts8:25\">8:14–25</a>). Paul called him one of the &quot;pillars&quot; of the church in Jerusalem (<a href=\"https://ref.ly/Gal2:9\">Galatians 2:9</a>). This meant John was an important leader in the Jerusalem church.</p><p>The most common tradition about John&apos;s later life is that he moved to Ephesus, where he eventually became the bishop of Asia Minor. He lived to an old age and died peacefully among friends. John&apos;s Gospel gives a deep picture of Jesus, and his letters (<a href=\"https://ref.ly/1John1:1-1John5:21\">1 John</a>, <a href=\"https://ref.ly/2John1:1-2John1:13\">2 John</a>, and <a href=\"https://ref.ly/3John1:1-3John1:14\">3 John</a>) offer an inspiring view of the Christian life.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt4:21-Matt4:22\">Matthew 4:21–22</a>; <a href=\"https://ref.ly/Matt10:2\">10:2</a>; <a href=\"https://ref.ly/Matt17:1\">17:1</a>; <a href=\"https://ref.ly/Matt20:20-Matt20:24\">20:20–24</a>; <a href=\"https://ref.ly/Matt26:37-Matt26:46\">26:37–46</a>; <a href=\"https://ref.ly/Mark1:19-Mark1:20\">Mark 1:19–20</a>, <a href=\"https://ref.ly/Mark1:29\">29</a>; <a href=\"https://ref.ly/Mark3:17\">3:17</a>; <a href=\"https://ref.ly/Mark5:37\">5:37</a>; <a href=\"https://ref.ly/Mark9:2\">9:2</a>, <a href=\"https://ref.ly/Mark9:38\">38</a>; <a href=\"https://ref.ly/Mark10:35-Mark10:41\">10:35–41</a>; <a href=\"https://ref.ly/Mark13:3-Mark13:4\">13:3–4</a>; <a href=\"https://ref.ly/Mark14:33-Mark14:42\">14:33–42</a>; <a href=\"https://ref.ly/Luke5:10\">Luke 5:10</a>; <a href=\"https://ref.ly/Luke6:14\">6:14</a>; <a href=\"https://ref.ly/Luke8:51\">8:51</a>; <a href=\"https://ref.ly/Luke9:28\">9:28</a>, <a href=\"https://ref.ly/Luke9:49\">49</a>, <a href=\"https://ref.ly/Luke9:54\">54</a>; <a href=\"https://ref.ly/John13:23-John13:25\">John 13:23–25</a>; <a href=\"https://ref.ly/John18:15-John18:16\">18:15–16</a>; <a href=\"https://ref.ly/John19:26-John19:27\">19:26–27</a>; <a href=\"https://ref.ly/John20:2-John20:10\">20:2–10</a>; <a href=\"https://ref.ly/John21:2\">21:2</a>, <a href=\"https://ref.ly/John21:7\">7</a>, <a href=\"https://ref.ly/John21:20-John21:24\">20–24</a>; <a href=\"https://ref.ly/Acts1:13\">Acts 1:13</a>; <a href=\"https://ref.ly/Acts3:1-Acts3:11\">3:1–11</a>; <a href=\"https://ref.ly/Acts4:1-Acts4:22\">4:1–22</a>; <a href=\"https://ref.ly/Acts5:17-Acts5:42\">5:17–42</a>; <a href=\"https://ref.ly/Acts8:14-Acts8:25\">8:14–25</a>; <a href=\"https://ref.ly/Gal2:9\">Galatians 2:9</a></p>",
+"content": "<p>John was one of the twelve closest followers of Jesus. These followers are called apostles. John was the brother of James and the son of Zebedee. Jesus chose these twelve men as his special representatives and gave them authority to teach others about him. Their work helped start the early church. Early tradition says John, Son of Zebedee, wrote the Gospel of John, the Letters of John, and the Book of Revelation.</p><p>John and his brother James were among the closest followers of Jesus (<a href=\"https://ref.ly/Mark5:37\">Mark 5:37</a>; <a href=\"https://ref.ly/Mark9:2\">9:2</a>; <a href=\"https://ref.ly/Mark13:3\">13:3</a>; <a href=\"https://ref.ly/Mark14:33\">14:33</a>). Their mother, Salome, might have been Mary&apos;s sister, who was the mother of Jesus (compare <a href=\"https://ref.ly/Matt27:56\">Matthew 27:56</a>; <a href=\"https://ref.ly/Mark15:40\">Mark 15:40</a>; <a href=\"https://ref.ly/Mark16:1\">16:1</a>; <a href=\"https://ref.ly/John19:25\">John 19:25</a>). John&apos;s name usually appears after James&apos;s, suggesting John was younger. James and John were fishermen like their father (<a href=\"https://ref.ly/Matt4:21\">Matthew 4:21</a>; <a href=\"https://ref.ly/Mark1:19\">Mark 1:19</a>). They fished with Peter and Andrew, another pair of brothers who became disciples (<a href=\"https://ref.ly/Luke5:8-Luke5:10\">Luke 5:8–10</a>). </p><p>They were among the first disciples Jesus called, and they left everything to follow him (<a href=\"https://ref.ly/Matt4:22\">Matthew 4:22</a>; <a href=\"https://ref.ly/Mark1:20\">Mark 1:20</a>; <a href=\"https://ref.ly/Luke5:11\">Luke 5:11</a>; compare <a href=\"https://ref.ly/John1:35-John1:40\">John 1:35–40</a>). Jesus named them “Sons of Thunder” (<a href=\"https://ref.ly/Mark3:17\">Mark 3:17</a>). This name might mean they were loud or quick-tempered (see <a href=\"https://ref.ly/Luke9:54\">Luke 9:54</a>). At one point, the brothers upset the other disciples by asking for special positions in the future kingdom (<a href=\"https://ref.ly/Matt20:20-Matt20:28\">Matthew 20:20–28</a>; <a href=\"https://ref.ly/Mark10:35-Mark10:45\">Mark 10:35–45</a>; compare <a href=\"https://ref.ly/Luke22:24-Luke22:27\">Luke 22:24–27</a>).</p><p>People believe John is the unnamed &quot;disciple Jesus loved&quot; and &quot;another disciple&quot; mentioned in the Gospel of John (<a href=\"https://ref.ly/John13:23-John13:25\">John 13:23–25</a>; <a href=\"https://ref.ly/John18:15-John18:16\">18:15–16</a>; <a href=\"https://ref.ly/John19:26-John19:27\">19:26–27</a>; <a href=\"https://ref.ly/John20:2-John20:10\">20:2–10</a>; <a href=\"https://ref.ly/John21:20-John21:24\">21:20–24</a>). He might have been the unnamed disciple of John the Baptist who, along with Andrew, became an early follower of Jesus (<a href=\"https://ref.ly/John1:35-John1:40\">John 1:35–40</a>).</p><p>John&apos;s name appears three times in Acts. Each time, he works with Peter (<a href=\"https://ref.ly/Acts3:1-Acts3:11\">Acts 3:1–11</a>; <a href=\"https://ref.ly/Acts4:1-Acts4:23\">4:1–23</a>; <a href=\"https://ref.ly/Acts8:14-Acts8:25\">8:14–25</a>). Paul called him one of the &quot;pillars&quot; of the church in Jerusalem (<a href=\"https://ref.ly/Gal2:9\">Galatians 2:9</a>). This meant John was an important leader in the Jerusalem church.</p><p>The most common tradition about John&apos;s later life is that he moved to Ephesus, where he eventually became the bishop of Asia Minor. He lived to an old age and died peacefully among friends. John&apos;s Gospel gives a deep picture of Jesus, and his letters (<a href=\"https://ref.ly/1John1:1-1John5:21\">1 John</a>, <a href=\"https://ref.ly/2John1:1-2John1:13\">2 John</a>, and <a href=\"https://ref.ly/3John1:1-3John1:14\">3 John</a>) offer an inspiring view of the Christian life.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt4:21-Matt4:22\">Matthew 4:21–22</a>; <a href=\"https://ref.ly/Matt10:2\">10:2</a>; <a href=\"https://ref.ly/Matt17:1\">17:1</a>; <a href=\"https://ref.ly/Matt20:20-Matt20:24\">20:20–24</a>; <a href=\"https://ref.ly/Matt26:37-Matt26:46\">26:37–46</a>; <a href=\"https://ref.ly/Mark1:19-Mark1:20\">Mark 1:19–20</a>, <a href=\"https://ref.ly/Mark1:29\">29</a>; <a href=\"https://ref.ly/Mark3:17\">3:17</a>; <a href=\"https://ref.ly/Mark5:37\">5:37</a>; <a href=\"https://ref.ly/Mark9:2\">9:2</a>, <a href=\"https://ref.ly/Mark9:38\">38</a>; <a href=\"https://ref.ly/Mark10:35-Mark10:41\">10:35–41</a>; <a href=\"https://ref.ly/Mark13:3-Mark13:4\">13:3–4</a>; <a href=\"https://ref.ly/Mark14:33-Mark14:42\">14:33–42</a>; <a href=\"https://ref.ly/Luke5:10\">Luke 5:10</a>; <a href=\"https://ref.ly/Luke6:14\">6:14</a>; <a href=\"https://ref.ly/Luke8:51\">8:51</a>; <a href=\"https://ref.ly/Luke9:28\">9:28</a>, <a href=\"https://ref.ly/Luke9:49\">49</a>, <a href=\"https://ref.ly/Luke9:54\">54</a>; <a href=\"https://ref.ly/John13:23-John13:25\">John 13:23–25</a>; <a href=\"https://ref.ly/John18:15-John18:16\">18:15–16</a>; <a href=\"https://ref.ly/John19:26-John19:27\">19:26–27</a>; <a href=\"https://ref.ly/John20:2-John20:10\">20:2–10</a>; <a href=\"https://ref.ly/John21:2\">21:2</a>, <a href=\"https://ref.ly/John21:7\">7</a>, <a href=\"https://ref.ly/John21:20-John21:24\">20–24</a>; <a href=\"https://ref.ly/Acts1:13\">Acts 1:13</a>; <a href=\"https://ref.ly/Acts3:1-Acts3:11\">3:1–11</a>; <a href=\"https://ref.ly/Acts4:1-Acts4:22\">4:1–22</a>; <a href=\"https://ref.ly/Acts5:17-Acts5:42\">5:17–42</a>; <a href=\"https://ref.ly/Acts8:14-Acts8:25\">8:14–25</a>; <a href=\"https://ref.ly/Gal2:9\">Galatians 2:9</a></p>",
 "associations": {
 "passage": [
 {
@@ -2629,8 +2536,7 @@
 "end_ref_usfm": "ACT 8:25"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -2642,7 +2548,7 @@
 "index_reference": "john the baptist",
 "language": "eng",
 "review_level": "None",
-"content": "<p>John the Baptist was a passionate preacher who lived in the desert and called people to repent (to change their lives by stopping their wrongdoing and turning to God). He became known as &quot;the Baptist&quot; (or &quot;the Baptizer&quot;) because he baptized (immersed) people in water as a sign that they were turning away from their sins. John acted like Elijah to prepare people for the Messiah&apos;s arrival (<a href=\"https://ref.ly/Mal4:4-Mal4:5\">Malachi 4:4–5</a>; <a href=\"https://ref.ly/Matt11:14\">Matthew 11:14</a>; <a href=\"https://ref.ly/Matt17:12\">17:12</a>; <a href=\"https://ref.ly/Mark9:13\">Mark 9:13</a>).</p><p>John&apos;s birth, like Jesus&apos;, was extraordinary. John&apos;s parents were very old and unable to have children (<a href=\"https://ref.ly/Luke1:5-Luke1:25\">Luke 1:5–25</a>). His mother, Elizabeth, was a relative of Mary, Jesus&apos; mother (<a href=\"https://ref.ly/Luke1:36\">Luke 1:36</a>). So, John was related to Jesus. These two miraculous births around the same time marked the start of God&apos;s redeeming work.</p><p>John was filled with the Holy Spirit from birth and dedicated his life to preparing people for the Lord&apos;s arrival (<a href=\"https://ref.ly/Luke1:15-Luke1:17\">Luke 1:15–17</a>). He began teaching people when he was about thirty years old while living in the desert (<a href=\"https://ref.ly/Luke1:80\">Luke 1:80</a>). He wore clothes made of camel&apos;s hair with a leather belt, similar to what ancient prophets wore, and ate desert food (locusts and wild honey, see <a href=\"https://ref.ly/Matt3:4\">Matthew 3:4</a>; <a href=\"https://ref.ly/Mark1:6\">Mark 1:6</a>). John urged everyone to repent and be baptized (<a href=\"https://ref.ly/Matt3:1-Matt3:2\">Matthew 3:1–2</a>; <a href=\"https://ref.ly/Mark1:4\">Mark 1:4</a>; <a href=\"https://ref.ly/Luke3:1-Luke3:3\">Luke 3:1–3</a>). He even criticized the religious leaders who came to listen to him (<a href=\"https://ref.ly/Matt3:7-Matt3:10\">Matthew 3:7–10</a>).</p><p>John baptized Jesus, though at first he felt unworthy to do so (<a href=\"https://ref.ly/Matt3:13-Matt3:17\">Matthew 3:13–17</a>). John knew Jesus was greater than him. While John used water, Jesus would &quot;baptize with the Holy Spirit&quot; (<a href=\"https://ref.ly/John1:33\">John 1:33</a>; <a href=\"https://ref.ly/Matt3:11\">Matthew 3:11</a>; <a href=\"https://ref.ly/Mark1:7-Mark1:8\">Mark 1:7–8</a>; <a href=\"https://ref.ly/Luke3:16\">Luke 3:16</a>; compare <a href=\"https://ref.ly/John3:23-John3:30\">John 3:23–30</a>). John encouraged his followers to become Jesus&apos; disciples. Many did, including: </p><ul><li><p>Andrew (<a href=\"https://ref.ly/John1:35-John1:40\">John 1:35–40</a>)</p></li><li><p>Apollos (<a href=\"https://ref.ly/Acts18:24-Acts18:26\">Acts 18:24–26</a>)</p></li><li><p>The twelve disciples at Ephesus (<a href=\"https://ref.ly/Acts19:1-Acts19:7\">Acts 19:1–7</a>)</p></li></ul><p>John criticized Herod Antipas for marrying Herodias, his brother Philip&apos;s wife, which was against the law. To satisfy Herodias, Herod imprisoned and then executed John (<a href=\"https://ref.ly/Matt14:3-Matt14:12\">Matthew 14:3–12</a>; <a href=\"https://ref.ly/Mark6:17-Mark6:29\">Mark 6:17–29</a>; <a href=\"https://ref.ly/Luke3:19-Luke3:20\">Luke 3:19–20</a>). John&apos;s imprisonment marked the start of Jesus&apos; public preaching (<a href=\"https://ref.ly/Matt4:12\">Matthew 4:12</a>; <a href=\"https://ref.ly/Mark1:14\">Mark 1:14</a>).</p><p>Shortly before his death, John appeared confused about Jesus. He sent messengers from prison to ask if Jesus was truly the Messiah (God&apos;s chosen one). Jesus did not do what most people expected the Messiah to do. Instead of bringing judgment and a visible kingdom, he brought forgiveness, healing, and a spiritual kingdom. To reassure John, Jesus spoke of the miraculous things God was doing through him (<a href=\"https://ref.ly/Luke7:18-Luke7:23\">Luke 7:18–23</a>).</p><p>John stayed true to his mission throughout his life. He consistently preached about repentance and God&apos;s judgment, even to those who did not want to listen. Jesus called John one of the greatest servants of God who ever lived (<a href=\"https://ref.ly/Matt11:2-Matt11:19\">Matthew 11:2–19</a>; <a href=\"https://ref.ly/Luke7:18-Luke7:35\">Luke 7:18–35</a>). John was the last in a long line of prophets who predicted the coming of God&apos;s Kingdom (<a href=\"https://ref.ly/Luke16:16\">Luke 16:16</a>). He stood at the start of a new era, announcing its arrival to everyone willing to hear.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt3:1-Matt3:15\">Matthew 3:1–15</a>; <a href=\"https://ref.ly/Matt4:12\">4:12</a>; <a href=\"https://ref.ly/Matt9:14\">9:14</a>; <a href=\"https://ref.ly/Matt11:2-Matt11:19\">11:2–19</a>; <a href=\"https://ref.ly/Matt14:1-Matt14:12\">14:1–12</a>; <a href=\"https://ref.ly/Matt16:14\">16:14</a>; <a href=\"https://ref.ly/Matt17:10-Matt17:13\">17:10–13</a>; <a href=\"https://ref.ly/Matt21:24-Matt21:27\">21:24–27</a>, <a href=\"https://ref.ly/Matt21:31-Matt21:32\">31–32</a>; <a href=\"https://ref.ly/Mark1:1-Mark1:9\">Mark 1:1–9</a>, <a href=\"https://ref.ly/Mark1:14\">14</a>; <a href=\"https://ref.ly/Mark2:18\">2:18</a>; <a href=\"https://ref.ly/Mark6:14-Mark6:29\">6:14–29</a>; <a href=\"https://ref.ly/Mark8:28\">8:28</a>; <a href=\"https://ref.ly/Mark9:11-Mark9:13\">9:11–13</a>; <a href=\"https://ref.ly/Mark11:29-Mark11:33\">11:29–33</a>; <a href=\"https://ref.ly/Luke1:13-Luke1:17\">Luke 1:13–17</a>, <a href=\"https://ref.ly/Luke1:36\">36</a>, <a href=\"https://ref.ly/Luke1:39-Luke1:43\">39–43</a>, <a href=\"https://ref.ly/Luke1:57-Luke1:66\">57–66</a>, <a href=\"https://ref.ly/Luke1:76-Luke1:80\">76–80</a>; <a href=\"https://ref.ly/Luke3:1-Luke3:21\">3:1–21</a>; <a href=\"https://ref.ly/Luke5:33\">5:33</a>; <a href=\"https://ref.ly/Luke7:18-Luke7:35\">7:18–35</a>; <a href=\"https://ref.ly/Luke9:7-Luke9:9\">9:7–9</a>, <a href=\"https://ref.ly/Luke9:19\">19</a>; <a href=\"https://ref.ly/Luke11:1\">11:1</a>; <a href=\"https://ref.ly/Luke16:16\">16:16</a>; <a href=\"https://ref.ly/Luke20:3-Luke20:8\">20:3–8</a>; <a href=\"https://ref.ly/John1:6-John1:37\">John 1:6–37</a>; <a href=\"https://ref.ly/John3:23-John3:36\">John 3:23–36</a>; <a href=\"https://ref.ly/John4:1-John4:3\">4:1–3</a>; <a href=\"https://ref.ly/John10:40-John10:42\">10:40–42</a>; <a href=\"https://ref.ly/Acts1:5\">Acts 1:5</a>; <a href=\"https://ref.ly/Acts10:37\">10:37</a>; <a href=\"https://ref.ly/Acts11:16\">11:16</a>; <a href=\"https://ref.ly/Acts18:25-Acts18:26\">18:25–26</a>; <a href=\"https://ref.ly/Acts19:1-Acts19:7\">19:1–7</a></p>",
+"content": "<p>John the Baptist was a passionate preacher who lived in the desert and called people to repent (to change their lives by stopping their wrongdoing and turning to God). He became known as &quot;the Baptist&quot; (or &quot;the Baptizer&quot;) because he baptized (immersed) people in water as a sign that they were turning away from their sins. John acted like Elijah to prepare people for the Messiah&apos;s arrival (<a href=\"https://ref.ly/Mal4:4-Mal4:5\">Malachi 4:4–5</a>; <a href=\"https://ref.ly/Matt11:14\">Matthew 11:14</a>; <a href=\"https://ref.ly/Matt17:12\">17:12</a>; <a href=\"https://ref.ly/Mark9:13\">Mark 9:13</a>).</p><p>John&apos;s birth, like the birth of Jesus, was extraordinary. John&apos;s parents were very old and unable to have children (<a href=\"https://ref.ly/Luke1:5-Luke1:25\">Luke 1:5–25</a>). His mother, Elizabeth, was a relative of Mary, the mother of Jesus (<a href=\"https://ref.ly/Luke1:36\">Luke 1:36</a>). So, John was related to Jesus. These two miraculous births around the same time marked the start of God&apos;s redeeming work.</p><p>John was filled with the Holy Spirit from birth and dedicated his life to preparing people for the Lord&apos;s arrival (<a href=\"https://ref.ly/Luke1:15-Luke1:17\">Luke 1:15–17</a>). He began teaching people when he was about thirty years old while living in the desert (<a href=\"https://ref.ly/Luke1:80\">Luke 1:80</a>). He wore clothes made of camel&apos;s hair with a leather belt, similar to what ancient prophets wore, and ate desert food (locusts and wild honey, see <a href=\"https://ref.ly/Matt3:4\">Matthew 3:4</a>; <a href=\"https://ref.ly/Mark1:6\">Mark 1:6</a>). John urged everyone to repent and be baptized (<a href=\"https://ref.ly/Matt3:1-Matt3:2\">Matthew 3:1–2</a>; <a href=\"https://ref.ly/Mark1:4\">Mark 1:4</a>; <a href=\"https://ref.ly/Luke3:1-Luke3:3\">Luke 3:1–3</a>). He even criticized the religious leaders who came to listen to him (<a href=\"https://ref.ly/Matt3:7-Matt3:10\">Matthew 3:7–10</a>).</p><p>John baptized Jesus, though at first he felt unworthy to do so (<a href=\"https://ref.ly/Matt3:13-Matt3:17\">Matthew 3:13–17</a>). John knew Jesus was greater than him. While John used water, Jesus would &quot;baptize with the Holy Spirit&quot; (<a href=\"https://ref.ly/John1:33\">John 1:33</a>; <a href=\"https://ref.ly/Matt3:11\">Matthew 3:11</a>; <a href=\"https://ref.ly/Mark1:7-Mark1:8\">Mark 1:7–8</a>; <a href=\"https://ref.ly/Luke3:16\">Luke 3:16</a>; compare <a href=\"https://ref.ly/John3:23-John3:30\">John 3:23–30</a>). John encouraged his followers to become disciples of Jesus. Many did, including: </p><ul><li><p>Andrew (<a href=\"https://ref.ly/John1:35-John1:40\">John 1:35–40</a>),</p></li><li><p>Apollos (<a href=\"https://ref.ly/Acts18:24-Acts18:26\">Acts 18:24–26</a>), and</p></li><li><p>the twelve disciples at Ephesus (<a href=\"https://ref.ly/Acts19:1-Acts19:7\">Acts 19:1–7</a>).</p></li></ul><p>John criticized Herod Antipas for marrying Herodias, his brother Philip&apos;s wife, which was against the law. To satisfy Herodias, Herod imprisoned and then executed John (<a href=\"https://ref.ly/Matt14:3-Matt14:12\">Matthew 14:3–12</a>; <a href=\"https://ref.ly/Mark6:17-Mark6:29\">Mark 6:17–29</a>; <a href=\"https://ref.ly/Luke3:19-Luke3:20\">Luke 3:19–20</a>). John&apos;s imprisonment marked the start of the public preaching of Jesus (<a href=\"https://ref.ly/Matt4:12\">Matthew 4:12</a>; <a href=\"https://ref.ly/Mark1:14\">Mark 1:14</a>).</p><p>Shortly before his death, John appeared confused about Jesus. He sent messengers from prison to ask if Jesus was truly the Messiah (God&apos;s chosen one). Jesus did not do what most people expected the Messiah to do. Instead of bringing judgment and a visible kingdom, he brought forgiveness, healing, and a spiritual kingdom. To reassure John, Jesus spoke of the miraculous things God was doing through him (<a href=\"https://ref.ly/Luke7:18-Luke7:23\">Luke 7:18–23</a>).</p><p>John stayed true to his mission throughout his life. He consistently preached about repentance and God&apos;s judgment, even to those who did not want to listen. Jesus called John one of the greatest servants of God who ever lived (<a href=\"https://ref.ly/Matt11:2-Matt11:19\">Matthew 11:2–19</a>; <a href=\"https://ref.ly/Luke7:18-Luke7:35\">Luke 7:18–35</a>). John was the last in a long line of prophets who predicted the coming of God&apos;s Kingdom (<a href=\"https://ref.ly/Luke16:16\">Luke 16:16</a>). He stood at the start of a new era, announcing its arrival to everyone willing to hear.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt3:1-Matt3:15\">Matthew 3:1–15</a>; <a href=\"https://ref.ly/Matt4:12\">4:12</a>; <a href=\"https://ref.ly/Matt9:14\">9:14</a>; <a href=\"https://ref.ly/Matt11:2-Matt11:19\">11:2–19</a>; <a href=\"https://ref.ly/Matt14:1-Matt14:12\">14:1–12</a>; <a href=\"https://ref.ly/Matt16:14\">16:14</a>; <a href=\"https://ref.ly/Matt17:10-Matt17:13\">17:10–13</a>; <a href=\"https://ref.ly/Matt21:24-Matt21:27\">21:24–27</a>, <a href=\"https://ref.ly/Matt21:31-Matt21:32\">31–32</a>; <a href=\"https://ref.ly/Mark1:1-Mark1:9\">Mark 1:1–9</a>, <a href=\"https://ref.ly/Mark1:14\">14</a>; <a href=\"https://ref.ly/Mark2:18\">2:18</a>; <a href=\"https://ref.ly/Mark6:14-Mark6:29\">6:14–29</a>; <a href=\"https://ref.ly/Mark8:28\">8:28</a>; <a href=\"https://ref.ly/Mark9:11-Mark9:13\">9:11–13</a>; <a href=\"https://ref.ly/Mark11:29-Mark11:33\">11:29–33</a>; <a href=\"https://ref.ly/Luke1:13-Luke1:17\">Luke 1:13–17</a>, <a href=\"https://ref.ly/Luke1:36\">36</a>, <a href=\"https://ref.ly/Luke1:39-Luke1:43\">39–43</a>, <a href=\"https://ref.ly/Luke1:57-Luke1:66\">57–66</a>, <a href=\"https://ref.ly/Luke1:76-Luke1:80\">76–80</a>; <a href=\"https://ref.ly/Luke3:1-Luke3:21\">3:1–21</a>; <a href=\"https://ref.ly/Luke5:33\">5:33</a>; <a href=\"https://ref.ly/Luke7:18-Luke7:35\">7:18–35</a>; <a href=\"https://ref.ly/Luke9:7-Luke9:9\">9:7–9</a>, <a href=\"https://ref.ly/Luke9:19\">19</a>; <a href=\"https://ref.ly/Luke11:1\">11:1</a>; <a href=\"https://ref.ly/Luke16:16\">16:16</a>; <a href=\"https://ref.ly/Luke20:3-Luke20:8\">20:3–8</a>; <a href=\"https://ref.ly/John1:6-John1:37\">John 1:6–37</a>; <a href=\"https://ref.ly/John3:23-John3:36\">John 3:23–36</a>; <a href=\"https://ref.ly/John4:1-John4:3\">4:1–3</a>; <a href=\"https://ref.ly/John10:40-John10:42\">10:40–42</a>; <a href=\"https://ref.ly/Acts1:5\">Acts 1:5</a>; <a href=\"https://ref.ly/Acts10:37\">10:37</a>; <a href=\"https://ref.ly/Acts11:16\">11:16</a>; <a href=\"https://ref.ly/Acts18:25-Acts18:26\">18:25–26</a>; <a href=\"https://ref.ly/Acts19:1-Acts19:7\">19:1–7</a></p>",
 "associations": {
 "passage": [
 {
@@ -3024,16 +2930,7 @@
 "end_ref_usfm": "ACT 18:26"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:John",
-"type": "person",
-"confidence": 0.7262,
-"match_method": "scored",
-"preferred_label": "John"
-}
-]
+"resource": []
 }
 },
 {
@@ -3121,16 +3018,7 @@
 "end_ref_usfm": "1SA 23:18"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Jonathan.3",
-"type": "person",
-"confidence": 0.7781,
-"match_method": "scored",
-"preferred_label": "Jonathan"
-}
-]
+"resource": []
 }
 },
 {
@@ -3266,16 +3154,7 @@
 "end_ref_usfm": "GEN 50:26"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Joseph.10",
-"type": "person",
-"confidence": 0.7216,
-"match_method": "scored",
-"preferred_label": "Joseph"
-}
-]
+"resource": []
 }
 },
 {
@@ -3287,7 +3166,7 @@
 "index_reference": "joshua",
 "language": "eng",
 "review_level": "None",
-"content": "<p>Joshua was the son of Nun. He was Moses&apos; assistant and became Israel&apos;s leader after him. Joshua led the young nation across the Jordan River into Canaan, the land God promised to Abraham, by faithfully following God&apos;s guidance.</p><p>Before Israel reached Mount Sinai, Joshua led Israel&apos;s warriors when Amalek attacked them (<a href=\"https://ref.ly/Exod17:8-Exod17:13\">Exodus 17:8–13</a>). Soon after, he was one of the twelve men Moses sent to explore the promised land (<a href=\"https://ref.ly/Num13:1-Num13:16\">Numbers 13:1–16</a>). Despite popular opinion, Joshua and Caleb urged Israel to take Canaan immediately (<a href=\"https://ref.ly/Num13:22-Num14:9\">Numbers 13:22–14:9</a>). As a result, only they, among the twelve spies, entered Canaan (<a href=\"https://ref.ly/Num14:30\">Numbers 14:30</a>, <a href=\"https://ref.ly/Num14:36-Num14:38\">36–38</a>).</p><p>God chose Moses to appoint Joshua as his successor (<a href=\"https://ref.ly/Num27:15-Num27:23\">Numbers 27:15–23</a>; <a href=\"https://ref.ly/Deut34:9\">Deuteronomy 34:9</a>). After Moses died, Joshua led the Israelites across the Jordan River (<a href=\"https://ref.ly/Josh1:1-Josh1:18\">Joshua 1:1–18</a>; <a href=\"https://ref.ly/Josh3:1-Josh4:24\">3:1–4:24</a>) to conquer Jericho (<a href=\"https://ref.ly/Josh6:1-Josh6:27\">6:1–27</a>). When Israel lost at Ai, Joshua sought the Lord&apos;s guidance and removed sin from Israel (<a href=\"https://ref.ly/Josh7:1-Josh7:26\">Joshua 7:1–26</a>). Then, Israel defeated Ai (<a href=\"https://ref.ly/Josh8:1-Josh8:29\">8:1–29</a>). Following God&apos;s instructions to Moses (<a href=\"https://ref.ly/Deut11:29-Deut11:32\">Deuteronomy 11:29–32</a>; <a href=\"https://ref.ly/Deut27:1-Deut28:68\">27:1–28:68</a>), Joshua built an altar on Mount Ebal (<a href=\"https://ref.ly/Josh8:30-Josh8:32\">Joshua 8:30–32</a>). There he read the blessings and curses of God&apos;s special agreement (covenant) with Israel (<a href=\"https://ref.ly/Josh8:33-Josh8:35\">8:33–35</a>). Joshua led campaigns against two groups of Canaanite kings, one in the south and one in the north (<a href=\"https://ref.ly/Josh10:1-Josh10:43\">Joshua 10:1–43</a>; <a href=\"https://ref.ly/Josh11:1-Josh11:15\">11:1–15</a>). These victories allowed the Israelites to settle in the hill country.</p><p>After overseeing the division of land among the tribes of Israel, Joshua received his own share in Ephraim (<a href=\"https://ref.ly/Josh19:49-Josh19:50\">Joshua 19:49–50</a>). He established the cities of refuge where people could go if they accidentally killed someone (<a href=\"https://ref.ly/Josh20:1-Josh20:9\">Joshua 20:1–9</a>). Joshua also established cities for the Levites to live in (<a href=\"https://ref.ly/Josh21:1-Josh21:45\">21:1–45</a>). The Levites were the tribe chosen to serve God in the temple, but they did not receive their own territory like the other tribes of Israel. Instead, they were given these cities spread throughout the land.</p><p>Joshua allowed the two and a half tribes that settled east of the Jordan River to return home (<a href=\"https://ref.ly/Josh22:1-Josh22:9\">Joshua 22:1–9</a>). As he aged, Joshua urged Israel to stay loyal to God (<a href=\"https://ref.ly/Josh23:1-Josh24:28\">Joshua 23:1–24:28</a>). His farewell speech at Shechem reviewed God&apos;s actions with Israel and ended with the well-known challenge, “<span>choose for yourselves this day whom you will serve… As for me and my house, we will serve the LORD</span>” (<a href=\"https://ref.ly/Josh24:15\">Joshua 24:15</a>). Joshua died at 110 years old and was buried in Timnath-serah (<a href=\"https://ref.ly/Josh24:29-Josh24:30\">Joshua 24:29–30</a>; <a href=\"https://ref.ly/Judg2:8-Judg2:9\">Judges 2:8–9</a>).</p><p>Joshua showed great faithfulness throughout his life, except when he dealt with the Gibeonites (<a href=\"https://ref.ly/Josh9:1-Josh9:27\">Joshua 9:1–27</a>). He did not ask the Lord for guidance on a decision. Israel served God faithfully under Joshua and the elders he trained (<a href=\"https://ref.ly/Josh24:31\">Joshua 24:31</a>; <a href=\"https://ref.ly/Judg2:7\">Judges 2:7</a>). Stephen mentions Joshua in his sermon before his martyrdom (<a href=\"https://ref.ly/Acts7:45\">Acts 7:45</a>). The writer of Hebrews uses Joshua&apos;s conquest of Jericho to illustrate faith (<a href=\"https://ref.ly/Heb11:30\">Hebrews 11:30</a>). Joshua and Jesus are the same name in the Hebrew language. This connection is meaningful because both men were leaders who helped save people. Joshua helped the people of Israel by leading them into the land of Canaan, where they could live safely, while Jesus leads all who believe in him into eternal salvation.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Exod17:8-Exod17:15\">Exodus 17:8–15</a>; <a href=\"https://ref.ly/Num13:1-Num14:38\">Numbers 13:1–14:38</a>; <a href=\"https://ref.ly/Num27:15-Num27:23\">27:15–23</a>; <a href=\"https://ref.ly/Num34:17\">34:17</a>; <a href=\"https://ref.ly/Deut34:9\">Deuteronomy 34:9</a>; <a href=\"https://ref.ly/Josh1:1-Josh1:18\">Joshua 1:1–18</a>; <a href=\"https://ref.ly/Josh4:1-Josh24:33\">4:1–24:33</a>; <a href=\"https://ref.ly/Judg2:6-Judg2:9\">Judges 2:6–9</a>; <a href=\"https://ref.ly/Heb11:30\">Hebrews 11:30</a></p>",
+"content": "<p>Joshua was the son of Nun. He was the assistant of Moses and became Israel&apos;s leader after him. Joshua led the young nation across the Jordan River into Canaan, the land God promised to Abraham, by faithfully following God&apos;s guidance.</p><p>Before Israel reached Mount Sinai, Joshua led Israel&apos;s warriors when Amalek attacked them (<a href=\"https://ref.ly/Exod17:8-Exod17:13\">Exodus 17:8–13</a>). Soon after, he was one of the twelve men Moses sent to explore the promised land (<a href=\"https://ref.ly/Num13:1-Num13:16\">Numbers 13:1–16</a>). Despite popular opinion, Joshua and Caleb urged Israel to take Canaan immediately (<a href=\"https://ref.ly/Num13:22-Num14:9\">Numbers 13:22–14:9</a>). As a result, only they, among the twelve spies, entered Canaan (<a href=\"https://ref.ly/Num14:30\">Numbers 14:30</a>, <a href=\"https://ref.ly/Num14:36-Num14:38\">36–38</a>).</p><p>God chose Moses to appoint Joshua as his successor (<a href=\"https://ref.ly/Num27:15-Num27:23\">Numbers 27:15–23</a>; <a href=\"https://ref.ly/Deut34:9\">Deuteronomy 34:9</a>). After Moses died, Joshua led the Israelites across the Jordan River (<a href=\"https://ref.ly/Josh1:1-Josh1:18\">Joshua 1:1–18</a>; <a href=\"https://ref.ly/Josh3:1-Josh4:24\">3:1–4:24</a>) to conquer Jericho (<a href=\"https://ref.ly/Josh6:1-Josh6:27\">6:1–27</a>). When Israel lost at Ai, Joshua sought the Lord&apos;s guidance and removed sin from Israel (<a href=\"https://ref.ly/Josh7:1-Josh7:26\">Joshua 7:1–26</a>). Then, Israel defeated Ai (<a href=\"https://ref.ly/Josh8:1-Josh8:29\">8:1–29</a>). Following God&apos;s instructions to Moses (<a href=\"https://ref.ly/Deut11:29-Deut11:32\">Deuteronomy 11:29–32</a>; <a href=\"https://ref.ly/Deut27:1-Deut28:68\">27:1–28:68</a>), Joshua built an altar on Mount Ebal (<a href=\"https://ref.ly/Josh8:30-Josh8:32\">Joshua 8:30–32</a>). There he read the blessings and curses of God&apos;s special agreement (covenant) with Israel (<a href=\"https://ref.ly/Josh8:33-Josh8:35\">8:33–35</a>). Joshua led campaigns against two groups of Canaanite kings, one in the south and one in the north (<a href=\"https://ref.ly/Josh10:1-Josh10:43\">Joshua 10:1–43</a>; <a href=\"https://ref.ly/Josh11:1-Josh11:15\">11:1–15</a>). These victories allowed the Israelites to settle in the hill country.</p><p>After overseeing the division of land among the tribes of Israel, Joshua received his own share in Ephraim (<a href=\"https://ref.ly/Josh19:49-Josh19:50\">Joshua 19:49–50</a>). He established the cities of refuge where people could go if they accidentally killed someone (<a href=\"https://ref.ly/Josh20:1-Josh20:9\">Joshua 20:1–9</a>). Joshua also established cities for the Levites to live in (<a href=\"https://ref.ly/Josh21:1-Josh21:45\">21:1–45</a>). The Levites were the tribe chosen to serve God in the temple, but they did not receive their own territory like the other tribes of Israel. Instead, they were given these cities spread throughout the land.</p><p>Joshua allowed the two and a half tribes that settled east of the Jordan River to return home (<a href=\"https://ref.ly/Josh22:1-Josh22:9\">Joshua 22:1–9</a>). As he aged, Joshua urged Israel to stay loyal to God (<a href=\"https://ref.ly/Josh23:1-Josh24:28\">Joshua 23:1–24:28</a>). His farewell speech at Shechem reviewed God&apos;s actions with Israel and ended with the well-known challenge, “<span>choose for yourselves this day whom you will serve… As for me and my house, we will serve the LORD</span>” (<a href=\"https://ref.ly/Josh24:15\">Joshua 24:15</a>). Joshua died at 110 years old and was buried in Timnath-serah (<a href=\"https://ref.ly/Josh24:29-Josh24:30\">Joshua 24:29–30</a>; <a href=\"https://ref.ly/Judg2:8-Judg2:9\">Judges 2:8–9</a>).</p><p>Joshua showed great faithfulness throughout his life, except when he dealt with the Gibeonites (<a href=\"https://ref.ly/Josh9:1-Josh9:27\">Joshua 9:1–27</a>). He did not ask the Lord for guidance on a decision. Israel served God faithfully under Joshua and the elders he trained (<a href=\"https://ref.ly/Josh24:31\">Joshua 24:31</a>; <a href=\"https://ref.ly/Judg2:7\">Judges 2:7</a>). Stephen mentions Joshua in his sermon before his martyrdom (<a href=\"https://ref.ly/Acts7:45\">Acts 7:45</a>). The writer of Hebrews uses Joshua&apos;s conquest of Jericho to illustrate faith (<a href=\"https://ref.ly/Heb11:30\">Hebrews 11:30</a>). Joshua and Jesus are the same name in the Hebrew language. This connection is meaningful because both men were leaders who helped save people. Joshua helped the people of Israel by leading them into the land of Canaan, where they could live safely, while Jesus leads all who believe in him into eternal salvation.</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Exod17:8-Exod17:15\">Exodus 17:8–15</a>; <a href=\"https://ref.ly/Num13:1-Num14:38\">Numbers 13:1–14:38</a>; <a href=\"https://ref.ly/Num27:15-Num27:23\">27:15–23</a>; <a href=\"https://ref.ly/Num34:17\">34:17</a>; <a href=\"https://ref.ly/Deut34:9\">Deuteronomy 34:9</a>; <a href=\"https://ref.ly/Josh1:1-Josh1:18\">Joshua 1:1–18</a>; <a href=\"https://ref.ly/Josh4:1-Josh24:33\">4:1–24:33</a>; <a href=\"https://ref.ly/Judg2:6-Judg2:9\">Judges 2:6–9</a>; <a href=\"https://ref.ly/Heb11:30\">Hebrews 11:30</a></p>",
 "associations": {
 "passage": [
 {
@@ -3507,16 +3386,7 @@
 "end_ref_usfm": "JDG 2:9"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Joshua.2",
-"type": "person",
-"confidence": 0.6797,
-"match_method": "scored",
-"preferred_label": "Joshua"
-}
-]
+"resource": []
 }
 },
 {
@@ -3658,16 +3528,7 @@
 "end_ref_usfm": "JER 1:4"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Josiah",
-"type": "person",
-"confidence": 0.6934,
-"match_method": "scored",
-"preferred_label": "Josiah"
-}
-]
+"resource": []
 }
 },
 {
@@ -3833,30 +3694,7 @@
 "end_ref_usfm": "1CH 2:4"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Judah.4",
-"type": "person",
-"confidence": 0.7014,
-"match_method": "scored",
-"preferred_label": "Judah"
-},
-{
-"id": "person:Judah.3",
-"type": "person",
-"confidence": 0.6027,
-"match_method": "scored",
-"preferred_label": "Judah"
-},
-{
-"id": "person:Joda",
-"type": "person",
-"confidence": 0.5532,
-"match_method": "scored",
-"preferred_label": "Joda"
-}
-]
+"resource": []
 }
 },
 {
@@ -3868,7 +3706,7 @@
 "index_reference": "judas iscariot",
 "language": "eng",
 "review_level": "None",
-"content": "<p>Judas Iscariot is well-known for betraying Jesus to the authorities (<a href=\"https://ref.ly/Matt10:4\">Matthew 10:4</a>; <a href=\"https://ref.ly/Mark3:19\">Mark 3:19</a>; <a href=\"https://ref.ly/Luke6:16\">Luke 6:16</a>).</p><p>The meaning of the name &quot;Iscariot&quot; is unclear. It might refer to a village named Kerioth. Judas Iscariot is different from Judas, son of James (<a href=\"https://ref.ly/Luke6:16\">Luke 6:16</a>; <a href=\"https://ref.ly/John14:22\">John 14:22</a>).</p><p>Among the apostles (Jesus&apos; closest followers), people knew Judas Iscariot as greedy. He carried the money bag and had a reputation for stealing from it (<a href=\"https://ref.ly/John12:4-John12:6\">John 12:4–6</a>). The leading priests later offered him a bribe, which convinced him to betray Jesus (<a href=\"https://ref.ly/Matt26:14-Matt26:16\">Matthew 26:14–16</a>; <a href=\"https://ref.ly/Mark14:10-Mark14:11\">Mark 14:10–11</a>; <a href=\"https://ref.ly/Luke22:3-Luke22:6\">Luke 22:3–6</a>).</p><p>Jesus called Judas &quot;a devil&quot; (<a href=\"https://ref.ly/John6:70-John6:71\">John 6:70–71</a>). He also predicted his betrayal (<a href=\"https://ref.ly/Mark14:18-Mark14:21\">Mark 14:18–21</a>). The devil put the idea of betrayal into Judas&apos;s mind, and Satan entered him during the betrayal (<a href=\"https://ref.ly/Luke22:3-Luke22:4\">Luke 22:3–4</a>; <a href=\"https://ref.ly/John13:2\">John 13:2</a>, <a href=\"https://ref.ly/John13:27\">27</a>). Judas led soldiers and officers to the garden of Gethsemane at night. There, he found Jesus with his followers. Judas had planned to identify Jesus to the soldiers by giving him a kiss, which was a normal way to greet someone at that time (<a href=\"https://ref.ly/Mark14:43-Mark14:46\">Mark 14:43–46</a>). Later, Judas was very sorry for betraying an innocent man. He killed himself by hanging himself (<a href=\"https://ref.ly/Matt27:3-Matt27:10\">Matthew 27:3–10</a>; <a href=\"https://ref.ly/Acts1:18-Acts1:19\">Acts 1:18–19</a>).</p><p>Jesus understood Judas&apos;s betrayal as part of God&apos;s plan for redemption. It led to the death of Jesus, the Messiah, as the ultimate sacrifice for sin (<a href=\"https://ref.ly/Matt26:24\">Matthew 26:24</a>, <a href=\"https://ref.ly/Matt26:53-Matt26:54\">53–54</a>; <a href=\"https://ref.ly/Mark14:21\">Mark 14:21</a>; <a href=\"https://ref.ly/Luke22:22\">Luke 22:22</a>; <a href=\"https://ref.ly/John17:12\">John 17:12</a>). Although Judas played a role in God&apos;s plan, his tragic end was deserved (<a href=\"https://ref.ly/Acts1:24-Acts1:25\">Acts 1:24–25</a>). It would have been better for Judas if he had never been born (<a href=\"https://ref.ly/Matt26:24\">Matthew 26:24</a>; <a href=\"https://ref.ly/Mark14:21\">Mark 14:21</a>). Judas&apos;s fate serves as a warning to those who seem to follow Jesus but have not personally committed to him (see <a href=\"https://ref.ly/Heb6:4-Heb6:6\">Hebrews 6:4–6</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt10:4\">Matthew 10:4</a>; <a href=\"https://ref.ly/Matt26:14-Matt26:16\">26:14–16</a>, <a href=\"https://ref.ly/Matt26:23-Matt26:25\">23–25</a>, <a href=\"https://ref.ly/Matt26:46-Matt26:50\">46–50</a>; <a href=\"https://ref.ly/Matt27:3-Matt27:10\">27:3–10</a>; <a href=\"https://ref.ly/Mark3:19\">Mark 3:19</a>; <a href=\"https://ref.ly/Mark14:10-Mark14:11\">14:10–11</a>, <a href=\"https://ref.ly/Mark14:18-Mark14:21\">18–21</a>, <a href=\"https://ref.ly/Mark14:43-Mark14:45\">43–45</a>; <a href=\"https://ref.ly/Luke6:16\">Luke 6:16</a>; <a href=\"https://ref.ly/Luke22:3-Luke22:6\">22:3–6</a>, <a href=\"https://ref.ly/Luke22:22\">22</a>, <a href=\"https://ref.ly/Luke22:47-Luke22:48\">47–48</a>; <a href=\"https://ref.ly/John6:70-John6:71\">John 6:70–71</a>; <a href=\"https://ref.ly/John12:4-John12:6\">12:4–6</a>; <a href=\"https://ref.ly/John13:2\">13:2</a>, <a href=\"https://ref.ly/John13:18\">18</a>, <a href=\"https://ref.ly/John13:21-John13:30\">21–30</a>; <a href=\"https://ref.ly/John17:12\">17:12</a>; <a href=\"https://ref.ly/John18:2-John18:5\">18:2–5</a>; <a href=\"https://ref.ly/Acts1:16-Acts1:26\">Acts 1:16–26</a></p>",
+"content": "<p>Judas Iscariot is well-known for betraying Jesus to the authorities (<a href=\"https://ref.ly/Matt10:4\">Matthew 10:4</a>; <a href=\"https://ref.ly/Mark3:19\">Mark 3:19</a>; <a href=\"https://ref.ly/Luke6:16\">Luke 6:16</a>).</p><p>The meaning of the name <em>Iscariot</em> is unclear. It might refer to a village named Kerioth. Judas Iscariot is different from Judas, son of James (<a href=\"https://ref.ly/Luke6:16\">Luke 6:16</a>; <a href=\"https://ref.ly/John14:22\">John 14:22</a>).</p><p>Among the apostles (the closest followers of Jesus), Judas Iscariot was known as greedy. He carried the money bag and had a reputation for stealing from it (<a href=\"https://ref.ly/John12:4-John12:6\">John 12:4–6</a>). The leading priests later offered him a bribe, which convinced him to betray Jesus (<a href=\"https://ref.ly/Matt26:14-Matt26:16\">Matthew 26:14–16</a>; <a href=\"https://ref.ly/Mark14:10-Mark14:11\">Mark 14:10–11</a>; <a href=\"https://ref.ly/Luke22:3-Luke22:6\">Luke 22:3–6</a>).</p><p>Jesus called Judas &quot;a devil&quot; (<a href=\"https://ref.ly/John6:70-John6:71\">John 6:70–71</a>). He also predicted his betrayal (<a href=\"https://ref.ly/Mark14:18-Mark14:21\">Mark 14:18–21</a>). The devil put the idea of betrayal into Judas&apos;s mind, and Satan entered him during the betrayal (<a href=\"https://ref.ly/Luke22:3-Luke22:4\">Luke 22:3–4</a>; <a href=\"https://ref.ly/John13:2\">John 13:2</a>, <a href=\"https://ref.ly/John13:27\">27</a>). Judas led soldiers and officers to the garden of Gethsemane at night. There, he found Jesus with his followers. Judas had planned to identify Jesus to the soldiers by giving him a kiss, which was a normal way to greet someone at that time (<a href=\"https://ref.ly/Mark14:43-Mark14:46\">Mark 14:43–46</a>). Later, Judas was very sorry for betraying an innocent man. He killed himself by hanging himself (<a href=\"https://ref.ly/Matt27:3-Matt27:10\">Matthew 27:3–10</a>; <a href=\"https://ref.ly/Acts1:18-Acts1:19\">Acts 1:18–19</a>).</p><p>Jesus understood Judas&apos;s betrayal as part of God&apos;s plan for redemption. It led to the death of Jesus, the Messiah, as the ultimate sacrifice for sin (<a href=\"https://ref.ly/Matt26:24\">Matthew 26:24</a>, <a href=\"https://ref.ly/Matt26:53-Matt26:54\">53–54</a>; <a href=\"https://ref.ly/Mark14:21\">Mark 14:21</a>; <a href=\"https://ref.ly/Luke22:22\">Luke 22:22</a>; <a href=\"https://ref.ly/John17:12\">John 17:12</a>). Although Judas played a role in God&apos;s plan, his tragic end was deserved (<a href=\"https://ref.ly/Acts1:24-Acts1:25\">Acts 1:24–25</a>). It would have been better for Judas if he had never been born (<a href=\"https://ref.ly/Matt26:24\">Matthew 26:24</a>; <a href=\"https://ref.ly/Mark14:21\">Mark 14:21</a>). Judas&apos;s fate serves as a warning to those who seem to follow Jesus but have not personally committed to him (see <a href=\"https://ref.ly/Heb6:4-Heb6:6\">Hebrews 6:4–6</a>).</p><p><u>Passages for Further Study</u></p><p><a href=\"https://ref.ly/Matt10:4\">Matthew 10:4</a>; <a href=\"https://ref.ly/Matt26:14-Matt26:16\">26:14–16</a>, <a href=\"https://ref.ly/Matt26:23-Matt26:25\">23–25</a>, <a href=\"https://ref.ly/Matt26:46-Matt26:50\">46–50</a>; <a href=\"https://ref.ly/Matt27:3-Matt27:10\">27:3–10</a>; <a href=\"https://ref.ly/Mark3:19\">Mark 3:19</a>; <a href=\"https://ref.ly/Mark14:10-Mark14:11\">14:10–11</a>, <a href=\"https://ref.ly/Mark14:18-Mark14:21\">18–21</a>, <a href=\"https://ref.ly/Mark14:43-Mark14:45\">43–45</a>; <a href=\"https://ref.ly/Luke6:16\">Luke 6:16</a>; <a href=\"https://ref.ly/Luke22:3-Luke22:6\">22:3–6</a>, <a href=\"https://ref.ly/Luke22:22\">22</a>, <a href=\"https://ref.ly/Luke22:47-Luke22:48\">47–48</a>; <a href=\"https://ref.ly/John6:70-John6:71\">John 6:70–71</a>; <a href=\"https://ref.ly/John12:4-John12:6\">12:4–6</a>; <a href=\"https://ref.ly/John13:2\">13:2</a>, <a href=\"https://ref.ly/John13:18\">18</a>, <a href=\"https://ref.ly/John13:21-John13:30\">21–30</a>; <a href=\"https://ref.ly/John17:12\">17:12</a>; <a href=\"https://ref.ly/John18:2-John18:5\">18:2–5</a>; <a href=\"https://ref.ly/Acts1:16-Acts1:26\">Acts 1:16–26</a></p>",
 "associations": {
 "passage": [
 {
@@ -4058,16 +3896,7 @@
 "end_ref_usfm": "ACT 1:26"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Judas.2",
-"type": "person",
-"confidence": 0.7179,
-"match_method": "scored",
-"preferred_label": "Judas"
-}
-]
+"resource": []
 }
 }
 ]

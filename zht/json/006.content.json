@@ -198,16 +198,7 @@
 "end_ref_usfm": "MAT 27:65"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Pilate",
-"type": "person",
-"confidence": 0.7709,
-"match_method": "scored",
-"preferred_label": "Pilate"
-}
-]
+"resource": []
 }
 }
 ]

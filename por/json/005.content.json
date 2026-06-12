@@ -98,22 +98,6 @@
 "label": "Colossenses",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "place:Ephesus",
-"type": "place",
-"confidence": 0.6605,
-"match_method": "scored",
-"preferred_label": "Éfeso"
-},
-{
-"id": "group:Ephesus",
-"type": "group",
-"confidence": 0.614,
-"match_method": "scored",
-"preferred_label": "Ephesians"
-}
 ]
 }
 },
@@ -244,23 +228,7 @@
 "end_ref_usfm": "JER 43:13"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Egypt",
-"type": "place",
-"confidence": 0.7031,
-"match_method": "scored",
-"preferred_label": "Egito"
-},
-{
-"id": "place:Syene",
-"type": "place",
-"confidence": 0.6004,
-"match_method": "scored",
-"preferred_label": "Sinim"
-}
-]
+"resource": []
 }
 },
 {
@@ -390,16 +358,7 @@
 "end_ref_usfm": "NUM 20:26"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Eleazar.2",
-"type": "person",
-"confidence": 0.6884,
-"match_method": "scored",
-"preferred_label": "Eleazar"
-}
-]
+"resource": []
 }
 },
 {
@@ -493,23 +452,7 @@
 "end_ref_usfm": "1SA 4:22"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Eli",
-"type": "person",
-"confidence": 0.7302,
-"match_method": "scored",
-"preferred_label": "Eli"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.6779,
-"match_method": "scored",
-"preferred_label": "SENHOR"
-}
-]
+"resource": []
 }
 },
 {
@@ -753,16 +696,7 @@
 "end_ref_usfm": "ROM 11:6"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Elijah",
-"type": "person",
-"confidence": 0.6771,
-"match_method": "scored",
-"preferred_label": "Elias"
-}
-]
+"resource": []
 }
 },
 {
@@ -904,16 +838,7 @@
 "end_ref_usfm": "2KI 13:21"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Elisha",
-"type": "person",
-"confidence": 0.6646,
-"match_method": "scored",
-"preferred_label": "Eliseu"
-}
-]
+"resource": []
 }
 },
 {
@@ -1105,22 +1030,6 @@
 "label": "Gênesis 25.25",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "person:Esau",
-"type": "person",
-"confidence": 0.7326,
-"match_method": "scored",
-"preferred_label": "Esaú"
-},
-{
-"id": "place:Edom",
-"type": "place",
-"confidence": 0.6622,
-"match_method": "scored",
-"preferred_label": "Edom"
-}
 ]
 }
 },
@@ -1287,23 +1196,7 @@
 "end_ref_usfm": "NEH 8:18"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Ezra",
-"type": "person",
-"confidence": 0.6607,
-"match_method": "scored",
-"preferred_label": "Ezra"
-},
-{
-"id": "person:Ezra.2",
-"type": "person",
-"confidence": 0.6028,
-"match_method": "scored",
-"preferred_label": "Ezra"
-}
-]
+"resource": []
 }
 },
 {
@@ -1355,16 +1248,7 @@
 "end_ref_usfm": "EST 9:32"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Esther",
-"type": "person",
-"confidence": 0.695,
-"match_method": "scored",
-"preferred_label": "Ester"
-}
-]
+"resource": []
 }
 },
 {
@@ -1518,16 +1402,7 @@
 "end_ref_usfm": "ACT 8:2"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Stephen",
-"type": "person",
-"confidence": 0.6315,
-"match_method": "scored",
-"preferred_label": "Estevão"
-}
-]
+"resource": []
 }
 },
 {
@@ -1603,16 +1478,7 @@
 "end_ref_usfm": "2CH 32:33"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Hezekiah",
-"type": "person",
-"confidence": 0.7342,
-"match_method": "scored",
-"preferred_label": "Ezequias"
-}
-]
+"resource": []
 }
 },
 {
@@ -1664,16 +1530,7 @@
 "end_ref_usfm": "EZK 4:7"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Ezekiel",
-"type": "person",
-"confidence": 0.6138,
-"match_method": "scored",
-"preferred_label": "Ezequiel"
-}
-]
+"resource": []
 }
 }
 ]

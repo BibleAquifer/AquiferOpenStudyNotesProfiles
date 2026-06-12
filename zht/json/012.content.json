@@ -90,30 +90,7 @@
 "end_ref_usfm": "EXO 15:21"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Pharaoh.6",
-"type": "person",
-"confidence": 0.6921,
-"match_method": "scored",
-"preferred_label": "Pharaoh"
-},
-{
-"id": "person:Pharaoh.4",
-"type": "person",
-"confidence": 0.6246,
-"match_method": "scored",
-"preferred_label": "Pharaoh"
-},
-{
-"id": "person:Pharaoh.5",
-"type": "person",
-"confidence": 0.6041,
-"match_method": "scored",
-"preferred_label": "Pharaoh"
-}
-]
+"resource": []
 }
 },
 {
@@ -465,16 +442,7 @@
 "end_ref_usfm": "PHP 3:7"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "group:Pharisee",
-"type": "group",
-"confidence": 0.6331,
-"match_method": "scored",
-"preferred_label": "Pharisees"
-}
-]
+"resource": []
 }
 }
 ]

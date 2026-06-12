@@ -108,8 +108,7 @@
 "end_ref_usfm": "ACT 8:1"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -269,8 +268,7 @@
 "end_ref_usfm": "MAT 28:20"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -382,23 +380,7 @@
 "end_ref_usfm": "PSA 83:8"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Amalek",
-"type": "place",
-"confidence": 0.6293,
-"match_method": "scored",
-"preferred_label": "Ameleque"
-},
-{
-"id": "group:Amalek",
-"type": "group",
-"confidence": 0.5797,
-"match_method": "scored",
-"preferred_label": "Amalekites"
-}
-]
+"resource": []
 }
 },
 {
@@ -750,16 +732,7 @@
 "end_ref_usfm": "PHP 3:7"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "group:Pharisee",
-"type": "group",
-"confidence": 0.6331,
-"match_method": "scored",
-"preferred_label": "Pharisees"
-}
-]
+"resource": []
 }
 },
 {
@@ -967,16 +940,7 @@
 "end_ref_usfm": "2CH 28:19"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "group:Philistine",
-"type": "group",
-"confidence": 0.6944,
-"match_method": "scored",
-"preferred_label": "Filisteu"
-}
-]
+"resource": []
 }
 },
 {
@@ -998,16 +962,7 @@
 "end_ref_usfm": "DAN 8:8"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "fauna:Lamb",
-"type": "fauna",
-"confidence": 0.58,
-"match_method": "scored",
-"preferred_label": "Sheep"
-}
-]
+"resource": []
 }
 },
 {
@@ -1047,8 +1002,7 @@
 "end_ref_usfm": "EZR 4:7"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1148,16 +1102,7 @@
 "end_ref_usfm": "1KI 1:48"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "group:Sadducee",
-"type": "group",
-"confidence": 0.5865,
-"match_method": "scored",
-"preferred_label": "Sadducees"
-}
-]
+"resource": []
 }
 }
 ]

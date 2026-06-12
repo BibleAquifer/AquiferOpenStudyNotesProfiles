@@ -66,16 +66,7 @@
 "end_ref_usfm": "1CH 10:14"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Saul.2",
-"type": "person",
-"confidence": 0.7601,
-"match_method": "scored",
-"preferred_label": "Saul"
-}
-]
+"resource": []
 }
 }
 ]

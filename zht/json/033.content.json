@@ -390,16 +390,7 @@
 "end_ref_usfm": "ACT 18:26"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:John",
-"type": "person",
-"confidence": 0.7262,
-"match_method": "scored",
-"preferred_label": "John"
-}
-]
+"resource": []
 }
 }
 ]

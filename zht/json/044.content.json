@@ -162,30 +162,7 @@
 "end_ref_usfm": "1CH 2:4"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Judah.4",
-"type": "person",
-"confidence": 0.7014,
-"match_method": "scored",
-"preferred_label": "Judah"
-},
-{
-"id": "person:Judah.3",
-"type": "person",
-"confidence": 0.6027,
-"match_method": "scored",
-"preferred_label": "Judah"
-},
-{
-"id": "person:Joda",
-"type": "person",
-"confidence": 0.5532,
-"match_method": "scored",
-"preferred_label": "Joda"
-}
-]
+"resource": []
 }
 },
 {
@@ -387,16 +364,7 @@
 "end_ref_usfm": "ACT 26:11"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.6076,
-"match_method": "scored",
-"preferred_label": "Judea"
-}
-]
+"resource": []
 }
 },
 {
@@ -508,8 +476,7 @@
 "end_ref_usfm": "ACT 8:1"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

@@ -312,8 +312,7 @@
 "end_ref_usfm": "ACT 8:25"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1019,16 +1018,7 @@
 "end_ref_usfm": "GAL 2:16"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Peter",
-"type": "person",
-"confidence": 0.6823,
-"match_method": "scored",
-"preferred_label": "Peter"
-}
-]
+"resource": []
 }
 },
 {
@@ -1086,8 +1076,7 @@
 "end_ref_usfm": "DAN 11:39"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1109,16 +1098,7 @@
 "end_ref_usfm": "DAN 8:8"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "fauna:Lamb",
-"type": "fauna",
-"confidence": 0.58,
-"match_method": "scored",
-"preferred_label": "Sheep"
-}
-]
+"resource": []
 }
 },
 {
@@ -1248,16 +1228,7 @@
 "end_ref_usfm": "LUK 23:11"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Herod.2",
-"type": "person",
-"confidence": 0.7725,
-"match_method": "scored",
-"preferred_label": "Herod Antipas"
-}
-]
+"resource": []
 }
 },
 {
@@ -1279,8 +1250,7 @@
 "end_ref_usfm": "ACT 26:32"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1314,16 +1284,7 @@
 "end_ref_usfm": "ACT 12:23"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Herod.3",
-"type": "person",
-"confidence": 0.72,
-"match_method": "scored",
-"preferred_label": "Herod"
-}
-]
+"resource": []
 }
 },
 {
@@ -1399,16 +1360,7 @@
 "end_ref_usfm": "2CH 32:33"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Hezekiah",
-"type": "person",
-"confidence": 0.7342,
-"match_method": "scored",
-"preferred_label": "Hezekiah"
-}
-]
+"resource": []
 }
 }
 ]

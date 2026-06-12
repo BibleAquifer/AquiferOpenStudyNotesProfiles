@@ -150,16 +150,7 @@
 "end_ref_usfm": "GEN 27:46"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Rebekah",
-"type": "person",
-"confidence": 0.687,
-"match_method": "scored",
-"preferred_label": "Rebekah"
-}
-]
+"resource": []
 }
 },
 {
@@ -301,16 +292,7 @@
 "end_ref_usfm": "GEN 46:15"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Leah",
-"type": "person",
-"confidence": 0.6855,
-"match_method": "scored",
-"preferred_label": "Leah"
-}
-]
+"resource": []
 }
 }
 ]

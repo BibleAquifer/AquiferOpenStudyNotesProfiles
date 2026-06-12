@@ -324,16 +324,7 @@
 "end_ref_usfm": "2TH 2:12"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "deity:Satan",
-"type": "deity",
-"confidence": 0.7138,
-"match_method": "scored",
-"preferred_label": "ٱلشَّيْطَان"
-}
-]
+"resource": []
 }
 },
 {
@@ -403,16 +394,7 @@
 "end_ref_usfm": "1CH 10:14"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Saul.2",
-"type": "person",
-"confidence": 0.7601,
-"match_method": "scored",
-"preferred_label": "شَاولَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -488,16 +470,7 @@
 "end_ref_usfm": "JDG 16:31"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Samson",
-"type": "person",
-"confidence": 0.7178,
-"match_method": "scored",
-"preferred_label": "شَمْشونَ"
-}
-]
+"resource": []
 }
 }
 ]

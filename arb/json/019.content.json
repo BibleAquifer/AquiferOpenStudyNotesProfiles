@@ -204,16 +204,7 @@
 "end_ref_usfm": "EZK 30:11"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Nebuchadnezzar",
-"type": "person",
-"confidence": 0.64,
-"match_method": "scored",
-"preferred_label": "نَبوخَذْنَاصَّر"
-}
-]
+"resource": []
 }
 },
 {
@@ -313,30 +304,7 @@
 "end_ref_usfm": "NEH 13:31"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Nehemiah.2",
-"type": "person",
-"confidence": 0.6057,
-"match_method": "scored",
-"preferred_label": "نَحَمْيَا"
-},
-{
-"id": "person:Nehemiah",
-"type": "person",
-"confidence": 0.6011,
-"match_method": "scored",
-"preferred_label": "نَحَمْيَا"
-},
-{
-"id": "person:Nehemiah.3",
-"type": "person",
-"confidence": 0.6011,
-"match_method": "scored",
-"preferred_label": "نَحَمْيَا"
-}
-]
+"resource": []
 }
 },
 {
@@ -472,16 +440,7 @@
 "end_ref_usfm": "1PE 3:21"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Noah",
-"type": "person",
-"confidence": 0.7235,
-"match_method": "scored",
-"preferred_label": "نوحٌ"
-}
-]
+"resource": []
 }
 },
 {
@@ -551,15 +510,6 @@
 "label": "رؤيا 17: 8",
 "language": "arb"
 }
-],
-"acai": [
-{
-"id": "person:Nero",
-"type": "person",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Nero"
-}
 ]
 }
 },
@@ -612,16 +562,7 @@
 "end_ref_usfm": "JHN 3:9"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Nicodemus",
-"type": "person",
-"confidence": 0.7333,
-"match_method": "scored",
-"preferred_label": "نِيقودِيموس"
-}
-]
+"resource": []
 }
 }
 ]

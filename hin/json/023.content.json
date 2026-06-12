@@ -198,16 +198,7 @@
 "end_ref_usfm": "1SA 16:13"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Samuel",
-"type": "person",
-"confidence": 0.7249,
-"match_method": "scored",
-"preferred_label": "शमूएल"
-}
-]
+"resource": []
 }
 },
 {
@@ -913,16 +904,7 @@
 "end_ref_usfm": "GAL 2:16"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Peter",
-"type": "person",
-"confidence": 0.6823,
-"match_method": "scored",
-"preferred_label": "पतरस"
-}
-]
+"resource": []
 }
 },
 {
@@ -992,16 +974,7 @@
 "end_ref_usfm": "1CH 10:14"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Saul.2",
-"type": "person",
-"confidence": 0.7601,
-"match_method": "scored",
-"preferred_label": "शाऊल"
-}
-]
+"resource": []
 }
 },
 {
@@ -1077,16 +1050,7 @@
 "end_ref_usfm": "JDG 16:31"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Samson",
-"type": "person",
-"confidence": 0.7178,
-"match_method": "scored",
-"preferred_label": "शिमशोन"
-}
-]
+"resource": []
 }
 },
 {
@@ -1414,16 +1378,7 @@
 "end_ref_usfm": "2TH 2:12"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "deity:Satan",
-"type": "deity",
-"confidence": 0.7138,
-"match_method": "scored",
-"preferred_label": "शैतान"
-}
-]
+"resource": []
 }
 }
 ]

@@ -150,23 +150,7 @@
 "end_ref_usfm": "1KI 1:53"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Zadok.2",
-"type": "person",
-"confidence": 0.6813,
-"match_method": "scored",
-"preferred_label": "Sadoc"
-},
-{
-"id": "person:Zadok.4",
-"type": "person",
-"confidence": 0.6065,
-"match_method": "scored",
-"preferred_label": "Sadoc"
-}
-]
+"resource": []
 }
 },
 {
@@ -296,16 +280,7 @@
 "end_ref_usfm": "1KI 4:34"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Solomon",
-"type": "person",
-"confidence": 0.7211,
-"match_method": "scored",
-"preferred_label": "Salomón"
-}
-]
+"resource": []
 }
 },
 {
@@ -345,16 +320,7 @@
 "end_ref_usfm": "2KI 17:41"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "group:Samaritan",
-"type": "group",
-"confidence": 0.6176,
-"match_method": "scored",
-"preferred_label": "Simrat"
-}
-]
+"resource": []
 }
 },
 {
@@ -556,16 +522,7 @@
 "end_ref_usfm": "1SA 16:13"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Samuel",
-"type": "person",
-"confidence": 0.7249,
-"match_method": "scored",
-"preferred_label": "Samuel"
-}
-]
+"resource": []
 }
 },
 {
@@ -641,16 +598,7 @@
 "end_ref_usfm": "JDG 16:31"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Samson",
-"type": "person",
-"confidence": 0.7178,
-"match_method": "scored",
-"preferred_label": "Samsón"
-}
-]
+"resource": []
 }
 },
 {
@@ -834,16 +782,7 @@
 "end_ref_usfm": "ROM 9:9"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Sarah",
-"type": "person",
-"confidence": 0.7007,
-"match_method": "scored",
-"preferred_label": "Sara"
-}
-]
+"resource": []
 }
 },
 {
@@ -1171,16 +1110,7 @@
 "end_ref_usfm": "2TH 2:12"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "deity:Satan",
-"type": "deity",
-"confidence": 0.7138,
-"match_method": "scored",
-"preferred_label": "Satanás"
-}
-]
+"resource": []
 }
 },
 {
@@ -1250,16 +1180,7 @@
 "end_ref_usfm": "1CH 10:14"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Saul.2",
-"type": "person",
-"confidence": 0.7601,
-"match_method": "scored",
-"preferred_label": "Saúl"
-}
-]
+"resource": []
 }
 },
 {
@@ -1965,16 +1886,7 @@
 "end_ref_usfm": "GAL 2:16"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Peter",
-"type": "person",
-"confidence": 0.6823,
-"match_method": "scored",
-"preferred_label": "Pedro"
-}
-]
+"resource": []
 }
 }
 ]

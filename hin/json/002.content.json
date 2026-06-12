@@ -294,8 +294,7 @@
 "end_ref_usfm": "HOS 6:7"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -365,16 +364,7 @@
 "end_ref_usfm": "2CH 16:14"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Asa",
-"type": "person",
-"confidence": 0.8092,
-"match_method": "scored",
-"preferred_label": "आसा"
-}
-]
+"resource": []
 }
 },
 {
@@ -456,16 +446,7 @@
 "end_ref_usfm": "2CH 28:27"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Ahaz",
-"type": "person",
-"confidence": 0.7,
-"match_method": "scored",
-"preferred_label": "आहाज"
-}
-]
+"resource": []
 }
 }
 ]

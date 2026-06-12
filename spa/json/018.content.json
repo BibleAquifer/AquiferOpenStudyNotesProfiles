@@ -90,16 +90,7 @@
 "end_ref_usfm": "2CH 26:3"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Uzziah",
-"type": "person",
-"confidence": 0.8162,
-"match_method": "scored",
-"preferred_label": "Uzzías"
-}
-]
+"resource": []
 }
 }
 ]

@@ -138,16 +138,7 @@
 "end_ref_usfm": "GEN 46:15"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Leah",
-"type": "person",
-"confidence": 0.6855,
-"match_method": "scored",
-"preferred_label": "Lia"
-}
-]
+"resource": []
 }
 },
 {
@@ -349,16 +340,7 @@
 "end_ref_usfm": "ACT 26:11"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.6076,
-"match_method": "scored",
-"preferred_label": "Judeia"
-}
-]
+"resource": []
 }
 },
 {
@@ -482,16 +464,7 @@
 "end_ref_usfm": "LUK 17:33"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Lot",
-"type": "person",
-"confidence": 0.7374,
-"match_method": "scored",
-"preferred_label": "Ló"
-}
-]
+"resource": []
 }
 },
 {
@@ -567,16 +540,7 @@
 "end_ref_usfm": "ACT 1:5"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Luke",
-"type": "person",
-"confidence": 0.6857,
-"match_method": "scored",
-"preferred_label": "Lucas"
-}
-]
+"resource": []
 }
 }
 ]

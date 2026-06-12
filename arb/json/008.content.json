@@ -198,16 +198,7 @@
 "end_ref_usfm": "ACT 26:11"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.6076,
-"match_method": "scored",
-"preferred_label": "يَهوذَا"
-}
-]
+"resource": []
 }
 }
 ]

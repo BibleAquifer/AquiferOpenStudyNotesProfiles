@@ -96,16 +96,7 @@
 "end_ref_usfm": "1KI 1:48"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "group:Sadducee",
-"type": "group",
-"confidence": 0.5865,
-"match_method": "scored",
-"preferred_label": "Sadducees"
-}
-]
+"resource": []
 }
 },
 {
@@ -259,23 +250,7 @@
 "end_ref_usfm": "1KI 1:53"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Zadok.2",
-"type": "person",
-"confidence": 0.6813,
-"match_method": "scored",
-"preferred_label": "صَادوق"
-},
-{
-"id": "person:Zadok.4",
-"type": "person",
-"confidence": 0.6065,
-"match_method": "scored",
-"preferred_label": "صَادوق"
-}
-]
+"resource": []
 }
 },
 {
@@ -477,16 +452,7 @@
 "end_ref_usfm": "1SA 16:13"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Samuel",
-"type": "person",
-"confidence": 0.7249,
-"match_method": "scored",
-"preferred_label": "صَموئِيلَ"
-}
-]
+"resource": []
 }
 }
 ]

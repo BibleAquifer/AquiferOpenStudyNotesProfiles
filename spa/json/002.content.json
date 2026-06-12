@@ -108,37 +108,7 @@
 "end_ref_usfm": "REV 18:21"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:Babylon",
-"type": "place",
-"confidence": 0.6782,
-"match_method": "scored",
-"preferred_label": "Babilonia"
-},
-{
-"id": "place:Shinar",
-"type": "place",
-"confidence": 0.6044,
-"match_method": "scored",
-"preferred_label": "Shinar"
-},
-{
-"id": "place:Babylonia",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Babylonia"
-},
-{
-"id": "place:Babylon.2",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Babylon"
-}
-]
+"resource": []
 }
 },
 {
@@ -264,15 +234,6 @@
 "label": "Números 22:5-6",
 "language": "spa"
 }
-],
-"acai": [
-{
-"id": "person:Balaam",
-"type": "person",
-"confidence": 0.7806,
-"match_method": "scored",
-"preferred_label": "Balaam"
-}
 ]
 }
 },
@@ -385,16 +346,7 @@
 "end_ref_usfm": "JER 36:32"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Baruch.4",
-"type": "person",
-"confidence": 0.6777,
-"match_method": "scored",
-"preferred_label": "Baruch"
-}
-]
+"resource": []
 }
 },
 {
@@ -512,16 +464,7 @@
 "end_ref_usfm": "1KI 2:25"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Bathsheba",
-"type": "person",
-"confidence": 0.628,
-"match_method": "scored",
-"preferred_label": "Bath-sheba"
-}
-]
+"resource": []
 }
 },
 {
@@ -639,23 +582,7 @@
 "end_ref_usfm": "GAL 2:14"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Barnabas",
-"type": "person",
-"confidence": 0.6611,
-"match_method": "scored",
-"preferred_label": "Bernabé"
-},
-{
-"id": "person:Judas.5",
-"type": "person",
-"confidence": 0.5536,
-"match_method": "scored",
-"preferred_label": "Judas"
-}
-]
+"resource": []
 }
 }
 ]
