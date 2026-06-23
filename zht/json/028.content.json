@@ -132,7 +132,16 @@
 "end_ref_usfm": "1PE 3:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Noah",
+"type": "person",
+"confidence": 0.7235,
+"match_method": "scored",
+"preferred_label": "Noah"
+}
+]
 }
 }
 ]

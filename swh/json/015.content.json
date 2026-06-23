@@ -150,7 +150,23 @@
 "end_ref_usfm": "1KI 1:53"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Zadok.2",
+"type": "person",
+"confidence": 0.6813,
+"match_method": "scored",
+"preferred_label": "Sadoki"
+},
+{
+"id": "person:Zadok.4",
+"type": "person",
+"confidence": 0.6065,
+"match_method": "scored",
+"preferred_label": "Sadoki"
+}
+]
 }
 },
 {
@@ -226,7 +242,16 @@
 "end_ref_usfm": "JDG 16:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Samson",
+"type": "person",
+"confidence": 0.7178,
+"match_method": "scored",
+"preferred_label": "Samsoni"
+}
+]
 }
 },
 {
@@ -428,7 +453,16 @@
 "end_ref_usfm": "1SA 16:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Samuel",
+"type": "person",
+"confidence": 0.7249,
+"match_method": "scored",
+"preferred_label": "Samweli"
+}
+]
 }
 },
 {
@@ -612,7 +646,16 @@
 "end_ref_usfm": "ROM 9:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.7007,
+"match_method": "scored",
+"preferred_label": "Sara"
+}
+]
 }
 },
 {
@@ -682,7 +725,16 @@
 "end_ref_usfm": "1CH 10:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 0.7601,
+"match_method": "scored",
+"preferred_label": "Sauli"
+}
+]
 }
 },
 {
@@ -1010,7 +1062,16 @@
 "end_ref_usfm": "2TH 2:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 0.7138,
+"match_method": "scored",
+"preferred_label": "Shetani"
+}
+]
 }
 },
 {
@@ -1716,7 +1777,16 @@
 "end_ref_usfm": "GAL 2:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.6823,
+"match_method": "scored",
+"preferred_label": "Petro"
+}
+]
 }
 },
 {
@@ -1846,7 +1916,16 @@
 "end_ref_usfm": "1KI 4:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.7211,
+"match_method": "scored",
+"preferred_label": "Sulemani"
+}
+]
 }
 },
 {
@@ -2000,7 +2079,16 @@
 "end_ref_usfm": "ACT 8:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Stephen",
+"type": "person",
+"confidence": 0.6315,
+"match_method": "scored",
+"preferred_label": "Stefano"
+}
+]
 }
 }
 ]

@@ -312,7 +312,8 @@
 "end_ref_usfm": "ACT 8:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -376,7 +377,16 @@
 "end_ref_usfm": "HAG 2:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Zerubbabel.2",
+"type": "person",
+"confidence": 0.6404,
+"match_method": "scored",
+"preferred_label": "जरूब्बाबेल"
+}
+]
 }
 }
 ]

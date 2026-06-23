@@ -108,7 +108,23 @@
 "end_ref_usfm": "PSA 83:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.6293,
+"match_method": "scored",
+"preferred_label": "Amaleki"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 0.5797,
+"match_method": "scored",
+"preferred_label": "Amalekites"
+}
+]
 }
 },
 {
@@ -334,7 +350,23 @@
 "end_ref_usfm": "2KI 16:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Aramean",
+"type": "group",
+"confidence": 0.6072,
+"match_method": "scored",
+"preferred_label": "Arameans"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 0.5828,
+"match_method": "scored",
+"preferred_label": "Padan-aramu"
+}
+]
 }
 },
 {
@@ -392,7 +424,8 @@
 "end_ref_usfm": "REV 17:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -600,7 +633,16 @@
 "end_ref_usfm": "2CH 28:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.6944,
+"match_method": "scored",
+"preferred_label": "Wafilisti"
+}
+]
 }
 },
 {
@@ -622,7 +664,16 @@
 "end_ref_usfm": "DAN 8:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.58,
+"match_method": "scored",
+"preferred_label": "Sheep"
+}
+]
 }
 },
 {
@@ -722,7 +773,23 @@
 "end_ref_usfm": "GEN 23:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.6685,
+"match_method": "scored",
+"preferred_label": "Mhiti"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.6609,
+"match_method": "scored",
+"preferred_label": "Hittites"
+}
+]
 }
 },
 {
@@ -762,7 +829,8 @@
 "end_ref_usfm": "EZR 4:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -970,7 +1038,8 @@
 "end_ref_usfm": "JHN 12:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1010,7 +1079,16 @@
 "end_ref_usfm": "2KI 17:41"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Samaritan",
+"type": "group",
+"confidence": 0.6176,
+"match_method": "scored",
+"preferred_label": "Samaritans"
+}
+]
 }
 }
 ]

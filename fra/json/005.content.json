@@ -126,7 +126,23 @@
 "end_ref_usfm": "JER 43:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.7031,
+"match_method": "scored",
+"preferred_label": "Égypte"
+},
+{
+"id": "place:Syene",
+"type": "place",
+"confidence": 0.6004,
+"match_method": "scored",
+"preferred_label": "Syène"
+}
+]
 }
 },
 {
@@ -256,7 +272,16 @@
 "end_ref_usfm": "NUM 20:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Eleazar.2",
+"type": "person",
+"confidence": 0.6884,
+"match_method": "scored",
+"preferred_label": "Éléazar"
+}
+]
 }
 },
 {
@@ -350,7 +375,23 @@
 "end_ref_usfm": "1SA 4:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Eli",
+"type": "person",
+"confidence": 0.7302,
+"match_method": "scored",
+"preferred_label": "Éli"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6779,
+"match_method": "scored",
+"preferred_label": "Éternel"
+}
+]
 }
 },
 {
@@ -594,7 +635,16 @@
 "end_ref_usfm": "ROM 11:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 0.6771,
+"match_method": "scored",
+"preferred_label": "Élie"
+}
+]
 }
 },
 {
@@ -736,7 +786,16 @@
 "end_ref_usfm": "2KI 13:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Elisha",
+"type": "person",
+"confidence": 0.6646,
+"match_method": "scored",
+"preferred_label": "Élisée"
+}
+]
 }
 },
 {
@@ -794,7 +853,8 @@
 "end_ref_usfm": "REV 17:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -895,6 +955,22 @@
 "resource_code": "TyndaleStudyNotesBookIntros",
 "label": "Colossiens",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Ephesus",
+"type": "place",
+"confidence": 0.6605,
+"match_method": "scored",
+"preferred_label": "Éphèse"
+},
+{
+"id": "group:Ephesus",
+"type": "group",
+"confidence": 0.614,
+"match_method": "scored",
+"preferred_label": "Éphésiens"
 }
 ]
 }
@@ -1110,7 +1186,16 @@
 "end_ref_usfm": "ROM 10:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 0.6154,
+"match_method": "scored",
+"preferred_label": "Ésaïe"
+}
+]
 }
 },
 {
@@ -1302,6 +1387,22 @@
 "label": "Genèse 25.25",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 0.7326,
+"match_method": "scored",
+"preferred_label": "Ésaü"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.6622,
+"match_method": "scored",
+"preferred_label": "Édom"
+}
 ]
 }
 },
@@ -1468,7 +1569,23 @@
 "end_ref_usfm": "NEH 8:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Ezra",
+"type": "person",
+"confidence": 0.6607,
+"match_method": "scored",
+"preferred_label": "Esdras"
+},
+{
+"id": "person:Ezra.2",
+"type": "person",
+"confidence": 0.6028,
+"match_method": "scored",
+"preferred_label": "Esdras"
+}
+]
 }
 },
 {
@@ -1520,7 +1637,16 @@
 "end_ref_usfm": "EST 9:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Esther",
+"type": "person",
+"confidence": 0.695,
+"match_method": "scored",
+"preferred_label": "Esther"
+}
+]
 }
 },
 {
@@ -1674,7 +1800,16 @@
 "end_ref_usfm": "ACT 8:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Stephen",
+"type": "person",
+"confidence": 0.6315,
+"match_method": "scored",
+"preferred_label": "Étienne"
+}
+]
 }
 },
 {
@@ -1750,7 +1885,16 @@
 "end_ref_usfm": "2CH 32:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Hezekiah",
+"type": "person",
+"confidence": 0.7342,
+"match_method": "scored",
+"preferred_label": "Ézéchias"
+}
+]
 }
 },
 {
@@ -1802,7 +1946,16 @@
 "end_ref_usfm": "EZK 4:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Ezekiel",
+"type": "person",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "Ézéchiel"
+}
+]
 }
 }
 ]

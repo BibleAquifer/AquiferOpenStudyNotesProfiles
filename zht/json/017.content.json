@@ -198,7 +198,16 @@
 "end_ref_usfm": "ACT 1:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 0.7179,
+"match_method": "scored",
+"preferred_label": "Judas"
+}
+]
 }
 },
 {
@@ -346,7 +355,16 @@
 "end_ref_usfm": "JOS 15:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Caleb",
+"type": "person",
+"confidence": 0.6926,
+"match_method": "scored",
+"preferred_label": "Caleb"
+}
+]
 }
 }
 ]

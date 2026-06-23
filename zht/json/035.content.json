@@ -60,7 +60,16 @@
 "end_ref_usfm": "HAG 2:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Zerubbabel.2",
+"type": "person",
+"confidence": 0.6404,
+"match_method": "scored",
+"preferred_label": "Zerubbabel"
+}
+]
 }
 },
 {
@@ -190,7 +199,16 @@
 "end_ref_usfm": "1KI 4:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.7211,
+"match_method": "scored",
+"preferred_label": "Solomon"
+}
+]
 }
 }
 ]

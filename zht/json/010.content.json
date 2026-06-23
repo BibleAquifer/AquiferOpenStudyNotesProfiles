@@ -42,7 +42,16 @@
 "end_ref_usfm": "JDG 5:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Deborah.2",
+"type": "person",
+"confidence": 0.6655,
+"match_method": "scored",
+"preferred_label": "Deborah"
+}
+]
 }
 }
 ]

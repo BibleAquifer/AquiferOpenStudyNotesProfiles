@@ -96,7 +96,23 @@
 "end_ref_usfm": "GEN 23:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.6685,
+"match_method": "scored",
+"preferred_label": "حِثًّا"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.6609,
+"match_method": "scored",
+"preferred_label": "Hittites"
+}
+]
 }
 },
 {
@@ -172,7 +188,16 @@
 "end_ref_usfm": "2CH 32:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Hezekiah",
+"type": "person",
+"confidence": 0.7342,
+"match_method": "scored",
+"preferred_label": "حَزَقِيَّا"
+}
+]
 }
 },
 {
@@ -224,7 +249,16 @@
 "end_ref_usfm": "EZK 4:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Ezekiel",
+"type": "person",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "حِزْقِيَالَ"
+}
+]
 }
 },
 {
@@ -312,7 +346,8 @@
 "end_ref_usfm": "JHN 18:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

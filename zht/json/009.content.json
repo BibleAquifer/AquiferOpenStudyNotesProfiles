@@ -132,7 +132,16 @@
 "end_ref_usfm": "DAN 12:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Daniel.3",
+"type": "person",
+"confidence": 0.6763,
+"match_method": "scored",
+"preferred_label": "Daniel"
+}
+]
 }
 }
 ]

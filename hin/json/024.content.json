@@ -96,7 +96,16 @@
 "end_ref_usfm": "1KI 1:48"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Sadducee",
+"type": "group",
+"confidence": 0.5865,
+"match_method": "scored",
+"preferred_label": "सदूकी"
+}
+]
 }
 },
 {
@@ -250,7 +259,23 @@
 "end_ref_usfm": "1KI 1:53"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Zadok.2",
+"type": "person",
+"confidence": 0.6813,
+"match_method": "scored",
+"preferred_label": "सादोक"
+},
+{
+"id": "person:Zadok.4",
+"type": "person",
+"confidence": 0.6065,
+"match_method": "scored",
+"preferred_label": "सादोक"
+}
+]
 }
 },
 {
@@ -290,7 +315,16 @@
 "end_ref_usfm": "2KI 17:41"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Samaritan",
+"type": "group",
+"confidence": 0.6176,
+"match_method": "scored",
+"preferred_label": "सामरी"
+}
+]
 }
 },
 {
@@ -474,7 +508,16 @@
 "end_ref_usfm": "ROM 9:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.7007,
+"match_method": "scored",
+"preferred_label": "सारा"
+}
+]
 }
 },
 {
@@ -604,7 +647,16 @@
 "end_ref_usfm": "1KI 4:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.7211,
+"match_method": "scored",
+"preferred_label": "सुलैमान"
+}
+]
 }
 }
 ]

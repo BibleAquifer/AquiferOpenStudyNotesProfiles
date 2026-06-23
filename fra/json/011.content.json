@@ -18,7 +18,16 @@
 "end_ref_usfm": "DAN 8:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.58,
+"match_method": "scored",
+"preferred_label": "Sheep"
+}
+]
 }
 },
 {
@@ -178,7 +187,8 @@
 "end_ref_usfm": "MAT 28:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -290,7 +300,8 @@
 "end_ref_usfm": "ACT 8:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -432,7 +443,16 @@
 "end_ref_usfm": "GEN 46:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Leah",
+"type": "person",
+"confidence": 0.6855,
+"match_method": "scored",
+"preferred_label": "Léa"
+}
+]
 }
 },
 {
@@ -514,7 +534,8 @@
 "end_ref_usfm": "ACT 28:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -626,7 +647,23 @@
 "end_ref_usfm": "PSA 83:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.6293,
+"match_method": "scored",
+"preferred_label": "Amalek"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 0.5797,
+"match_method": "scored",
+"preferred_label": "Amalekites"
+}
+]
 }
 },
 {
@@ -666,7 +703,8 @@
 "end_ref_usfm": "EZR 4:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1018,7 +1056,16 @@
 "end_ref_usfm": "PHP 3:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.6331,
+"match_method": "scored",
+"preferred_label": "Pharisien"
+}
+]
 }
 },
 {
@@ -1226,7 +1273,16 @@
 "end_ref_usfm": "2CH 28:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.6944,
+"match_method": "scored",
+"preferred_label": "Philistins"
+}
+]
 }
 },
 {
@@ -1326,7 +1382,16 @@
 "end_ref_usfm": "1KI 1:48"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Sadducee",
+"type": "group",
+"confidence": 0.5865,
+"match_method": "scored",
+"preferred_label": "Sadducéens"
+}
+]
 }
 },
 {
@@ -1450,7 +1515,16 @@
 "end_ref_usfm": "LUK 17:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 0.7374,
+"match_method": "scored",
+"preferred_label": "Lot"
+}
+]
 }
 },
 {
@@ -1526,7 +1600,16 @@
 "end_ref_usfm": "ACT 1:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Luke",
+"type": "person",
+"confidence": 0.6857,
+"match_method": "scored",
+"preferred_label": "Luc"
+}
+]
 }
 }
 ]

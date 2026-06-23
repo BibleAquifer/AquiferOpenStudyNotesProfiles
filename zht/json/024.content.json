@@ -36,7 +36,8 @@
 "end_ref_usfm": "EZR 4:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -100,7 +101,23 @@
 "end_ref_usfm": "1SA 18:30"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Michal",
+"type": "person",
+"confidence": 0.7714,
+"match_method": "scored",
+"preferred_label": "Michal"
+},
+{
+"id": "person:Merab",
+"type": "person",
+"confidence": 0.6343,
+"match_method": "scored",
+"preferred_label": "Merab"
+}
+]
 }
 }
 ]

@@ -204,7 +204,16 @@
 "end_ref_usfm": "2CH 28:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.6944,
+"match_method": "scored",
+"preferred_label": "Philistines"
+}
+]
 }
 },
 {
@@ -304,7 +313,23 @@
 "end_ref_usfm": "PHP 4:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Philippi",
+"type": "place",
+"confidence": 0.6339,
+"match_method": "scored",
+"preferred_label": "Philippi"
+},
+{
+"id": "group:Philippi",
+"type": "group",
+"confidence": 0.6068,
+"match_method": "scored",
+"preferred_label": "Philippians"
+}
+]
 }
 },
 {
@@ -476,7 +501,16 @@
 "end_ref_usfm": "ACT 10:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Philip.4",
+"type": "person",
+"confidence": 0.6732,
+"match_method": "scored",
+"preferred_label": "Philip"
+}
+]
 }
 }
 ]

@@ -78,7 +78,16 @@
 "end_ref_usfm": "GEN 16:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Hagar",
+"type": "person",
+"confidence": 0.696,
+"match_method": "scored",
+"preferred_label": "Hajiri"
+}
+]
 }
 },
 {
@@ -112,7 +121,16 @@
 "end_ref_usfm": "ACT 12:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Herod.3",
+"type": "person",
+"confidence": 0.72,
+"match_method": "scored",
+"preferred_label": "Herode"
+}
+]
 }
 },
 {
@@ -134,7 +152,8 @@
 "end_ref_usfm": "ACT 26:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -264,7 +283,16 @@
 "end_ref_usfm": "LUK 23:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 0.7725,
+"match_method": "scored",
+"preferred_label": "Herode"
+}
+]
 }
 },
 {
@@ -298,7 +326,8 @@
 "end_ref_usfm": "MAT 2:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -374,7 +403,16 @@
 "end_ref_usfm": "2CH 32:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Hezekiah",
+"type": "person",
+"confidence": 0.7342,
+"match_method": "scored",
+"preferred_label": "Hezekia"
+}
+]
 }
 }
 ]

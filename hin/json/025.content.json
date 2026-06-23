@@ -150,7 +150,16 @@
 "end_ref_usfm": "ACT 8:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Stephen",
+"type": "person",
+"confidence": 0.6315,
+"match_method": "scored",
+"preferred_label": "स्तिफनुस"
+}
+]
 }
 }
 ]

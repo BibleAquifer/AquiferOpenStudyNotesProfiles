@@ -126,7 +126,23 @@
 "end_ref_usfm": "JER 43:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.7031,
+"match_method": "scored",
+"preferred_label": "Egypt"
+},
+{
+"id": "place:Syene",
+"type": "place",
+"confidence": 0.6004,
+"match_method": "scored",
+"preferred_label": "Syene"
+}
+]
 }
 }
 ]

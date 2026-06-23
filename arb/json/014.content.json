@@ -132,7 +132,16 @@
 "end_ref_usfm": "DAN 12:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Daniel.3",
+"type": "person",
+"confidence": 0.6763,
+"match_method": "scored",
+"preferred_label": "دَانِيآل"
+}
+]
 }
 },
 {
@@ -466,7 +475,16 @@
 "end_ref_usfm": "ACT 13:43"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.685,
+"match_method": "scored",
+"preferred_label": "دَاودَ"
+}
+]
 }
 },
 {
@@ -512,7 +530,16 @@
 "end_ref_usfm": "JDG 5:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Deborah.2",
+"type": "person",
+"confidence": 0.6655,
+"match_method": "scored",
+"preferred_label": "دَبورَة"
+}
+]
 }
 }
 ]

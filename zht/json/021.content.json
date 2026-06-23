@@ -90,7 +90,16 @@
 "end_ref_usfm": "2CH 12:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Rehoboam",
+"type": "person",
+"confidence": 0.7532,
+"match_method": "scored",
+"preferred_label": "Rehoboam"
+}
+]
 }
 },
 {
@@ -214,7 +223,16 @@
 "end_ref_usfm": "LUK 17:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 0.7374,
+"match_method": "scored",
+"preferred_label": "Lot"
+}
+]
 }
 },
 {
@@ -320,7 +338,16 @@
 "end_ref_usfm": "ROM 1:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 0.7164,
+"match_method": "scored",
+"preferred_label": "Rome"
+}
+]
 }
 },
 {
@@ -378,7 +405,8 @@
 "end_ref_usfm": "REV 17:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -460,7 +488,8 @@
 "end_ref_usfm": "ACT 28:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

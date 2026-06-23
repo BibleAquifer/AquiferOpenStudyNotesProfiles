@@ -138,7 +138,16 @@
 "end_ref_usfm": "2CO 7:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Titus",
+"type": "person",
+"confidence": 0.792,
+"match_method": "scored",
+"preferred_label": "Titus"
+}
+]
 }
 },
 {
@@ -364,7 +373,16 @@
 "end_ref_usfm": "2TI 2:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 0.7878,
+"match_method": "scored",
+"preferred_label": "Timothy"
+}
+]
 }
 }
 ]

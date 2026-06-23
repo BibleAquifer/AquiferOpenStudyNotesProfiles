@@ -348,7 +348,16 @@
 "end_ref_usfm": "PHP 3:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.6331,
+"match_method": "scored",
+"preferred_label": "Pharisees"
+}
+]
 }
 },
 {
@@ -363,7 +372,8 @@
 "content": "<p>Wamakabayo, jina linalomaanisha &quot;nyundo,&quot; waliendesha uasi uliofanikiwa dhidi ya Antioko IV kwa sababu aliwatesa Wayahudi. Wao na vizazi vyao, wanaojulikana kama Wahasmonea, walitawala Yudea kwa takriban miaka 100. Walichangia katika kuunda jamii ya Kiyahudi kama ilivyokuwa wakati wa Yesu.</p><h3>Uasi wa Wamakabayo (166–142 KK)</h3><p>Mnamo 167 KK, Antioko IV alifanya kuzingatia Uyahudi kuwa adhabu ya kifo. Wayahudi wengi walitii, huku wengine wakipinga kimya kimya na kupoteza maisha yao. Hivi karibuni, upinzani wa wazi ulianza. Wakati afisa wa Antioko IV alipokuja Modein kuwalazimisha Wayahudi kufanya dhabihu ya kipagani, kuhani mmoja aitwaye Matathia alimuua. Kisha akatangaza, “Kila mtu anayependa sheria ya Mose na anayetaka kufuata agano, aje nami!” (<em>1 Makabayo</em> 2:27). Alikimbilia milimani na wanawe pamoja na wafuasi wengine.</p><p>Matathia, ambaye alikuwa mzee sana, alifariki hivi karibuni. Kabla ya kifo chake, alimteua mwanawe Yuda kuongoza uasi. Yuda alikuwa kiongozi wa kijeshi mwenye ujuzi na motisha. Yeye, ndugu zake, na wafuasi wao walishinda mashambulizi ya Waseleuki na kuikomboa sehemu kubwa ya Yudea. Baada ya kuchukua udhibiti wa Yerusalemu, Yuda na waasi wake walitakasa hekalu na kurejesha dhabihu za kila siku, kuruhusu ibada kuanza tena. Urejeshaji huu na kutakaswa upya uliadhimishwa kama Sherehe ya Uwekaji Wakfu au Nuru (Hanuka). Yuda alipinga uteuzi wa kuhani mkuu aliyekuwa na ushawishi wa utamaduni wa Kigiriki na alitafuta uhuru zaidi wa kisiasa. Alishinda jeshi la Waseleuki lililotumwa kusimamisha uasi, lakini mfalme wa Waseleuki alijibu kwa kutuma jeshi kubwa zaidi. Wanaume wengi wa Yuda walikimbia, na Yuda alikufa katika vita vya Elasa mwaka 160 KK.</p><p>Baada ya Yuda kufariki, Wamakabayo walijipanga upya chini ya uongozi wa mdogo wake Yonathani, mwanasiasa na kamanda mwenye ujuzi. Katika miaka michache iliyofuata, Wamakabayo walirejesha udhibiti wa Yudea. Yonathani alipata ukuhani mkuu na kuunda muungano na Rumi. Hata hivyo, jenerali wa Seleukia Tryphon alimdanganya, akamchukua mateka, na kumuua mwaka 143 KK.</p><p>Ndugu mwingine, Simoni, alikua kiongozi wa Wamakabayo baada ya Yonathani. Mnamo 142 KK, Simoni alifanya mkataba na Mfalme wa Seleucid Demetrio II, na kufanya Yudea kuwa huru. Simoni alihifadhi nafasi ya kuhani mkuu, na ilipitishwa ndani ya familia yake. Mnamo 135 KK, mkwe wa Simoni alimuua.</p><h3>Utawala wa Wahasmonia (142–63 KK)</h3><p>Simoni, mwana wa Matathia, alipokuwa kiongozi wao, Wamakabayo walibadilika kutoka kuwa waasi na kuwa familia inayotawala, inayojulikana kama Wahasmonea. Wahasmonia walipata jina lao kutoka kwa babu wa Matathia, Asmoneus. Familia ya Simoni ilitawala Yudea kwa karibu miaka mia moja.</p><p>Katika kipindi hiki, viongozi wa kisiasa wa Kiyahudi walivutiwa zaidi na utamaduni wa Kigiriki. Wakati huo huo, Mafarisayo walipata umaarufu kwa juhudi zao za kuhifadhi Uyahudi wa jadi. Makundi ya kujitenga kama Waesseni yalijitenga kabisa na jamii ya Kiyahudi. Mwishoni mwa kipindi hiki, mapambano ya madaraka kati ya ndugu wawili, Aristobulo na Hyrcanus II, yalisababisha hali ya kisiasa kutokuwa thabiti. Hali hii iliwapa Warumi fursa ya kuingilia kati, kuleta amani, na kuchukua udhibiti.</p><h3>Utawala wa Kirumi (kuanzia 63 KK)</h3><p>Mwaka wa 63 KK, jenerali wa Kirumi Pompey alifika Yerusalemu, na kufanya Yudea kuwa eneo lililolipa kodi na kudhibitiwa na Rumi. Yudea kisha ilipitia kipindi cha amani kiasi. Mwisho wa utawala wa Hasmonean, watu wa Kiyahudi walimsubiri kiongozi mpya na mwenye nguvu wa kidini, Masihi aliyekuwa akisubiriwa kwa muda mrefu.</p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -511,7 +521,16 @@
 "end_ref_usfm": "2CH 33:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Manasseh.2",
+"type": "person",
+"confidence": 0.75,
+"match_method": "scored",
+"preferred_label": "Manase"
+}
+]
 }
 },
 {
@@ -689,7 +708,8 @@
 "end_ref_usfm": "LUK 2:51"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -771,7 +791,8 @@
 "end_ref_usfm": "JHN 11:53"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -871,7 +892,16 @@
 "end_ref_usfm": "1KI 1:48"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Sadducee",
+"type": "group",
+"confidence": 0.5865,
+"match_method": "scored",
+"preferred_label": "Sadducees"
+}
+]
 }
 },
 {
@@ -959,7 +989,16 @@
 "end_ref_usfm": "MRK 2:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 0.7684,
+"match_method": "scored",
+"preferred_label": "Mathayo"
+}
+]
 }
 },
 {
@@ -1077,7 +1116,16 @@
 "end_ref_usfm": "HEB 7:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Melchizedek",
+"type": "person",
+"confidence": 0.6563,
+"match_method": "scored",
+"preferred_label": "Melkizedeki"
+}
+]
 }
 },
 {
@@ -1141,7 +1189,23 @@
 "end_ref_usfm": "1SA 18:30"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Michal",
+"type": "person",
+"confidence": 0.7714,
+"match_method": "scored",
+"preferred_label": "Mikali"
+},
+{
+"id": "person:Merab",
+"type": "person",
+"confidence": 0.6343,
+"match_method": "scored",
+"preferred_label": "Merabu"
+}
+]
 }
 },
 {
@@ -1271,7 +1335,23 @@
 "end_ref_usfm": "JER 43:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.7031,
+"match_method": "scored",
+"preferred_label": "Misri"
+},
+{
+"id": "place:Syene",
+"type": "place",
+"confidence": 0.6004,
+"match_method": "scored",
+"preferred_label": "Sewene"
+}
+]
 }
 },
 {
@@ -1419,7 +1499,8 @@
 "end_ref_usfm": "2CH 20:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1795,7 +1876,16 @@
 "end_ref_usfm": "HEB 11:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.7112,
+"match_method": "scored",
+"preferred_label": "Musa"
+}
+]
 }
 },
 {
@@ -1955,7 +2045,8 @@
 "end_ref_usfm": "MAT 28:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

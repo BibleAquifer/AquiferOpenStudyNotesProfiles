@@ -116,6 +116,36 @@
 "label": "دانيآل 5: 31",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.6782,
+"match_method": "scored",
+"preferred_label": "بَابِلَ"
+},
+{
+"id": "place:Shinar",
+"type": "place",
+"confidence": 0.6044,
+"match_method": "scored",
+"preferred_label": "شِنْعَارَ"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylonia"
+},
+{
+"id": "place:Babylon.2",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylon"
+}
 ]
 }
 },
@@ -228,7 +258,16 @@
 "end_ref_usfm": "JER 36:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Baruch.4",
+"type": "person",
+"confidence": 0.6777,
+"match_method": "scored",
+"preferred_label": "بَاروخَ"
+}
+]
 }
 },
 {
@@ -346,7 +385,16 @@
 "end_ref_usfm": "1KI 2:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Bathsheba",
+"type": "person",
+"confidence": 0.628,
+"match_method": "scored",
+"preferred_label": "Bathsheba"
+}
+]
 }
 },
 {
@@ -464,7 +512,23 @@
 "end_ref_usfm": "GAL 2:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 0.6611,
+"match_method": "scored",
+"preferred_label": "بَرْنَابَا"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 0.5536,
+"match_method": "scored",
+"preferred_label": "يَهوذَا"
+}
+]
 }
 },
 {
@@ -516,7 +580,16 @@
 "end_ref_usfm": "ACT 18:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Priscilla",
+"type": "person",
+"confidence": 0.589,
+"match_method": "scored",
+"preferred_label": "بِرِيسْكِلَّا"
+}
+]
 }
 },
 {
@@ -641,6 +714,15 @@
 "resource_code": "TyndaleStudyNotes",
 "label": "العدد 22: 5-6",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Balaam",
+"type": "person",
+"confidence": 0.7806,
+"match_method": "scored",
+"preferred_label": "بَلْعَامَ"
 }
 ]
 }
@@ -904,7 +986,16 @@
 "end_ref_usfm": "TIT 3:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.626,
+"match_method": "scored",
+"preferred_label": "بولسَ"
+}
+]
 }
 },
 {
@@ -1106,7 +1197,16 @@
 "end_ref_usfm": "MAT 27:65"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Pilate",
+"type": "person",
+"confidence": 0.7709,
+"match_method": "scored",
+"preferred_label": "بِيلَاطسَ"
+}
+]
 }
 }
 ]

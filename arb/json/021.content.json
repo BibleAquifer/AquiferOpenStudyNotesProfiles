@@ -96,7 +96,16 @@
 "end_ref_usfm": "EXO 18:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Jethro",
+"type": "person",
+"confidence": 0.687,
+"match_method": "scored",
+"preferred_label": "يَثْرونَ"
+}
+]
 }
 },
 {
@@ -214,7 +223,16 @@
 "end_ref_usfm": "2CH 13:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Jeroboam",
+"type": "person",
+"confidence": 0.6226,
+"match_method": "scored",
+"preferred_label": "يَربْعَام"
+}
+]
 }
 },
 {
@@ -284,7 +302,16 @@
 "end_ref_usfm": "2KI 14:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Jeroboam.2",
+"type": "person",
+"confidence": 0.7385,
+"match_method": "scored",
+"preferred_label": "يَربْعَام"
+}
+]
 }
 },
 {
@@ -516,7 +543,16 @@
 "end_ref_usfm": "JDG 2:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 0.6797,
+"match_method": "scored",
+"preferred_label": "يَشوع"
+}
+]
 }
 },
 {
@@ -970,7 +1006,16 @@
 "end_ref_usfm": "HEB 11:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.7403,
+"match_method": "scored",
+"preferred_label": "إِسْرَائِيلَ"
+}
+]
 }
 },
 {
@@ -1244,7 +1289,8 @@
 "end_ref_usfm": "LUK 9:55"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1374,7 +1420,8 @@
 "end_ref_usfm": "JAS 5:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1540,7 +1587,30 @@
 "end_ref_usfm": "1CH 2:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.7014,
+"match_method": "scored",
+"preferred_label": "يَهوذَا"
+},
+{
+"id": "person:Judah.3",
+"type": "person",
+"confidence": 0.6027,
+"match_method": "scored",
+"preferred_label": "يَهوذَا"
+},
+{
+"id": "person:Joda",
+"type": "person",
+"confidence": 0.5532,
+"match_method": "scored",
+"preferred_label": "Joda"
+}
+]
 }
 },
 {
@@ -1742,7 +1812,16 @@
 "end_ref_usfm": "ACT 1:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 0.7179,
+"match_method": "scored",
+"preferred_label": "يَهوذَا"
+}
+]
 }
 },
 {
@@ -1866,7 +1945,16 @@
 "end_ref_usfm": "2CH 21:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Jehoshaphat.3",
+"type": "person",
+"confidence": 0.7283,
+"match_method": "scored",
+"preferred_label": "يَهوشَافَاط"
+}
+]
 }
 },
 {
@@ -2170,7 +2258,16 @@
 "end_ref_usfm": "1CH 21:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Joab",
+"type": "person",
+"confidence": 0.7659,
+"match_method": "scored",
+"preferred_label": "يوآب"
+}
+]
 }
 },
 {
@@ -2564,7 +2661,16 @@
 "end_ref_usfm": "ACT 18:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.7262,
+"match_method": "scored",
+"preferred_label": "يوحَنَّا"
+}
+]
 }
 },
 {
@@ -2646,7 +2752,16 @@
 "end_ref_usfm": "ACT 15:39"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Mark",
+"type": "person",
+"confidence": 0.85,
+"match_method": "scored",
+"preferred_label": "مَرْقسَ"
+}
+]
 }
 },
 {
@@ -2962,7 +3077,8 @@
 "end_ref_usfm": "ACT 8:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3098,7 +3214,16 @@
 "end_ref_usfm": "GEN 50:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.7216,
+"match_method": "scored",
+"preferred_label": "يوسف"
+}
+]
 }
 },
 {
@@ -3240,7 +3365,16 @@
 "end_ref_usfm": "JER 1:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Josiah",
+"type": "person",
+"confidence": 0.6934,
+"match_method": "scored",
+"preferred_label": "يوشِيَّا"
+}
+]
 }
 },
 {
@@ -3328,7 +3462,16 @@
 "end_ref_usfm": "1SA 23:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Jonathan.3",
+"type": "person",
+"confidence": 0.7781,
+"match_method": "scored",
+"preferred_label": "يونَاثَانَ"
+}
+]
 }
 }
 ]
