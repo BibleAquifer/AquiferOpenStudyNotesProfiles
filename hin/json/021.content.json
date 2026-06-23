@@ -90,7 +90,16 @@
 "end_ref_usfm": "2CH 12:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Rehoboam",
+"type": "person",
+"confidence": 0.7532,
+"match_method": "scored",
+"preferred_label": "रहबाम"
+}
+]
 }
 },
 {
@@ -160,7 +169,16 @@
 "end_ref_usfm": "JOS 6:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Rahab",
+"type": "person",
+"confidence": 0.7067,
+"match_method": "scored",
+"preferred_label": "राहाब"
+}
+]
 }
 },
 {
@@ -278,7 +296,16 @@
 "end_ref_usfm": "GEN 46:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Rachel",
+"type": "person",
+"confidence": 0.7673,
+"match_method": "scored",
+"preferred_label": "राहेल"
+}
+]
 }
 },
 {
@@ -432,7 +459,16 @@
 "end_ref_usfm": "GEN 27:46"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Rebekah",
+"type": "person",
+"confidence": 0.687,
+"match_method": "scored",
+"preferred_label": "रिबका"
+}
+]
 }
 },
 {
@@ -502,7 +538,16 @@
 "end_ref_usfm": "RUT 4:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Ruth",
+"type": "person",
+"confidence": 0.6536,
+"match_method": "scored",
+"preferred_label": "रूत"
+}
+]
 }
 },
 {
@@ -608,7 +653,16 @@
 "end_ref_usfm": "ROM 1:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 0.7164,
+"match_method": "scored",
+"preferred_label": "रोम"
+}
+]
 }
 },
 {
@@ -690,7 +744,8 @@
 "end_ref_usfm": "ACT 28:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -748,7 +803,8 @@
 "end_ref_usfm": "REV 17:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

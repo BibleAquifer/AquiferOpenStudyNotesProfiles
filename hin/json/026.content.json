@@ -84,7 +84,8 @@
 "end_ref_usfm": "JHN 18:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -166,7 +167,16 @@
 "end_ref_usfm": "GEN 16:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Hagar",
+"type": "person",
+"confidence": 0.696,
+"match_method": "scored",
+"preferred_label": "हागार"
+}
+]
 }
 },
 {
@@ -314,7 +324,16 @@
 "end_ref_usfm": "NUM 12:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.6934,
+"match_method": "scored",
+"preferred_label": "हारून"
+}
+]
 }
 },
 {
@@ -390,7 +409,16 @@
 "end_ref_usfm": "2CH 32:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Hezekiah",
+"type": "person",
+"confidence": 0.7342,
+"match_method": "scored",
+"preferred_label": "हिजकिय्याह"
+}
+]
 }
 },
 {
@@ -490,7 +518,23 @@
 "end_ref_usfm": "GEN 23:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.6685,
+"match_method": "scored",
+"preferred_label": "Heth"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.6609,
+"match_method": "scored",
+"preferred_label": "हित्ती"
+}
+]
 }
 },
 {
@@ -620,7 +664,16 @@
 "end_ref_usfm": "LUK 23:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 0.7725,
+"match_method": "scored",
+"preferred_label": "Herod Antipas"
+}
+]
 }
 },
 {
@@ -654,7 +707,16 @@
 "end_ref_usfm": "ACT 12:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Herod.3",
+"type": "person",
+"confidence": 0.72,
+"match_method": "scored",
+"preferred_label": "हेरोदेस"
+}
+]
 }
 },
 {
@@ -676,7 +738,8 @@
 "end_ref_usfm": "ACT 26:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

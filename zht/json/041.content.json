@@ -114,7 +114,16 @@
 "end_ref_usfm": "2SA 3:39"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Abner",
+"type": "person",
+"confidence": 0.7252,
+"match_method": "scored",
+"preferred_label": "Abner"
+}
+]
 }
 },
 {
@@ -250,7 +259,16 @@
 "end_ref_usfm": "2SA 19:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Absalom",
+"type": "person",
+"confidence": 0.741,
+"match_method": "scored",
+"preferred_label": "Absalom"
+}
+]
 }
 },
 {
@@ -704,7 +722,16 @@
 "end_ref_usfm": "HEB 11:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.7403,
+"match_method": "scored",
+"preferred_label": "Israel"
+}
+]
 }
 },
 {
@@ -978,7 +1005,8 @@
 "end_ref_usfm": "LUK 9:55"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1108,7 +1136,8 @@
 "end_ref_usfm": "JAS 5:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1262,7 +1291,16 @@
 "end_ref_usfm": "1CH 19:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Abishai",
+"type": "person",
+"confidence": 0.6989,
+"match_method": "scored",
+"preferred_label": "Abishai"
+}
+]
 }
 },
 {
@@ -1392,7 +1430,16 @@
 "end_ref_usfm": "1KI 2:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Abiathar",
+"type": "person",
+"confidence": 0.6622,
+"match_method": "scored",
+"preferred_label": "Abiathar"
+}
+]
 }
 },
 {
@@ -1480,7 +1527,16 @@
 "end_ref_usfm": "1CO 4:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Apollos",
+"type": "person",
+"confidence": 0.7636,
+"match_method": "scored",
+"preferred_label": "Apollos"
+}
+]
 }
 },
 {
@@ -1862,7 +1918,16 @@
 "end_ref_usfm": "JAS 2:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.7433,
+"match_method": "scored",
+"preferred_label": "Abraham"
+}
+]
 }
 },
 {
@@ -2160,7 +2225,8 @@
 "end_ref_usfm": "HOS 6:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2260,7 +2326,16 @@
 "end_ref_usfm": "1KI 22:53"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Ahab",
+"type": "person",
+"confidence": 0.6757,
+"match_method": "scored",
+"preferred_label": "Ahab"
+}
+]
 }
 },
 {
@@ -2342,7 +2417,16 @@
 "end_ref_usfm": "2CH 28:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Ahaz",
+"type": "person",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Ahaz"
+}
+]
 }
 },
 {
@@ -2568,7 +2652,23 @@
 "end_ref_usfm": "2KI 16:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Aramean",
+"type": "group",
+"confidence": 0.6072,
+"match_method": "scored",
+"preferred_label": "Arameans"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 0.5828,
+"match_method": "scored",
+"preferred_label": "Paddan-aram"
+}
+]
 }
 },
 {
@@ -2716,7 +2816,16 @@
 "end_ref_usfm": "NUM 12:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.6934,
+"match_method": "scored",
+"preferred_label": "Aaron"
+}
+]
 }
 },
 {
@@ -2828,7 +2937,23 @@
 "end_ref_usfm": "PSA 83:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.6293,
+"match_method": "scored",
+"preferred_label": "Amalek"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 0.5797,
+"match_method": "scored",
+"preferred_label": "Amalekites"
+}
+]
 }
 },
 {
@@ -2916,7 +3041,8 @@
 "end_ref_usfm": "JHN 18:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2986,7 +3112,16 @@
 "end_ref_usfm": "2CH 16:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Asa",
+"type": "person",
+"confidence": 0.8092,
+"match_method": "scored",
+"preferred_label": "Asa"
+}
+]
 }
 },
 {
@@ -3050,7 +3185,16 @@
 "end_ref_usfm": "2KI 19:37"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Assyria"
+}
+]
 }
 }
 ]

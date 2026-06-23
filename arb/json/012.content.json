@@ -78,7 +78,16 @@
 "end_ref_usfm": "JHN 20:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Thomas",
+"type": "person",
+"confidence": 0.8444,
+"match_method": "scored",
+"preferred_label": "تومَا"
+}
+]
 }
 },
 {
@@ -220,7 +229,16 @@
 "end_ref_usfm": "2CO 7:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Titus",
+"type": "person",
+"confidence": 0.792,
+"match_method": "scored",
+"preferred_label": "تِيطسَ"
+}
+]
 }
 },
 {
@@ -446,7 +464,16 @@
 "end_ref_usfm": "2TI 2:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 0.7878,
+"match_method": "scored",
+"preferred_label": "تِيموثَاوس"
+}
+]
 }
 }
 ]

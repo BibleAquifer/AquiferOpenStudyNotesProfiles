@@ -98,6 +98,22 @@
 "label": "कुलुस्सियों",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Ephesus",
+"type": "place",
+"confidence": 0.6605,
+"match_method": "scored",
+"preferred_label": "इफिसुस"
+},
+{
+"id": "group:Ephesus",
+"type": "group",
+"confidence": 0.614,
+"match_method": "scored",
+"preferred_label": "इफिसी"
+}
 ]
 }
 },
@@ -270,7 +286,16 @@
 "end_ref_usfm": "GEN 25:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 0.6691,
+"match_method": "scored",
+"preferred_label": "इश्माएल"
+}
+]
 }
 },
 {
@@ -556,7 +581,16 @@
 "end_ref_usfm": "HEB 11:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.7182,
+"match_method": "scored",
+"preferred_label": "इसहाक"
+}
+]
 }
 }
 ]

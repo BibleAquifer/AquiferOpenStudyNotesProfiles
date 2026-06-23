@@ -54,7 +54,16 @@
 "end_ref_usfm": "JDG 9:57"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Gideon",
+"type": "person",
+"confidence": 0.7225,
+"match_method": "scored",
+"preferred_label": "Gideon"
+}
+]
 }
 },
 {
@@ -76,7 +85,16 @@
 "end_ref_usfm": "DAN 8:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.58,
+"match_method": "scored",
+"preferred_label": "Sheep"
+}
+]
 }
 }
 ]

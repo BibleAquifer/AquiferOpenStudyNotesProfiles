@@ -48,7 +48,16 @@
 "end_ref_usfm": "ACT 18:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Priscilla",
+"type": "person",
+"confidence": 0.589,
+"match_method": "scored",
+"preferred_label": "प्रिस्किल्ला"
+}
+]
 }
 }
 ]

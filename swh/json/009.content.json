@@ -144,7 +144,16 @@
 "end_ref_usfm": "JOS 15:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Caleb",
+"type": "person",
+"confidence": 0.6926,
+"match_method": "scored",
+"preferred_label": "Kalebu"
+}
+]
 }
 },
 {
@@ -226,7 +235,8 @@
 "end_ref_usfm": "ACT 28:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -320,7 +330,16 @@
 "end_ref_usfm": "ISA 48:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Cyrus",
+"type": "person",
+"confidence": 0.6224,
+"match_method": "scored",
+"preferred_label": "Koreshi"
+}
+]
 }
 },
 {
@@ -414,7 +433,23 @@
 "end_ref_usfm": "1CO 16:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Corinth",
+"type": "place",
+"confidence": 0.6149,
+"match_method": "scored",
+"preferred_label": "Korintho"
+},
+{
+"id": "group:Corinth",
+"type": "group",
+"confidence": 0.603,
+"match_method": "scored",
+"preferred_label": "Corinthians"
+}
+]
 }
 }
 ]

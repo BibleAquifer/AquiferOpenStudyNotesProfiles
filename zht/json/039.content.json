@@ -78,7 +78,16 @@
 "end_ref_usfm": "GEN 16:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Hagar",
+"type": "person",
+"confidence": 0.696,
+"match_method": "scored",
+"preferred_label": "Hagar"
+}
+]
 }
 }
 ]

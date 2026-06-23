@@ -126,7 +126,16 @@
 "end_ref_usfm": "1KI 4:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.7211,
+"match_method": "scored",
+"preferred_label": "Salomon"
+}
+]
 }
 },
 {
@@ -166,7 +175,16 @@
 "end_ref_usfm": "2KI 17:41"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Samaritan",
+"type": "group",
+"confidence": 0.6176,
+"match_method": "scored",
+"preferred_label": "Shimrath"
+}
+]
 }
 },
 {
@@ -242,7 +260,16 @@
 "end_ref_usfm": "JDG 16:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Samson",
+"type": "person",
+"confidence": 0.7178,
+"match_method": "scored",
+"preferred_label": "Samson"
+}
+]
 }
 },
 {
@@ -444,7 +471,16 @@
 "end_ref_usfm": "1SA 16:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Samuel",
+"type": "person",
+"confidence": 0.7249,
+"match_method": "scored",
+"preferred_label": "Samuel"
+}
+]
 }
 },
 {
@@ -628,7 +664,16 @@
 "end_ref_usfm": "ROM 9:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.7007,
+"match_method": "scored",
+"preferred_label": "Sara"
+}
+]
 }
 },
 {
@@ -956,7 +1001,16 @@
 "end_ref_usfm": "2TH 2:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 0.7138,
+"match_method": "scored",
+"preferred_label": "Satan"
+}
+]
 }
 },
 {
@@ -1026,7 +1080,16 @@
 "end_ref_usfm": "1CH 10:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 0.7601,
+"match_method": "scored",
+"preferred_label": "Saül"
+}
+]
 }
 },
 {
@@ -1732,7 +1795,16 @@
 "end_ref_usfm": "GAL 2:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.6823,
+"match_method": "scored",
+"preferred_label": "Pierre"
+}
+]
 }
 }
 ]

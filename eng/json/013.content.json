@@ -258,7 +258,16 @@
 "end_ref_usfm": "TIT 3:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.626,
+"match_method": "scored",
+"preferred_label": "Paul"
+}
+]
 }
 },
 {
@@ -352,7 +361,30 @@
 "end_ref_usfm": "EXO 15:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.6921,
+"match_method": "scored",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"confidence": 0.6246,
+"match_method": "scored",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 0.6041,
+"match_method": "scored",
+"preferred_label": "Pharaoh"
+}
+]
 }
 },
 {
@@ -704,7 +736,16 @@
 "end_ref_usfm": "PHP 3:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.6331,
+"match_method": "scored",
+"preferred_label": "Pharisees"
+}
+]
 }
 },
 {
@@ -876,7 +917,16 @@
 "end_ref_usfm": "ACT 10:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Philip.4",
+"type": "person",
+"confidence": 0.6732,
+"match_method": "scored",
+"preferred_label": "Philip"
+}
+]
 }
 },
 {
@@ -976,7 +1026,23 @@
 "end_ref_usfm": "PHP 4:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Philippi",
+"type": "place",
+"confidence": 0.6339,
+"match_method": "scored",
+"preferred_label": "Philippi"
+},
+{
+"id": "group:Philippi",
+"type": "group",
+"confidence": 0.6068,
+"match_method": "scored",
+"preferred_label": "Philippians"
+}
+]
 }
 },
 {
@@ -1184,7 +1250,16 @@
 "end_ref_usfm": "2CH 28:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.6944,
+"match_method": "scored",
+"preferred_label": "Philistines"
+}
+]
 }
 },
 {
@@ -1386,7 +1461,16 @@
 "end_ref_usfm": "MAT 27:65"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Pilate",
+"type": "person",
+"confidence": 0.7709,
+"match_method": "scored",
+"preferred_label": "Pilate"
+}
+]
 }
 },
 {
@@ -1438,7 +1522,16 @@
 "end_ref_usfm": "ACT 18:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Priscilla",
+"type": "person",
+"confidence": 0.589,
+"match_method": "scored",
+"preferred_label": "Priscilla"
+}
+]
 }
 }
 ]

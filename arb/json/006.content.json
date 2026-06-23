@@ -108,7 +108,23 @@
 "end_ref_usfm": "PSA 83:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.6293,
+"match_method": "scored",
+"preferred_label": "عَمَالِيقَ"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 0.5797,
+"match_method": "scored",
+"preferred_label": "Amalekites"
+}
+]
 }
 },
 {
@@ -202,7 +218,23 @@
 "end_ref_usfm": "1SA 4:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Eli",
+"type": "person",
+"confidence": 0.7302,
+"match_method": "scored",
+"preferred_label": "عَالِي"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6779,
+"match_method": "scored",
+"preferred_label": "ٱلرَّبِّ"
+}
+]
 }
 },
 {
@@ -368,7 +400,23 @@
 "end_ref_usfm": "NEH 8:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Ezra",
+"type": "person",
+"confidence": 0.6607,
+"match_method": "scored",
+"preferred_label": "عَزْرَا"
+},
+{
+"id": "person:Ezra.2",
+"type": "person",
+"confidence": 0.6028,
+"match_method": "scored",
+"preferred_label": "عَزْرَا"
+}
+]
 }
 },
 {
@@ -462,7 +510,16 @@
 "end_ref_usfm": "2CH 26:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Uzziah",
+"type": "person",
+"confidence": 0.8162,
+"match_method": "scored",
+"preferred_label": "عزِّيَّا"
+}
+]
 }
 },
 {
@@ -653,6 +710,22 @@
 "resource_code": "TyndaleStudyNotes",
 "label": "تكوين 25: 25",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 0.7326,
+"match_method": "scored",
+"preferred_label": "عِيسوَ"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.6622,
+"match_method": "scored",
+"preferred_label": "أَدومَ"
 }
 ]
 }

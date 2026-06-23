@@ -30,7 +30,16 @@
 "end_ref_usfm": "EST 1:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Ahasuerus",
+"type": "person",
+"confidence": 0.7178,
+"match_method": "scored",
+"preferred_label": "Ahasuerus"
+}
+]
 }
 }
 ]

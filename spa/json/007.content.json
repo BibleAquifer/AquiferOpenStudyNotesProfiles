@@ -54,7 +54,16 @@
 "end_ref_usfm": "JDG 9:57"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Gideon",
+"type": "person",
+"confidence": 0.7225,
+"match_method": "scored",
+"preferred_label": "Gedeón"
+}
+]
 }
 }
 ]

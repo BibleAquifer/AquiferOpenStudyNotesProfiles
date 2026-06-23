@@ -18,7 +18,8 @@
 "end_ref_usfm": "DAN 11:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -184,7 +185,23 @@
 "end_ref_usfm": "NEH 8:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Ezra",
+"type": "person",
+"confidence": 0.6607,
+"match_method": "scored",
+"preferred_label": "एज्रा"
+},
+{
+"id": "person:Ezra.2",
+"type": "person",
+"confidence": 0.6028,
+"match_method": "scored",
+"preferred_label": "एज्रा"
+}
+]
 }
 },
 {
@@ -314,7 +331,16 @@
 "end_ref_usfm": "1KI 2:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Abiathar",
+"type": "person",
+"confidence": 0.6622,
+"match_method": "scored",
+"preferred_label": "एब्यातार"
+}
+]
 }
 },
 {
@@ -558,7 +584,16 @@
 "end_ref_usfm": "ROM 11:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 0.6771,
+"match_method": "scored",
+"preferred_label": "एलिय्याह"
+}
+]
 }
 },
 {
@@ -652,7 +687,23 @@
 "end_ref_usfm": "1SA 4:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Eli",
+"type": "person",
+"confidence": 0.7302,
+"match_method": "scored",
+"preferred_label": "एली"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6779,
+"match_method": "scored",
+"preferred_label": "यहोवा"
+}
+]
 }
 },
 {
@@ -782,7 +833,16 @@
 "end_ref_usfm": "NUM 20:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Eleazar.2",
+"type": "person",
+"confidence": 0.6884,
+"match_method": "scored",
+"preferred_label": "एलीआजर"
+}
+]
 }
 },
 {
@@ -924,7 +984,16 @@
 "end_ref_usfm": "2KI 13:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Elisha",
+"type": "person",
+"confidence": 0.6646,
+"match_method": "scored",
+"preferred_label": "एलीशा"
+}
+]
 }
 },
 {
@@ -1116,6 +1185,22 @@
 "label": "उत्पत्ति 25:25",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 0.7326,
+"match_method": "scored",
+"preferred_label": "एसाव"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.6622,
+"match_method": "scored",
+"preferred_label": "एदोम"
+}
 ]
 }
 },
@@ -1168,7 +1253,16 @@
 "end_ref_usfm": "EST 9:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Esther",
+"type": "person",
+"confidence": 0.695,
+"match_method": "scored",
+"preferred_label": "एस्तेर"
+}
+]
 }
 }
 ]

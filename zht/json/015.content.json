@@ -96,7 +96,23 @@
 "end_ref_usfm": "GEN 23:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.6685,
+"match_method": "scored",
+"preferred_label": "Heth"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.6609,
+"match_method": "scored",
+"preferred_label": "Hittites"
+}
+]
 }
 }
 ]

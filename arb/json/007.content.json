@@ -348,7 +348,16 @@
 "end_ref_usfm": "PHP 3:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.6331,
+"match_method": "scored",
+"preferred_label": "Pharisees"
+}
+]
 }
 },
 {
@@ -556,7 +565,16 @@
 "end_ref_usfm": "2CH 28:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.6944,
+"match_method": "scored",
+"preferred_label": "فِلِشْتِيم"
+}
+]
 }
 },
 {
@@ -650,7 +668,30 @@
 "end_ref_usfm": "EXO 15:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.6921,
+"match_method": "scored",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"confidence": 0.6246,
+"match_method": "scored",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 0.6041,
+"match_method": "scored",
+"preferred_label": "فِرْعَوْنَ"
+}
+]
 }
 },
 {
@@ -822,7 +863,16 @@
 "end_ref_usfm": "ACT 10:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Philip.4",
+"type": "person",
+"confidence": 0.6732,
+"match_method": "scored",
+"preferred_label": "فِيلبّسَ"
+}
+]
 }
 },
 {
@@ -922,7 +972,23 @@
 "end_ref_usfm": "PHP 4:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Philippi",
+"type": "place",
+"confidence": 0.6339,
+"match_method": "scored",
+"preferred_label": "فِيلِبِّي"
+},
+{
+"id": "group:Philippi",
+"type": "group",
+"confidence": 0.6068,
+"match_method": "scored",
+"preferred_label": "Philippians"
+}
+]
 }
 }
 ]

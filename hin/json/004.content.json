@@ -96,7 +96,16 @@
 "end_ref_usfm": "1KI 21:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Jezebel",
+"type": "person",
+"confidence": 0.6364,
+"match_method": "scored",
+"preferred_label": "ईजेबेल"
+}
+]
 }
 }
 ]

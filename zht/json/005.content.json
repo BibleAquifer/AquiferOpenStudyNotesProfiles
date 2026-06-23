@@ -258,7 +258,16 @@
 "end_ref_usfm": "TIT 3:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.626,
+"match_method": "scored",
+"preferred_label": "Paul"
+}
+]
 }
 }
 ]
