@@ -133,18 +133,18 @@
 "preferred_label": "Schinear"
 },
 {
-"id": "place:Babylonia",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Babylonia"
-},
-{
 "id": "place:Babylon.2",
 "type": "place",
 "confidence": 0.6,
 "match_method": "scored",
 "preferred_label": "Babylon"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylonia"
 }
 ]
 }
