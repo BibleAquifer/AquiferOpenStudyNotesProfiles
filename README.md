@@ -4,9 +4,17 @@ This repository (`AquiferOpenStudyNotesProfiles`) contains Aquifer resource data
 
 ## License
 
-_Tyndale Open Study Notes_ © 2019 [Tyndale House Publishers](https://tyndaleopenresources.com/)
+_Aquifer Open Study Notes (Profiles)_ © 2026 [Mission Mutual](https://missionmutual.org)
 
 This resource is licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) license.
+
+**Aquifer Open Study Notes (Profiles)**
+
+This work is an adaptation of *Tyndale Open Study Notes* © 2023 Tyndale House Publishers, licensed under the CC BY\-SA 4\.0 license. The adaptation, *Aquifer Open Study Notes*, was created by Mission Mutual and is also licensed under CC BY\-SA 4\.0\.
+
+This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).
+
+
 
 ## Structure
 
