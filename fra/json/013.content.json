@@ -323,14 +323,14 @@
 "preferred_label": "Néhémie"
 },
 {
-"id": "person:Nehemiah",
+"id": "person:Nehemiah.3",
 "type": "person",
 "confidence": 0.6011,
 "match_method": "scored",
 "preferred_label": "Néhémie"
 },
 {
-"id": "person:Nehemiah.3",
+"id": "person:Nehemiah",
 "type": "person",
 "confidence": 0.6011,
 "match_method": "scored",
