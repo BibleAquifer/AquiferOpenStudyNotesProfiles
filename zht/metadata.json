@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "AquiferOpenStudyNotesProfiles",
-"date_created": "2026-09-18",
+"date_created": "2026-10-23",
 "language": "zht",
 "localizations": [
 "eng",
@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-18T07:34:56.840323"
+"dateCreated": "2026-10-23T08:10:34.703126"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "AquiferOpenStudyNotesProfiles": {
-"timestamp": "2026-09-18T07:34:56.840323"
+"timestamp": "2026-10-23T08:10:34.703126"
 }
 }
 },
@@ -113,7 +113,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 34024,
+"size": 34073,
 "scope": {
 "ba": [
 "巴比倫",
@@ -350,7 +350,7 @@
 },
 "json/027.content.json": {
 "mimeType": "text/json",
-"size": 20254,
+"size": 20292,
 "scope": {
 "ni": [
 "尼布甲尼撒二世",
@@ -533,7 +533,7 @@
 },
 "json/043.content.json": {
 "mimeType": "text/json",
-"size": 84837,
+"size": 84899,
 "scope": {
 "yi": [
 "以弗所",
@@ -595,7 +595,7 @@
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 17089
+"size": 17083
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
@@ -611,7 +611,7 @@
 },
 "md/043.content.md": {
 "mimeType": "text/markdown",
-"size": 32886
+"size": 32894
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
@@ -623,7 +623,7 @@
 },
 "md/027.content.md": {
 "mimeType": "text/markdown",
-"size": 9542
+"size": 9445
 },
 "md/032.content.md": {
 "mimeType": "text/markdown",

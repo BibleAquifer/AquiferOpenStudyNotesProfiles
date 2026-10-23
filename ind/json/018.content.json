@@ -1,0 +1,97 @@
+[
+{
+"content_id": "653343",
+"reference_id": 203456,
+"version": "1.0.4",
+"title": "Uzia",
+"media_type": "Text",
+"index_reference": "uzia",
+"language": "ind",
+"review_level": "Professional",
+"content": "<p>Uzia adalah putra Amazia dan Yekholya. Dia menjadi raja Yehuda selama 52 tahun, dari 792 hingga 740 Sebelum Masehi (lihat <data class=\"bible-ref\" data-start-ref=\"12014021\" data-end-ref=\"12014022\">2 Raja-raja 14:21–22</data>; <data class=\"bible-ref\" data-start-ref=\"12015001\" data-end-ref=\"12015002\">15:1–2</data>; <data class=\"bible-ref\" data-start-ref=\"14026001\" data-end-ref=\"14026003\">2 Tawarikh 26:1–3</data>). Dia mulai memimpin bersama dengan ayahnya pada usia enam belas tahun selama sekitar 25 tahun. Setelah ayahnya dibunuh, Uzia menjadi satu-satunya penguasa. Dia adalah raja yang cakap, energik, dan terorganisir dengan baik yang menyenangkan Tuhan untuk sebagian besar masa pemerintahannya.</p><p>Selama sebagian besar pemerintahan Uzia, Yerobeam II memerintah kerajaan utara Israel dari tahun 793 hingga 753 SM. Kedua raja tersebut berhasil dan membawa masa kemakmuran yang panjang bagi Israel dan Yehuda. Uzia berhasil melawan orang Filistin dan membangun banyak benteng di Yerusalem dan di seluruh Yehuda. Dia mencari Tuhan (<data class=\"bible-ref\" data-start-ref=\"14026005\" data-end-ref=\"14026005\">2 Tawarikh 26:5</data>), dan selama dia melakukannya, Tuhan memberkatinya dalam semua usahanya, sehingga dia makmur.</p><p>Beberapa nabi aktif selama pemerintahan Uzia. Amos dan Hosea bernubuat selama masa hidupnya (<data class=\"bible-ref\" data-start-ref=\"28001001\" data-end-ref=\"28001001\">Hosea 1:1</data>; <data class=\"bible-ref\" data-start-ref=\"30001001\" data-end-ref=\"30001001\">Amos 1:1</data>), meskipun sebagian besar pesan mereka ditujukan kepada kerajaan utara. Nabi Yesaya menerima panggilannya pada tahun kematian Uzia (<data class=\"bible-ref\" data-start-ref=\"23001001\" data-end-ref=\"23001001\">Yesaya 1:1</data>; <data class=\"bible-ref\" data-start-ref=\"23006001\" data-end-ref=\"23006001\">6:1</data>).</p><p>Uzia menjadi sombong karena banyak keberhasilannya, yang menyebabkan kejatuhannya (<data class=\"bible-ref\" data-start-ref=\"14026016\" data-end-ref=\"14026016\">2 Tawarikh 26:16</data>). Dia bertindak seperti seorang imam dengan memasuki area kudus di bait suci dan membakar ukupan. Para imam berusaha menghentikannya agar tidak berdosa terhadap Tuhan, tetapi dia dengan marah mengabaikan peringatan mereka. Karena ketidaktaatannya, Allah menimpakan kusta atas Uzia, dan dia harus menjalani sisa hidupnya dalam isolasi. Uzia dimakamkan bersama leluhurnya, tetapi dari kejauhan karena kustanya (<data class=\"bible-ref\" data-start-ref=\"14026023\" data-end-ref=\"14026023\">2 Tawarikh 26:23</data>).</p><p><u>Ayat-ayat untuk Pembelajaran Lebih Lanjut</u></p><p><data class=\"bible-ref\" data-start-ref=\"12014021\" data-end-ref=\"12014022\">2 Raja-raja 14:21–22</data>; <data class=\"bible-ref\" data-start-ref=\"12015001\" data-end-ref=\"12015007\">15:1–7</data>; <data class=\"bible-ref\" data-start-ref=\"14026001\" data-end-ref=\"14026023\">2 Tawarikh 26:1–23</data>; <data class=\"bible-ref\" data-start-ref=\"23001001\" data-end-ref=\"23001001\">Yesaya 1:1</data>; <data class=\"bible-ref\" data-start-ref=\"23006001\" data-end-ref=\"23006001\">6:1</data>; <data class=\"bible-ref\" data-start-ref=\"28001001\" data-end-ref=\"28001001\">Hosea 1:1</data>; <data class=\"bible-ref\" data-start-ref=\"30001001\" data-end-ref=\"30001001\">Amos 1:1</data>; <data class=\"bible-ref\" data-start-ref=\"38014005\" data-end-ref=\"38014005\">Zakharia 14:5</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "14026005",
+"start_ref_usfm": "2CH 26:5",
+"end_ref": "14026005",
+"end_ref_usfm": "2CH 26:5"
+},
+{
+"start_ref": "14026016",
+"start_ref_usfm": "2CH 26:16",
+"end_ref": "14026016",
+"end_ref_usfm": "2CH 26:16"
+},
+{
+"start_ref": "14026023",
+"start_ref_usfm": "2CH 26:23",
+"end_ref": "14026023",
+"end_ref_usfm": "2CH 26:23"
+},
+{
+"start_ref": "23001001",
+"start_ref_usfm": "ISA 1:1",
+"end_ref": "23001001",
+"end_ref_usfm": "ISA 1:1"
+},
+{
+"start_ref": "23006001",
+"start_ref_usfm": "ISA 6:1",
+"end_ref": "23006001",
+"end_ref_usfm": "ISA 6:1"
+},
+{
+"start_ref": "28001001",
+"start_ref_usfm": "HOS 1:1",
+"end_ref": "28001001",
+"end_ref_usfm": "HOS 1:1"
+},
+{
+"start_ref": "30001001",
+"start_ref_usfm": "AMO 1:1",
+"end_ref": "30001001",
+"end_ref_usfm": "AMO 1:1"
+},
+{
+"start_ref": "38014005",
+"start_ref_usfm": "ZEC 14:5",
+"end_ref": "38014005",
+"end_ref_usfm": "ZEC 14:5"
+},
+{
+"start_ref": "12015001",
+"start_ref_usfm": "2KI 15:1",
+"end_ref": "12015007",
+"end_ref_usfm": "2KI 15:7"
+},
+{
+"start_ref": "12014021",
+"start_ref_usfm": "2KI 14:21",
+"end_ref": "12014022",
+"end_ref_usfm": "2KI 14:22"
+},
+{
+"start_ref": "14026001",
+"start_ref_usfm": "2CH 26:1",
+"end_ref": "14026023",
+"end_ref_usfm": "2CH 26:23"
+},
+{
+"start_ref": "12015001",
+"start_ref_usfm": "2KI 15:1",
+"end_ref": "12015002",
+"end_ref_usfm": "2KI 15:2"
+},
+{
+"start_ref": "14026001",
+"start_ref_usfm": "2CH 26:1",
+"end_ref": "14026003",
+"end_ref_usfm": "2CH 26:3"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]

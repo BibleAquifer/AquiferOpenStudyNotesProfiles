@@ -1,0 +1,2455 @@
+[
+{
+"content_id": "669903",
+"reference_id": 203481,
+"version": "1.0.4",
+"title": "Саддукеи",
+"media_type": "Text",
+"index_reference": "саддукеи",
+"language": "rus",
+"review_level": "Professional",
+"content": "<p>Саддукеи были значимой иудейской группой, состоявшей из священников и их семей. Они отличались от фарисеев, другой иудейской группы: фарисеи были обычными людьми, не священниками. Скорее всего, саддукеи проживали в пределах Иерусалима и управляли храмовой службой (<data class=\"bible-ref\" data-start-ref=\"44004001\" data-end-ref=\"44004002\">Деян.4:1–2</data>; <data class=\"bible-ref\" data-start-ref=\"44005017\" data-end-ref=\"44005017\">5:17</data>). Будучи влиятельными и богатыми людьми (аристократами), они выступали в качестве посредников между Римом и Израилем (см. Иосиф Флавий, <em>Иудейские древности</em> 13.10.6; <em>Иудейская война</em> 2.10.5). Саддукеев не любили, и они не пользовались авторитетом среди простого народа (Иосиф Флавий, <em>Иудейские древности</em> 18.1.4).</p><p>Термин <em>саддукей</em>, вероятно, происходит от имени <em>Садока</em>, первосвященника во времена царствования Давида и Соломона (<data class=\"bible-ref\" data-start-ref=\"10008017\" data-end-ref=\"10008017\">2Цар.8:17</data>; <data class=\"bible-ref\" data-start-ref=\"10015024\" data-end-ref=\"10015024\">15:24</data>; <data class=\"bible-ref\" data-start-ref=\"11001008\" data-end-ref=\"11001008\">3Цар.1:8</data>;<data class=\"bible-ref\" data-start-ref=\"11001032\" data-end-ref=\"11001048\"> 32–48</data>) <span>— о</span>ба слова содержат один и тот же еврейский корень. Самое раннее историческое упоминание о саддукеях относится к периоду правления Иоанна Гиркана (с 135 по 104 г. до н.э.), потомка Маккавеев (Иосиф Флавий, <em>Древности</em> 13.10.6), но, очевидно, саддукеи существовали и раньше.</p><p>Богословские взгляды саддукеев во многом отличались от взглядов фарисеев (<data class=\"bible-ref\" data-start-ref=\"44023008\" data-end-ref=\"44023008\">Деян.23:8</data>; см. также <data class=\"bible-ref\" data-start-ref=\"44004001\" data-end-ref=\"44004002\">Деян.4:1–2</data>). Саддукеи придавали первостепенное значение Пятикнижию. Они отвергали устную традицию (предание), которую ценили фарисеи. В отличие от фарисеев, саддукеи не верили в:</p><ul><li><p>воскресение мёртвых (см. <data class=\"bible-ref\" data-start-ref=\"40022023\" data-end-ref=\"40022033\">Мф.22:23–33</data>),</p></li><li><p>ангелов (см. <data class=\"bible-ref\" data-start-ref=\"44023008\" data-end-ref=\"44023008\">Деян.23:8</data>) и </p></li><li><p>последний суд.</p></li></ul><p>Фарисеи же, в свою очередь, твёрдо верили в воскресение (возвращение к жизни после смерти). Они даже поддержали Павла против саддукеев, когда его судили за нарушение порядка в Храме (<data class=\"bible-ref\" data-start-ref=\"44023006\" data-end-ref=\"44023010\">Деян.23:6–10</data>).</p><p>Несмотря на свои разногласия, фарисеи и саддукеи объединились против Иисуса. Фарисеи выступали против Иисуса, потому что Он не придерживался их устных традиций (преданий). Саддукеи выступали против Иисуса, потому что Он верил в ангелов, духов, последний суд и воскресение.</p><p>Когда в 70 г. н.э. Храм был разрушен, саддукеи исчезли. Саддукеи не оставили никаких письменных записей. Все наши знания о саддукеях получены от их противников, поэтому мы имеем о них ограниченное представление.</p><p><u>Отрывки для дальнейшего изучения</u></p><p><data class=\"bible-ref\" data-start-ref=\"40003007\" data-end-ref=\"40003007\">Матфея 3:7</data>; <data class=\"bible-ref\" data-start-ref=\"40016001\" data-end-ref=\"40016012\">16:1–12</data>; <data class=\"bible-ref\" data-start-ref=\"40022023\" data-end-ref=\"40022033\">22:23–33</data>; <data class=\"bible-ref\" data-start-ref=\"41012018\" data-end-ref=\"41012027\">Марка 12:18–27</data>; <data class=\"bible-ref\" data-start-ref=\"42020027\" data-end-ref=\"42020040\">Луки 20:27–40</data>; <data class=\"bible-ref\" data-start-ref=\"44004001\" data-end-ref=\"44004002\">Деяния 4:1–2</data>; <data class=\"bible-ref\" data-start-ref=\"44005017\" data-end-ref=\"44005018\">5:17–18</data>; <data class=\"bible-ref\" data-start-ref=\"44023006\" data-end-ref=\"44023010\">23:6–10</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "10008017",
+"start_ref_usfm": "2SA 8:17",
+"end_ref": "10008017",
+"end_ref_usfm": "2SA 8:17"
+},
+{
+"start_ref": "10015024",
+"start_ref_usfm": "2SA 15:24",
+"end_ref": "10015024",
+"end_ref_usfm": "2SA 15:24"
+},
+{
+"start_ref": "11001008",
+"start_ref_usfm": "1KI 1:8",
+"end_ref": "11001008",
+"end_ref_usfm": "1KI 1:8"
+},
+{
+"start_ref": "40003007",
+"start_ref_usfm": "MAT 3:7",
+"end_ref": "40003007",
+"end_ref_usfm": "MAT 3:7"
+},
+{
+"start_ref": "44005017",
+"start_ref_usfm": "ACT 5:17",
+"end_ref": "44005017",
+"end_ref_usfm": "ACT 5:17"
+},
+{
+"start_ref": "44023008",
+"start_ref_usfm": "ACT 23:8",
+"end_ref": "44023008",
+"end_ref_usfm": "ACT 23:8"
+},
+{
+"start_ref": "40016001",
+"start_ref_usfm": "MAT 16:1",
+"end_ref": "40016012",
+"end_ref_usfm": "MAT 16:12"
+},
+{
+"start_ref": "41012018",
+"start_ref_usfm": "MRK 12:18",
+"end_ref": "41012027",
+"end_ref_usfm": "MRK 12:27"
+},
+{
+"start_ref": "40022023",
+"start_ref_usfm": "MAT 22:23",
+"end_ref": "40022033",
+"end_ref_usfm": "MAT 22:33"
+},
+{
+"start_ref": "42020027",
+"start_ref_usfm": "LUK 20:27",
+"end_ref": "42020040",
+"end_ref_usfm": "LUK 20:40"
+},
+{
+"start_ref": "44005017",
+"start_ref_usfm": "ACT 5:17",
+"end_ref": "44005018",
+"end_ref_usfm": "ACT 5:18"
+},
+{
+"start_ref": "44004001",
+"start_ref_usfm": "ACT 4:1",
+"end_ref": "44004002",
+"end_ref_usfm": "ACT 4:2"
+},
+{
+"start_ref": "44023006",
+"start_ref_usfm": "ACT 23:6",
+"end_ref": "44023010",
+"end_ref_usfm": "ACT 23:10"
+},
+{
+"start_ref": "11001032",
+"start_ref_usfm": "1KI 1:32",
+"end_ref": "11001048",
+"end_ref_usfm": "1KI 1:48"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "669858",
+"reference_id": 203436,
+"version": "1.0.4",
+"title": "Садок",
+"media_type": "Text",
+"index_reference": "садок",
+"language": "rus",
+"review_level": "Professional",
+"content": "<p>Садок является ключевой фигурой в истории священства Израиля. Впервые он упоминается во Второй книге Царств (<data class=\"bible-ref\" data-start-ref=\"10008017\" data-end-ref=\"10008017\">2Цар.8:17</data>). Некоторые исследователи считают, что Садок мог родиться не в семье священника. Однако Библия утверждает, что он был потомком Аарона (<data class=\"bible-ref\" data-start-ref=\"13006001\" data-end-ref=\"13006015\">1Пар.6:1–15</data>, <data class=\"bible-ref\" data-start-ref=\"13006050\" data-end-ref=\"13006053\">50–53</data>): родословие Садока восходит к Елеазару, сыну Аарона (<data class=\"bible-ref\" data-start-ref=\"13006004\" data-end-ref=\"13006008\">1Пар.6:4–8</data>; <data class=\"bible-ref\" data-start-ref=\"13024003\" data-end-ref=\"13024003\">24:3</data>; <data class=\"bible-ref\" data-start-ref=\"15007002\" data-end-ref=\"15007005\">Ездр.7:2–5</data>). Садок служил вместе с Авиафаром, потомком Илия. Они оба были священниками Израиля при царе Давиде (<data class=\"bible-ref\" data-start-ref=\"10008017\" data-end-ref=\"10008017\">2Цар.8:17</data>; <data class=\"bible-ref\" data-start-ref=\"10020025\" data-end-ref=\"10020025\">20:25</data>).</p><p>Когда Авессалом восстал против царя Давида, Садок и Авиафар остались верными Давиду, принеся ему ковчег и присоединившись к нему в изгнании (<data class=\"bible-ref\" data-start-ref=\"10015024\" data-end-ref=\"10015029\">2Цар.15:24–29</data>). Однако Давид отправил их обратно в Иерусалим, чтобы они сообщали ему об обстановке в городе.</p><p>Позже сын Давида Адония попытался захватить трон Давида с помощью Иоава и Авиафара. Садок мудро решил не поддерживать Адония (<data class=\"bible-ref\" data-start-ref=\"11001005\" data-end-ref=\"11001010\">3Цар.1:5–10</data>). Авиафар был изгнан (<data class=\"bible-ref\" data-start-ref=\"11002026\" data-end-ref=\"11002027\">3Цар.2:26–27</data>), что исполнило пророчество о том, что семья Илия потеряет священство (<data class=\"bible-ref\" data-start-ref=\"09002027\" data-end-ref=\"09002036\">1Цар.2:27–36</data>). В этом пророчестве Бог сказал: «<span>И поставлю Себе священника верного; он будет поступать по сердцу Моему и по душе Моей; и дом его сделаю твёрдым, и он будет ходить пред помазанником Моим во все дни</span>» (<data class=\"bible-ref\" data-start-ref=\"09002035\" data-end-ref=\"09002035\">1Цар.2:35</data>).</p><p>Пророчество исполнилось в Садоке, который стал единственным первосвященником при Соломоне (<data class=\"bible-ref\" data-start-ref=\"11002035\" data-end-ref=\"11002035\">3Цар.2:35</data>). Потомки Садока служили священниками Израиля во время монархии и после неё. Азария, первосвященник во время царствования Езекии, происходил из рода Садока (<data class=\"bible-ref\" data-start-ref=\"14031010\" data-end-ref=\"14031010\">2Пар.31:10</data>). Во время Вавилонского изгнания в видении Иезекииля о новом храме упоминается священнический род Садока (<data class=\"bible-ref\" data-start-ref=\"26040046\" data-end-ref=\"26040046\">Иез.40:46</data>; <data class=\"bible-ref\" data-start-ref=\"26043019\" data-end-ref=\"26043019\">43:19</data>; <data class=\"bible-ref\" data-start-ref=\"26044015\" data-end-ref=\"26044015\">44:15</data>; <data class=\"bible-ref\" data-start-ref=\"26048011\" data-end-ref=\"26048011\">48:11</data>). В начале II века до н.э., когда Иудея находилась под властью Селевкидов, роль первосвященника стала политической, и первосвященство было отнято у потомков Садока. Из-за пророчеств Иезекииля многие еврейские религиозные группы, подобные той, которым принадлежали свитки Мёртвого моря, продолжали надеяться на возвращение священства к роду Садока. Новый Завет утверждает, что теперь первосвященником является Иисус Христос (<data class=\"bible-ref\" data-start-ref=\"58009011\" data-end-ref=\"58009011\">Евр.9:11</data>; <data class=\"bible-ref\" data-start-ref=\"58010012\" data-end-ref=\"58010025\">10:12–25</data>).</p><p><u>Отрывки для дальнейшего изучения</u></p><p><data class=\"bible-ref\" data-start-ref=\"10008017\" data-end-ref=\"10008017\">2 Царств 8:17</data>; <data class=\"bible-ref\" data-start-ref=\"10015023\" data-end-ref=\"10015037\">15:23–37</data>; <data class=\"bible-ref\" data-start-ref=\"11001005\" data-end-ref=\"11001053\">3 Царств 1:5–53</data>; <data class=\"bible-ref\" data-start-ref=\"11002035\" data-end-ref=\"11002035\">2:35</data>; <data class=\"bible-ref\" data-start-ref=\"13006001\" data-end-ref=\"13006015\">1 Паралипоменон 6:1–15</data>, <data class=\"bible-ref\" data-start-ref=\"13006050\" data-end-ref=\"13006053\">50–53</data>; <data class=\"bible-ref\" data-start-ref=\"15007002\" data-end-ref=\"15007002\">Ездра 7:2</data>; <data class=\"bible-ref\" data-start-ref=\"26040046\" data-end-ref=\"26040046\">Иезекииль 40:46</data>; <data class=\"bible-ref\" data-start-ref=\"26043019\" data-end-ref=\"26043019\">43:19</data>; <data class=\"bible-ref\" data-start-ref=\"26044015\" data-end-ref=\"26044015\">44:15</data>; <data class=\"bible-ref\" data-start-ref=\"26048011\" data-end-ref=\"26048011\">48:11</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09002035",
+"start_ref_usfm": "1SA 2:35",
+"end_ref": "09002035",
+"end_ref_usfm": "1SA 2:35"
+},
+{
+"start_ref": "10008017",
+"start_ref_usfm": "2SA 8:17",
+"end_ref": "10008017",
+"end_ref_usfm": "2SA 8:17"
+},
+{
+"start_ref": "10020025",
+"start_ref_usfm": "2SA 20:25",
+"end_ref": "10020025",
+"end_ref_usfm": "2SA 20:25"
+},
+{
+"start_ref": "11002035",
+"start_ref_usfm": "1KI 2:35",
+"end_ref": "11002035",
+"end_ref_usfm": "1KI 2:35"
+},
+{
+"start_ref": "13024003",
+"start_ref_usfm": "1CH 24:3",
+"end_ref": "13024003",
+"end_ref_usfm": "1CH 24:3"
+},
+{
+"start_ref": "14031010",
+"start_ref_usfm": "2CH 31:10",
+"end_ref": "14031010",
+"end_ref_usfm": "2CH 31:10"
+},
+{
+"start_ref": "15007002",
+"start_ref_usfm": "EZR 7:2",
+"end_ref": "15007002",
+"end_ref_usfm": "EZR 7:2"
+},
+{
+"start_ref": "26040046",
+"start_ref_usfm": "EZK 40:46",
+"end_ref": "26040046",
+"end_ref_usfm": "EZK 40:46"
+},
+{
+"start_ref": "26043019",
+"start_ref_usfm": "EZK 43:19",
+"end_ref": "26043019",
+"end_ref_usfm": "EZK 43:19"
+},
+{
+"start_ref": "26044015",
+"start_ref_usfm": "EZK 44:15",
+"end_ref": "26044015",
+"end_ref_usfm": "EZK 44:15"
+},
+{
+"start_ref": "26048011",
+"start_ref_usfm": "EZK 48:11",
+"end_ref": "26048011",
+"end_ref_usfm": "EZK 48:11"
+},
+{
+"start_ref": "58009011",
+"start_ref_usfm": "HEB 9:11",
+"end_ref": "58009011",
+"end_ref_usfm": "HEB 9:11"
+},
+{
+"start_ref": "11002026",
+"start_ref_usfm": "1KI 2:26",
+"end_ref": "11002027",
+"end_ref_usfm": "1KI 2:27"
+},
+{
+"start_ref": "13006050",
+"start_ref_usfm": "1CH 6:50",
+"end_ref": "13006053",
+"end_ref_usfm": "1CH 6:53"
+},
+{
+"start_ref": "10015024",
+"start_ref_usfm": "2SA 15:24",
+"end_ref": "10015029",
+"end_ref_usfm": "2SA 15:29"
+},
+{
+"start_ref": "09002027",
+"start_ref_usfm": "1SA 2:27",
+"end_ref": "09002036",
+"end_ref_usfm": "1SA 2:36"
+},
+{
+"start_ref": "15007002",
+"start_ref_usfm": "EZR 7:2",
+"end_ref": "15007005",
+"end_ref_usfm": "EZR 7:5"
+},
+{
+"start_ref": "11001005",
+"start_ref_usfm": "1KI 1:5",
+"end_ref": "11001010",
+"end_ref_usfm": "1KI 1:10"
+},
+{
+"start_ref": "13006001",
+"start_ref_usfm": "1CH 6:1",
+"end_ref": "13006015",
+"end_ref_usfm": "1CH 6:15"
+},
+{
+"start_ref": "13006004",
+"start_ref_usfm": "1CH 6:4",
+"end_ref": "13006008",
+"end_ref_usfm": "1CH 6:8"
+},
+{
+"start_ref": "58010012",
+"start_ref_usfm": "HEB 10:12",
+"end_ref": "58010025",
+"end_ref_usfm": "HEB 10:25"
+},
+{
+"start_ref": "10015023",
+"start_ref_usfm": "2SA 15:23",
+"end_ref": "10015037",
+"end_ref_usfm": "2SA 15:37"
+},
+{
+"start_ref": "11001005",
+"start_ref_usfm": "1KI 1:5",
+"end_ref": "11001053",
+"end_ref_usfm": "1KI 1:53"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "669914",
+"reference_id": 203492,
+"version": "1.0.4",
+"title": "Самаритяне",
+"media_type": "Text",
+"index_reference": "самаритяне",
+"language": "rus",
+"review_level": "Professional",
+"content": "<p>Самария <span>— это название области </span>к северу от Иудеи. Центром Самарии <span>был древний город Сихем, который в Новом Завете называется Сихарь</span>. После завоевания Израиля в 722 г. до н.э. Сихем и другие города Самарии были разрушены, а саму территорию заселили народы из различных частей Ассирийской империи (<data class=\"bible-ref\" data-start-ref=\"12017021\" data-end-ref=\"12017041\">4Цар.17:21–41</data>). Эти новые жители принесли с собой большое количество языческих верований, из-за чего Самария стала известна своей духовной нечистотой. Со временем иудейская вера в единого Бога стала основной, однако некоторые практические аспекты поклонения Богу изменились. В качестве Священного Писания самаряне принимали только Пятикнижие Моисея (то есть первые пять книг Ветхого Завета). Они также поклонялись Богу в своём новом храме, расположенном на горе Гаризим, возвышавшейся над городом Сихем.</p><p>В течение долгого периода иудеи и самаряне враждовали между собой (начиная со времён возвращения еврейского народа из плена, см. <data class=\"bible-ref\" data-start-ref=\"15004001\" data-end-ref=\"15004005\">Езд.4:1–5</data>; <data class=\"bible-ref\" data-start-ref=\"16004001\" data-end-ref=\"16004023\">Неем.4:1–23</data>). Александр Македонский и впоследствии греческие полководцы сделали Сихем своей важной военной базой, поскольку нашли там союзников, враждебно настроенных против иудеев. В 128 г. до н.э. иудеи разрушили Сихем и сожгли самарянский храм на горе Гаризим. В 6–9 гг. н.э. самаряне <span>нанесли ответный удар и осквернили Иерусалимский Храм, </span>разбросав во время Пасхи взятые с кладбища человеческие кости<span>. Во время жизни Иисуса вражда между Иудеей и Самарией всё ещё оставалась очень сильной.</span></p><p>Во время жизни Иисуса иудеи, путешествуя, предпочитали не ходить через Самарию, так как считали её жителей своими врагами и нечистыми язычниками. Когда Иисус однажды проходил через Самарию, Он встретил там женщину-самарянку. Напряжённость в их беседе была очевидна. Никто из живущих в первом веке людей не мог и представить, что Иисус и та женщина не только не будут испытывать взаимную вражду, но и заговорят друг с другом. В этой ситуации Иисус не побоялся пренебречь Своей этнической и культурной принадлежностью, чтобы призвать к спасению самарянку с сомнительной репутацией.</p><p><u>Отрывки для дальнейшего изучения</u></p><p><data class=\"bible-ref\" data-start-ref=\"12017021\" data-end-ref=\"12017041\">4 Царств 17:21–41</data>; <data class=\"bible-ref\" data-start-ref=\"15004001\" data-end-ref=\"15004005\">Ездра 4:1–5</data>; <data class=\"bible-ref\" data-start-ref=\"16004001\" data-end-ref=\"16004023\">Неемия 4:1–23</data>; <data class=\"bible-ref\" data-start-ref=\"43004001\" data-end-ref=\"43004042\">Иоанна 4:1–42</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "15004001",
+"start_ref_usfm": "EZR 4:1",
+"end_ref": "15004005",
+"end_ref_usfm": "EZR 4:5"
+},
+{
+"start_ref": "43004001",
+"start_ref_usfm": "JHN 4:1",
+"end_ref": "43004042",
+"end_ref_usfm": "JHN 4:42"
+},
+{
+"start_ref": "16004001",
+"start_ref_usfm": "NEH 4:1",
+"end_ref": "16004023",
+"end_ref_usfm": "NEH 4:23"
+},
+{
+"start_ref": "12017021",
+"start_ref_usfm": "2KI 17:21",
+"end_ref": "12017041",
+"end_ref_usfm": "2KI 17:41"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "group:Samaritan",
+"type": "group",
+"confidence": 0.6176,
+"match_method": "scored",
+"preferred_label": "Samaritans"
+}
+]
+}
+},
+{
+"content_id": "669846",
+"reference_id": 203424,
+"version": "1.0.4",
+"title": "Самсон",
+"media_type": "Text",
+"index_reference": "самсон",
+"language": "rus",
+"review_level": "Professional",
+"content": "<p><span>Самсон </span>— это хороший пример того, что даже человека, который поступает неправильно и не заботится ни о ком, кроме самого себя, Бог может использовать<span> во благо. Самсон спас народ Израиля, не прилагая усилий и не даже не думая об этом. Казалось, Самсону были безразличны и собственный народ, и семья, и Бог. Он заботился лишь о себе. И всё же Господь помещал его в такие ситуации, где он причинял вред филистимлянам — народу, который с Божьего позволения угнетал грешный Израиль.</span></p><p>Впервые Господь использовал Самсона, когда тот сообщил своим родителям о своём желании жениться на филистимлянке. Его решение удивило их, так как израильтянам было запрещено вступать в брак с жителями той земли (<data class=\"bible-ref\" data-start-ref=\"05007001\" data-end-ref=\"05007004\">Втор.7:1–4</data>; <data class=\"bible-ref\" data-start-ref=\"06023012\" data-end-ref=\"06023013\">Иис.Нав.23:12–13</data>; см. также <data class=\"bible-ref\" data-start-ref=\"47006014\" data-end-ref=\"47006018\">2Кор.6:14–18</data>). Самсон продолжал настаивать на женитьбе, несмотря на несогласие родителей.</p><p>По пути на свадебное торжество он съел мёд из мёртвого льва, которого убил ранее. Самсон был назореем, которым строго запрещалось прикасаться к мёртвым телам (<data class=\"bible-ref\" data-start-ref=\"04006001\" data-end-ref=\"04006021\">Чис.6:1–21</data>), но Самсона это не волновало. Он придумал загадку про этого льва (<data class=\"bible-ref\" data-start-ref=\"07014014\" data-end-ref=\"07014014\">Суд.14:14</data>), и на свадьбе поспорил с тридцатью молодым филистимлянам, что они не смогут разгадать эту загадку. Тогда филистимляне заставили жену Самсона сказать им ответ. Самсон, узнав об этом, пришёл в ярость и убил тридцать других филистимских мужчин, снял с них одежду и отдал тем, кому проиграл спор. Бог использовал этого эгоистичного героя, чтобы «начать избавление Израиля от руки Филистимлян» (<data class=\"bible-ref\" data-start-ref=\"07013005\" data-end-ref=\"07013005\">Суд.13:5</data>).</p><p>Последняя важная история из жизни Самсона повествует о женщине по имени Далида (<data class=\"bible-ref\" data-start-ref=\"07016004\" data-end-ref=\"07016031\">Суд.16:4–31</data>). Эта женщина постоянно расспрашивала Самсона о секрете его силы и не упокоилась до тех пор, пока он не открыл ей свою тайну. Сделав это, Самсон нарушил назорейский обет <span>— </span>особое обещание, данное Богу. Далида обрезала ему волосы, и филистимляне смогли его одолеть. Они ослепили Самсона, связали его и заставили выполнять тяжёлые работы.</p><p>Во время нахождения Самсона в плену, его волосы постепенно начали отрастать. Однажды во время праздника филистимляне привели его в капище своего бога, чтобы поиздеваться над пленником. Тогда Самсон попросил, чтобы его подвели к двум главным колоннам здания. Он помолился Богу и попросил Его в последний раз дать ему силу, чтобы одолеть филистимлян и покончить с собой. После этой молитвы Самсон смог сдвинуть с места столбы и разрушить храм, убив таким образом около 3 000 филистимлян и самого себя. Этот поступок был совершён им не ради своего народа или Бога, а чтобы «<span>отмстить Филистимлянам за два глаза мои</span>» (<data class=\"bible-ref\" data-start-ref=\"07016028\" data-end-ref=\"07016028\">Суд.16:28</data>). И, хотя действия Самсона были частью Божьего плана, эта история заставляет читателя желать истинного спасителя.</p><p><u>Отрывки для дальнейшего изучения</u></p><p><data class=\"bible-ref\" data-start-ref=\"07013001\" data-end-ref=\"07016031\">Судей 13:1–16:31</data>; <data class=\"bible-ref\" data-start-ref=\"58011032\" data-end-ref=\"58011032\">Евреям 11:32</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07013005",
+"start_ref_usfm": "JDG 13:5",
+"end_ref": "07013005",
+"end_ref_usfm": "JDG 13:5"
+},
+{
+"start_ref": "07014014",
+"start_ref_usfm": "JDG 14:14",
+"end_ref": "07014014",
+"end_ref_usfm": "JDG 14:14"
+},
+{
+"start_ref": "07016028",
+"start_ref_usfm": "JDG 16:28",
+"end_ref": "07016028",
+"end_ref_usfm": "JDG 16:28"
+},
+{
+"start_ref": "58011032",
+"start_ref_usfm": "HEB 11:32",
+"end_ref": "58011032",
+"end_ref_usfm": "HEB 11:32"
+},
+{
+"start_ref": "05007001",
+"start_ref_usfm": "DEU 7:1",
+"end_ref": "05007004",
+"end_ref_usfm": "DEU 7:4"
+},
+{
+"start_ref": "07013001",
+"start_ref_usfm": "JDG 13:1",
+"end_ref": "07016031",
+"end_ref_usfm": "JDG 16:31"
+},
+{
+"start_ref": "04006001",
+"start_ref_usfm": "NUM 6:1",
+"end_ref": "04006021",
+"end_ref_usfm": "NUM 6:21"
+},
+{
+"start_ref": "06023012",
+"start_ref_usfm": "JOS 23:12",
+"end_ref": "06023013",
+"end_ref_usfm": "JOS 23:13"
+},
+{
+"start_ref": "47006014",
+"start_ref_usfm": "2CO 6:14",
+"end_ref": "47006018",
+"end_ref_usfm": "2CO 6:18"
+},
+{
+"start_ref": "07016004",
+"start_ref_usfm": "JDG 16:4",
+"end_ref": "07016031",
+"end_ref_usfm": "JDG 16:31"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "669854",
+"reference_id": 203432,
+"version": "1.0.4",
+"title": "Самуил",
+"media_type": "Text",
+"index_reference": "самуил",
+"language": "rus",
+"review_level": "Professional",
+"content": "<p>Самуил жил в конце периода судей и помог Божьему народу перейти от эпохи судей к эпохе царей. Самуил был последним судьёй Израиля (<data class=\"bible-ref\" data-start-ref=\"09007006\" data-end-ref=\"09007006\">1Цар.7:6</data>, <data class=\"bible-ref\" data-start-ref=\"09007015\" data-end-ref=\"09007017\">15–17</data>), и его также часто называют первым пророком Израиля (<data class=\"bible-ref\" data-start-ref=\"09003020\" data-end-ref=\"09003020\">1Цар.3:20</data>; <data class=\"bible-ref\" data-start-ref=\"44003024\" data-end-ref=\"44003024\">Деян.3:24</data>; <data class=\"bible-ref\" data-start-ref=\"44013020\" data-end-ref=\"44013020\">13:20</data>). Самуил служил как священник (см. <data class=\"bible-ref\" data-start-ref=\"09002018\" data-end-ref=\"09002018\">1Цар.2:18</data>) и был человеком великой веры (<data class=\"bible-ref\" data-start-ref=\"58011032\" data-end-ref=\"58011032\">Евр.11:32</data>).</p><p>Рождение Самуила стало ответом на горячие молитвы его матери Анны. Родители Самуила ежегодно ходили из Рамы в святилище в Силоме (<data class=\"bible-ref\" data-start-ref=\"09001003\" data-end-ref=\"09001003\">1Цар.1:3</data>). В святилище Анна, которая была бесплодной, молилась о сыне и пообещала отдать его на служение Богу (<data class=\"bible-ref\" data-start-ref=\"09001009\" data-end-ref=\"09001011\">1Цар.1:9–11</data>). Бог ответил на молитву Анны, и у неё родился сын (<data class=\"bible-ref\" data-start-ref=\"09001019\" data-end-ref=\"09001020\">1Цар.1:19–20</data>). Когда Самуил подрос, Анна привела его для служения в святилище, к первосвященнику Илию (<data class=\"bible-ref\" data-start-ref=\"09001024\" data-end-ref=\"09001028\">1Цар.1:24–28</data>; <data class=\"bible-ref\" data-start-ref=\"09002011\" data-end-ref=\"09002011\">2:11</data>).</p><p>Сыновья Илия были нечестивыми людьми. В отличие от них, Самуил верно служил Господу. Вскоре стало ясно, что Бог больше обращался к Самуилу, чем к Илию. Бог предупредил Самуила о бедствии, которое должно было произойти в семье Илия (<data class=\"bible-ref\" data-start-ref=\"09003001\" data-end-ref=\"09003018\">1Цар.3:1–18</data>), и это пророчество исполнилось, когда филистимляне одержали победу над Израилем, убили обоих сыновей Илия и захватили ковчег завета (<data class=\"bible-ref\" data-start-ref=\"09004001\" data-end-ref=\"09004022\">1Цар.4:1–22</data>). Позже, благодаря Самуилу, народ Израиля покаялся в своём идолопоклонстве (поклонении ложным богам) и одержал великую победу над филистимлянами (<data class=\"bible-ref\" data-start-ref=\"09007003\" data-end-ref=\"09007017\">1Цар.7:3–17</data>).</p><p>Когда Самуил достиг преклонного возраста, стало очевидно, что у него та же проблема, что и у Илия: его сыновья выросли нечестивыми людьми (<data class=\"bible-ref\" data-start-ref=\"09008001\" data-end-ref=\"09008003\">1Цар.8:1–3</data>). Люди не хотели, чтобы сыновья Самуила стали во главе народа, и попросили Самуила поставить им царя, чтобы тот вёл их в битвах против врагов (<data class=\"bible-ref\" data-start-ref=\"09008004\" data-end-ref=\"09008005\">1Цар.8:4–5</data>). Тогда Самуил помазал Саула в качестве первого царя Израиля (<data class=\"bible-ref\" data-start-ref=\"09009001\" data-end-ref=\"09010024\">1Цар.9:1–10:24</data>).</p><p>Переход от эпохи судей к эпохе царей был сложным. Самуил как священник молился за народ, а как пророк, он обличал Саула за его нетерпение и непослушание (<data class=\"bible-ref\" data-start-ref=\"09013005\" data-end-ref=\"09013014\">1Цар.13:5–14</data>; <data class=\"bible-ref\" data-start-ref=\"09015012\" data-end-ref=\"09015035\">15:12–35</data>). Когда Бог отверг Саула, Самуил помазал на царство Давида, Божьего избранника (<data class=\"bible-ref\" data-start-ref=\"09016001\" data-end-ref=\"09016013\">1Цар.16:1–13</data>), и всячески защищал его от Саула (<data class=\"bible-ref\" data-start-ref=\"09019018\" data-end-ref=\"09019024\">19:18–24</data>).</p><p>Благодаря своей молитвенной жизни и посвящённости Самуил был вождём, исполненным веры (<data class=\"bible-ref\" data-start-ref=\"24015001\" data-end-ref=\"24015001\">Иер.15:1</data>; <data class=\"bible-ref\" data-start-ref=\"58011032\" data-end-ref=\"58011032\">Евр.11:32</data>). Он глубоко заботился о Божьем народе и смело обличал царей и старейшин. <span>Самуил объединил Израиль, преодолев разделения между коленами, помог нации окрепнуть и установил в Израиле систему царского правления. </span>Вероятно, именно Самуил является автором «Записей Самуила провидца» (<data class=\"bible-ref\" data-start-ref=\"13029029\" data-end-ref=\"13029029\">1Пар.29:29</data>) и наставлений о том, как должен править добрый царь (<data class=\"bible-ref\" data-start-ref=\"09010025\" data-end-ref=\"09010025\">1Цар.10:25</data>). Когда Самуил умер, весь Израиль оплакивал его. Он был похоронен в своём родном городе Раме (<data class=\"bible-ref\" data-start-ref=\"09025001\" data-end-ref=\"09025001\">1Цар.25:1</data>).</p><p><u>Отрывки для дальнейшего изучения</u></p><p><data class=\"bible-ref\" data-start-ref=\"09001019\" data-end-ref=\"09002011\">1 Царств 1:19–2:11</data>; <data class=\"bible-ref\" data-start-ref=\"09003001\" data-end-ref=\"09004001\">3:1–4:1</data>; <data class=\"bible-ref\" data-start-ref=\"09007003\" data-end-ref=\"09016013\">7:3–16:13</data>; <data class=\"bible-ref\" data-start-ref=\"09019018\" data-end-ref=\"09019024\">19:18–24</data>; <data class=\"bible-ref\" data-start-ref=\"09025001\" data-end-ref=\"09025001\">25:1</data>; <data class=\"bible-ref\" data-start-ref=\"09028001\" data-end-ref=\"09028025\">28:1–25</data>; <data class=\"bible-ref\" data-start-ref=\"19099006\" data-end-ref=\"19099006\">Псалом 98:6</data>; <data class=\"bible-ref\" data-start-ref=\"24015001\" data-end-ref=\"24015001\">Иеремия 15:1</data>; <data class=\"bible-ref\" data-start-ref=\"44003024\" data-end-ref=\"44003024\">Деяния 3:24</data>; <data class=\"bible-ref\" data-start-ref=\"44013020\" data-end-ref=\"44013020\">13:20</data>; <data class=\"bible-ref\" data-start-ref=\"58011032\" data-end-ref=\"58011032\">Евреям 11:32</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09001003",
+"start_ref_usfm": "1SA 1:3",
+"end_ref": "09001003",
+"end_ref_usfm": "1SA 1:3"
+},
+{
+"start_ref": "09002011",
+"start_ref_usfm": "1SA 2:11",
+"end_ref": "09002011",
+"end_ref_usfm": "1SA 2:11"
+},
+{
+"start_ref": "09002018",
+"start_ref_usfm": "1SA 2:18",
+"end_ref": "09002018",
+"end_ref_usfm": "1SA 2:18"
+},
+{
+"start_ref": "09003020",
+"start_ref_usfm": "1SA 3:20",
+"end_ref": "09003020",
+"end_ref_usfm": "1SA 3:20"
+},
+{
+"start_ref": "09007006",
+"start_ref_usfm": "1SA 7:6",
+"end_ref": "09007006",
+"end_ref_usfm": "1SA 7:6"
+},
+{
+"start_ref": "09010025",
+"start_ref_usfm": "1SA 10:25",
+"end_ref": "09010025",
+"end_ref_usfm": "1SA 10:25"
+},
+{
+"start_ref": "09025001",
+"start_ref_usfm": "1SA 25:1",
+"end_ref": "09025001",
+"end_ref_usfm": "1SA 25:1"
+},
+{
+"start_ref": "13029029",
+"start_ref_usfm": "1CH 29:29",
+"end_ref": "13029029",
+"end_ref_usfm": "1CH 29:29"
+},
+{
+"start_ref": "19099006",
+"start_ref_usfm": "PSA 99:6",
+"end_ref": "19099006",
+"end_ref_usfm": "PSA 99:6"
+},
+{
+"start_ref": "24015001",
+"start_ref_usfm": "JER 15:1",
+"end_ref": "24015001",
+"end_ref_usfm": "JER 15:1"
+},
+{
+"start_ref": "44003024",
+"start_ref_usfm": "ACT 3:24",
+"end_ref": "44003024",
+"end_ref_usfm": "ACT 3:24"
+},
+{
+"start_ref": "44013020",
+"start_ref_usfm": "ACT 13:20",
+"end_ref": "44013020",
+"end_ref_usfm": "ACT 13:20"
+},
+{
+"start_ref": "58011032",
+"start_ref_usfm": "HEB 11:32",
+"end_ref": "58011032",
+"end_ref_usfm": "HEB 11:32"
+},
+{
+"start_ref": "09007015",
+"start_ref_usfm": "1SA 7:15",
+"end_ref": "09007017",
+"end_ref_usfm": "1SA 7:17"
+},
+{
+"start_ref": "09016001",
+"start_ref_usfm": "1SA 16:1",
+"end_ref": "09016013",
+"end_ref_usfm": "1SA 16:13"
+},
+{
+"start_ref": "09004001",
+"start_ref_usfm": "1SA 4:1",
+"end_ref": "09004022",
+"end_ref_usfm": "1SA 4:22"
+},
+{
+"start_ref": "09003001",
+"start_ref_usfm": "1SA 3:1",
+"end_ref": "09004001",
+"end_ref_usfm": "1SA 4:1"
+},
+{
+"start_ref": "09028001",
+"start_ref_usfm": "1SA 28:1",
+"end_ref": "09028025",
+"end_ref_usfm": "1SA 28:25"
+},
+{
+"start_ref": "09013005",
+"start_ref_usfm": "1SA 13:5",
+"end_ref": "09013014",
+"end_ref_usfm": "1SA 13:14"
+},
+{
+"start_ref": "09008001",
+"start_ref_usfm": "1SA 8:1",
+"end_ref": "09008003",
+"end_ref_usfm": "1SA 8:3"
+},
+{
+"start_ref": "09008004",
+"start_ref_usfm": "1SA 8:4",
+"end_ref": "09008005",
+"end_ref_usfm": "1SA 8:5"
+},
+{
+"start_ref": "09001024",
+"start_ref_usfm": "1SA 1:24",
+"end_ref": "09001028",
+"end_ref_usfm": "1SA 1:28"
+},
+{
+"start_ref": "09001009",
+"start_ref_usfm": "1SA 1:9",
+"end_ref": "09001011",
+"end_ref_usfm": "1SA 1:11"
+},
+{
+"start_ref": "09001019",
+"start_ref_usfm": "1SA 1:19",
+"end_ref": "09001020",
+"end_ref_usfm": "1SA 1:20"
+},
+{
+"start_ref": "09003001",
+"start_ref_usfm": "1SA 3:1",
+"end_ref": "09003018",
+"end_ref_usfm": "1SA 3:18"
+},
+{
+"start_ref": "09007003",
+"start_ref_usfm": "1SA 7:3",
+"end_ref": "09007017",
+"end_ref_usfm": "1SA 7:17"
+},
+{
+"start_ref": "09009001",
+"start_ref_usfm": "1SA 9:1",
+"end_ref": "09010024",
+"end_ref_usfm": "1SA 10:24"
+},
+{
+"start_ref": "09015012",
+"start_ref_usfm": "1SA 15:12",
+"end_ref": "09015035",
+"end_ref_usfm": "1SA 15:35"
+},
+{
+"start_ref": "09019018",
+"start_ref_usfm": "1SA 19:18",
+"end_ref": "09019024",
+"end_ref_usfm": "1SA 19:24"
+},
+{
+"start_ref": "09001019",
+"start_ref_usfm": "1SA 1:19",
+"end_ref": "09002011",
+"end_ref_usfm": "1SA 2:11"
+},
+{
+"start_ref": "09007003",
+"start_ref_usfm": "1SA 7:3",
+"end_ref": "09016013",
+"end_ref_usfm": "1SA 16:13"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "669820",
+"reference_id": 203398,
+"version": "1.0.4",
+"title": "Сарра",
+"media_type": "Text",
+"index_reference": "сарра",
+"language": "rus",
+"review_level": "Professional",
+"content": "<p>Сарра была женой Авраама и его сводной сестрой (<data class=\"bible-ref\" data-start-ref=\"01011029\" data-end-ref=\"01011029\">Быт.11:29</data>; <data class=\"bible-ref\" data-start-ref=\"01020012\" data-end-ref=\"01020012\">20:12</data>). Вместе с Авраамом Сара вышла из Ура Халдейского и отправилась сначала в Харран, а затем в Ханаан (<data class=\"bible-ref\" data-start-ref=\"01011031\" data-end-ref=\"01011031\">Быт.11:31</data>; <data class=\"bible-ref\" data-start-ref=\"01012005\" data-end-ref=\"01012005\">12:5</data>). Дважды — в Египте и Гераре — Авраам просил Сарру говорить, что она не жена ему, а сестра (<data class=\"bible-ref\" data-start-ref=\"01012010\" data-end-ref=\"01012020\">Быт.12:10–20</data>; <data class=\"bible-ref\" data-start-ref=\"01020001\" data-end-ref=\"01020018\">20:1–18</data>). Авраам боялся, что его могут убить из-за неё. Несмотря на недостаток веры Авраама, Бог оба раза защитил Сарру. Господь сохранил избранный род, через который Он обещал произвести народ Израиля (<data class=\"bible-ref\" data-start-ref=\"01012002\" data-end-ref=\"01012002\">Быт.12:2</data>; <data class=\"bible-ref\" data-start-ref=\"01017019\" data-end-ref=\"01017019\">17:19</data>).</p><p>Сарра — одна из нескольких женщин в Библии, которые были бесплодными, но чудесным образом смогли родить сына (см. также <data class=\"bible-ref\" data-start-ref=\"01030022\" data-end-ref=\"01030024\">Быт.30:22–24</data>; <data class=\"bible-ref\" data-start-ref=\"09001009\" data-end-ref=\"09001020\">1Цар.1:9–20</data>; <data class=\"bible-ref\" data-start-ref=\"12004014\" data-end-ref=\"12004017\">4Цар.4:14–17</data>; <data class=\"bible-ref\" data-start-ref=\"42001005\" data-end-ref=\"42001025\">Лк.1:5–25</data>). После того как Бог несколько раз повторил Свои обещания, Сарра, наконец, забеременела и родила Исаака. Это произошло, когда Сарре было девяносто лет, что показывает, что Бог может творить, казалось бы, невозможное (ср. <data class=\"bible-ref\" data-start-ref=\"01017017\" data-end-ref=\"01017017\">Быт.17:17</data>; <data class=\"bible-ref\" data-start-ref=\"01021001\" data-end-ref=\"01021005\">21:1–5</data>). Когда Бог пообещал дать Саре сына, Он изменил её имя на Сарра (<data class=\"bible-ref\" data-start-ref=\"01017015\" data-end-ref=\"01017016\">Быт.17:15–16</data>). Сарру почитают за её веру, хотя она и рассмеялась, когда услышала предсказание о рождении Исаака (<data class=\"bible-ref\" data-start-ref=\"01018010\" data-end-ref=\"01018015\">Быт.18:10–15</data>), ведь это произошло через двадцать пять лет после того, как Бог впервые дал такое обещание Аврааму. </p><p>Сарра умерла в возрасте 127 лет и была похоронена в пещере, которую Авраам купил в Махпеле (<data class=\"bible-ref\" data-start-ref=\"01023001\" data-end-ref=\"01023020\">Быт.23</data>). Сарра считается матерью народа Израиля (<data class=\"bible-ref\" data-start-ref=\"23051002\" data-end-ref=\"23051002\">Ис.51:2</data>), а Авраам — отцом. Сарра играет ключевую роль в рассказах о вере Авраама (см. <data class=\"bible-ref\" data-start-ref=\"45004019\" data-end-ref=\"45004019\">Рим.4:19</data>). Она символизирует свободу, которую имеют христиане (как дети Сарры, свободной женщины) через веру во Христа (см. <data class=\"bible-ref\" data-start-ref=\"48004021\" data-end-ref=\"48004031\">Гал.4:21–31</data>). Пётр приводит в пример её святое подчинение мужу (<data class=\"bible-ref\" data-start-ref=\"60003005\" data-end-ref=\"60003006\">1Пет.3:5–6</data>), а автор Послания к Евреям ставит в пример её веру в то, что Бог исполняет обещанное (<data class=\"bible-ref\" data-start-ref=\"58011011\" data-end-ref=\"58011012\">Евр.11:11–12</data>). Жизнь Сарры показывает, что Господь верен, даже если Его сроки не всегда совпадают с нашими ожиданиями.</p><p><u>Отрывки для дальнейшего изучения</u></p><p><data class=\"bible-ref\" data-start-ref=\"01011029\" data-end-ref=\"01011031\">Бытие 11:29–31</data>; <data class=\"bible-ref\" data-start-ref=\"01012010\" data-end-ref=\"01012020\">12:10–20</data>; <data class=\"bible-ref\" data-start-ref=\"01017015\" data-end-ref=\"01017022\">17:15–22</data>; <data class=\"bible-ref\" data-start-ref=\"01018009\" data-end-ref=\"01018015\">18:9–15</data>; <data class=\"bible-ref\" data-start-ref=\"01020001\" data-end-ref=\"01020018\">20:1–18</data>; <data class=\"bible-ref\" data-start-ref=\"01021001\" data-end-ref=\"01021013\">21:1–13</data>; <data class=\"bible-ref\" data-start-ref=\"01023001\" data-end-ref=\"01023020\">23:1–20</data>; <data class=\"bible-ref\" data-start-ref=\"23051002\" data-end-ref=\"23051002\">Исаия 51:2</data>; <data class=\"bible-ref\" data-start-ref=\"45004019\" data-end-ref=\"45004019\">Римлянам 4:19</data>; <data class=\"bible-ref\" data-start-ref=\"45009006\" data-end-ref=\"45009009\">9:6–9</data>; <data class=\"bible-ref\" data-start-ref=\"48004021\" data-end-ref=\"48004031\">Галатам 4:21–31</data>; <data class=\"bible-ref\" data-start-ref=\"58011011\" data-end-ref=\"58011012\">Евреям 11:11–12</data>; <data class=\"bible-ref\" data-start-ref=\"60003006\" data-end-ref=\"60003006\">1 Петра 3:6</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01011029",
+"start_ref_usfm": "GEN 11:29",
+"end_ref": "01011029",
+"end_ref_usfm": "GEN 11:29"
+},
+{
+"start_ref": "01011031",
+"start_ref_usfm": "GEN 11:31",
+"end_ref": "01011031",
+"end_ref_usfm": "GEN 11:31"
+},
+{
+"start_ref": "01012002",
+"start_ref_usfm": "GEN 12:2",
+"end_ref": "01012002",
+"end_ref_usfm": "GEN 12:2"
+},
+{
+"start_ref": "01012005",
+"start_ref_usfm": "GEN 12:5",
+"end_ref": "01012005",
+"end_ref_usfm": "GEN 12:5"
+},
+{
+"start_ref": "01017017",
+"start_ref_usfm": "GEN 17:17",
+"end_ref": "01017017",
+"end_ref_usfm": "GEN 17:17"
+},
+{
+"start_ref": "01017019",
+"start_ref_usfm": "GEN 17:19",
+"end_ref": "01017019",
+"end_ref_usfm": "GEN 17:19"
+},
+{
+"start_ref": "01020012",
+"start_ref_usfm": "GEN 20:12",
+"end_ref": "01020012",
+"end_ref_usfm": "GEN 20:12"
+},
+{
+"start_ref": "23051002",
+"start_ref_usfm": "ISA 51:2",
+"end_ref": "23051002",
+"end_ref_usfm": "ISA 51:2"
+},
+{
+"start_ref": "45004019",
+"start_ref_usfm": "ROM 4:19",
+"end_ref": "45004019",
+"end_ref_usfm": "ROM 4:19"
+},
+{
+"start_ref": "60003006",
+"start_ref_usfm": "1PE 3:6",
+"end_ref": "60003006",
+"end_ref_usfm": "1PE 3:6"
+},
+{
+"start_ref": "01012010",
+"start_ref_usfm": "GEN 12:10",
+"end_ref": "01012020",
+"end_ref_usfm": "GEN 12:20"
+},
+{
+"start_ref": "01023001",
+"start_ref_usfm": "GEN 23:1",
+"end_ref": "01023020",
+"end_ref_usfm": "GEN 23:20"
+},
+{
+"start_ref": "42001005",
+"start_ref_usfm": "LUK 1:5",
+"end_ref": "42001025",
+"end_ref_usfm": "LUK 1:25"
+},
+{
+"start_ref": "01020001",
+"start_ref_usfm": "GEN 20:1",
+"end_ref": "01020018",
+"end_ref_usfm": "GEN 20:18"
+},
+{
+"start_ref": "01017015",
+"start_ref_usfm": "GEN 17:15",
+"end_ref": "01017016",
+"end_ref_usfm": "GEN 17:16"
+},
+{
+"start_ref": "48004021",
+"start_ref_usfm": "GAL 4:21",
+"end_ref": "48004031",
+"end_ref_usfm": "GAL 4:31"
+},
+{
+"start_ref": "01021001",
+"start_ref_usfm": "GEN 21:1",
+"end_ref": "01021005",
+"end_ref_usfm": "GEN 21:5"
+},
+{
+"start_ref": "01030022",
+"start_ref_usfm": "GEN 30:22",
+"end_ref": "01030024",
+"end_ref_usfm": "GEN 30:24"
+},
+{
+"start_ref": "60003005",
+"start_ref_usfm": "1PE 3:5",
+"end_ref": "60003006",
+"end_ref_usfm": "1PE 3:6"
+},
+{
+"start_ref": "58011011",
+"start_ref_usfm": "HEB 11:11",
+"end_ref": "58011012",
+"end_ref_usfm": "HEB 11:12"
+},
+{
+"start_ref": "09001009",
+"start_ref_usfm": "1SA 1:9",
+"end_ref": "09001020",
+"end_ref_usfm": "1SA 1:20"
+},
+{
+"start_ref": "12004014",
+"start_ref_usfm": "2KI 4:14",
+"end_ref": "12004017",
+"end_ref_usfm": "2KI 4:17"
+},
+{
+"start_ref": "01018010",
+"start_ref_usfm": "GEN 18:10",
+"end_ref": "01018015",
+"end_ref_usfm": "GEN 18:15"
+},
+{
+"start_ref": "01011029",
+"start_ref_usfm": "GEN 11:29",
+"end_ref": "01011031",
+"end_ref_usfm": "GEN 11:31"
+},
+{
+"start_ref": "01017015",
+"start_ref_usfm": "GEN 17:15",
+"end_ref": "01017022",
+"end_ref_usfm": "GEN 17:22"
+},
+{
+"start_ref": "01018009",
+"start_ref_usfm": "GEN 18:9",
+"end_ref": "01018015",
+"end_ref_usfm": "GEN 18:15"
+},
+{
+"start_ref": "01021001",
+"start_ref_usfm": "GEN 21:1",
+"end_ref": "01021013",
+"end_ref_usfm": "GEN 21:13"
+},
+{
+"start_ref": "45009006",
+"start_ref_usfm": "ROM 9:6",
+"end_ref": "45009009",
+"end_ref_usfm": "ROM 9:9"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "669886",
+"reference_id": 203464,
+"version": "1.0.4",
+"title": "сатана",
+"media_type": "Text",
+"index_reference": "сатана",
+"language": "rus",
+"review_level": "Professional",
+"content": "<p>В Книге Иова говорится о <span>«сатане»</span>, который пришёл в небесные дворы (<data class=\"bible-ref\" data-start-ref=\"18001006\" data-end-ref=\"18001006\">Иов.1:6</data>; <data class=\"bible-ref\" data-start-ref=\"18002001\" data-end-ref=\"18002001\">2:1</data>). (Небесные дворы — это собрание на небесах, где Бог встречается со Своими ангелами). На древнееврейском языке слово <em>сатан</em> означает «противник» (то есть тот, кто противостоит) или «обвинитель на суде» (см. <data class=\"bible-ref\" data-start-ref=\"18001001\" data-end-ref=\"18002013\">Иов.1–2</data>; <data class=\"bible-ref\" data-start-ref=\"38003001\" data-end-ref=\"38003001\">Зах.3:1</data>). Иногда Бог посылает ангелов, чтобы они были обвинителями в праведном суде или противостояли тем, кто делает зло (см., например, <data class=\"bible-ref\" data-start-ref=\"04022022\" data-end-ref=\"04022022\">Чис.22:22</data>, <data class=\"bible-ref\" data-start-ref=\"04022032\" data-end-ref=\"04022032\">32</data>, где <em>сатан </em>переводится как «воспрепятствовать»; см. также <data class=\"bible-ref\" data-start-ref=\"11022019\" data-end-ref=\"11022023\">3Цар.22:19–23</data>).</p><p>Ветхий Завет предполагает, что этот обвинитель имеет демоническую природу. Однако отождествление сатаны со змеем в Едемском саду появилось только в межзаветный период (см. <em>Премудрость Соломона</em> 2:24). В Новом Завете «сатана» — это главный демон (<data class=\"bible-ref\" data-start-ref=\"66020002\" data-end-ref=\"66020002\">Откр.20:2</data>). Новый Завет называет его по-разному, например: </p><ul><li><p>Дьявол (<data class=\"bible-ref\" data-start-ref=\"40004001\" data-end-ref=\"40004011\">Мф.4:1–11</data>)</p></li><li><p>Искуситель (<data class=\"bible-ref\" data-start-ref=\"52003005\" data-end-ref=\"52003005\">1Фес.3:5</data>)</p></li><li><p>Веельзевул, бесовский князь (см. комментарии к <data class=\"bible-ref\" data-start-ref=\"40012024\" data-end-ref=\"40012024\">Мф.12:24</data>; <data class=\"bible-ref\" data-start-ref=\"42011015\" data-end-ref=\"42011015\">Лк.11:15</data>)</p></li><li><p>Лукавый (<data class=\"bible-ref\" data-start-ref=\"40013019\" data-end-ref=\"40013019\">Мф.13:19</data>, <data class=\"bible-ref\" data-start-ref=\"40013038\" data-end-ref=\"40013038\">38</data>; <data class=\"bible-ref\" data-start-ref=\"62002013\" data-end-ref=\"62002014\">1Ин.2:13–14</data>; <data class=\"bible-ref\" data-start-ref=\"62003012\" data-end-ref=\"62003012\">3:12</data>; <data class=\"bible-ref\" data-start-ref=\"62005018\" data-end-ref=\"62005018\">5:18</data>)</p></li><li><p>Велиар (см. комментарии к <data class=\"bible-ref\" data-start-ref=\"47006015\" data-end-ref=\"47006015\">2Кор.6:15</data>)</p></li><li><p>Сатана (<data class=\"bible-ref\" data-start-ref=\"66012009\" data-end-ref=\"66012009\">Откр.12:9</data>)</p></li><li><p>Большой/великий красный дракон с семью головами (<data class=\"bible-ref\" data-start-ref=\"66012003\" data-end-ref=\"66012003\">Откр.12:3</data>, <data class=\"bible-ref\" data-start-ref=\"66012009\" data-end-ref=\"66012009\">9</data>)</p></li><li><p>Древний змей (<data class=\"bible-ref\" data-start-ref=\"66020002\" data-end-ref=\"66020002\">Откр.20:2</data>)</p></li><li><p>Человекоубийца от начала, отец лжи (<data class=\"bible-ref\" data-start-ref=\"43008044\" data-end-ref=\"43008044\">Ин.8:44</data>)</p></li></ul><p>Сатана сделал много злого против Бога и Его народа. Именно он побудил Давида пересчитать своих воинов, чего не следовало делать (<data class=\"bible-ref\" data-start-ref=\"13021001\" data-end-ref=\"13021001\">1Пар.1:1</data>; ср. <data class=\"bible-ref\" data-start-ref=\"10024001\" data-end-ref=\"10024001\">2Цар.24:1</data>). Сатана пытался искусить Иисуса, а позже помог Иуде предать Христа (<data class=\"bible-ref\" data-start-ref=\"41001012\" data-end-ref=\"41001013\">Мк.1:12–13</data>; <data class=\"bible-ref\" data-start-ref=\"43013027\" data-end-ref=\"43013027\">Ин.13:27</data>). Он хотел испытать Петра так же, как когда-то испытывал Иова (<data class=\"bible-ref\" data-start-ref=\"42022031\" data-end-ref=\"42022031\">Лк.22:31</data>). Сатана вовлекает людей в грех (<data class=\"bible-ref\" data-start-ref=\"44026017\" data-end-ref=\"44026018\">Деян.26:17–18</data>), он использует ложь, чтобы искушать Божий народ (<data class=\"bible-ref\" data-start-ref=\"46007005\" data-end-ref=\"46007005\">1Кор.7:5</data>; <data class=\"bible-ref\" data-start-ref=\"47011014\" data-end-ref=\"47011014\">2Кор.11:14</data>). В конце времён Бог победит противника Божьего народа: Бог свергнет сатану и заключит его в тюрьму (<data class=\"bible-ref\" data-start-ref=\"66012009\" data-end-ref=\"66012009\">Откр.12:9</data>; <data class=\"bible-ref\" data-start-ref=\"66020002\" data-end-ref=\"66020002\">20:2</data>,<data class=\"bible-ref\" data-start-ref=\"66020010\" data-end-ref=\"66020010\">10</data>).</p><p><u>Отрывки для дальнейшего изучения</u></p><p><data class=\"bible-ref\" data-start-ref=\"04022022\" data-end-ref=\"04022022\">Числа 22:22</data>, <data class=\"bible-ref\" data-start-ref=\"04022032\" data-end-ref=\"04022032\">32</data>; <data class=\"bible-ref\" data-start-ref=\"13021001\" data-end-ref=\"13021001\">1 Паралипоменон 21:1</data>; <data class=\"bible-ref\" data-start-ref=\"18001006\" data-end-ref=\"18002007\">Иов 1:6–2:7</data>; <data class=\"bible-ref\" data-start-ref=\"38003001\" data-end-ref=\"38003004\">Захария 3:1–4</data>; <data class=\"bible-ref\" data-start-ref=\"40004001\" data-end-ref=\"40004010\">Матфея 4:1–10</data>; <data class=\"bible-ref\" data-start-ref=\"40012024\" data-end-ref=\"40012024\">12:24</data>; <data class=\"bible-ref\" data-start-ref=\"40013019\" data-end-ref=\"40013019\">13:19</data>, <data class=\"bible-ref\" data-start-ref=\"40013038\" data-end-ref=\"40013039\">38–39</data>; <data class=\"bible-ref\" data-start-ref=\"40016023\" data-end-ref=\"40016023\">16:23</data>;<data class=\"bible-ref\" data-start-ref=\"41001013\" data-end-ref=\"41001013\"> Марка 1:13</data>; <data class=\"bible-ref\" data-start-ref=\"41004015\" data-end-ref=\"41004015\">4:15</data>; <data class=\"bible-ref\" data-start-ref=\"42004006\" data-end-ref=\"42004006\">Луки 4:6</data>; <data class=\"bible-ref\" data-start-ref=\"42010017\" data-end-ref=\"42010020\">10:17–20</data>; <data class=\"bible-ref\" data-start-ref=\"42011015\" data-end-ref=\"42011015\">11:15</data>; <data class=\"bible-ref\" data-start-ref=\"42022003\" data-end-ref=\"42022003\">22:3</data>,<data class=\"bible-ref\" data-start-ref=\"42022031\" data-end-ref=\"42022031\">31</data>; <data class=\"bible-ref\" data-start-ref=\"43008044\" data-end-ref=\"43008044\">Иоанна 8:44</data>; <data class=\"bible-ref\" data-start-ref=\"43012031\" data-end-ref=\"43012031\">12:31</data>; <data class=\"bible-ref\" data-start-ref=\"43013002\" data-end-ref=\"43013002\">13:2</data>, <data class=\"bible-ref\" data-start-ref=\"43013027\" data-end-ref=\"43013027\">27</data>; <data class=\"bible-ref\" data-start-ref=\"43016011\" data-end-ref=\"43016011\">16:11</data>; <data class=\"bible-ref\" data-start-ref=\"44013009\" data-end-ref=\"44013010\">Деяния13:9–10</data>; <data class=\"bible-ref\" data-start-ref=\"44026017\" data-end-ref=\"44026018\">26:17–18</data>; <data class=\"bible-ref\" data-start-ref=\"45016020\" data-end-ref=\"45016020\">Римлянам 16:20</data>; <data class=\"bible-ref\" data-start-ref=\"46007005\" data-end-ref=\"46007005\">1 Коринфянам 7:5</data>; <data class=\"bible-ref\" data-start-ref=\"47002010\" data-end-ref=\"47002011\">2 Коринфянам 2:10–11</data>; <data class=\"bible-ref\" data-start-ref=\"47004004\" data-end-ref=\"47004004\">4:4</data>; <data class=\"bible-ref\" data-start-ref=\"47006015\" data-end-ref=\"47006015\">6:15</data>; <data class=\"bible-ref\" data-start-ref=\"47011013\" data-end-ref=\"47011015\">11:13–15</data>; <data class=\"bible-ref\" data-start-ref=\"52003005\" data-end-ref=\"52003005\">1 Фессалоникийцам 3:5</data>; <data class=\"bible-ref\" data-start-ref=\"53002002\" data-end-ref=\"53002012\">2 Фессалоникийцам 2:2–12</data>; <data class=\"bible-ref\" data-start-ref=\"58002014\" data-end-ref=\"58002014\">Евреям 2:14</data>; <data class=\"bible-ref\" data-start-ref=\"59004007\" data-end-ref=\"59004007\">Иакова 4:7</data>; <data class=\"bible-ref\" data-start-ref=\"60005008\" data-end-ref=\"60005008\">1 Петра 5:8</data>; <data class=\"bible-ref\" data-start-ref=\"62002013\" data-end-ref=\"62002014\">1 Иоанна 2:13–14</data>; <data class=\"bible-ref\" data-start-ref=\"62003012\" data-end-ref=\"62003012\">3:12</data>; <data class=\"bible-ref\" data-start-ref=\"62005018\" data-end-ref=\"62005018\">5:18</data>; <data class=\"bible-ref\" data-start-ref=\"66012003\" data-end-ref=\"66012003\">Откровение 12:3</data>,<data class=\"bible-ref\" data-start-ref=\"66012009\" data-end-ref=\"66012009\">9</data>; <data class=\"bible-ref\" data-start-ref=\"66020002\" data-end-ref=\"66020002\">20:2</data>,<data class=\"bible-ref\" data-start-ref=\"66020010\" data-end-ref=\"66020010\">10П</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04022022",
+"start_ref_usfm": "NUM 22:22",
+"end_ref": "04022022",
+"end_ref_usfm": "NUM 22:22"
+},
+{
+"start_ref": "04022032",
+"start_ref_usfm": "NUM 22:32",
+"end_ref": "04022032",
+"end_ref_usfm": "NUM 22:32"
+},
+{
+"start_ref": "10024001",
+"start_ref_usfm": "2SA 24:1",
+"end_ref": "10024001",
+"end_ref_usfm": "2SA 24:1"
+},
+{
+"start_ref": "13021001",
+"start_ref_usfm": "1CH 21:1",
+"end_ref": "13021001",
+"end_ref_usfm": "1CH 21:1"
+},
+{
+"start_ref": "18001006",
+"start_ref_usfm": "JOB 1:6",
+"end_ref": "18001006",
+"end_ref_usfm": "JOB 1:6"
+},
+{
+"start_ref": "18002001",
+"start_ref_usfm": "JOB 2:1",
+"end_ref": "18002001",
+"end_ref_usfm": "JOB 2:1"
+},
+{
+"start_ref": "38003001",
+"start_ref_usfm": "ZEC 3:1",
+"end_ref": "38003001",
+"end_ref_usfm": "ZEC 3:1"
+},
+{
+"start_ref": "40012024",
+"start_ref_usfm": "MAT 12:24",
+"end_ref": "40012024",
+"end_ref_usfm": "MAT 12:24"
+},
+{
+"start_ref": "40013019",
+"start_ref_usfm": "MAT 13:19",
+"end_ref": "40013019",
+"end_ref_usfm": "MAT 13:19"
+},
+{
+"start_ref": "40013038",
+"start_ref_usfm": "MAT 13:38",
+"end_ref": "40013038",
+"end_ref_usfm": "MAT 13:38"
+},
+{
+"start_ref": "40016023",
+"start_ref_usfm": "MAT 16:23",
+"end_ref": "40016023",
+"end_ref_usfm": "MAT 16:23"
+},
+{
+"start_ref": "41001013",
+"start_ref_usfm": "MRK 1:13",
+"end_ref": "41001013",
+"end_ref_usfm": "MRK 1:13"
+},
+{
+"start_ref": "41004015",
+"start_ref_usfm": "MRK 4:15",
+"end_ref": "41004015",
+"end_ref_usfm": "MRK 4:15"
+},
+{
+"start_ref": "42004006",
+"start_ref_usfm": "LUK 4:6",
+"end_ref": "42004006",
+"end_ref_usfm": "LUK 4:6"
+},
+{
+"start_ref": "42011015",
+"start_ref_usfm": "LUK 11:15",
+"end_ref": "42011015",
+"end_ref_usfm": "LUK 11:15"
+},
+{
+"start_ref": "42022003",
+"start_ref_usfm": "LUK 22:3",
+"end_ref": "42022003",
+"end_ref_usfm": "LUK 22:3"
+},
+{
+"start_ref": "42022031",
+"start_ref_usfm": "LUK 22:31",
+"end_ref": "42022031",
+"end_ref_usfm": "LUK 22:31"
+},
+{
+"start_ref": "43008044",
+"start_ref_usfm": "JHN 8:44",
+"end_ref": "43008044",
+"end_ref_usfm": "JHN 8:44"
+},
+{
+"start_ref": "43012031",
+"start_ref_usfm": "JHN 12:31",
+"end_ref": "43012031",
+"end_ref_usfm": "JHN 12:31"
+},
+{
+"start_ref": "43013002",
+"start_ref_usfm": "JHN 13:2",
+"end_ref": "43013002",
+"end_ref_usfm": "JHN 13:2"
+},
+{
+"start_ref": "43013027",
+"start_ref_usfm": "JHN 13:27",
+"end_ref": "43013027",
+"end_ref_usfm": "JHN 13:27"
+},
+{
+"start_ref": "43016011",
+"start_ref_usfm": "JHN 16:11",
+"end_ref": "43016011",
+"end_ref_usfm": "JHN 16:11"
+},
+{
+"start_ref": "45016020",
+"start_ref_usfm": "ROM 16:20",
+"end_ref": "45016020",
+"end_ref_usfm": "ROM 16:20"
+},
+{
+"start_ref": "46007005",
+"start_ref_usfm": "1CO 7:5",
+"end_ref": "46007005",
+"end_ref_usfm": "1CO 7:5"
+},
+{
+"start_ref": "47004004",
+"start_ref_usfm": "2CO 4:4",
+"end_ref": "47004004",
+"end_ref_usfm": "2CO 4:4"
+},
+{
+"start_ref": "47006015",
+"start_ref_usfm": "2CO 6:15",
+"end_ref": "47006015",
+"end_ref_usfm": "2CO 6:15"
+},
+{
+"start_ref": "47011014",
+"start_ref_usfm": "2CO 11:14",
+"end_ref": "47011014",
+"end_ref_usfm": "2CO 11:14"
+},
+{
+"start_ref": "52003005",
+"start_ref_usfm": "1TH 3:5",
+"end_ref": "52003005",
+"end_ref_usfm": "1TH 3:5"
+},
+{
+"start_ref": "58002014",
+"start_ref_usfm": "HEB 2:14",
+"end_ref": "58002014",
+"end_ref_usfm": "HEB 2:14"
+},
+{
+"start_ref": "59004007",
+"start_ref_usfm": "JAS 4:7",
+"end_ref": "59004007",
+"end_ref_usfm": "JAS 4:7"
+},
+{
+"start_ref": "60005008",
+"start_ref_usfm": "1PE 5:8",
+"end_ref": "60005008",
+"end_ref_usfm": "1PE 5:8"
+},
+{
+"start_ref": "62003012",
+"start_ref_usfm": "1JN 3:12",
+"end_ref": "62003012",
+"end_ref_usfm": "1JN 3:12"
+},
+{
+"start_ref": "62005018",
+"start_ref_usfm": "1JN 5:18",
+"end_ref": "62005018",
+"end_ref_usfm": "1JN 5:18"
+},
+{
+"start_ref": "66012003",
+"start_ref_usfm": "REV 12:3",
+"end_ref": "66012003",
+"end_ref_usfm": "REV 12:3"
+},
+{
+"start_ref": "66012009",
+"start_ref_usfm": "REV 12:9",
+"end_ref": "66012009",
+"end_ref_usfm": "REV 12:9"
+},
+{
+"start_ref": "66020002",
+"start_ref_usfm": "REV 20:2",
+"end_ref": "66020002",
+"end_ref_usfm": "REV 20:2"
+},
+{
+"start_ref": "66020010",
+"start_ref_usfm": "REV 20:10",
+"end_ref": "66020010",
+"end_ref_usfm": "REV 20:10"
+},
+{
+"start_ref": "40004001",
+"start_ref_usfm": "MAT 4:1",
+"end_ref": "40004011",
+"end_ref_usfm": "MAT 4:11"
+},
+{
+"start_ref": "42010017",
+"start_ref_usfm": "LUK 10:17",
+"end_ref": "42010020",
+"end_ref_usfm": "LUK 10:20"
+},
+{
+"start_ref": "18001001",
+"start_ref_usfm": "JOB 1:1",
+"end_ref": "18002013",
+"end_ref_usfm": "JOB 2:13"
+},
+{
+"start_ref": "44026017",
+"start_ref_usfm": "ACT 26:17",
+"end_ref": "44026018",
+"end_ref_usfm": "ACT 26:18"
+},
+{
+"start_ref": "11022019",
+"start_ref_usfm": "1KI 22:19",
+"end_ref": "11022023",
+"end_ref_usfm": "1KI 22:23"
+},
+{
+"start_ref": "47011013",
+"start_ref_usfm": "2CO 11:13",
+"end_ref": "47011015",
+"end_ref_usfm": "2CO 11:15"
+},
+{
+"start_ref": "18001006",
+"start_ref_usfm": "JOB 1:6",
+"end_ref": "18002007",
+"end_ref_usfm": "JOB 2:7"
+},
+{
+"start_ref": "41001012",
+"start_ref_usfm": "MRK 1:12",
+"end_ref": "41001013",
+"end_ref_usfm": "MRK 1:13"
+},
+{
+"start_ref": "62002013",
+"start_ref_usfm": "1JN 2:13",
+"end_ref": "62002014",
+"end_ref_usfm": "1JN 2:14"
+},
+{
+"start_ref": "38003001",
+"start_ref_usfm": "ZEC 3:1",
+"end_ref": "38003004",
+"end_ref_usfm": "ZEC 3:4"
+},
+{
+"start_ref": "40004001",
+"start_ref_usfm": "MAT 4:1",
+"end_ref": "40004010",
+"end_ref_usfm": "MAT 4:10"
+},
+{
+"start_ref": "40013038",
+"start_ref_usfm": "MAT 13:38",
+"end_ref": "40013039",
+"end_ref_usfm": "MAT 13:39"
+},
+{
+"start_ref": "44013009",
+"start_ref_usfm": "ACT 13:9",
+"end_ref": "44013010",
+"end_ref_usfm": "ACT 13:10"
+},
+{
+"start_ref": "47002010",
+"start_ref_usfm": "2CO 2:10",
+"end_ref": "47002011",
+"end_ref_usfm": "2CO 2:11"
+},
+{
+"start_ref": "53002002",
+"start_ref_usfm": "2TH 2:2",
+"end_ref": "53002012",
+"end_ref_usfm": "2TH 2:12"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "669849",
+"reference_id": 203427,
+"version": "1.0.4",
+"title": "Саул",
+"media_type": "Text",
+"index_reference": "саул",
+"language": "rus",
+"review_level": "Professional",
+"content": "<p>Саул был первым царём Израиля. Он был избран и Богом, и народом Израиля, но всё же его правление было крайне неудачным из-за его недостатка уверенности в себе и в Боге. Саул был сложной личностью. <span>Порой нам становится даже жаль его. Однако зачастую он сам создавал себе проблемы, принося расстройство и неприятности своим близким.</span></p><p><span>Саул был сыном богатого землевладельца. Он стал царём, сам того не ожидая и не желая. Люди хотели, чтобы царь вёл их в битвах, и поэтому им понравился Саул, ведь он был высокого роста </span>(<data class=\"bible-ref\" data-start-ref=\"09010023\" data-end-ref=\"09010023\">1Цар.10:23</data>). <span>Однако военные конфликты Израиля были очень сложными, и Саулу как военачальнику не хватало уверенности. Без пророка Самуила и Ионафана, сына Саула, правление Саула могло закончиться полной катастрофой.</span></p><p><span>Саул огорчал Бога, давая во время войны поспешные и необдуманные обещания </span>(<data class=\"bible-ref\" data-start-ref=\"09014016\" data-end-ref=\"09014046\">1Цар.14:16–46</data>). Он совершил жертвоприношение перед битвой, не дождавшись прихода пророка Самуила (<data class=\"bible-ref\" data-start-ref=\"09013007\" data-end-ref=\"09013014\">1Цар.13:7–14</data>). Саул нарушил Божье повеление, когда отказался уничтожить всех амаликитян вместе с их имуществом (<data class=\"bible-ref\" data-start-ref=\"09015001\" data-end-ref=\"09015035\">1Цар.15:1–35</data>). Из-за всего этого Господь решил отнять царство у Саула. Бог послал Самуила, чтобы тот вылил на голову Давида священное масло, тем самым избрав Давида новым царём. Вскоре Саул стал с большим подозрением относиться к Давиду, хотя тот был лучшим другом его сына и самым преданным слугой. Саул превратился в жестокого правителя, который ни за что не хотел лишиться власти. Он тратил огромное количество времени и усилий, чтобы поймать и убить Давида. </p><p>В одной из битв с филистимлянами Саул получил серьёзное ранение и покончил с собой своим же мечом. Его смерть была результатом Божьего суда. Хотя Давиду и пришлось долгие годы скрываться от Саула, он искренне почтил первого царя и его сына Ионафана в траурном плаче (<data class=\"bible-ref\" data-start-ref=\"10001017\" data-end-ref=\"10001027\">2Цар.1:17–27</data>).</p><p><u>Отрывки для дальнейшего изучения</u></p><p><data class=\"bible-ref\" data-start-ref=\"09009001\" data-end-ref=\"09011015\">1 Царств 9:1–11:15</data>; <data class=\"bible-ref\" data-start-ref=\"09013001\" data-end-ref=\"09031013\">13:1–31:13</data>; <data class=\"bible-ref\" data-start-ref=\"10001001\" data-end-ref=\"10001027\">2 Царств 1:1–27</data>; <data class=\"bible-ref\" data-start-ref=\"13009035\" data-end-ref=\"13010014\">1 Паралипоменон 9:35–10:14</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09010023",
+"start_ref_usfm": "1SA 10:23",
+"end_ref": "09010023",
+"end_ref_usfm": "1SA 10:23"
+},
+{
+"start_ref": "09015001",
+"start_ref_usfm": "1SA 15:1",
+"end_ref": "09015035",
+"end_ref_usfm": "1SA 15:35"
+},
+{
+"start_ref": "10001001",
+"start_ref_usfm": "2SA 1:1",
+"end_ref": "10001027",
+"end_ref_usfm": "2SA 1:27"
+},
+{
+"start_ref": "10001017",
+"start_ref_usfm": "2SA 1:17",
+"end_ref": "10001027",
+"end_ref_usfm": "2SA 1:27"
+},
+{
+"start_ref": "09009001",
+"start_ref_usfm": "1SA 9:1",
+"end_ref": "09011015",
+"end_ref_usfm": "1SA 11:15"
+},
+{
+"start_ref": "09013007",
+"start_ref_usfm": "1SA 13:7",
+"end_ref": "09013014",
+"end_ref_usfm": "1SA 13:14"
+},
+{
+"start_ref": "09014016",
+"start_ref_usfm": "1SA 14:16",
+"end_ref": "09014046",
+"end_ref_usfm": "1SA 14:46"
+},
+{
+"start_ref": "09013001",
+"start_ref_usfm": "1SA 13:1",
+"end_ref": "09031013",
+"end_ref_usfm": "1SA 31:13"
+},
+{
+"start_ref": "13009035",
+"start_ref_usfm": "1CH 9:35",
+"end_ref": "13010014",
+"end_ref_usfm": "1CH 10:14"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "669902",
+"reference_id": 203480,
+"version": "1.0.4",
+"title": "Симон Пётр",
+"media_type": "Text",
+"index_reference": "симон пётр",
+"language": "rus",
+"review_level": "Professional",
+"content": "<p>Симон Пётр был главным среди двенадцати самых близких последователей Иисуса (апостолов). <span>После смерти Христа он стал руководителем церкви, официально представлявшим интересы ранних христиан в Иерусалиме</span>. Пётр был апостолом, который в основном отвечал за распространение Благой Вести среди иудеев (<data class=\"bible-ref\" data-start-ref=\"48002007\" data-end-ref=\"48002008\">Гал.2:7–8</data>).</p><p>Еврейское имя <em>Симеон</em> (или <em>Симон</em>), по-видимому, было его первым именем. Впоследствии Иисус дал ему новое имя, <em>Кифа</em>, <span>что на арамейском означает </span>«камень». На греческом языке слово «камень» звучит как <em>Петрос</em> (русское «Пётр»; см. <data class=\"bible-ref\" data-start-ref=\"40016017\" data-end-ref=\"40016018\">Мф.16:17–18</data>; <data class=\"bible-ref\" data-start-ref=\"43001042\" data-end-ref=\"43001042\">Ин.1:42</data>).</p><p>Родным городом Петра была Вифсаида (<data class=\"bible-ref\" data-start-ref=\"43001044\" data-end-ref=\"43001044\">Ин.1:44</data>), позже он переселился в Капернаум. Пётр был женат (<data class=\"bible-ref\" data-start-ref=\"46009005\" data-end-ref=\"46009005\">1Кор.9:5</data>). Однажды находясь в доме Петра, Иисус исцелил его тёщу (<data class=\"bible-ref\" data-start-ref=\"40008014\" data-end-ref=\"40008015\">Мф.8:14–15</data>; <data class=\"bible-ref\" data-start-ref=\"41001029\" data-end-ref=\"41001031\">Мк.1:29–31</data>; <data class=\"bible-ref\" data-start-ref=\"42004038\" data-end-ref=\"42004039\">Лк.4:38–39</data>).</p><p>Пётр и его брат Андрей были рыбаками. Иисус призвал их стать одними из первых учеников, вместе с их товарищами по рыбной ловле Иаковом и Иоанном (<data class=\"bible-ref\" data-start-ref=\"40004018\" data-end-ref=\"40004022\">Мф.4:18–22</data>; <data class=\"bible-ref\" data-start-ref=\"41001016\" data-end-ref=\"41001020\">Мк.1:16–20</data>; см. также <data class=\"bible-ref\" data-start-ref=\"42005001\" data-end-ref=\"42005011\">Лк.5:1–11</data>; <data class=\"bible-ref\" data-start-ref=\"43001035\" data-end-ref=\"43001051\">Ин.1:35–51</data>). Все они были простыми людьми, не получившими хорошего образования (<data class=\"bible-ref\" data-start-ref=\"44004013\" data-end-ref=\"44004013\">Деян.4:13</data>).</p><p>Каждый раз, когда перечисляются имена двенадцати апостолов, имя Петра стоит первым (<data class=\"bible-ref\" data-start-ref=\"40010002\" data-end-ref=\"40010002\">Мф.10:2</data>; <data class=\"bible-ref\" data-start-ref=\"41003016\" data-end-ref=\"41003016\">Мк.3:16</data>; <data class=\"bible-ref\" data-start-ref=\"42006014\" data-end-ref=\"42006014\">Лк.6:14</data>; <data class=\"bible-ref\" data-start-ref=\"44001013\" data-end-ref=\"44001013\">Деян.1:13</data>). Вместе с Иаковом и его братом Иоанном, Пётр входил в близкий круг учеников, которые находились с Иисусом в особо важные моменты, например:</p><ul><li><p>воскрешение дочери Иаира (<data class=\"bible-ref\" data-start-ref=\"41005037\" data-end-ref=\"41005037\">Mк.5:37</data>; <data class=\"bible-ref\" data-start-ref=\"42008051\" data-end-ref=\"42008051\">Лк.8:51</data>), </p></li><li><p>преображение Иисуса, когда Его облик изменился (<data class=\"bible-ref\" data-start-ref=\"40017001\" data-end-ref=\"40017002\">Мф.17:1–2</data>; <data class=\"bible-ref\" data-start-ref=\"41009002\" data-end-ref=\"41009002\">Мк.9:2</data>; <data class=\"bible-ref\" data-start-ref=\"42009028\" data-end-ref=\"42009029\">Лк.9:28–29</data>), и </p></li><li><p>молитва Иисуса в Гефсиманском саду (<data class=\"bible-ref\" data-start-ref=\"40026037\" data-end-ref=\"40026037\">Мф.26:37</data>; <data class=\"bible-ref\" data-start-ref=\"41014033\" data-end-ref=\"41014033\">Мк.14:33</data>).</p></li></ul><p>Пётр был решительным и горячим человеком (<data class=\"bible-ref\" data-start-ref=\"40026033\" data-end-ref=\"40026033\">Мф.26:33</data>; <data class=\"bible-ref\" data-start-ref=\"41014029\" data-end-ref=\"41014029\">Мк.14:29</data>; <data class=\"bible-ref\" data-start-ref=\"42005008\" data-end-ref=\"42005008\">Лк.5:8</data>; <data class=\"bible-ref\" data-start-ref=\"42022033\" data-end-ref=\"42022033\">22:33</data>; <data class=\"bible-ref\" data-start-ref=\"43013036\" data-end-ref=\"43013037\">Ин.13:36–37</data>; <data class=\"bible-ref\" data-start-ref=\"43021007\" data-end-ref=\"43021007\">21:7</data>). Он первым из учеников исповедал веру в Иисуса как в Христа (то есть избранного Мессию, Божьего Сына, <data class=\"bible-ref\" data-start-ref=\"40016015\" data-end-ref=\"40016016\">Мф.16:15–16</data>; <data class=\"bible-ref\" data-start-ref=\"41008029\" data-end-ref=\"41008029\">Мк.8:29</data>; <data class=\"bible-ref\" data-start-ref=\"42009020\" data-end-ref=\"42009020\">Лк.9:20</data>). Когда Иисус говорил о Своей предстоящей смерти, Пётр стал возражать, поскольку слова Иисуса не соотносились с представлением Петра о Мессии. Но Иисус строго обличил Петра (<data class=\"bible-ref\" data-start-ref=\"40016021\" data-end-ref=\"40016023\">Мф.16:21–23</data>; <data class=\"bible-ref\" data-start-ref=\"41008031\" data-end-ref=\"41008033\">Мк.8:31–33</data>). И тем не менее, Иисус сказал, что Пётр займёт ключевую роль в создании Божьей Церкви (<data class=\"bible-ref\" data-start-ref=\"40016018\" data-end-ref=\"40016019\">Мф.16:18–19</data>).</p><p>Когда Христа привели в дом первосвященника для допроса, Пётр тайно зашёл во двор. Окружающие люди узнали Петра, отчасти по его галилейскому акценту, и обвинили его в том, что он сообщник Иисуса. Но Пётр настойчиво отрицал знакомство с Иисусом <span>— как и предсказывал Иисус</span>, хотя сам Пётр утверждал, что никогда так не поступит (<data class=\"bible-ref\" data-start-ref=\"40026069\" data-end-ref=\"40026075\">Мф.26:69–75</data>; <data class=\"bible-ref\" data-start-ref=\"41014066\" data-end-ref=\"41014072\">Мк.14:66–72</data>; <data class=\"bible-ref\" data-start-ref=\"42022054\" data-end-ref=\"42022062\">Лк.22:54–62</data>). Пётр сразу же раскаялся и глубоко сожалел о том, что сделал (<data class=\"bible-ref\" data-start-ref=\"40026033\" data-end-ref=\"40026035\">Мф.26:33–35</data>; <data class=\"bible-ref\" data-start-ref=\"41014029\" data-end-ref=\"41014031\">Мк.14:29–31</data>; <data class=\"bible-ref\" data-start-ref=\"42022031\" data-end-ref=\"42022034\">Лк.22:31–34</data>).</p><p>Когда Пётр услышал о воскресении Иисуса, он одним из первых побежал к гробнице, чтобы проверить, правда ли это (<data class=\"bible-ref\" data-start-ref=\"43020003\" data-end-ref=\"43020007\">Ин.20:3–7</data>). Похоже, он был первым из двенадцати апостолов, кому явился воскресший Иисус (<data class=\"bible-ref\" data-start-ref=\"42024033\" data-end-ref=\"42024034\">Лк.24:33–34</data>; <data class=\"bible-ref\" data-start-ref=\"46015005\" data-end-ref=\"46015005\">1Кор.15:5</data>). Большая часть разговора, записанного в <data class=\"bible-ref\" data-start-ref=\"43021001\" data-end-ref=\"43021025\">21-й главе Евангелия от Иоанна</data>, происходит между Петром и Иисусом. Иисус сказал ему: «Паси овец Моих» (<data class=\"bible-ref\" data-start-ref=\"43021015\" data-end-ref=\"43021017\">Ин.21:15–17</data>).</p><p>После того как в День Пятидесятницы на верующих сошёл Святой Дух (<data class=\"bible-ref\" data-start-ref=\"44002001\" data-end-ref=\"44002013\">Деян.2:1–13</data>), Пётр стал главным апостолом и выступал от имени всех последователей Иисуса. Как это видно из <data class=\"bible-ref\" data-start-ref=\"44002014\" data-end-ref=\"44012025\">Деян.2:14–12:25</data>, Пётр играл ключевую роль в распространении Благой Вести об Иисусе в Иудее.</p><ul><li><p>Он смело проповедовал толпам (<data class=\"bible-ref\" data-start-ref=\"44002014\" data-end-ref=\"44002041\">Деян.2:14–41</data>; <data class=\"bible-ref\" data-start-ref=\"44003012\" data-end-ref=\"44003026\">3:12–26</data>)</p></li><li><p>Он исцелял людей (<data class=\"bible-ref\" data-start-ref=\"44003001\" data-end-ref=\"44003011\">Деян.3:1–11</data>; <data class=\"bible-ref\" data-start-ref=\"44005012\" data-end-ref=\"44005016\">5:12–16</data>; <data class=\"bible-ref\" data-start-ref=\"44009032\" data-end-ref=\"44009043\">9:32–43</data>)</p></li><li><p>Он смело обращался к властям, даже когда был арестован (<data class=\"bible-ref\" data-start-ref=\"44004001\" data-end-ref=\"44004020\">Деян.4:1–20</data>; <data class=\"bible-ref\" data-start-ref=\"44005026\" data-end-ref=\"44005032\">5:26–32</data>)</p></li><li><p>Он дважды чудесным образом бежал из тюрьмы (<data class=\"bible-ref\" data-start-ref=\"44005018\" data-end-ref=\"44005025\">Деян.5:18–25</data>; <data class=\"bible-ref\" data-start-ref=\"44012006\" data-end-ref=\"44012011\">12:6–11</data>)</p></li><li><p>Он также занимал ведущую роль в руководстве быстро растущей общиной учеников (<data class=\"bible-ref\" data-start-ref=\"44005003\" data-end-ref=\"44005011\">Деян.5:3–11</data>)</p></li></ul><p>Пётр был первым, кто поделился Благой Вестью с не-евреями (<data class=\"bible-ref\" data-start-ref=\"44010001\" data-end-ref=\"44010048\">Деян.10:1–48</data>; см. <data class=\"bible-ref\" data-start-ref=\"40016018\" data-end-ref=\"40016018\">Мф.16:18</data>). Он сыграл ключевую роль на Иерусалимском соборе, где рассматривался вопрос об обращённых не-евреях: Пётр утверждал, что не-евреев не нужно заставлять следовать закону Моисея, но их нужно принимать только на основании их веры в Христа (<data class=\"bible-ref\" data-start-ref=\"44015007\" data-end-ref=\"44015011\">Деян.15:7–11</data>). Позже, при посещении Антиохии, Пётр проявил непоследовательность в вопросе отношений с не-евреями, за что его резко критиковал апостол Павел (<data class=\"bible-ref\" data-start-ref=\"48002011\" data-end-ref=\"48002016\">Гал.2:11–16</data>).</p><p>В некоторые свои миссионерские поездки Пётр брал свою жену (<data class=\"bible-ref\" data-start-ref=\"46009005\" data-end-ref=\"46009005\">1Кор.9:5</data>). О более позднем этапе жизни и миссионерской деятельности Петра известно немного. Возможно, некоторое время он провёл в Коринфе (<data class=\"bible-ref\" data-start-ref=\"46001012\" data-end-ref=\"46001012\">1Кор.1:12</data>; <data class=\"bible-ref\" data-start-ref=\"46003022\" data-end-ref=\"46003022\">3:22</data>). Согласно преданию, Пётр был распят (то есть убит, будучи пригвождённым ко кресту) в Риме во время гонений на христиан при Нероне в 64–65 гг. н.э. Иисус предсказал это событие (<data class=\"bible-ref\" data-start-ref=\"43021018\" data-end-ref=\"43021019\">Ин.21:18–19</data>). Предание, что Пётр был распят вниз головой, менее достоверно.</p><p>Скорее всего, именно Пётр предоставил информацию, которую Марк записал с своём Евангелии. Вероятно, Марк узнал подробности о жизни Иисуса, помогая Петру в его евангелизационной работе в Италии ближе к концу жизни Петра. Предание также говорит, что Пётр был автором Первого послания Петра (написанного им из Рима, который он назвал «Вавилоном», <data class=\"bible-ref\" data-start-ref=\"60005013\" data-end-ref=\"60005013\">1Пет.5:13</data>) и Второго послания Петра.</p><p>В Новом Завете на примере Петра мы видим, как Иисус прощает и восстанавливает тех, кто подвёл Его. Иисус всё ещё может использовать таких людей для Своей славы. </p><p><u>Отрывки для дальнейшего изучения</u></p><p><data class=\"bible-ref\" data-start-ref=\"40004018\" data-end-ref=\"40004020\">Матфея 4:18–20</data>; <data class=\"bible-ref\" data-start-ref=\"40008014\" data-end-ref=\"40008014\">8:14</data>; <data class=\"bible-ref\" data-start-ref=\"40010002\" data-end-ref=\"40010002\">10:2</data>; <data class=\"bible-ref\" data-start-ref=\"40014028\" data-end-ref=\"40014031\">14:28–31</data>; <data class=\"bible-ref\" data-start-ref=\"40015015\" data-end-ref=\"40015015\">15:15</data>; <data class=\"bible-ref\" data-start-ref=\"40016016\" data-end-ref=\"40016019\">16:16–19</data>, <data class=\"bible-ref\" data-start-ref=\"40016022\" data-end-ref=\"40016023\">22–23</data>; <data class=\"bible-ref\" data-start-ref=\"40017001\" data-end-ref=\"40017004\">17:1–4</data>, <data class=\"bible-ref\" data-start-ref=\"40017024\" data-end-ref=\"40017027\">24–27</data>; <data class=\"bible-ref\" data-start-ref=\"40018021\" data-end-ref=\"40018021\">18:21</data>; <data class=\"bible-ref\" data-start-ref=\"40019027\" data-end-ref=\"40019027\">19:27</data>; <data class=\"bible-ref\" data-start-ref=\"40026033\" data-end-ref=\"40026045\">26:33–45</data>, <data class=\"bible-ref\" data-start-ref=\"40026058\" data-end-ref=\"40026058\">58</data>, <data class=\"bible-ref\" data-start-ref=\"40026069\" data-end-ref=\"40026075\">69–75</data>; <data class=\"bible-ref\" data-start-ref=\"41001016\" data-end-ref=\"41001018\">Марка 1:16–18</data>, <data class=\"bible-ref\" data-start-ref=\"41001029\" data-end-ref=\"41001030\">29–30</data>, <data class=\"bible-ref\" data-start-ref=\"41001036\" data-end-ref=\"41001037\">36–37</data>; <data class=\"bible-ref\" data-start-ref=\"41003016\" data-end-ref=\"41003016\">3:16</data>; <data class=\"bible-ref\" data-start-ref=\"41005037\" data-end-ref=\"41005037\">5:37</data>; <data class=\"bible-ref\" data-start-ref=\"41008029\" data-end-ref=\"41008033\">8:29–33</data>; <data class=\"bible-ref\" data-start-ref=\"41009002\" data-end-ref=\"41009006\">9:2–6</data>; <data class=\"bible-ref\" data-start-ref=\"41010028\" data-end-ref=\"41010028\">10:28</data>; <data class=\"bible-ref\" data-start-ref=\"41011021\" data-end-ref=\"41011021\">11:21</data>; <data class=\"bible-ref\" data-start-ref=\"41013003\" data-end-ref=\"41013004\">13:3–4</data>; <data class=\"bible-ref\" data-start-ref=\"41014029\" data-end-ref=\"41014042\">14:29–42</data>, <data class=\"bible-ref\" data-start-ref=\"41014054\" data-end-ref=\"41014054\">54</data>, <data class=\"bible-ref\" data-start-ref=\"41014066\" data-end-ref=\"41014072\">66–72</data>; <data class=\"bible-ref\" data-start-ref=\"41016007\" data-end-ref=\"41016008\">16:7–8</data>; <data class=\"bible-ref\" data-start-ref=\"42004038\" data-end-ref=\"42004038\">Луки 4:38</data>; <data class=\"bible-ref\" data-start-ref=\"42005003\" data-end-ref=\"42005010\">5:3–10</data>; <data class=\"bible-ref\" data-start-ref=\"42006014\" data-end-ref=\"42006014\">6:14</data>; <data class=\"bible-ref\" data-start-ref=\"42008045\" data-end-ref=\"42008045\">8:45</data>, <data class=\"bible-ref\" data-start-ref=\"42008051\" data-end-ref=\"42008051\">51</data>; <data class=\"bible-ref\" data-start-ref=\"42009020\" data-end-ref=\"42009020\">9:20</data>, <data class=\"bible-ref\" data-start-ref=\"42009028\" data-end-ref=\"42009033\">28–33</data>; <data class=\"bible-ref\" data-start-ref=\"42012041\" data-end-ref=\"42012041\">12:41</data>; <data class=\"bible-ref\" data-start-ref=\"42018028\" data-end-ref=\"42018028\">18:28</data>; <data class=\"bible-ref\" data-start-ref=\"42022008\" data-end-ref=\"42022008\">22:8</data>, <data class=\"bible-ref\" data-start-ref=\"42022031\" data-end-ref=\"42022034\">31–34</data>, <data class=\"bible-ref\" data-start-ref=\"42022055\" data-end-ref=\"42022062\">55–62</data>; <data class=\"bible-ref\" data-start-ref=\"42024012\" data-end-ref=\"42024012\">24:12</data>, <data class=\"bible-ref\" data-start-ref=\"42024034\" data-end-ref=\"42024034\">34</data>;<data class=\"bible-ref\" data-start-ref=\"43001040\" data-end-ref=\"43001042\"> Иоанна 1:40–42</data>, <data class=\"bible-ref\" data-start-ref=\"43001044\" data-end-ref=\"43001044\">44</data>; <data class=\"bible-ref\" data-start-ref=\"43006008\" data-end-ref=\"43006008\">6:8</data>,<data class=\"bible-ref\" data-start-ref=\"43006068\" data-end-ref=\"43006068\">68</data>; <data class=\"bible-ref\" data-start-ref=\"43013006\" data-end-ref=\"43013010\">13:6–10</data>,<data class=\"bible-ref\" data-start-ref=\"43013024\" data-end-ref=\"43013024\">24</data>,<data class=\"bible-ref\" data-start-ref=\"43013036\" data-end-ref=\"43013038\">36–38</data>; <data class=\"bible-ref\" data-start-ref=\"43018010\" data-end-ref=\"43018011\">18:10–11</data>,<data class=\"bible-ref\" data-start-ref=\"43018015\" data-end-ref=\"43018018\">15–18</data>,<data class=\"bible-ref\" data-start-ref=\"43018025\" data-end-ref=\"43018027\">25–27</data>; <data class=\"bible-ref\" data-start-ref=\"43020002\" data-end-ref=\"43020006\">20:2–6</data>; <data class=\"bible-ref\" data-start-ref=\"43021002\" data-end-ref=\"43021021\">21:2–21</data>; <data class=\"bible-ref\" data-start-ref=\"44001001\" data-end-ref=\"44012025\">Деяния 1:1–12:25</data>; <data class=\"bible-ref\" data-start-ref=\"44015007\" data-end-ref=\"44015011\">15:7–11</data>; <data class=\"bible-ref\" data-start-ref=\"48002007\" data-end-ref=\"48002016\">Галатам 2:7–16</data>; <data class=\"bible-ref\" data-start-ref=\"60001001\" data-end-ref=\"60005014\">1 Петра 1:1–5:14</data>; <data class=\"bible-ref\" data-start-ref=\"61001001\" data-end-ref=\"61003018\">2 Петра 1:1–3:18</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40008014",
+"start_ref_usfm": "MAT 8:14",
+"end_ref": "40008014",
+"end_ref_usfm": "MAT 8:14"
+},
+{
+"start_ref": "40010002",
+"start_ref_usfm": "MAT 10:2",
+"end_ref": "40010002",
+"end_ref_usfm": "MAT 10:2"
+},
+{
+"start_ref": "40015015",
+"start_ref_usfm": "MAT 15:15",
+"end_ref": "40015015",
+"end_ref_usfm": "MAT 15:15"
+},
+{
+"start_ref": "40016018",
+"start_ref_usfm": "MAT 16:18",
+"end_ref": "40016018",
+"end_ref_usfm": "MAT 16:18"
+},
+{
+"start_ref": "40018021",
+"start_ref_usfm": "MAT 18:21",
+"end_ref": "40018021",
+"end_ref_usfm": "MAT 18:21"
+},
+{
+"start_ref": "40019027",
+"start_ref_usfm": "MAT 19:27",
+"end_ref": "40019027",
+"end_ref_usfm": "MAT 19:27"
+},
+{
+"start_ref": "40026033",
+"start_ref_usfm": "MAT 26:33",
+"end_ref": "40026033",
+"end_ref_usfm": "MAT 26:33"
+},
+{
+"start_ref": "40026037",
+"start_ref_usfm": "MAT 26:37",
+"end_ref": "40026037",
+"end_ref_usfm": "MAT 26:37"
+},
+{
+"start_ref": "40026058",
+"start_ref_usfm": "MAT 26:58",
+"end_ref": "40026058",
+"end_ref_usfm": "MAT 26:58"
+},
+{
+"start_ref": "41003016",
+"start_ref_usfm": "MRK 3:16",
+"end_ref": "41003016",
+"end_ref_usfm": "MRK 3:16"
+},
+{
+"start_ref": "41005037",
+"start_ref_usfm": "MRK 5:37",
+"end_ref": "41005037",
+"end_ref_usfm": "MRK 5:37"
+},
+{
+"start_ref": "41008029",
+"start_ref_usfm": "MRK 8:29",
+"end_ref": "41008029",
+"end_ref_usfm": "MRK 8:29"
+},
+{
+"start_ref": "41009002",
+"start_ref_usfm": "MRK 9:2",
+"end_ref": "41009002",
+"end_ref_usfm": "MRK 9:2"
+},
+{
+"start_ref": "41010028",
+"start_ref_usfm": "MRK 10:28",
+"end_ref": "41010028",
+"end_ref_usfm": "MRK 10:28"
+},
+{
+"start_ref": "41011021",
+"start_ref_usfm": "MRK 11:21",
+"end_ref": "41011021",
+"end_ref_usfm": "MRK 11:21"
+},
+{
+"start_ref": "41014029",
+"start_ref_usfm": "MRK 14:29",
+"end_ref": "41014029",
+"end_ref_usfm": "MRK 14:29"
+},
+{
+"start_ref": "41014033",
+"start_ref_usfm": "MRK 14:33",
+"end_ref": "41014033",
+"end_ref_usfm": "MRK 14:33"
+},
+{
+"start_ref": "41014054",
+"start_ref_usfm": "MRK 14:54",
+"end_ref": "41014054",
+"end_ref_usfm": "MRK 14:54"
+},
+{
+"start_ref": "42004038",
+"start_ref_usfm": "LUK 4:38",
+"end_ref": "42004038",
+"end_ref_usfm": "LUK 4:38"
+},
+{
+"start_ref": "42005008",
+"start_ref_usfm": "LUK 5:8",
+"end_ref": "42005008",
+"end_ref_usfm": "LUK 5:8"
+},
+{
+"start_ref": "42006014",
+"start_ref_usfm": "LUK 6:14",
+"end_ref": "42006014",
+"end_ref_usfm": "LUK 6:14"
+},
+{
+"start_ref": "42008045",
+"start_ref_usfm": "LUK 8:45",
+"end_ref": "42008045",
+"end_ref_usfm": "LUK 8:45"
+},
+{
+"start_ref": "42008051",
+"start_ref_usfm": "LUK 8:51",
+"end_ref": "42008051",
+"end_ref_usfm": "LUK 8:51"
+},
+{
+"start_ref": "42009020",
+"start_ref_usfm": "LUK 9:20",
+"end_ref": "42009020",
+"end_ref_usfm": "LUK 9:20"
+},
+{
+"start_ref": "42012041",
+"start_ref_usfm": "LUK 12:41",
+"end_ref": "42012041",
+"end_ref_usfm": "LUK 12:41"
+},
+{
+"start_ref": "42018028",
+"start_ref_usfm": "LUK 18:28",
+"end_ref": "42018028",
+"end_ref_usfm": "LUK 18:28"
+},
+{
+"start_ref": "42022008",
+"start_ref_usfm": "LUK 22:8",
+"end_ref": "42022008",
+"end_ref_usfm": "LUK 22:8"
+},
+{
+"start_ref": "42022033",
+"start_ref_usfm": "LUK 22:33",
+"end_ref": "42022033",
+"end_ref_usfm": "LUK 22:33"
+},
+{
+"start_ref": "42024012",
+"start_ref_usfm": "LUK 24:12",
+"end_ref": "42024012",
+"end_ref_usfm": "LUK 24:12"
+},
+{
+"start_ref": "42024034",
+"start_ref_usfm": "LUK 24:34",
+"end_ref": "42024034",
+"end_ref_usfm": "LUK 24:34"
+},
+{
+"start_ref": "43001042",
+"start_ref_usfm": "JHN 1:42",
+"end_ref": "43001042",
+"end_ref_usfm": "JHN 1:42"
+},
+{
+"start_ref": "43001044",
+"start_ref_usfm": "JHN 1:44",
+"end_ref": "43001044",
+"end_ref_usfm": "JHN 1:44"
+},
+{
+"start_ref": "43006008",
+"start_ref_usfm": "JHN 6:8",
+"end_ref": "43006008",
+"end_ref_usfm": "JHN 6:8"
+},
+{
+"start_ref": "43006068",
+"start_ref_usfm": "JHN 6:68",
+"end_ref": "43006068",
+"end_ref_usfm": "JHN 6:68"
+},
+{
+"start_ref": "43013024",
+"start_ref_usfm": "JHN 13:24",
+"end_ref": "43013024",
+"end_ref_usfm": "JHN 13:24"
+},
+{
+"start_ref": "43021007",
+"start_ref_usfm": "JHN 21:7",
+"end_ref": "43021007",
+"end_ref_usfm": "JHN 21:7"
+},
+{
+"start_ref": "44001013",
+"start_ref_usfm": "ACT 1:13",
+"end_ref": "44001013",
+"end_ref_usfm": "ACT 1:13"
+},
+{
+"start_ref": "44004013",
+"start_ref_usfm": "ACT 4:13",
+"end_ref": "44004013",
+"end_ref_usfm": "ACT 4:13"
+},
+{
+"start_ref": "46001012",
+"start_ref_usfm": "1CO 1:12",
+"end_ref": "46001012",
+"end_ref_usfm": "1CO 1:12"
+},
+{
+"start_ref": "46003022",
+"start_ref_usfm": "1CO 3:22",
+"end_ref": "46003022",
+"end_ref_usfm": "1CO 3:22"
+},
+{
+"start_ref": "46009005",
+"start_ref_usfm": "1CO 9:5",
+"end_ref": "46009005",
+"end_ref_usfm": "1CO 9:5"
+},
+{
+"start_ref": "46015005",
+"start_ref_usfm": "1CO 15:5",
+"end_ref": "46015005",
+"end_ref_usfm": "1CO 15:5"
+},
+{
+"start_ref": "60005013",
+"start_ref_usfm": "1PE 5:13",
+"end_ref": "60005013",
+"end_ref_usfm": "1PE 5:13"
+},
+{
+"start_ref": "42005001",
+"start_ref_usfm": "LUK 5:1",
+"end_ref": "42005011",
+"end_ref_usfm": "LUK 5:11"
+},
+{
+"start_ref": "41014066",
+"start_ref_usfm": "MRK 14:66",
+"end_ref": "41014072",
+"end_ref_usfm": "MRK 14:72"
+},
+{
+"start_ref": "44001001",
+"start_ref_usfm": "ACT 1:1",
+"end_ref": "44012025",
+"end_ref_usfm": "ACT 12:25"
+},
+{
+"start_ref": "44010001",
+"start_ref_usfm": "ACT 10:1",
+"end_ref": "44010048",
+"end_ref_usfm": "ACT 10:48"
+},
+{
+"start_ref": "43001040",
+"start_ref_usfm": "JHN 1:40",
+"end_ref": "43001042",
+"end_ref_usfm": "JHN 1:42"
+},
+{
+"start_ref": "43021015",
+"start_ref_usfm": "JHN 21:15",
+"end_ref": "43021017",
+"end_ref_usfm": "JHN 21:17"
+},
+{
+"start_ref": "40004018",
+"start_ref_usfm": "MAT 4:18",
+"end_ref": "40004020",
+"end_ref_usfm": "MAT 4:20"
+},
+{
+"start_ref": "41001016",
+"start_ref_usfm": "MRK 1:16",
+"end_ref": "41001018",
+"end_ref_usfm": "MRK 1:18"
+},
+{
+"start_ref": "41013003",
+"start_ref_usfm": "MRK 13:3",
+"end_ref": "41013004",
+"end_ref_usfm": "MRK 13:4"
+},
+{
+"start_ref": "44003001",
+"start_ref_usfm": "ACT 3:1",
+"end_ref": "44003011",
+"end_ref_usfm": "ACT 3:11"
+},
+{
+"start_ref": "60001001",
+"start_ref_usfm": "1PE 1:1",
+"end_ref": "60005014",
+"end_ref_usfm": "1PE 5:14"
+},
+{
+"start_ref": "61001001",
+"start_ref_usfm": "2PE 1:1",
+"end_ref": "61003018",
+"end_ref_usfm": "2PE 3:18"
+},
+{
+"start_ref": "48002007",
+"start_ref_usfm": "GAL 2:7",
+"end_ref": "48002008",
+"end_ref_usfm": "GAL 2:8"
+},
+{
+"start_ref": "40004018",
+"start_ref_usfm": "MAT 4:18",
+"end_ref": "40004022",
+"end_ref_usfm": "MAT 4:22"
+},
+{
+"start_ref": "41001016",
+"start_ref_usfm": "MRK 1:16",
+"end_ref": "41001020",
+"end_ref_usfm": "MRK 1:20"
+},
+{
+"start_ref": "44015007",
+"start_ref_usfm": "ACT 15:7",
+"end_ref": "44015011",
+"end_ref_usfm": "ACT 15:11"
+},
+{
+"start_ref": "44003012",
+"start_ref_usfm": "ACT 3:12",
+"end_ref": "44003026",
+"end_ref_usfm": "ACT 3:26"
+},
+{
+"start_ref": "40016016",
+"start_ref_usfm": "MAT 16:16",
+"end_ref": "40016019",
+"end_ref_usfm": "MAT 16:19"
+},
+{
+"start_ref": "40016021",
+"start_ref_usfm": "MAT 16:21",
+"end_ref": "40016023",
+"end_ref_usfm": "MAT 16:23"
+},
+{
+"start_ref": "40017024",
+"start_ref_usfm": "MAT 17:24",
+"end_ref": "40017027",
+"end_ref_usfm": "MAT 17:27"
+},
+{
+"start_ref": "40026069",
+"start_ref_usfm": "MAT 26:69",
+"end_ref": "40026075",
+"end_ref_usfm": "MAT 26:75"
+},
+{
+"start_ref": "42022054",
+"start_ref_usfm": "LUK 22:54",
+"end_ref": "42022062",
+"end_ref_usfm": "LUK 22:62"
+},
+{
+"start_ref": "40017001",
+"start_ref_usfm": "MAT 17:1",
+"end_ref": "40017002",
+"end_ref_usfm": "MAT 17:2"
+},
+{
+"start_ref": "42009028",
+"start_ref_usfm": "LUK 9:28",
+"end_ref": "42009029",
+"end_ref_usfm": "LUK 9:29"
+},
+{
+"start_ref": "43021001",
+"start_ref_usfm": "JHN 21:1",
+"end_ref": "43021025",
+"end_ref_usfm": "JHN 21:25"
+},
+{
+"start_ref": "40016018",
+"start_ref_usfm": "MAT 16:18",
+"end_ref": "40016019",
+"end_ref_usfm": "MAT 16:19"
+},
+{
+"start_ref": "40008014",
+"start_ref_usfm": "MAT 8:14",
+"end_ref": "40008015",
+"end_ref_usfm": "MAT 8:15"
+},
+{
+"start_ref": "40014028",
+"start_ref_usfm": "MAT 14:28",
+"end_ref": "40014031",
+"end_ref_usfm": "MAT 14:31"
+},
+{
+"start_ref": "43021018",
+"start_ref_usfm": "JHN 21:18",
+"end_ref": "43021019",
+"end_ref_usfm": "JHN 21:19"
+},
+{
+"start_ref": "41001029",
+"start_ref_usfm": "MRK 1:29",
+"end_ref": "41001031",
+"end_ref_usfm": "MRK 1:31"
+},
+{
+"start_ref": "43001035",
+"start_ref_usfm": "JHN 1:35",
+"end_ref": "43001051",
+"end_ref_usfm": "JHN 1:51"
+},
+{
+"start_ref": "44005012",
+"start_ref_usfm": "ACT 5:12",
+"end_ref": "44005016",
+"end_ref_usfm": "ACT 5:16"
+},
+{
+"start_ref": "44009032",
+"start_ref_usfm": "ACT 9:32",
+"end_ref": "44009043",
+"end_ref_usfm": "ACT 9:43"
+},
+{
+"start_ref": "43018010",
+"start_ref_usfm": "JHN 18:10",
+"end_ref": "43018011",
+"end_ref_usfm": "JHN 18:11"
+},
+{
+"start_ref": "43018025",
+"start_ref_usfm": "JHN 18:25",
+"end_ref": "43018027",
+"end_ref_usfm": "JHN 18:27"
+},
+{
+"start_ref": "41001029",
+"start_ref_usfm": "MRK 1:29",
+"end_ref": "41001030",
+"end_ref_usfm": "MRK 1:30"
+},
+{
+"start_ref": "41014029",
+"start_ref_usfm": "MRK 14:29",
+"end_ref": "41014031",
+"end_ref_usfm": "MRK 14:31"
+},
+{
+"start_ref": "40026033",
+"start_ref_usfm": "MAT 26:33",
+"end_ref": "40026035",
+"end_ref_usfm": "MAT 26:35"
+},
+{
+"start_ref": "44002001",
+"start_ref_usfm": "ACT 2:1",
+"end_ref": "44002013",
+"end_ref_usfm": "ACT 2:13"
+},
+{
+"start_ref": "44002014",
+"start_ref_usfm": "ACT 2:14",
+"end_ref": "44002041",
+"end_ref_usfm": "ACT 2:41"
+},
+{
+"start_ref": "41008031",
+"start_ref_usfm": "MRK 8:31",
+"end_ref": "41008033",
+"end_ref_usfm": "MRK 8:33"
+},
+{
+"start_ref": "48002011",
+"start_ref_usfm": "GAL 2:11",
+"end_ref": "48002016",
+"end_ref_usfm": "GAL 2:16"
+},
+{
+"start_ref": "44012006",
+"start_ref_usfm": "ACT 12:6",
+"end_ref": "44012011",
+"end_ref_usfm": "ACT 12:11"
+},
+{
+"start_ref": "40016017",
+"start_ref_usfm": "MAT 16:17",
+"end_ref": "40016018",
+"end_ref_usfm": "MAT 16:18"
+},
+{
+"start_ref": "42004038",
+"start_ref_usfm": "LUK 4:38",
+"end_ref": "42004039",
+"end_ref_usfm": "LUK 4:39"
+},
+{
+"start_ref": "43013036",
+"start_ref_usfm": "JHN 13:36",
+"end_ref": "43013037",
+"end_ref_usfm": "JHN 13:37"
+},
+{
+"start_ref": "40016015",
+"start_ref_usfm": "MAT 16:15",
+"end_ref": "40016016",
+"end_ref_usfm": "MAT 16:16"
+},
+{
+"start_ref": "42022031",
+"start_ref_usfm": "LUK 22:31",
+"end_ref": "42022034",
+"end_ref_usfm": "LUK 22:34"
+},
+{
+"start_ref": "43020003",
+"start_ref_usfm": "JHN 20:3",
+"end_ref": "43020007",
+"end_ref_usfm": "JHN 20:7"
+},
+{
+"start_ref": "42024033",
+"start_ref_usfm": "LUK 24:33",
+"end_ref": "42024034",
+"end_ref_usfm": "LUK 24:34"
+},
+{
+"start_ref": "44002014",
+"start_ref_usfm": "ACT 2:14",
+"end_ref": "44012025",
+"end_ref_usfm": "ACT 12:25"
+},
+{
+"start_ref": "44004001",
+"start_ref_usfm": "ACT 4:1",
+"end_ref": "44004020",
+"end_ref_usfm": "ACT 4:20"
+},
+{
+"start_ref": "44005026",
+"start_ref_usfm": "ACT 5:26",
+"end_ref": "44005032",
+"end_ref_usfm": "ACT 5:32"
+},
+{
+"start_ref": "44005018",
+"start_ref_usfm": "ACT 5:18",
+"end_ref": "44005025",
+"end_ref_usfm": "ACT 5:25"
+},
+{
+"start_ref": "44005003",
+"start_ref_usfm": "ACT 5:3",
+"end_ref": "44005011",
+"end_ref_usfm": "ACT 5:11"
+},
+{
+"start_ref": "40016022",
+"start_ref_usfm": "MAT 16:22",
+"end_ref": "40016023",
+"end_ref_usfm": "MAT 16:23"
+},
+{
+"start_ref": "40017001",
+"start_ref_usfm": "MAT 17:1",
+"end_ref": "40017004",
+"end_ref_usfm": "MAT 17:4"
+},
+{
+"start_ref": "40026033",
+"start_ref_usfm": "MAT 26:33",
+"end_ref": "40026045",
+"end_ref_usfm": "MAT 26:45"
+},
+{
+"start_ref": "41001036",
+"start_ref_usfm": "MRK 1:36",
+"end_ref": "41001037",
+"end_ref_usfm": "MRK 1:37"
+},
+{
+"start_ref": "41008029",
+"start_ref_usfm": "MRK 8:29",
+"end_ref": "41008033",
+"end_ref_usfm": "MRK 8:33"
+},
+{
+"start_ref": "41009002",
+"start_ref_usfm": "MRK 9:2",
+"end_ref": "41009006",
+"end_ref_usfm": "MRK 9:6"
+},
+{
+"start_ref": "41014029",
+"start_ref_usfm": "MRK 14:29",
+"end_ref": "41014042",
+"end_ref_usfm": "MRK 14:42"
+},
+{
+"start_ref": "41016007",
+"start_ref_usfm": "MRK 16:7",
+"end_ref": "41016008",
+"end_ref_usfm": "MRK 16:8"
+},
+{
+"start_ref": "42005003",
+"start_ref_usfm": "LUK 5:3",
+"end_ref": "42005010",
+"end_ref_usfm": "LUK 5:10"
+},
+{
+"start_ref": "42009028",
+"start_ref_usfm": "LUK 9:28",
+"end_ref": "42009033",
+"end_ref_usfm": "LUK 9:33"
+},
+{
+"start_ref": "42022055",
+"start_ref_usfm": "LUK 22:55",
+"end_ref": "42022062",
+"end_ref_usfm": "LUK 22:62"
+},
+{
+"start_ref": "43013006",
+"start_ref_usfm": "JHN 13:6",
+"end_ref": "43013010",
+"end_ref_usfm": "JHN 13:10"
+},
+{
+"start_ref": "43013036",
+"start_ref_usfm": "JHN 13:36",
+"end_ref": "43013038",
+"end_ref_usfm": "JHN 13:38"
+},
+{
+"start_ref": "43018015",
+"start_ref_usfm": "JHN 18:15",
+"end_ref": "43018018",
+"end_ref_usfm": "JHN 18:18"
+},
+{
+"start_ref": "43020002",
+"start_ref_usfm": "JHN 20:2",
+"end_ref": "43020006",
+"end_ref_usfm": "JHN 20:6"
+},
+{
+"start_ref": "43021002",
+"start_ref_usfm": "JHN 21:2",
+"end_ref": "43021021",
+"end_ref_usfm": "JHN 21:21"
+},
+{
+"start_ref": "48002007",
+"start_ref_usfm": "GAL 2:7",
+"end_ref": "48002016",
+"end_ref_usfm": "GAL 2:16"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.6823,
+"match_method": "scored",
+"preferred_label": "Пётр"
+}
+]
+}
+},
+{
+"content_id": "669904",
+"reference_id": 203482,
+"version": "1.0.4",
+"title": "Синедрион",
+"media_type": "Text",
+"index_reference": "синедрион",
+"language": "rus",
+"review_level": "Professional",
+"content": "<p>Синедрион — это традиционное название высшего совета иудейских вождей в Иерусалиме, обладавшего значительной властью в управлении еврейским народом. Слово «синедрион» является транслитерацией греческого слова <em>sunedrion</em>, которое означает «совет».</p><p>Согласно иудейской традиции, синедрион образовался, когда Моисей избрал семьдесят старейшин (<data class=\"bible-ref\" data-start-ref=\"04011016\" data-end-ref=\"04011016\">Чис.11:16</data>). Однако самое раннее упоминание о синедрионе содержится в книге Иосифа Флавия «<em>Иудейские древности</em>» 12.3.3, которая датируется временем Антиоха Великого, правившего с 223 по 187 г. до н.э. Скорее всего, синедрион возник как орган самоуправления иудеев во времена господства персов и состоял тогда из лидеров иудейской общины (см. <data class=\"bible-ref\" data-start-ref=\"15005005\" data-end-ref=\"15005010\">Ездр.5:5–10</data>; <data class=\"bible-ref\" data-start-ref=\"16002016\" data-end-ref=\"16002016\">Неем.2:16</data>). Синедрион контролировался священническим сословием во главе с первосвященником. Римские правители и фарисеи в разной степени влияли на этих священников. Ирод Великий имел значительное влияние на деятельность синедриона.</p><p>Синедрион занимался юридическими и религиозными вопросами иудаизма. Сюда входило принятие судебных решений, которые не могли урегулировать более мелкие суды, известные как «поместные синедрионы». Синедрион также осуществлял правосудие по уголовным вопросам и арестам (см. <data class=\"bible-ref\" data-start-ref=\"44009001\" data-end-ref=\"44009002\">Деян.9:1–2</data>) и принимал официальные решения по иудейским вопросам, хотя эти решения не были обязательны к исполнению. Синедрион не мог казнить преступников самостоятельно (<data class=\"bible-ref\" data-start-ref=\"43018031\" data-end-ref=\"43018031\">Ин.18:31</data>), только с разрешения римских властей.</p><p>Разрушение Иерусалима в 70 г. н.э. положило конец роли синедриона как высшего органа в иудаизме.</p><p><u>Отрывки для дальнейшего изучения</u></p><p><data class=\"bible-ref\" data-start-ref=\"40026057\" data-end-ref=\"40026068\">Матфея 26:57–68</data>; <data class=\"bible-ref\" data-start-ref=\"41014053\" data-end-ref=\"41014065\">Марка 14:53–65</data>; <data class=\"bible-ref\" data-start-ref=\"41015001\" data-end-ref=\"41015001\">15:1</data>,<data class=\"bible-ref\" data-start-ref=\"41015043\" data-end-ref=\"41015043\">43</data>; <data class=\"bible-ref\" data-start-ref=\"42022066\" data-end-ref=\"42022071\">Луки 22:66–71</data>; <data class=\"bible-ref\" data-start-ref=\"42023050\" data-end-ref=\"42023054\">23:50–54</data>; <data class=\"bible-ref\" data-start-ref=\"43011047\" data-end-ref=\"43011053\">Иоанна 11:47–53</data>; <data class=\"bible-ref\" data-start-ref=\"44005021\" data-end-ref=\"44005041\">Деяния 5:21–41</data>; <data class=\"bible-ref\" data-start-ref=\"44006011\" data-end-ref=\"44008001\">6:11–8:1</data>; <data class=\"bible-ref\" data-start-ref=\"44022030\" data-end-ref=\"44023010\">22:30–23:10</data>; <data class=\"bible-ref\" data-start-ref=\"44023026\" data-end-ref=\"44023030\">23:26–30</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04011016",
+"start_ref_usfm": "NUM 11:16",
+"end_ref": "04011016",
+"end_ref_usfm": "NUM 11:16"
+},
+{
+"start_ref": "16002016",
+"start_ref_usfm": "NEH 2:16",
+"end_ref": "16002016",
+"end_ref_usfm": "NEH 2:16"
+},
+{
+"start_ref": "41015001",
+"start_ref_usfm": "MRK 15:1",
+"end_ref": "41015001",
+"end_ref_usfm": "MRK 15:1"
+},
+{
+"start_ref": "41015043",
+"start_ref_usfm": "MRK 15:43",
+"end_ref": "41015043",
+"end_ref_usfm": "MRK 15:43"
+},
+{
+"start_ref": "43018031",
+"start_ref_usfm": "JHN 18:31",
+"end_ref": "43018031",
+"end_ref_usfm": "JHN 18:31"
+},
+{
+"start_ref": "40026057",
+"start_ref_usfm": "MAT 26:57",
+"end_ref": "40026068",
+"end_ref_usfm": "MAT 26:68"
+},
+{
+"start_ref": "41014053",
+"start_ref_usfm": "MRK 14:53",
+"end_ref": "41014065",
+"end_ref_usfm": "MRK 14:65"
+},
+{
+"start_ref": "44022030",
+"start_ref_usfm": "ACT 22:30",
+"end_ref": "44023010",
+"end_ref_usfm": "ACT 23:10"
+},
+{
+"start_ref": "44009001",
+"start_ref_usfm": "ACT 9:1",
+"end_ref": "44009002",
+"end_ref_usfm": "ACT 9:2"
+},
+{
+"start_ref": "44023026",
+"start_ref_usfm": "ACT 23:26",
+"end_ref": "44023030",
+"end_ref_usfm": "ACT 23:30"
+},
+{
+"start_ref": "42022066",
+"start_ref_usfm": "LUK 22:66",
+"end_ref": "42022071",
+"end_ref_usfm": "LUK 22:71"
+},
+{
+"start_ref": "15005005",
+"start_ref_usfm": "EZR 5:5",
+"end_ref": "15005010",
+"end_ref_usfm": "EZR 5:10"
+},
+{
+"start_ref": "42023050",
+"start_ref_usfm": "LUK 23:50",
+"end_ref": "42023054",
+"end_ref_usfm": "LUK 23:54"
+},
+{
+"start_ref": "43011047",
+"start_ref_usfm": "JHN 11:47",
+"end_ref": "43011053",
+"end_ref_usfm": "JHN 11:53"
+},
+{
+"start_ref": "44005021",
+"start_ref_usfm": "ACT 5:21",
+"end_ref": "44005041",
+"end_ref_usfm": "ACT 5:41"
+},
+{
+"start_ref": "44006011",
+"start_ref_usfm": "ACT 6:11",
+"end_ref": "44008001",
+"end_ref_usfm": "ACT 8:1"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "669862",
+"reference_id": 203440,
+"version": "1.0.4",
+"title": "Соломон",
+"media_type": "Text",
+"index_reference": "соломон",
+"language": "rus",
+"review_level": "Professional",
+"content": "<p>Соломон был третьим царём Израиля. Он был вторым сыном Давида и Вирсавии (<data class=\"bible-ref\" data-start-ref=\"10012013\" data-end-ref=\"10012025\">2Цар.12:13–25</data>). Правление Соломона продлилось сорок лет, с 971 по 931 гг. до н.э. Когда Соломон только принял власть, его вера в Бога была непоколебимой, однако в конце жизни он впал в идолопоклонство, что привело его царство к расколу.</p><p><span>Когда царь Давид был близок к смерти, его сын Адония, при поддержке священника Авиафара и военачальника Иоава, </span>попытался захватить власть (<data class=\"bible-ref\" data-start-ref=\"11001001\" data-end-ref=\"11001053\">3Цар.1:1–53</data>). Однако царский трон уже был обещан Соломону (<data class=\"bible-ref\" data-start-ref=\"11001017\" data-end-ref=\"11001017\">3Цар.1:17</data>; см. <data class=\"bible-ref\" data-start-ref=\"10012024\" data-end-ref=\"10012025\">2Цар.12:24–25</data>; <data class=\"bible-ref\" data-start-ref=\"13028004\" data-end-ref=\"13028007\">1Пар.28:4–7</data>). Вирсавия и пророк Нафан сообщили Давиду о действиях Адонии, и Давид поспешно провозгласил Соломона новым царём Израиля. Давид завещал Соломону верно следовать Богу (<data class=\"bible-ref\" data-start-ref=\"11002001\" data-end-ref=\"11002009\">3Цар.2:1–9</data>).</p><p>Соломон любил Бога и попросил у Него помощи. Господь предложил ему выбрать то, что ему было нужно. Соломон не стал просить у Бога долгой жизни, богатства или славы, но попросил мудрости. В результате, Бог даровал Соломону всё: </p><ul><li><p>Соломон мудро правил (<data class=\"bible-ref\" data-start-ref=\"11003016\" data-end-ref=\"11003028\">3Цар.3:16–28</data>)</p></li><li><p>Соломона уважали цари и народы за пределами его царства (<data class=\"bible-ref\" data-start-ref=\"11004020\" data-end-ref=\"11004034\">3Цар.4:20–34</data>)</p></li><li><p>Соломон написал книгу Песнь песней, большую часть Книги Притч, а также Книгу Екклесиаста</p></li></ul><p>Раввины (еврейские учителя) говорили, что эти книги отражают три этапа жизни Соломона: «Когда человек молод, он сочиняет песни; когда он взрослеет, то начинает делать нравоучительные замечания; а когда человек становится стариком, он говорит, что всё тщетно» (<em>Мидраш Рабба</em>). Соломон построил в Иерусалиме царский дворец и Храм. Он расширил торговлю и увеличил благосостояние и безопасность Израиля. Соломон прославился своей мудростью и богатством. Царица Савская посетила Иерусалим, чтобы лично встретиться с Соломоном (<data class=\"bible-ref\" data-start-ref=\"11010001\" data-end-ref=\"11010029\">3Цар.10:1–29</data>).</p><p>Соломон заключил множество союзов с другими царствами, и у него было много жён из разных стран, первая такая жена <span>— дочь</span> фараона Египта (<data class=\"bible-ref\" data-start-ref=\"11003001\" data-end-ref=\"11003001\">3Цар.3:1</data>). Иноземные жёны отвратили Соломона от Бога и склонили его к идолопоклонству. В поздние годы своей жизни некогда мудрый Соломон, под влиянием своих жён, стал очень неразумным. Соломон начал поклоняться ложным богам и жестоко поступать с народом. В результате Бог использовал Иеровоама, чтобы забрать большую часть царства Соломона.</p><p>И всё же, в Новом Завете Соломон вспоминается как пример мудрости и славы, как эталон, по которому оцениваются другие. Иисус является воплощением небесной мудрости (или Божьей премудрости в образе человека), которая неизмеримо больше мудрости Соломона (<data class=\"bible-ref\" data-start-ref=\"40012042\" data-end-ref=\"40012042\">Мф.12:42</data>; <data class=\"bible-ref\" data-start-ref=\"42011031\" data-end-ref=\"42011031\">Лк.11:31</data>).</p><p><u>Отрывки для дальнейшего изучения</u></p><p><data class=\"bible-ref\" data-start-ref=\"10012024\" data-end-ref=\"10012025\">2 Царств 12:24–25</data>; <data class=\"bible-ref\" data-start-ref=\"11001001\" data-end-ref=\"11011043\">3 Царств 1:1–11:43</data>; <data class=\"bible-ref\" data-start-ref=\"14001001\" data-end-ref=\"14009031\">2 Паралипоменон 1:1–9:31</data>; <data class=\"bible-ref\" data-start-ref=\"19072001\" data-end-ref=\"19072020\">Псалтирь 71:1–20</data>; <data class=\"bible-ref\" data-start-ref=\"19127001\" data-end-ref=\"19127005\">127:1–5</data>; <data class=\"bible-ref\" data-start-ref=\"20001001\" data-end-ref=\"20001001\">Притчи 1:1</data>; <data class=\"bible-ref\" data-start-ref=\"40006028\" data-end-ref=\"40006030\">Матфея 6:28–30</data>; <data class=\"bible-ref\" data-start-ref=\"40012042\" data-end-ref=\"40012042\">12:42</data>;<data class=\"bible-ref\" data-start-ref=\"42011031\" data-end-ref=\"42011031\"> Луки 11:31</data>; <data class=\"bible-ref\" data-start-ref=\"42012027\" data-end-ref=\"42012027\">12:27</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11001017",
+"start_ref_usfm": "1KI 1:17",
+"end_ref": "11001017",
+"end_ref_usfm": "1KI 1:17"
+},
+{
+"start_ref": "11003001",
+"start_ref_usfm": "1KI 3:1",
+"end_ref": "11003001",
+"end_ref_usfm": "1KI 3:1"
+},
+{
+"start_ref": "20001001",
+"start_ref_usfm": "PRO 1:1",
+"end_ref": "20001001",
+"end_ref_usfm": "PRO 1:1"
+},
+{
+"start_ref": "40012042",
+"start_ref_usfm": "MAT 12:42",
+"end_ref": "40012042",
+"end_ref_usfm": "MAT 12:42"
+},
+{
+"start_ref": "42011031",
+"start_ref_usfm": "LUK 11:31",
+"end_ref": "42011031",
+"end_ref_usfm": "LUK 11:31"
+},
+{
+"start_ref": "42012027",
+"start_ref_usfm": "LUK 12:27",
+"end_ref": "42012027",
+"end_ref_usfm": "LUK 12:27"
+},
+{
+"start_ref": "11001001",
+"start_ref_usfm": "1KI 1:1",
+"end_ref": "11001053",
+"end_ref_usfm": "1KI 1:53"
+},
+{
+"start_ref": "14001001",
+"start_ref_usfm": "2CH 1:1",
+"end_ref": "14009031",
+"end_ref_usfm": "2CH 9:31"
+},
+{
+"start_ref": "11003016",
+"start_ref_usfm": "1KI 3:16",
+"end_ref": "11003028",
+"end_ref_usfm": "1KI 3:28"
+},
+{
+"start_ref": "10012024",
+"start_ref_usfm": "2SA 12:24",
+"end_ref": "10012025",
+"end_ref_usfm": "2SA 12:25"
+},
+{
+"start_ref": "11010001",
+"start_ref_usfm": "1KI 10:1",
+"end_ref": "11010029",
+"end_ref_usfm": "1KI 10:29"
+},
+{
+"start_ref": "11001001",
+"start_ref_usfm": "1KI 1:1",
+"end_ref": "11011043",
+"end_ref_usfm": "1KI 11:43"
+},
+{
+"start_ref": "40006028",
+"start_ref_usfm": "MAT 6:28",
+"end_ref": "40006030",
+"end_ref_usfm": "MAT 6:30"
+},
+{
+"start_ref": "19072001",
+"start_ref_usfm": "PSA 72:1",
+"end_ref": "19072020",
+"end_ref_usfm": "PSA 72:20"
+},
+{
+"start_ref": "19127001",
+"start_ref_usfm": "PSA 127:1",
+"end_ref": "19127005",
+"end_ref_usfm": "PSA 127:5"
+},
+{
+"start_ref": "13028004",
+"start_ref_usfm": "1CH 28:4",
+"end_ref": "13028007",
+"end_ref_usfm": "1CH 28:7"
+},
+{
+"start_ref": "10012013",
+"start_ref_usfm": "2SA 12:13",
+"end_ref": "10012025",
+"end_ref_usfm": "2SA 12:25"
+},
+{
+"start_ref": "11002001",
+"start_ref_usfm": "1KI 2:1",
+"end_ref": "11002009",
+"end_ref_usfm": "1KI 2:9"
+},
+{
+"start_ref": "11004020",
+"start_ref_usfm": "1KI 4:20",
+"end_ref": "11004034",
+"end_ref_usfm": "1KI 4:34"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "669920",
+"reference_id": 203498,
+"version": "1.0.4",
+"title": "Стефан",
+"media_type": "Text",
+"index_reference": "стефан",
+"language": "rus",
+"review_level": "Professional",
+"content": "<p><span>Стефан был одним из первых христиан, чья жизнь является ярким примером для подражания. Он </span>смело и решительно <span>говорил о своей вере в Христа, из-за чего иудейские начальники схватили его и убили. Стефан является первым христианским мучеником, то есть первым человеком, погибшим за свою веру в Иисуса.</span></p><p><span>Стефан был одним из семи служителей, избранных для раздачи пищи нуждающимся христианам</span> в Иерусалиме (<data class=\"bible-ref\" data-start-ref=\"44006001\" data-end-ref=\"44006006\">Деян.6:1–6</data>). Среди этих семи он отличался тем, что был «<span>исполнен веры и Духа Святого</span>» (<data class=\"bible-ref\" data-start-ref=\"44006005\" data-end-ref=\"44006005\">Деян.6:5</data>). Через Стефана особым образом проявлялась Божья благодать и сила, он творил чудеса (<data class=\"bible-ref\" data-start-ref=\"44006008\" data-end-ref=\"44006008\">Деян.6:8</data>). Он смело проповедовал об Иисусе, с мудростью объясняя и защищая христианское учение (<data class=\"bible-ref\" data-start-ref=\"44006009\" data-end-ref=\"44006010\">Деян.6:9–10</data>). <span>Из-за того, что Стефан так открыто говорил об Иисусе, иудейские начальники арестовали его и привели в свой правящий совет (Синедрион) для допроса</span> (<data class=\"bible-ref\" data-start-ref=\"44006009\" data-end-ref=\"44006012\">Деян.6:9–12</data>).</p><p>Свидетели обвинили Стефана в том, что он хулил святой Храм и закон Моисея (<data class=\"bible-ref\" data-start-ref=\"44006013\" data-end-ref=\"44006014\">Деян.6:13–14</data>; ср. с <data class=\"bible-ref\" data-start-ref=\"41013002\" data-end-ref=\"41013002\">Мк.13:2</data>; <data class=\"bible-ref\" data-start-ref=\"43002019\" data-end-ref=\"43002019\">Ин.2:19</data>; <data class=\"bible-ref\" data-start-ref=\"43004021\" data-end-ref=\"43004021\">4:21</data>). Стефан выступил с защитной речью перед членами совета (<data class=\"bible-ref\" data-start-ref=\"44007001\" data-end-ref=\"44007053\">Деян.7:1–53</data>). Он говорил о том, что народ Израиля на протяжении истории упорно противился Богу и Его служителям, сначала Моисею, а теперь Пророку, пришествие Которого Моисей предсказал (<data class=\"bible-ref\" data-start-ref=\"44007051\" data-end-ref=\"44007053\">Деян.7:51–53</data>). Смелое обличение Стефана привело иудейских начальников в ярость, они вытащили Стефана за пределы города и забили его до смерти камнями (<data class=\"bible-ref\" data-start-ref=\"44007054\" data-end-ref=\"44007060\">Деян.7:54–60</data>). Умирая, Стефан молился о том, чтобы Господь простил тех, кто его убивал (<data class=\"bible-ref\" data-start-ref=\"44007060\" data-end-ref=\"44007060\">Деян.7:60</data>).</p><p>Смелое свидетельство Стефана привело к первому гонению на ранних христиан (<data class=\"bible-ref\" data-start-ref=\"44008001\" data-end-ref=\"44008003\">Деян.8:1–3</data>). Результатом э<span>того гонения стало дальнейшее распространение Благой Вести, поскольку верующие начали покидать Иерусалим, и в тех местах, куда они уходили, они делились вестью об Иисусе </span>(<data class=\"bible-ref\" data-start-ref=\"44008004\" data-end-ref=\"44008004\">Деян.8:4</data>; <data class=\"bible-ref\" data-start-ref=\"44011019\" data-end-ref=\"44011021\">11:19–21</data>). После смерти Стефана за веру христиане начали распространять Благую Весть об Иисусе за пределами Иудеи.</p><p>Жизнь Стефана показывает, что верные христианине могут столкнуться с сильным противостоянием. Можно очень дорого заплатить за смелую проповедь об Иисусе (см. <data class=\"bible-ref\" data-start-ref=\"66002010\" data-end-ref=\"66002010\">Откр.2:10</data>,<data class=\"bible-ref\" data-start-ref=\"66002013\" data-end-ref=\"66002013\">13</data>), но ничто не может помешать Церкви расти (см. <data class=\"bible-ref\" data-start-ref=\"40016018\" data-end-ref=\"40016018\">Мф.16:18</data>; <data class=\"bible-ref\" data-start-ref=\"44008001\" data-end-ref=\"44008004\">Деян.8:1–4</data>).</p><p><u>Отрывки для дальнейшего изучения</u></p><p><data class=\"bible-ref\" data-start-ref=\"44006005\" data-end-ref=\"44008002\">Деяния 6:5–8:2</data>; <data class=\"bible-ref\" data-start-ref=\"44011019\" data-end-ref=\"44011019\">11:19</data>; <data class=\"bible-ref\" data-start-ref=\"44022020\" data-end-ref=\"44022020\">22:20</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40016018",
+"start_ref_usfm": "MAT 16:18",
+"end_ref": "40016018",
+"end_ref_usfm": "MAT 16:18"
+},
+{
+"start_ref": "41013002",
+"start_ref_usfm": "MRK 13:2",
+"end_ref": "41013002",
+"end_ref_usfm": "MRK 13:2"
+},
+{
+"start_ref": "43002019",
+"start_ref_usfm": "JHN 2:19",
+"end_ref": "43002019",
+"end_ref_usfm": "JHN 2:19"
+},
+{
+"start_ref": "43004021",
+"start_ref_usfm": "JHN 4:21",
+"end_ref": "43004021",
+"end_ref_usfm": "JHN 4:21"
+},
+{
+"start_ref": "44006005",
+"start_ref_usfm": "ACT 6:5",
+"end_ref": "44006005",
+"end_ref_usfm": "ACT 6:5"
+},
+{
+"start_ref": "44006008",
+"start_ref_usfm": "ACT 6:8",
+"end_ref": "44006008",
+"end_ref_usfm": "ACT 6:8"
+},
+{
+"start_ref": "44007060",
+"start_ref_usfm": "ACT 7:60",
+"end_ref": "44007060",
+"end_ref_usfm": "ACT 7:60"
+},
+{
+"start_ref": "44008004",
+"start_ref_usfm": "ACT 8:4",
+"end_ref": "44008004",
+"end_ref_usfm": "ACT 8:4"
+},
+{
+"start_ref": "44011019",
+"start_ref_usfm": "ACT 11:19",
+"end_ref": "44011019",
+"end_ref_usfm": "ACT 11:19"
+},
+{
+"start_ref": "44022020",
+"start_ref_usfm": "ACT 22:20",
+"end_ref": "44022020",
+"end_ref_usfm": "ACT 22:20"
+},
+{
+"start_ref": "66002010",
+"start_ref_usfm": "REV 2:10",
+"end_ref": "66002010",
+"end_ref_usfm": "REV 2:10"
+},
+{
+"start_ref": "66002013",
+"start_ref_usfm": "REV 2:13",
+"end_ref": "66002013",
+"end_ref_usfm": "REV 2:13"
+},
+{
+"start_ref": "44006001",
+"start_ref_usfm": "ACT 6:1",
+"end_ref": "44006006",
+"end_ref_usfm": "ACT 6:6"
+},
+{
+"start_ref": "44011019",
+"start_ref_usfm": "ACT 11:19",
+"end_ref": "44011021",
+"end_ref_usfm": "ACT 11:21"
+},
+{
+"start_ref": "44007001",
+"start_ref_usfm": "ACT 7:1",
+"end_ref": "44007053",
+"end_ref_usfm": "ACT 7:53"
+},
+{
+"start_ref": "44007054",
+"start_ref_usfm": "ACT 7:54",
+"end_ref": "44007060",
+"end_ref_usfm": "ACT 7:60"
+},
+{
+"start_ref": "44008001",
+"start_ref_usfm": "ACT 8:1",
+"end_ref": "44008003",
+"end_ref_usfm": "ACT 8:3"
+},
+{
+"start_ref": "44008001",
+"start_ref_usfm": "ACT 8:1",
+"end_ref": "44008004",
+"end_ref_usfm": "ACT 8:4"
+},
+{
+"start_ref": "44007051",
+"start_ref_usfm": "ACT 7:51",
+"end_ref": "44007053",
+"end_ref_usfm": "ACT 7:53"
+},
+{
+"start_ref": "44006009",
+"start_ref_usfm": "ACT 6:9",
+"end_ref": "44006010",
+"end_ref_usfm": "ACT 6:10"
+},
+{
+"start_ref": "44006009",
+"start_ref_usfm": "ACT 6:9",
+"end_ref": "44006012",
+"end_ref_usfm": "ACT 6:12"
+},
+{
+"start_ref": "44006013",
+"start_ref_usfm": "ACT 6:13",
+"end_ref": "44006014",
+"end_ref_usfm": "ACT 6:14"
+},
+{
+"start_ref": "44006005",
+"start_ref_usfm": "ACT 6:5",
+"end_ref": "44008002",
+"end_ref_usfm": "ACT 8:2"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Stephen",
+"type": "person",
+"confidence": 0.6315,
+"match_method": "scored",
+"preferred_label": "Стефан"
+}
+]
+}
+},
+{
+"content_id": "669893",
+"reference_id": 203471,
+"version": "1.0.4",
+"title": "Сын Человеческий",
+"media_type": "Text",
+"index_reference": "сын человеческий",
+"language": "rus",
+"review_level": "Professional",
+"content": "<p>На древнееврейском и арамейском языках выражение «сын человеческий» означает просто «человек». Однако образ «Сына Человеческого», описанный в <data class=\"bible-ref\" data-start-ref=\"27007013\" data-end-ref=\"27007014\">Книге пророка Даниила 7:13–14</data>, изображает нечто большее, чем просто человека. Личность этого Человека не раскрывается, хотя Его роль предельно ясна: Всевышний избрал Его, чтобы Он правил вечным всеобщим царством над всеми народами. «Сын Человеческий» также символизирует Свой народ <span>—</span> святых Всевышнего, которые вместе с Сыном Человеческим будут царствовать над всеми народами и странами (см. <data class=\"bible-ref\" data-start-ref=\"27007022\" data-end-ref=\"27007022\">Дан.7:22</data>). </p><p>То, как изображён Сын Человеческий, указывает на Его божественные черты. Выражение «<span>с облаками небесными шёл» </span>в <data class=\"bible-ref\" data-start-ref=\"27007013\" data-end-ref=\"27007013\">Дан.7:13</data> говорит о том, что Он приходит с небес (ср. с <data class=\"bible-ref\" data-start-ref=\"19068004\" data-end-ref=\"19068004\">Пс.67:5</data>; <data class=\"bible-ref\" data-start-ref=\"19097002\" data-end-ref=\"19097002\">96:2</data>; <data class=\"bible-ref\" data-start-ref=\"34001003\" data-end-ref=\"34001003\">Наум.1:3</data>). В книге Исход Господь Бог покрыл Себя облаком (<data class=\"bible-ref\" data-start-ref=\"02019009\" data-end-ref=\"02019009\">Исх.19:9</data>). Божий народ поднимется на облаках, когда вернётся Иисус (<data class=\"bible-ref\" data-start-ref=\"52004017\" data-end-ref=\"52004017\">1Фес.4:17</data>), подобно тому, как Он был взят на облако, когда вознёсся на небо (<data class=\"bible-ref\" data-start-ref=\"44001009\" data-end-ref=\"44001009\">Деян.1:9</data>). Этот Сын Человеческий принимает Своё царство со смирением и святостью, а не горделиво захватывает его. По Своему характеру Он противопоставляется малому рогу (<data class=\"bible-ref\" data-start-ref=\"27007008\" data-end-ref=\"27007008\">Дан.7:8</data>).</p><p>Иисус называет Себя Сыном Человеческим (<data class=\"bible-ref\" data-start-ref=\"40024030\" data-end-ref=\"40024030\">Мф.24:30</data>; <data class=\"bible-ref\" data-start-ref=\"40026024\" data-end-ref=\"40026024\">26:24</data>; <data class=\"bible-ref\" data-start-ref=\"41013026\" data-end-ref=\"41013026\">Мк.13:26</data>; <data class=\"bible-ref\" data-start-ref=\"42021027\" data-end-ref=\"42021027\">Лк.21:27</data>; <data class=\"bible-ref\" data-start-ref=\"43012034\" data-end-ref=\"43012034\">Ин.12:34</data>; см. также <data class=\"bible-ref\" data-start-ref=\"44007056\" data-end-ref=\"44007056\">Деян.7:56</data>; <data class=\"bible-ref\" data-start-ref=\"58002006\" data-end-ref=\"58002006\">Евр.2:6</data>; <data class=\"bible-ref\" data-start-ref=\"66001013\" data-end-ref=\"66001013\">Откр.1:13</data>; <data class=\"bible-ref\" data-start-ref=\"66014014\" data-end-ref=\"66014014\">14:14</data>). В <data class=\"bible-ref\" data-start-ref=\"66001007\" data-end-ref=\"66001007\">Откровении апостола Иоанна Богослова, 1:7</data> фигура Сына Человеческого также связывается с Иисусом Христом, пронзённым за наши грехи. Бог Отец дал Иисусу всю власть и силу управлять всем и достигать людей из всех народов и царств (<data class=\"bible-ref\" data-start-ref=\"27007014\" data-end-ref=\"27007014\">Дан.7:14</data>; <data class=\"bible-ref\" data-start-ref=\"40028018\" data-end-ref=\"40028018\">Мф.28:18</data>; <data class=\"bible-ref\" data-start-ref=\"40028019\" data-end-ref=\"40028020\">19–20</data>). Бог призвал Авраама создать великий народ, чтобы через этот народ все остальные народы получили благословение (<data class=\"bible-ref\" data-start-ref=\"01012001\" data-end-ref=\"01012003\">Быт.12:1–3</data>). Иисус исполнил это обещание.</p><p><u>Отрывки для дальнейшего изучения</u></p><p><data class=\"bible-ref\" data-start-ref=\"27007013\" data-end-ref=\"27007014\">Даниил 7:13–14</data>; <data class=\"bible-ref\" data-start-ref=\"40024030\" data-end-ref=\"40024030\">Матфея 24:30</data>; <data class=\"bible-ref\" data-start-ref=\"40026024\" data-end-ref=\"40026024\">26:24</data>; <data class=\"bible-ref\" data-start-ref=\"41013026\" data-end-ref=\"41013026\">Марка 13:26</data>; <data class=\"bible-ref\" data-start-ref=\"42021027\" data-end-ref=\"42021027\">Луки 21:27</data>; <data class=\"bible-ref\" data-start-ref=\"43012034\" data-end-ref=\"43012034\">Иоанна 12:34</data>; <data class=\"bible-ref\" data-start-ref=\"66001013\" data-end-ref=\"66001013\">Откровение 1:13</data>; <data class=\"bible-ref\" data-start-ref=\"66014014\" data-end-ref=\"66014014\">14:14</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02019009",
+"start_ref_usfm": "EXO 19:9",
+"end_ref": "02019009",
+"end_ref_usfm": "EXO 19:9"
+},
+{
+"start_ref": "19068004",
+"start_ref_usfm": "PSA 68:4",
+"end_ref": "19068004",
+"end_ref_usfm": "PSA 68:4"
+},
+{
+"start_ref": "19097002",
+"start_ref_usfm": "PSA 97:2",
+"end_ref": "19097002",
+"end_ref_usfm": "PSA 97:2"
+},
+{
+"start_ref": "27007008",
+"start_ref_usfm": "DAN 7:8",
+"end_ref": "27007008",
+"end_ref_usfm": "DAN 7:8"
+},
+{
+"start_ref": "27007013",
+"start_ref_usfm": "DAN 7:13",
+"end_ref": "27007013",
+"end_ref_usfm": "DAN 7:13"
+},
+{
+"start_ref": "27007014",
+"start_ref_usfm": "DAN 7:14",
+"end_ref": "27007014",
+"end_ref_usfm": "DAN 7:14"
+},
+{
+"start_ref": "27007022",
+"start_ref_usfm": "DAN 7:22",
+"end_ref": "27007022",
+"end_ref_usfm": "DAN 7:22"
+},
+{
+"start_ref": "34001003",
+"start_ref_usfm": "NAM 1:3",
+"end_ref": "34001003",
+"end_ref_usfm": "NAM 1:3"
+},
+{
+"start_ref": "40024030",
+"start_ref_usfm": "MAT 24:30",
+"end_ref": "40024030",
+"end_ref_usfm": "MAT 24:30"
+},
+{
+"start_ref": "40026024",
+"start_ref_usfm": "MAT 26:24",
+"end_ref": "40026024",
+"end_ref_usfm": "MAT 26:24"
+},
+{
+"start_ref": "40028018",
+"start_ref_usfm": "MAT 28:18",
+"end_ref": "40028018",
+"end_ref_usfm": "MAT 28:18"
+},
+{
+"start_ref": "41013026",
+"start_ref_usfm": "MRK 13:26",
+"end_ref": "41013026",
+"end_ref_usfm": "MRK 13:26"
+},
+{
+"start_ref": "42021027",
+"start_ref_usfm": "LUK 21:27",
+"end_ref": "42021027",
+"end_ref_usfm": "LUK 21:27"
+},
+{
+"start_ref": "43012034",
+"start_ref_usfm": "JHN 12:34",
+"end_ref": "43012034",
+"end_ref_usfm": "JHN 12:34"
+},
+{
+"start_ref": "44001009",
+"start_ref_usfm": "ACT 1:9",
+"end_ref": "44001009",
+"end_ref_usfm": "ACT 1:9"
+},
+{
+"start_ref": "44007056",
+"start_ref_usfm": "ACT 7:56",
+"end_ref": "44007056",
+"end_ref_usfm": "ACT 7:56"
+},
+{
+"start_ref": "52004017",
+"start_ref_usfm": "1TH 4:17",
+"end_ref": "52004017",
+"end_ref_usfm": "1TH 4:17"
+},
+{
+"start_ref": "58002006",
+"start_ref_usfm": "HEB 2:6",
+"end_ref": "58002006",
+"end_ref_usfm": "HEB 2:6"
+},
+{
+"start_ref": "66001007",
+"start_ref_usfm": "REV 1:7",
+"end_ref": "66001007",
+"end_ref_usfm": "REV 1:7"
+},
+{
+"start_ref": "66001013",
+"start_ref_usfm": "REV 1:13",
+"end_ref": "66001013",
+"end_ref_usfm": "REV 1:13"
+},
+{
+"start_ref": "66014014",
+"start_ref_usfm": "REV 14:14",
+"end_ref": "66014014",
+"end_ref_usfm": "REV 14:14"
+},
+{
+"start_ref": "01012001",
+"start_ref_usfm": "GEN 12:1",
+"end_ref": "01012003",
+"end_ref_usfm": "GEN 12:3"
+},
+{
+"start_ref": "27007013",
+"start_ref_usfm": "DAN 7:13",
+"end_ref": "27007014",
+"end_ref_usfm": "DAN 7:14"
+},
+{
+"start_ref": "40028019",
+"start_ref_usfm": "MAT 28:19",
+"end_ref": "40028020",
+"end_ref_usfm": "MAT 28:20"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]
