@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Profiles)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "AquiferOpenStudyNotesProfiles",
-"date_created": "2026-09-18",
+"date_created": "2026-10-23",
 "language": "fra",
 "localizations": [
 "eng",
@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-18T07:34:56.033848"
+"dateCreated": "2026-10-23T08:10:33.361283"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "AquiferOpenStudyNotesProfiles": {
-"timestamp": "2026-09-18T07:34:56.033848"
+"timestamp": "2026-10-23T08:10:33.361283"
 }
 }
 },
@@ -119,7 +119,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 38026,
+"size": 38094,
 "scope": {
 "b": [
 "Babylone",
@@ -155,7 +155,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 95962,
+"size": 96053,
 "scope": {
 "e": [
 "Égypte",
@@ -282,7 +282,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 30655,
+"size": 30691,
 "scope": {
 "n": [
 "Nebucadnetsar II",
@@ -415,11 +415,11 @@
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 42976
+"size": 43013
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 20036
+"size": 20049
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
@@ -447,7 +447,7 @@
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 13414
+"size": 13315
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",

@@ -1,0 +1,144 @@
+[
+{
+"content_id": "653397",
+"reference_id": 203510,
+"version": "1.0.4",
+"title": "Gereja Roma",
+"media_type": "Text",
+"index_reference": "gereja roma",
+"language": "ind",
+"review_level": "Professional",
+"content": "<p>Detail pasti tentang bagaimana gereja di Roma dimulai tidak sepenuhnya jelas. Roma memiliki populasi Yahudi yang besar, dan beberapa orang Yahudi dari Roma berada di Yerusalem selama Pentakosta ketika gereja dimulai (<data class=\"bible-ref\" data-start-ref=\"44002010\" data-end-ref=\"44002010\">Kisah Para Rasul 2:10</data>). Kemungkinan beberapa dari orang Yahudi ini menjadi Kristen dan membawa pesan Yesus ke Roma. Hal ini menyebabkan terbentuknya komunitas Kristen di dalam sinagoga Roma.</p><p>Diragukan bahwa Petrus memulai gereja di Roma atau berada di sana ketika Paulus menulis kepada orang-orang Kristen Roma sekitar tahun 57 M. Jika Petrus ada di sana, Paulus kemungkinan besar akan menyebutkannya. Oleh karena itu, Paulus menulis surat ini untuk memastikan bahwa gereja Roma mendapatkan bimbingan dari seorang rasul. Dia tidak menulis kepada gereja-gereja di Yudea, yang didirikan oleh rasul-rasul lain. Sebaliknya, dia menulis kepada gereja-gereja yang dia dirikan, seperti di Korintus dan Galatia, atau kepada mereka yang tidak memiliki bimbingan apostolik langsung, seperti di Kolose dan Roma.</p><p>Akhirnya, kemungkinan besar orang Yahudi non-Kristen di Roma memaksa orang Yahudi Kristen keluar dari sinagoga, seperti yang terjadi di tempat lain. Pada saat Paulus menulis kepada gereja di Roma, mereka bertemu di gereja-gereja rumah yang terpisah di rumah pribadi (<data class=\"bible-ref\" data-start-ref=\"45016005\" data-end-ref=\"45016005\">Roma 16:5</data>, <data class=\"bible-ref\" data-start-ref=\"45016010\" data-end-ref=\"45016011\">10–11</data>, <data class=\"bible-ref\" data-start-ref=\"45016015\" data-end-ref=\"45016015\">15</data>). Tidak ada bangunan pusat, dan tidak jelas apakah semua orang percaya di Roma berkumpul bersama.</p><p>Ketika Klaudius mengusir orang Yahudi dari Roma sekitar tahun 49 M, orang Kristen Yahudi seperti Priskila dan Akwila juga harus pergi (<data class=\"bible-ref\" data-start-ref=\"44018002\" data-end-ref=\"44018002\">Kisah Para Rasul 18:2</data>). Tanpa kehadiran orang Yahudi, gereja di Roma kemungkinan menjadi lebih banyak terdiri dari orang non-Yahudi. Ketika orang Yahudi kembali, mungkin segera setelah Klaudius meninggal pada tahun 54 M, muncul pertanyaan dan kemungkinan konflik antara orang Kristen Yahudi dan non-Yahudi. Paulus mungkin menulis surat kepada jemaat di Roma untuk menangani masalah-masalah ini di antara kelompok campuran orang Yahudi dan non-Yahudi yang menyembah Kristus di kota yang sama.</p><p>Seperti yang ditunjukkan dalam <data class=\"bible-ref\" data-start-ref=\"45016001\" data-end-ref=\"45016027\">Roma 16</data>, Paulus memiliki banyak teman di gereja Roma. Pada musim semi tahun 60 M, sekitar dua tahun setelah menulis surat kepada jemaat di Roma, Paulus mendapat kesempatan untuk pergi ke sana—suatu keinginan yang sering ia ungkapkan (<data class=\"bible-ref\" data-start-ref=\"44019021\" data-end-ref=\"44019021\">Kisah Para Rasul 19:21</data>; <data class=\"bible-ref\" data-start-ref=\"45001013\" data-end-ref=\"45001015\">Roma 1:13–15</data>). Dia tinggal di Roma selama dua tahun, menetap di sebuah rumah sambil diawasi oleh tentara Roma dan menunggu persidangan pertamanya di hadapan Nero. Selama waktu ini, Paulus “dengan berani dan bebas… memberitakan kerajaan Allah dan mengajarkan tentang Tuhan Yesus Kristus” (<data class=\"bible-ref\" data-start-ref=\"44028030\" data-end-ref=\"44028031\">Kisah Para Rasul 28:30–31</data>).</p><p><u>Ayat-ayat untuk Pembelajaran Lebih Lanjut</u></p><p><data class=\"bible-ref\" data-start-ref=\"44028015\" data-end-ref=\"44028031\">Kisah Para Rasul 28:15–31</data>; <data class=\"bible-ref\" data-start-ref=\"45001013\" data-end-ref=\"45001015\">Roma 1:13–15</data>; <data class=\"bible-ref\" data-start-ref=\"45016001\" data-end-ref=\"45016016\">16:1–16</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44002010",
+"start_ref_usfm": "ACT 2:10",
+"end_ref": "44002010",
+"end_ref_usfm": "ACT 2:10"
+},
+{
+"start_ref": "44018002",
+"start_ref_usfm": "ACT 18:2",
+"end_ref": "44018002",
+"end_ref_usfm": "ACT 18:2"
+},
+{
+"start_ref": "44019021",
+"start_ref_usfm": "ACT 19:21",
+"end_ref": "44019021",
+"end_ref_usfm": "ACT 19:21"
+},
+{
+"start_ref": "45016005",
+"start_ref_usfm": "ROM 16:5",
+"end_ref": "45016005",
+"end_ref_usfm": "ROM 16:5"
+},
+{
+"start_ref": "45016015",
+"start_ref_usfm": "ROM 16:15",
+"end_ref": "45016015",
+"end_ref_usfm": "ROM 16:15"
+},
+{
+"start_ref": "44028030",
+"start_ref_usfm": "ACT 28:30",
+"end_ref": "44028031",
+"end_ref_usfm": "ACT 28:31"
+},
+{
+"start_ref": "45016001",
+"start_ref_usfm": "ROM 16:1",
+"end_ref": "45016027",
+"end_ref_usfm": "ROM 16:27"
+},
+{
+"start_ref": "45016010",
+"start_ref_usfm": "ROM 16:10",
+"end_ref": "45016011",
+"end_ref_usfm": "ROM 16:11"
+},
+{
+"start_ref": "45016001",
+"start_ref_usfm": "ROM 16:1",
+"end_ref": "45016016",
+"end_ref_usfm": "ROM 16:16"
+},
+{
+"start_ref": "45001013",
+"start_ref_usfm": "ROM 1:13",
+"end_ref": "45001015",
+"end_ref_usfm": "ROM 1:15"
+},
+{
+"start_ref": "44028015",
+"start_ref_usfm": "ACT 28:15",
+"end_ref": "44028031",
+"end_ref_usfm": "ACT 28:31"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "653310",
+"reference_id": 203423,
+"version": "1.0.4",
+"title": "Gideon",
+"media_type": "Text",
+"index_reference": "gideon",
+"language": "ind",
+"review_level": "Professional",
+"content": "<p>Gideon adalah seorang hakim Israel dan putera Yoas dari suku Manasye. Dia menyatakan bahwa kaum keluarganya adalah yang terlemah di Manasye, dan dia adalah yang paling tidak penting di kaumnya. Kisahnya menunjukkan bagaimana Allah dapat menggunakan orang yang lemah untuk tujuan yang mulia.</p><p>Selama periode ini, bangsa Midian menindas Israel, dan umat Israel berseru kepada Allah untuk meminta bantuan (<data class=\"bible-ref\" data-start-ref=\"07006006\" data-end-ref=\"07006006\">Hakim-hakim 6:6</data>). Sebagai tanggapan, Allah mengirim seorang nabi untuk menegur mereka karena mengabaikan-Nya dan menyembah ilah-ilah lain. Dia juga mengutus malaikat-Nya untuk memanggil Gideon agar menyelamatkan Israel.</p><p>Kemunculan pertama Gideon tidaklah menjanjikan. Dia sedang mengirik gandum di dasar tempat pemerasan anggur untuk bersembunyi dari orang Midian. Ketika malaikat Tuhan muncul kepada Gideon di sana, Gideon bertanya mengapa Allah tidak menyelamatkan umat-Nya seperti pada masa Keluaran. Allah memberitahu Gideon bahwa dia dipilih untuk menjadi penyelamat Israel dan bahwa Allah akan bersamanya. Gideon ragu untuk percaya dan meminta tanda. Dia membawa persembahan, dan ketika malaikat menyentuhnya, api keluar dari batu di bawahnya.</p><p>Tanda ini memberi Gideon cukup iman untuk bertindak di komunitasnya. Allah memerintahkannya untuk merobohkan mezbah Baal milik ayahnya, menebang tiang berhala Asyera, dan membangun mezbah untuk Tuhan. Gideon mematuhi perintah Allah dan menjadi pejuang bagi Allah melawan ilah-ilah palsu.</p><p>Roh Allah datang kepada Gideon, dan dia mengumpulkan pasukan untuk melawan orang Midian serta sekutu mereka. Gideon tetap berhati-hati dan meminta tanda yang lain kepada Allah untuk mengonfirmasi misinya. Dia meletakkan guntingan bulu domba di luar pada dua malam yang berbeda, meminta Allah menunjukkan kekuasaan-Nya dengan membuat embun menetap di bulu domba dan tanah dengan cara yang ajaib. Allah melakukan ini, dan Gideon siap mengikuti rencana Allah.</p><p>Gideon berhasil merekrut 32.000 orang untuk pasukannya. Namun, Allah memerintahkannya untuk mengurangi jumlah tersebut menjadi 300 orang. Gideon memimpin 300 orang ini melawan pasukan yang jauh lebih besar dan berhasil menang.</p><p>Gideon dengan bijaksana menolak permintaan orang-orang untuk menjadi penguasa mereka. Namun, dia membuat sebuah Efod dari anting-anting para prajurit yang dikalahkan, dan itu menjadi berhala (<data class=\"bible-ref\" data-start-ref=\"07008022\" data-end-ref=\"07008027\">Hakim-hakim 8:22–27</data>). Gideon, yang lemah dalam iman dan mengandalkan tanda-tanda yang terlihat, akhirnya berpaling dari menyembah Allah yang tidak terlihat dan menyembah berhala. Israel mengalami kedamaian selama masa hidupnya, tetapi kurangnya iman menyebabkan masalah setelah kematiannya (<data class=\"bible-ref\" data-start-ref=\"07008033\" data-end-ref=\"07009057\">Hakim-hakim 8:33–9:57</data>).</p><p><u>Ayat-ayat untuk Pembelajaran Lebih Lanjut</u></p><p><data class=\"bible-ref\" data-start-ref=\"07006001\" data-end-ref=\"07008035\">Hakim-hakim 6:1–8:35</data>; <data class=\"bible-ref\" data-start-ref=\"09012011\" data-end-ref=\"09012011\">1 Samuel 12:11</data>; <data class=\"bible-ref\" data-start-ref=\"23010026\" data-end-ref=\"23010026\">Yesaya 10:26</data>; <data class=\"bible-ref\" data-start-ref=\"58011032\" data-end-ref=\"58011032\">Ibrani 11:32</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07006006",
+"start_ref_usfm": "JDG 6:6",
+"end_ref": "07006006",
+"end_ref_usfm": "JDG 6:6"
+},
+{
+"start_ref": "09012011",
+"start_ref_usfm": "1SA 12:11",
+"end_ref": "09012011",
+"end_ref_usfm": "1SA 12:11"
+},
+{
+"start_ref": "23010026",
+"start_ref_usfm": "ISA 10:26",
+"end_ref": "23010026",
+"end_ref_usfm": "ISA 10:26"
+},
+{
+"start_ref": "58011032",
+"start_ref_usfm": "HEB 11:32",
+"end_ref": "58011032",
+"end_ref_usfm": "HEB 11:32"
+},
+{
+"start_ref": "07006001",
+"start_ref_usfm": "JDG 6:1",
+"end_ref": "07008035",
+"end_ref_usfm": "JDG 8:35"
+},
+{
+"start_ref": "07008022",
+"start_ref_usfm": "JDG 8:22",
+"end_ref": "07008027",
+"end_ref_usfm": "JDG 8:27"
+},
+{
+"start_ref": "07008033",
+"start_ref_usfm": "JDG 8:33",
+"end_ref": "07009057",
+"end_ref_usfm": "JDG 9:57"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]

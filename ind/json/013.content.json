@@ -1,0 +1,1051 @@
+[
+{
+"content_id": "653318",
+"reference_id": 203431,
+"version": "1.0.4",
+"title": "Orang Amalek",
+"media_type": "Text",
+"index_reference": "orang amalek",
+"language": "ind",
+"review_level": "Professional",
+"content": "<p>Orang Amalek adalah keturunan Amalek, cucu dari Esau (<data class=\"bible-ref\" data-start-ref=\"01036012\" data-end-ref=\"01036012\">Kejadian 36:12</data>; <data class=\"bible-ref\" data-start-ref=\"13001036\" data-end-ref=\"13001036\">1 Tawarikh 1:36</data>). Mereka adalah penggembala nomaden. Wilayah mereka di Negeb membentang dari selatan Bersyeba ke tenggara, sampai ke Elat dan Ezion-Geber. Mereka kemungkinan besar menyerbu ke arah barat ke dataran pantai, ke arah timur ke padang gurun Araba, dan mungkin ke Arab.</p><p>Orang Amalek adalah musuh yang kuat bagi Israel. Orang Israel pertama kali bertemu dengan para prajurit Amalek di Refidim dekat Sinai ketika mereka menyerang Israel (<data class=\"bible-ref\" data-start-ref=\"02017008\" data-end-ref=\"02017016\">Keluaran 17:8–16</data>). Yosua dan tentara Israel mengalahkan orang Amalek dalam pertempuran ini. Kemudian, orang Amalek menghentikan upaya Israel yang tidak taat untuk memasuki tanah perjanjian (<data class=\"bible-ref\" data-start-ref=\"04014039\" data-end-ref=\"04014045\">Bilangan 14:39–45</data>).</p><p>Karena permusuhan mereka, Musa memerintahkan bangsa Israel untuk memusnahkan mereka (<data class=\"bible-ref\" data-start-ref=\"05025017\" data-end-ref=\"05025019\">Ulangan 25:17–19</data>). Namun, orang Amalek terus tinggal di Negeb (lihat <data class=\"bible-ref\" data-start-ref=\"07003012\" data-end-ref=\"07003014\">Hakim-hakim 3:12–14</data>; <data class=\"bible-ref\" data-start-ref=\"07006033\" data-end-ref=\"07006033\">6:33</data>; <data class=\"bible-ref\" data-start-ref=\"09014047\" data-end-ref=\"09014048\">1 Samuel 14:47–48</data>; <data class=\"bible-ref\" data-start-ref=\"09015001\" data-end-ref=\"09015035\">15:1–35</data>). Mereka yang selamat tetap menjadi musuh Israel (<data class=\"bible-ref\" data-start-ref=\"09027008\" data-end-ref=\"09027008\">1 Samuel 27:8</data>; <data class=\"bible-ref\" data-start-ref=\"09030001\" data-end-ref=\"09030020\">30:1–20</data>; <data class=\"bible-ref\" data-start-ref=\"10008011\" data-end-ref=\"10008012\">2 Samuel 8:11–12</data>; <data class=\"bible-ref\" data-start-ref=\"19083001\" data-end-ref=\"19083008\">Mazmur 83:1–8</data>). Kelompok yang tersisa ini akhirnya dibinasakan pada masa pemerintahan Raja Hizkia (<data class=\"bible-ref\" data-start-ref=\"13004042\" data-end-ref=\"13004043\">1 Tawarikh 4:42–43</data>). Dalam kitab Ester, Haman, seorang keturunan Raja Agag, menunjukkan permusuhan mereka sampai akhir (<data class=\"bible-ref\" data-start-ref=\"17003001\" data-end-ref=\"17003015\">Ester 3</data>; lihat <data class=\"bible-ref\" data-start-ref=\"09015001\" data-end-ref=\"09015035\">1 Samuel 15</data>).</p><p><u>Ayat-ayat untuk Pembelajaran Lebih Lanjut</u></p><p><data class=\"bible-ref\" data-start-ref=\"09030001\" data-end-ref=\"09030031\">1 Samuel 30:1–31</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01036012",
+"start_ref_usfm": "GEN 36:12",
+"end_ref": "01036012",
+"end_ref_usfm": "GEN 36:12"
+},
+{
+"start_ref": "07006033",
+"start_ref_usfm": "JDG 6:33",
+"end_ref": "07006033",
+"end_ref_usfm": "JDG 6:33"
+},
+{
+"start_ref": "09027008",
+"start_ref_usfm": "1SA 27:8",
+"end_ref": "09027008",
+"end_ref_usfm": "1SA 27:8"
+},
+{
+"start_ref": "13001036",
+"start_ref_usfm": "1CH 1:36",
+"end_ref": "13001036",
+"end_ref_usfm": "1CH 1:36"
+},
+{
+"start_ref": "02017008",
+"start_ref_usfm": "EXO 17:8",
+"end_ref": "02017016",
+"end_ref_usfm": "EXO 17:16"
+},
+{
+"start_ref": "09015001",
+"start_ref_usfm": "1SA 15:1",
+"end_ref": "09015035",
+"end_ref_usfm": "1SA 15:35"
+},
+{
+"start_ref": "04014039",
+"start_ref_usfm": "NUM 14:39",
+"end_ref": "04014045",
+"end_ref_usfm": "NUM 14:45"
+},
+{
+"start_ref": "05025017",
+"start_ref_usfm": "DEU 25:17",
+"end_ref": "05025019",
+"end_ref_usfm": "DEU 25:19"
+},
+{
+"start_ref": "07003012",
+"start_ref_usfm": "JDG 3:12",
+"end_ref": "07003014",
+"end_ref_usfm": "JDG 3:14"
+},
+{
+"start_ref": "09014047",
+"start_ref_usfm": "1SA 14:47",
+"end_ref": "09014048",
+"end_ref_usfm": "1SA 14:48"
+},
+{
+"start_ref": "09030001",
+"start_ref_usfm": "1SA 30:1",
+"end_ref": "09030020",
+"end_ref_usfm": "1SA 30:20"
+},
+{
+"start_ref": "10008011",
+"start_ref_usfm": "2SA 8:11",
+"end_ref": "10008012",
+"end_ref_usfm": "2SA 8:12"
+},
+{
+"start_ref": "17003001",
+"start_ref_usfm": "EST 3:1",
+"end_ref": "17003015",
+"end_ref_usfm": "EST 3:15"
+},
+{
+"start_ref": "09030001",
+"start_ref_usfm": "1SA 30:1",
+"end_ref": "09030031",
+"end_ref_usfm": "1SA 30:31"
+},
+{
+"start_ref": "13004042",
+"start_ref_usfm": "1CH 4:42",
+"end_ref": "13004043",
+"end_ref_usfm": "1CH 4:43"
+},
+{
+"start_ref": "19083001",
+"start_ref_usfm": "PSA 83:1",
+"end_ref": "19083008",
+"end_ref_usfm": "PSA 83:8"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "653333",
+"reference_id": 203446,
+"version": "1.0.4",
+"title": "Orang Aram",
+"media_type": "Text",
+"index_reference": "orang aram",
+"language": "ind",
+"review_level": "Professional",
+"content": "<p>Orang Aram termasuk dalam kelompok bangsa yang merupakan keturunan dari Sem, salah seorang anak Nuh (<data class=\"bible-ref\" data-start-ref=\"01010022\" data-end-ref=\"01010023\">Kejadian 10:22–23</data>; bandingkan <data class=\"bible-ref\" data-start-ref=\"01022020\" data-end-ref=\"01022021\">Kejadian 22:20–21</data>). Betuel dan Laban dikenal sebagai orang Aram (<data class=\"bible-ref\" data-start-ref=\"01025020\" data-end-ref=\"01025020\">Kejadian 25:20</data>; <data class=\"bible-ref\" data-start-ref=\"01028001\" data-end-ref=\"01028007\">28:1–7</data>). Yakub tinggal bersama mereka di wilayah Aram selama sekitar dua puluh tahun (<data class=\"bible-ref\" data-start-ref=\"01028001\" data-end-ref=\"01031055\">Kejadian 28–31</data>; <data class=\"bible-ref\" data-start-ref=\"28012012\" data-end-ref=\"28012012\">Hosea 12:12</data>), dan orang-orang Israel mengingat bahwa nenek moyang mereka secara budaya adalah orang Aram (<data class=\"bible-ref\" data-start-ref=\"05026005\" data-end-ref=\"05026005\">Ulangan 26:5</data>).</p><p>Bangsa Aram muncul dalam sejarah sekitar zaman Abraham. Mereka tinggal di dekat Efrat bagian tengah dan menyebar ke arah timur, barat, dan utara. Sekitar tahun 1100 SM, suku-suku Aram tersebar di seluruh Siria dan Transyordania utara (wilayah di sebelah timur Sungai Yordan). Mereka mendirikan kota-kota negara yang kuat seperti Zoba dan Damsyik, yang berkonflik dengan bangsa Israel sejak zaman Daud (lihat <data class=\"bible-ref\" data-start-ref=\"10008003\" data-end-ref=\"10008008\">2 Samuel 8:3–8</data>; <data class=\"bible-ref\" data-start-ref=\"10010006\" data-end-ref=\"10010019\">10:6–19</data>).</p><p>Setelah Salomo meninggal, Israel terpecah menjadi kerajaan utara dan selatan. Pada masa ini, kota Aram Damsyik menjadi sangat kuat. Para penguasa Damsyik sering memanfaatkan konflik antara kedua kerajaan Israel. Selama perang antara Israel dan Yehuda dari tahun 890 hingga 880 SM, Raja Asa dari Israel meminta bantuan Ben-hadad I dari Damsyik (<data class=\"bible-ref\" data-start-ref=\"11015018\" data-end-ref=\"11015019\">1 Raja-raja 15:18–19</data>).</p><p>Kira-kira tiga puluh tahun kemudian, pada awal 850 SM, Ben-hadad menyerang Israel, tetapi Ahab berhasil mengalahkannya di Samaria (<data class=\"bible-ref\" data-start-ref=\"11020001\" data-end-ref=\"11020021\">1 Raja-raja 20:1–21</data>) dan sekali lagi di Afek pada tahun berikutnya (<data class=\"bible-ref\" data-start-ref=\"11020022\" data-end-ref=\"11020034\">1 Raja-raja 20:22–34</data>). Setelah tiga tahun perdamaian, Israel dan Damsyik bertempur lagi pada 853 SM, dan Ahab gugur dalam pertempuran (<data class=\"bible-ref\" data-start-ref=\"11022029\" data-end-ref=\"11022037\">1 Raja-raja 22:29–37</data>). Orang Aram di Damsyik terus menimbulkan kerugian bagi Israel selama beberapa dekade berikutnya (lihat <data class=\"bible-ref\" data-start-ref=\"12008028\" data-end-ref=\"12008029\">2 Raja-raja 8:28–29</data>; <data class=\"bible-ref\" data-start-ref=\"12012017\" data-end-ref=\"12012018\">12:17–18</data>; <data class=\"bible-ref\" data-start-ref=\"12013001\" data-end-ref=\"12013007\">13:1–7</data>).</p><p>Selama periode ini, negara-kota Aram mulai merasakan tekanan dari Asyur. Asyur pertama kali mengalahkan Damsyik sekitar tahun 838 SM dan memaksanya membayar upeti pada tahun 803 SM. Hal ini melemahkan Damaskus, memungkinkan Yoas, raja Israel dari tahun 798 hingga 782 SM, untuk mengalahkan orang Aram dan mengusir mereka dari wilayah Israel sekitar tahun 795 SM (<data class=\"bible-ref\" data-start-ref=\"12013014\" data-end-ref=\"12013025\">2 Raja-raja 13:14–25</data>). Kemudian, Yerobeam II, yang memerintah dari tahun 793 hingga 753 SM, membuat Damaskus membayar upeti kepadanya (lihat <data class=\"bible-ref\" data-start-ref=\"12014028\" data-end-ref=\"12014028\">2 Raja-raja 14:28</data>).</p><p>Pada sekitar tahun 738 SM, orang Aram dari Damsyik bersekutu dengan Israel untuk menaklukkan Yehuda. Mereka berhasil merebut banyak wilayah, tetapi pengepungan mereka terhadap Yerusalem tidak berhasil (<data class=\"bible-ref\" data-start-ref=\"12016005\" data-end-ref=\"12016005\">2 Raja-raja 16:5</data>; lihat juga <data class=\"bible-ref\" data-start-ref=\"14028005\" data-end-ref=\"14028005\">2 Tawarikh 28:5</data>). Selama masa kejayaan yang tampak bagi Damsyik ini, nabi Yesaya dan Amos meramalkan kehancuran kota tersebut (<data class=\"bible-ref\" data-start-ref=\"23008004\" data-end-ref=\"23008004\">Yesaya  8:4</data>; <data class=\"bible-ref\" data-start-ref=\"23017001\" data-end-ref=\"23017001\">17:1</data>; <data class=\"bible-ref\" data-start-ref=\"30001003\" data-end-ref=\"30001005\">Amos 1:3–5</data>). Alih-alih mempercayai Allah, Raja Ahas dari Yehuda mencari perlindungan dari bangsa Asyur. Bangsa Asyur menanggapi pemberiannya dengan menyerang Damsyik dan mengasingkan penduduknya pada tahun 733 dan 732 SM (<data class=\"bible-ref\" data-start-ref=\"12016007\" data-end-ref=\"12016011\">2 Raja-raja 16:7–11</data>). Damsyik berhenti menjadi negara kota yang independen.</p><p>Bahasa Aram, bahasa yang digunakan oleh orang Aram, menjadi bahasa utama untuk diplomasi dan administrasi di seluruh Timur Dekat (lihat, misalnya, <data class=\"bible-ref\" data-start-ref=\"12018026\" data-end-ref=\"12018026\">2 Raja-raja 18:26</data>). Selama masa pembuangan di Babel, orang Yahudi mulai menggunakan bahasa Aram; bagian dari kitab Ezra dan Daniel ditulis dalam bahasa Aram. Bahasa Aram menjadi bahasa umum dari Mesir hingga India selama periode Persia dan banyak digunakan di Palestina pada zaman Yesus (lihat <data class=\"bible-ref\" data-start-ref=\"41005041\" data-end-ref=\"41005041\">Markus 5:41</data>; <data class=\"bible-ref\" data-start-ref=\"46016022\" data-end-ref=\"46016022\">1 Korintus 16:22</data>).</p><p><u>Ayat-ayat untuk Pembelajaran Lebih Lanjut</u></p><p><data class=\"bible-ref\" data-start-ref=\"01010022\" data-end-ref=\"01010023\">Kejadian 10:22–23</data>; <data class=\"bible-ref\" data-start-ref=\"01022020\" data-end-ref=\"01022021\">22:20–21</data>; <data class=\"bible-ref\" data-start-ref=\"01025020\" data-end-ref=\"01025020\">25:20</data>; <data class=\"bible-ref\" data-start-ref=\"01028001\" data-end-ref=\"01028007\">28:1–7</data>; <data class=\"bible-ref\" data-start-ref=\"05026005\" data-end-ref=\"05026005\">Ulangan 26:5</data>; <data class=\"bible-ref\" data-start-ref=\"10008003\" data-end-ref=\"10008004\">2 Samuel 8:3–4</data>; <data class=\"bible-ref\" data-start-ref=\"10010017\" data-end-ref=\"10010019\">10:17–19</data>; <data class=\"bible-ref\" data-start-ref=\"11015018\" data-end-ref=\"11015018\">1 Raja-raja 15:18</data>; <data class=\"bible-ref\" data-start-ref=\"11020001\" data-end-ref=\"11020034\">1 Raja-raja 20:1–34</data>; <data class=\"bible-ref\" data-start-ref=\"11022029\" data-end-ref=\"11022037\">22:29–37</data>; <data class=\"bible-ref\" data-start-ref=\"12013025\" data-end-ref=\"12013025\">2 Raja-raja 13:25</data>; <data class=\"bible-ref\" data-start-ref=\"12016009\" data-end-ref=\"12016013\">16:9–13</data>; <data class=\"bible-ref\" data-start-ref=\"12017024\" data-end-ref=\"12017034\">17:24–34</data>; <data class=\"bible-ref\" data-start-ref=\"28012012\" data-end-ref=\"28012012\">Hosea 12:12</data>; <data class=\"bible-ref\" data-start-ref=\"30001005\" data-end-ref=\"30001005\">Amos 1:5</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01025020",
+"start_ref_usfm": "GEN 25:20",
+"end_ref": "01025020",
+"end_ref_usfm": "GEN 25:20"
+},
+{
+"start_ref": "05026005",
+"start_ref_usfm": "DEU 26:5",
+"end_ref": "05026005",
+"end_ref_usfm": "DEU 26:5"
+},
+{
+"start_ref": "11015018",
+"start_ref_usfm": "1KI 15:18",
+"end_ref": "11015018",
+"end_ref_usfm": "1KI 15:18"
+},
+{
+"start_ref": "12013025",
+"start_ref_usfm": "2KI 13:25",
+"end_ref": "12013025",
+"end_ref_usfm": "2KI 13:25"
+},
+{
+"start_ref": "12014028",
+"start_ref_usfm": "2KI 14:28",
+"end_ref": "12014028",
+"end_ref_usfm": "2KI 14:28"
+},
+{
+"start_ref": "12016005",
+"start_ref_usfm": "2KI 16:5",
+"end_ref": "12016005",
+"end_ref_usfm": "2KI 16:5"
+},
+{
+"start_ref": "12018026",
+"start_ref_usfm": "2KI 18:26",
+"end_ref": "12018026",
+"end_ref_usfm": "2KI 18:26"
+},
+{
+"start_ref": "14028005",
+"start_ref_usfm": "2CH 28:5",
+"end_ref": "14028005",
+"end_ref_usfm": "2CH 28:5"
+},
+{
+"start_ref": "23008004",
+"start_ref_usfm": "ISA 8:4",
+"end_ref": "23008004",
+"end_ref_usfm": "ISA 8:4"
+},
+{
+"start_ref": "23017001",
+"start_ref_usfm": "ISA 17:1",
+"end_ref": "23017001",
+"end_ref_usfm": "ISA 17:1"
+},
+{
+"start_ref": "28012012",
+"start_ref_usfm": "HOS 12:12",
+"end_ref": "28012012",
+"end_ref_usfm": "HOS 12:12"
+},
+{
+"start_ref": "30001005",
+"start_ref_usfm": "AMO 1:5",
+"end_ref": "30001005",
+"end_ref_usfm": "AMO 1:5"
+},
+{
+"start_ref": "41005041",
+"start_ref_usfm": "MRK 5:41",
+"end_ref": "41005041",
+"end_ref_usfm": "MRK 5:41"
+},
+{
+"start_ref": "46016022",
+"start_ref_usfm": "1CO 16:22",
+"end_ref": "46016022",
+"end_ref_usfm": "1CO 16:22"
+},
+{
+"start_ref": "01010022",
+"start_ref_usfm": "GEN 10:22",
+"end_ref": "01010023",
+"end_ref_usfm": "GEN 10:23"
+},
+{
+"start_ref": "11015018",
+"start_ref_usfm": "1KI 15:18",
+"end_ref": "11015019",
+"end_ref_usfm": "1KI 15:19"
+},
+{
+"start_ref": "12012017",
+"start_ref_usfm": "2KI 12:17",
+"end_ref": "12012018",
+"end_ref_usfm": "2KI 12:18"
+},
+{
+"start_ref": "30001003",
+"start_ref_usfm": "AMO 1:3",
+"end_ref": "30001005",
+"end_ref_usfm": "AMO 1:5"
+},
+{
+"start_ref": "11020001",
+"start_ref_usfm": "1KI 20:1",
+"end_ref": "11020034",
+"end_ref_usfm": "1KI 20:34"
+},
+{
+"start_ref": "12013001",
+"start_ref_usfm": "2KI 13:1",
+"end_ref": "12013007",
+"end_ref_usfm": "2KI 13:7"
+},
+{
+"start_ref": "12013014",
+"start_ref_usfm": "2KI 13:14",
+"end_ref": "12013025",
+"end_ref_usfm": "2KI 13:25"
+},
+{
+"start_ref": "01022020",
+"start_ref_usfm": "GEN 22:20",
+"end_ref": "01022021",
+"end_ref_usfm": "GEN 22:21"
+},
+{
+"start_ref": "01028001",
+"start_ref_usfm": "GEN 28:1",
+"end_ref": "01028007",
+"end_ref_usfm": "GEN 28:7"
+},
+{
+"start_ref": "10008003",
+"start_ref_usfm": "2SA 8:3",
+"end_ref": "10008004",
+"end_ref_usfm": "2SA 8:4"
+},
+{
+"start_ref": "10010017",
+"start_ref_usfm": "2SA 10:17",
+"end_ref": "10010019",
+"end_ref_usfm": "2SA 10:19"
+},
+{
+"start_ref": "11022029",
+"start_ref_usfm": "1KI 22:29",
+"end_ref": "11022037",
+"end_ref_usfm": "1KI 22:37"
+},
+{
+"start_ref": "12017024",
+"start_ref_usfm": "2KI 17:24",
+"end_ref": "12017034",
+"end_ref_usfm": "2KI 17:34"
+},
+{
+"start_ref": "12008028",
+"start_ref_usfm": "2KI 8:28",
+"end_ref": "12008029",
+"end_ref_usfm": "2KI 8:29"
+},
+{
+"start_ref": "01028001",
+"start_ref_usfm": "GEN 28:1",
+"end_ref": "01031055",
+"end_ref_usfm": "GEN 31:55"
+},
+{
+"start_ref": "10008003",
+"start_ref_usfm": "2SA 8:3",
+"end_ref": "10008008",
+"end_ref_usfm": "2SA 8:8"
+},
+{
+"start_ref": "10010006",
+"start_ref_usfm": "2SA 10:6",
+"end_ref": "10010019",
+"end_ref_usfm": "2SA 10:19"
+},
+{
+"start_ref": "11020001",
+"start_ref_usfm": "1KI 20:1",
+"end_ref": "11020021",
+"end_ref_usfm": "1KI 20:21"
+},
+{
+"start_ref": "11020022",
+"start_ref_usfm": "1KI 20:22",
+"end_ref": "11020034",
+"end_ref_usfm": "1KI 20:34"
+},
+{
+"start_ref": "12016007",
+"start_ref_usfm": "2KI 16:7",
+"end_ref": "12016011",
+"end_ref_usfm": "2KI 16:11"
+},
+{
+"start_ref": "12016009",
+"start_ref_usfm": "2KI 16:9",
+"end_ref": "12016013",
+"end_ref_usfm": "2KI 16:13"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "group:Aramean",
+"type": "group",
+"confidence": 0.6072,
+"match_method": "scored",
+"preferred_label": "Arameans"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 0.5828,
+"match_method": "scored",
+"preferred_label": "Aram"
+}
+]
+}
+},
+{
+"content_id": "653308",
+"reference_id": 203421,
+"version": "1.0.4",
+"title": "Orang Filistin",
+"media_type": "Text",
+"index_reference": "orang filistin",
+"language": "ind",
+"review_level": "Professional",
+"content": "<p>Orang Filistin menetap di dataran pantai tenggara Mediterania. Mereka merupakan bagian dari kelompok pelaut yang lebih besar dari wilayah Aegea, yang disebut “Bangsa Laut” oleh orang Mesir. Sekitar tahun 1200 SM, mereka menetap di dataran pesisir pantai Palestina yang lebih rendah dan mendirikan lima kota: </p><ol><li><p>Asdod</p></li><li><p>Askelon</p></li><li><p>Ekron</p></li><li><p>Gaza</p></li><li><p>Gath</p></li></ol><p>Bangsa Filistin bukanlah bangsa yang sederhana; mereka terampil dalam bidang politik dan teknologi. Mereka juga merupakan pejuang yang tangguh. Teknologi besi mereka membuat mereka menjadi musuh yang hampir tak terkalahkan (lihat <data class=\"bible-ref\" data-start-ref=\"09013019\" data-end-ref=\"09013022\">1 Samuel 13:19–22</data>). Mereka sering berperang melawan bangsa Israel pada masa hakim-hakim, sekitar tahun 1350 hingga 1050 SM, dan pada masa kerajaan bersatu, sekitar tahun 1050 hingga 970 SM. Saul meninggal dalam pertempuran melawan orang Filistin (<data class=\"bible-ref\" data-start-ref=\"09031001\" data-end-ref=\"09031013\">1 Samuel 31:1–13</data>). Namun, Daud mengalahkan mereka sebelum ia menjadi raja (<data class=\"bible-ref\" data-start-ref=\"09018020\" data-end-ref=\"09018030\">1 Samuel 18:20–30</data>; <data class=\"bible-ref\" data-start-ref=\"09019008\" data-end-ref=\"09019008\">19:8</data>; <data class=\"bible-ref\" data-start-ref=\"09023001\" data-end-ref=\"09023005\">23:1–5</data>) dan terus menang melawan mereka selama masa pemerintahannya (<data class=\"bible-ref\" data-start-ref=\"10005017\" data-end-ref=\"10005025\">2 Samuel 5:17–25</data>; <data class=\"bible-ref\" data-start-ref=\"10008001\" data-end-ref=\"10008001\">8:1</data>; <data class=\"bible-ref\" data-start-ref=\"10021015\" data-end-ref=\"10021015\">21:15–22</data>). Meskipun orang Filistin tidak pernah sepenuhnya lenyap selama Israel masih ada sebagai sebuah bangsa (<data class=\"bible-ref\" data-start-ref=\"12018008\" data-end-ref=\"12018008\">2 Raja-raja 18:8</data>; <data class=\"bible-ref\" data-start-ref=\"14017011\" data-end-ref=\"14017011\">2 Tawarikh 17:11</data>; <data class=\"bible-ref\" data-start-ref=\"14021016\" data-end-ref=\"14021017\">21:16–17</data>; <data class=\"bible-ref\" data-start-ref=\"14026006\" data-end-ref=\"14026007\">26:6–7</data>; <data class=\"bible-ref\" data-start-ref=\"14028018\" data-end-ref=\"14028018\">28:18</data>), Daud secara efektif mengakhiri ancaman mereka.</p><p>Dalam 1 Samuel, Allah menggunakan orang Filistin untuk menyingkirkan keluarga Eli yang berdosa (<data class=\"bible-ref\" data-start-ref=\"09004010\" data-end-ref=\"09004022\">1 Samuel 4:10–22</data>). Orang Filistin juga membantu membangun karier militer dan politik Daud (<data class=\"bible-ref\" data-start-ref=\"09017032\" data-end-ref=\"09017058\">1 Samuel 17:32–58</data>; <data class=\"bible-ref\" data-start-ref=\"09018020\" data-end-ref=\"09018030\">18:20–30</data>). Mereka mengalihkan perhatian Saul ketika ia hampir menangkap Daud (<data class=\"bible-ref\" data-start-ref=\"09023026\" data-end-ref=\"09023028\">1 Samuel 23:26–28</data>) Mereka memberi Daud perlindungan dari Saul (<data class=\"bible-ref\" data-start-ref=\"09021010\" data-end-ref=\"09021015\">1 Samuel 21:10–15</data>; <data class=\"bible-ref\" data-start-ref=\"09027001\" data-end-ref=\"09027012\">27:1–12</data>). Mereka mencegah Daud untuk memerangi bangsanya sendiri (<data class=\"bible-ref\" data-start-ref=\"09029001\" data-end-ref=\"09029011\">1 Samuel 29:1–11</data>) Mereka membunuh Saul dan anak-anaknya (<data class=\"bible-ref\" data-start-ref=\"09031001\" data-end-ref=\"09031013\">1 Samuel 31:1–13</data>). Hal ini memungkinkan Daud untuk menjadi raja. Namun, pada akhirnya, bangsa Filistin mengalami penghakiman Allah (lihat <data class=\"bible-ref\" data-start-ref=\"26025015\" data-end-ref=\"26025017\">Yehezkiel 25:15–17</data>; <data class=\"bible-ref\" data-start-ref=\"30001006\" data-end-ref=\"30001008\">Amos 1:6–8</data>).</p><p><u>Ayat-ayat untuk Pembelajaran Lebih Lanjut</u></p><p><data class=\"bible-ref\" data-start-ref=\"01010013\" data-end-ref=\"01010014\">Kejadian 10:13–14</data>; <data class=\"bible-ref\" data-start-ref=\"07003001\" data-end-ref=\"07003003\">Hakim-hakim 3:1–3</data>; <data class=\"bible-ref\" data-start-ref=\"07013001\" data-end-ref=\"07016031\">Hakim-hakim 13:1–16:31</data>; <data class=\"bible-ref\" data-start-ref=\"09005001\" data-end-ref=\"09006018\">1 Samuel 5:1–6:18</data>; <data class=\"bible-ref\" data-start-ref=\"09013016\" data-end-ref=\"09014023\">13:16–14:23</data>; <data class=\"bible-ref\" data-start-ref=\"09021010\" data-end-ref=\"09021015\">21:10–15</data>; <data class=\"bible-ref\" data-start-ref=\"09023001\" data-end-ref=\"09023005\">23:1–5</data>, <data class=\"bible-ref\" data-start-ref=\"09023026\" data-end-ref=\"09023028\">26–28</data>; <data class=\"bible-ref\" data-start-ref=\"09031001\" data-end-ref=\"09031010\">31:1–10</data>; <data class=\"bible-ref\" data-start-ref=\"10005017\" data-end-ref=\"10005025\">2 Samuel 5:17–25</data>; <data class=\"bible-ref\" data-start-ref=\"10008001\" data-end-ref=\"10008001\">8:1</data>; <data class=\"bible-ref\" data-start-ref=\"10021015\" data-end-ref=\"10021022\">21:15–22</data>; <data class=\"bible-ref\" data-start-ref=\"12018008\" data-end-ref=\"12018008\">2Raj. 18:8</data>; <data class=\"bible-ref\" data-start-ref=\"14017010\" data-end-ref=\"14017011\">2 Tawarikh 17:10–11</data>; <data class=\"bible-ref\" data-start-ref=\"14021016\" data-end-ref=\"14021017\">21:16–17</data>; <data class=\"bible-ref\" data-start-ref=\"14026006\" data-end-ref=\"14026007\">26:6–7</data>; <data class=\"bible-ref\" data-start-ref=\"14028018\" data-end-ref=\"14028019\">28:18–19</data>; <data class=\"bible-ref\" data-start-ref=\"23002006\" data-end-ref=\"23002006\">Yesaya 2:6</data>; <data class=\"bible-ref\" data-start-ref=\"26025015\" data-end-ref=\"26025017\">Yehezkiel 25:15–17</data>; <data class=\"bible-ref\" data-start-ref=\"30001006\" data-end-ref=\"30001008\">Amos 1:6–8</data>; <data class=\"bible-ref\" data-start-ref=\"30009007\" data-end-ref=\"30009007\">9:7</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09019008",
+"start_ref_usfm": "1SA 19:8",
+"end_ref": "09019008",
+"end_ref_usfm": "1SA 19:8"
+},
+{
+"start_ref": "10008001",
+"start_ref_usfm": "2SA 8:1",
+"end_ref": "10008001",
+"end_ref_usfm": "2SA 8:1"
+},
+{
+"start_ref": "10021015",
+"start_ref_usfm": "2SA 21:15",
+"end_ref": "10021015",
+"end_ref_usfm": "2SA 21:15"
+},
+{
+"start_ref": "12018008",
+"start_ref_usfm": "2KI 18:8",
+"end_ref": "12018008",
+"end_ref_usfm": "2KI 18:8"
+},
+{
+"start_ref": "14017011",
+"start_ref_usfm": "2CH 17:11",
+"end_ref": "14017011",
+"end_ref_usfm": "2CH 17:11"
+},
+{
+"start_ref": "14028018",
+"start_ref_usfm": "2CH 28:18",
+"end_ref": "14028018",
+"end_ref_usfm": "2CH 28:18"
+},
+{
+"start_ref": "23002006",
+"start_ref_usfm": "ISA 2:6",
+"end_ref": "23002006",
+"end_ref_usfm": "ISA 2:6"
+},
+{
+"start_ref": "30009007",
+"start_ref_usfm": "AMO 9:7",
+"end_ref": "30009007",
+"end_ref_usfm": "AMO 9:7"
+},
+{
+"start_ref": "09021010",
+"start_ref_usfm": "1SA 21:10",
+"end_ref": "09021015",
+"end_ref_usfm": "1SA 21:15"
+},
+{
+"start_ref": "09031001",
+"start_ref_usfm": "1SA 31:1",
+"end_ref": "09031013",
+"end_ref_usfm": "1SA 31:13"
+},
+{
+"start_ref": "09013019",
+"start_ref_usfm": "1SA 13:19",
+"end_ref": "09013022",
+"end_ref_usfm": "1SA 13:22"
+},
+{
+"start_ref": "01010013",
+"start_ref_usfm": "GEN 10:13",
+"end_ref": "01010014",
+"end_ref_usfm": "GEN 10:14"
+},
+{
+"start_ref": "07013001",
+"start_ref_usfm": "JDG 13:1",
+"end_ref": "07016031",
+"end_ref_usfm": "JDG 16:31"
+},
+{
+"start_ref": "09027001",
+"start_ref_usfm": "1SA 27:1",
+"end_ref": "09027012",
+"end_ref_usfm": "1SA 27:12"
+},
+{
+"start_ref": "14021016",
+"start_ref_usfm": "2CH 21:16",
+"end_ref": "14021017",
+"end_ref_usfm": "2CH 21:17"
+},
+{
+"start_ref": "26025015",
+"start_ref_usfm": "EZK 25:15",
+"end_ref": "26025017",
+"end_ref_usfm": "EZK 25:17"
+},
+{
+"start_ref": "09029001",
+"start_ref_usfm": "1SA 29:1",
+"end_ref": "09029011",
+"end_ref_usfm": "1SA 29:11"
+},
+{
+"start_ref": "09023001",
+"start_ref_usfm": "1SA 23:1",
+"end_ref": "09023005",
+"end_ref_usfm": "1SA 23:5"
+},
+{
+"start_ref": "10005017",
+"start_ref_usfm": "2SA 5:17",
+"end_ref": "10005025",
+"end_ref_usfm": "2SA 5:25"
+},
+{
+"start_ref": "14026006",
+"start_ref_usfm": "2CH 26:6",
+"end_ref": "14026007",
+"end_ref_usfm": "2CH 26:7"
+},
+{
+"start_ref": "10021015",
+"start_ref_usfm": "2SA 21:15",
+"end_ref": "10021022",
+"end_ref_usfm": "2SA 21:22"
+},
+{
+"start_ref": "14017010",
+"start_ref_usfm": "2CH 17:10",
+"end_ref": "14017011",
+"end_ref_usfm": "2CH 17:11"
+},
+{
+"start_ref": "07003001",
+"start_ref_usfm": "JDG 3:1",
+"end_ref": "07003003",
+"end_ref_usfm": "JDG 3:3"
+},
+{
+"start_ref": "09018020",
+"start_ref_usfm": "1SA 18:20",
+"end_ref": "09018030",
+"end_ref_usfm": "1SA 18:30"
+},
+{
+"start_ref": "09004010",
+"start_ref_usfm": "1SA 4:10",
+"end_ref": "09004022",
+"end_ref_usfm": "1SA 4:22"
+},
+{
+"start_ref": "09017032",
+"start_ref_usfm": "1SA 17:32",
+"end_ref": "09017058",
+"end_ref_usfm": "1SA 17:58"
+},
+{
+"start_ref": "09023026",
+"start_ref_usfm": "1SA 23:26",
+"end_ref": "09023028",
+"end_ref_usfm": "1SA 23:28"
+},
+{
+"start_ref": "30001006",
+"start_ref_usfm": "AMO 1:6",
+"end_ref": "30001008",
+"end_ref_usfm": "AMO 1:8"
+},
+{
+"start_ref": "09005001",
+"start_ref_usfm": "1SA 5:1",
+"end_ref": "09006018",
+"end_ref_usfm": "1SA 6:18"
+},
+{
+"start_ref": "09013016",
+"start_ref_usfm": "1SA 13:16",
+"end_ref": "09014023",
+"end_ref_usfm": "1SA 14:23"
+},
+{
+"start_ref": "09031001",
+"start_ref_usfm": "1SA 31:1",
+"end_ref": "09031010",
+"end_ref_usfm": "1SA 31:10"
+},
+{
+"start_ref": "14028018",
+"start_ref_usfm": "2CH 28:18",
+"end_ref": "14028019",
+"end_ref_usfm": "2CH 28:19"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "653365",
+"reference_id": 203478,
+"version": "1.0.4",
+"title": "Orang-orang Farisi",
+"media_type": "Text",
+"index_reference": "orangorang farisi",
+"language": "ind",
+"review_level": "Professional",
+"content": "<p>Orang Farisi adalah salah satu dari tiga kelompok utama Yahudi, bersama dengan orang-orang Saduki dan Esseni. Berbeda dengan beberapa kelompok lain, orang-orang Farisi tidak berusaha meraih kekuasaan politik. Mereka berawal dari kelompok yang disebut <em>hasidim</em> (orang-orang saleh), yang menentang pencampuran budaya dan agama Yunani dengan Yudaisme pada abad kedua sebelum Masehi.</p><p>Orang-orang Farisi berupaya menjadikan hukum Perjanjian Lama lebih praktis bagi orang Yahudi yang ingin mematuhinya. Mereka menekankan Hukum Musa (<em>yang disebut Taurat</em>) dan tradisi lisan yang menurut mereka diwariskan oleh Musa. Tujuan mereka adalah melindungi hukum tertulis dari pelanggaran apa pun. Mereka dikenal sebagai orang yang saleh dan taat pada hukum.</p><p>Orang-orang Farisi membagikan penafsiran mereka tentang hukum secara lisan dari satu generasi ke generasi berikutnya. Hal ini menciptakan sebuah tradisi mengenai masalah hukum. Mereka membuat hukum menjadi relevan dengan menetapkan pedoman khusus untuk berbagai situasi. Mereka percaya bahwa jika semua orang mengikuti hukum Taurat, bangsa itu akan bebas dari dosa, dan Allah akan memerintah atas semua bangsa. Tujuan masa depan ini memotivasi fokus mereka pada ketaatan. Tradisi orang Farisi kemudian menjadi tulisan-tulisan rabi yang dikenal sebagai <em>Mishnah</em> dan <em>Talmud</em>.</p><p>Orang-orang Farisi merupakan kelompok kecil, tetapi mereka memiliki pengaruh besar di Israel (lihat <data class=\"bible-ref\" data-start-ref=\"40015012\" data-end-ref=\"40015014\">Matius 15:12–14</data>; juga lihat Yosefus, <em>War</em> 2.8.14; <em>Antiquities</em> 13.10.5). Mereka terutama mempengaruhi komunitas sinagoge lokal. Akan tetapi, orang-orang Saduki lebih berpengaruh dalam ibadah di Bait Allah di Yerusalem dan di Mahkamah Agama, dewan tinggi Yahudi.</p><p>Tidak seperti orang Saduki, orang Farisi sangat percaya pada kebangkitan orang mati (lihat <data class=\"bible-ref\" data-start-ref=\"44023006\" data-end-ref=\"44023008\">Kisah Para Rasul 23:6–8</data>). Setelah kehancuran Yerusalem pada tahun 70 M, orang-orang Farisi memimpin dan membimbing orang-orang Israel.</p><p>Sering terjadi konflik antara Yesus dan orang-orang Farisi. Yesus menuduh mereka munafik (mengatakan satu hal tetapi melakukan hal yang lain) dan memprioritaskan aturan manusia di atas standar kebenaran Allah. Dia menentang mereka karena mereka membawa orang menjauh dari rencana penebusan Allah. Meskipun mereka adalah pemimpin agama Israel, Yesus mengkritik mereka sebagai orang munafik karena memutarbalikkan ajaran dan praktik (lihat <data class=\"bible-ref\" data-start-ref=\"40023001\" data-end-ref=\"40023039\">Matius 23</data>). Orang-orang Farisi menentang Yesus. Mereka menolak Dia dan pekerjaan-Nya terutama karena Dia mengabaikan tradisi mereka (lihat, misalnya, <data class=\"bible-ref\" data-start-ref=\"40015001\" data-end-ref=\"40015020\">Matius 15:1–20</data>).</p><p><u>Ayat-ayat untuk Pembelajaran Lebih Lanjut</u></p><p><data class=\"bible-ref\" data-start-ref=\"40003007\" data-end-ref=\"40003007\">Matius 3:7</data>; <data class=\"bible-ref\" data-start-ref=\"40005020\" data-end-ref=\"40005020\">5:20</data>; <data class=\"bible-ref\" data-start-ref=\"40009010\" data-end-ref=\"40009014\">9:10–14</data>, <data class=\"bible-ref\" data-start-ref=\"40009034\" data-end-ref=\"40009034\">34</data>; <data class=\"bible-ref\" data-start-ref=\"40012001\" data-end-ref=\"40012014\">12:1–14</data>, <data class=\"bible-ref\" data-start-ref=\"40012022\" data-end-ref=\"40012024\">22–24</data>, <data class=\"bible-ref\" data-start-ref=\"40012038\" data-end-ref=\"40012040\">38–40</data>; <data class=\"bible-ref\" data-start-ref=\"40015001\" data-end-ref=\"40015014\">15:1–14</data>; <data class=\"bible-ref\" data-start-ref=\"40016001\" data-end-ref=\"40016012\">16:1–12</data>; <data class=\"bible-ref\" data-start-ref=\"40019003\" data-end-ref=\"40019003\">19:3</data>; <data class=\"bible-ref\" data-start-ref=\"40021045\" data-end-ref=\"40021045\">21:45</data>; <data class=\"bible-ref\" data-start-ref=\"40022015\" data-end-ref=\"40022015\">22:15</data>, <data class=\"bible-ref\" data-start-ref=\"40022034\" data-end-ref=\"40022034\">34</data>; <data class=\"bible-ref\" data-start-ref=\"40023001\" data-end-ref=\"40023007\">23:1–7</data>, <data class=\"bible-ref\" data-start-ref=\"40023013\" data-end-ref=\"40023031\">13–31</data>; <data class=\"bible-ref\" data-start-ref=\"40027062\" data-end-ref=\"40027064\">27:62–64</data>; <data class=\"bible-ref\" data-start-ref=\"41002023\" data-end-ref=\"41002025\">Markus 2:23–25</data>; <data class=\"bible-ref\" data-start-ref=\"41003001\" data-end-ref=\"41003006\">3:1–6</data>; <data class=\"bible-ref\" data-start-ref=\"41007001\" data-end-ref=\"41007013\">7:1–13</data>; <data class=\"bible-ref\" data-start-ref=\"41008011\" data-end-ref=\"41008012\">8:11–12</data>; <data class=\"bible-ref\" data-start-ref=\"41012013\" data-end-ref=\"41012017\">12:13–17</data>; <data class=\"bible-ref\" data-start-ref=\"42005017\" data-end-ref=\"42005021\">Lukas 5:17–21</data>, <data class=\"bible-ref\" data-start-ref=\"42005029\" data-end-ref=\"42005032\">29–32</data>; <data class=\"bible-ref\" data-start-ref=\"42006006\" data-end-ref=\"42006011\">6:6–11</data>; <data class=\"bible-ref\" data-start-ref=\"42007028\" data-end-ref=\"42007030\">7:28–30</data>, <data class=\"bible-ref\" data-start-ref=\"42007036\" data-end-ref=\"42007049\">36–49</data>; <data class=\"bible-ref\" data-start-ref=\"42011037\" data-end-ref=\"42011054\">11:37–54</data>; <data class=\"bible-ref\" data-start-ref=\"42012001\" data-end-ref=\"42012003\">12:1–3</data>; <data class=\"bible-ref\" data-start-ref=\"42013031\" data-end-ref=\"42013031\">13:31</data>; <data class=\"bible-ref\" data-start-ref=\"42014001\" data-end-ref=\"42014006\">14:1–6</data>; <data class=\"bible-ref\" data-start-ref=\"42015001\" data-end-ref=\"42015002\">15:1–2</data>; <data class=\"bible-ref\" data-start-ref=\"42016013\" data-end-ref=\"42016015\">16:13–15</data>; <data class=\"bible-ref\" data-start-ref=\"42017020\" data-end-ref=\"42017021\">17:20–21</data>; <data class=\"bible-ref\" data-start-ref=\"42018009\" data-end-ref=\"42018014\">18:9–14</data>; <data class=\"bible-ref\" data-start-ref=\"42019038\" data-end-ref=\"42019040\">19:38–40</data>; <data class=\"bible-ref\" data-start-ref=\"43001024\" data-end-ref=\"43001025\">Yohanes 1:24–25</data>; <data class=\"bible-ref\" data-start-ref=\"43003001\" data-end-ref=\"43003001\">3:1</data>; <data class=\"bible-ref\" data-start-ref=\"43007031\" data-end-ref=\"43007032\">7:31–32</data>, <data class=\"bible-ref\" data-start-ref=\"43007045\" data-end-ref=\"43007052\">45–52</data>; <data class=\"bible-ref\" data-start-ref=\"43008003\" data-end-ref=\"43008010\">8:3–10</data>, <data class=\"bible-ref\" data-start-ref=\"43008013\" data-end-ref=\"43008013\">13</data>; <data class=\"bible-ref\" data-start-ref=\"43009013\" data-end-ref=\"43009034\">9:13–34</data>, <data class=\"bible-ref\" data-start-ref=\"43009040\" data-end-ref=\"43009040\">40</data>; <data class=\"bible-ref\" data-start-ref=\"43011046\" data-end-ref=\"43011057\">11:46–57</data>; <data class=\"bible-ref\" data-start-ref=\"43012017\" data-end-ref=\"43012019\">12:17–19</data>, <data class=\"bible-ref\" data-start-ref=\"43012042\" data-end-ref=\"43012042\">42</data>; <data class=\"bible-ref\" data-start-ref=\"43018003\" data-end-ref=\"43018003\">18:3</data>; <data class=\"bible-ref\" data-start-ref=\"44005027\" data-end-ref=\"44005040\">Kisah Para Rasul 5:27–40</data>; <data class=\"bible-ref\" data-start-ref=\"44015005\" data-end-ref=\"44015005\">15:5</data>; <data class=\"bible-ref\" data-start-ref=\"44023006\" data-end-ref=\"44023010\">23:6–10</data>; <data class=\"bible-ref\" data-start-ref=\"44026004\" data-end-ref=\"44026005\">26:4–5</data>; <data class=\"bible-ref\" data-start-ref=\"50003005\" data-end-ref=\"50003007\">Filipi 3:5–7</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40003007",
+"start_ref_usfm": "MAT 3:7",
+"end_ref": "40003007",
+"end_ref_usfm": "MAT 3:7"
+},
+{
+"start_ref": "40005020",
+"start_ref_usfm": "MAT 5:20",
+"end_ref": "40005020",
+"end_ref_usfm": "MAT 5:20"
+},
+{
+"start_ref": "40009034",
+"start_ref_usfm": "MAT 9:34",
+"end_ref": "40009034",
+"end_ref_usfm": "MAT 9:34"
+},
+{
+"start_ref": "40019003",
+"start_ref_usfm": "MAT 19:3",
+"end_ref": "40019003",
+"end_ref_usfm": "MAT 19:3"
+},
+{
+"start_ref": "40021045",
+"start_ref_usfm": "MAT 21:45",
+"end_ref": "40021045",
+"end_ref_usfm": "MAT 21:45"
+},
+{
+"start_ref": "40022015",
+"start_ref_usfm": "MAT 22:15",
+"end_ref": "40022015",
+"end_ref_usfm": "MAT 22:15"
+},
+{
+"start_ref": "40022034",
+"start_ref_usfm": "MAT 22:34",
+"end_ref": "40022034",
+"end_ref_usfm": "MAT 22:34"
+},
+{
+"start_ref": "42013031",
+"start_ref_usfm": "LUK 13:31",
+"end_ref": "42013031",
+"end_ref_usfm": "LUK 13:31"
+},
+{
+"start_ref": "43003001",
+"start_ref_usfm": "JHN 3:1",
+"end_ref": "43003001",
+"end_ref_usfm": "JHN 3:1"
+},
+{
+"start_ref": "43008013",
+"start_ref_usfm": "JHN 8:13",
+"end_ref": "43008013",
+"end_ref_usfm": "JHN 8:13"
+},
+{
+"start_ref": "43009040",
+"start_ref_usfm": "JHN 9:40",
+"end_ref": "43009040",
+"end_ref_usfm": "JHN 9:40"
+},
+{
+"start_ref": "43012042",
+"start_ref_usfm": "JHN 12:42",
+"end_ref": "43012042",
+"end_ref_usfm": "JHN 12:42"
+},
+{
+"start_ref": "43018003",
+"start_ref_usfm": "JHN 18:3",
+"end_ref": "43018003",
+"end_ref_usfm": "JHN 18:3"
+},
+{
+"start_ref": "44015005",
+"start_ref_usfm": "ACT 15:5",
+"end_ref": "44015005",
+"end_ref_usfm": "ACT 15:5"
+},
+{
+"start_ref": "40016001",
+"start_ref_usfm": "MAT 16:1",
+"end_ref": "40016012",
+"end_ref_usfm": "MAT 16:12"
+},
+{
+"start_ref": "41012013",
+"start_ref_usfm": "MRK 12:13",
+"end_ref": "41012017",
+"end_ref_usfm": "MRK 12:17"
+},
+{
+"start_ref": "44026004",
+"start_ref_usfm": "ACT 26:4",
+"end_ref": "44026005",
+"end_ref_usfm": "ACT 26:5"
+},
+{
+"start_ref": "44005027",
+"start_ref_usfm": "ACT 5:27",
+"end_ref": "44005040",
+"end_ref_usfm": "ACT 5:40"
+},
+{
+"start_ref": "40015001",
+"start_ref_usfm": "MAT 15:1",
+"end_ref": "40015020",
+"end_ref_usfm": "MAT 15:20"
+},
+{
+"start_ref": "41003001",
+"start_ref_usfm": "MRK 3:1",
+"end_ref": "41003006",
+"end_ref_usfm": "MRK 3:6"
+},
+{
+"start_ref": "41007001",
+"start_ref_usfm": "MRK 7:1",
+"end_ref": "41007013",
+"end_ref_usfm": "MRK 7:13"
+},
+{
+"start_ref": "42017020",
+"start_ref_usfm": "LUK 17:20",
+"end_ref": "42017021",
+"end_ref_usfm": "LUK 17:21"
+},
+{
+"start_ref": "40023001",
+"start_ref_usfm": "MAT 23:1",
+"end_ref": "40023039",
+"end_ref_usfm": "MAT 23:39"
+},
+{
+"start_ref": "40012001",
+"start_ref_usfm": "MAT 12:1",
+"end_ref": "40012014",
+"end_ref_usfm": "MAT 12:14"
+},
+{
+"start_ref": "41008011",
+"start_ref_usfm": "MRK 8:11",
+"end_ref": "41008012",
+"end_ref_usfm": "MRK 8:12"
+},
+{
+"start_ref": "40012022",
+"start_ref_usfm": "MAT 12:22",
+"end_ref": "40012024",
+"end_ref_usfm": "MAT 12:24"
+},
+{
+"start_ref": "40012038",
+"start_ref_usfm": "MAT 12:38",
+"end_ref": "40012040",
+"end_ref_usfm": "MAT 12:40"
+},
+{
+"start_ref": "42018009",
+"start_ref_usfm": "LUK 18:9",
+"end_ref": "42018014",
+"end_ref_usfm": "LUK 18:14"
+},
+{
+"start_ref": "44023006",
+"start_ref_usfm": "ACT 23:6",
+"end_ref": "44023008",
+"end_ref_usfm": "ACT 23:8"
+},
+{
+"start_ref": "42006006",
+"start_ref_usfm": "LUK 6:6",
+"end_ref": "42006011",
+"end_ref_usfm": "LUK 6:11"
+},
+{
+"start_ref": "42015001",
+"start_ref_usfm": "LUK 15:1",
+"end_ref": "42015002",
+"end_ref_usfm": "LUK 15:2"
+},
+{
+"start_ref": "43012017",
+"start_ref_usfm": "JHN 12:17",
+"end_ref": "43012019",
+"end_ref_usfm": "JHN 12:19"
+},
+{
+"start_ref": "43007045",
+"start_ref_usfm": "JHN 7:45",
+"end_ref": "43007052",
+"end_ref_usfm": "JHN 7:52"
+},
+{
+"start_ref": "42005029",
+"start_ref_usfm": "LUK 5:29",
+"end_ref": "42005032",
+"end_ref_usfm": "LUK 5:32"
+},
+{
+"start_ref": "43001024",
+"start_ref_usfm": "JHN 1:24",
+"end_ref": "43001025",
+"end_ref_usfm": "JHN 1:25"
+},
+{
+"start_ref": "42011037",
+"start_ref_usfm": "LUK 11:37",
+"end_ref": "42011054",
+"end_ref_usfm": "LUK 11:54"
+},
+{
+"start_ref": "43009013",
+"start_ref_usfm": "JHN 9:13",
+"end_ref": "43009034",
+"end_ref_usfm": "JHN 9:34"
+},
+{
+"start_ref": "43011046",
+"start_ref_usfm": "JHN 11:46",
+"end_ref": "43011057",
+"end_ref_usfm": "JHN 11:57"
+},
+{
+"start_ref": "40027062",
+"start_ref_usfm": "MAT 27:62",
+"end_ref": "40027064",
+"end_ref_usfm": "MAT 27:64"
+},
+{
+"start_ref": "44023006",
+"start_ref_usfm": "ACT 23:6",
+"end_ref": "44023010",
+"end_ref_usfm": "ACT 23:10"
+},
+{
+"start_ref": "42014001",
+"start_ref_usfm": "LUK 14:1",
+"end_ref": "42014006",
+"end_ref_usfm": "LUK 14:6"
+},
+{
+"start_ref": "40015012",
+"start_ref_usfm": "MAT 15:12",
+"end_ref": "40015014",
+"end_ref_usfm": "MAT 15:14"
+},
+{
+"start_ref": "40009010",
+"start_ref_usfm": "MAT 9:10",
+"end_ref": "40009014",
+"end_ref_usfm": "MAT 9:14"
+},
+{
+"start_ref": "40015001",
+"start_ref_usfm": "MAT 15:1",
+"end_ref": "40015014",
+"end_ref_usfm": "MAT 15:14"
+},
+{
+"start_ref": "40023001",
+"start_ref_usfm": "MAT 23:1",
+"end_ref": "40023007",
+"end_ref_usfm": "MAT 23:7"
+},
+{
+"start_ref": "40023013",
+"start_ref_usfm": "MAT 23:13",
+"end_ref": "40023031",
+"end_ref_usfm": "MAT 23:31"
+},
+{
+"start_ref": "41002023",
+"start_ref_usfm": "MRK 2:23",
+"end_ref": "41002025",
+"end_ref_usfm": "MRK 2:25"
+},
+{
+"start_ref": "42005017",
+"start_ref_usfm": "LUK 5:17",
+"end_ref": "42005021",
+"end_ref_usfm": "LUK 5:21"
+},
+{
+"start_ref": "42007028",
+"start_ref_usfm": "LUK 7:28",
+"end_ref": "42007030",
+"end_ref_usfm": "LUK 7:30"
+},
+{
+"start_ref": "42007036",
+"start_ref_usfm": "LUK 7:36",
+"end_ref": "42007049",
+"end_ref_usfm": "LUK 7:49"
+},
+{
+"start_ref": "42012001",
+"start_ref_usfm": "LUK 12:1",
+"end_ref": "42012003",
+"end_ref_usfm": "LUK 12:3"
+},
+{
+"start_ref": "42016013",
+"start_ref_usfm": "LUK 16:13",
+"end_ref": "42016015",
+"end_ref_usfm": "LUK 16:15"
+},
+{
+"start_ref": "42019038",
+"start_ref_usfm": "LUK 19:38",
+"end_ref": "42019040",
+"end_ref_usfm": "LUK 19:40"
+},
+{
+"start_ref": "43007031",
+"start_ref_usfm": "JHN 7:31",
+"end_ref": "43007032",
+"end_ref_usfm": "JHN 7:32"
+},
+{
+"start_ref": "43008003",
+"start_ref_usfm": "JHN 8:3",
+"end_ref": "43008010",
+"end_ref_usfm": "JHN 8:10"
+},
+{
+"start_ref": "50003005",
+"start_ref_usfm": "PHP 3:5",
+"end_ref": "50003007",
+"end_ref_usfm": "PHP 3:7"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "653368",
+"reference_id": 203481,
+"version": "1.0.4",
+"title": "Orang-orang Saduki",
+"media_type": "Text",
+"index_reference": "orangorang saduki",
+"language": "ind",
+"review_level": "Professional",
+"content": "<p>Orang-orang Saduki adalah kelompok Yahudi penting yang terdiri dari para imam dan keluarga mereka. Mereka berbeda dari orang-orang Farisi, kelompok Yahudi lainnya, karena orang-orang Farisi adalah orang-orang biasa (&quot;awam&quot;) yang bukan imam. Mereka kemungkinan tinggal di dekat Yerusalem dan mengendalikan sistem bait suci (<data class=\"bible-ref\" data-start-ref=\"44004001\" data-end-ref=\"44004002\">Kisah Para Rasul 4:1–2</data>; <data class=\"bible-ref\" data-start-ref=\"44005017\" data-end-ref=\"44005017\">5:17</data>). Para pemimpin yang kuat dan kaya ini (aristokrat) bertindak sebagai perantara antara Roma dan Israel (lihat Yosefus, <em>Antiquities</em> 13.10.6; <em>War</em> 2.10.5). Mereka tidak memiliki banyak dukungan atau pengaruh di kalangan masyarakat (Yosefus, <em>Antiquities</em> 18.1.4).</p><p>Istilah <em>Saduki</em> mungkin berasal dari <em>Zadok,</em> imam besar pada masa pemerintahan Raja Daud dan Raja Salomo (<data class=\"bible-ref\" data-start-ref=\"10008017\" data-end-ref=\"10008017\">2 Samuel 8:17</data>; <data class=\"bible-ref\" data-start-ref=\"10015024\" data-end-ref=\"10015024\">15:24</data>; <data class=\"bible-ref\" data-start-ref=\"11001008\" data-end-ref=\"11001008\">1 Raja-raja 1:8</data>;<data class=\"bible-ref\" data-start-ref=\"11001032\" data-end-ref=\"11001048\"> 32–48</data>). Kedua kata tersebut memiliki akar Ibrani yang sama. Penyebutan sejarah paling awal tentang orang-orang Saduki adalah pada masa pemerintahan Yohanes Hyrcanus, dari tahun 135 hingga 104 SM, keturunan Makabe (Yosefus, <em>Antiquities</em> 13.10.6), tetapi mereka jelas sudah ada sebelumnya.</p><p>Pandangan mereka tentang Allah sering berbeda dari pandangan orang-orang Farisi (<data class=\"bible-ref\" data-start-ref=\"44023008\" data-end-ref=\"44023008\">Kisah Para Rasul 23:8</data>; lihat juga <data class=\"bible-ref\" data-start-ref=\"44004001\" data-end-ref=\"44004002\">Kisah Para Rasul 4:1–2</data>). Orang-orang Saduki memberikan otoritas utama kepada Pentateukh. Mereka menolak tradisi lisan yang dihargai oleh orang-orang Farisi. Berbeda dengan orang-orang Farisi, orang-orang Saduki tidak percaya pada:</p><ul><li><p>Kebangkitan orang mati (lihat <data class=\"bible-ref\" data-start-ref=\"40022023\" data-end-ref=\"40022033\">Matius 22:23–33</data>),</p></li><li><p>malaikat (lihat <data class=\"bible-ref\" data-start-ref=\"44023008\" data-end-ref=\"44023008\">Kisah Para Rasul 23:8</data>), atau</p></li><li><p>konsep pengadilan terakhir.</p></li></ul><p>Namun, orang-orang Farisi sangat percaya pada kebangkitan (hidup kembali setelah kematian). Mereka bahkan mendukung Paulus melawan orang-orang Saduki ketika dia diadili karena diduga mengganggu bait suci (<data class=\"bible-ref\" data-start-ref=\"44023006\" data-end-ref=\"44023010\">Kisah Para Rasul 23:6–10</data>).</p><p>Terlepas dari perbedaan mereka, orang-orang Farisi dan Saduki bersatu melawan Yesus. Orang-orang Farisi menentang Yesus karena Dia tidak mengikuti tradisi lisan mereka. Orang-orang Saduki menentangnya karena Dia percaya pada malaikat, setan, penghakiman terakhir, dan kebangkitan.</p><p>Ketika kuil dihancurkan pada tahun 70 M, Orang-orang Saduki pun lenyap. Mereka tidak meninggalkan catatan tertulis. Semua pengetahuan kita tentang orang-orang Saduki berasal dari lawan-lawan mereka, sehingga pemahaman kita tentang mereka terbatas.</p><p><u>Ayat-ayat untuk Pembelajaran Lebih Lanjut</u></p><p><data class=\"bible-ref\" data-start-ref=\"40003007\" data-end-ref=\"40003007\">Matius 3:7</data>; <data class=\"bible-ref\" data-start-ref=\"40016001\" data-end-ref=\"40016012\">16:1–12</data>; <data class=\"bible-ref\" data-start-ref=\"40022023\" data-end-ref=\"40022033\">22:23–33</data>; <data class=\"bible-ref\" data-start-ref=\"41012018\" data-end-ref=\"41012027\">Markus 12:18–27</data>; <data class=\"bible-ref\" data-start-ref=\"42020027\" data-end-ref=\"42020040\">Lukas 20:27–40</data>; <data class=\"bible-ref\" data-start-ref=\"44004001\" data-end-ref=\"44004002\">Kisah Para Rasul 4:1–2</data>; <data class=\"bible-ref\" data-start-ref=\"44005017\" data-end-ref=\"44005018\">5:17–18</data>; <data class=\"bible-ref\" data-start-ref=\"44023006\" data-end-ref=\"44023010\">23:6–10</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "10008017",
+"start_ref_usfm": "2SA 8:17",
+"end_ref": "10008017",
+"end_ref_usfm": "2SA 8:17"
+},
+{
+"start_ref": "10015024",
+"start_ref_usfm": "2SA 15:24",
+"end_ref": "10015024",
+"end_ref_usfm": "2SA 15:24"
+},
+{
+"start_ref": "11001008",
+"start_ref_usfm": "1KI 1:8",
+"end_ref": "11001008",
+"end_ref_usfm": "1KI 1:8"
+},
+{
+"start_ref": "40003007",
+"start_ref_usfm": "MAT 3:7",
+"end_ref": "40003007",
+"end_ref_usfm": "MAT 3:7"
+},
+{
+"start_ref": "44005017",
+"start_ref_usfm": "ACT 5:17",
+"end_ref": "44005017",
+"end_ref_usfm": "ACT 5:17"
+},
+{
+"start_ref": "44023008",
+"start_ref_usfm": "ACT 23:8",
+"end_ref": "44023008",
+"end_ref_usfm": "ACT 23:8"
+},
+{
+"start_ref": "40016001",
+"start_ref_usfm": "MAT 16:1",
+"end_ref": "40016012",
+"end_ref_usfm": "MAT 16:12"
+},
+{
+"start_ref": "41012018",
+"start_ref_usfm": "MRK 12:18",
+"end_ref": "41012027",
+"end_ref_usfm": "MRK 12:27"
+},
+{
+"start_ref": "40022023",
+"start_ref_usfm": "MAT 22:23",
+"end_ref": "40022033",
+"end_ref_usfm": "MAT 22:33"
+},
+{
+"start_ref": "42020027",
+"start_ref_usfm": "LUK 20:27",
+"end_ref": "42020040",
+"end_ref_usfm": "LUK 20:40"
+},
+{
+"start_ref": "44005017",
+"start_ref_usfm": "ACT 5:17",
+"end_ref": "44005018",
+"end_ref_usfm": "ACT 5:18"
+},
+{
+"start_ref": "44004001",
+"start_ref_usfm": "ACT 4:1",
+"end_ref": "44004002",
+"end_ref_usfm": "ACT 4:2"
+},
+{
+"start_ref": "44023006",
+"start_ref_usfm": "ACT 23:6",
+"end_ref": "44023010",
+"end_ref_usfm": "ACT 23:10"
+},
+{
+"start_ref": "11001032",
+"start_ref_usfm": "1KI 1:32",
+"end_ref": "11001048",
+"end_ref_usfm": "1KI 1:48"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "653359",
+"reference_id": 203472,
+"version": "1.0.4",
+"title": "Orang-orang Yunani",
+"media_type": "Text",
+"index_reference": "orangorang yunani",
+"language": "ind",
+"review_level": "Professional",
+"content": "<p>Peradaban Yunani memiliki peran penting di dunia kuno. Budaya Yunani sangat mempengaruhi dunia selama masa kelahiran Yesus dan penulisan Perjanjian Baru.</p><p><strong>Peradaban Mykenai (1450 hingga 1200 SM)</strong></p><p>Orang-orang Mykenai hidup selama “zaman kepahlawanan”, antara 1450 hingga 1200 SM.  Periode ini disebut “zaman kepahlawanan” karena pada masa ini banyak kisah-kisah Yunani yang terkenal tentang para pahlawan dan pertempuran besar yang terjadi. Kisah-kisah ini kemudian dituliskan oleh Homer dalam puisi-puisi panjangnya. Peradaban mereka berpusat di Mykenai, sekitar tiga puluh mil di selatan Korintus. Orang-orang Mykenai berdagang secara luas dan sangat ahli dalam peperangan. Dewa-dewa dan mitos Yunani yang dikenal dari tulisan-tulisan selanjutnya bermula dari Yunani Mykenai. Dokumen-dokumen Mykenai ditulis dalam Linear B, sebuah aksara yang menggunakan suku kata.</p><p>Peradaban Mykenai berakhir dengan kejam sekitar tahun 1200 SM akibat serangan orang Dorian. Abad-abad berikutnya dikenal sebagai “Abad Kegelapan Yunani”. Selama periode ini, orang-orang berhenti menggunakan aksara Linear B, dan tidak ada catatan tertulis.</p><h3>Zaman Arkais, Negara-Kota (850–546 SM)</h3><p>Pada akhirnya, kota-kota dan desa-desa di Yunani diorganisir menjadi negara-kota yang menguasai wilayah yang luas. Selama masa ini, orang-orang Yunani mulai lebih banyak bekerja sama dan berbagi identitas bersama. Sebagai contoh, mereka menyelenggarakan Olimpiade pertama pada tahun 776 SM.</p><p>Seiring dengan berkembangnya perdagangan dengan daerah-daerah sekitar, orang-orang Yunani bertemu dengan orang Fenisia dan mengadopsi sistem penulisan mereka. Homer menulis <em>Iliad</em> dan <em>Odyssey</em>, yang menceritakan kisah-kisah dan mitos peradaban Mykenai sebelumnya serta dewa-dewa mereka.</p><p>Banyak negara kota bergantung pada pemimpin yang kuat yang disebut tiran. Para pemimpin ini membantu menjaga ketertiban dan perdamaian di kota-kota mereka. (Kata Yunani untuk para penguasa ini adalah <em>tyrannos</em>.) Banyak daerah menuliskan hukum dasar mereka dalam sebuah dokumen yang disebut konstitusi. Hal ini membantu menciptakan aturan yang jelas untuk memerintah. Di Atena, sekelompok kecil orang berkuasa yang disebut Dewan Areopagus memerintah kota. Jenis pemerintahan ini disebut oligarki. Kemudian, seorang pemimpin bernama Solon membuat perubahan penting pada cara Atena memerintah. Perubahan ini membuat Atena mengadopsi demokrasi dalam pemerintahannya, di mana warga dapat memilih dan berpartisipasi dalam pengambilan keputusan.</p><h3>Perang Persia, Periode Klasik (546 hingga 336 SM)</h3><p>Pada tahun 546 SM, Koresh yang Agung dari Persia menguasai koloni-koloni Yunani di Asia Kecil. Sekitar tahun 500 SM, Ionia mencoba memberontak tetapi gagal. Hal ini mendorong Darius I menyerang daratan Yunani pada tahun 492 SM. Selama peperangan berikutnya, meskipun sering kalah jumlah, orang-orang Yunani menggunakan keterampilan dan strategi yang lebih baik untuk mengalahkan Persia. Dalam Pertempuran Marathon pada tahun 490 SM, Yunani berhasil mengalahkan Persia dengan telak. Sepuluh tahun kemudian, pasukan Persia di bawah Xerxes menyeberangi Hellespontus, dan armada mereka yang besar memasuki perairan Yunani. Persia membakar Atena, tetapi akhirnya, Yunani menang, dan Xerxes mundur.</p><p>Setelah Perang Persia berakhir, Atena dibangun kembali dan memasuki masa kejayaan. Pericles memimpin Atena untuk menciptakan demokrasi penuh. Mereka membangun bangunan-bangunan besar di Acropolis. Atena menjadi kaya, dan kekuatan lautnya meningkat. Ini adalah masa keemasan dengan pencapaian besar dalam seni, pemikiran, sastra, dan arsitektur.</p><p><strong>Kekaisaran Makedonia, Peradaban Helenistik (336–146 SM)</strong></p><p>Philip II dari Makedonia ingin membangun sebuah kekaisaran. Dia mengalahkan Atena dan Tebes pada tahun 338 SM dan menyatukan Yunani di bawah Kekaisaran Makedonia. Setelah Filipus dibunuh pada tahun 336 SM, putranya, Alexander, menjadi penguasa. Pada tahun 335 SM, Aleksander menghancurkan Tebes yang telah memberontak. Dia kemudian dengan cepat menaklukkan Babilonia dan Persia (lihat <data class=\"bible-ref\" data-start-ref=\"27008005\" data-end-ref=\"27008008\">Daniel 8:5–8</data>). Ketika Aleksander meninggal secara mendadak pada 323 SM, wilayahnya yang luas dibagi di antara empat jenderal. Setelah beberapa konflik, terbentuklah tiga wilayah utama:</p><ol><li><p>Mesir</p></li><li><p>Asia Kecil, Suriah, dan Babel</p></li><li><p>Makedonia dan Akhaia</p></li></ol><p>Penaklukan-penaklukan Aleksander menyebarkan budaya dan pengaruh Yunani ke seluruh dunia kuno. Benturan antara budaya Yunani dan Yudaisme ini menyebabkan pemberontakan Makabe di Yudea pada tahun 160-an SM.</p><h3>Kekuasaan Romawi (168 SM hingga 330 M)</h3><p>Romawi mulai memperluas kekuasaannya ke Yunani pada tahun 198 SM. Pada tahun 168 SM, Roma mengalahkan Makedonia pada Pertempuran Pydna. Pada tahun 148 SM, Roma telah mencaplok Makedonia sebagai provinsi. Kemudian, pada tahun 146 SM, Roma menghancurkan Korintus. Yunani kini berada di bawah kendali Romawi dan tetap demikian hingga Kaisar Konstantinus menjadikan Bizantium sebagai ibu kota Kekaisaran Romawi pada tahun 330 M. Kebudayaan Yunani dan pemerintahan Romawi menjadi latar belakang kehidupan Yesus dan dimulainya Kekristenan.</p><p><u>Ayat-ayat untuk Pembelajaran Lebih Lanjut</u></p><p><data class=\"bible-ref\" data-start-ref=\"27008005\" data-end-ref=\"27008008\">Daniel 8:5–8</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "27008005",
+"start_ref_usfm": "DAN 8:5",
+"end_ref": "27008008",
+"end_ref_usfm": "DAN 8:8"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.58,
+"match_method": "scored",
+"preferred_label": "Sheep"
+}
+]
+}
+}
+]

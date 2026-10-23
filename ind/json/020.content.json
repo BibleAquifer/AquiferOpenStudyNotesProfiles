@@ -1,0 +1,37 @@
+[
+{
+"content_id": "653350",
+"reference_id": 203463,
+"version": "1.0.4",
+"title": "Xerxes I",
+"media_type": "Text",
+"index_reference": "xerxes i",
+"language": "ind",
+"review_level": "Professional",
+"content": "<p>Xerxes I/Ahasyweros memerintah Kekaisaran Persia dari tahun 486 hingga 465 SM. Dia adalah putra sekaligus penerus Darius I (Histaspes). Ahasyweros mewarisi kekaisaran besar dari ayahnya dan kakeknya dari pihak ibu, Koresh II. Namun, dia mengalami kesulitan dalam memerintah Persia dengan baik karena kekejaman dan ketidakstabilannya.</p><p>Pada awal pemerintahan Ahasyweros, Mesir dan Babel memberontak melawan kekuasaan Persia. Ahasyweros berhasil menghentikan pemberontakan tersebut dan memastikan pendapatan pajak tetap berlanjut. Namun, perlakuannya yang keras terhadap rakyat mulai membangun reputasinya sebagai seorang tiran.</p><p>Pada tahun ketiga pemerintahannya, Ahasyweros mengumpulkan para pemimpinnya untuk merencanakan invasi ke Yunani. (Kitab Ester dimulai dengan perjamuan yang kemungkinan terkait dengan peristiwa ini.) Pada tahun 480 SM, upaya terkenal namun gagal untuk menaklukkan Yunani dimulai. Kekejaman Ahasyweros ditunjukkan dalam dua cerita yang dicatat oleh Herodotus dari kampanye ini. Ketika Ahasyweros dan pasukannya mencapai Hellespont (jalur air yang menghubungkan Laut Hitam dengan Mediterania), para insinyurnya membangun jembatan untuk menyeberang, tetapi badai menghancurkannya. Ahasyweros bereaksi dengan memenggal kepala para insinyur dan mencambuk air sebelum membangun jembatan yang lebih kuat.</p><p>Setelah membakar Athena, armada Ahasyweros kalah di Salamis. Ia kemudian mengeksekusi laksamana armada Fenisia, yang menyebabkan orang Fenisia dan Mesir meninggalkannya. Hanya armada Persia yang tersisa, dan itu dikalahkan oleh orang-orang Yunani pada 479 SM. Ahasyweros harus mundur. Setelah itu, ia fokus pada urusan domestik, seperti proyek pembangunan besar di Susa dan Persepolis, serta peristiwa yang dijelaskan dalam kitab Ester.</p><p>Ahasyweros khawatir tentang pembunuh yang berusaha membunuhnya. Menurut <data class=\"bible-ref\" data-start-ref=\"17002021\" data-end-ref=\"17002023\">Ester 2:21–23</data>, Mordekhai menggagalkan rencana pembunuhan tersebut, yang membuat Ahasyweros secara terbuka menghormatinya. Setelah orang-orang Yunani mengalahkannya lagi di Pertempuran Eurymedon pada 466 SM, dia kehilangan wilayah. Rencana pembunuhan lain oleh pejabat istananya berhasil, dan pemerintahannya berakhir dengan memalukan pada 465 SM.</p><p><u>Ayat-ayat untuk Pembelajaran Lebih Lanjut</u></p><p><data class=\"bible-ref\" data-start-ref=\"15004006\" data-end-ref=\"15004006\">Ezra 4:6</data>; <data class=\"bible-ref\" data-start-ref=\"17001001\" data-end-ref=\"17001022\">Ester 1:1–22</data></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "15004006",
+"start_ref_usfm": "EZR 4:6",
+"end_ref": "15004006",
+"end_ref_usfm": "EZR 4:6"
+},
+{
+"start_ref": "17002021",
+"start_ref_usfm": "EST 2:21",
+"end_ref": "17002023",
+"end_ref_usfm": "EST 2:23"
+},
+{
+"start_ref": "17001001",
+"start_ref_usfm": "EST 1:1",
+"end_ref": "17001022",
+"end_ref_usfm": "EST 1:22"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]
